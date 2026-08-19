@@ -1,0 +1,1 @@
+# mahgpt-affiliate
