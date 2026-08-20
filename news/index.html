@@ -23,7 +23,7 @@
   var imageFor=function(v){return v&&String(v).indexOf("/assets/logos/")!==0?v:"/assets/news-default.svg"};
   var storyUrl=function(n){return "/news/index.html?story="+encodeURIComponent(n.source||"")};
   var why=function(n){if(n.toolName)return "This update matters if you are evaluating "+n.toolName+" for a real creative, marketing, research or production workflow. The MahGPT desk is tracking what changed, who benefits and what to test before paying.";return "This is a timely development in the AI ecosystem. The MahGPT desk is tracking what changed, what is confirmed and what it could mean for people choosing tools today."};
-  var videoId=function(v){var m=String(v||"").match(/(?:youtu\\.be\\/|youtube\\.com\\/(?:watch\\?v=|shorts\\/|embed\\/))([A-Za-z0-9_-]{6,})/);return m?m[1]:""};
+  var videoId=function(v){try{var u=new URL(v);if(u.hostname==="youtu.be")return u.pathname.slice(1);if(u.hostname.indexOf("youtube.com")>-1){var q=u.searchParams.get("v");if(q)return q;var p=u.pathname.split("/");if((p[1]==="embed"||p[1]==="shorts")&&p[2])return p[2]}}catch(e){}return ""};
   function render(items){
     var params=new URLSearchParams(location.search),wanted=params.get("story")||"";
     var story=items.find(function(n){return wanted&&n.source===wanted})||items[0];
