@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-08-20T09:44:01.006Z",
+  "updatedAt": "2026-08-20T12:30:00.000Z",
   "freshnessWindow": "7 days",
-  "sources": [],
-  "items": []
+  "sources": [
+    "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "https://venturebeat.com/category/ai/feed/",
+    "https://www.wired.com/feed/tag/ai/latest/rss",
+    "https://www.theverge.com/rss/index.xml",
+    "https://www.techradar.com/rss",
+    "https://www.macworld.com/feed",
+    "https://www.creativebloq.com/feed",
+    "https://www.artificialintelligence-news.com/feed/",
+    "https://news.google.com/rss/search?q=(Adobe+Firefly+OR+ElevenLabs+OR+Descript+OR+InVideo+OR+Hostinger+OR+Semrush+OR+Surfer+OR+Jasper+OR+Canva+AI+OR+Runway+OR+Create+Music+AI+OR+SOUNDRAW+OR+Steve+AI+OR+HeyGen+OR+Perplexity+OR+Notion+AI)+AI&hl=en-US&gl=US&ceid=US:en"
+  ],
+  "items": [
+    {
+      "tool": "hostinger",
+      "toolName": "Hostinger",
+      "category": "Partner watch",
+      "title": "Hostinger launches a new agentic AI Builder for businesses",
+      "summary": "Hostinger’s new builder moves beyond a generated homepage toward backend systems, ecommerce, embedded AI and marketing workflows.",
+      "guide": "/partners/hostinger.html",
+      "source": "https://www.techradar.com/pro/its-not-about-who-can-generate-a-homepage-in-30-seconds-hostinger-launches-a-new-agentic-ai-builder-helping-businesses-do-more-with-ai",
+      "publishedAt": "2026-08-18T15:10:09.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/h7RUjqRBXm327hrsFX8UwS.jpg"
+    },
+    {
+      "tool": "canva",
+      "toolName": "Canva AI",
+      "category": "Partner watch",
+      "title": "Why Canva is trying to leave its amateur reputation behind",
+      "summary": "Creative Bloq looks at Canva’s professional push, Affinity acquisition and the growing pressure to make AI-powered design feel serious.",
+      "guide": "/tools/canva.html",
+      "source": "https://www.creativebloq.com/design/design-software/why-are-we-still-treating-canva-like-a-dirty-little-secret",
+      "publishedAt": "2026-08-17T09:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MALewXXLaLSgXSZbDoH4L7.jpg"
+    },
+    {
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Adobe Firefly brings AI upscaling into Photoshop and Lightroom workflows",
+      "summary": "The new Firefly Upscale Image workflow is designed to enlarge photographs while keeping the edit inside Adobe’s creative tools.",
+      "guide": "/partners/adobe.html",
+      "source": "https://www.macworld.com/article/3209242/adobe-firefly-upscale-image-ai-powered-resolution-enhancement-built-into-your-photoshop-and-lightroom-workflow.html",
+      "publishedAt": "2026-08-18T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3209242-0-11382600-1787048578-Adobe-Firefly-Upscale-Image-Umbrella.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Adobe Firefly puts multiple leading video models in one workspace",
+      "summary": "Adobe’s Firefly video workflow combines generation, model choice, precision controls and editing in one production environment.",
+      "guide": "/partners/adobe.html",
+      "source": "https://www.macworld.com/article/3209211/adobe-firefly-ai-video-generator-top-models-precision-controls-and-a-production-workflow-all-in-one-place.html",
+      "publishedAt": "2026-08-18T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3209211-0-24621700-1787048544-Adobe-Firefly-AI-videoframe_Dog-Moon.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "perplexity",
+      "toolName": "Perplexity",
+      "category": "Partner watch",
+      "title": "Perplexity’s free AI offer brought millions of new users in India",
+      "summary": "Airtel’s free-year promotion created a sharp download surge, but the next test is whether those users stay when subscriptions renew.",
+      "guide": "/partners/perplexity.html",
+      "source": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "publishedAt": "2026-08-18T08:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/perplexity-app.jpg?w=563"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "AI’s public trust problem is becoming a business problem",
+      "summary": "New polling and public backlash are forcing AI companies to explain how their products improve ordinary life, not only how powerful they are.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "publishedAt": "2026-08-19T19:12:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Vivodyne is building a human-data engine for AI drug discovery",
+      "summary": "The biotech startup says its autonomous tissue labs could provide the causal data current models lack in the search for better medicines.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_0110-rotated.jpg?w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Warp introduces a software factory for agentic development",
+      "summary": "Warp Factories packages the infrastructure, memory, evaluation and monitoring layers companies need to run AI coding agents.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "publishedAt": "2026-08-18T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Warp-Factories-3.png?w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Etched’s AI inference valuation doubles to $21B",
+      "summary": "The chip startup raised another $700 million after investors tested its inference systems, a sign of continued demand for faster AI serving.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "publishedAt": "2026-08-18T17:21:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "OpenAI launches a safer ChatGPT experience for teens",
+      "summary": "The new teen experience adds Study Mode, quizzes, visualizations, family controls and stronger age-appropriate defaults.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "publishedAt": "2026-08-18T13:50:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Still-02-teenStudyHours__2_.webp?w=680"
+    }
+  ]
 }
