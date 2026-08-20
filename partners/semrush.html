@@ -24,6 +24,13 @@
 @media(max-width:1050px){.topbar{gap:14px}.nav{gap:14px}.search{width:160px}}
 @media(max-width:720px){.topbar{height:auto;padding:17px 0;flex-wrap:wrap}.tools{margin-left:auto}.nav{order:3;width:100%;justify-content:space-between;gap:7px;font-size:10px;overflow:auto}.search{display:none}}
 </style>
+<style id="telegram-floating-style">
+.telegram-float{position:fixed;right:22px;bottom:22px;z-index:9999;width:58px;height:58px;border-radius:50%;display:flex!important;align-items:center;justify-content:center;background:#fff;box-shadow:0 8px 26px rgba(16,24,40,.22);transition:transform .2s ease,box-shadow .2s ease}
+.telegram-float:hover{transform:translateY(-4px) scale(1.05);box-shadow:0 12px 30px rgba(16,24,40,.3)}
+.telegram-float img{width:48px;height:48px;display:block}
+a[href="https://t.me/mahgptplus"]:not(.telegram-float){display:none!important}
+@media(max-width:640px){.telegram-float{right:14px;bottom:14px;width:50px;height:50px}.telegram-float img{width:42px;height:42px}}
+</style>
 </head>
 <body>
 <header class="topbar wrap">
@@ -99,4 +106,5 @@
 </section>
 </main>
 <footer class="wrap footer">MahGPT · Independent AI tools guides · <a href="/affiliate-disclosure.html">Disclosure</a> · <a href="https://www.semrush.com/affiliate-program/" target="_blank" rel="noopener">Partner information</a><a href="https://t.me/mahgptplus" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:8px;color:#1687c9;text-decoration:none;font-weight:700"><img src="/assets/telegram.svg" alt="Telegram" width="24" height="24" style="display:block">Find MahGPT on Telegram</a></footer>
+<a class="telegram-float" href="https://t.me/mahgptplus" target="_blank" rel="noopener noreferrer" aria-label="Find MahGPT on Telegram"><img src="/assets/telegram.svg" alt="Telegram"></a>
 </body></html>
