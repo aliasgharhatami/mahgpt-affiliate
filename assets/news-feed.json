@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T12:30:00.000Z",
+  "updatedAt": "2026-08-21T09:00:00.000Z",
   "freshnessWindow": "7 days",
   "sources": [
     "https://techcrunch.com/category/artificial-intelligence/feed/",
@@ -10,7 +10,7 @@
     "https://www.macworld.com/feed",
     "https://www.creativebloq.com/feed",
     "https://www.artificialintelligence-news.com/feed/",
-    "https://news.google.com/rss/search?q=(Adobe+Firefly+OR+ElevenLabs+OR+Descript+OR+InVideo+OR+Hostinger+OR+Semrush+OR+Surfer+OR+Jasper+OR+Canva+AI+OR+Runway+OR+Create+Music+AI+OR+SOUNDRAW+OR+Steve+AI+OR+HeyGen+OR+Perplexity+OR+Notion+AI)+AI&hl=en-US&gl=US&ceid=US:en"
+    "https://news.google.com/rss/search?q=(Adobe+Firefly+OR+ElevenLabs+OR+Descript+OR+InVideo+OR+Hostinger+OR+Semrush+OR+Surfer+OR+Jasper+OR+Canva+AI+OR+Runway+OR+Create+Music+AI+OR+SOUNDRAW+OR+Fliki+OR+AdCreative.ai+OR+Pictory+OR+HeyGen)+AI&hl=en-US&gl=US&ceid=US:en"
   ],
   "items": [
     {
@@ -56,17 +56,6 @@
       "source": "https://www.macworld.com/article/3209211/adobe-firefly-ai-video-generator-top-models-precision-controls-and-a-production-workflow-all-in-one-place.html",
       "publishedAt": "2026-08-18T08:00:00.000Z",
       "image": "https://www.macworld.com/wp-content/uploads/2026/08/3209211-0-24621700-1787048544-Adobe-Firefly-AI-videoframe_Dog-Moon.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "perplexity",
-      "toolName": "Perplexity",
-      "category": "Partner watch",
-      "title": "Perplexity’s free AI offer brought millions of new users in India",
-      "summary": "Airtel’s free-year promotion created a sharp download surge, but the next test is whether those users stay when subscriptions renew.",
-      "guide": "/partners/perplexity.html",
-      "source": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "publishedAt": "2026-08-18T08:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/perplexity-app.jpg?w=563"
     },
     {
       "tool": "ai-news",
@@ -122,6 +111,39 @@
       "source": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
       "publishedAt": "2026-08-18T13:50:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Still-02-teenStudyHours__2_.webp?w=680"
+    },
+    {
+      "tool": "fliki",
+      "toolName": "Fliki",
+      "category": "Partner watch",
+      "title": "Fliki adds a more structured path for explainer videos",
+      "summary": "Fliki’s latest product updates point toward faster explainer production with realistic characters, voices and scene-based editing.",
+      "guide": "/partners/fliki.html",
+      "source": "https://fliki.ai/whats-new",
+      "publishedAt": "2026-08-19T09:00:00.000Z",
+      "image": "https://cdn.fliki.ai/public/site-assets/users/Series/ep1.webp"
+    },
+    {
+      "tool": "adcreative",
+      "toolName": "AdCreative.ai",
+      "category": "Partner watch",
+      "title": "AdCreative.ai Academy adds a product-ad workflow for August",
+      "summary": "The official lesson walks through product visuals, creative directions, video ads and a complete AI-assisted campaign workflow.",
+      "guide": "/partners/adcreative.html",
+      "source": "https://www.adcreative.ai/academy/how-to-generate-ads-for-product-based-businesses-with-ai",
+      "publishedAt": "2026-08-13T09:00:00.000Z",
+      "image": "https://cdn.prod.website-files.com/661ce890f68a1d352ebbed35/693ff21a7dbf0bf4e7c9a3ba_custom-templates.avif"
+    },
+    {
+      "tool": "pictory",
+      "toolName": "Pictory",
+      "category": "Partner watch",
+      "title": "Pictory’s new report maps how creators are using AI video",
+      "summary": "Pictory’s 2026 report analyzes 1.5 million videos and highlights the formats, voiceovers and avatar workflows creators are actually using.",
+      "guide": "/partners/pictory.html",
+      "source": "https://pictory.ai/blog/ai-video-creation-trends-us",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "image": "https://customer-wtn437ryaa2ata4r.cloudflarestream.com/5bafc763a91fd5b63d49875de24465bc/thumbnails/thumbnail.jpg?time=&height=600"
     }
   ]
 }
