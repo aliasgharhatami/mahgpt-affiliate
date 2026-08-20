@@ -25,6 +25,13 @@ main{padding-bottom:80px}.section{padding-top:86px}.section-head{display:flex;ju
 @media(max-width:920px){.topbar{flex-wrap:wrap;padding:13px 0}.nav{order:3;width:100%;overflow:auto}.search{margin-left:auto}.hero-inner,.intro,.video-grid,.capabilities{grid-template-columns:1fr}.stage{min-height:370px}.signal{grid-template-columns:repeat(2,1fr);margin-top:0}.signal div:nth-child(2n){border-right:0}.steps{grid-template-columns:repeat(2,1fr)}.steps:before{display:none}.usecases,.facts{grid-template-columns:repeat(2,1fr)}.section-head{display:block}.section-head p{text-align:left;margin-top:9px}}
 @media(max-width:560px){.wrap{width:min(100% - 28px,1180px)}.brand{font-size:30px}.nav{gap:14px;font-size:12px}.search{width:145px}.back{padding:0 10px;font-size:12px}.hero-inner{padding:51px 0 37px;gap:24px}h1{font-size:55px;letter-spacing:-3px}.lead{font-size:16px}.stage{margin-inline:-17px;transform:scale(.94)}.chip{font-size:10px;padding:9px}.signal{grid-template-columns:1fr}.signal div{border-right:0;border-bottom:1px solid #edf0f6}.section{padding-top:58px}.section h2{font-size:38px}.showcase{grid-template-columns:1fr}.video iframe{height:230px}.cap-image img{min-height:320px}.cap-image{min-height:320px}.steps{grid-template-columns:1fr}.usecases,.facts{grid-template-columns:1fr 1fr}.cta{display:block;padding:28px 24px}.cta h2{font-size:31px}.cta .btn{margin-top:20px}.footer{display:block}.footer span{display:block;margin-top:8px}}
 </style>
+<style id="telegram-floating-style">
+.telegram-float{position:fixed;right:22px;bottom:22px;z-index:9999;width:58px;height:58px;border-radius:50%;display:flex!important;align-items:center;justify-content:center;background:#fff;box-shadow:0 8px 26px rgba(16,24,40,.22);transition:transform .2s ease,box-shadow .2s ease}
+.telegram-float:hover{transform:translateY(-4px) scale(1.05);box-shadow:0 12px 30px rgba(16,24,40,.3)}
+.telegram-float img{width:48px;height:48px;display:block}
+a[href="https://t.me/mahgptplus"]:not(.telegram-float){display:none!important}
+@media(max-width:640px){.telegram-float{right:14px;bottom:14px;width:50px;height:50px}.telegram-float img{width:42px;height:42px}}
+</style>
 </head>
 <body>
 <header class="topbar wrap">
@@ -89,5 +96,6 @@ main{padding-bottom:80px}.section{padding-top:86px}.section-head{display:flex;ju
 <div class="wrap cta"><div><div class="kicker" style="color:#d9ff83">Ready to test the idea?</div><h2>Give one message a face.</h2><p>Start with a short script you already need to publish. Test the presenter, voice, captions and one localized version before you scale the workflow.</p></div><a class="btn" data-affiliate-slot="heygen-final" href="https://www.heygen.com/">Open HeyGen ↗</a></div>
 </main>
 <footer class="wrap footer"><span>MahGPT · Independent AI tools guide · <a href="/#affiliate">Disclosures</a></span><span><a href="https://www.heygen.com/" target="_blank" rel="noopener">Official HeyGen site</a> · <a href="/">Back to MahGPT</a></span><a href="https://t.me/mahgptplus" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:8px;color:#1687c9;text-decoration:none;font-weight:700"><img src="/assets/telegram.svg" alt="Telegram" width="24" height="24" style="display:block">Find MahGPT on Telegram</a></footer>
+<a class="telegram-float" href="https://t.me/mahgptplus" target="_blank" rel="noopener noreferrer" aria-label="Find MahGPT on Telegram"><img src="/assets/telegram.svg" alt="Telegram"></a>
 </body>
 </html>
