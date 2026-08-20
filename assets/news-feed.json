@@ -111,5 +111,12 @@
       "publishedAt": "2026-08-10T00:00:00.000Z",
       "image": "/assets/logos/heygen.svg"
     }
+  ],
+  "sources": [
+    "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "https://venturebeat.com/category/ai/feed/",
+    "https://www.wired.com/feed/tag/ai/latest/rss",
+    "https://www.theverge.com/rss/index.xml",
+    "https://news.google.com/rss/search?q=(Adobe+Firefly+OR+ElevenLabs+OR+Descript+OR+InVideo+OR+Hostinger+OR+Semrush+OR+Surfer+OR+Jasper+OR+Canva+AI+OR+Runway+OR+HeyGen+OR+Perplexity+OR+Notion+AI)+AI&hl=en-US&gl=US&ceid=US:en"
   ]
 }
