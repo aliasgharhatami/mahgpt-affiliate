@@ -142,6 +142,13 @@ a{color:inherit;text-decoration:none}
  .hero-grid{padding:52px 0 52px}.hero h1{letter-spacing:-3px}.hero-copy{font-size:15px}.studio-frame{padding:15px}.feature-rail{grid-template-columns:1fr 1fr}.feature:nth-child(3){border-right:1px solid #e7e3ea}.feature:nth-child(2n){border-right:0}.section{padding:55px 0}.section-head{display:block}.section-head p{margin-top:15px}.demo-grid,.tool-grid,.license,.price-grid{grid-template-columns:1fr}.tool:nth-child(2n),.price.featured{transform:none}.workflow{padding:22px}.workflow h2{font-size:34px}.steps{grid-template-columns:1fr 1fr}.photo-card{min-height:330px}.copy-card h2{font-size:32px}.checks{grid-template-columns:1fr}.final{padding:30px 24px}
 }
 </style>
+<style id="telegram-floating-style">
+.telegram-float{position:fixed;right:22px;bottom:22px;z-index:9999;width:58px;height:58px;border-radius:50%;display:flex!important;align-items:center;justify-content:center;background:#fff;box-shadow:0 8px 26px rgba(16,24,40,.22);transition:transform .2s ease,box-shadow .2s ease}
+.telegram-float:hover{transform:translateY(-4px) scale(1.05);box-shadow:0 12px 30px rgba(16,24,40,.3)}
+.telegram-float img{width:48px;height:48px;display:block}
+a[href="https://t.me/mahgptplus"]:not(.telegram-float){display:none!important}
+@media(max-width:640px){.telegram-float{right:14px;bottom:14px;width:50px;height:50px}.telegram-float img{width:42px;height:42px}}
+</style>
 </head>
 <body>
 <header class="wrap topbar">
@@ -343,5 +350,6 @@ a{color:inherit;text-decoration:none}
   MahGPT · Independent AI tools guides · <a href="/affiliate-disclosure.html">Disclosure</a> · <a href="https://createmusicai.ai/" target="_blank" rel="noopener">CreateMusicAI official site</a>
   <div class="source-line">This guide summarizes public official product pages and links to the original source for current features, media and terms. Pricing, availability and rights can change.</div>
 <a href="https://t.me/mahgptplus" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:8px;color:#1687c9;text-decoration:none;font-weight:700"><img src="/assets/telegram.svg" alt="Telegram" width="24" height="24" style="display:block">Find MahGPT on Telegram</a></footer>
+<a class="telegram-float" href="https://t.me/mahgptplus" target="_blank" rel="noopener noreferrer" aria-label="Find MahGPT on Telegram"><img src="/assets/telegram.svg" alt="Telegram"></a>
 </body>
 </html>
