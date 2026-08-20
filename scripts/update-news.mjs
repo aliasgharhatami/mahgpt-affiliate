@@ -1,4 +1,4 @@
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 
 const feeds = [
   "https://techcrunch.com/category/artificial-intelligence/feed/",
