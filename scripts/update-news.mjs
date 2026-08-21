@@ -9,26 +9,28 @@ const feeds = [
   "https://www.macworld.com/feed",
   "https://www.creativebloq.com/feed",
   "https://www.artificialintelligence-news.com/feed/",
-  "https://news.google.com/rss/search?q=(Adobe+Firefly+OR+ElevenLabs+OR+Descript+OR+InVideo+OR+Hostinger+OR+Semrush+OR+Surfer+OR+Jasper+OR+Canva+AI+OR+Runway+OR+Create+Music+AI+OR+SOUNDRAW+OR+Steve+AI+OR+HeyGen+OR+Perplexity+OR+Notion+AI)+AI&hl=en-US&gl=US&ceid=US:en"
+  "https://news.google.com/rss/search?q=(Adobe+Firefly+OR+ElevenLabs+OR+Descript+OR+InVideo+OR+Hostinger+OR+Semrush+OR+Surfer+OR+Jasper+OR+Canva+AI+OR+Runway+OR+Create+Music+AI+OR+SOUNDRAW+OR+HeyGen+OR+Fliki+OR+AdCreative+OR+Pictory)+AI&hl=en-US&gl=US&ceid=US:en",
+  ...partners.map(p=>`https://news.google.com/rss/search?q=${encodeURIComponent(p[1])}+AI&hl=en-US&gl=US&ceid=US:en`),
 ];
 
 const partners = [
   ["adobe","Adobe",["adobe","firefly"],"/partners/adobe.html"],
-  ["elevenlabs","ElevenLabs",["elevenlabs","eleven labs"],"/tools/elevenlabs.html"],
+  ["elevenlabs","ElevenLabs",["elevenlabs","eleven labs"],"/partners/elevenlabs.html"],
   ["descript","Descript",["descript"],"/partners/descript.html"],
   ["invideo","InVideo",["invideo"],"/partners/invideo.html"],
-  ["hostinger","Hostinger",["hostinger","horizons"],"/partners/hostinger.html"],
+  ["hostinger","Hostinger",["hostinger"],"/partners/hostinger.html"],
+  ["horizons","Hostinger Horizons",["horizons"],"/partners/horizons.html"],
   ["semrush","Semrush",["semrush"],"/partners/semrush.html"],
   ["surfer","Surfer",["surferseo","surfer"],"/partners/surfer.html"],
-  ["jasper","Jasper",["jasper"],"/tools/jasper.html"],
-  ["canva","Canva AI",["canva"],"/tools/canva.html"],
-  ["runway","Runway",["runway"],"/tools/runway.html"],
+  ["jasper","Jasper",["jasper"],"/partners/jasper.html"],
+  ["canva","Canva AI",["canva"],"/partners/canva.html"],
+  ["runway","Runway",["runway"],"/partners/runway.html"],
   ["create-music-ai","Create Music AI",["create music ai"],"/partners/create-music-ai.html"],
   ["soundraw","SOUNDRAW",["soundraw"],"/partners/soundraw.html"],
-  ["steve-ai","Steve AI",["steve ai"],"/partners/steve-ai.html"],
   ["heygen","HeyGen",["heygen"],"/partners/heygen.html"],
-  ["perplexity","Perplexity",["perplexity"],"/partners/perplexity.html"],
-  ["notion","Notion AI",["notion ai","notion"],"/partners/notion.html"]
+  ["fliki","Fliki",["fliki"],"/partners/fliki.html"],
+  ["adcreative","AdCreative.ai",["adcreative"],"/partners/adcreative.html"],
+  ["pictory","Pictory",["pictory"],"/partners/pictory.html"]
 ];
 
 const decode = (s="") => s
@@ -119,18 +121,12 @@ for(const feedUrl of feeds){
 const cutoff=Date.now()-7*24*60*60*1000;
 const fresh=[...new Map(collected.map(x=>[x.link,x])).values()]
   .filter(x=>Date.parse(x.publishedAt)>=cutoff)
-  .sort((a,b)=>{
-    const ap=a.partner?1:0,bp=b.partner?1:0;
-    return bp-ap || Date.parse(b.publishedAt)-Date.parse(a.publishedAt);
-  })
-  .slice(0,28);
+  .sort((a,b)=>Date.parse(b.publishedAt)-Date.parse(a.publishedAt));
 
-const hydrated=[];
-for(const item of fresh){
-  const image=await articleImage(item.link)||item.media;
-  if(!image)continue;
+const hydrate=async (item) => {
+  const image=await articleImage(item.link)||item.media||"";
   const partner=item.partner;
-  hydrated.push({
+  return {
     tool:partner?.[0]||"ai-news",
     toolName:partner?.[1]||"AI News",
     category:partner ? "Partner watch" : "AI news",
@@ -140,10 +136,28 @@ for(const item of fresh){
     source:item.link,
     publishedAt:item.publishedAt,
     image
-  });
-  if(hydrated.length>=10)break;
-}
+  };
+};
 
+// Round-robin partner coverage: one fresh story per partner first,
+// then fill remaining slots with the strongest recent stories.
+const grouped=new Map();
+for(const item of fresh){
+  const key=item.partner?.[0]||"ai-news";
+  if(!grouped.has(key))grouped.set(key,[]);
+  grouped.get(key).push(item);
+}
+const selected=[];
+for(const partner of partners){
+  const item=grouped.get(partner[0])?.[0];
+  if(item)selected.push(item);
+}
+for(const item of fresh){
+  if(selected.length>=10)break;
+  if(!selected.includes(item))selected.push(item);
+}
+const hydrated=[];
+for(const item of selected.slice(0,10))hydrated.push(await hydrate(item));
 const output={
   updatedAt:new Date().toISOString(),
   freshnessWindow:"7 days",
