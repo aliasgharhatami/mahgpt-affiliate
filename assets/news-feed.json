@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:00:00.000Z",
+  "updatedAt": "2026-08-21T05:50:03.836Z",
   "freshnessWindow": "7 days",
   "sources": [
     "https://techcrunch.com/category/artificial-intelligence/feed/",
@@ -10,140 +10,118 @@
     "https://www.macworld.com/feed",
     "https://www.creativebloq.com/feed",
     "https://www.artificialintelligence-news.com/feed/",
-    "https://news.google.com/rss/search?q=(Adobe+Firefly+OR+ElevenLabs+OR+Descript+OR+InVideo+OR+Hostinger+OR+Semrush+OR+Surfer+OR+Jasper+OR+Canva+AI+OR+Runway+OR+Create+Music+AI+OR+SOUNDRAW+OR+Fliki+OR+AdCreative.ai+OR+Pictory+OR+HeyGen)+AI&hl=en-US&gl=US&ceid=US:en"
+    "https://news.google.com/rss/search?q=(Adobe+Firefly+OR+ElevenLabs+OR+Descript+OR+InVideo+OR+Hostinger+OR+Semrush+OR+Surfer+OR+Jasper+OR+Canva+AI+OR+Runway+OR+Create+Music+AI+OR+SOUNDRAW+OR+Steve+AI+OR+HeyGen+OR+Perplexity+OR+Notion+AI)+AI&hl=en-US&gl=US&ceid=US:en"
   ],
   "items": [
     {
-      "tool": "hostinger",
-      "toolName": "Hostinger",
+      "tool": "adobe",
+      "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "Hostinger launches a new agentic AI Builder for businesses",
-      "summary": "Hostinger’s new builder moves beyond a generated homepage toward backend systems, ecommerce, embedded AI and marketing workflows.",
-      "guide": "/partners/hostinger.html",
-      "source": "https://www.techradar.com/pro/its-not-about-who-can-generate-a-homepage-in-30-seconds-hostinger-launches-a-new-agentic-ai-builder-helping-businesses-do-more-with-ai",
-      "publishedAt": "2026-08-18T15:10:09.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/h7RUjqRBXm327hrsFX8UwS.jpg"
-    },
-    {
-      "tool": "canva",
-      "toolName": "Canva AI",
-      "category": "Partner watch",
-      "title": "Why Canva is trying to leave its amateur reputation behind",
-      "summary": "Creative Bloq looks at Canva’s professional push, Affinity acquisition and the growing pressure to make AI-powered design feel serious.",
-      "guide": "/tools/canva.html",
-      "source": "https://www.creativebloq.com/design/design-software/why-are-we-still-treating-canva-like-a-dirty-little-secret",
-      "publishedAt": "2026-08-17T09:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/MALewXXLaLSgXSZbDoH4L7.jpg"
+      "title": "Adobe makes Firefly a full audio studio, and the licence is the actual product - iTWire",
+      "summary": "Adobe makes Firefly a full audio studio, and the licence is the actual product &nbsp;&nbsp; iTWire",
+      "guide": "/partners/adobe.html",
+      "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY0EzUmhwRmlqWDFWcFJ4dGltVGt0SzR5SE55VmdzSzlXTGw0YnFqcUVDZE1sYXFLRDdSR2pRLUtRc1daVHZ3OWNJYzFXOHdGUmVtS0IzSUxaVFpBQlpUdFhUaTVHYjNiWVdUT3ROamdnVFhVeExBdWZDMGNBRTdmc0p0NlpObXpGVXVzUE1RZXpRenFkcmtPb3hBOUlrSm45Q2k2Vzc0QUFRS0M4R0VRcG01VDV5YVNTbkN5Q0dXLVM0SzdSa2UtSjh3UQ?oc=5",
+      "publishedAt": "2026-08-21T04:12:10.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "Adobe Firefly brings AI upscaling into Photoshop and Lightroom workflows",
-      "summary": "The new Firefly Upscale Image workflow is designed to enlarge photographs while keeping the edit inside Adobe’s creative tools.",
+      "title": "Adobe expands Firefly with new audio creation tools - ecommercenews.com.au",
+      "summary": "Adobe expands Firefly with new audio creation tools &nbsp;&nbsp; ecommercenews.com.au",
       "guide": "/partners/adobe.html",
-      "source": "https://www.macworld.com/article/3209242/adobe-firefly-upscale-image-ai-powered-resolution-enhancement-built-into-your-photoshop-and-lightroom-workflow.html",
-      "publishedAt": "2026-08-18T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3209242-0-11382600-1787048578-Adobe-Firefly-Upscale-Image-Umbrella.jpg?quality=50&strip=all&w=1024"
+      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZVRtRHZnRGVMQm01NHhjZkY4ZTVSQjZuT0hfTkVHbjZUeGVkdlVDRU5nWTA0ZmZvMUdUdVBiN2F1U0htTVJqaHZjV3U2SDJZOXBLdkJ1a0RTaDF2OXpER0FXQmExRGJiSzVwUzU4c21xeldDMERuT0JzVjFuRmsxVmhEY0RRamN3TE9EYXN5aw?oc=5",
+      "publishedAt": "2026-08-21T03:26:00.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "Adobe Firefly puts multiple leading video models in one workspace",
-      "summary": "Adobe’s Firefly video workflow combines generation, model choice, precision controls and editing in one production environment.",
+      "title": "Adobe Launches General Availability of Music, Voice, and Sound Effects Generation in Firefly; Introduces Free Tier for AI Assistant - finance.biggo.com",
+      "summary": "Adobe Launches General Availability of Music, Voice, and Sound Effects Generation in Firefly; Introduces Free Tier for AI Assistant &nbsp;&nbsp; finance.biggo.com",
       "guide": "/partners/adobe.html",
-      "source": "https://www.macworld.com/article/3209211/adobe-firefly-ai-video-generator-top-models-precision-controls-and-a-production-workflow-all-in-one-place.html",
-      "publishedAt": "2026-08-18T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3209211-0-24621700-1787048544-Adobe-Firefly-AI-videoframe_Dog-Moon.jpg?quality=50&strip=all&w=1024"
+      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtREU2TjhHNU1tSG1fQ09JT1Z5V21vM1VWNlE4Z3BtbFFQZEpJdExvOTNBWmFKNlB4cExEYVpSRDJKa1F2c2tsTkhpRmZDS1k5bXVXSWpiQW5KZmxIUG9zTGdYeWZlRmdWZzRYWjJhVTMxOXJxY1E?oc=5",
+      "publishedAt": "2026-08-21T03:05:00.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "AI’s public trust problem is becoming a business problem",
-      "summary": "New polling and public backlash are forcing AI companies to explain how their products improve ordinary life, not only how powerful they are.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "publishedAt": "2026-08-19T19:12:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Vivodyne is building a human-data engine for AI drug discovery",
-      "summary": "The biotech startup says its autonomous tissue labs could provide the causal data current models lack in the search for better medicines.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "publishedAt": "2026-08-19T12:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_0110-rotated.jpg?w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Warp introduces a software factory for agentic development",
-      "summary": "Warp Factories packages the infrastructure, memory, evaluation and monitoring layers companies need to run AI coding agents.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "publishedAt": "2026-08-18T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Warp-Factories-3.png?w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Etched’s AI inference valuation doubles to $21B",
-      "summary": "The chip startup raised another $700 million after investors tested its inference systems, a sign of continued demand for faster AI serving.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "publishedAt": "2026-08-18T17:21:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "OpenAI launches a safer ChatGPT experience for teens",
-      "summary": "The new teen experience adds Study Mode, quizzes, visualizations, family controls and stronger age-appropriate defaults.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "publishedAt": "2026-08-18T13:50:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Still-02-teenStudyHours__2_.webp?w=680"
-    },
-    {
-      "tool": "fliki",
-      "toolName": "Fliki",
+      "tool": "adobe",
+      "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "Fliki adds a more structured path for explainer videos",
-      "summary": "Fliki’s latest product updates point toward faster explainer production with realistic characters, voices and scene-based editing.",
-      "guide": "/partners/fliki.html",
-      "source": "https://fliki.ai/whats-new",
-      "publishedAt": "2026-08-19T09:00:00.000Z",
-      "image": "https://cdn.fliki.ai/public/site-assets/users/Series/ep1.webp"
+      "title": "Adobe Firefly Makes AI Audio Tools Available To All Users - bandt.com.au",
+      "summary": "Adobe Firefly Makes AI Audio Tools Available To All Users &nbsp;&nbsp; bandt.com.au",
+      "guide": "/partners/adobe.html",
+      "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQU5XRHhNMml1NVhOSEp3YkZmREJpMnZ5SzdPQnFuXzBlWm1jNkFYOVBieXVfczlndU11RnJIUEx4X1hJVDJlaGhIMWhpTzEzNDh6ZERRVThVdnZIaGpxMWhRTWdBWnAzX2lwVXVxQjBsM0pOdlJxSHZmVHN4eExtQVBxdTc5c2I2X0R3?oc=5",
+      "publishedAt": "2026-08-21T01:34:10.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "tool": "adcreative",
-      "toolName": "AdCreative.ai",
+      "tool": "adobe",
+      "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "AdCreative.ai Academy adds a product-ad workflow for August",
-      "summary": "The official lesson walks through product visuals, creative directions, video ads and a complete AI-assisted campaign workflow.",
-      "guide": "/partners/adcreative.html",
-      "source": "https://www.adcreative.ai/academy/how-to-generate-ads-for-product-based-businesses-with-ai",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "image": "https://cdn.prod.website-files.com/661ce890f68a1d352ebbed35/693ff21a7dbf0bf4e7c9a3ba_custom-templates.avif"
+      "title": "Adobe expands Firefly AI studio with new audio tools - Mumbrella",
+      "summary": "Adobe expands Firefly AI studio with new audio tools &nbsp;&nbsp; Mumbrella",
+      "guide": "/partners/adobe.html",
+      "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWl0ck5fYnFKc3NZRVpsSklqX1lrcTY0U0EtcG9QS01QSTVXdkpQWVlJTk9KSF9KblhLV0plWE5fanc5azRqSzBQYTNHbHlaRU1NbWEtVDlJQ0UyX0xpRENERnJscHl5b0FCLTRYSUJ5TU5ZZ0NfYVJkbTR5djFIcFk2MkNwZ3hmWDY4aQ?oc=5",
+      "publishedAt": "2026-08-21T01:07:30.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "tool": "pictory",
-      "toolName": "Pictory",
+      "tool": "adobe",
+      "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "Pictory’s new report maps how creators are using AI video",
-      "summary": "Pictory’s 2026 report analyzes 1.5 million videos and highlights the formats, voiceovers and avatar workflows creators are actually using.",
-      "guide": "/partners/pictory.html",
-      "source": "https://pictory.ai/blog/ai-video-creation-trends-us",
-      "publishedAt": "2026-08-18T09:00:00.000Z",
-      "image": "https://customer-wtn437ryaa2ata4r.cloudflarestream.com/5bafc763a91fd5b63d49875de24465bc/thumbnails/thumbnail.jpg?time=&height=600"
+      "title": "Adobe Firefly officially launches music, speech and sound effects generation - 디지털투데이",
+      "summary": "Adobe Firefly officially launches music, speech and sound effects generation &nbsp;&nbsp; 디지털투데이",
+      "guide": "/partners/adobe.html",
+      "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUHNrR1U0T3diMVh3anVfYURpUVlsYlZuT2xaSU41Q29XSHRvNGdEcXlZbEtSYVBwM1ZWT3VnMDYwdmRUN0Vhcld6dXRjZnlfTXh0VDB5YUpxbGJYNVVGbldzSHZ4MWU3SmdYR1lXYmpWOHFUR21UZWJkekVwUmpQRGJKd2R0TGRCX04yMEd6dDZqSC1fWi1aZnVMUHlKZDVCVVc4SGh6Ukd0bHBmSlJTNEVhU3REYXpXdW9SVQ?oc=5",
+      "publishedAt": "2026-08-21T00:35:00.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Adobe Firefly Goes Full-Studio: Audio GA Bets on Platform Consolidation - The Futurum Group",
+      "summary": "Adobe Firefly Goes Full-Studio: Audio GA Bets on Platform Consolidation &nbsp;&nbsp; The Futurum Group",
+      "guide": "/partners/adobe.html",
+      "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmNjQnVlRk14UDZuR1JDNEJTc2M0U3BBZVBSNjZEMVdCcktkZ2s4QnhocEVNdGJhSEZURXpuLWdVaTdDRl9DRmVuWTcybVJaVEY5YldQZi1YQkYyOURzeDdOWXVCSER1ZVQxbW9wZmFZb2J4OGYwT2pBY1NBTTBOT0xLUDd2S0xIZU14eFl1aDk0Nkl2anVMM0tZTlVLb3cxdGUya3k0RzE?oc=5",
+      "publishedAt": "2026-08-20T19:40:45.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash - the-decoder.com",
+      "summary": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash &nbsp;&nbsp; the-decoder.com",
+      "guide": "/partners/adobe.html",
+      "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3pock5ubWZwRjUtUHUwUElpQlhxb3djaUxRTG9KODNtS0Zlb3lPM1FSTEtoZlo0cEVBSHFmbDBOVXp3QzNHVzM0a2FOLThTWlE2bXd3RThrUlhPRHFYYmdvT3M5dmNPdlNKTUNPMFRLM3Rrd244blhFUWExbFpOYjJhZERnelhIOGVERm1FTlcydw?oc=5",
+      "publishedAt": "2026-08-20T19:33:12.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "tool": "descript",
+      "toolName": "Descript",
+      "category": "Partner watch",
+      "title": "Apple’s upcoming headphones appear to be built for MacBook Neo users",
+      "summary": "Macworld For the second time this week, an unreleased Apple product has been leaked in shockingly thorough fashion. After a video demonstrating camera-equipped AirPods was spotted in macOS 26.7 on Monday, the Beats 360 over-ears headphones have now been revealed on multiple retail websites despite n",
+      "guide": "/partners/descript.html",
+      "source": "https://www.macworld.com/article/3217085/apples-upcoming-headphones-appear-to-be-built-for-macbook-neo-users.html",
+      "publishedAt": "2026-08-20T17:57:04.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3217085-0-47883500-1787248640-Beats-360-color-finishes.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "runway",
+      "toolName": "Runway",
+      "category": "Partner watch",
+      "title": "Samsung's Galaxy Book4 Edge is 'a zippy Copilot+ Windows 11 laptop' that's now £399 at Currys — half its usual price for a Snapdragon-powered ultraportable business machine",
+      "summary": "We found this vibrant 15.6-inch laptop delivered 'provides plenty of runway for productivity and personal tasks.'",
+      "guide": "/tools/runway.html",
+      "source": "https://www.techradar.com/pro/samsungs-galaxy-book4-edge-is-a-zippy-copilot-windows-11-laptop-thats-now-gbp399-at-currys-half-its-usual-price-for-a-snapdragon-powered-ultraportable-business-machine",
+      "publishedAt": "2026-08-20T16:02:38.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rF4iZ3MzgSf6hvwrTQyDG-2560-80.jpg"
     }
   ]
 }
