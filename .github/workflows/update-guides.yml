@@ -1,0 +1,24 @@
+name: Refresh MahGPT guide indexes
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 6 * * 1"
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 20}
+      - name: Refresh guide index timestamp
+        run: node scripts/update-guides.mjs
+      - name: Commit refreshed guide index
+        run: |
+          if git diff --quiet -- assets/guide-refresh.json; then exit 0; fi
+          git config user.name "MahGPT Guide Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets/guide-refresh.json
+          git commit -m "Refresh weekly guide index"
+          git push
