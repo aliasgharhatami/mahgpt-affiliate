@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T15:15:44.863Z",
+  "updatedAt": "2026-08-21T15:22:14.924Z",
   "frequency": "weekly",
   "sections": {
     "video-motion": [
@@ -16,6 +16,11 @@
       "/guides/productivity-best-2026.html",
       "/guides/productivity-new-tools-2026.html",
       "/guides/free-productivity-tools-2026.html"
+    ],
+    "business": [
+      "/guides/business-best-2026.html",
+      "/guides/business-new-tools-2026.html",
+      "/guides/free-business-tools-2026.html"
     ]
   }
 }
