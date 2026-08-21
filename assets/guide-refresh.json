@@ -1,5 +1,11 @@
 {
   "updatedAt": "2026-08-21T12:15:02.164Z",
   "frequency": "weekly",
-  "sections": {}
+  "sections": {
+    "video-motion": [
+      "/guides/video-motion-best-2026.html",
+      "/guides/video-motion-new-tools-2026.html",
+      "/guides/free-video-motion-tools-2026.html"
+    ]
+  }
 }
