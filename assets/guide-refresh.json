@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T12:15:02.164Z",
+  "updatedAt": "2026-08-21T15:15:44.863Z",
   "frequency": "weekly",
   "sections": {
     "video-motion": [
@@ -11,6 +11,11 @@
       "/guides/audio-voice-best-2026.html",
       "/guides/audio-voice-new-tools-2026.html",
       "/guides/free-audio-voice-tools-2026.html"
+    ],
+    "productivity": [
+      "/guides/productivity-best-2026.html",
+      "/guides/productivity-new-tools-2026.html",
+      "/guides/free-productivity-tools-2026.html"
     ]
   }
 }
