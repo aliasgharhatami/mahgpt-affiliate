@@ -10,7 +10,6 @@ const feeds = [
   "https://www.creativebloq.com/feed",
   "https://www.artificialintelligence-news.com/feed/",
   "https://news.google.com/rss/search?q=(Adobe+Firefly+OR+ElevenLabs+OR+Descript+OR+InVideo+OR+Hostinger+OR+Semrush+OR+Surfer+OR+Jasper+OR+Canva+AI+OR+Runway+OR+Create+Music+AI+OR+SOUNDRAW+OR+HeyGen+OR+Fliki+OR+AdCreative+OR+Pictory)+AI&hl=en-US&gl=US&ceid=US:en",
-  ...partners.map(p=>`https://news.google.com/rss/search?q=${encodeURIComponent(p[1])}+AI&hl=en-US&gl=US&ceid=US:en`),
 ];
 
 const partners = [
@@ -82,7 +81,7 @@ const youtubeImage = (url) => {
 const partnerFor = (text) => partners.find(p=>p[2].some(k=>text.includes(k)));
 
 const collected=[];
-for(const feedUrl of feeds){
+for(const feedUrl of [...feeds,...partners.map(p=>`https://news.google.com/rss/search?q=${encodeURIComponent(p[1])}+AI&hl=en-US&gl=US&ceid=US:en`)]){
   try{
     const res=await fetch(feedUrl,{headers:{"user-agent":"MahGPT-NewsBot/1.0"},redirect:"follow"});
     if(!res.ok)continue;
