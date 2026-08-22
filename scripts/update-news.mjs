@@ -9,7 +9,8 @@ const feeds = [
   "https://www.macworld.com/feed",
   "https://www.creativebloq.com/feed",
   "https://www.artificialintelligence-news.com/feed/",
-  "https://news.google.com/rss/search?q=(Adobe+Firefly+OR+ElevenLabs+OR+Descript+OR+InVideo+OR+Hostinger+OR+Semrush+OR+Surfer+OR+Jasper+OR+Canva+AI+OR+Runway+OR+Create+Music+AI+OR+SOUNDRAW+OR+HeyGen+OR+Fliki+OR+AdCreative+OR+Pictory)+AI&hl=en-US&gl=US&ceid=US:en",
+  "https://www.engadget.com/rss.xml",
+  "https://feeds.arstechnica.com/arstechnica/technology-lab"
 ];
 
 const partners = [
@@ -81,7 +82,7 @@ const youtubeImage = (url) => {
 const partnerFor = (text) => partners.find(p=>p[2].some(k=>text.includes(k)));
 
 const collected=[];
-for(const feedUrl of [...feeds,...partners.map(p=>`https://news.google.com/rss/search?q=${encodeURIComponent(p[1])}+AI&hl=en-US&gl=US&ceid=US:en`)]){
+for(const feedUrl of feeds){
   try{
     const res=await fetch(feedUrl,{headers:{"user-agent":"MahGPT-NewsBot/1.0"},redirect:"follow"});
     if(!res.ok)continue;
@@ -160,6 +161,7 @@ for(const item of selected.slice(0,10))hydrated.push(await hydrate(item));
 const output={
   updatedAt:new Date().toISOString(),
   freshnessWindow:"7 days",
+  strategy:"direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   sources:feeds,
   items:hydrated
 };
