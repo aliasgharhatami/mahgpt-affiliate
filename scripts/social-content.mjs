@@ -33,7 +33,7 @@ export const editorialSummary = (item = {}) => {
 };
 
 const partnerAliases = [
-  ["hostinger-horizons", /\bhostinger\s+horizons\b|\bhorizons\b/],
+  ["horizons", /\bhostinger\s+horizons\b|\bhorizons\b/],
   ["elevenlabs", /\beleven\s*labs\b/],
   ["adobe", /\badobe\b|\bfirefly\b/],
   ["descript", /\bdescript\b/],
