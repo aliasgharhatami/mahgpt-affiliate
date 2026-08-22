@@ -1,4 +1,22 @@
 {
   "version": 1,
-  "stories": {}
+  "stories": {
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeExNVVJJLUh4SEthNkxJdzFUSzRKbTlFOTV0QndBc01CNmVNRmdCRGtkcmpqZ3psLTlUQXJpSjlVWUlPRFJiOUxObjU4c2M4cW1yMHBNZWJJM3pvbWpMMUVVRG5ZX3cxQUUya3FLNXNuVGh3SnVLWGVIcm5IM1kxNV91TkRWdVF4?oc=5": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-22T21:04:49.020Z",
+        "message_id": 230,
+        "delivery": "message"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
+    }
+  }
 }
