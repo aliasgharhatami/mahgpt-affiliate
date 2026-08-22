@@ -84,3 +84,10 @@ The resolver checks `config/social-affiliate-links.json`. Active entries use a v
 ## Safe test recommendation
 
 Do not resend the earlier Adobe test. In the manual workflow, paste the exact `source` URL of a different current item from `assets/news-feed.json`; one selected item is sent and duplicate state is not changed.
+
+
+## Partner detection safety
+
+Partner detection uses only explicit brand/entity aliases in `scripts/social-content.mjs`. Generic words such as video, audio, design, SEO and hosting are not aliases. The detector returns `null` when no explicit entity is present; product resolution is skipped entirely in that case, even if an upstream item contains a stale `tool` field.
+
+Regression coverage is in `tests/social-content.test.mjs` for iPhone/Macworld, Adobe Firefly, Canva, ElevenLabs and generic AI regulation stories.
