@@ -1,4 +1,5 @@
-import { mkdir, writeFile } from "node:fs/promises";\nimport sharp from "sharp";
+import { mkdir, writeFile } from "node:fs/promises";
+import sharp from "sharp";
 
 const esc=v=>String(v??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const wrap=(text,max=58)=>{const words=String(text||"").split(/\s+/),lines=[];let line="";for(const word of words){if((line+" "+word).trim().length>max&&line){lines.push(line);line=word}else line=(line+" "+word).trim()}if(line)lines.push(line);return lines.slice(0,4)};
