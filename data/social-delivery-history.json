@@ -34,6 +34,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/230803/iphone-sell-trade-carrier-store-online.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-22T21:28:49.603Z",
+        "message_id": 234,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
