@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T05:50:03.836Z",
+  "updatedAt": "2026-08-22T05:44:38.070Z",
   "freshnessWindow": "7 days",
   "sources": [
     "https://techcrunch.com/category/artificial-intelligence/feed/",
@@ -10,118 +10,118 @@
     "https://www.macworld.com/feed",
     "https://www.creativebloq.com/feed",
     "https://www.artificialintelligence-news.com/feed/",
-    "https://news.google.com/rss/search?q=(Adobe+Firefly+OR+ElevenLabs+OR+Descript+OR+InVideo+OR+Hostinger+OR+Semrush+OR+Surfer+OR+Jasper+OR+Canva+AI+OR+Runway+OR+Create+Music+AI+OR+SOUNDRAW+OR+Steve+AI+OR+HeyGen+OR+Perplexity+OR+Notion+AI)+AI&hl=en-US&gl=US&ceid=US:en"
+    "https://news.google.com/rss/search?q=(Adobe+Firefly+OR+ElevenLabs+OR+Descript+OR+InVideo+OR+Hostinger+OR+Semrush+OR+Surfer+OR+Jasper+OR+Canva+AI+OR+Runway+OR+Create+Music+AI+OR+SOUNDRAW+OR+HeyGen+OR+Fliki+OR+AdCreative+OR+Pictory)+AI&hl=en-US&gl=US&ceid=US:en"
   ],
   "items": [
     {
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "Adobe makes Firefly a full audio studio, and the licence is the actual product - iTWire",
-      "summary": "Adobe makes Firefly a full audio studio, and the licence is the actual product &nbsp;&nbsp; iTWire",
+      "title": "Adobe's Firefly Audio Tools Exit Beta - The AI Economy | Ken Yeung",
+      "summary": "Adobe's Firefly Audio Tools Exit Beta &nbsp;&nbsp; The AI Economy | Ken Yeung",
       "guide": "/partners/adobe.html",
-      "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY0EzUmhwRmlqWDFWcFJ4dGltVGt0SzR5SE55VmdzSzlXTGw0YnFqcUVDZE1sYXFLRDdSR2pRLUtRc1daVHZ3OWNJYzFXOHdGUmVtS0IzSUxaVFpBQlpUdFhUaTVHYjNiWVdUT3ROamdnVFhVeExBdWZDMGNBRTdmc0p0NlpObXpGVXVzUE1RZXpRenFkcmtPb3hBOUlrSm45Q2k2Vzc0QUFRS0M4R0VRcG01VDV5YVNTbkN5Q0dXLVM0SzdSa2UtSjh3UQ?oc=5",
-      "publishedAt": "2026-08-21T04:12:10.000Z",
-      "image": ""
+      "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeExNVVJJLUh4SEthNkxJdzFUSzRKbTlFOTV0QndBc01CNmVNRmdCRGtkcmpqZ3psLTlUQXJpSjlVWUlPRFJiOUxObjU4c2M4cW1yMHBNZWJJM3pvbWpMMUVVRG5ZX3cxQUUya3FLNXNuVGh3SnVLWGVIcm5IM1kxNV91TkRWdVF4?oc=5",
+      "publishedAt": "2026-08-22T03:21:17.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
-      "tool": "adobe",
-      "toolName": "Adobe",
+      "tool": "elevenlabs",
+      "toolName": "ElevenLabs",
       "category": "Partner watch",
-      "title": "Adobe expands Firefly with new audio creation tools - ecommercenews.com.au",
-      "summary": "Adobe expands Firefly with new audio creation tools &nbsp;&nbsp; ecommercenews.com.au",
-      "guide": "/partners/adobe.html",
-      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZVRtRHZnRGVMQm01NHhjZkY4ZTVSQjZuT0hfTkVHbjZUeGVkdlVDRU5nWTA0ZmZvMUdUdVBiN2F1U0htTVJqaHZjV3U2SDJZOXBLdkJ1a0RTaDF2OXpER0FXQmExRGJiSzVwUzU4c21xeldDMERuT0JzVjFuRmsxVmhEY0RRamN3TE9EYXN5aw?oc=5",
-      "publishedAt": "2026-08-21T03:26:00.000Z",
-      "image": ""
-    },
-    {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Adobe Launches General Availability of Music, Voice, and Sound Effects Generation in Firefly; Introduces Free Tier for AI Assistant - finance.biggo.com",
-      "summary": "Adobe Launches General Availability of Music, Voice, and Sound Effects Generation in Firefly; Introduces Free Tier for AI Assistant &nbsp;&nbsp; finance.biggo.com",
-      "guide": "/partners/adobe.html",
-      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtREU2TjhHNU1tSG1fQ09JT1Z5V21vM1VWNlE4Z3BtbFFQZEpJdExvOTNBWmFKNlB4cExEYVpSRDJKa1F2c2tsTkhpRmZDS1k5bXVXSWpiQW5KZmxIUG9zTGdYeWZlRmdWZzRYWjJhVTMxOXJxY1E?oc=5",
-      "publishedAt": "2026-08-21T03:05:00.000Z",
-      "image": ""
-    },
-    {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Adobe Firefly Makes AI Audio Tools Available To All Users - bandt.com.au",
-      "summary": "Adobe Firefly Makes AI Audio Tools Available To All Users &nbsp;&nbsp; bandt.com.au",
-      "guide": "/partners/adobe.html",
-      "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQU5XRHhNMml1NVhOSEp3YkZmREJpMnZ5SzdPQnFuXzBlWm1jNkFYOVBieXVfczlndU11RnJIUEx4X1hJVDJlaGhIMWhpTzEzNDh6ZERRVThVdnZIaGpxMWhRTWdBWnAzX2lwVXVxQjBsM0pOdlJxSHZmVHN4eExtQVBxdTc5c2I2X0R3?oc=5",
-      "publishedAt": "2026-08-21T01:34:10.000Z",
-      "image": ""
-    },
-    {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Adobe expands Firefly AI studio with new audio tools - Mumbrella",
-      "summary": "Adobe expands Firefly AI studio with new audio tools &nbsp;&nbsp; Mumbrella",
-      "guide": "/partners/adobe.html",
-      "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWl0ck5fYnFKc3NZRVpsSklqX1lrcTY0U0EtcG9QS01QSTVXdkpQWVlJTk9KSF9KblhLV0plWE5fanc5azRqSzBQYTNHbHlaRU1NbWEtVDlJQ0UyX0xpRENERnJscHl5b0FCLTRYSUJ5TU5ZZ0NfYVJkbTR5djFIcFk2MkNwZ3hmWDY4aQ?oc=5",
-      "publishedAt": "2026-08-21T01:07:30.000Z",
-      "image": ""
-    },
-    {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Adobe Firefly officially launches music, speech and sound effects generation - 디지털투데이",
-      "summary": "Adobe Firefly officially launches music, speech and sound effects generation &nbsp;&nbsp; 디지털투데이",
-      "guide": "/partners/adobe.html",
-      "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUHNrR1U0T3diMVh3anVfYURpUVlsYlZuT2xaSU41Q29XSHRvNGdEcXlZbEtSYVBwM1ZWT3VnMDYwdmRUN0Vhcld6dXRjZnlfTXh0VDB5YUpxbGJYNVVGbldzSHZ4MWU3SmdYR1lXYmpWOHFUR21UZWJkekVwUmpQRGJKd2R0TGRCX04yMEd6dDZqSC1fWi1aZnVMUHlKZDVCVVc4SGh6Ukd0bHBmSlJTNEVhU3REYXpXdW9SVQ?oc=5",
-      "publishedAt": "2026-08-21T00:35:00.000Z",
-      "image": ""
-    },
-    {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Adobe Firefly Goes Full-Studio: Audio GA Bets on Platform Consolidation - The Futurum Group",
-      "summary": "Adobe Firefly Goes Full-Studio: Audio GA Bets on Platform Consolidation &nbsp;&nbsp; The Futurum Group",
-      "guide": "/partners/adobe.html",
-      "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmNjQnVlRk14UDZuR1JDNEJTc2M0U3BBZVBSNjZEMVdCcktkZ2s4QnhocEVNdGJhSEZURXpuLWdVaTdDRl9DRmVuWTcybVJaVEY5YldQZi1YQkYyOURzeDdOWXVCSER1ZVQxbW9wZmFZb2J4OGYwT2pBY1NBTTBOT0xLUDd2S0xIZU14eFl1aDk0Nkl2anVMM0tZTlVLb3cxdGUya3k0RzE?oc=5",
-      "publishedAt": "2026-08-20T19:40:45.000Z",
-      "image": ""
-    },
-    {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash - the-decoder.com",
-      "summary": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash &nbsp;&nbsp; the-decoder.com",
-      "guide": "/partners/adobe.html",
-      "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3pock5ubWZwRjUtUHUwUElpQlhxb3djaUxRTG9KODNtS0Zlb3lPM1FSTEtoZlo0cEVBSHFmbDBOVXp3QzNHVzM0a2FOLThTWlE2bXd3RThrUlhPRHFYYmdvT3M5dmNPdlNKTUNPMFRLM3Rrd244blhFUWExbFpOYjJhZERnelhIOGVERm1FTlcydw?oc=5",
-      "publishedAt": "2026-08-20T19:33:12.000Z",
-      "image": ""
+      "title": "Bengaluru startup Murf AI launches low-cost voice model to challenge OpenAI, ElevenLabs - ET Enterprise AI",
+      "summary": "Bengaluru startup Murf AI launches low-cost voice model to challenge OpenAI, ElevenLabs &nbsp;&nbsp; ET Enterprise AI",
+      "guide": "/partners/elevenlabs.html",
+      "source": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQkt1WVI3Rmo3Nm5nVWVOOGZoNTd0YmRZUUNQT1dhYjdMQTE1cHZBTXNvZnJBSFd1cWd6b0lTSVYyUi1kcEVCblZtRmNBeVRvRlNGNlRvZzVXNmthMFVJNFRhOXprYUYySC1TcEhxNkl5QlJKS2dEeERudWdlMmtQTXRULVc1cklUbDlYZWtiN0lPVUt5b1VmNk1HYlg1cl96NE03MXlTQ3Blam9UWFpKV1V2S1I0V2xkQjJXb2pxNUF1NGE0cnQ0VkxXWVY4dTgzNWdmYXgtYXRROW1mbFh1d3RyRFlVdGNzR01hb21rdEt2TEFWWmpJ0gH3AUFVX3lxTE5CS3VZUjdGajc2bmdVZU44Zmg1N3RiZFlRQ1BPV2FiN0xBMTVwdkFNc29mckFIV3VxZ3pvSVNJVjJSLWRwRUJuVm1GY0F5VG9GU0Y2VG9nNVc2a2EwVUk0VGE5emthRjJILVNwSHE2SXlCUkpLZ0R4RG51Z2Uya1BNdFQtVzVySVRsOVhla2I3SU9VS3lvVWY2TUdiWDVyX3o0TTcxeVNDcGVqb1RYWkpXVXZLUjRXbGRCMldvanE1QXU0YTRydDRWTFdZVjh1ODM1Z2ZheC1hdFE5bWZsWHV3dHJEWVV0Y3NHTWFvbWt0S3ZMQVZaakk?oc=5",
+      "publishedAt": "2026-08-20T16:19:49.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "tool": "descript",
       "toolName": "Descript",
       "category": "Partner watch",
-      "title": "Apple’s upcoming headphones appear to be built for MacBook Neo users",
-      "summary": "Macworld For the second time this week, an unreleased Apple product has been leaked in shockingly thorough fashion. After a video demonstrating camera-equipped AirPods was spotted in macOS 26.7 on Monday, the Beats 360 over-ears headphones have now been revealed on multiple retail websites despite n",
+      "title": "Best places to sell or trade in an iPhone in 2026: How to get the most money",
+      "summary": "Macworld In case you haven’t heard, there’s a new iPhone coming at Apple’s September event and that means two things: You want a new iPhone and you need to sell your old one. If you buy your iPhone outright every year or so, you can usually recoup a good amount of the new cost by selling your old mo",
       "guide": "/partners/descript.html",
-      "source": "https://www.macworld.com/article/3217085/apples-upcoming-headphones-appear-to-be-built-for-macbook-neo-users.html",
-      "publishedAt": "2026-08-20T17:57:04.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3217085-0-47883500-1787248640-Beats-360-color-finishes.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.macworld.com/article/230803/iphone-sell-trade-carrier-store-online.html",
+      "publishedAt": "2026-08-21T02:49:19.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/08/230803-0-09104600-1787320407-iphone-sell-trade.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "invideo",
+      "toolName": "InVideo",
+      "category": "Partner watch",
+      "title": "Best Free AI Video Editing Apps for Creators in India: CapCut, InVideo and More - Gadgets 360",
+      "summary": "Best Free AI Video Editing Apps for Creators in India: CapCut, InVideo and More &nbsp;&nbsp; Gadgets 360",
+      "guide": "/partners/invideo.html",
+      "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmU4aERld2EzTS1KLW1uSW9Ublotd1FCZ2ZvczZWMEl6LTU4WWVLMWZ1ZVN0WmVNcW5NTTM3Rm5sVW5fSURxelpCQjZlVVNyVkdwZzI2eWJBanBIY0VUWWl1c21rSU5GeC1BVV91X0ExQ1hlTzZELUJLS3FfbWlzS0ZZaTd3ZzB1bGNCMnRVb0E1dXBkTUl4LTVQQjZqZHRnOFZqSXNB0gGrAUFVX3lxTE1UT0U3ZG1haFpZdE5OSHc0cVdUVlN5d1RrSktnTTJHQXdqVFZOUzhZcTBxZkxPWmFoRTdiNGRONm5QUzE3S09ZdUlvWk90VGVaZmtiNnZNb0dGd3FBTXR6Q25tdWM1aXIwS0hrSUt5T1JUVDdWNVZwa1F2d1JZZ2I4RWtjLUdaZEpIMWRUa3MzcW81bG5veUViU055N2NIQVBwQ0dKTXNTQlNmUQ?oc=5",
+      "publishedAt": "2026-08-16T06:30:28.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "tool": "hostinger",
+      "toolName": "Hostinger",
+      "category": "Partner watch",
+      "title": "Hostinger AI Builder: How to duplicate a website - Hostinger",
+      "summary": "Hostinger AI Builder: How to duplicate a website &nbsp;&nbsp; Hostinger",
+      "guide": "/partners/hostinger.html",
+      "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0trb3UyUy1oaXNWRWh3M0VzajFTeGEyanNJQ0NBa0hnMGlhZnE4V0puaGd2aXIxS0NWV3FmNU1tejZuVVFmOU5FdEhSc1daRGZiaHFIMmxzTlItTENqQUdLS0ZuUm9yTmFxalFiZHdDdWZJOUVXRUg5OEdZb0Y2Y19KeVNvbXpWMVlCVWpjbGlHQ3JQ?oc=5",
+      "publishedAt": "2026-08-22T03:52:35.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "tool": "semrush",
+      "toolName": "Semrush",
+      "category": "Partner watch",
+      "title": "Semrush vs Ahrefs: Which SEO Tool Actually Wins in 2026? - The Zero Net",
+      "summary": "Semrush vs Ahrefs: Which SEO Tool Actually Wins in 2026? &nbsp;&nbsp; The Zero Net",
+      "guide": "/partners/semrush.html",
+      "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oSk9ZSWU4NWFKcllGcTItdHFldm91dGxiV1lvU2trU1FGYWI4aTVXQlJkRzgtaUN4LVFER19UaUlYSDhwZU5lX1YzcGZCMFhXd19j?oc=5",
+      "publishedAt": "2026-08-20T00:48:34.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "tool": "canva",
+      "toolName": "Canva AI",
+      "category": "Partner watch",
+      "title": "Canva Acquires Simtheory and Ortto as It Expands Into AI and Marketing Tech - UC Today",
+      "summary": "Canva Acquires Simtheory and Ortto as It Expands Into AI and Marketing Tech &nbsp;&nbsp; UC Today",
+      "guide": "/partners/canva.html",
+      "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX0lyR3p3YmdOU0ltM0lqY2tkWVpCcDRoR3p2RklXd0ZCQ2FwcHBUTFNtbHFQUEdCU1R0SEtzMS11UXJrUG5PS3lnUVM0Ti1xV1Q4THlNWEJ1cnROLVlpMkIwZlN4aHBYdW1UNkRPa2R4emZzWjRYRG5INjlnQ0FIaHNndnpjRVVnWlZJbGhoeEpBMXFiRzdqQ2FrcjViNXZL?oc=5",
+      "publishedAt": "2026-08-21T14:10:11.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "tool": "runway",
       "toolName": "Runway",
       "category": "Partner watch",
-      "title": "Samsung's Galaxy Book4 Edge is 'a zippy Copilot+ Windows 11 laptop' that's now £399 at Currys — half its usual price for a Snapdragon-powered ultraportable business machine",
-      "summary": "We found this vibrant 15.6-inch laptop delivered 'provides plenty of runway for productivity and personal tasks.'",
-      "guide": "/tools/runway.html",
-      "source": "https://www.techradar.com/pro/samsungs-galaxy-book4-edge-is-a-zippy-copilot-windows-11-laptop-thats-now-gbp399-at-currys-half-its-usual-price-for-a-snapdragon-powered-ultraportable-business-machine",
-      "publishedAt": "2026-08-20T16:02:38.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rF4iZ3MzgSf6hvwrTQyDG-2560-80.jpg"
+      "title": "How to make an AI image in 6 quick steps - Runway",
+      "summary": "How to make an AI image in 6 quick steps &nbsp;&nbsp; Runway",
+      "guide": "/partners/runway.html",
+      "source": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uZzNoZUhMM3RTdlZaa1dhZ3NXdzFWNWxiSlhKUXdMMlhPQThLMUthSVJ0emtuS2phUFhZSWFMYmZfU01QRUZJQlVCUXBTbWl0R0FtSmJFTzJNVnk5bWdr?oc=5",
+      "publishedAt": "2026-08-21T05:41:28.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "tool": "soundraw",
+      "toolName": "SOUNDRAW",
+      "category": "Partner watch",
+      "title": "SOUNDRAW Review on Quasa: Safest AI Music Generator - quasa.io",
+      "summary": "SOUNDRAW Review on Quasa: Safest AI Music Generator &nbsp;&nbsp; quasa.io",
+      "guide": "/partners/soundraw.html",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05YXlqY1RJWE9tc1kwVVM5bU1JNThFdkY1dnBRdlEycXEtNU1wak1KNnFQNWJlZHl3WlpaZEFHYURuOFNuM2h6bUgxNTFMdnJrR2czVjZiZWZKMmpOc0lZdktBWWQ0eFNPdkFlVFAweklkenM1bHpaeHJQUEFNQQ?oc=5",
+      "publishedAt": "2026-08-18T20:28:56.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Apple Music to start labelling songs as “Created with AI” - BGNES",
+      "summary": "Apple Music to start labelling songs as “Created with AI” &nbsp;&nbsp; BGNES",
+      "guide": "/news/index.html",
+      "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFBRa1RtTmhSMnQ0Z3hFWnMyRGRQNVBUNWNSbDFORXJDSmNMMjQtbm52XzRTOHNjQjlhSjZickhvZ2JQZUhTMDJacmpDWERVb2l2RlEwd1NJUGJmeWpRVGkyZEx5RXNaaDJIRUZKNmNWRHdCRUMtTlVRRkZIS3JLaDVVcExMbUFUcjFSME9vSnFJWDJw?oc=5",
+      "publishedAt": "2026-08-22T02:55:01.000Z",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ]
 }
