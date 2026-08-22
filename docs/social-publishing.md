@@ -57,9 +57,10 @@ Future adapters should consume the normalized queue item and its platform state.
 
 When a queue item has no usable source image, queue creation generates deterministic MahGPT editorial cards with no external API or new secret:
 
-- landscape SVG for Telegram, LinkedIn and X: 1200×675
-- portrait SVG reserved for Instagram: 1080×1350
+- landscape PNG for Telegram, LinkedIn and X: 1200×675
+- portrait PNG reserved for Instagram: 1080×1350
+- SVG sources may remain beside the PNGs for deterministic regeneration
 - stored under assets/social-cards/YYYY-MM-DD/
 - queue fields image_mode, fallback_image_landscape and fallback_image_instagram identify the selected media
 
-Telegram first attempts the source image, then the generated landscape card, then falls back to a text-only message if both image sends fail. Generated cards are committed with the queue so they are not regenerated during social publishing slots.
+Telegram first attempts the source image, then reads the generated local landscape PNG directly from the checked-out repository and uploads it as image/png. It falls back to a text-only message only if both image sends fail. Generated cards are committed with the queue so they are not regenerated during social publishing slots.
