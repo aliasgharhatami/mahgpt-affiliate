@@ -1,44 +1,20 @@
 import { readFile, writeFile, mkdir, unlink } from "node:fs/promises";
 import { createWriteStream } from "node:fs";
 import { pipeline } from "node:stream/promises";
-import { cleanHeadline, cleanText, editorialSummary, storySlug, sourceName, detectPartner } from "./social-content.mjs";
+import { cleanHeadline, editorialSummary, storySlug, sourceName, detectPartner } from "./social-content.mjs";
+import { FEED, LINKS, QUEUE, HISTORY } from "./social-queue.mjs";
 
-const FEED="assets/news-feed.json", LINKS="config/social-affiliate-links.json", STATE="data/telegram-published.json";
-const CHANNEL=process.env.TELEGRAM_CHANNEL||"@mahgptplus", TOKEN=process.env.TELEGRAM_BOT_TOKEN, mode=process.argv[2]||"automatic";
-const readJson=async(path,fallback)=>{try{return JSON.parse(await readFile(path,"utf8"))}catch{return fallback}};
-const keyFor=n=>n.source||[n.title,n.publishedAt].join("|");
-const normalized=n=>{const headline=cleanHeadline(n.headline||n.title);const partner=detectPartner({...n,headline});return {story_id:keyFor(n),headline,summary:editorialSummary({...n,headline,detectedPartner:partner}),mahgpt_url:"https://mahgpt.com/news/story.html?id="+encodeURIComponent(storySlug(headline)),source_name:sourceName(n.source),source_url:n.source||"",image:n.image||"",detected_partner:partner,tool:n.tool,toolName:n.toolName}};
+const CHANNEL=process.env.TELEGRAM_CHANNEL||"@mahgptplus", TOKEN=process.env.TELEGRAM_BOT_TOKEN, mode=process.argv[2]||"queue-next";
+const readJson=async(p,f)=>{try{return JSON.parse(await readFile(p,"utf8"))}catch{return f}};
 const escapeHtml=v=>String(v??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const resolveProduct=(post,links)=>{const e=post.detected_partner ? (links[post.detected_partner] || {}) : {};if(e.status==="active"&&e.affiliateUrl)return {url:e.affiliateUrl,affiliate:true};if(e.status==="pending"||e.status==="none")return {url:e.redirectPath||e.officialUrl||"",affiliate:false};return {url:"",affiliate:false}};
-const formatPost=(post,product)=>{
-  const source=post.source_name?"\n\n<i>Source: "+escapeHtml(post.source_name)+"</i>":"";
-  const cta=product.url?"\n\n🚀 <b>Explore "+escapeHtml(post.toolName||post.detected_partner)+"</b>\n"+escapeHtml(product.url):"";
-  const disclosure=product.affiliate?"\n\n<i>Affiliate disclosure: MahGPT may earn a commission from this link.</i>":"";
-  return "<b>"+escapeHtml(post.headline)+"</b>\n\n"+escapeHtml(post.summary)+source+"\n\n🔗 <b>Read the full story on MahGPT</b>\n"+escapeHtml(post.mahgpt_url)+cta+disclosure;
-};
-const api=async(method,fields)=>{const r=await fetch("https://api.telegram.org/bot"+TOKEN+"/"+method,{method:"POST",body:fields});const d=await r.json();if(!r.ok||!d.ok)throw new Error(d.description||"Telegram API request failed");return d};
-const send=async(post,links)=>{
-  const product=resolveProduct(post,links), text=formatPost(post,product);
-  if(post.image&&!/googleusercontent\.com|news-default\.svg/i.test(post.image)){
-    const file="telegram-image-"+Date.now()+".tmp";
-    try{const r=await fetch(post.image,{headers:{"user-agent":"MahGPT-TelegramPublisher/1.0"}});if(r.ok){await pipeline(r.body,createWriteStream(file));const f=new FormData();f.append("chat_id",CHANNEL);f.append("caption",text);f.append("parse_mode","HTML");f.append("photo",new Blob([await readFile(file)]),"news-image");await api("sendPhoto",f);return "photo"}}finally{await unlink(file).catch(()=>{})}
-  }
-  await api("sendMessage",new URLSearchParams({chat_id:CHANNEL,text,parse_mode:"HTML",disable_web_page_preview:"false"}));return "message";
-};
+const formatPost=(post)=>{const source=post.source_name?"\n\n<i>Source: "+escapeHtml(post.source_name)+"</i>":"",cta=post.product_url?"\n\n🚀 <b>Explore "+escapeHtml(post.detected_partner)+"</b>\n"+escapeHtml(post.product_url):"",disclosure=post.affiliate_status==="active"?"\n\n<i>Affiliate disclosure: MahGPT may earn a commission from this link.</i>":"";return "<b>"+escapeHtml(post.headline)+"</b>\n\n"+escapeHtml(post.summary)+source+"\n\n🔗 <b>Read the full story on MahGPT</b>\n"+escapeHtml(post.mahgpt_url)+cta+disclosure};
+const api=async(method,fields)=>{const r=await fetch("https://api.telegram.org/bot"+TOKEN+"/"+method,{method:"POST",body:fields}),d=await r.json();if(!r.ok||!d.ok)throw new Error(d.description||"Telegram API request failed");return d};
+const send=async post=>{const text=formatPost(post);if(post.image&&!/googleusercontent\.com|news-default\.svg/i.test(post.image)){const file="telegram-image-"+Date.now()+".tmp";try{const r=await fetch(post.image,{headers:{"user-agent":"MahGPT-TelegramPublisher/1.0"}});if(r.ok){await pipeline(r.body,createWriteStream(file));const f=new FormData();f.append("chat_id",CHANNEL);f.append("caption",text);f.append("parse_mode","HTML");f.append("photo",new Blob([await readFile(file)]),"news-image");const d=await api("sendPhoto",f);return {delivery:"photo",message_id:d.result?.message_id}}}finally{await unlink(file).catch(()=>{})}}const d=await api("sendMessage",new URLSearchParams({chat_id:CHANNEL,text,parse_mode:"HTML",disable_web_page_preview:"false"}));return {delivery:"message",message_id:d.result?.message_id}};
+const write=async(p,v)=>{await mkdir("data",{recursive:true});await writeFile(p,JSON.stringify(v,null,2)+"\n")};
+const legacyNormalized=async()=>{const feed=await readJson(FEED,{items:[]}),links=await readJson(LINKS,{}),n=feed.items?.find(x=>x?.source===process.env.TEST_SOURCE)||feed.items?.[0];if(!n)throw new Error("No current feed item found");const headline=cleanHeadline(n.title),partner=detectPartner({...n,headline}),e=partner?(links[partner]||{}):{};return {story_id:n.source,headline,summary:editorialSummary({...n,headline,detectedPartner:partner}),mahgpt_url:"https://mahgpt.com/news/story.html?id="+encodeURIComponent(storySlug(headline)),source_name:sourceName(n.source),source_url:n.source,image:n.image||"",detected_partner:partner,product_url:e.status==="active"&&e.affiliateUrl?e.affiliateUrl:e.redirectPath||e.officialUrl||"",affiliate_status:e.status||null}};
 if(!TOKEN){console.error("Telegram publishing skipped: TELEGRAM_BOT_TOKEN is not configured.");process.exit(0)}
-const feed=await readJson(FEED,{items:[]}), links=await readJson(LINKS,{}), state=await readJson(STATE,{version:1,initializedAt:null,published:{}});
-const items=Array.isArray(feed.items)?feed.items.filter(n=>n&&n.title&&n.source):[];
-if(mode==="test"){
-  const requested=process.env.TEST_SOURCE, item=items.find(n=>requested?n.source===requested:true);
-  if(!item)throw new Error("No controlled test item found in assets/news-feed.json");
-  try{await send(normalized(item),links);console.log("Telegram test succeeded:",cleanHeadline(item.title))}catch(error){console.error("Telegram test failed:",error.message);process.exitCode=1}process.exit();
-}
-if(!state.initializedAt){
-  state.initializedAt=new Date().toISOString();
-  for(const item of items)state.published[keyFor(item)]={status:"baseline",initializedAt:state.initializedAt};
-  await mkdir("data",{recursive:true});await writeFile(STATE,JSON.stringify(state,null,2)+"\n");
-  console.log("Telegram publisher initialized safely; historical news was not published.");process.exit();
-}
-for(const item of items.filter(n=>!state.published[keyFor(n)]&&Date.parse(n.publishedAt||0)>=Date.parse(state.initializedAt))){
-  try{const post=normalized(item),delivery=await send(post,links);state.published[keyFor(item)]={status:"sent",delivery,sentAt:new Date().toISOString(),story_id:post.story_id};await mkdir("data",{recursive:true});await writeFile(STATE,JSON.stringify(state,null,2)+"\n");console.log("Telegram published:",post.headline)}catch(error){console.error("Telegram publish failed:",cleanHeadline(item.title),error.message)}
-}
+if(mode==="test"){try{const p=await legacyNormalized();await send(p);console.log("Telegram test succeeded:",p.headline)}catch(e){console.error("Telegram test failed:",e.message);process.exitCode=1}process.exit()}
+const queue=await readJson(QUEUE,null);if(!queue?.items?.length){console.log("No social queue is available; nothing published.");process.exit(0)}
+const retry=process.env.RETRY_FAILED==="true",manual=process.env.MANUAL_NEXT==="true",now=Date.now(),item=queue.items.find(x=>x.telegram?.status==="pending"&& (manual||Date.parse(x.scheduled_publish_at)<=now)) || (retry?queue.items.find(x=>x.telegram?.status==="failed") : null);
+if(!item){console.log("No eligible queued Telegram item; nothing published.");process.exit(0)}
+try{const result=await send(item);item.telegram={status:"published",published_at:new Date().toISOString(),message_id:result.message_id,delivery:result.delivery};const history=await readJson(HISTORY,{version:1,stories:{}});history.stories=history.stories||{};history.stories[item.story_id]={...(history.stories[item.story_id]||{}),telegram:item.telegram,linkedin:{status:"pending"},instagram:{status:"pending"},x:{status:"pending"}};await write(QUEUE,queue);await write(HISTORY,history);console.log("Telegram published one queued item:",item.headline)}catch(e){item.telegram={...(item.telegram||{}),status:"failed",failed_at:new Date().toISOString(),error:e.message};await write(QUEUE,queue);console.error("Telegram publish failed; item retained as failed:",item.headline,e.message)}
