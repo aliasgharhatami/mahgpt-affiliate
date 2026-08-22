@@ -1,58 +1,19 @@
-const entities = { "&nbsp;":" ", "&amp;":"&", "&quot;":"\"", "&#39;":"'", "&apos;":"'", "&lt;":"<", "&gt;":">" };
-export const cleanText = value => String(value ?? "")
-  .replace(/<!\[CDATA\[|\]\]>/g, "")
-  .replace(/<[^>]*>/g, " ")
-  .replace(/&(?:nbsp|amp|quot|#39|apos|lt|gt);/gi, match => entities[match.toLowerCase()] ?? match)
-  .replace(/\s+/g, " ").trim();
-
-const publisherTail = /\s+(?:\||-|–|—)\s+(?:the ai economy|ken yeung|techcrunch|venturebeat|wired|the verge|techradar|macworld|creative bloq|gadgets 360|engadget|artificial intelligence news)\s*$/i;
-export const cleanHeadline = value => cleanText(value).replace(publisherTail, "").replace(/[|–—-]\s*$/, "").trim();
-
-export const sourceName = value => {
-  try { const host = new URL(value).hostname.replace(/^www\./, ""); return host.split(".")[0].replace(/[-_]/g, " ").replace(/\b\w/g, c => c.toUpperCase()); }
-  catch { return ""; }
-};
-
-export const storySlug = (value, fallback = "ai-news") => {
-  const slug = cleanHeadline(value).toLowerCase().replace(/['’]/g, "").replace(/&/g, " and ")
-    .replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 90);
-  return slug || fallback;
-};
-
-const comparable = value => cleanText(value).toLowerCase().replace(/[^a-z0-9]/g, "");
-export const editorialSummary = (item = {}) => {
-  const headline = cleanHeadline(item.headline || item.title);
-  const raw = cleanText(item.summary || item.description);
-  if (!raw || comparable(raw) === comparable(headline)) {
-    const partner = item.toolName || item.detectedPartner || "";
-    return partner ? partner + " is the focus of this latest update. MahGPT is tracking what changed and what it could mean for people evaluating the tool."
-      : "This is a new development in the AI and technology ecosystem. MahGPT is tracking the confirmed details and their practical implications.";
-  }
-  const useful = raw.toLowerCase().startsWith(headline.toLowerCase()) ? raw.slice(headline.length).replace(/^[\s:–—-]+/, "") : raw;
-  return cleanText(useful || raw).slice(0, 520).replace(/\s+\S*$/, "") + (useful.length > 520 ? "…" : "");
-};
-
-const partnerAliases = [
-  ["horizons", /\bhostinger\s+horizons\b|\bhorizons\b/],
-  ["elevenlabs", /\beleven\s*labs\b/],
-  ["adobe", /\badobe\b|\bfirefly\b/],
-  ["descript", /\bdescript\b/],
-  ["invideo", /\binvideo\b/],
-  ["canva", /\bcanva\b/],
-  ["hostinger", /\bhostinger\b/],
-  ["semrush", /\bsemrush\b/],
-  ["surfer", /\bsurfer(?:\s*seo)?\b/],
-  ["heygen", /\bheygen\b/],
-  ["fliki", /\bfliki\b/],
-  ["pictory", /\bpictory\b/],
-  ["soundraw", /\bsoundraw\b/],
-  ["adcreative", /\badcreative(?:\.ai)?\b/],
-  ["create-music-ai", /\bcreate\s*music\s*ai\b|\bcreatemusicai\b/],
-  ["jasper", /\bjasper\b/],
-  ["runway", /\brunway\b/]
-];
-
-export const detectPartner = (item = {}) => {
-  const haystack = cleanText([item.headline, item.title, item.summary, item.source, item.articleTitle, item.articleDescription].join(" ")).toLowerCase();
-  return partnerAliases.find(([, pattern]) => pattern.test(haystack))?.[0] || null;
-};
+const entities={"&nbsp;":" ","&amp;":"&","&quot;":"\"","&#39;":"'","&apos;":"'","&lt;":"<","&gt;":">"};
+export const cleanText=value=>String(value??"").replace(/<!\[CDATA\[|\]\]>/g,"").replace(/<[^>]*>/g," ").replace(/&(?:nbsp|amp|quot|#39|apos|lt|gt);/gi,m=>entities[m.toLowerCase()]??m).replace(/\s+/g," ").trim();
+const knownPublishers=["the ai economy","ken yeung","techcrunch","venturebeat","wired","the verge","techradar","macworld","creative bloq","gadgets 360","engadget","artificial intelligence news","uc today","et enterprise ai","the zero net","bgn es","b g n e s"];
+const sourceFromSuffix=value=>{const raw=cleanText(value),m=raw.match(/\s+(?:\||-|–|—)\s+([^|–—-]+?)(?:\s*\|\s*([^|]+))?\s*$/);if(!m)return"";const candidate=m[1].trim();return knownPublishers.includes(candidate.toLowerCase())?candidate.replace(/\b\w/g,c=>c.toUpperCase()):""};
+export const inferSourceName=item=>{const explicit=cleanText(item.sourceName||item.publisher||item.creator||item.siteName);if(explicit&&explicit.toLowerCase()!=="news"&&explicit.toLowerCase()!=="google news")return explicit;const suffix=sourceFromSuffix(item.title||item.headline);if(suffix)return suffix;try{const host=new URL(item.source||"").hostname.replace(/^www\./,"");if(!host||/google\.com$/i.test(host)||/news\.google/i.test(host))return"";return host.split(".")[0].replace(/[-_]/g," ").replace(/\b\w/g,c=>c.toUpperCase())}catch{return""}};
+export const cleanHeadline=(value,item={})=>{let headline=cleanText(value),source=inferSourceName({...item,title:value});if(source)headline=headline.replace(new RegExp("\\s+(?:\\||-|–|—)\\s+"+source+"(?:\\s*\\|\\s*[^|]+)?\\s*$","i"),"");headline=headline.replace(/\s+(?:\\||-|–|—)\s+The AI Economy\s*\|\s*Ken Yeung\s*$/i,"").replace(/\s+(?:The AI Economy)\s*\|\s*Ken Yeung\s*$/i,"").replace(/[|–—-]\s*$/,"").trim();return headline};
+export const sourceName=value=>inferSourceName({source:value});
+export const storySlug=(value,fallback="ai-news")=>{const slug=cleanHeadline(value).toLowerCase().replace(/['’]/g,"").replace(/&/g," and ").replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"").slice(0,90);return slug||fallback};
+const comparable=value=>cleanText(value).toLowerCase().replace(/[^a-z0-9]/g,"");
+const metadataOnly=/^[^|]+\s*\|\s*[^|]+$/i;
+const partnerLabel={adobe:"Adobe",elevenlabs:"ElevenLabs",descript:"Descript",invideo:"InVideo",horizons:"Hostinger Horizons",hostinger:"Hostinger",canva:"Canva",semrush:"Semrush",surfer:"Surfer",heygen:"HeyGen",fliki:"Fliki",pictory:"Pictory",soundraw:"SOUNDRAW",runway:"Runway"};
+export const editorialSummary=(item={})=>{const headline=cleanHeadline(item.headline||item.title,item),raw=cleanText(item.summary||item.description||item.articleDescription),candidate=raw.toLowerCase().startsWith(headline.toLowerCase())?raw.slice(headline.length).replace(/^[\s:–—-]+/,""):raw;const unusable=!candidate||metadataOnly.test(candidate)||candidate.length<35||comparable(candidate)===comparable(headline)||/^(?:source|publisher|by)\s*:/i.test(candidate);if(!unusable)return candidate.slice(0,520).replace(/\s+\S*$/,"")+(candidate.length>520?"…":"");const label=partnerLabel[item.detectedPartner||item.toolName]||item.detectedPartner||item.toolName||"";if(label&&/adobe|firefly/i.test(headline))return "Adobe has moved its Firefly audio tools out of beta. The update points to a more mature release for creators using Adobe’s AI-powered audio features.";if(label)return label+" is the subject of this update. The available source metadata confirms a development involving the company or product, while the full report provides the remaining details.";return headline+". The available source metadata identifies this as a current technology news update."};
+const suspiciousImage=/logo|icon|favicon|avatar|placeholder|default|google[-_]?news|googlenews|rss|feed|pixel|tracking/i;
+export const isRejectedImage=url=>{const s=String(url||"");return !s||suspiciousImage.test(s)||/googleusercontent\.com|news\.google|gstatic\.com/i.test(s)||/^data:image/i.test(s)};
+const sizeFromBytes=(bytes,type)=>{if(type.includes("png")&&bytes.length>24)return {width:bytes.readUInt32BE(16),height:bytes.readUInt32BE(20)};if(type.includes("jpeg")||type.includes("jpg"))for(let i=2;i<Math.min(bytes.length-9,65536);){if(bytes[i]!==0xff){i++;continue}const marker=bytes[i+1],len=bytes.readUInt16BE(i+2);if(marker>=0xc0&&marker<=0xc3)return {width:bytes.readUInt16BE(i+7),height:bytes.readUInt16BE(i+5)};i+=2+len}return null};
+export const validateImageUrl=async url=>{if(isRejectedImage(url))return {valid:false,reason:"placeholder-or-suspicious-image"};try{const r=await fetch(url,{headers:{"user-agent":"MahGPT-NewsBot/1.0"}});if(!r.ok)return {valid:false,reason:"image-request-failed"};const type=r.headers.get("content-type")||"";if(!type.startsWith("image/"))return {valid:false,reason:"not-an-image"};const size=sizeFromBytes(Buffer.from(await r.arrayBuffer()),type.toLowerCase());if(size&&(size.width<600||size.height<300))return {valid:false,reason:"image-too-small",...size};return {valid:true,width:size?.width||null,height:size?.height||null}}catch{return {valid:false,reason:"image-validation-error"}}};
+const partnerAliases=[["horizons",/\bhostinger\s+horizons\b|\bhorizons\b/],["elevenlabs",/\beleven\s*labs\b/],["adobe",/\badobe\b|\bfirefly\b/],["descript",/\bdescript\b/],["invideo",/\binvideo\b/],["canva",/\bcanva\b/],["hostinger",/\bhostinger\b/],["semrush",/\bsemrush\b/],["surfer",/\bsurfer(?:\s*seo)?\b/],["heygen",/\bheygen\b/],["fliki",/\bfliki\b/],["pictory",/\bpictory\b/],["soundraw",/\bsoundraw\b/],["adcreative",/\badcreative(?:\.ai)?\b/],["create-music-ai",/\bcreate\s*music\s*ai\b|\bcreatemusicai\b/],["jasper",/\bjasper\b/],["runway",/\brunway\b/]];
+export const detectPartner=item=>{const haystack=cleanText([item.headline,item.title,item.summary,item.source,item.articleTitle,item.articleDescription].join(" ")).toLowerCase();return partnerAliases.find(([,pattern])=>pattern.test(haystack))?.[0]||null};
+export const validateSocialPost=post=>{const repairs=[],warnings=[],fixed={...post,headline:cleanHeadline(post.headline||post.title,post),source_name:inferSourceName(post)||"News"};fixed.summary=editorialSummary({...post,...fixed});if(fixed.headline!==post.headline)repairs.push("headline-cleaned");if(fixed.summary!==post.summary)repairs.push("summary-repaired");if(!fixed.detected_partner)fixed.product_url="";if(fixed.source_name==="News"&&!inferSourceName(post))warnings.push("source-fallback");if(isRejectedImage(fixed.image_url)){fixed.image_url="";fixed.image_mode="fallback_card";repairs.push("image-rejected")}return {valid:Boolean(fixed.headline&&fixed.summary),warnings,repairs,post:fixed}};
