@@ -1,7 +1,7 @@
 {
   "version": 1,
   "queue_date": "2026-08-23",
-  "created_at": "2026-08-22T21:01:26.245Z",
+  "created_at": "2026-08-22T21:13:17.262Z",
   "source_feed_updated_at": "2026-08-22T05:44:38.070Z",
   "items": [
     {
@@ -20,10 +20,8 @@
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-08-23T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-08-22T21:04:49.020Z",
-        "message_id": 230,
-        "delivery": "message"
+        "status": "skipped_duplicate",
+        "published_at": "2026-08-22T21:04:49.020Z"
       },
       "linkedin": {
         "status": "pending"
@@ -34,8 +32,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Adobe-s-Firefly-Audio-Tools-Exit-Beta-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Adobe-s-Firefly-Audio-Tools-Exit-Beta-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Adobe-s-Firefly-Audio-Tools-Exit-Beta-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Adobe-s-Firefly-Audio-Tools-Exit-Beta-instagram.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -72,8 +70,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Bengaluru-startup-Murf-AI-launches-low-cost-voice-model-to-challenge-OpenAI-Elev-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Bengaluru-startup-Murf-AI-launches-low-cost-voice-model-to-challenge-OpenAI-Elev-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Bengaluru-startup-Murf-AI-launches-low-cost-voice-model-to-challenge-OpenAI-Elev-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Bengaluru-startup-Murf-AI-launches-low-cost-voice-model-to-challenge-OpenAI-Elev-instagram.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -152,8 +150,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Best-Free-AI-Video-Editing-Apps-for-Creators-in-India-CapCut-InVideo-and-More-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Best-Free-AI-Video-Editing-Apps-for-Creators-in-India-CapCut-InVideo-and-More-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Best-Free-AI-Video-Editing-Apps-for-Creators-in-India-CapCut-InVideo-and-More-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Best-Free-AI-Video-Editing-Apps-for-Creators-in-India-CapCut-InVideo-and-More-instagram.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -190,8 +188,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Hostinger-AI-Builder-How-to-duplicate-a-website-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Hostinger-AI-Builder-How-to-duplicate-a-website-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Hostinger-AI-Builder-How-to-duplicate-a-website-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Hostinger-AI-Builder-How-to-duplicate-a-website-instagram.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -228,8 +226,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Semrush-vs-Ahrefs-Which-SEO-Tool-Actually-Wins-in-2026--landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Semrush-vs-Ahrefs-Which-SEO-Tool-Actually-Wins-in-2026--instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Semrush-vs-Ahrefs-Which-SEO-Tool-Actually-Wins-in-2026--landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Semrush-vs-Ahrefs-Which-SEO-Tool-Actually-Wins-in-2026--instagram.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -266,8 +264,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Canva-Acquires-Simtheory-and-Ortto-as-It-Expands-Into-AI-and-Marketing-Tech-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Canva-Acquires-Simtheory-and-Ortto-as-It-Expands-Into-AI-and-Marketing-Tech-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Canva-Acquires-Simtheory-and-Ortto-as-It-Expands-Into-AI-and-Marketing-Tech-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Canva-Acquires-Simtheory-and-Ortto-as-It-Expands-Into-AI-and-Marketing-Tech-instagram.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -304,8 +302,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/How-to-make-an-AI-image-in-6-quick-steps-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/How-to-make-an-AI-image-in-6-quick-steps-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/How-to-make-an-AI-image-in-6-quick-steps-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/How-to-make-an-AI-image-in-6-quick-steps-instagram.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -342,8 +340,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/SOUNDRAW-Review-on-Quasa-Safest-AI-Music-Generator-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/SOUNDRAW-Review-on-Quasa-Safest-AI-Music-Generator-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/SOUNDRAW-Review-on-Quasa-Safest-AI-Music-Generator-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/SOUNDRAW-Review-on-Quasa-Safest-AI-Music-Generator-instagram.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -380,8 +378,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Apple-Music-to-start-labelling-songs-as-Created-with-AI--landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Apple-Music-to-start-labelling-songs-as-Created-with-AI--instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Apple-Music-to-start-labelling-songs-as-Created-with-AI--landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Apple-Music-to-start-labelling-songs-as-Created-with-AI--instagram.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
