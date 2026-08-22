@@ -3,8 +3,8 @@ on:
   workflow_dispatch:
     inputs:
       source:
-        description: Optional exact source URL from assets/news-feed.json; leave blank to test the first current item
-        required: false
+        description: Required exact source URL from assets/news-feed.json; choose one current story that has not been tested before
+        required: true
         type: string
 permissions:
   contents: read
