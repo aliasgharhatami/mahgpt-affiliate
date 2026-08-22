@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "queue_date": "2026-08-22",
-  "created_at": "2026-08-22T20:54:13.479Z",
+  "queue_date": "2026-08-23",
+  "created_at": "2026-08-22T21:01:26.245Z",
   "source_feed_updated_at": "2026-08-22T05:44:38.070Z",
   "items": [
     {
@@ -18,7 +18,7 @@
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-08-22T05:20:00.000Z",
+      "scheduled_publish_at": "2026-08-23T05:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -32,8 +32,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-22/Adobe-s-Firefly-Audio-Tools-Exit-Beta-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-22/Adobe-s-Firefly-Audio-Tools-Exit-Beta-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Adobe-s-Firefly-Audio-Tools-Exit-Beta-landscape.svg",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Adobe-s-Firefly-Audio-Tools-Exit-Beta-instagram.svg",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -46,7 +46,7 @@
       "story_id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQkt1WVI3Rmo3Nm5nVWVOOGZoNTd0YmRZUUNQT1dhYjdMQTE1cHZBTXNvZnJBSFd1cWd6b0lTSVYyUi1kcEVCblZtRmNBeVRvRlNGNlRvZzVXNmthMFVJNFRhOXprYUYySC1TcEhxNkl5QlJKS2dEeERudWdlMmtQTXRULVc1cklUbDlYZWtiN0lPVUt5b1VmNk1HYlg1cl96NE03MXlTQ3Blam9UWFpKV1V2S1I0V2xkQjJXb2pxNUF1NGE0cnQ0VkxXWVY4dTgzNWdmYXgtYXRROW1mbFh1d3RyRFlVdGNzR01hb21rdEt2TEFWWmpJ0gH3AUFVX3lxTE5CS3VZUjdGajc2bmdVZU44Zmg1N3RiZFlRQ1BPV2FiN0xBMTVwdkFNc29mckFIV3VxZ3pvSVNJVjJSLWRwRUJuVm1GY0F5VG9GU0Y2VG9nNVc2a2EwVUk0VGE5emthRjJILVNwSHE2SXlCUkpLZ0R4RG51Z2Uya1BNdFQtVzVySVRsOVhla2I3SU9VS3lvVWY2TUdiWDVyX3o0TTcxeVNDcGVqb1RYWkpXVXZLUjRXbGRCMldvanE1QXU0YTRydDRWTFdZVjh1ODM1Z2ZheC1hdFE5bWZsWHV3dHJEWVV0Y3NHTWFvbWt0S3ZMQVZaakk?oc=5",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQkt1WVI3Rmo3Nm5nVWVOOGZoNTd0YmRZUUNQT1dhYjdMQTE1cHZBTXNvZnJBSFd1cWd6b0lTSVYyUi1kcEVCblZtRmNBeVRvRlNGNlRvZzVXNmthMFVJNFRhOXprYUYySC1TcEhxNkl5QlJKS2dEeERudWdlMmtQTXRULVc1cklUbDlYZWtiN0lPVUt5b1VmNk1HYlg1cl96NE03MXlTQ3Blam9UWFpKV1V2S1I0V2xkQjJXb2pxNUF1NGE0cnQ0VkxXWVY4dTgzNWdmYXgtYXRROW1mbFh1d3RyRFlVdGNzR01hb21rdEt2TEFWWmpJ0gH3AUFVX3lxTE5CS3VZUjdGajc2bmdVZU44Zmg1N3RiZFlRQ1BPV2FiN0xBMTVwdkFNc29mckFIV3VxZ3pvSVNJVjJSLWRwRUJuVm1GY0F5VG9GU0Y2VG9nNVc2a2EwVUk0VGE5emthRjJILVNwSHE2SXlCUkpLZ0R4RG51Z2Uya1BNdFQtVzVySVRsOVhla2I3SU9VS3lvVWY2TUdiWDVyX3o0TTcxeVNDcGVqb1RYWkpXVXZLUjRXbGRCMldvanE1QXU0YTRydDRWTFdZVjh1ODM1Z2ZheC1hdFE5bWZsWHV3dHJEWVV0Y3NHTWFvbWt0S3ZMQVZaakk?oc=5",
       "headline": "Bengaluru startup Murf AI launches low-cost voice model to challenge OpenAI, ElevenLabs",
-      "summary": "ElevenLabs is the subject of this update. The available source metadata confirms a development involving the company or product, while the full report provides the remaining details.",
+      "summary": "Murf AI has launched a lower-cost voice model aimed at competing with major AI voice platforms including OpenAI and ElevenLabs.",
       "source_name": "ET Enterprise AI",
       "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "image_url": "",
@@ -56,7 +56,7 @@
       "detected_partner": "elevenlabs",
       "product_url": "/go/elevenlabs.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-08-22T07:20:00.000Z",
+      "scheduled_publish_at": "2026-08-23T07:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -70,8 +70,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-22/Bengaluru-startup-Murf-AI-launches-low-cost-voice-model-to-challenge-OpenAI-Elev-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-22/Bengaluru-startup-Murf-AI-launches-low-cost-voice-model-to-challenge-OpenAI-Elev-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Bengaluru-startup-Murf-AI-launches-low-cost-voice-model-to-challenge-OpenAI-Elev-landscape.svg",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Bengaluru-startup-Murf-AI-launches-low-cost-voice-model-to-challenge-OpenAI-Elev-instagram.svg",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -84,7 +84,7 @@
       "story_id": "https://www.macworld.com/article/230803/iphone-sell-trade-carrier-store-online.html",
       "source_url": "https://www.macworld.com/article/230803/iphone-sell-trade-carrier-store-online.html",
       "headline": "Best places to sell or trade in an iPhone in 2026: How to get the most money",
-      "summary": "Macworld In case you haven’t heard, there’s a new iPhone coming at Apple’s September event and that means two things: You want a new iPhone and you need to sell your old one. If you buy your iPhone outright every year or so, you can usually recoup a good amount of the new cost by selling your old mo",
+      "summary": "With Apple’s next iPhone launch approaching, the article looks at ways to sell or trade in an existing iPhone and recover some of its value.",
       "source_name": "Macworld",
       "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/230803-0-09104600-1787320407-iphone-sell-trade.jpg?quality=50&strip=all&w=1024",
       "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/230803-0-09104600-1787320407-iphone-sell-trade.jpg?quality=50&strip=all&w=1024",
@@ -98,7 +98,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-22T09:20:00.000Z",
+      "scheduled_publish_at": "2026-08-23T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -126,7 +126,7 @@
       "story_id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmU4aERld2EzTS1KLW1uSW9Ublotd1FCZ2ZvczZWMEl6LTU4WWVLMWZ1ZVN0WmVNcW5NTTM3Rm5sVW5fSURxelpCQjZlVVNyVkdwZzI2eWJBanBIY0VUWWl1c21rSU5GeC1BVV91X0ExQ1hlTzZELUJLS3FfbWlzS0ZZaTd3ZzB1bGNCMnRVb0E1dXBkTUl4LTVQQjZqZHRnOFZqSXNB0gGrAUFVX3lxTE1UT0U3ZG1haFpZdE5OSHc0cVdUVlN5d1RrSktnTTJHQXdqVFZOUzhZcTBxZkxPWmFoRTdiNGRONm5QUzE3S09ZdUlvWk90VGVaZmtiNnZNb0dGd3FBTXR6Q25tdWM1aXIwS0hrSUt5T1JUVDdWNVZwa1F2d1JZZ2I4RWtjLUdaZEpIMWRUa3MzcW81bG5veUViU055N2NIQVBwQ0dKTXNTQlNmUQ?oc=5",
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmU4aERld2EzTS1KLW1uSW9Ublotd1FCZ2ZvczZWMEl6LTU4WWVLMWZ1ZVN0WmVNcW5NTTM3Rm5sVW5fSURxelpCQjZlVVNyVkdwZzI2eWJBanBIY0VUWWl1c21rSU5GeC1BVV91X0ExQ1hlTzZELUJLS3FfbWlzS0ZZaTd3ZzB1bGNCMnRVb0E1dXBkTUl4LTVQQjZqZHRnOFZqSXNB0gGrAUFVX3lxTE1UT0U3ZG1haFpZdE5OSHc0cVdUVlN5d1RrSktnTTJHQXdqVFZOUzhZcTBxZkxPWmFoRTdiNGRONm5QUzE3S09ZdUlvWk90VGVaZmtiNnZNb0dGd3FBTXR6Q25tdWM1aXIwS0hrSUt5T1JUVDdWNVZwa1F2d1JZZ2I4RWtjLUdaZEpIMWRUa3MzcW81bG5veUViU055N2NIQVBwQ0dKTXNTQlNmUQ?oc=5",
       "headline": "Best Free AI Video Editing Apps for Creators in India: CapCut, InVideo and More",
-      "summary": "InVideo is the subject of this update. The available source metadata confirms a development involving the company or product, while the full report provides the remaining details.",
+      "summary": "A new comparison looks at free AI video-editing options available to creators in India, including CapCut and InVideo.",
       "source_name": "Gadgets 360",
       "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "image_url": "",
@@ -136,7 +136,7 @@
       "detected_partner": "invideo",
       "product_url": "https://invideo.io/",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-08-22T11:20:00.000Z",
+      "scheduled_publish_at": "2026-08-23T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -150,8 +150,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-22/Best-Free-AI-Video-Editing-Apps-for-Creators-in-India-CapCut-InVideo-and-More-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-22/Best-Free-AI-Video-Editing-Apps-for-Creators-in-India-CapCut-InVideo-and-More-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Best-Free-AI-Video-Editing-Apps-for-Creators-in-India-CapCut-InVideo-and-More-landscape.svg",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Best-Free-AI-Video-Editing-Apps-for-Creators-in-India-CapCut-InVideo-and-More-instagram.svg",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -164,7 +164,7 @@
       "story_id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0trb3UyUy1oaXNWRWh3M0VzajFTeGEyanNJQ0NBa0hnMGlhZnE4V0puaGd2aXIxS0NWV3FmNU1tejZuVVFmOU5FdEhSc1daRGZiaHFIMmxzTlItTENqQUdLS0ZuUm9yTmFxalFiZHdDdWZJOUVXRUg5OEdZb0Y2Y19KeVNvbXpWMVlCVWpjbGlHQ3JQ?oc=5",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0trb3UyUy1oaXNWRWh3M0VzajFTeGEyanNJQ0NBa0hnMGlhZnE4V0puaGd2aXIxS0NWV3FmNU1tejZuVVFmOU5FdEhSc1daRGZiaHFIMmxzTlItTENqQUdLS0ZuUm9yTmFxalFiZHdDdWZJOUVXRUg5OEdZb0Y2Y19KeVNvbXpWMVlCVWpjbGlHQ3JQ?oc=5",
       "headline": "Hostinger AI Builder: How to duplicate a website",
-      "summary": "Hostinger is the subject of this update. The available source metadata confirms a development involving the company or product, while the full report provides the remaining details.",
+      "summary": "Hostinger has published guidance for duplicating a website with its AI Builder.",
       "source_name": "Hostinger",
       "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "image_url": "",
@@ -174,7 +174,7 @@
       "detected_partner": "hostinger",
       "product_url": "https://www.hostinger.com/",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-08-22T13:20:00.000Z",
+      "scheduled_publish_at": "2026-08-23T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -188,8 +188,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-22/Hostinger-AI-Builder-How-to-duplicate-a-website-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-22/Hostinger-AI-Builder-How-to-duplicate-a-website-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Hostinger-AI-Builder-How-to-duplicate-a-website-landscape.svg",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Hostinger-AI-Builder-How-to-duplicate-a-website-instagram.svg",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -202,7 +202,7 @@
       "story_id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oSk9ZSWU4NWFKcllGcTItdHFldm91dGxiV1lvU2trU1FGYWI4aTVXQlJkRzgtaUN4LVFER19UaUlYSDhwZU5lX1YzcGZCMFhXd19j?oc=5",
       "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oSk9ZSWU4NWFKcllGcTItdHFldm91dGxiV1lvU2trU1FGYWI4aTVXQlJkRzgtaUN4LVFER19UaUlYSDhwZU5lX1YzcGZCMFhXd19j?oc=5",
       "headline": "Semrush vs Ahrefs: Which SEO Tool Actually Wins in 2026?",
-      "summary": "Semrush is the subject of this update. The available source metadata confirms a development involving the company or product, while the full report provides the remaining details.",
+      "summary": "A new comparison examines Semrush and Ahrefs across their SEO capabilities.",
       "source_name": "The Zero Net",
       "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "image_url": "",
@@ -212,7 +212,7 @@
       "detected_partner": "semrush",
       "product_url": "https://www.semrush.com/",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-08-22T15:20:00.000Z",
+      "scheduled_publish_at": "2026-08-23T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -226,8 +226,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-22/Semrush-vs-Ahrefs-Which-SEO-Tool-Actually-Wins-in-2026--landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-22/Semrush-vs-Ahrefs-Which-SEO-Tool-Actually-Wins-in-2026--instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Semrush-vs-Ahrefs-Which-SEO-Tool-Actually-Wins-in-2026--landscape.svg",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Semrush-vs-Ahrefs-Which-SEO-Tool-Actually-Wins-in-2026--instagram.svg",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -240,7 +240,7 @@
       "story_id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX0lyR3p3YmdOU0ltM0lqY2tkWVpCcDRoR3p2RklXd0ZCQ2FwcHBUTFNtbHFQUEdCU1R0SEtzMS11UXJrUG5PS3lnUVM0Ti1xV1Q4THlNWEJ1cnROLVlpMkIwZlN4aHBYdW1UNkRPa2R4emZzWjRYRG5INjlnQ0FIaHNndnpjRVVnWlZJbGhoeEpBMXFiRzdqQ2FrcjViNXZL?oc=5",
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX0lyR3p3YmdOU0ltM0lqY2tkWVpCcDRoR3p2RklXd0ZCQ2FwcHBUTFNtbHFQUEdCU1R0SEtzMS11UXJrUG5PS3lnUVM0Ti1xV1Q4THlNWEJ1cnROLVlpMkIwZlN4aHBYdW1UNkRPa2R4emZzWjRYRG5INjlnQ0FIaHNndnpjRVVnWlZJbGhoeEpBMXFiRzdqQ2FrcjViNXZL?oc=5",
       "headline": "Canva Acquires Simtheory and Ortto as It Expands Into AI and Marketing Tech",
-      "summary": "Canva is the subject of this update. The available source metadata confirms a development involving the company or product, while the full report provides the remaining details.",
+      "summary": "Canva has acquired Simtheory and Ortto as it expands further into AI and marketing technology.",
       "source_name": "UC Today",
       "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "image_url": "",
@@ -250,7 +250,7 @@
       "detected_partner": "canva",
       "product_url": "/go/canva.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-08-22T17:20:00.000Z",
+      "scheduled_publish_at": "2026-08-23T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -264,8 +264,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-22/Canva-Acquires-Simtheory-and-Ortto-as-It-Expands-Into-AI-and-Marketing-Tech-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-22/Canva-Acquires-Simtheory-and-Ortto-as-It-Expands-Into-AI-and-Marketing-Tech-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Canva-Acquires-Simtheory-and-Ortto-as-It-Expands-Into-AI-and-Marketing-Tech-landscape.svg",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Canva-Acquires-Simtheory-and-Ortto-as-It-Expands-Into-AI-and-Marketing-Tech-instagram.svg",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -278,7 +278,7 @@
       "story_id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uZzNoZUhMM3RTdlZaa1dhZ3NXdzFWNWxiSlhKUXdMMlhPQThLMUthSVJ0emtuS2phUFhZSWFMYmZfU01QRUZJQlVCUXBTbWl0R0FtSmJFTzJNVnk5bWdr?oc=5",
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uZzNoZUhMM3RTdlZaa1dhZ3NXdzFWNWxiSlhKUXdMMlhPQThLMUthSVJ0emtuS2phUFhZSWFMYmZfU01QRUZJQlVCUXBTbWl0R0FtSmJFTzJNVnk5bWdr?oc=5",
       "headline": "How to make an AI image in 6 quick steps",
-      "summary": "Runway is the subject of this update. The available source metadata confirms a development involving the company or product, while the full report provides the remaining details.",
+      "summary": "Runway has published a six-step guide to creating AI-generated images with its tools.",
       "source_name": "Runway",
       "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "image_url": "",
@@ -288,7 +288,7 @@
       "detected_partner": "runway",
       "product_url": "/go/runway.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-08-22T19:20:00.000Z",
+      "scheduled_publish_at": "2026-08-23T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -302,8 +302,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-22/How-to-make-an-AI-image-in-6-quick-steps-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-22/How-to-make-an-AI-image-in-6-quick-steps-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/How-to-make-an-AI-image-in-6-quick-steps-landscape.svg",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/How-to-make-an-AI-image-in-6-quick-steps-instagram.svg",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -316,7 +316,7 @@
       "story_id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05YXlqY1RJWE9tc1kwVVM5bU1JNThFdkY1dnBRdlEycXEtNU1wak1KNnFQNWJlZHl3WlpaZEFHYURuOFNuM2h6bUgxNTFMdnJrR2czVjZiZWZKMmpOc0lZdktBWWQ0eFNPdkFlVFAweklkenM1bHpaeHJQUEFNQQ?oc=5",
       "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05YXlqY1RJWE9tc1kwVVM5bU1JNThFdkY1dnBRdlEycXEtNU1wak1KNnFQNWJlZHl3WlpaZEFHYURuOFNuM2h6bUgxNTFMdnJrR2czVjZiZWZKMmpOc0lZdktBWWQ0eFNPdkFlVFAweklkenM1bHpaeHJQUEFNQQ?oc=5",
       "headline": "SOUNDRAW Review on Quasa: Safest AI Music Generator",
-      "summary": "SOUNDRAW is the subject of this update. The available source metadata confirms a development involving the company or product, while the full report provides the remaining details.",
+      "summary": "Quasa has published a review of SOUNDRAW, the AI music-generation platform.",
       "source_name": "quasa.io",
       "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "image_url": "",
@@ -326,7 +326,7 @@
       "detected_partner": "soundraw",
       "product_url": "https://soundraw.io/",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-08-22T21:20:00.000Z",
+      "scheduled_publish_at": "2026-08-23T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -340,8 +340,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-22/SOUNDRAW-Review-on-Quasa-Safest-AI-Music-Generator-landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-22/SOUNDRAW-Review-on-Quasa-Safest-AI-Music-Generator-instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/SOUNDRAW-Review-on-Quasa-Safest-AI-Music-Generator-landscape.svg",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/SOUNDRAW-Review-on-Quasa-Safest-AI-Music-Generator-instagram.svg",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -354,7 +354,7 @@
       "story_id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFBRa1RtTmhSMnQ0Z3hFWnMyRGRQNVBUNWNSbDFORXJDSmNMMjQtbm52XzRTOHNjQjlhSjZickhvZ2JQZUhTMDJacmpDWERVb2l2RlEwd1NJUGJmeWpRVGkyZEx5RXNaaDJIRUZKNmNWRHdCRUMtTlVRRkZIS3JLaDVVcExMbUFUcjFSME9vSnFJWDJw?oc=5",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFBRa1RtTmhSMnQ0Z3hFWnMyRGRQNVBUNWNSbDFORXJDSmNMMjQtbm52XzRTOHNjQjlhSjZickhvZ2JQZUhTMDJacmpDWERVb2l2RlEwd1NJUGJmeWpRVGkyZEx5RXNaaDJIRUZKNmNWRHdCRUMtTlVRRkZIS3JLaDVVcExMbUFUcjFSME9vSnFJWDJw?oc=5",
       "headline": "Apple Music to start labelling songs as “Created with AI”",
-      "summary": "AI News is the subject of this update. The available source metadata confirms a development involving the company or product, while the full report provides the remaining details.",
+      "summary": "Apple Music is reportedly preparing to label songs that were created with AI.",
       "source_name": "BGNES",
       "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "image_url": "",
@@ -364,7 +364,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-22T23:20:00.000Z",
+      "scheduled_publish_at": "2026-08-23T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -378,8 +378,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-22/Apple-Music-to-start-labelling-songs-as-Created-with-AI--landscape.svg",
-      "fallback_image_instagram": "assets/social-cards/2026-08-22/Apple-Music-to-start-labelling-songs-as-Created-with-AI--instagram.svg",
+      "fallback_image_landscape": "assets/social-cards/2026-08-23/Apple-Music-to-start-labelling-songs-as-Created-with-AI--landscape.svg",
+      "fallback_image_instagram": "assets/social-cards/2026-08-23/Apple-Music-to-start-labelling-songs-as-Created-with-AI--instagram.svg",
       "quality_gate": {
         "valid": true,
         "warnings": [],
