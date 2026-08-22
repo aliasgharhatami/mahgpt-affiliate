@@ -2,92 +2,52 @@
 
 ## Scope
 
-Phase one publishes MahGPT news to Telegram only. Instagram, LinkedIn and X are intentionally not wired yet.
+Phase one publishes to Telegram only. The queue is platform-neutral and reserves per-platform state for LinkedIn, Instagram and X, which are not implemented yet.
 
-## Architecture
+## Daily flow
 
-The news workflow remains the primary publisher:
+1. The existing news refresh runs once daily at 05:17 UTC / 08:17 Türkiye and writes assets/news-feed.json.
+2. Immediately afterward, scripts/social-queue.mjs snapshots the same current feed items (up to 10) into data/social-queue.json.
+3. The social workflow runs every two hours and publishes at most one eligible Telegram item. It never fetches news or rebuilds the queue.
+4. Delivery state is committed after success or failure.
 
-1. `scripts/update-news.mjs` fetches RSS/Atom feeds and writes `assets/news-feed.json`.
-2. The website reads that feed and deploys normally.
-3. The social layer reads the same normalized article objects.
-4. A platform-neutral publisher resolves product links and formats a post.
-5. The Telegram adapter uses `sendPhoto` when an image can be downloaded, otherwise `sendMessage`.
+The refresh schedule is unchanged. Website publishing remains independent and primary; Telegram failures retain the queue item and never prevent the feed update.
 
-The Telegram adapter never runs before the website feed is written. Telegram errors are logged and do not fail news generation.
+## Türkiye publishing slots
+
+The GitHub Actions schedule is:
+20 5,7,9,11,13,15,17,19,21,23 * * * UTC
+
+That is:
+08:20, 10:20, 12:20, 14:20, 16:20, 18:20, 20:20, 22:20, 00:20 and 02:20 Türkiye time.
+
+The first slot is deliberately a few minutes after the 08:17 refresh. A missed workflow run still publishes only one item on the next execution; it does not catch up with a batch.
 
 ## Required secret
 
-Add repository secret `TELEGRAM_BOT_TOKEN` at **Settings → Secrets and variables → Actions → New repository secret**. Never put the token in source, workflow YAML, logs or a commit.
+Add repository secret TELEGRAM_BOT_TOKEN at Settings → Secrets and variables → Actions → New repository secret. No new secret is required for the queue. The channel defaults to @mahgptplus.
 
-Optional variable: `TELEGRAM_CHANNEL`; the default is `@mahgptplus`.
+## Queue and duplicate protection
 
-## Manual test
+data/social-queue.json contains the daily snapshot and per-platform state. story_id is the stable source URL, with a title/date fallback only when no source URL exists. scheduled_publish_at is the assigned slot. telegram.status is pending, published, failed or skipped_duplicate. LinkedIn, Instagram and X remain pending placeholders.
 
-Open **Actions → Test MahGPT Telegram publisher → Run workflow**. Leave the source input empty to send exactly one post for the first current feed item, or paste one exact `source` URL from `assets/news-feed.json`. This workflow does not read or alter duplicate state and never sends historical items in bulk.
+data/social-delivery-history.json preserves successful deliveries across daily queue resets. The builder also imports previously sent records from data/telegram-published.json. If the same source appears again, it is marked skipped_duplicate and is not sent again. A success is recorded only after Telegram returns a successful API response. Failures are retained and can be retried manually.
 
-Expected result: one Telegram post containing the headline, summary, primary MahGPT article link, and a product link when configured.
+## Manual operations
 
-## Automatic publishing
+Open Actions → Manage MahGPT social queue → Run workflow:
+- rebuild: rebuild today’s queue from the current assets/news-feed.json; sends nothing.
+- inspect: print today’s queue in the workflow log; sends nothing.
+- publish_next: publish exactly one next queued item, even if its slot is still in the future. Optional retry_failed retries one failed item.
 
-After the manual test is verified, enable the automatic step in `update-news.yml` by merging this PR. The first automatic run only creates a baseline of current feed items; it sends nothing historical. Later runs send only items newer than that baseline and absent from `data/telegram-published.json`.
+The existing Test MahGPT Telegram publisher workflow remains available for a controlled direct test, but queue testing should use publish_next.
 
-The state is written only after a successful Telegram API call. Re-runs are safe because the workflow serializes executions and checks the persistent state before sending. A failed delivery is logged and remains retryable.
+## Content and links
 
-## Link resolution
+Queue creation uses the shared editorial normalizer: cleaned headlines, concise summaries, source attribution, clean MahGPT story URLs, and strict explicit-brand partner detection. Product resolution happens only after a valid partner is detected. Active affiliate destinations are used when configured; pending/none uses the official destination or an existing /go/ redirect. No signup URL is used.
 
-`config/social-affiliate-links.json` is the central resolver table:
-
-- `status: active` plus `affiliateUrl` → affiliate URL.
-- `status: pending` or `none` → official product URL.
-- No valid entry → no product CTA.
-
-Never add signup URLs. When a relationship becomes active, update only this table; future posts automatically use the affiliate URL.
-
-## Images
-
-The existing news job stores image URLs from RSS or article `og:image`; it does not maintain a local image archive. The Telegram adapter downloads the selected image to a temporary runner file only for `sendPhoto`, then deletes it. If download fails, it falls back to `sendMessage`.
-
-## Duplicate prevention and failure handling
-
-`data/telegram-published.json` stores article keys and delivery timestamps. The initial baseline prevents historical posts. The workflow uses a concurrency group so reruns cannot race the state file. Telegram failures never block the website news update.
+Images reuse the article image when safe. Telegram uses sendPhoto when it can download that image and falls back to sendMessage otherwise.
 
 ## Future platforms
 
-Future Instagram, LinkedIn and X adapters should consume the same normalized article object and link resolver. Add a formatter and adapter per platform; do not duplicate RSS parsing or affiliate logic.
-
-
-## Editorial normalization
-
-Before formatting, the shared normalizer in `scripts/social-content.mjs`:
-
-- removes HTML entities, tags, `&nbsp;` and common publisher suffixes;
-- detects partner names from headline, source and metadata using explicit keyword rules;
-- rejects title-as-description duplicates;
-- creates a concise factual fallback when the source description has no useful detail;
-- creates the stable story slug used by both Telegram and the website.
-
-The normalized object contains `story_id`, `headline`, `summary`, `mahgpt_url`, `source_name`, `source_url`, `image`, `detected_partner`, `product_url` and `affiliate_status` conceptually. Future platforms should consume this object rather than parse RSS independently.
-
-## Clean article URLs
-
-New posts use:
-
-`https://mahgpt.com/news/story.html?id=<headline-slug>`
-
-The old `/news/index.html?story=<source-url>` route remains available for backwards compatibility. Homepage and related-story links now use the clean route. The story page resolves the slug back to the current feed and sets a matching canonical URL.
-
-## Product links and redirects
-
-The resolver checks `config/social-affiliate-links.json`. Active entries use a valid `affiliateUrl`; pending/none entries use an existing `redirectPath` where one exists, otherwise the official product URL. Adobe currently has no active tracking URL in the repository, so its CTA remains the official Firefly destination. Signup pages are never used.
-
-## Safe test recommendation
-
-Do not resend the earlier Adobe test. In the manual workflow, paste the exact `source` URL of a different current item from `assets/news-feed.json`; one selected item is sent and duplicate state is not changed.
-
-
-## Partner detection safety
-
-Partner detection uses only explicit brand/entity aliases in `scripts/social-content.mjs`. Generic words such as video, audio, design, SEO and hosting are not aliases. The detector returns `null` when no explicit entity is present; product resolution is skipped entirely in that case, even if an upstream item contains a stale `tool` field.
-
-Regression coverage is in `tests/social-content.test.mjs` for iPhone/Macworld, Adobe Firefly, Canva, ElevenLabs and generic AI regulation stories.
+Future adapters should consume the normalized queue item and its platform state. They should not re-parse RSS or change the daily queue.
