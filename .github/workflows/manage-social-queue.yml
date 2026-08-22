@@ -1,0 +1,46 @@
+name: Manage MahGPT social queue
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: Queue operation
+        required: true
+        type: choice
+        options: [rebuild, inspect, publish_next]
+      retry_failed:
+        description: Allow one failed Telegram item to be retried
+        required: false
+        default: false
+        type: boolean
+permissions:
+  contents: write
+jobs:
+  manage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Rebuild today's queue
+        if: inputs.action == 'rebuild'
+        run: node scripts/social-queue.mjs
+      - name: Inspect today's queue
+        if: inputs.action == 'inspect'
+        run: node -e "console.log(require('fs').readFileSync('data/social-queue.json','utf8'))"
+      - name: Publish exactly one next item
+        if: inputs.action == 'publish_next'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: "@mahgptplus"
+          MANUAL_NEXT: "true"
+          RETRY_FAILED: ${{ inputs.retry_failed }}
+        run: node scripts/social-publisher.mjs queue-next
+      - name: Commit queue state
+        if: inputs.action != 'inspect'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/social-queue.json data/social-delivery-history.json
+          git diff --cached --quiet || git commit -m "chore: manage MahGPT social queue"
+          git push
