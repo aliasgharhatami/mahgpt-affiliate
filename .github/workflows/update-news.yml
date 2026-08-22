@@ -25,6 +25,8 @@ jobs:
           git add assets/news-feed.json
           git diff --cached --quiet || git commit -m "Refresh MahGPT partner news"
           git push
+      - name: Install Node dependencies
+        run: npm install --no-audit --no-fund
       - name: Build daily social queue and fallback cards
         run: node scripts/social-queue.mjs
       - name: Commit daily social queue and cards

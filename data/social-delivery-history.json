@@ -1,4 +1,73 @@
 {
   "version": 1,
-  "stories": {}
+  "stories": {
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeExNVVJJLUh4SEthNkxJdzFUSzRKbTlFOTV0QndBc01CNmVNRmdCRGtkcmpqZ3psLTlUQXJpSjlVWUlPRFJiOUxObjU4c2M4cW1yMHBNZWJJM3pvbWpMMUVVRG5ZX3cxQUUya3FLNXNuVGh3SnVLWGVIcm5IM1kxNV91TkRWdVF4?oc=5": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-22T21:04:49.020Z",
+        "message_id": 230,
+        "delivery": "message"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
+    },
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQkt1WVI3Rmo3Nm5nVWVOOGZoNTd0YmRZUUNQT1dhYjdMQTE1cHZBTXNvZnJBSFd1cWd6b0lTSVYyUi1kcEVCblZtRmNBeVRvRlNGNlRvZzVXNmthMFVJNFRhOXprYUYySC1TcEhxNkl5QlJKS2dEeERudWdlMmtQTXRULVc1cklUbDlYZWtiN0lPVUt5b1VmNk1HYlg1cl96NE03MXlTQ3Blam9UWFpKV1V2S1I0V2xkQjJXb2pxNUF1NGE0cnQ0VkxXWVY4dTgzNWdmYXgtYXRROW1mbFh1d3RyRFlVdGNzR01hb21rdEt2TEFWWmpJ0gH3AUFVX3lxTE5CS3VZUjdGajc2bmdVZU44Zmg1N3RiZFlRQ1BPV2FiN0xBMTVwdkFNc29mckFIV3VxZ3pvSVNJVjJSLWRwRUJuVm1GY0F5VG9GU0Y2VG9nNVc2a2EwVUk0VGE5emthRjJILVNwSHE2SXlCUkpLZ0R4RG51Z2Uya1BNdFQtVzVySVRsOVhla2I3SU9VS3lvVWY2TUdiWDVyX3o0TTcxeVNDcGVqb1RYWkpXVXZLUjRXbGRCMldvanE1QXU0YTRydDRWTFdZVjh1ODM1Z2ZheC1hdFE5bWZsWHV3dHJEWVV0Y3NHTWFvbWt0S3ZMQVZaakk?oc=5": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-22T21:15:33.400Z",
+        "message_id": 231,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
+    },
+    "https://www.macworld.com/article/230803/iphone-sell-trade-carrier-store-online.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-22T21:28:49.603Z",
+        "message_id": 234,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmU4aERld2EzTS1KLW1uSW9Ublotd1FCZ2ZvczZWMEl6LTU4WWVLMWZ1ZVN0WmVNcW5NTTM3Rm5sVW5fSURxelpCQjZlVVNyVkdwZzI2eWJBanBIY0VUWWl1c21rSU5GeC1BVV91X0ExQ1hlTzZELUJLS3FfbWlzS0ZZaTd3ZzB1bGNCMnRVb0E1dXBkTUl4LTVQQjZqZHRnOFZqSXNB0gGrAUFVX3lxTE1UT0U3ZG1haFpZdE5OSHc0cVdUVlN5d1RrSktnTTJHQXdqVFZOUzhZcTBxZkxPWmFoRTdiNGRONm5QUzE3S09ZdUlvWk90VGVaZmtiNnZNb0dGd3FBTXR6Q25tdWM1aXIwS0hrSUt5T1JUVDdWNVZwa1F2d1JZZ2I4RWtjLUdaZEpIMWRUa3MzcW81bG5veUViU055N2NIQVBwQ0dKTXNTQlNmUQ?oc=5": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-22T21:30:16.872Z",
+        "message_id": 235,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
+    }
+  }
 }
