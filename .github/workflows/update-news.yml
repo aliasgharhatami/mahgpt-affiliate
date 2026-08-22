@@ -25,12 +25,12 @@ jobs:
           git add assets/news-feed.json
           git diff --cached --quiet || git commit -m "Refresh MahGPT partner news"
           git push
-      - name: Build daily social queue
+      - name: Build daily social queue and fallback cards
         run: node scripts/social-queue.mjs
-      - name: Commit daily social queue
+      - name: Commit daily social queue and cards
         run: |
           git config user.name "MahGPT News Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/social-queue.json data/social-delivery-history.json
+          git add data/social-queue.json data/social-delivery-history.json assets/social-cards
           git diff --cached --quiet || git commit -m "Build daily MahGPT social queue"
           git push
