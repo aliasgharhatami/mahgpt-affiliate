@@ -9,10 +9,8 @@ const publisherTail = /\s+(?:\||-|–|—)\s+(?:the ai economy|ken yeung|techcru
 export const cleanHeadline = value => cleanText(value).replace(publisherTail, "").replace(/[|–—-]\s*$/, "").trim();
 
 export const sourceName = value => {
-  try {
-    const host = new URL(value).hostname.replace(/^www\./, "");
-    return host.split(".")[0].replace(/[-_]/g, " ").replace(/\b\w/g, c => c.toUpperCase());
-  } catch { return ""; }
+  try { const host = new URL(value).hostname.replace(/^www\./, ""); return host.split(".")[0].replace(/[-_]/g, " ").replace(/\b\w/g, c => c.toUpperCase()); }
+  catch { return ""; }
 };
 
 export const storySlug = (value, fallback = "ai-news") => {
@@ -27,23 +25,34 @@ export const editorialSummary = (item = {}) => {
   const raw = cleanText(item.summary || item.description);
   if (!raw || comparable(raw) === comparable(headline)) {
     const partner = item.toolName || item.detectedPartner || "";
-    return partner
-      ? partner + " is the focus of this latest update. MahGPT is tracking what changed and what it could mean for people evaluating the tool."
+    return partner ? partner + " is the focus of this latest update. MahGPT is tracking what changed and what it could mean for people evaluating the tool."
       : "This is a new development in the AI and technology ecosystem. MahGPT is tracking the confirmed details and their practical implications.";
   }
   const useful = raw.toLowerCase().startsWith(headline.toLowerCase()) ? raw.slice(headline.length).replace(/^[\s:–—-]+/, "") : raw;
   return cleanText(useful || raw).slice(0, 520).replace(/\s+\S*$/, "") + (useful.length > 520 ? "…" : "");
 };
 
-export const detectPartner = item => {
-  const haystack = cleanText([item.headline, item.title, item.summary, item.source].join(" ")).toLowerCase();
-  const rules = [
-    ["elevenlabs", /\beleven\s*labs\b/], ["hostinger", /\bhostinger\b|\bhorizons\b/],
-    ["adobe", /\badobe\b|\bfirefly\b/], ["fliki", /\bfliki\b/], ["canva", /\bcanva\b/],
-    ["semrush", /\bsemrush\b/], ["surfer", /\bsurfer(?:seo)?\b/], ["heygen", /\bheygen\b/],
-    ["pictory", /\bpictory\b/], ["descript", /\bdescript\b/], ["invideo", /\binvideo\b/],
-    ["jasper", /\bjasper\b/], ["runway", /\brunway\b/], ["soundraw", /\bsoundraw\b/],
-    ["adcreative", /\badcreative(?:\.ai)?\b/]
-  ];
-  return rules.find(([, pattern]) => pattern.test(haystack))?.[0] || item.tool || "";
+const partnerAliases = [
+  ["horizons", /\bhostinger\s+horizons\b|\bhorizons\b/],
+  ["elevenlabs", /\beleven\s*labs\b/],
+  ["adobe", /\badobe\b|\bfirefly\b/],
+  ["descript", /\bdescript\b/],
+  ["invideo", /\binvideo\b/],
+  ["canva", /\bcanva\b/],
+  ["hostinger", /\bhostinger\b/],
+  ["semrush", /\bsemrush\b/],
+  ["surfer", /\bsurfer(?:\s*seo)?\b/],
+  ["heygen", /\bheygen\b/],
+  ["fliki", /\bfliki\b/],
+  ["pictory", /\bpictory\b/],
+  ["soundraw", /\bsoundraw\b/],
+  ["adcreative", /\badcreative(?:\.ai)?\b/],
+  ["create-music-ai", /\bcreate\s*music\s*ai\b|\bcreatemusicai\b/],
+  ["jasper", /\bjasper\b/],
+  ["runway", /\brunway\b/]
+];
+
+export const detectPartner = (item = {}) => {
+  const haystack = cleanText([item.headline, item.title, item.summary, item.source, item.articleTitle, item.articleDescription].join(" ")).toLowerCase();
+  return partnerAliases.find(([, pattern]) => pattern.test(haystack))?.[0] || null;
 };

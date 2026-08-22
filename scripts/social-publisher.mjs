@@ -9,7 +9,7 @@ const readJson=async(path,fallback)=>{try{return JSON.parse(await readFile(path,
 const keyFor=n=>n.source||[n.title,n.publishedAt].join("|");
 const normalized=n=>{const headline=cleanHeadline(n.headline||n.title);const partner=detectPartner({...n,headline});return {story_id:keyFor(n),headline,summary:editorialSummary({...n,headline,detectedPartner:partner}),mahgpt_url:"https://mahgpt.com/news/story.html?id="+encodeURIComponent(storySlug(headline)),source_name:sourceName(n.source),source_url:n.source||"",image:n.image||"",detected_partner:partner,tool:n.tool,toolName:n.toolName}};
 const escapeHtml=v=>String(v??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const resolveProduct=(post,links)=>{const e=links[post.detected_partner]||links[post.tool]||{};if(e.status==="active"&&e.affiliateUrl)return {url:e.affiliateUrl,affiliate:true};if(e.status==="pending"||e.status==="none")return {url:e.redirectPath||e.officialUrl||"",affiliate:false};return {url:"",affiliate:false}};
+const resolveProduct=(post,links)=>{const e=post.detected_partner ? (links[post.detected_partner] || {}) : {};if(e.status==="active"&&e.affiliateUrl)return {url:e.affiliateUrl,affiliate:true};if(e.status==="pending"||e.status==="none")return {url:e.redirectPath||e.officialUrl||"",affiliate:false};return {url:"",affiliate:false}};
 const formatPost=(post,product)=>{
   const source=post.source_name?"\n\n<i>Source: "+escapeHtml(post.source_name)+"</i>":"";
   const cta=product.url?"\n\n🚀 <b>Explore "+escapeHtml(post.toolName||post.detected_partner)+"</b>\n"+escapeHtml(product.url):"";
