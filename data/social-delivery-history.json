@@ -17,6 +17,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQkt1WVI3Rmo3Nm5nVWVOOGZoNTd0YmRZUUNQT1dhYjdMQTE1cHZBTXNvZnJBSFd1cWd6b0lTSVYyUi1kcEVCblZtRmNBeVRvRlNGNlRvZzVXNmthMFVJNFRhOXprYUYySC1TcEhxNkl5QlJKS2dEeERudWdlMmtQTXRULVc1cklUbDlYZWtiN0lPVUt5b1VmNk1HYlg1cl96NE03MXlTQ3Blam9UWFpKV1V2S1I0V2xkQjJXb2pxNUF1NGE0cnQ0VkxXWVY4dTgzNWdmYXgtYXRROW1mbFh1d3RyRFlVdGNzR01hb21rdEt2TEFWWmpJ0gH3AUFVX3lxTE5CS3VZUjdGajc2bmdVZU44Zmg1N3RiZFlRQ1BPV2FiN0xBMTVwdkFNc29mckFIV3VxZ3pvSVNJVjJSLWRwRUJuVm1GY0F5VG9GU0Y2VG9nNVc2a2EwVUk0VGE5emthRjJILVNwSHE2SXlCUkpLZ0R4RG51Z2Uya1BNdFQtVzVySVRsOVhla2I3SU9VS3lvVWY2TUdiWDVyX3o0TTcxeVNDcGVqb1RYWkpXVXZLUjRXbGRCMldvanE1QXU0YTRydDRWTFdZVjh1ODM1Z2ZheC1hdFE5bWZsWHV3dHJEWVV0Y3NHTWFvbWt0S3ZMQVZaakk?oc=5": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-22T21:15:33.400Z",
+        "message_id": 231,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
