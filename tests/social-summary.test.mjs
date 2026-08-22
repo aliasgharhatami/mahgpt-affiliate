@@ -1,5 +1,6 @@
 import assert from "node:assert/strict";
-import { editorialSummary } from "../scripts/social-content.mjs";
+import { editorialSummary, partnerDisplayName, absoluteSocialUrl } from "../scripts/social-content.mjs";
+import { fitHeadline } from "../scripts/social-card.mjs";
 
 const cases=[
 ["Adobe's Firefly Audio Tools Exit Beta - The AI Economy | Ken Yeung","Adobe has moved its Firefly audio tools out of beta. The update points to a more mature release for creators using Adobe’s AI-powered audio features."],
@@ -15,3 +16,6 @@ const cases=[
 ];
 for(const [title,expected] of cases){const actual=editorialSummary({title,summary:"The AI Economy | Ken Yeung",detectedPartner:null});assert.equal(actual,expected,title);assert(!/is the subject of this update|available source metadata|full report provides/i.test(actual))}
 console.log("social summary regression tests passed");
+
+const murf=fitHeadline("Bengaluru startup Murf AI launches low-cost voice model to challenge OpenAI, ElevenLabs",false);assert(murf.lines.length<=4);assert(murf.lines.every(line=>line.length<=Math.floor(1040/(murf.size*.56))));
+assert.equal(partnerDisplayName("elevenlabs"),"ElevenLabs");assert.equal(partnerDisplayName("soundraw"),"SOUNDRAW");assert.equal(absoluteSocialUrl("/go/elevenlabs.html"),"https://mahgpt.com/go/elevenlabs.html");assert.equal(absoluteSocialUrl("https://example.com/x"),"https://example.com/x");
