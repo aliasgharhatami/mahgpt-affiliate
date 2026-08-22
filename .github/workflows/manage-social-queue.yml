@@ -22,6 +22,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Install Node dependencies
+        run: npm install --no-audit --no-fund
       - name: Rebuild today's queue
         if: inputs.action == 'rebuild'
         run: node scripts/social-queue.mjs
