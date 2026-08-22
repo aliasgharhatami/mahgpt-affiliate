@@ -27,7 +27,7 @@ jobs:
         run: node scripts/social-queue.mjs
       - name: Inspect today's queue
         if: inputs.action == 'inspect'
-        run: node -e 'const q=require("./data/social-queue.json"); for(const x of q.items) console.log(JSON.stringify({slot:x.scheduled_publish_at,headline:x.headline,source:x.source_name,original_image_url:x.original_image_url,image_mode:x.image_mode,final_image:x.image_url||x.fallback_image_landscape,partner:x.detected_partner,telegram:x.telegram?.status},null,2))'
+        run: node -e 'const q=require("./data/social-queue.json"); for(const x of q.items) console.log(JSON.stringify({slot:x.scheduled_publish_at,headline:x.headline,summary:x.summary,source:x.source_name,original_image_url:x.original_image_url,image_mode:x.image_mode,final_image:x.image_url||x.fallback_image_landscape,partner:x.detected_partner,telegram:x.telegram?.status},null,2))'
       - name: Publish exactly one next item
         if: inputs.action == 'publish_next'
         env:
