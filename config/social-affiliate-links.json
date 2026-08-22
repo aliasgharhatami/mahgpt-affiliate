@@ -1,19 +1,87 @@
 {
-  "adobe": {"status":"none","officialUrl":"https://www.adobe.com/products/firefly.html"},
-  "elevenlabs": {"status":"none","officialUrl":"https://elevenlabs.io/"},
-  "descript": {"status":"none","officialUrl":"https://www.descript.com/"},
-  "invideo": {"status":"none","officialUrl":"https://invideo.io/"},
-  "hostinger": {"status":"none","officialUrl":"https://www.hostinger.com/"},
-  "horizons": {"status":"none","officialUrl":"https://www.hostinger.com/horizons/"},
-  "semrush": {"status":"none","officialUrl":"https://www.semrush.com/"},
-  "surfer": {"status":"none","officialUrl":"https://surferseo.com/"},
-  "jasper": {"status":"none","officialUrl":"https://www.jasper.ai/"},
-  "canva": {"status":"none","officialUrl":"https://www.canva.com/"},
-  "runway": {"status":"none","officialUrl":"https://runwayml.com/"},
-  "create-music-ai": {"status":"none","officialUrl":"https://createmusicai.ai/"},
-  "soundraw": {"status":"none","officialUrl":"https://soundraw.io/"},
-  "heygen": {"status":"none","officialUrl":"https://www.heygen.com/"},
-  "fliki": {"status":"none","officialUrl":"https://fliki.ai/"},
-  "adcreative": {"status":"none","officialUrl":"https://www.adcreative.ai/"},
-  "pictory": {"status":"none","officialUrl":"https://pictory.ai/"}
+  "adobe": {
+    "status": "none",
+    "officialUrl": "https://www.adobe.com/products/firefly.html",
+    "redirectPath": "/go/adobe.html"
+  },
+  "elevenlabs": {
+    "status": "none",
+    "officialUrl": "https://elevenlabs.io/",
+    "redirectPath": "/go/elevenlabs.html"
+  },
+  "descript": {
+    "status": "none",
+    "officialUrl": "https://www.descript.com/",
+    "redirectPath": "/go/descript.html"
+  },
+  "invideo": {
+    "status": "none",
+    "officialUrl": "https://invideo.io/",
+    "redirectPath": "/go/invideo.html"
+  },
+  "hostinger": {
+    "status": "none",
+    "officialUrl": "https://www.hostinger.com/",
+    "redirectPath": "/go/hostinger.html"
+  },
+  "horizons": {
+    "status": "none",
+    "officialUrl": "https://www.hostinger.com/horizons/",
+    "redirectPath": "/go/horizons.html"
+  },
+  "semrush": {
+    "status": "none",
+    "officialUrl": "https://www.semrush.com/",
+    "redirectPath": "/go/semrush.html"
+  },
+  "surfer": {
+    "status": "none",
+    "officialUrl": "https://surferseo.com/",
+    "redirectPath": "/go/surfer.html"
+  },
+  "jasper": {
+    "status": "none",
+    "officialUrl": "https://www.jasper.ai/",
+    "redirectPath": "/go/jasper.html"
+  },
+  "canva": {
+    "status": "none",
+    "officialUrl": "https://www.canva.com/",
+    "redirectPath": "/go/canva.html"
+  },
+  "runway": {
+    "status": "none",
+    "officialUrl": "https://runwayml.com/",
+    "redirectPath": "/go/runway.html"
+  },
+  "create-music-ai": {
+    "status": "none",
+    "officialUrl": "https://createmusicai.ai/",
+    "redirectPath": "/go/create-music-ai.html"
+  },
+  "soundraw": {
+    "status": "none",
+    "officialUrl": "https://soundraw.io/",
+    "redirectPath": "/go/soundraw.html"
+  },
+  "heygen": {
+    "status": "none",
+    "officialUrl": "https://www.heygen.com/",
+    "redirectPath": "/go/heygen.html"
+  },
+  "fliki": {
+    "status": "none",
+    "officialUrl": "https://fliki.ai/",
+    "redirectPath": "/go/fliki.html"
+  },
+  "adcreative": {
+    "status": "none",
+    "officialUrl": "https://www.adcreative.ai/",
+    "redirectPath": "/go/adcreative.html"
+  },
+  "pictory": {
+    "status": "none",
+    "officialUrl": "https://pictory.ai/",
+    "redirectPath": "/go/pictory.html"
+  }
 }
