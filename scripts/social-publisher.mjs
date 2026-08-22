@@ -1,7 +1,7 @@
 import { readFile, writeFile, mkdir, unlink } from "node:fs/promises";
 import { createWriteStream } from "node:fs";
 import { pipeline } from "node:stream/promises";
-import { cleanHeadline, editorialSummary, storySlug, sourceName, detectPartner } from "./social-content.mjs";
+import { cleanHeadline, editorialSummary, storySlug, sourceName, detectPartner, validateSocialPost } from "./social-content.mjs";
 import { FEED, LINKS, QUEUE, HISTORY } from "./social-queue.mjs";
 
 const CHANNEL=process.env.TELEGRAM_CHANNEL||"@mahgptplus",TOKEN=process.env.TELEGRAM_BOT_TOKEN,mode=process.argv[2]||"queue-next";
@@ -18,4 +18,4 @@ if(mode==="test"){try{const p=await legacyNormalized();await send(p);console.log
 const queue=await readJson(QUEUE,null);if(!queue?.items?.length){console.log("No social queue is available; nothing published.");process.exit(0)}
 const retry=process.env.RETRY_FAILED==="true",manual=process.env.MANUAL_NEXT==="true",now=Date.now(),item=queue.items.find(x=>x.telegram?.status==="pending"&&(manual||Date.parse(x.scheduled_publish_at)<=now))||(retry?queue.items.find(x=>x.telegram?.status==="failed"):null);
 if(!item){console.log("No eligible queued Telegram item; nothing published.");process.exit(0)}
-try{const result=await send(item);item.telegram={status:"published",published_at:new Date().toISOString(),message_id:result.message_id,delivery:result.delivery};const history=await readJson(HISTORY,{version:1,stories:{}});history.stories=history.stories||{};history.stories[item.story_id]={...(history.stories[item.story_id]||{}),telegram:item.telegram,linkedin:{status:"pending"},instagram:{status:"pending"},x:{status:"pending"}};await write(QUEUE,queue);await write(HISTORY,history);console.log("Telegram published one queued item:",item.headline)}catch(e){item.telegram={...(item.telegram||{}),status:"failed",failed_at:new Date().toISOString(),error:e.message};await write(QUEUE,queue);console.error("Telegram publish failed; item retained as failed:",item.headline,e.message)}
+try{const checked=validateSocialPost(item);if(!checked.valid)throw new Error("Social quality gate rejected item");Object.assign(item,checked.post);const result=await send(item);item.telegram={status:"published",published_at:new Date().toISOString(),message_id:result.message_id,delivery:result.delivery};const history=await readJson(HISTORY,{version:1,stories:{}});history.stories=history.stories||{};history.stories[item.story_id]={...(history.stories[item.story_id]||{}),telegram:item.telegram,linkedin:{status:"pending"},instagram:{status:"pending"},x:{status:"pending"}};await write(QUEUE,queue);await write(HISTORY,history);console.log("Telegram published one queued item:",item.headline)}catch(e){item.telegram={...(item.telegram||{}),status:"failed",failed_at:new Date().toISOString(),error:e.message};await write(QUEUE,queue);console.error("Telegram publish failed; item retained as failed:",item.headline,e.message)}
