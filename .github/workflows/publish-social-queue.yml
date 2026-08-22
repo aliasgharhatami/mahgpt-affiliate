@@ -25,7 +25,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Install Node dependencies\n        run: npm install --no-audit --no-fund\n      - name: Publish at most one queued item
+      - name: Install Node dependencies
+        run: npm install --no-audit --no-fund
+      - name: Publish at most one queued item
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: "@mahgptplus"
