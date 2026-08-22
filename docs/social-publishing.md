@@ -55,3 +55,32 @@ The existing news job stores image URLs from RSS or article `og:image`; it does 
 ## Future platforms
 
 Future Instagram, LinkedIn and X adapters should consume the same normalized article object and link resolver. Add a formatter and adapter per platform; do not duplicate RSS parsing or affiliate logic.
+
+
+## Editorial normalization
+
+Before formatting, the shared normalizer in `scripts/social-content.mjs`:
+
+- removes HTML entities, tags, `&nbsp;` and common publisher suffixes;
+- detects partner names from headline, source and metadata using explicit keyword rules;
+- rejects title-as-description duplicates;
+- creates a concise factual fallback when the source description has no useful detail;
+- creates the stable story slug used by both Telegram and the website.
+
+The normalized object contains `story_id`, `headline`, `summary`, `mahgpt_url`, `source_name`, `source_url`, `image`, `detected_partner`, `product_url` and `affiliate_status` conceptually. Future platforms should consume this object rather than parse RSS independently.
+
+## Clean article URLs
+
+New posts use:
+
+`https://mahgpt.com/news/story.html?id=<headline-slug>`
+
+The old `/news/index.html?story=<source-url>` route remains available for backwards compatibility. Homepage and related-story links now use the clean route. The story page resolves the slug back to the current feed and sets a matching canonical URL.
+
+## Product links and redirects
+
+The resolver checks `config/social-affiliate-links.json`. Active entries use a valid `affiliateUrl`; pending/none entries use an existing `redirectPath` where one exists, otherwise the official product URL. Adobe currently has no active tracking URL in the repository, so its CTA remains the official Firefly destination. Signup pages are never used.
+
+## Safe test recommendation
+
+Do not resend the earlier Adobe test. In the manual workflow, paste the exact `source` URL of a different current item from `assets/news-feed.json`; one selected item is sent and duplicate state is not changed.
