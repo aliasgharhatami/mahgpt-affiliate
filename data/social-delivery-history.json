@@ -153,6 +153,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-asked-chatgpt-if-i-should-get-botox-its-answer-made-me-understand-why-chatgpt-for-teens-needs-to-exist": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-23T15:40:42.669Z",
+        "message_id": 242,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
