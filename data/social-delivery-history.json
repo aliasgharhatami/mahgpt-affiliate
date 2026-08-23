@@ -170,6 +170,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-23T17:38:09.294Z",
+        "message_id": 243,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
