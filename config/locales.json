@@ -1,0 +1,19 @@
+{
+  "default": "en",
+  "supported": [
+    {"code":"en","hreflang":"en","dir":"ltr","name":"English"},
+    {"code":"es","hreflang":"es","dir":"ltr","name":"Español"},
+    {"code":"de","hreflang":"de","dir":"ltr","name":"Deutsch"},
+    {"code":"fr","hreflang":"fr","dir":"ltr","name":"Français"},
+    {"code":"pt-BR","hreflang":"pt-BR","dir":"ltr","name":"Português"},
+    {"code":"ar","hreflang":"ar","dir":"rtl","name":"العربية"},
+    {"code":"fa","hreflang":"fa","dir":"rtl","name":"فارسی"},
+    {"code":"tr","hreflang":"tr","dir":"ltr","name":"Türkçe"},
+    {"code":"it","hreflang":"it","dir":"ltr","name":"Italiano"},
+    {"code":"ja","hreflang":"ja","dir":"ltr","name":"日本語"},
+    {"code":"ko","hreflang":"ko","dir":"ltr","name":"한국어"},
+    {"code":"id","hreflang":"id","dir":"ltr","name":"Bahasa Indonesia"},
+    {"code":"hi","hreflang":"hi","dir":"ltr","name":"हिन्दी"}
+  ],
+  "translationProvider": {"mode":"static","externalEnabled":false}
+}
