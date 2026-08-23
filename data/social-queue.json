@@ -1,109 +1,31 @@
 {
   "version": 1,
   "queue_date": "2026-08-23",
-  "created_at": "2026-08-22T21:26:21.013Z",
-  "source_feed_updated_at": "2026-08-22T05:44:38.070Z",
+  "created_at": "2026-08-23T05:32:29.294Z",
+  "source_feed_updated_at": "2026-08-23T05:32:24.537Z",
   "items": [
     {
-      "story_id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeExNVVJJLUh4SEthNkxJdzFUSzRKbTlFOTV0QndBc01CNmVNRmdCRGtkcmpqZ3psLTlUQXJpSjlVWUlPRFJiOUxObjU4c2M4cW1yMHBNZWJJM3pvbWpMMUVVRG5ZX3cxQUUya3FLNXNuVGh3SnVLWGVIcm5IM1kxNV91TkRWdVF4?oc=5",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeExNVVJJLUh4SEthNkxJdzFUSzRKbTlFOTV0QndBc01CNmVNRmdCRGtkcmpqZ3psLTlUQXJpSjlVWUlPRFJiOUxObjU4c2M4cW1yMHBNZWJJM3pvbWpMMUVVRG5ZX3cxQUUya3FLNXNuVGh3SnVLWGVIcm5IM1kxNV91TkRWdVF4?oc=5",
-      "headline": "Adobe's Firefly Audio Tools Exit Beta",
-      "summary": "Adobe has moved its Firefly audio tools out of beta. The update points to a more mature release for creators using Adobe’s AI-powered audio features.",
-      "source_name": "The AI Economy",
-      "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=adobes-firefly-audio-tools-exit-beta",
-      "detected_partner": "adobe",
-      "product_url": "https://www.adobe.com/products/firefly.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-08-23T05:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-08-22T21:04:49.020Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Adobe-s-Firefly-Audio-Tools-Exit-Beta-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Adobe-s-Firefly-Audio-Tools-Exit-Beta-instagram.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQkt1WVI3Rmo3Nm5nVWVOOGZoNTd0YmRZUUNQT1dhYjdMQTE1cHZBTXNvZnJBSFd1cWd6b0lTSVYyUi1kcEVCblZtRmNBeVRvRlNGNlRvZzVXNmthMFVJNFRhOXprYUYySC1TcEhxNkl5QlJKS2dEeERudWdlMmtQTXRULVc1cklUbDlYZWtiN0lPVUt5b1VmNk1HYlg1cl96NE03MXlTQ3Blam9UWFpKV1V2S1I0V2xkQjJXb2pxNUF1NGE0cnQ0VkxXWVY4dTgzNWdmYXgtYXRROW1mbFh1d3RyRFlVdGNzR01hb21rdEt2TEFWWmpJ0gH3AUFVX3lxTE5CS3VZUjdGajc2bmdVZU44Zmg1N3RiZFlRQ1BPV2FiN0xBMTVwdkFNc29mckFIV3VxZ3pvSVNJVjJSLWRwRUJuVm1GY0F5VG9GU0Y2VG9nNVc2a2EwVUk0VGE5emthRjJILVNwSHE2SXlCUkpLZ0R4RG51Z2Uya1BNdFQtVzVySVRsOVhla2I3SU9VS3lvVWY2TUdiWDVyX3o0TTcxeVNDcGVqb1RYWkpXVXZLUjRXbGRCMldvanE1QXU0YTRydDRWTFdZVjh1ODM1Z2ZheC1hdFE5bWZsWHV3dHJEWVV0Y3NHTWFvbWt0S3ZMQVZaakk?oc=5",
-      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQkt1WVI3Rmo3Nm5nVWVOOGZoNTd0YmRZUUNQT1dhYjdMQTE1cHZBTXNvZnJBSFd1cWd6b0lTSVYyUi1kcEVCblZtRmNBeVRvRlNGNlRvZzVXNmthMFVJNFRhOXprYUYySC1TcEhxNkl5QlJKS2dEeERudWdlMmtQTXRULVc1cklUbDlYZWtiN0lPVUt5b1VmNk1HYlg1cl96NE03MXlTQ3Blam9UWFpKV1V2S1I0V2xkQjJXb2pxNUF1NGE0cnQ0VkxXWVY4dTgzNWdmYXgtYXRROW1mbFh1d3RyRFlVdGNzR01hb21rdEt2TEFWWmpJ0gH3AUFVX3lxTE5CS3VZUjdGajc2bmdVZU44Zmg1N3RiZFlRQ1BPV2FiN0xBMTVwdkFNc29mckFIV3VxZ3pvSVNJVjJSLWRwRUJuVm1GY0F5VG9GU0Y2VG9nNVc2a2EwVUk0VGE5emthRjJILVNwSHE2SXlCUkpLZ0R4RG51Z2Uya1BNdFQtVzVySVRsOVhla2I3SU9VS3lvVWY2TUdiWDVyX3o0TTcxeVNDcGVqb1RYWkpXVXZLUjRXbGRCMldvanE1QXU0YTRydDRWTFdZVjh1ODM1Z2ZheC1hdFE5bWZsWHV3dHJEWVV0Y3NHTWFvbWt0S3ZMQVZaakk?oc=5",
-      "headline": "Bengaluru startup Murf AI launches low-cost voice model to challenge OpenAI, ElevenLabs",
-      "summary": "Murf AI has launched a lower-cost voice model aimed at competing with major AI voice platforms including OpenAI and ElevenLabs.",
-      "source_name": "ET Enterprise AI",
-      "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=bengaluru-startup-murf-ai-launches-low-cost-voice-model-to-challenge-openai-elevenlabs",
-      "detected_partner": "elevenlabs",
-      "product_url": "/go/elevenlabs.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-08-23T07:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-08-22T21:15:33.400Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Bengaluru-startup-Murf-AI-launches-low-cost-voice-model-to-challenge-OpenAI-Elev-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Bengaluru-startup-Murf-AI-launches-low-cost-voice-model-to-challenge-OpenAI-Elev-instagram.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/230803/iphone-sell-trade-carrier-store-online.html",
-      "source_url": "https://www.macworld.com/article/230803/iphone-sell-trade-carrier-store-online.html",
-      "headline": "Best places to sell or trade in an iPhone in 2026: How to get the most money",
-      "summary": "With Apple’s next iPhone launch approaching, the article looks at ways to sell or trade in an existing iPhone and recover some of its value.",
+      "story_id": "https://www.macworld.com/article/3139330/macos-27-mac-features-siri-apple-intelligence-release-date-compatibility.html",
+      "source_url": "https://www.macworld.com/article/3139330/macos-27-mac-features-siri-apple-intelligence-release-date-compatibility.html",
+      "headline": "macOS 27 Golden Gate Guide: All the new features coming to compatible Macs, 2026 release date and more",
+      "summary": "Macworld Apple has officially unveiled macOS 27 Golden Gate, the next major update for the Mac, bringing Apple’s next-generation Apple Intelligence platform to compatible devices. The update introduces an all-new Siri AI assistant, major upgrades to apps including Safari, Photos, Messages, Mail and",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/230803-0-09104600-1787320407-iphone-sell-trade.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/230803-0-09104600-1787320407-iphone-sell-trade.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3139330-0-47479100-1787383309-macOS-27-image.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3139330-0-47479100-1787383309-macOS-27-image.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
-        "height": 682
+        "height": 640
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=best-places-to-sell-or-trade-in-an-iphone-in-2026-how-to-get-the-most-money",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=macos-27-golden-gate-guide-all-the-new-features-coming-to-compatible-macs-2026-release-dat",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-23T09:20:00.000Z",
+      "scheduled_publish_at": "2026-08-23T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-08-22T21:28:49.603Z",
-        "message_id": 234,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -125,25 +47,27 @@
       }
     },
     {
-      "story_id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmU4aERld2EzTS1KLW1uSW9Ublotd1FCZ2ZvczZWMEl6LTU4WWVLMWZ1ZVN0WmVNcW5NTTM3Rm5sVW5fSURxelpCQjZlVVNyVkdwZzI2eWJBanBIY0VUWWl1c21rSU5GeC1BVV91X0ExQ1hlTzZELUJLS3FfbWlzS0ZZaTd3ZzB1bGNCMnRVb0E1dXBkTUl4LTVQQjZqZHRnOFZqSXNB0gGrAUFVX3lxTE1UT0U3ZG1haFpZdE5OSHc0cVdUVlN5d1RrSktnTTJHQXdqVFZOUzhZcTBxZkxPWmFoRTdiNGRONm5QUzE3S09ZdUlvWk90VGVaZmtiNnZNb0dGd3FBTXR6Q25tdWM1aXIwS0hrSUt5T1JUVDdWNVZwa1F2d1JZZ2I4RWtjLUdaZEpIMWRUa3MzcW81bG5veUViU055N2NIQVBwQ0dKTXNTQlNmUQ?oc=5",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmU4aERld2EzTS1KLW1uSW9Ublotd1FCZ2ZvczZWMEl6LTU4WWVLMWZ1ZVN0WmVNcW5NTTM3Rm5sVW5fSURxelpCQjZlVVNyVkdwZzI2eWJBanBIY0VUWWl1c21rSU5GeC1BVV91X0ExQ1hlTzZELUJLS3FfbWlzS0ZZaTd3ZzB1bGNCMnRVb0E1dXBkTUl4LTVQQjZqZHRnOFZqSXNB0gGrAUFVX3lxTE1UT0U3ZG1haFpZdE5OSHc0cVdUVlN5d1RrSktnTTJHQXdqVFZOUzhZcTBxZkxPWmFoRTdiNGRONm5QUzE3S09ZdUlvWk90VGVaZmtiNnZNb0dGd3FBTXR6Q25tdWM1aXIwS0hrSUt5T1JUVDdWNVZwa1F2d1JZZ2I4RWtjLUdaZEpIMWRUa3MzcW81bG5veUViU055N2NIQVBwQ0dKTXNTQlNmUQ?oc=5",
-      "headline": "Best Free AI Video Editing Apps for Creators in India: CapCut, InVideo and More",
-      "summary": "A new comparison looks at free AI video-editing options available to creators in India, including CapCut and InVideo.",
-      "source_name": "Gadgets 360",
-      "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=best-free-ai-video-editing-apps-for-creators-in-india-capcut-invideo-and-more",
-      "detected_partner": "invideo",
-      "product_url": "https://invideo.io/",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-08-23T11:20:00.000Z",
+      "story_id": "https://www.techradar.com/pro/software-services/rebelle-8-painting-software-review",
+      "source_url": "https://www.techradar.com/pro/software-services/rebelle-8-painting-software-review",
+      "headline": "Rebelle 8 review: This impressive painting software let me turn my MacBook into a full-blown canvas",
+      "summary": "Rebelle 8 from Escape Motions is all about recreating the real-world effect of painting with brushes and paints on a canvas in a virtual environment.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/zQQyn6BSd4ZEH4oDqtXFL4-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zQQyn6BSd4ZEH4oDqtXFL4-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1433
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=rebelle-8-review-this-impressive-painting-software-let-me-turn-my-macbook-into-a-full-blow",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-23T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-08-22T21:30:16.872Z",
-        "message_id": 235,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -154,8 +78,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Best-Free-AI-Video-Editing-Apps-for-Creators-in-India-CapCut-InVideo-and-More-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Best-Free-AI-Video-Editing-Apps-for-Creators-in-India-CapCut-InVideo-and-More-instagram.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -165,19 +89,107 @@
       }
     },
     {
-      "story_id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0trb3UyUy1oaXNWRWh3M0VzajFTeGEyanNJQ0NBa0hnMGlhZnE4V0puaGd2aXIxS0NWV3FmNU1tejZuVVFmOU5FdEhSc1daRGZiaHFIMmxzTlItTENqQUdLS0ZuUm9yTmFxalFiZHdDdWZJOUVXRUg5OEdZb0Y2Y19KeVNvbXpWMVlCVWpjbGlHQ3JQ?oc=5",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0trb3UyUy1oaXNWRWh3M0VzajFTeGEyanNJQ0NBa0hnMGlhZnE4V0puaGd2aXIxS0NWV3FmNU1tejZuVVFmOU5FdEhSc1daRGZiaHFIMmxzTlItTENqQUdLS0ZuUm9yTmFxalFiZHdDdWZJOUVXRUg5OEdZb0Y2Y19KeVNvbXpWMVlCVWpjbGlHQ3JQ?oc=5",
-      "headline": "Hostinger AI Builder: How to duplicate a website",
-      "summary": "Hostinger has published guidance for duplicating a website with its AI Builder.",
-      "source_name": "Hostinger",
-      "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hostinger-ai-builder-how-to-duplicate-a-website",
-      "detected_partner": "hostinger",
-      "product_url": "https://www.hostinger.com/",
-      "affiliate_status": "none",
+      "story_id": "https://www.techradar.com/pro/the-us-army-is-training-ai-agents-to-work-alongside-human-forces-in-work-roles",
+      "source_url": "https://www.techradar.com/pro/the-us-army-is-training-ai-agents-to-work-alongside-human-forces-in-work-roles",
+      "headline": "The US Army is training AI agents to work alongside human forces in 'work roles'",
+      "summary": "The US Army is training AI agents for specialized cyber roles while human personnel retain control over operational risk and decisions.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/22wor5zabvQx45LnjDAFpb-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/22wor5zabvQx45LnjDAFpb-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-us-army-is-training-ai-agents-to-work-alongside-human-forces-in-work-roles",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-23T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source_url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "headline": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-23T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
+      "source_url": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
+      "headline": "How to limit Instagram from using your data for AI and ads",
+      "summary": "You can keep Instagram from using your activity outside the app to influence the ads you get.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/how-to-limit-instagram-from-using-your-data-for-ai-and-ads/l-intro-1786459133.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/how-to-limit-instagram-from-using-your-data-for-ai-and-ads/l-intro-1786459133.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-limit-instagram-from-using-your-data-for-ai-and-ads",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
       "scheduled_publish_at": "2026-08-23T13:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -192,8 +204,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Hostinger-AI-Builder-How-to-duplicate-a-website-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Hostinger-AI-Builder-How-to-duplicate-a-website-instagram.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -203,19 +215,23 @@
       }
     },
     {
-      "story_id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oSk9ZSWU4NWFKcllGcTItdHFldm91dGxiV1lvU2trU1FGYWI4aTVXQlJkRzgtaUN4LVFER19UaUlYSDhwZU5lX1YzcGZCMFhXd19j?oc=5",
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oSk9ZSWU4NWFKcllGcTItdHFldm91dGxiV1lvU2trU1FGYWI4aTVXQlJkRzgtaUN4LVFER19UaUlYSDhwZU5lX1YzcGZCMFhXd19j?oc=5",
-      "headline": "Semrush vs Ahrefs: Which SEO Tool Actually Wins in 2026?",
-      "summary": "A new comparison examines Semrush and Ahrefs across their SEO capabilities.",
-      "source_name": "The Zero Net",
-      "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=semrush-vs-ahrefs-which-seo-tool-actually-wins-in-2026",
-      "detected_partner": "semrush",
-      "product_url": "https://www.semrush.com/",
-      "affiliate_status": "none",
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-asked-chatgpt-if-i-should-get-botox-its-answer-made-me-understand-why-chatgpt-for-teens-needs-to-exist",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-asked-chatgpt-if-i-should-get-botox-its-answer-made-me-understand-why-chatgpt-for-teens-needs-to-exist",
+      "headline": "I asked ChatGPT if I should get Botox",
+      "summary": "I tested ChatGPT with questions about dieting, relationships and AI companions, and quickly saw why age changes everything.",
+      "source_name": "its answer made me understand why ChatGPT for teens needs to exist",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/RYbcnAYX7uAWDLN2hxa3Go-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RYbcnAYX7uAWDLN2hxa3Go-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-asked-chatgpt-if-i-should-get-botox",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
       "scheduled_publish_at": "2026-08-23T15:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -230,8 +246,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Semrush-vs-Ahrefs-Which-SEO-Tool-Actually-Wins-in-2026--landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Semrush-vs-Ahrefs-Which-SEO-Tool-Actually-Wins-in-2026--instagram.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -241,19 +257,23 @@
       }
     },
     {
-      "story_id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX0lyR3p3YmdOU0ltM0lqY2tkWVpCcDRoR3p2RklXd0ZCQ2FwcHBUTFNtbHFQUEdCU1R0SEtzMS11UXJrUG5PS3lnUVM0Ti1xV1Q4THlNWEJ1cnROLVlpMkIwZlN4aHBYdW1UNkRPa2R4emZzWjRYRG5INjlnQ0FIaHNndnpjRVVnWlZJbGhoeEpBMXFiRzdqQ2FrcjViNXZL?oc=5",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX0lyR3p3YmdOU0ltM0lqY2tkWVpCcDRoR3p2RklXd0ZCQ2FwcHBUTFNtbHFQUEdCU1R0SEtzMS11UXJrUG5PS3lnUVM0Ti1xV1Q4THlNWEJ1cnROLVlpMkIwZlN4aHBYdW1UNkRPa2R4emZzWjRYRG5INjlnQ0FIaHNndnpjRVVnWlZJbGhoeEpBMXFiRzdqQ2FrcjViNXZL?oc=5",
-      "headline": "Canva Acquires Simtheory and Ortto as It Expands Into AI and Marketing Tech",
-      "summary": "Canva has acquired Simtheory and Ortto as it expands further into AI and marketing technology.",
-      "source_name": "UC Today",
-      "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=canva-acquires-simtheory-and-ortto-as-it-expands-into-ai-and-marketing-tech",
-      "detected_partner": "canva",
-      "product_url": "/go/canva.html",
-      "affiliate_status": "none",
+      "story_id": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
+      "source_url": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
+      "headline": "OpenAI calls for California to strengthen its AI safety laws",
+      "summary": "The AI leader said that the state's SB 53 framework should \"be amended to expand safeguards.\"",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/openai-calls-for-california-to-strengthen-its-ai-safety-laws/l-intro-1787426239.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/openai-calls-for-california-to-strengthen-its-ai-safety-laws/l-intro-1787426239.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 900
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-calls-for-california-to-strengthen-its-ai-safety-laws",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
       "scheduled_publish_at": "2026-08-23T17:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -268,8 +288,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Canva-Acquires-Simtheory-and-Ortto-as-It-Expands-Into-AI-and-Marketing-Tech-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Canva-Acquires-Simtheory-and-Ortto-as-It-Expands-Into-AI-and-Marketing-Tech-instagram.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -279,19 +299,23 @@
       }
     },
     {
-      "story_id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uZzNoZUhMM3RTdlZaa1dhZ3NXdzFWNWxiSlhKUXdMMlhPQThLMUthSVJ0emtuS2phUFhZSWFMYmZfU01QRUZJQlVCUXBTbWl0R0FtSmJFTzJNVnk5bWdr?oc=5",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uZzNoZUhMM3RTdlZaa1dhZ3NXdzFWNWxiSlhKUXdMMlhPQThLMUthSVJ0emtuS2phUFhZSWFMYmZfU01QRUZJQlVCUXBTbWl0R0FtSmJFTzJNVnk5bWdr?oc=5",
-      "headline": "How to make an AI image in 6 quick steps",
-      "summary": "Runway has published a six-step guide to creating AI-generated images with its tools.",
-      "source_name": "Runway",
-      "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-make-an-ai-image-in-6-quick-steps",
-      "detected_partner": "runway",
-      "product_url": "/go/runway.html",
-      "affiliate_status": "none",
+      "story_id": "https://www.techradar.com/pro/south-korean-city-bets-on-the-ocean-to-solve-its-ai-data-center-crisis-but-this-is-only-the-beginning",
+      "source_url": "https://www.techradar.com/pro/south-korean-city-bets-on-the-ocean-to-solve-its-ai-data-center-crisis-but-this-is-only-the-beginning",
+      "headline": "South Korean city bets on the ocean to solve its AI data center crisis",
+      "summary": "Ulsan and KIOST are testing a $37 million underwater data center cooled by cold seawater instead of electricity.",
+      "source_name": "but this is only the beginning",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=south-korean-city-bets-on-the-ocean-to-solve-its-ai-data-center-crisis",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
       "scheduled_publish_at": "2026-08-23T19:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -306,8 +330,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/How-to-make-an-AI-image-in-6-quick-steps-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/How-to-make-an-AI-image-in-6-quick-steps-instagram.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -317,19 +341,23 @@
       }
     },
     {
-      "story_id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05YXlqY1RJWE9tc1kwVVM5bU1JNThFdkY1dnBRdlEycXEtNU1wak1KNnFQNWJlZHl3WlpaZEFHYURuOFNuM2h6bUgxNTFMdnJrR2czVjZiZWZKMmpOc0lZdktBWWQ0eFNPdkFlVFAweklkenM1bHpaeHJQUEFNQQ?oc=5",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05YXlqY1RJWE9tc1kwVVM5bU1JNThFdkY1dnBRdlEycXEtNU1wak1KNnFQNWJlZHl3WlpaZEFHYURuOFNuM2h6bUgxNTFMdnJrR2czVjZiZWZKMmpOc0lZdktBWWQ0eFNPdkFlVFAweklkenM1bHpaeHJQUEFNQQ?oc=5",
-      "headline": "SOUNDRAW Review on Quasa: Safest AI Music Generator",
-      "summary": "Quasa has published a review of SOUNDRAW, the AI music-generation platform.",
-      "source_name": "quasa.io",
-      "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=soundraw-review-on-quasa-safest-ai-music-generator",
-      "detected_partner": "soundraw",
-      "product_url": "https://soundraw.io/",
-      "affiliate_status": "none",
+      "story_id": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source_url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "headline": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=inherent-founded-by-deepmind-alumni-says-its-ai-and-8216-teammate-and-8217-just-outperform",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
       "scheduled_publish_at": "2026-08-23T21:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -344,8 +372,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/SOUNDRAW-Review-on-Quasa-Safest-AI-Music-Generator-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/SOUNDRAW-Review-on-Quasa-Safest-AI-Music-Generator-instagram.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -355,16 +383,20 @@
       }
     },
     {
-      "story_id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFBRa1RtTmhSMnQ0Z3hFWnMyRGRQNVBUNWNSbDFORXJDSmNMMjQtbm52XzRTOHNjQjlhSjZickhvZ2JQZUhTMDJacmpDWERVb2l2RlEwd1NJUGJmeWpRVGkyZEx5RXNaaDJIRUZKNmNWRHdCRUMtTlVRRkZIS3JLaDVVcExMbUFUcjFSME9vSnFJWDJw?oc=5",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFBRa1RtTmhSMnQ0Z3hFWnMyRGRQNVBUNWNSbDFORXJDSmNMMjQtbm52XzRTOHNjQjlhSjZickhvZ2JQZUhTMDJacmpDWERVb2l2RlEwd1NJUGJmeWpRVGkyZEx5RXNaaDJIRUZKNmNWRHdCRUMtTlVRRkZIS3JLaDVVcExMbUFUcjFSME9vSnFJWDJw?oc=5",
-      "headline": "Apple Music to start labelling songs as “Created with AI”",
-      "summary": "Apple Music is reportedly preparing to label songs that were created with AI.",
-      "source_name": "BGNES",
-      "original_image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-music-to-start-labelling-songs-as-created-with-ai",
+      "story_id": "https://www.techradar.com/pro/claude-wins-out-in-major-user-satisfaction-survey-beating-gemini-and-chatgpt-but-its-bad-news-for-grok-and-siri",
+      "source_url": "https://www.techradar.com/pro/claude-wins-out-in-major-user-satisfaction-survey-beating-gemini-and-chatgpt-but-its-bad-news-for-grok-and-siri",
+      "headline": "Claude wins out in major user satisfaction survey, beating Gemini and ChatGPT",
+      "summary": "Claude is reportedly the AI tool people are most satisfied using, with both current and former users expressing high regard for Anthropic’s AI ahead of close rivals Gemini and ChatGPT.",
+      "source_name": "but it's bad news for Grok and Siri",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/scxFkyfYSQbrtGvqrmFqgU-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/scxFkyfYSQbrtGvqrmFqgU-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1579
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=claude-wins-out-in-major-user-satisfaction-survey-beating-gemini-and-chatgpt",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -382,8 +414,8 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-08-23/Apple-Music-to-start-labelling-songs-as-Created-with-AI--landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-08-23/Apple-Music-to-start-labelling-songs-as-Created-with-AI--instagram.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
       "quality_gate": {
         "valid": true,
         "warnings": [],
