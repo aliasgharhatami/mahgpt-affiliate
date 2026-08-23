@@ -136,6 +136,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-23T13:47:54.095Z",
+        "message_id": 241,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
