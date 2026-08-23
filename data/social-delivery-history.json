@@ -187,6 +187,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/south-korean-city-bets-on-the-ocean-to-solve-its-ai-data-center-crisis-but-this-is-only-the-beginning": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-23T19:39:03.966Z",
+        "message_id": 244,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
