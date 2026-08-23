@@ -85,6 +85,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/software-services/rebelle-8-painting-software-review": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-23T07:50:06.783Z",
+        "message_id": 237,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
