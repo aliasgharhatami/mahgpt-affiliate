@@ -79,7 +79,14 @@ const youtubeImage = (url) => {
   return match ? "https://img.youtube.com/vi/"+match[1]+"/hqdefault.jpg" : "";
 };
 
-const partnerFor = (text) => partners.find(p=>p[2].some(k=>text.includes(k)));
+const normalizeMatchText = (value) => String(value).toLowerCase().replace(/[^a-z0-9]+/g," ").trim();
+const partnerFor = (text) => {
+  const haystack = " "+normalizeMatchText(text)+" ";
+  return partners.find(p=>p[2].some(keyword => {
+    const term = normalizeMatchText(keyword);
+    return term && haystack.includes(" "+term+" ");
+  }));
+};
 
 const collected=[];
 for(const feedUrl of feeds){
