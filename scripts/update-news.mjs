@@ -79,7 +79,14 @@ const youtubeImage = (url) => {
   return match ? "https://img.youtube.com/vi/"+match[1]+"/hqdefault.jpg" : "";
 };
 
-const partnerFor = (text) => partners.find(p=>p[2].some(k=>text.includes(k)));
+const escapeRegex = (value) => String(value).replace(/[.*+?^$()|[\]\\]/g,"\\const partnerFor = (text) => partners.find(p=>p[2].some(k=>text.includes(k)));");
+const partnerFor = (text) => {
+  const haystack = String(text).toLowerCase();
+  return partners.find(p=>p[2].some(keyword => {
+    const pattern = escapeRegex(keyword.toLowerCase()).replace(/\\s+/g,"\\\\s+");
+    return new RegExp(`(^|[^a-z0-9])${pattern}(?=[^a-z0-9]|$)`, "i").test(haystack);
+  }));
+};
 
 const collected=[];
 for(const feedUrl of feeds){
