@@ -68,6 +68,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3139330/macos-27-mac-features-siri-apple-intelligence-release-date-compatibility.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-23T05:48:05.202Z",
+        "message_id": 236,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
