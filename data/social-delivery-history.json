@@ -204,6 +204,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-23T21:38:48.571Z",
+        "message_id": 245,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
