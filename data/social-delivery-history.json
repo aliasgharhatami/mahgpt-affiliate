@@ -221,6 +221,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/claude-wins-out-in-major-user-satisfaction-survey-beating-gemini-and-chatgpt-but-its-bad-news-for-grok-and-siri": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-23T23:38:36.185Z",
+        "message_id": 246,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
