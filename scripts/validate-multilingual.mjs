@@ -1,0 +1,4 @@
+import fs from "node:fs"; import path from "node:path";
+const root=process.cwd(), locales=JSON.parse(fs.readFileSync("config/locales.json","utf8")), errors=[];
+for(const l of locales.supported.filter(x=>x.code!=="en")){const d=path.join(root,l.code,"partners"); if(!fs.existsSync(d)){errors.push(`missing directory ${d}`);continue;} for(const f of fs.readdirSync(d).filter(x=>x.endsWith(".html"))){const s=fs.readFileSync(path.join(d,f),"utf8"); const checks=[[`lang=${l.hreflang}`,s.includes(`lang="${l.hreflang}"`)],["canonical",s.includes('rel="canonical"')],["hreflang",s.includes('hreflang="en"')],["x-default",s.includes('hreflang="x-default"')]]; for(const [n,ok] of checks)if(!ok)errors.push(`${l.code}/partners/${f}: missing ${n}`); if(l.dir==="rtl"&&!s.includes('dir="rtl"'))errors.push(`${l.code}/partners/${f}: missing rtl`);}}
+if(errors.length){console.error(errors.join("\n"));process.exit(1)} console.log("Multilingual SEO validation passed.");
