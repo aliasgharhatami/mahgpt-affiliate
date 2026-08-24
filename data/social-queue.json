@@ -1,77 +1,31 @@
 {
   "version": 1,
-  "queue_date": "2026-08-23",
-  "created_at": "2026-08-23T05:47:07.272Z",
-  "source_feed_updated_at": "2026-08-23T05:47:03.391Z",
+  "queue_date": "2026-08-24",
+  "created_at": "2026-08-24T05:55:19.913Z",
+  "source_feed_updated_at": "2026-08-24T05:55:16.208Z",
   "items": [
     {
-      "story_id": "https://www.macworld.com/article/3139330/macos-27-mac-features-siri-apple-intelligence-release-date-compatibility.html",
-      "source_url": "https://www.macworld.com/article/3139330/macos-27-mac-features-siri-apple-intelligence-release-date-compatibility.html",
-      "headline": "macOS 27 Golden Gate Guide: All the new features coming to compatible Macs, 2026 release date and more",
-      "summary": "Macworld Apple has officially unveiled macOS 27 Golden Gate, the next major update for the Mac, bringing Apple’s next-generation Apple Intelligence platform to compatible devices. The update introduces an all-new Siri AI assistant, major upgrades to apps including Safari, Photos, Messages, Mail and",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3139330-0-47479100-1787383309-macOS-27-image.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3139330-0-47479100-1787383309-macOS-27-image.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 640
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=macos-27-golden-gate-guide-all-the-new-features-coming-to-compatible-macs-2026-release-dat",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-23T05:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-23T05:48:05.202Z",
-        "message_id": 236,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/software-services/rebelle-8-painting-software-review",
-      "source_url": "https://www.techradar.com/pro/software-services/rebelle-8-painting-software-review",
-      "headline": "Rebelle 8 review: This impressive painting software let me turn my MacBook into a full-blown canvas",
-      "summary": "Rebelle 8 from Escape Motions is all about recreating the real-world effect of painting with brushes and paints on a canvas in a virtual environment.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/zQQyn6BSd4ZEH4oDqtXFL4-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/zQQyn6BSd4ZEH4oDqtXFL4-2560-80.jpg",
+      "story_id": "https://www.techradar.com/pro/the-us-is-now-home-to-15-of-the-worlds-20-biggest-ai-data-centers-with-one-state-housing-12-on-its-own",
+      "source_url": "https://www.techradar.com/pro/the-us-is-now-home-to-15-of-the-worlds-20-biggest-ai-data-centers-with-one-state-housing-12-on-its-own",
+      "headline": "The US is now home to 15 of the world's 20 biggest AI data centers",
+      "summary": "The US dominates global hyperscale infrastructure, while Texas and emerging markets gain importance as operators seek locations supporting continued AI expansion.",
+      "source_name": "with one state housing 12 on its own",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
-        "height": 1433
+        "height": 1440
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=rebelle-8-review-this-impressive-painting-software-let-me-turn-my-macbook-into-a-full-blow",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-us-is-now-home-to-15-of-the-worlds-20-biggest-ai-data-centers",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-23T07:20:00.000Z",
+      "scheduled_publish_at": "2026-08-24T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-08-23T07:50:06.783Z",
-        "message_id": 237,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -93,29 +47,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/the-us-army-is-training-ai-agents-to-work-alongside-human-forces-in-work-roles",
-      "source_url": "https://www.techradar.com/pro/the-us-army-is-training-ai-agents-to-work-alongside-human-forces-in-work-roles",
-      "headline": "The US Army is training AI agents to work alongside human forces in 'work roles'",
-      "summary": "The US Army is training AI agents for specialized cyber roles while human personnel retain control over operational risk and decisions.",
+      "story_id": "https://www.techradar.com/pro/china-is-shifting-its-new-data-centers-to-rural-eastern-locations-as-it-looks-for-extra-ai-power",
+      "source_url": "https://www.techradar.com/pro/china-is-shifting-its-new-data-centers-to-rural-eastern-locations-as-it-looks-for-extra-ai-power",
+      "headline": "China is shifting its new data centers to rural Eastern locations as it looks for extra AI power",
+      "summary": "China is expanding rural AI data centers for climate and land advantages, though local wage growth has lagged behind investment.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/22wor5zabvQx45LnjDAFpb-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/22wor5zabvQx45LnjDAFpb-1920-80.png",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080
+        "width": 2560,
+        "height": 1440
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-us-army-is-training-ai-agents-to-work-alongside-human-forces-in-work-roles",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=china-is-shifting-its-new-data-centers-to-rural-eastern-locations-as-it-looks-for-extra-ai",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-23T09:20:00.000Z",
+      "scheduled_publish_at": "2026-08-24T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-08-23T09:45:52.020Z",
-        "message_id": 238,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -137,29 +89,27 @@
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "source_url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "headline": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "story_id": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "source_url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "headline": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
       "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 800
+        "height": 675
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=who-and-8217-s-behind-the-new-stealth-model-ox-alpha",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-23T11:20:00.000Z",
+      "scheduled_publish_at": "2026-08-24T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-08-23T11:39:44.738Z",
-        "message_id": 240,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -181,29 +131,111 @@
       }
     },
     {
-      "story_id": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
-      "source_url": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
-      "headline": "How to limit Instagram from using your data for AI and ads",
-      "summary": "You can keep Instagram from using your activity outside the app to influence the ads you get.",
+      "story_id": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source_url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "headline": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 805
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-24T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/when-ai-dating-goes-wrong-eva-ai-hires-the-worlds-first-ai-companionship-therapist-a-psychotherapist-talks-chatbot-love-and-why-the-28-year-old-ceo-of-a-human-only-meet-up-app-thinks-ai-infatuation-is-over",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/when-ai-dating-goes-wrong-eva-ai-hires-the-worlds-first-ai-companionship-therapist-a-psychotherapist-talks-chatbot-love-and-why-the-28-year-old-ceo-of-a-human-only-meet-up-app-thinks-ai-infatuation-is-over",
+      "headline": "When AI dating goes wrong: as EVA AI hires the world's first ‘AI Companionship Therapist’, its resident relationship expert talks chatbot dependency — and the 28-year-old CEO of a human-only meet-up app tells me why he thinks AI infatuation is over",
+      "summary": "Shame, jealousy, anger, addiction: are AI relationships causing more harm than good? and what’s the alternative to dating inside a screen in 2026?",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/3rwXHtw8e6pX48cWU6GB3X-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3rwXHtw8e6pX48cWU6GB3X-2000-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2000,
+        "height": 1125
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=when-ai-dating-goes-wrong-as-eva-ai-hires-the-worlds-first-ai-companionship-therapist-its-",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-24T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
+      "source_url": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
+      "headline": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+      "summary": "The class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.",
       "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/how-to-limit-instagram-from-using-your-data-for-ai-and-ads/l-intro-1786459133.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/how-to-limit-instagram-from-using-your-data-for-ai-and-ads/l-intro-1786459133.jpg",
+      "original_image_url": "https://www.engadget.com/img/gallery/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/l-intro-1787505971.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/l-intro-1787505971.jpg",
       "image_validation": {
         "valid": true,
         "width": 1600,
         "height": 899
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-limit-instagram-from-using-your-data-for-ai-and-ads",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-23T13:20:00.000Z",
+      "scheduled_publish_at": "2026-08-24T15:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-08-23T13:47:54.095Z",
-        "message_id": 241,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -225,205 +257,153 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-asked-chatgpt-if-i-should-get-botox-its-answer-made-me-understand-why-chatgpt-for-teens-needs-to-exist",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-asked-chatgpt-if-i-should-get-botox-its-answer-made-me-understand-why-chatgpt-for-teens-needs-to-exist",
-      "headline": "I asked ChatGPT if I should get Botox",
-      "summary": "I tested ChatGPT with questions about dieting, relationships and AI companions, and quickly saw why age changes everything.",
-      "source_name": "its answer made me understand why ChatGPT for teens needs to exist",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/RYbcnAYX7uAWDLN2hxa3Go-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/RYbcnAYX7uAWDLN2hxa3Go-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-asked-chatgpt-if-i-should-get-botox",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-23T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-23T15:40:42.669Z",
-        "message_id": 242,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
-      "source_url": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
-      "headline": "OpenAI calls for California to strengthen its AI safety laws",
-      "summary": "The AI leader said that the state's SB 53 framework should \"be amended to expand safeguards.\"",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/openai-calls-for-california-to-strengthen-its-ai-safety-laws/l-intro-1787426239.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/openai-calls-for-california-to-strengthen-its-ai-safety-laws/l-intro-1787426239.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 900
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-calls-for-california-to-strengthen-its-ai-safety-laws",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-23T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-23T17:38:09.294Z",
-        "message_id": 243,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/south-korean-city-bets-on-the-ocean-to-solve-its-ai-data-center-crisis-but-this-is-only-the-beginning",
-      "source_url": "https://www.techradar.com/pro/south-korean-city-bets-on-the-ocean-to-solve-its-ai-data-center-crisis-but-this-is-only-the-beginning",
-      "headline": "South Korean city bets on the ocean to solve its AI data center crisis",
-      "summary": "Ulsan and KIOST are testing a $37 million underwater data center cooled by cold seawater instead of electricity.",
-      "source_name": "but this is only the beginning",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=south-korean-city-bets-on-the-ocean-to-solve-its-ai-data-center-crisis",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-23T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-23T19:39:03.966Z",
-        "message_id": 244,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "source_url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "headline": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=inherent-founded-by-deepmind-alumni-says-its-ai-and-8216-teammate-and-8217-just-outperform",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-23T21:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-23T21:38:48.571Z",
-        "message_id": 245,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/claude-wins-out-in-major-user-satisfaction-survey-beating-gemini-and-chatgpt-but-its-bad-news-for-grok-and-siri",
-      "source_url": "https://www.techradar.com/pro/claude-wins-out-in-major-user-satisfaction-survey-beating-gemini-and-chatgpt-but-its-bad-news-for-grok-and-siri",
-      "headline": "Claude wins out in major user satisfaction survey, beating Gemini and ChatGPT",
-      "summary": "Claude is reportedly the AI tool people are most satisfied using, with both current and former users expressing high regard for Anthropic’s AI ahead of close rivals Gemini and ChatGPT.",
-      "source_name": "but it's bad news for Grok and Siri",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/scxFkyfYSQbrtGvqrmFqgU-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/scxFkyfYSQbrtGvqrmFqgU-2560-80.jpg",
+      "story_id": "https://www.techradar.com/pro/this-has-become-a-sleeper-issue-for-the-entire-election-cycle-republican-party-tells-top-ai-firms-to-do-something-about-rising-data-center-opposition",
+      "source_url": "https://www.techradar.com/pro/this-has-become-a-sleeper-issue-for-the-entire-election-cycle-republican-party-tells-top-ai-firms-to-do-something-about-rising-data-center-opposition",
+      "headline": "'This has become a sleeper issue for the entire election cycle': Republican Party tells top AI firms to do something about rising US data center opposition",
+      "summary": "Republican Senate memo warns AI companies that public anger over data centers could cost a crucial Ohio crucial seat.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
-        "height": 1579
+        "height": 1440
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=claude-wins-out-in-major-user-satisfaction-survey-beating-gemini-and-chatgpt",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-has-become-a-sleeper-issue-for-the-entire-election-cycle-republican-party-tells-top-a",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-23T23:20:00.000Z",
+      "scheduled_publish_at": "2026-08-24T17:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-08-23T23:38:36.185Z",
-        "message_id": 246,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/ai-isnt-killing-jobs-yet-over-50-of-uk-businesses-say-ai-is-creating-roles-as-massive-upskilling-push-begins",
+      "source_url": "https://www.techradar.com/pro/ai-isnt-killing-jobs-yet-over-50-of-uk-businesses-say-ai-is-creating-roles-as-massive-upskilling-push-begins",
+      "headline": "AI isn't killing jobs yet: Over 50% of businesses say AI is creating roles as massive upskilling push begins",
+      "summary": "A new UK survey finds over half of businesses say AI has created jobs, though workforce skills still lag.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/YviqDhkc8Uz4W7yjbrCF7o-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YviqDhkc8Uz4W7yjbrCF7o-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-isnt-killing-jobs-yet-over-50-of-businesses-say-ai-is-creating-roles-as-massive-upskill",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-24T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source_url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "headline": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 749
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-24T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-might-soon-let-you-lock-your-most-sensitive-chats-behind-a-pin-or-fingerprint-scan-hidden-code-suggests",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-might-soon-let-you-lock-your-most-sensitive-chats-behind-a-pin-or-fingerprint-scan-hidden-code-suggests",
+      "headline": "ChatGPT might soon let you lock your most sensitive chats behind a PIN or fingerprint scan, hidden code suggests",
+      "summary": "There are signs in the latest version of the ChatGPT Android app that the AI assistant will soon offer an extra security feature.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6whQhAYA48xb8xVGQ3HNyX-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6whQhAYA48xb8xVGQ3HNyX-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=chatgpt-might-soon-let-you-lock-your-most-sensitive-chats-behind-a-pin-or-fingerprint-scan",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-24T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
