@@ -1,0 +1,48 @@
+name: Test MahGPT X publisher
+
+on:
+  workflow_dispatch:
+    inputs:
+      queue_index:
+        description: Optional zero-based queue item index; blank selects first unpublished X item
+        required: false
+        default: ""
+      dry_run:
+        description: Preview one item without calling X
+        required: false
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mahgpt-x-manual
+  cancel-in-progress: false
+
+jobs:
+  publish-one:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Publish or preview exactly one X item
+        env:
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_REFRESH_TOKEN: ${{ secrets.X_REFRESH_TOKEN }}
+          X_CLIENT_ID: ${{ secrets.X_CLIENT_ID }}
+          X_QUEUE_INDEX: ${{ inputs.queue_index }}
+          X_DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          npm install --no-audit --no-fund
+          node scripts/x-publisher.mjs
+      - name: Commit X delivery state
+        if: inputs.dry_run != true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/social-queue.json data/x-delivery-history.json
+          git diff --cached --quiet || git commit -m "chore: record X delivery state"
+          git push
