@@ -323,6 +323,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-24T15:58:26.293Z",
+        "message_id": 252,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
