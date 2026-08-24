@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T05:47:03.391Z",
+  "updatedAt": "2026-08-24T05:55:16.208Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "descript",
-      "toolName": "Descript",
-      "category": "Partner watch",
-      "title": "macOS 27 Golden Gate Guide: All the new features coming to compatible Macs, 2026 release date and more",
-      "summary": "Macworld Apple has officially unveiled macOS 27 Golden Gate, the next major update for the Mac, bringing Apple’s next-generation Apple Intelligence platform to compatible devices. The update introduces an all-new Siri AI assistant, major upgrades to apps including Safari, Photos, Messages, Mail and ",
-      "guide": "/partners/descript.html",
-      "source": "https://www.macworld.com/article/3139330/macos-27-mac-features-siri-apple-intelligence-release-date-compatibility.html",
-      "publishedAt": "2026-08-22T07:21:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3139330-0-47479100-1787383309-macOS-27-image.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "canva",
-      "toolName": "Canva AI",
-      "category": "Partner watch",
-      "title": "Rebelle 8 review: This impressive painting software let me turn my MacBook into a full-blown canvas",
-      "summary": "Rebelle 8 from Escape Motions is all about recreating the real-world effect of painting with brushes and paints on a canvas in a virtual environment.",
-      "guide": "/partners/canva.html",
-      "source": "https://www.techradar.com/pro/software-services/rebelle-8-painting-software-review",
-      "publishedAt": "2026-08-22T13:15:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/zQQyn6BSd4ZEH4oDqtXFL4-2560-80.jpg"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "The US is now home to 15 of the world's 20 biggest AI data centers — with one state housing 12 on its own",
+      "summary": "The US dominates global hyperscale infrastructure, while Texas and emerging markets gain importance as operators seek locations supporting continued AI expansion.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/the-us-is-now-home-to-15-of-the-worlds-20-biggest-ai-data-centers-with-one-state-housing-12-on-its-own",
+      "publishedAt": "2026-08-23T23:45:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The US Army is training AI agents to work alongside human forces in 'work roles'",
-      "summary": "The US Army is training AI agents for specialized cyber roles while human personnel retain control over operational risk and decisions.",
+      "title": "China is shifting its new data centers to rural Eastern locations as it looks for extra AI power",
+      "summary": "China is expanding rural AI data centers for climate and land advantages, though local wage growth has lagged behind investment.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-us-army-is-training-ai-agents-to-work-alongside-human-forces-in-work-roles",
-      "publishedAt": "2026-08-23T00:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/22wor5zabvQx45LnjDAFpb-1920-80.png"
+      "source": "https://www.techradar.com/pro/china-is-shifting-its-new-data-centers-to-rural-eastern-locations-as-it-looks-for-extra-ai-power",
+      "publishedAt": "2026-08-23T21:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "publishedAt": "2026-08-22T21:46:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800"
+      "source": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "publishedAt": "2026-08-23T20:01:36.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How to limit Instagram from using your data for AI and ads",
-      "summary": "You can keep Instagram from using your activity outside the app to influence the ads you get.",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
-      "publishedAt": "2026-08-22T20:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-limit-instagram-from-using-your-data-for-ai-and-ads/l-intro-1786459133.jpg"
+      "source": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "publishedAt": "2026-08-23T19:14:08.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "I asked ChatGPT if I should get Botox — its answer made me understand why ChatGPT for teens needs to exist",
-      "summary": "I tested ChatGPT with questions about dieting, relationships and AI companions, and quickly saw why age changes everything.",
+      "title": "When AI dating goes wrong: as EVA AI hires the world's first ‘AI Companionship Therapist’, its resident relationship expert talks chatbot dependency — and the 28-year-old CEO of a human-only meet-up app tells me why he thinks AI infatuation is over",
+      "summary": "Shame, jealousy, anger, addiction: are AI relationships causing more harm than good? and what’s the alternative to dating inside a screen in 2026?",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-asked-chatgpt-if-i-should-get-botox-its-answer-made-me-understand-why-chatgpt-for-teens-needs-to-exist",
-      "publishedAt": "2026-08-22T20:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/RYbcnAYX7uAWDLN2hxa3Go-1920-80.jpg"
+      "source": "https://www.techradar.com/ai-platforms-assistants/when-ai-dating-goes-wrong-eva-ai-hires-the-worlds-first-ai-companionship-therapist-a-psychotherapist-talks-chatbot-love-and-why-the-28-year-old-ceo-of-a-human-only-meet-up-app-thinks-ai-infatuation-is-over",
+      "publishedAt": "2026-08-23T18:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3rwXHtw8e6pX48cWU6GB3X-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI calls for California to strengthen its AI safety laws",
-      "summary": "The AI leader said that the state's SB 53 framework should \"be amended to expand safeguards.\"",
+      "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+      "summary": "The class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
-      "publishedAt": "2026-08-22T19:27:04.000Z",
-      "image": "https://www.engadget.com/img/gallery/openai-calls-for-california-to-strengthen-its-ai-safety-laws/l-intro-1787426239.jpg"
+      "source": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
+      "publishedAt": "2026-08-23T17:39:26.000Z",
+      "image": "https://www.engadget.com/img/gallery/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/l-intro-1787505971.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "South Korean city bets on the ocean to solve its AI data center crisis — but this is only the beginning",
-      "summary": "Ulsan and KIOST are testing a $37 million underwater data center cooled by cold seawater instead of electricity.",
+      "title": "'This has become a sleeper issue for the entire election cycle': Republican Party tells top AI firms to do something about rising US data center opposition",
+      "summary": "Republican Senate memo warns AI companies that public anger over data centers could cost a crucial Ohio crucial seat.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/south-korean-city-bets-on-the-ocean-to-solve-its-ai-data-center-crisis-but-this-is-only-the-beginning",
-      "publishedAt": "2026-08-22T19:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/this-has-become-a-sleeper-issue-for-the-entire-election-cycle-republican-party-tells-top-ai-firms-to-do-something-about-rising-data-center-opposition",
+      "publishedAt": "2026-08-23T17:25:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "title": "AI isn't killing jobs yet: Over 50% of businesses say AI is creating roles as massive upskilling push begins",
+      "summary": "A new UK survey finds over half of businesses say AI has created jobs, though workforce skills still lag.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "publishedAt": "2026-08-22T19:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800"
+      "source": "https://www.techradar.com/pro/ai-isnt-killing-jobs-yet-over-50-of-uk-businesses-say-ai-is-creating-roles-as-massive-upskilling-push-begins",
+      "publishedAt": "2026-08-23T15:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YviqDhkc8Uz4W7yjbrCF7o-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Claude wins out in major user satisfaction survey, beating Gemini and ChatGPT — but it's bad news for Grok and Siri",
-      "summary": "Claude is reportedly the AI tool people are most satisfied using, with both current and former users expressing high regard for Anthropic’s AI ahead of close rivals Gemini and ChatGPT.",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/claude-wins-out-in-major-user-satisfaction-survey-beating-gemini-and-chatgpt-but-its-bad-news-for-grok-and-siri",
-      "publishedAt": "2026-08-22T17:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/scxFkyfYSQbrtGvqrmFqgU-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "ChatGPT might soon let you lock your most sensitive chats behind a PIN or fingerprint scan, hidden code suggests",
+      "summary": "There are signs in the latest version of the ChatGPT Android app that the AI assistant will soon offer an extra security feature.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-might-soon-let-you-lock-your-most-sensitive-chats-behind-a-pin-or-fingerprint-scan-hidden-code-suggests",
+      "publishedAt": "2026-08-23T12:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6whQhAYA48xb8xVGQ3HNyX-2560-80.jpg"
     }
   ]
 }
