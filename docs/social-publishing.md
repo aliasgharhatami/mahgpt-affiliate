@@ -2,7 +2,7 @@
 
 ## Scope
 
-Phase one publishes to Telegram only. The queue is platform-neutral and reserves per-platform state for LinkedIn, Instagram and X, which are not implemented yet.
+Telegram is automatic. Instagram is implemented as a manual-test-only adapter. LinkedIn and X remain unimplemented. All platforms consume the same normalized daily queue.
 
 ## Daily flow
 
@@ -29,7 +29,7 @@ Add repository secret TELEGRAM_BOT_TOKEN at Settings → Secrets and variables �
 
 ## Queue and duplicate protection
 
-data/social-queue.json contains the daily snapshot and per-platform state. story_id is the stable source URL, with a title/date fallback only when no source URL exists. scheduled_publish_at is the assigned slot. telegram.status is pending, published, failed or skipped_duplicate. LinkedIn, Instagram and X remain pending placeholders.
+data/social-queue.json contains the daily snapshot and per-platform state. story_id is the stable source URL, with a title/date fallback only when no source URL exists. scheduled_publish_at is the assigned slot. telegram.status and instagram.status are independent. Telegram publication never marks Instagram as published.
 
 data/social-delivery-history.json preserves successful deliveries across daily queue resets. The builder also imports previously sent records from data/telegram-published.json. If the same source appears again, it is marked skipped_duplicate and is not sent again. A success is recorded only after Telegram returns a successful API response. Failures are retained and can be retried manually.
 
@@ -64,3 +64,20 @@ When a queue item has no usable source image, queue creation generates determini
 - queue fields image_mode, fallback_image_landscape and fallback_image_instagram identify the selected media
 
 Telegram first attempts the source image, then reads the generated local landscape PNG directly from the checked-out repository and uploads it as image/png. It falls back to a text-only message only if both image sends fail. Generated cards are committed with the queue so they are not regenerated during social publishing slots.
+
+## Instagram manual publishing
+
+The workflow is named **Test MahGPT Instagram publisher** and has no schedule trigger. It reads data/social-queue.json, selects one item whose Instagram state is not published, and never fetches news or invokes Telegram.
+
+Required repository secrets:
+
+- INSTAGRAM_ACCESS_TOKEN
+- INSTAGRAM_ACCOUNT_ID
+
+The workflow creates an Instagram image container, waits for processing, publishes it through Meta's official Graph API, and records state only after Meta confirms success. It uses the original remote source image when valid; otherwise it uses the queue's generated Instagram fallback card. Local fallback paths are converted to public URLs under https://mahgpt.com/assets/social-cards/ so Meta can retrieve them.
+
+Run it from Actions → Test MahGPT Instagram publisher. Use **dry_run=true** first to validate exactly one selection and caption without calling Meta. Then run with **dry_run=false** and leave queue_index blank to select the first unpublished item, or provide a zero-based queue index. The workflow commits data/social-queue.json and data/instagram-delivery-history.json only after successful publication.
+
+Instagram duplicate protection is independent and keyed by story_id (normally the stable source URL). Rebuilding the daily queue imports the Instagram history so a previously published story is not sent again.
+
+Automatic Instagram scheduling is intentionally not enabled. A future schedule can call the same script after manual approval, without changing queue generation or Telegram.
