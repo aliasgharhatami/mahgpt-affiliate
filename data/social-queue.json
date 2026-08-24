@@ -33,7 +33,10 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "pending"
+        "status": "published",
+        "published_at": "2026-08-24T15:23:47.479Z",
+        "message_id": "18031462586837419",
+        "media_kind": "source"
       },
       "x": {
         "status": "pending"
