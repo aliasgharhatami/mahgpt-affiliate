@@ -289,6 +289,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-24T11:46:21.972Z",
+        "message_id": 250,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
