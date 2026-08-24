@@ -340,6 +340,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/this-has-become-a-sleeper-issue-for-the-entire-election-cycle-republican-party-tells-top-ai-firms-to-do-something-about-rising-data-center-opposition": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-24T17:49:47.459Z",
+        "message_id": 253,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
