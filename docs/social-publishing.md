@@ -74,10 +74,12 @@ Required repository secrets:
 - INSTAGRAM_ACCESS_TOKEN
 - INSTAGRAM_ACCOUNT_ID
 
-The workflow creates an Instagram image container, waits for processing, publishes it through Meta's official Graph API, and records state only after Meta confirms success. It uses the original remote source image when valid; otherwise it uses the queue's generated Instagram fallback card. Local fallback paths are converted to public URLs under https://mahgpt.com/assets/social-cards/ so Meta can retrieve them.
+The workflow validates the Instagram Login token first with the Instagram Graph API, then creates an image container, waits for processing, publishes it through Meta's official Graph API, and records state only after Meta confirms success. Instagram Login requests use https://graph.instagram.com/v26.0; Telegram remains on its existing path. It uses the original remote source image when valid; otherwise it uses the queue's generated Instagram fallback card. Local fallback paths are converted to public URLs under https://mahgpt.com/assets/social-cards/ so Meta can retrieve them.
 
 Run it from Actions → Test MahGPT Instagram publisher. Use **dry_run=true** first to validate exactly one selection and caption without calling Meta. Then run with **dry_run=false** and leave queue_index blank to select the first unpublished item, or provide a zero-based queue index. The workflow commits data/social-queue.json and data/instagram-delivery-history.json only after successful publication.
 
 Instagram duplicate protection is independent and keyed by story_id (normally the stable source URL). Rebuilding the daily queue imports the Instagram history so a previously published story is not sent again.
 
 Automatic Instagram scheduling is intentionally not enabled. A future schedule can call the same script after manual approval, without changing queue generation or Telegram.
+
+Meta API diagnostics classify token failures as malformed/expired token, insufficient permission, or wrong account/API family. Logs include only host, endpoint path, HTTP status, Meta error code/type/message, and never the token.
