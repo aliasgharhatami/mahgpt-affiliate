@@ -272,6 +272,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-24T10:06:52.747Z",
+        "message_id": 249,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
