@@ -255,6 +255,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/china-is-shifting-its-new-data-centers-to-rural-eastern-locations-as-it-looks-for-extra-ai-power": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-24T08:06:49.216Z",
+        "message_id": 248,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
