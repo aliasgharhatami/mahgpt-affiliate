@@ -238,6 +238,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/the-us-is-now-home-to-15-of-the-worlds-20-biggest-ai-data-centers-with-one-state-housing-12-on-its-own": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-24T05:56:11.450Z",
+        "message_id": 247,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
