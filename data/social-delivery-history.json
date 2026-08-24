@@ -374,6 +374,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-24T21:46:58.801Z",
+        "message_id": 255,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
