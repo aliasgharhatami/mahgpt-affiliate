@@ -1,0 +1,12 @@
+import assert from "node:assert/strict";
+import { normalizeXText, selectXItem, xPostUrl } from "../scripts/x-publisher.mjs";
+const a={story_id:"a",headline:"A headline",summary:"A useful summary.",mahgpt_url:"https://mahgpt.com/news/story.html?id=a",x:{status:"pending"}};
+assert.match(xPostUrl(),/^https:\/\/api\.x\.com\/2\/tweets$/);
+assert.ok(normalizeXText(a).length<=280);
+assert.equal(selectXItem({items:[a]},{stories:{}}),a);
+assert.equal(selectXItem({items:[{...a,x:{status:"published"}}]},{stories:{}}),null);
+assert.equal(selectXItem({items:[a]},{stories:{a:{published_at:"2026-01-01"}}}),null);
+const long={...a,headline:"H".repeat(300),summary:"S".repeat(300)};
+assert.ok(normalizeXText(long).length<=280);
+assert.match(normalizeXText(a),/https:\/\/mahgpt\.com\/news\/story\.html\?id=a/);
+console.log("X publisher tests passed");
