@@ -391,6 +391,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-might-soon-let-you-lock-your-most-sensitive-chats-behind-a-pin-or-fingerprint-scan-hidden-code-suggests": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-24T23:40:10.645Z",
+        "message_id": 256,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
