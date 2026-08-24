@@ -10,10 +10,10 @@ const indexInput=process.env.INSTAGRAM_QUEUE_INDEX;
 const dryRun=process.env.INSTAGRAM_DRY_RUN==="true";
 
 const readJson=async(p,f)=>{try{return JSON.parse(await readFile(p,"utf8"))}catch{return f}};
-const writeJson=async(p,v)=>{await mkdir("data",{recursive:true});await writeFile(p,JSON.stringify(v,null,2)+"\\n")};
+const writeJson=async(p,v)=>{await mkdir("data",{recursive:true});await writeFile(p,JSON.stringify(v,null,2)+"\n")};
 const absoluteMediaUrl=value=>{const raw=String(value||"");if(raw.startsWith("http://")||raw.startsWith("https://"))return raw;if(raw.startsWith("assets/"))return PUBLIC_ORIGIN+"/"+raw;return ""};
-export const instagramCaption=post=>{const headline=String(post.headline||"").trim(),summary=String(post.summary||"").trim(),link=String(post.mahgpt_url||"").trim();const text=[headline,summary,"Read the full story on MahGPT.","Link in bio.", "#AI #ArtificialIntelligence #TechNews"].filter(Boolean).join("\\n\\n");return text.length<=2200?text:text.slice(0,2197).replace(/\\s+\\S*$/,"")+"…"};
-export const resolveInstagramMedia=post=>{if(post.image_mode==="source"&&/^https?:\\/\\//i.test(post.image_url||""))return {url:post.image_url,kind:"source"};const fallback=absoluteMediaUrl(post.fallback_image_instagram||post.fallback_image_landscape);return fallback?{url:fallback,kind:"fallback"}:null};
+export const instagramCaption=post=>{const headline=String(post.headline||"").trim(),summary=String(post.summary||"").trim(),link=String(post.mahgpt_url||"").trim();const text=[headline,summary,"Read the full story on MahGPT.","Link in bio.", "#AI #ArtificialIntelligence #TechNews"].filter(Boolean).join("\n\n");return text.length<=2200?text:text.slice(0,2197).replace(/\s+\S*$/,"")+"…"};
+export const resolveInstagramMedia=post=>{if(post.image_mode==="source"&&/^https?:\/\//i.test(post.image_url||""))return {url:post.image_url,kind:"source"};const fallback=absoluteMediaUrl(post.fallback_image_instagram||post.fallback_image_landscape);return fallback?{url:fallback,kind:"fallback"}:null};
 const graph=path=>"https://graph.facebook.com/"+GRAPH_VERSION+"/"+ACCOUNT_ID+path;
 const graphJson=async(path,params)=>{const body=new URLSearchParams({...params,access_token:TOKEN});const r=await fetch(graph(path),{method:"POST",body});const data=await r.json();if(!r.ok||data.error)throw new Error(data.error?.message||"Instagram Graph API request failed");return data};
 const checkPublicMedia=async url=>{const r=await fetch(url,{method:"HEAD",headers:{"user-agent":"MahGPT-InstagramPublisher/1.0"}});if(!r.ok)throw new Error("media URL is not publicly reachable: "+r.status);const type=r.headers.get("content-type")||"";if(!type.startsWith("image/"))throw new Error("media URL is not an image: "+type);return type};
