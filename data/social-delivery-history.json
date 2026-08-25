@@ -493,6 +493,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-25T16:03:41.650Z",
+        "message_id": 262,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
