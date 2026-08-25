@@ -442,6 +442,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/samsung-thinks-claude-code-can-help-it-boost-chip-design-but-admits-the-ai-still-makes-some-worryingly-big-mistakes": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-25T09:53:56.893Z",
+        "message_id": 259,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
