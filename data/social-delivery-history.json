@@ -561,6 +561,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3219016/apple-stores-are-getting-ready-for-the-release-of-the-long-rumored-home-hub.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-25T23:41:33.580Z",
+        "message_id": 266,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
