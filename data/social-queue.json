@@ -170,7 +170,10 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "pending"
+        "status": "published",
+        "published_at": "2026-08-25T11:49:48.510Z",
+        "message_id": "18090382265162000",
+        "media_kind": "fallback"
       },
       "x": {
         "status": "pending"

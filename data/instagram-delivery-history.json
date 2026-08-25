@@ -64,6 +64,14 @@
         "message_id": "18125559439684723",
         "media_kind": "source"
       }
+    },
+    "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-08-25T11:49:48.510Z",
+        "message_id": "18090382265162000",
+        "media_kind": "fallback"
+      }
     }
   }
 }
