@@ -408,6 +408,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/health-fitness/smartwatches/sorry-garmin-forget-the-fenix-9-this-casio-g-shock-pro-surfer-collab-is-the-only-new-adventure-watch-i-want-this-year": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-25T05:49:49.170Z",
+        "message_id": 257,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
