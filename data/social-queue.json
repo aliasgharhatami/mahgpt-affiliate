@@ -80,7 +80,10 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "pending"
+        "status": "published",
+        "published_at": "2026-08-25T08:03:45.598Z",
+        "message_id": "18128060554737869",
+        "media_kind": "source"
       },
       "x": {
         "status": "pending"
