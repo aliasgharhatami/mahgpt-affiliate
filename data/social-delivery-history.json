@@ -476,6 +476,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/unlicensed-unrestricted-ai-training-could-destroy-the-ecosystem-for-books-quote-of-the-day-by-the-authors-guild-on-the-sourcing-of-training-data": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-25T14:07:10.980Z",
+        "message_id": 261,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
