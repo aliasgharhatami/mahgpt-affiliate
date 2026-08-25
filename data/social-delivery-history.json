@@ -510,6 +510,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/671123/should-i-install-macos-beta-latest-version.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-25T17:47:39.173Z",
+        "message_id": 263,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
