@@ -663,6 +663,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2243934/spacex-use-nvidia-gpu-for-starmind-project/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-26T16:35:24.497Z",
+        "message_id": 272,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
