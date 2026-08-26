@@ -578,6 +578,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/new-study-finds-bosses-are-far-more-comfortable-sharing-work-documents-with-ai-than-their-employees-despite-the-security-risks": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-26T05:52:25.164Z",
+        "message_id": 267,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
