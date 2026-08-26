@@ -629,6 +629,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/the-right-approach-is-for-people-to-deeply-control-the-future-openai-ceo-sam-altman-is-worried-about-ai-being-controlled-by-just-a-few-powerful-players": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-26T11:48:03.440Z",
+        "message_id": 270,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
