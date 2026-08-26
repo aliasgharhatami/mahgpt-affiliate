@@ -1,89 +1,37 @@
 {
   "version": 1,
-  "queue_date": "2026-08-25",
-  "created_at": "2026-08-25T05:49:23.800Z",
-  "source_feed_updated_at": "2026-08-25T05:49:19.883Z",
+  "queue_date": "2026-08-26",
+  "created_at": "2026-08-26T05:52:00.075Z",
+  "source_feed_updated_at": "2026-08-26T05:51:56.572Z",
   "items": [
     {
-      "story_id": "https://www.techradar.com/health-fitness/smartwatches/sorry-garmin-forget-the-fenix-9-this-casio-g-shock-pro-surfer-collab-is-the-only-new-adventure-watch-i-want-this-year",
-      "source_url": "https://www.techradar.com/health-fitness/smartwatches/sorry-garmin-forget-the-fenix-9-this-casio-g-shock-pro-surfer-collab-is-the-only-new-adventure-watch-i-want-this-year",
-      "headline": "Sorry Garmin — forget the Fenix 9, this Casio G-Shock pro surfer collab is the only new adventure watch I want this year",
-      "summary": "Casio’s surf-themed smartwatch has gone on sale right before the Garmin Fenix 9 makes its debut.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rWfQNAwq8H4f5wp3RBuSsF-1681-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/rWfQNAwq8H4f5wp3RBuSsF-1681-80.jpg",
+      "story_id": "https://www.techradar.com/pro/new-study-finds-bosses-are-far-more-comfortable-sharing-work-documents-with-ai-than-their-employees-despite-the-security-risks",
+      "source_url": "https://www.techradar.com/pro/new-study-finds-bosses-are-far-more-comfortable-sharing-work-documents-with-ai-than-their-employees-despite-the-security-risks",
+      "headline": "New study finds bosses are far more comfortable sharing work documents with AI than their employees",
+      "summary": "Report claims 68% of workers use AI tools at work, with 74% of bosses happy to hand over tasks to their preferred AI, regardless of security concerns",
+      "source_name": "despite the security risks",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/u3naU2gsWfmSPy7XvMwZGL-970-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/u3naU2gsWfmSPy7XvMwZGL-970-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1681,
-        "height": 987
+        "width": 970,
+        "height": 545
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=sorry-garmin-forget-the-fenix-9-this-casio-g-shock-pro-surfer-collab-is-the-only-new-adven",
-      "detected_partner": "surfer",
-      "product_url": "https://surferseo.com/",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-08-25T05:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-25T05:49:49.170Z",
-        "message_id": 257,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-08-25T05:52:34.121Z",
-        "message_id": "17915133996242548",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.creativebloq.com/design/the-hamnet-netflix-controversy-proves-ai-accusations-are-getting-out-of-hand",
-      "source_url": "https://www.creativebloq.com/design/the-hamnet-netflix-controversy-proves-ai-accusations-are-getting-out-of-hand",
-      "headline": "The Hamnet Netflix controversy proves AI accusations are getting out of hand",
-      "summary": "Just because you don't recognise something, doesn't mean it's AI.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/2zsQNzvQTUFkkSuz3JoJRM-1917-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/2zsQNzvQTUFkkSuz3JoJRM-1917-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1917,
-        "height": 1080
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-hamnet-netflix-controversy-proves-ai-accusations-are-getting-out-of-hand",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=new-study-finds-bosses-are-far-more-comfortable-sharing-work-documents-with-ai-than-their-",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-25T07:20:00.000Z",
+      "scheduled_publish_at": "2026-08-26T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-08-25T08:01:33.119Z",
-        "message_id": 258,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-08-25T08:03:45.598Z",
-        "message_id": "18128060554737869",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
@@ -99,298 +47,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/samsung-thinks-claude-code-can-help-it-boost-chip-design-but-admits-the-ai-still-makes-some-worryingly-big-mistakes",
-      "source_url": "https://www.techradar.com/pro/samsung-thinks-claude-code-can-help-it-boost-chip-design-but-admits-the-ai-still-makes-some-worryingly-big-mistakes",
-      "headline": "Samsung thinks Claude Code can help it boost chip design",
-      "summary": "Samsung's chip division is finding out what agentic coding tools do when you leave them alone: when asked to deal with a stubborn error, Claude reclassified it as an informational notice to be 'rid' of the issue",
-      "source_name": "but admits the AI still makes some worryingly big mistakes",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/new7kozVtx7yeGs3pWmbfd-1264-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/new7kozVtx7yeGs3pWmbfd-1264-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1264,
-        "height": 711
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=samsung-thinks-claude-code-can-help-it-boost-chip-design",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-25T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-25T09:53:56.893Z",
-        "message_id": 259,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-08-25T09:55:46.540Z",
-        "message_id": "18125559439684723",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "source_url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "headline": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "story_id": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "source_url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "headline": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
       "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-25T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-25T11:47:04.389Z",
-        "message_id": 260,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-08-25T11:49:48.510Z",
-        "message_id": "18090382265162000",
-        "media_kind": "fallback"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "assets/social-cards/2026-08-25/Situational-Awareness-star-AI-hedge-fund-that-nearly-imploded-now-being-probed-b-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-08-25/Situational-Awareness-star-AI-hedge-fund-that-nearly-imploded-now-being-probed-b-instagram.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/unlicensed-unrestricted-ai-training-could-destroy-the-ecosystem-for-books-quote-of-the-day-by-the-authors-guild-on-the-sourcing-of-training-data",
-      "source_url": "https://www.techradar.com/pro/unlicensed-unrestricted-ai-training-could-destroy-the-ecosystem-for-books-quote-of-the-day-by-the-authors-guild-on-the-sourcing-of-training-data",
-      "headline": "'Unlicensed, unrestricted AI training could destroy the ecosystem for books'",
-      "summary": "Many of today's widely used AI systems have been trained on material sourced from books",
-      "source_name": "quote of the day by the Authors Guild on the sourcing of training data",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/sAKNxTKFKv2WboLS6v4Zw7-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/sAKNxTKFKv2WboLS6v4Zw7-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=unlicensed-unrestricted-ai-training-could-destroy-the-ecosystem-for-books",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-25T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-25T14:07:10.980Z",
-        "message_id": 261,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-08-25T14:09:50.887Z",
-        "message_id": "18131560039629931",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
-      "source_url": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
-      "headline": "iOS 27 beta 7 is out now as the general release date approaches",
-      "summary": "Macworld On the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026. The pattern goes like this: Apple releases developer-only betas for the firs",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3172166-0-91739200-1787601989-ios_27_hero.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3172166-0-91739200-1787601989-ios_27_hero.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 576
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ios-27-beta-7-is-out-now-as-the-general-release-date-approaches",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-25T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-25T16:03:41.650Z",
-        "message_id": 262,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/671123/should-i-install-macos-beta-latest-version.html",
-      "source_url": "https://www.macworld.com/article/671123/should-i-install-macos-beta-latest-version.html",
-      "headline": "macOS Beta: Golden Gate developer beta 7 now available",
-      "summary": "Macworld Following its preview at WWDC on June 8, Apple released the first developer beta of macOS 27 Golden Gate, giving developers and Mac users an early look at the next major version of macOS ahead of its expected public release this fall. Rather than introducing a dramatic redesign, Golden Gat",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/671123-0-85024300-1787601140-Apple-Developers-SDK-How-to-become-an-Apple-developer.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/671123-0-85024300-1787601140-Apple-Developers-SDK-How-to-become-an-Apple-developer.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 640
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=macos-beta-golden-gate-developer-beta-7-now-available",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-25T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-25T17:47:39.173Z",
-        "message_id": 263,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/same-compute-fewer-resources-more-compute-same-energy-amd-says-it-is-on-track-to-make-ai-four-times-more-energy-efficient",
-      "source_url": "https://www.techradar.com/pro/same-compute-fewer-resources-more-compute-same-energy-amd-says-it-is-on-track-to-make-ai-four-times-more-energy-efficient",
-      "headline": "'Same compute, fewer resources - More compute, same energy': AMD says it is on track to make AI four times more energy efficient",
-      "summary": "AMD says two of its 2030 racks will match 570 from 2024 using twenty times less power and reducing carbon intensity by twenty-eight times.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/57WmYG5XhZW4LrESt9okBM-1781-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/57WmYG5XhZW4LrESt9okBM-1781-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1781,
-        "height": 1009
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=same-compute-fewer-resources-more-compute-same-energy-amd-says-it-is-on-track-to-make-ai-f",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-25T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-25T19:48:14.726Z",
-        "message_id": 264,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "source_url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "headline": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 786
+        "height": 675
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=india-and-8217-s-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-25T21:20:00.000Z",
+      "scheduled_publish_at": "2026-08-26T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-08-25T21:46:33.044Z",
-        "message_id": 265,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -412,29 +89,321 @@
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3219016/apple-stores-are-getting-ready-for-the-release-of-the-long-rumored-home-hub.html",
-      "source_url": "https://www.macworld.com/article/3219016/apple-stores-are-getting-ready-for-the-release-of-the-long-rumored-home-hub.html",
-      "headline": "Apple Stores are getting ready for the release of the long-rumored home hub",
-      "summary": "Macworld It feels like forever since we started hearing rumors about Apple’s plans to make a more concerted effort in the smart home market. But now that the major component needed for such devices– Siri AI –is finally here, it appears that Apple has its new and updated smart home products on the re",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3219016-0-51624700-1787587121-apple-store-miam-worldcenter-interior.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3219016-0-51624700-1787587121-apple-store-miam-worldcenter-interior.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "source_url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "headline": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 683
+        "width": 1200,
+        "height": 849
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-stores-are-getting-ready-for-the-release-of-the-long-rumored-home-hub",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=robotics-startup-generalist-reaches-3b-valuation-sources-say",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-25T23:20:00.000Z",
+      "scheduled_publish_at": "2026-08-26T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-08-25T23:41:33.580Z",
-        "message_id": 266,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/the-right-approach-is-for-people-to-deeply-control-the-future-openai-ceo-sam-altman-is-worried-about-ai-being-controlled-by-just-a-few-powerful-players",
+      "source_url": "https://www.techradar.com/pro/the-right-approach-is-for-people-to-deeply-control-the-future-openai-ceo-sam-altman-is-worried-about-ai-being-controlled-by-just-a-few-powerful-players",
+      "headline": "'The right approach is for people to deeply control the future': OpenAI CEO Sam Altman is worried about AI being controlled by just a few powerful players",
+      "summary": "Sam Altman has expressed concerns that large companies with AI interests are determining the direction the technology takes, rather than society",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/3Bk9NDKZ5ot8CWHYtH4qGk-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3Bk9NDKZ5ot8CWHYtH4qGk-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-right-approach-is-for-people-to-deeply-control-the-future-openai-ceo-sam-altman-is-wor",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-26T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/the-death-of-the-human-web-report-finds-over-a-third-of-web-pages-pushed-live-since-the-launch-of-chatgpt-show-evidence-of-being-written-by-ai",
+      "source_url": "https://www.techradar.com/pro/the-death-of-the-human-web-report-finds-over-a-third-of-web-pages-pushed-live-since-the-launch-of-chatgpt-show-evidence-of-being-written-by-ai",
+      "headline": "The death of the human web? Report finds over a third of web pages pushed live since the launch of ChatGPT show evidence of being written by AI",
+      "summary": "Researchers have found a sharp increase in the number of web pages using AI authorship, with over 33% of pages published since January 2023 apparently written by AI",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-death-of-the-human-web-report-finds-over-a-third-of-web-pages-pushed-live-since-the-la",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-26T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2243934/spacex-use-nvidia-gpu-for-starmind-project/",
+      "source_url": "https://www.engadget.com/2243934/spacex-use-nvidia-gpu-for-starmind-project/",
+      "headline": "SpaceX to use NVIDIA GPUs for its Starmind project",
+      "summary": "Elon Musk wants to harness solar energy for AI.",
+      "source_name": "Here's what they'll face in space",
+      "original_image_url": "https://www.engadget.com/img/gallery/spacex-to-use-nvidia-gpus-for-its-starmind-project-heres-what-theyll-face-in-space/l-intro-1787680326.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/spacex-to-use-nvidia-gpus-for-its-starmind-project-heres-what-theyll-face-in-space/l-intro-1787680326.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=spacex-to-use-nvidia-gpus-for-its-starmind-project",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-26T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "source_url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "headline": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "summary": "The company's new fundraising total now stands at $232 million.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152",
+      "image_validation": {
+        "valid": true,
+        "width": 1152,
+        "height": 896
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-26T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/why-0s-and-1s-arent-enough-3-part-biological-memory-model-exposes-limits-of-ai-silicon",
+      "source_url": "https://www.techradar.com/pro/why-0s-and-1s-arent-enough-3-part-biological-memory-model-exposes-limits-of-ai-silicon",
+      "headline": "Why 0s and 1s aren't enough — 3-part biological memory model exposes limits of AI silicon",
+      "summary": "Researchers propose that memory depends on neurons, astrocytes, surrounding molecules, and chemical signals, challenging purely electronic explanations of cognition.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-0s-and-1s-arent-enough-3-part-biological-memory-model-exposes-limits-of-ai-silicon",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-26T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "source_url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "headline": "Claude Cowork finally remembers what you told the app in chat",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 842
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-26T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/2973459/2026-mac-studio-m5-release-date-specs-price-rumors.html",
+      "source_url": "https://www.macworld.com/article/2973459/2026-mac-studio-m5-release-date-specs-price-rumors.html",
+      "headline": "New Mac Studio M5 Max and M5 Ultra: Everything you need to know",
+      "summary": "Macworld New Mac Studio 2026: At a glance What’s new: The 2026 Mac Studio gains M5 Max and M5 Ultra chips, dramatically faster AI and graphics performance, faster SSD storage, increased memory bandwidth, Wi-Fi 7, Bluetooth 6, and enhanced professional connectivity. Release date : Announced on August",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/2973459-0-63070900-1787678038-m4-mac-studio-angle.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/2973459-0-63070900-1787678038-m4-mac-studio-angle.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 682
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=new-mac-studio-m5-max-and-m5-ultra-everything-you-need-to-know",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-26T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
