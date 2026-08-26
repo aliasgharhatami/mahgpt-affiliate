@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T05:49:19.883Z",
+  "updatedAt": "2026-08-26T05:51:56.572Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "surfer",
-      "toolName": "Surfer",
-      "category": "Partner watch",
-      "title": "Sorry Garmin — forget the Fenix 9, this Casio G-Shock pro surfer collab is the only new adventure watch I want this year",
-      "summary": "Casio’s surf-themed smartwatch has gone on sale right before the Garmin Fenix 9 makes its debut.",
-      "guide": "/partners/surfer.html",
-      "source": "https://www.techradar.com/health-fitness/smartwatches/sorry-garmin-forget-the-fenix-9-this-casio-g-shock-pro-surfer-collab-is-the-only-new-adventure-watch-i-want-this-year",
-      "publishedAt": "2026-08-24T17:45:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rWfQNAwq8H4f5wp3RBuSsF-1681-80.jpg"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "New study finds bosses are far more comfortable sharing work documents with AI than their employees — despite the security risks",
+      "summary": "Report claims 68% of workers use AI tools at work, with 74% of bosses happy to hand over tasks to their preferred AI, regardless of security concerns",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/new-study-finds-bosses-are-far-more-comfortable-sharing-work-documents-with-ai-than-their-employees-despite-the-security-risks",
+      "publishedAt": "2026-08-26T05:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/u3naU2gsWfmSPy7XvMwZGL-970-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The Hamnet Netflix controversy proves AI accusations are getting out of hand",
-      "summary": "Just because you don't recognise something, doesn't mean it's AI.",
+      "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/design/the-hamnet-netflix-controversy-proves-ai-accusations-are-getting-out-of-hand",
-      "publishedAt": "2026-08-25T04:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/2zsQNzvQTUFkkSuz3JoJRM-1917-80.jpg"
+      "source": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "publishedAt": "2026-08-26T03:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Samsung thinks Claude Code can help it boost chip design — but admits the AI still makes some worryingly big mistakes",
-      "summary": "Samsung's chip division is finding out what agentic coding tools do when you leave them alone: when asked to deal with a stubborn error, Claude reclassified it as an informational notice to be 'rid' of the issue",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/samsung-thinks-claude-code-can-help-it-boost-chip-design-but-admits-the-ai-still-makes-some-worryingly-big-mistakes",
-      "publishedAt": "2026-08-25T00:25:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/new7kozVtx7yeGs3pWmbfd-1264-80.png"
+      "source": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "publishedAt": "2026-08-26T00:40:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "title": "'The right approach is for people to deeply control the future': OpenAI CEO Sam Altman is worried about AI being controlled by just a few powerful players",
+      "summary": "Sam Altman has expressed concerns that large companies with AI interests are determining the direction the technology takes, rather than society",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "publishedAt": "2026-08-25T00:23:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800"
+      "source": "https://www.techradar.com/pro/the-right-approach-is-for-people-to-deeply-control-the-future-openai-ceo-sam-altman-is-worried-about-ai-being-controlled-by-just-a-few-powerful-players",
+      "publishedAt": "2026-08-25T23:15:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3Bk9NDKZ5ot8CWHYtH4qGk-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'Unlicensed, unrestricted AI training could destroy the ecosystem for books' — quote of the day by the Authors Guild on the sourcing of training data",
-      "summary": "Many of today's widely used AI systems have been trained on material sourced from books",
+      "title": "The death of the human web? Report finds over a third of web pages pushed live since the launch of ChatGPT show evidence of being written by AI",
+      "summary": "Researchers have found a sharp increase in the number of web pages using AI authorship, with over 33% of pages published since January 2023 apparently written by AI",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/unlicensed-unrestricted-ai-training-could-destroy-the-ecosystem-for-books-quote-of-the-day-by-the-authors-guild-on-the-sourcing-of-training-data",
-      "publishedAt": "2026-08-24T22:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/sAKNxTKFKv2WboLS6v4Zw7-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/the-death-of-the-human-web-report-finds-over-a-third-of-web-pages-pushed-live-since-the-launch-of-chatgpt-show-evidence-of-being-written-by-ai",
+      "publishedAt": "2026-08-25T22:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "iOS 27 beta 7 is out now as the general release date approaches",
-      "summary": "Macworld On the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026. The pattern goes like this: Apple releases developer-only betas for the firs",
+      "title": "SpaceX to use NVIDIA GPUs for its Starmind project — Here's what they'll face in space",
+      "summary": "Elon Musk wants to harness solar energy for AI.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
-      "publishedAt": "2026-08-24T20:06:14.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3172166-0-91739200-1787601989-ios_27_hero.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.engadget.com/2243934/spacex-use-nvidia-gpu-for-starmind-project/",
+      "publishedAt": "2026-08-25T20:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/spacex-to-use-nvidia-gpus-for-its-starmind-project-heres-what-theyll-face-in-space/l-intro-1787680326.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "macOS Beta: Golden Gate developer beta 7 now available",
-      "summary": "Macworld Following its preview at WWDC on June 8, Apple released the first developer beta of macOS 27 Golden Gate , giving developers and Mac users an early look at the next major version of macOS ahead of its expected public release this fall. Rather than introducing a dramatic redesign, Golden Gat",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "summary": "The company's new fundraising total now stands at $232 million.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/671123/should-i-install-macos-beta-latest-version.html",
-      "publishedAt": "2026-08-24T19:50:11.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/671123-0-85024300-1787601140-Apple-Developers-SDK-How-to-become-an-Apple-developer.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "publishedAt": "2026-08-25T19:03:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'Same compute, fewer resources - More compute, same energy': AMD says it is on track to make AI four times more energy efficient",
-      "summary": "AMD says two of its 2030 racks will match 570 from 2024 using twenty times less power and reducing carbon intensity by twenty-eight times.",
+      "title": "Why 0s and 1s aren't enough — 3-part biological memory model exposes limits of AI silicon",
+      "summary": "Researchers propose that memory depends on neurons, astrocytes, surrounding molecules, and chemical signals, challenging purely electronic explanations of cognition.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/same-compute-fewer-resources-more-compute-same-energy-amd-says-it-is-on-track-to-make-ai-four-times-more-energy-efficient",
-      "publishedAt": "2026-08-24T19:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/57WmYG5XhZW4LrESt9okBM-1781-80.jpg"
+      "source": "https://www.techradar.com/pro/why-0s-and-1s-arent-enough-3-part-biological-memory-model-exposes-limits-of-ai-silicon",
+      "publishedAt": "2026-08-25T18:40:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "publishedAt": "2026-08-24T18:03:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786"
+      "source": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "publishedAt": "2026-08-25T17:50:33.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple Stores are getting ready for the release of the long-rumored home hub",
-      "summary": "Macworld It feels like forever since we started hearing rumors about Apple’s plans to make a more concerted effort in the smart home market. But now that the major component needed for such devices– Siri AI –is finally here, it appears that Apple has its new and updated smart home products on the re",
+      "title": "New Mac Studio M5 Max and M5 Ultra: Everything you need to know",
+      "summary": "Macworld New Mac Studio 2026: At a glance What’s new: The 2026 Mac Studio gains M5 Max and M5 Ultra chips, dramatically faster AI and graphics performance, faster SSD storage, increased memory bandwidth, Wi-Fi 7, Bluetooth 6, and enhanced professional connectivity. Release date : Announced on August",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3219016/apple-stores-are-getting-ready-for-the-release-of-the-long-rumored-home-hub.html",
-      "publishedAt": "2026-08-24T15:55:10.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3219016-0-51624700-1787587121-apple-store-miam-worldcenter-interior.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.macworld.com/article/2973459/2026-mac-studio-m5-release-date-specs-price-rumors.html",
+      "publishedAt": "2026-08-25T17:13:45.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/08/2973459-0-63070900-1787678038-m4-mac-studio-angle.jpg?quality=50&strip=all&w=1024"
     }
   ]
 }
