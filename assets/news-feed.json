@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T05:51:56.572Z",
+  "updatedAt": "2026-08-27T16:32:41.815Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "New study finds bosses are far more comfortable sharing work documents with AI than their employees — despite the security risks",
-      "summary": "Report claims 68% of workers use AI tools at work, with 74% of bosses happy to hand over tasks to their preferred AI, regardless of security concerns",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/new-study-finds-bosses-are-far-more-comfortable-sharing-work-documents-with-ai-than-their-employees-despite-the-security-risks",
-      "publishedAt": "2026-08-26T05:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/u3naU2gsWfmSPy7XvMwZGL-970-80.jpg"
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Adobe just added a brand new AI-assisted editor to Photoshop",
+      "summary": "The software is leaning further into prompt-based editing.",
+      "guide": "/partners/adobe.html",
+      "source": "https://www.creativebloq.com/design/design-software/adobe-just-added-a-brand-new-ai-assisted-editor-to-photoshop",
+      "publishedAt": "2026-08-27T13:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/gcxqpJupoHi2PGXgAHX4j-1440-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "title": "Want to own a .slop domain? You could soon be in luck, along with .therapy, and .hype",
+      "summary": "ICANN's 2026 application round brought in around 1,600 new gTLD suggestions, including .slop, .agentic and .agi.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "publishedAt": "2026-08-26T03:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675"
+      "source": "https://www.techradar.com/pro/want-to-own-a-slop-domain-you-could-soon-be-in-luck-along-with-therapy-and-hype",
+      "publishedAt": "2026-08-27T16:25:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JUrboXdNaRLYVSTeKsZxy8-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the suppo",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "publishedAt": "2026-08-26T00:40:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "publishedAt": "2026-08-27T16:15:52.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'The right approach is for people to deeply control the future': OpenAI CEO Sam Altman is worried about AI being controlled by just a few powerful players",
-      "summary": "Sam Altman has expressed concerns that large companies with AI interests are determining the direction the technology takes, rather than society",
+      "title": "Google brings trip-planning features to Search's AI Mode",
+      "summary": "Google AI Mode is getting a flight price tracker, hotel booking and a way to view the cost in miles or points.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-right-approach-is-for-people-to-deeply-control-the-future-openai-ceo-sam-altman-is-worried-about-ai-being-controlled-by-just-a-few-powerful-players",
-      "publishedAt": "2026-08-25T23:15:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3Bk9NDKZ5ot8CWHYtH4qGk-2560-80.jpg"
+      "source": "https://www.engadget.com/2245553/google-brings-trip-planning-features-to-search-ai-mode/",
+      "publishedAt": "2026-08-27T16:04:10.000Z",
+      "image": "https://www.engadget.com/img/gallery/google-brings-trip-planning-features-to-searchs-ai-mode/l-intro-1787846533.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The death of the human web? Report finds over a third of web pages pushed live since the launch of ChatGPT show evidence of being written by AI",
-      "summary": "Researchers have found a sharp increase in the number of web pages using AI authorship, with over 33% of pages published since January 2023 apparently written by AI",
+      "title": "Google&#8217;s AI Mode can now track flight prices, help book hotels, and more",
+      "summary": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process itself.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-death-of-the-human-web-report-finds-over-a-third-of-web-pages-pushed-live-since-the-launch-of-chatgpt-show-evidence-of-being-written-by-ai",
-      "publishedAt": "2026-08-25T22:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "publishedAt": "2026-08-27T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "SpaceX to use NVIDIA GPUs for its Starmind project — Here's what they'll face in space",
-      "summary": "Elon Musk wants to harness solar energy for AI.",
+      "title": "This indie dev found a use for AI but says the project was still firmly human led",
+      "summary": "HaZ Dulull turned his own pixel art game into an animation series.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2243934/spacex-use-nvidia-gpu-for-starmind-project/",
-      "publishedAt": "2026-08-25T20:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/spacex-to-use-nvidia-gpus-for-its-starmind-project-heres-what-theyll-face-in-space/l-intro-1787680326.jpg"
+      "source": "https://www.creativebloq.com/ai/this-indie-dev-found-a-use-for-ai-but-says-the-project-was-still-firmly-human-led",
+      "publishedAt": "2026-08-27T16:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Gj9mAJAYfB8yPTYWRY3p9R-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "summary": "The company's new fundraising total now stands at $232 million.",
+      "title": "In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’",
+      "summary": "As Tesla gears up for the official launch of its steering wheel and pedal-less Cybercabs, Waymo is issuing a stark warning about Elon Musk's approach autonomous driving. Srikanth Thirumalai, Waymo's VP of Onboard Software, doesn't specifically call out Musk or Tesla in a blog post, published Wednesd",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "publishedAt": "2026-08-25T19:03:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152"
+      "source": "https://www.theverge.com/transportation/985503/waymo-tesla-lidar-camera-robotaxi-cybercab-musk",
+      "publishedAt": "2026-08-27T14:55:20.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2231033749.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why 0s and 1s aren't enough — 3-part biological memory model exposes limits of AI silicon",
-      "summary": "Researchers propose that memory depends on neurons, astrocytes, surrounding molecules, and chemical signals, challenging purely electronic explanations of cognition.",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says G",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/why-0s-and-1s-arent-enough-3-part-biological-memory-model-exposes-limits-of-ai-silicon",
-      "publishedAt": "2026-08-25T18:40:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg"
+      "source": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "publishedAt": "2026-08-27T14:30:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&amp;q=30"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "title": "AI&#8217;s memory crunch is coming for Android apps",
+      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "publishedAt": "2026-08-25T17:50:33.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842"
+      "source": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "publishedAt": "2026-08-27T14:27:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?resize=1200,675"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "New Mac Studio M5 Max and M5 Ultra: Everything you need to know",
-      "summary": "Macworld New Mac Studio 2026: At a glance What’s new: The 2026 Mac Studio gains M5 Max and M5 Ultra chips, dramatically faster AI and graphics performance, faster SSD storage, increased memory bandwidth, Wi-Fi 7, Bluetooth 6, and enhanced professional connectivity. Release date : Announced on August",
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/2973459/2026-mac-studio-m5-release-date-specs-price-rumors.html",
-      "publishedAt": "2026-08-25T17:13:45.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/2973459-0-63070900-1787678038-m4-mac-studio-angle.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "publishedAt": "2026-08-27T14:01:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/open-ai-chatgpt-anthropic-claude-icons.jpg?resize=1200,800"
     }
   ]
 }
