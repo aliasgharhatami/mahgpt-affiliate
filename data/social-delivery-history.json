@@ -697,6 +697,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/why-0s-and-1s-arent-enough-3-part-biological-memory-model-exposes-limits-of-ai-silicon": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-27T00:50:41.197Z",
+        "message_id": 274,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
