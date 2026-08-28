@@ -731,6 +731,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/want-to-own-a-slop-domain-you-could-soon-be-in-luck-along-with-therapy-and-hype": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-28T01:30:52.484Z",
+        "message_id": 276,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
