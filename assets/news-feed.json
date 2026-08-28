@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T16:32:41.815Z",
+  "updatedAt": "2026-08-28T17:27:36.835Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Want to own a .slop domain? You could soon be in luck, along with .therapy, and .hype",
-      "summary": "ICANN's 2026 application round brought in around 1,600 new gTLD suggestions, including .slop, .agentic and .agi.",
+      "title": "X says it found and took down a Chinese bot farm posting anti-AI data center content to thousands of followers",
+      "summary": "X says 200 bot accounts were publishing anti-American AI posts targeting and amplifying legitimate data center concerns.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/want-to-own-a-slop-domain-you-could-soon-be-in-luck-along-with-therapy-and-hype",
-      "publishedAt": "2026-08-27T16:25:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/JUrboXdNaRLYVSTeKsZxy8-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/security/x-says-it-found-and-took-down-a-chinese-bot-farm-posting-anti-ai-data-center-content-to-thousands-of-followers",
+      "publishedAt": "2026-08-28T17:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MeWrRVEuBBgBHZCZbeYSCP-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the suppo",
+      "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+      "summary": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord reportedly found a way to extract the DLSS",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "publishedAt": "2026-08-27T16:15:52.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+      "publishedAt": "2026-08-28T16:22:16.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&strip=all&crop=0%2C4.1233622463598%2C100%2C91.75327550728&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Google brings trip-planning features to Search's AI Mode",
-      "summary": "Google AI Mode is getting a flight price tracker, hotel booking and a way to view the cost in miles or points.",
+      "title": "Microsoft-backed AI data center has been accused of violating federal law",
+      "summary": "It's allegedly been running dozens of gigantic generators without a permit.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2245553/google-brings-trip-planning-features-to-search-ai-mode/",
-      "publishedAt": "2026-08-27T16:04:10.000Z",
-      "image": "https://www.engadget.com/img/gallery/google-brings-trip-planning-features-to-searchs-ai-mode/l-intro-1787846533.jpg"
+      "source": "https://www.engadget.com/2246451/microsoft-backed-ai-data-center-has-been-accused-of-violating-federal-law/",
+      "publishedAt": "2026-08-28T16:03:34.000Z",
+      "image": "https://www.engadget.com/img/gallery/microsoft-backed-ai-data-center-has-been-accused-of-violating-federal-law/l-intro-1787932637.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Google&#8217;s AI Mode can now track flight prices, help book hotels, and more",
-      "summary": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process itself.",
+      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
+      "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800"
+      "source": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+      "publishedAt": "2026-08-28T15:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a909d466b1fcc4b68700cd4/191:100/w_1280,c_limit/Backchannel-AI-Doctors-Business-1267508918.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "This indie dev found a use for AI but says the project was still firmly human led",
-      "summary": "HaZ Dulull turned his own pixel art game into an animation series.",
+      "title": "\"Unsettling\" – Nvidia’s controversial DLSS 5 AI filter has leaked, and gamers are horrified",
+      "summary": "Final Fantasy 7's Cloud looks like Scarlett Johansson in a Mötley Crüe wig.",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/ai/this-indie-dev-found-a-use-for-ai-but-says-the-project-was-still-firmly-human-led",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Gj9mAJAYfB8yPTYWRY3p9R-1920-80.jpg"
+      "source": "https://www.creativebloq.com/3d/unsettling-nvidias-dlss-5-controversial-ai-filter-has-leaked-and-gamers-are-horrified",
+      "publishedAt": "2026-08-28T14:54:43.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DFQGA2GdkgQRVqhL7bZ5uk-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’",
-      "summary": "As Tesla gears up for the official launch of its steering wheel and pedal-less Cybercabs, Waymo is issuing a stark warning about Elon Musk's approach autonomous driving. Srikanth Thirumalai, Waymo's VP of Onboard Software, doesn't specifically call out Musk or Tesla in a blog post, published Wednesd",
+      "title": "Do Macs need Antivirus in 2026? Is Apple’s security enough?",
+      "summary": "Macworld Macs include strong built-in malware protection, including XProtect, Gatekeeper, Notarization and other security layers, so third-party antivirus isn’t essential for everyone. If you keep macOS up to date, download apps only from the Mac App Store and trusted websites, and are cautious abou",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/transportation/985503/waymo-tesla-lidar-camera-robotaxi-cybercab-musk",
-      "publishedAt": "2026-08-27T14:55:20.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2231033749.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.macworld.com/article/670537/do-macs-need-antivirus.html",
+      "publishedAt": "2026-08-28T14:35:23.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/08/670537-0-70835800-1787928387-lifestyle_macbook_back_11.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says G",
+      "title": "Gen Z workers now see themselves as part of a global workforce — but AI remains a major concern",
+      "summary": "Younger workers are focused on career progression so much that they're willing to look outside of their country's borders.",
       "guide": "/news/index.html",
-      "source": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "publishedAt": "2026-08-27T14:30:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&amp;q=30"
+      "source": "https://www.techradar.com/pro/gen-z-workers-now-see-themselves-as-part-of-a-global-workforce-but-ai-remains-a-major-concern",
+      "publishedAt": "2026-08-28T14:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI&#8217;s memory crunch is coming for Android apps",
-      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "publishedAt": "2026-08-27T14:27:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?resize=1200,675"
+      "source": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "publishedAt": "2026-08-28T12:46:12.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "title": "CIOs must rethink identity now people are being outnumbered by nonhuman entities",
+      "summary": "AI-driven nonhuman identities are growing, forcing CIOs to rethink security, access and identity management.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "publishedAt": "2026-08-27T14:01:42.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/open-ai-chatgpt-anthropic-claude-icons.jpg?resize=1200,800"
+      "source": "https://www.techradar.com/pro/cios-must-rethink-identity-now-people-are-being-outnumbered-by-nonhuman-entities",
+      "publishedAt": "2026-08-28T11:01:57.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg"
     }
   ]
 }
