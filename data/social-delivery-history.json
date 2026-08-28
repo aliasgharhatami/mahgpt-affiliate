@@ -748,6 +748,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/security/x-says-it-found-and-took-down-a-chinese-bot-farm-posting-anti-ai-data-center-content-to-thousands-of-followers": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-28T17:28:17.442Z",
+        "message_id": 277,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
