@@ -782,6 +782,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-29T19:46:49.784Z",
+        "message_id": 281,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
