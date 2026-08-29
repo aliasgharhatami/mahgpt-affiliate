@@ -765,6 +765,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-29T02:14:49.536Z",
+        "message_id": 278,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
