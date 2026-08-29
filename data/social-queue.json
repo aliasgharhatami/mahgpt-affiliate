@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-08-28",
-  "created_at": "2026-08-28T17:27:40.328Z",
-  "source_feed_updated_at": "2026-08-28T17:27:36.835Z",
+  "queue_date": "2026-08-29",
+  "created_at": "2026-08-29T11:40:45.162Z",
+  "source_feed_updated_at": "2026-08-29T11:40:41.609Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/design/design-software/adobe-just-added-a-brand-new-ai-assisted-editor-to-photoshop",
@@ -22,7 +22,7 @@
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-08-28T05:20:00.000Z",
+      "scheduled_publish_at": "2026-08-29T05:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-08-27T16:33:20.567Z"
@@ -47,112 +47,24 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/security/x-says-it-found-and-took-down-a-chinese-bot-farm-posting-anti-ai-data-center-content-to-thousands-of-followers",
-      "source_url": "https://www.techradar.com/pro/security/x-says-it-found-and-took-down-a-chinese-bot-farm-posting-anti-ai-data-center-content-to-thousands-of-followers",
-      "headline": "X says it found and took down a Chinese bot farm posting anti-AI data center content to thousands of followers",
-      "summary": "X says 200 bot accounts were publishing anti-American AI posts targeting and amplifying legitimate data center concerns.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/MeWrRVEuBBgBHZCZbeYSCP-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/MeWrRVEuBBgBHZCZbeYSCP-2560-80.jpg",
+      "story_id": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "source_url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "headline": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6a921e363b3f20c2f80986f3/191:100/w_1280,c_limit/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg",
+      "image_url": "https://media.wired.com/photos/6a921e363b3f20c2f80986f3/191:100/w_1280,c_limit/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440
+        "width": 1232,
+        "height": 645
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=x-says-it-found-and-took-down-a-chinese-bot-farm-posting-anti-ai-data-center-content-to-th",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-28T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-28T17:28:17.442Z",
-        "message_id": 277,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-      "source_url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-      "headline": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-      "summary": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord reportedly found a way to extract the DLSS",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&strip=all&crop=0%2C4.1233622463598%2C100%2C91.75327550728&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&strip=all&crop=0%2C4.1233622463598%2C100%2C91.75327550728&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1198,
-        "height": 622
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=dlss-5-leaked-and-modders-are-putting-nvidia-and-8217-s-ai-effects-on-everything",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-28T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-29T02:14:49.536Z",
-        "message_id": 278,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2246451/microsoft-backed-ai-data-center-has-been-accused-of-violating-federal-law/",
-      "source_url": "https://www.engadget.com/2246451/microsoft-backed-ai-data-center-has-been-accused-of-violating-federal-law/",
-      "headline": "Microsoft-backed AI data center has been accused of violating federal law",
-      "summary": "It's allegedly been running dozens of gigantic generators without a permit.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/microsoft-backed-ai-data-center-has-been-accused-of-violating-federal-law/l-intro-1787932637.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/microsoft-backed-ai-data-center-has-been-accused-of-violating-federal-law/l-intro-1787932637.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-backed-ai-data-center-has-been-accused-of-violating-federal-law",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-28T11:20:00.000Z",
+      "scheduled_publish_at": "2026-08-29T07:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -177,24 +89,24 @@
       }
     },
     {
-      "story_id": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-      "source_url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-      "headline": "AI Has Human Doctors Asking: What’s Left for Us?",
-      "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
+      "story_id": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+      "source_url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+      "headline": "How to Run a Chatbot on Your Own Computer",
+      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
       "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6a909d466b1fcc4b68700cd4/191:100/w_1280,c_limit/Backchannel-AI-Doctors-Business-1267508918.jpg",
-      "image_url": "https://media.wired.com/photos/6a909d466b1fcc4b68700cd4/191:100/w_1280,c_limit/Backchannel-AI-Doctors-Business-1267508918.jpg",
+      "original_image_url": "https://media.wired.com/photos/6a915ae02fa9a47ca7d480c1/191:100/w_1280,c_limit/RunAChatbot.jpg",
+      "image_url": "https://media.wired.com/photos/6a915ae02fa9a47ca7d480c1/191:100/w_1280,c_limit/RunAChatbot.jpg",
       "image_validation": {
         "valid": true,
         "width": 1280,
         "height": 670
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-has-human-doctors-asking-whats-left-for-us",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-run-a-chatbot-on-your-own-computer",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-28T13:20:00.000Z",
+      "scheduled_publish_at": "2026-08-29T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -219,66 +131,24 @@
       }
     },
     {
-      "story_id": "https://www.creativebloq.com/3d/unsettling-nvidias-dlss-5-controversial-ai-filter-has-leaked-and-gamers-are-horrified",
-      "source_url": "https://www.creativebloq.com/3d/unsettling-nvidias-dlss-5-controversial-ai-filter-has-leaked-and-gamers-are-horrified",
-      "headline": "\"Unsettling\" – Nvidia’s controversial DLSS 5 AI filter has leaked, and gamers are horrified",
-      "summary": "Final Fantasy 7's Cloud looks like Scarlett Johansson in a Mötley Crüe wig.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/DFQGA2GdkgQRVqhL7bZ5uk-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/DFQGA2GdkgQRVqhL7bZ5uk-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=unsettling-nvidias-controversial-dlss-5-ai-filter-has-leaked-and-gamers-are-horrified",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-28T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/670537/do-macs-need-antivirus.html",
-      "source_url": "https://www.macworld.com/article/670537/do-macs-need-antivirus.html",
-      "headline": "Do Macs need Antivirus in 2026? Is Apple’s security enough?",
-      "summary": "Macworld Macs include strong built-in malware protection, including XProtect, Gatekeeper, Notarization and other security layers, so third-party antivirus isn’t essential for everyone. If you keep macOS up to date, download apps only from the Mac App Store and trusted websites, and are cautious abou",
+      "story_id": "https://www.macworld.com/article/3221484/one-30-subscription-gets-you-gpt-claude-gemini-sonar-for-a-year.html",
+      "source_url": "https://www.macworld.com/article/3221484/one-30-subscription-gets-you-gpt-claude-gemini-sonar-for-a-year.html",
+      "headline": "One $30 subscription gets you GPT, Claude, Gemini & Sonar for a year",
+      "summary": "Macworld TL;DR: New users pay $29.99 for one year of ChatOn AI’s multi-model AI access, real-time web search, 100-plus prompts, document tools, and image and video creation. Keeping several AI tools open at once can make a simple task feel like managing a very opinionated digital committee. ChatOn",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/670537-0-70835800-1787928387-lifestyle_macbook_back_11.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/670537-0-70835800-1787928387-lifestyle_macbook_back_11.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3221484-0-25462700-1787990421-ChatOn.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3221484-0-25462700-1787990421-ChatOn.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
-        "height": 576
+        "height": 768
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=do-macs-need-antivirus-in-2026-is-apples-security-enough",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=one-30-subscription-gets-you-gpt-claude-gemini-and-sonar-for-a-year",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-28T17:20:00.000Z",
+      "scheduled_publish_at": "2026-08-29T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -303,24 +173,24 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/gen-z-workers-now-see-themselves-as-part-of-a-global-workforce-but-ai-remains-a-major-concern",
-      "source_url": "https://www.techradar.com/pro/gen-z-workers-now-see-themselves-as-part-of-a-global-workforce-but-ai-remains-a-major-concern",
-      "headline": "Gen Z workers now see themselves as part of a global workforce",
-      "summary": "Younger workers are focused on career progression so much that they're willing to look outside of their country's borders.",
-      "source_name": "but AI remains a major concern",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg",
+      "story_id": "https://www.techradar.com/pro/diamonds-crescents-and-wildcats-intel-shows-off-its-hardware-for-the-next-generation-of-agentic-ai-workloads",
+      "source_url": "https://www.techradar.com/pro/diamonds-crescents-and-wildcats-intel-shows-off-its-hardware-for-the-next-generation-of-agentic-ai-workloads",
+      "headline": "Diamonds, Crescents and Wildcats: Intel shows off its hardware for the next generation of agentic AI workloads",
+      "summary": "Intel laid out its whole agentic AI hardware stack at Hot Chips 2026, but two of the three chips are still a year or more from shipping.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ec3PDmnghmiiwaebiAjh83-970-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ec3PDmnghmiiwaebiAjh83-970-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440
+        "width": 970,
+        "height": 545
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=gen-z-workers-now-see-themselves-as-part-of-a-global-workforce",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=diamonds-crescents-and-wildcats-intel-shows-off-its-hardware-for-the-next-generation-of-ag",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-28T19:20:00.000Z",
+      "scheduled_publish_at": "2026-08-29T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -345,24 +215,24 @@
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "headline": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "story_id": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "source_url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "headline": "Google further buries search results under AI mode",
+      "summary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 798
+        "height": 624
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-further-buries-search-results-under-ai-mode",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-28T21:20:00.000Z",
+      "scheduled_publish_at": "2026-08-29T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -387,24 +257,150 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/cios-must-rethink-identity-now-people-are-being-outnumbered-by-nonhuman-entities",
-      "source_url": "https://www.techradar.com/pro/cios-must-rethink-identity-now-people-are-being-outnumbered-by-nonhuman-entities",
-      "headline": "CIOs must rethink identity now people are being outnumbered by nonhuman entities",
-      "summary": "AI-driven nonhuman identities are growing, forcing CIOs to rethink security, access and identity management.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg",
+      "story_id": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "source_url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "headline": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440
+        "width": 1200,
+        "height": 960
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=cios-must-rethink-identity-now-people-are-being-outnumbered-by-nonhuman-entities",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-28T23:20:00.000Z",
+      "scheduled_publish_at": "2026-08-29T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "source_url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "headline": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 901
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-29T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/well-its-about-time-mckinsey-report-says-ai-is-on-the-road-to-roi-at-last",
+      "source_url": "https://www.techradar.com/pro/well-its-about-time-mckinsey-report-says-ai-is-on-the-road-to-roi-at-last",
+      "headline": "Well it's about time",
+      "summary": "McKinsey claims the march to agentic AI continues, and it might even start paying for itself soon...",
+      "source_name": "McKinsey report says AI is 'on the road to ROI' at last",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/8wyGCAmBxuSZRfGuC2YZyK-970-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8wyGCAmBxuSZRfGuC2YZyK-970-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 970,
+        "height": 545
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=well-its-about-time",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-29T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "source_url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "headline": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
+      "summary": "There's a lot of capital pouring into the business of giving models away.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 683
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=open-weight-ai-companies-are-the-valley-and-8217-s-hottest-acquisition-targets",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-29T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
