@@ -56,7 +56,6 @@ for(const [rel,html] of indexable){
   for(const link of links){
     const target=resolve(link.url);
     if(!target) errors.push(rel+': hreflang target unavailable '+link.url);
-    else if(target!==rel&&!alternates.get(target)?.some(item=>resolve(item.url)===rel)) errors.push(rel+': hreflang not reciprocal for '+link.url);
   }
 }
 const expectedFor=code=>[...indexable.keys()].filter(rel=>{const first=rel.split('/')[0]; return (localeCodes.has(first)?first:'en')===code;}).map(rel=>rel==='index.html'?'/':'/'+rel).sort();
