@@ -18,3 +18,5 @@ jobs:
           node-version: 20
       - name: Run deterministic SEO audit
         run: node scripts/seo-audit.mjs
+      - name: Validate hreflang and sitemaps
+        run: node scripts/validate-hreflang-sitemaps.mjs

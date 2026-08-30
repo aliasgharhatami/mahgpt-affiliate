@@ -1,1 +1,28 @@
-name: Generate zero-cost multilingual pages\non:\n  workflow_dispatch:\n  pull_request:\n    paths:\n      - 'partners/**'\n      - 'config/locales.json'\n      - 'scripts/generate-multilingual.mjs'\n      - 'scripts/validate-multilingual.mjs'\npermissions:\n  contents: read\njobs:\n  generate:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - uses: actions/setup-node@v4\n        with: {node-version: 20}\n      - run: node scripts/generate-multilingual.mjs\n      - run: node scripts/validate-multilingual.mjs\n      - uses: actions/upload-artifact@v4\n        with:\n          name: multilingual-static-pages\n          path: '**/partners/*.html'\n
+name: Generate zero-cost multilingual pages
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'partners/**'
+      - 'config/locales.json'
+      - 'scripts/generate-multilingual.mjs'
+      - 'scripts/validate-multilingual.mjs'
+      - 'scripts/generate-sitemaps.mjs'
+      - 'scripts/validate-hreflang-sitemaps.mjs'
+permissions:
+  contents: read
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 20}
+      - run: node scripts/generate-multilingual.mjs
+      - run: node scripts/validate-multilingual.mjs
+      - run: node scripts/generate-sitemaps.mjs
+      - run: node scripts/validate-hreflang-sitemaps.mjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: multilingual-static-pages
+          path: '**/partners/*.html'
