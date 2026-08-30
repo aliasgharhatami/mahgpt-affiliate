@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T11:40:41.609Z",
+  "updatedAt": "2026-08-30T10:30:03.510Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+      "title": "If Apple and Spotify are cracking down on AI slop, why can't YouTube? I think I know the answer",
+      "summary": "It's all about the business model.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "publishedAt": "2026-08-29T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a921e363b3f20c2f80986f3/191:100/w_1280,c_limit/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg"
+      "source": "https://www.creativebloq.com/ai/if-apple-and-spotify-are-cracking-down-on-ai-slop-why-cant-youtube-i-think-i-know-the-answer",
+      "publishedAt": "2026-08-30T10:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kLotpGooqDCMWf8JaWAHWV-1698-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How to Run a Chatbot on Your Own Computer",
-      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+      "title": "Cancel ChatGPT and get 20+ AI models including Claude and GPT for life for $79",
+      "summary": "Macworld TL;DR: ChatPlayground gives you access to dozens of major AI models, and it’s only $79 for life. Paying for ChatGPT Plus, Gemini Advanced, and a separate coding assistant means three monthly bills for tools you switch between all day. ChatPlayground gives you the same AI tools (plus a lot m",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-      "publishedAt": "2026-08-29T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a915ae02fa9a47ca7d480c1/191:100/w_1280,c_limit/RunAChatbot.jpg"
+      "source": "https://www.macworld.com/article/3221599/cancel-chatgpt-and-get-20-ai-models-including-claude-and-gpt-for-life-for-79.html",
+      "publishedAt": "2026-08-30T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3221599-0-85760100-1788076854-ChatPlayground_ac22ae.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "One $30 subscription gets you GPT, Claude, Gemini & Sonar for a year",
-      "summary": "Macworld TL;DR: New users pay $29.99 for one year of ChatOn AI’s multi-model AI access , real-time web search, 100-plus prompts, document tools, and image and video creation. Keeping several AI tools open at once can make a simple task feel like managing a very opinionated digital committee. ChatOn ",
+      "title": "I threw every creative AI tool that I could think of at the Acer Nitro V 16 AI, and this is what happened",
+      "summary": "The Acer Nitro V 16 AI features the hardware required to excel in AI creativity, but the benchmarks suggest otherwise",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3221484/one-30-subscription-gets-you-gpt-claude-gemini-sonar-for-a-year.html",
-      "publishedAt": "2026-08-29T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3221484-0-25462700-1787990421-ChatOn.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.creativebloq.com/tech/laptops/i-threw-every-creative-ai-tool-that-i-could-think-of-at-the-acer-nitro-v-16-ai-and-this-is-what-happened",
+      "publishedAt": "2026-08-30T06:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/N34FNuKR7ASYWHmNcyJiPT-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Diamonds, Crescents and Wildcats: Intel shows off its hardware for the next generation of agentic AI workloads",
-      "summary": "Intel laid out its whole agentic AI hardware stack at Hot Chips 2026, but two of the three chips are still a year or more from shipping.",
+      "title": "Quote of the day by tech pioneer Claude Shannon: 'I visualize a time when we will be to robots what dogs are to humans' — a warning about superintelligent AI",
+      "summary": "Many scientists have predicted AI will one day become more intelligent than humans",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/diamonds-crescents-and-wildcats-intel-shows-off-its-hardware-for-the-next-generation-of-agentic-ai-workloads",
-      "publishedAt": "2026-08-29T00:40:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ec3PDmnghmiiwaebiAjh83-970-80.jpg"
+      "source": "https://www.techradar.com/pro/quote-of-the-day-by-tech-pioneer-claude-shannon-i-visualize-a-time-when-we-will-be-to-robots-what-dogs-are-to-humans-a-warning-about-superintelligent-ai",
+      "publishedAt": "2026-08-29T22:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uuKjnfsa7UerZN4hXJ7H8e-1024-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Google further buries search results under AI mode",
-      "summary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an ",
+      "title": "‘They find themselves obsessed, forgoing sleep and self-care’ — what ‘AI psychosis’ looks like, and why experts question the term",
+      "summary": "More and more people are experiencing delusional thinking fuelled by AI, but how should we talk about it?",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-      "publishedAt": "2026-08-28T22:48:11.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.techradar.com/ai-platforms-assistants/they-find-themselves-obsessed-forgoing-sleep-and-self-care-what-ai-psychosis-looks-like-and-why-experts-question-the-term",
+      "publishedAt": "2026-08-29T18:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vJGbWePXHGczj9neZTZcEa-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared dat",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "publishedAt": "2026-08-28T20:24:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960"
+      "source": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "publishedAt": "2026-08-29T17:36:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "publishedAt": "2026-08-28T19:30:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901"
+      "source": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "publishedAt": "2026-08-29T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Well it's about time - McKinsey report says AI is 'on the road to ROI' at last",
-      "summary": "McKinsey claims the march to agentic AI continues, and it might even start paying for itself soon...",
+      "title": "The $3.4m Disney auction is a reminder of what AI concept art takes from us",
+      "summary": "Spider-Man: Brand New Day's AI art will never have the same value.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/well-its-about-time-mckinsey-report-says-ai-is-on-the-road-to-roi-at-last",
-      "publishedAt": "2026-08-28T18:45:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/8wyGCAmBxuSZRfGuC2YZyK-970-80.jpg"
+      "source": "https://www.creativebloq.com/art/animation/the-usd3-4m-disney-auction-is-a-reminder-of-what-ai-concept-art-takes-from-us",
+      "publishedAt": "2026-08-29T12:08:13.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/QcAaimJpfPsZLum6vAjPV-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
-      "summary": "There's a lot of capital pouring into the business of giving models away.",
+      "title": "AWS is shutting down Mechanical Turk, which let humans beat AI at certain work tasks",
+      "summary": "Amazon will close Mechanical Turk on September 30, 2026, ending a 21-year platform that connected businesses with hundreds of thousands of workers.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "publishedAt": "2026-08-28T18:19:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024"
+      "source": "https://www.techradar.com/pro/aws-is-shutting-down-mechanical-turk-which-let-humans-beat-ai-at-certain-work-tasks",
+      "publishedAt": "2026-08-29T12:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/jwfiVfSRJQF3ZsFfk78EaA-1520-80.png"
     }
   ]
 }
