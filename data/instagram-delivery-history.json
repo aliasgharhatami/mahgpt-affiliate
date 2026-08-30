@@ -130,6 +130,20 @@
         "message_id": "18159633721496255",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/tech/laptops/i-threw-every-creative-ai-tool-that-i-could-think-of-at-the-acer-nitro-v-16-ai-and-this-is-what-happened": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-08-30T15:22:59.201Z",
+        "message_id": "18440578750125609",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-08-30T15:23:07.097Z",
+        "message_id": "18264081136305269",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
