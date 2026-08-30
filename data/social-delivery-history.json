@@ -833,6 +833,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3221599/cancel-chatgpt-and-get-20-ai-models-including-claude-and-gpt-for-life-for-79.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-30T19:51:19.559Z",
+        "message_id": 285,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
