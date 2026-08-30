@@ -816,6 +816,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/ai/if-apple-and-spotify-are-cracking-down-on-ai-slop-why-cant-youtube-i-think-i-know-the-answer": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-30T15:22:14.534Z",
+        "message_id": 284,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
