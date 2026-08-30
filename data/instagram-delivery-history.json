@@ -158,6 +158,20 @@
         "message_id": "18110297996110092",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/they-find-themselves-obsessed-forgoing-sleep-and-self-care-what-ai-psychosis-looks-like-and-why-experts-question-the-term": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-08-30T23:36:10.872Z",
+        "message_id": "18114177739770801",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-08-30T23:36:18.176Z",
+        "message_id": "17892357825417082",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
