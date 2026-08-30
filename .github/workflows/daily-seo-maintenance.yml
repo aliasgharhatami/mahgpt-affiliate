@@ -20,3 +20,5 @@ jobs:
         run: node scripts/seo-audit.mjs
       - name: Validate hreflang and sitemaps
         run: node scripts/validate-hreflang-sitemaps.mjs
+      - name: Audit internal links, orphan candidates, headings and image alternatives
+        run: node scripts/seo-content-audit.mjs
