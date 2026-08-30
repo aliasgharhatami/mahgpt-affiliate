@@ -20,7 +20,7 @@ function walk(dir,out=[]){
 }
 const pages=walk(root).filter(rel=>{
   const html=fs.readFileSync(path.join(root,rel),'utf8');
-  return !/<meta\\b[^>]*(?:name|property)=["']robots["'][^>]*content=["'][^"']*noindex/i.test(html)&&!/<meta\\b[^>]*content=["'][^"']*noindex[^"']*["'][^>]*(?:name|property)=["']robots["']/i.test(html);
+  return !/<meta\b[^>]*(?:name|property)=["']robots["'][^>]*content=["'][^"']*noindex/i.test(html)&&!/<meta\b[^>]*content=["'][^"']*noindex[^"']*["'][^>]*(?:name|property)=["']robots["']/i.test(html);
 }).sort();
 const urlFor=rel=>rel==='index.html'?'/':'/'+rel;
 const byLocale=Object.fromEntries(locales.map(locale=>[locale.code,[]]));
@@ -29,7 +29,7 @@ for(const rel of pages){
   const code=localeCodes.has(first)?first:'en';
   byLocale[code].push(urlFor(rel));
 }
-const write=(file,content)=>fs.writeFileSync(path.join(root,file),content+'\\n');
+const write=(file,content)=>fs.writeFileSync(path.join(root,file),content+'\n');
 for(const locale of locales){
   const body=byLocale[locale.code].map(url=>'<url><loc>'+xmlEscape(base+url)+'</loc></url>').join('');
   write('sitemaps/sitemap-'+sitemapSlug(locale.code)+'.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+body+'</urlset>');
