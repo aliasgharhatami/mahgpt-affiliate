@@ -10,6 +10,7 @@ on:
       - 'scripts/generate-sitemaps.mjs'
       - 'scripts/validate-hreflang-sitemaps.mjs'
       - 'scripts/seo-content-audit.mjs'
+      - 'news/story.html'
 permissions:
   contents: read
 jobs:
