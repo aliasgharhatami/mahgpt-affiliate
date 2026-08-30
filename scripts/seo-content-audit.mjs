@@ -29,6 +29,7 @@ const resolveLocal = (href, from) => {
 };
 const targetExists = candidate => {
   if (!candidate) return true;
+  if (fs.existsSync(path.join(root, candidate))) return true;
   if (candidate.endsWith("/")) return pages.has(candidate + "index.html");
   return pages.has(candidate) || pages.has(candidate + ".html") || pages.has(candidate + "/index.html");
 };
