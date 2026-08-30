@@ -18,12 +18,12 @@ function walk(dir,out=[]){
   }
   return out;
 }
-const isNoindex=html=>/<meta\\b[^>]*(?:name|property)=["']robots["'][^>]*content=["'][^"']*noindex/i.test(html)||/<meta\\b[^>]*content=["'][^"']*noindex[^"']*["'][^>]*(?:name|property)=["']robots["']/i.test(html);
+const isNoindex=html=>/<meta\b[^>]*(?:name|property)=["']robots["'][^>]*content=["'][^"']*noindex/i.test(html)||/<meta\b[^>]*content=["'][^"']*noindex[^"']*["'][^>]*(?:name|property)=["']robots["']/i.test(html);
 const files=walk(root);
 const pages=new Map(files.map(rel=>[rel,fs.readFileSync(path.join(root,rel),'utf8')]));
 const indexable=new Map([...pages].filter(([,html])=>!isNoindex(html)));
 const localPath=url=>{
-  try{const parsed=new URL(url,base); if(parsed.origin!==base) return null; const value=parsed.pathname.replace(/^\\/+/, ''); return value||'index.html';}
+  try{const parsed=new URL(url,base); if(parsed.origin!==base) return null; const value=parsed.pathname.replace(/^\/+/, ''); return value||'index.html';}
   catch{return null;}
 };
 const resolve=url=>{
@@ -34,20 +34,20 @@ const resolve=url=>{
   if(value.endsWith('/')&&indexable.has(value+'index.html')) return value+'index.html';
   return null;
 };
-const attrs=tag=>{const out={}; for(const match of tag.matchAll(/([:\\w-]+)=["']([^"']*)["']/g)) out[match[1].toLowerCase()]=match[2]; return out;};
+const attrs=tag=>{const out={}; for(const match of tag.matchAll(/([:\w-]+)=["']([^"']*)["']/g)) out[match[1].toLowerCase()]=match[2]; return out;};
 const alternates=new Map();
 for(const [rel,html] of indexable){
   const links=[];
-  for(const match of html.matchAll(/<link\\b[^>]*>/gi)){
+  for(const match of html.matchAll(/<link\b[^>]*>/gi)){
     const a=attrs(match[0]);
-    if((a.rel||'').toLowerCase().split(/\\s+/).includes('alternate')&&a.hreflang&&a.href) links.push({lang:a.hreflang,url:a.href});
+    if((a.rel||'').toLowerCase().split(/\s+/).includes('alternate')&&a.hreflang&&a.href) links.push({lang:a.hreflang,url:a.href});
   }
   alternates.set(rel,links);
-  const partner=rel.match(/^(?:(.+)\\/)?partners\\/([^/]+)\\.html$/);
+  const partner=rel.match(/^(?:(.+)\/)?partners\/([^/]+)\.html$/);
   if(!partner) continue;
   const code=partner[1]||'en';
   if(!localeCodes.has(code)) errors.push(rel+': unknown locale path');
-  const canonical=html.match(/<link\\b[^>]*rel=["']canonical["'][^>]*href=["']([^"']+)["']/i)?.[1];
+  const canonical=html.match(/<link\b[^>]*rel=["']canonical["'][^>]*href=["']([^"']+)["']/i)?.[1];
   const expected=base+'/'+(code==='en'?'':code+'/')+'partners/'+partner[2]+'.html';
   if(canonical!==expected) errors.push(rel+': canonical must be '+expected);
   const wanted=new Set([...locales.map(item=>item.hreflang),'x-default']);
@@ -60,7 +60,7 @@ for(const [rel,html] of indexable){
   }
 }
 const expectedFor=code=>[...indexable.keys()].filter(rel=>{const first=rel.split('/')[0]; return (localeCodes.has(first)?first:'en')===code;}).map(rel=>rel==='index.html'?'/':'/'+rel).sort();
-const parseLocs=xml=>[...xml.matchAll(/<loc>([^<]+)<\\/loc>/g)].map(match=>match[1]);
+const parseLocs=xml=>[...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(match=>match[1]);
 const indexFile=path.join(root,'sitemap.xml');
 if(!fs.existsSync(indexFile)) errors.push('sitemap.xml: missing');
 else{
@@ -88,5 +88,5 @@ for(const locale of locales){
   const wanted=expected.map(localPath).filter(Boolean).sort();
   if(JSON.stringify(actual)!==JSON.stringify(wanted)) errors.push(locale.code+': sitemap does not match indexable pages');
 }
-if(errors.length){console.error('Hreflang/sitemap validation failed');console.error(errors.join('\\n'));process.exit(1);}
+if(errors.length){console.error('Hreflang/sitemap validation failed');console.error(errors.join('\n'));process.exit(1);}
 console.log('Hreflang and sitemap validation passed for '+indexable.size+' indexable HTML pages.');
