@@ -116,6 +116,20 @@
         "message_id": "18099237626459432",
         "media_kind": "source"
       }
+    },
+    "https://www.macworld.com/article/3221599/cancel-chatgpt-and-get-20-ai-models-including-claude-and-gpt-for-life-for-79.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-08-30T11:29:37.272Z",
+        "message_id": "18118768052474343",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-08-30T11:29:48.105Z",
+        "message_id": "18159633721496255",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
