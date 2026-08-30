@@ -43,6 +43,7 @@ for (const file of htmlFiles) {
   const name = pagePath(file);
   const html = fs.readFileSync(file, "utf8");
   const visible = text(html);
+  const markup = html.replace(/<script[\s\S]*?<\/script>/gi, " ").replace(/<style[\s\S]*?<\/style>/gi, " ");
   const h1 = [...html.matchAll(/<h1\b[^>]*>/gi)].length;
   const h2 = [...html.matchAll(/<h2\b[^>]*>/gi)].length;
   if (!h1 && !isUtility(name)) warnings.push(name + ": missing h1");
@@ -50,14 +51,14 @@ for (const file of htmlFiles) {
   if (isEditorial(name) && h2 === 0) warnings.push(name + ": editorial page has no h2");
   const headings = [...html.matchAll(/<h([1-6])\b/gi)].map(m => Number(m[1]));
   for (let i = 1; i < headings.length; i++) if (headings[i] - headings[i - 1] > 1) warnings.push(name + ": skipped heading level h" + headings[i]);
-  for (const match of html.matchAll(/<img\b[^>]*>/gi)) {
+  for (const match of markup.matchAll(/<img\b[^>]*>/gi)) {
     const tag = match[0];
     const alt = attr(tag, "alt");
     const decorative = /aria-hidden=[\"']true|role=[\"']presentation/i.test(tag);
     if (!/\balt\s*=/.test(tag)) errors.push(name + ": image missing alt");
     else if (!alt.trim() && !decorative) warnings.push(name + ": non-decorative image has empty alt");
   }
-  for (const match of html.matchAll(/<(?:a|link|script|img)\b[^>]*(?:href|src)=[\"']([^\"']+)[\"'][^>]*>/gi)) {
+  for (const match of markup.matchAll(/<(?:a|link|img)\b[^>]*(?:href|src)=[\"']([^\"']+)[\"'][^>]*>/gi)) {
     const target = resolveLocal(match[1], file);
     if (target) {
       if (!targetExists(target)) errors.push(name + ": broken local target " + match[1]);
