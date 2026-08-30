@@ -1,0 +1,20 @@
+name: MahGPT Daily SEO Maintenance
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 6 * * *"
+permissions:
+  contents: read
+concurrency:
+  group: mahgpt-seo-maintenance
+  cancel-in-progress: true
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Run deterministic SEO audit
+        run: node scripts/seo-audit.mjs
