@@ -88,6 +88,20 @@
         "message_id": "18099869546201106",
         "media_kind": "source"
       }
+    },
+    "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-08-30T10:15:20.504Z",
+        "message_id": "18407052310090866",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-08-30T10:15:29.761Z",
+        "message_id": "18184770880407277",
+        "media_kind": "source"
+      }
     }
   }
 }
