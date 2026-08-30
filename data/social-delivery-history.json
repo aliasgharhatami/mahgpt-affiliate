@@ -850,6 +850,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/tech/laptops/i-threw-every-creative-ai-tool-that-i-could-think-of-at-the-acer-nitro-v-16-ai-and-this-is-what-happened": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-30T23:33:51.396Z",
+        "message_id": 286,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
