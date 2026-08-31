@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T10:28:37.605Z",
-  "analysis_date": "2026-08-31",
+  "generated_at": "2026-08-31T21:02:31.839Z",
+  "analysis_date": "2026-09-01",
   "stories": [
     {
-      "title": "The three forces reshaping the future of enterprise SaaS",
-      "source": "https://www.techradar.com/pro/the-three-forces-reshaping-the-future-of-enterprise-saas",
-      "mahgpt_url": "/news/story.html?id=the-three-forces-reshaping-the-future-of-enterprise-saas"
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "source": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "mahgpt_url": "/news/story.html?id=the-pentagon-now-has-its-own-version-of-chatgpt-and-grok"
     },
     {
-      "title": "Shadow AI is a security problem, but the EU AI Act makes it a legal one",
-      "source": "https://www.techradar.com/pro/shadow-ai-is-a-security-problem-but-the-eu-ai-act-makes-it-a-legal-one",
-      "mahgpt_url": "/news/story.html?id=shadow-ai-is-a-security-problem-but-the-eu-ai-act-makes-it-a-legal-one"
+      "title": "'Let data reign'; Trump warns that those who don't let AI data centers proliferate will end up 'backwards and poor'",
+      "source": "https://www.techradar.com/ai-platforms-assistants/let-data-reign-trump-warns-that-those-who-dont-let-ai-data-centers-proliferate-will-end-up-backwards-and-poor",
+      "mahgpt_url": "/news/story.html?id=let-data-reign-trump-warns-that-those-who-dont-let-ai-data-centers-proliferate-will-end-up"
     },
     {
-      "title": "The AI layoff narrative is missing the real story",
-      "source": "https://www.techradar.com/pro/the-ai-layoff-narrative-is-missing-the-real-story",
-      "mahgpt_url": "/news/story.html?id=the-ai-layoff-narrative-is-missing-the-real-story"
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "source": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "mahgpt_url": "/news/story.html?id=instagram-puts-new-limits-on-undisclosed-ai-profiles"
     },
     {
-      "title": "‘The most eye-watering thing I’ve seen since the solar eclipse’ — experiencing the MSI Claw 8 EX AI+’s staggering performance honestly blew my mind but I’m afraid I can’t get over that absurd price tag",
-      "source": "https://www.techradar.com/computing/gaming-computers/msi-claw-8-ex-ai",
-      "mahgpt_url": "/news/story.html?id=the-most-eye-watering-thing-ive-seen-since-the-solar-eclipse-experiencing-the-msi-claw-8-e"
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a &#8216;Harvey for police officers&#8217;",
+      "source": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "mahgpt_url": "/news/story.html?id=harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-and-8216-harvey-for-police-officer"
     },
     {
-      "title": "World’s second-biggest data center proposed in Scotland meets “huge” opposition — and it's part of a wider trend across the United Kingdom",
-      "source": "https://www.techradar.com/pro/worlds-second-biggest-data-center-proposed-in-scotland-meets-huge-opposition-and-its-part-of-a-wider-trend-across-the-united-kingdom",
-      "mahgpt_url": "/news/story.html?id=worlds-second-biggest-data-center-proposed-in-scotland-meets-huge-opposition-and-its-part-"
+      "title": "Longtime exec Phil Schiller is downgrading his role at Apple again",
+      "source": "https://www.macworld.com/article/3223800/longtime-exec-phil-schiller-is-downgraing-his-role-at-apple-again.html",
+      "mahgpt_url": "/news/story.html?id=longtime-exec-phil-schiller-is-downgrading-his-role-at-apple-again"
     },
     {
-      "title": "This $99.99 lifetime deal puts GPT-5.5 Pro and Claude 4.6 Sonnet in one app",
-      "source": "https://www.macworld.com/article/3222358/this-99-99-lifetime-deal-puts-gpt-5-5-pro-and-claude-4-6-sonnet-in-one-app.html",
-      "mahgpt_url": "/news/story.html?id=this-99-99-lifetime-deal-puts-gpt-5-5-pro-and-claude-4-6-sonnet-in-one-app"
+      "title": "iOS 27 beta 8 is out now as the general release date approaches",
+      "source": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
+      "mahgpt_url": "/news/story.html?id=ios-27-beta-8-is-out-now-as-the-general-release-date-approaches"
     },
     {
-      "title": "Graphic designers are trying to fix people's terrible AI flyers",
-      "source": "https://www.creativebloq.com/design/graphic-design/graphic-designers-are-trying-to-fix-peoples-terrible-ai-flyers",
-      "mahgpt_url": "/news/story.html?id=graphic-designers-are-trying-to-fix-peoples-terrible-ai-flyers"
+      "title": "Is Nvidia’s DLSS 5 an AI slop machine or a game-changing technology that will take us closer to artists' original vision?",
+      "source": "https://www.creativebloq.com/3d/is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-closer-to-artists-original-vision",
+      "mahgpt_url": "/news/story.html?id=is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-close"
     },
     {
-      "title": "Teachers are getting more comfortable using AI – but it isn't helping lower their workload",
-      "source": "https://www.techradar.com/pro/teachers-are-getting-more-comfortable-using-ai-but-it-isnt-helping-lower-their-workload",
-      "mahgpt_url": "/news/story.html?id=teachers-are-getting-more-comfortable-using-ai-but-it-isnt-helping-lower-their-workload"
+      "title": "Apple Watch Series 12 (2026): Everything we know so far",
+      "source": "https://www.macworld.com/article/3177024/apple-watch-series-12-2026-design-features-specs-release-date.html",
+      "mahgpt_url": "/news/story.html?id=apple-watch-series-12-2026-everything-we-know-so-far"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-08-31.html"
+      "path": "news/analysis/2026-09-01.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-08-31.html"
+      "path": "es/news/analysis/2026-09-01.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-08-31.html"
+      "path": "de/news/analysis/2026-09-01.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-08-31.html"
+      "path": "fr/news/analysis/2026-09-01.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-08-31.html"
+      "path": "pt-BR/news/analysis/2026-09-01.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-08-31.html"
+      "path": "ar/news/analysis/2026-09-01.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-08-31.html"
+      "path": "fa/news/analysis/2026-09-01.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-08-31.html"
+      "path": "tr/news/analysis/2026-09-01.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-08-31.html"
+      "path": "it/news/analysis/2026-09-01.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-08-31.html"
+      "path": "ja/news/analysis/2026-09-01.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-08-31.html"
+      "path": "ko/news/analysis/2026-09-01.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-08-31.html"
+      "path": "id/news/analysis/2026-09-01.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-08-31.html"
+      "path": "hi/news/analysis/2026-09-01.html"
     }
   ]
 }

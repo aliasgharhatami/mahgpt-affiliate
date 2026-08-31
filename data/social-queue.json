@@ -1,269 +1,28 @@
 {
   "version": 1,
-  "queue_date": "2026-08-31",
-  "created_at": "2026-08-31T10:28:30.672Z",
-  "source_feed_updated_at": "2026-08-31T10:28:25.999Z",
+  "queue_date": "2026-09-01",
+  "created_at": "2026-08-31T21:02:23.663Z",
+  "source_feed_updated_at": "2026-08-31T21:02:19.979Z",
   "items": [
     {
-      "story_id": "https://www.techradar.com/pro/the-three-forces-reshaping-the-future-of-enterprise-saas",
-      "source_url": "https://www.techradar.com/pro/the-three-forces-reshaping-the-future-of-enterprise-saas",
-      "headline": "The three forces reshaping the future of enterprise SaaS",
-      "summary": "For years, SaaS has enjoyed a comfortable position, but Agentic AI is changing that.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-three-forces-reshaping-the-future-of-enterprise-saas",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T05:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-31T14:17:42.168Z",
-        "message_id": 288,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-08-31T14:17:54.940Z",
-        "message_id": "18330075475278864",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-techradar-com-pro-the-three-forces-reshaping-the-future-of-enterprise--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-08-31T14:18:05.910Z",
-        "message_id": "17917596087231067",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/shadow-ai-is-a-security-problem-but-the-eu-ai-act-makes-it-a-legal-one",
-      "source_url": "https://www.techradar.com/pro/shadow-ai-is-a-security-problem-but-the-eu-ai-act-makes-it-a-legal-one",
-      "headline": "Shadow AI is a security problem, but the EU AI Act makes it a legal one",
-      "summary": "Employees at larger enterprises regularly feed corporate data into AI tools.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2000,
-        "height": 1125
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=shadow-ai-is-a-security-problem-but-the-eu-ai-act-makes-it-a-legal-one",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-31T17:12:53.037Z",
-        "message_id": 289,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-08-31T17:13:02.133Z",
-        "message_id": "18134364262628263",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-techradar-com-pro-shadow-ai-is-a-security-problem-but-the-eu-ai-act-ma-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-08-31T17:13:11.786Z",
-        "message_id": "17942045952338958",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/the-ai-layoff-narrative-is-missing-the-real-story",
-      "source_url": "https://www.techradar.com/pro/the-ai-layoff-narrative-is-missing-the-real-story",
-      "headline": "The AI layoff narrative is missing the real story",
-      "summary": "Fintech blames AI for layoffs, but the real story is cost-cutting, weak returns, and unproven innovation.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-layoff-narrative-is-missing-the-real-story",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T09:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-08-31T09:33:41.612Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-08-31T09:33:59.423Z",
-        "message_id": "18127152247730484"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-techradar-com-pro-the-ai-layoff-narrative-is-missing-the-real-story-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/computing/gaming-computers/msi-claw-8-ex-ai",
-      "source_url": "https://www.techradar.com/computing/gaming-computers/msi-claw-8-ex-ai",
-      "headline": "‘The most eye-watering thing I’ve seen since the solar eclipse’ — experiencing the MSI Claw 8 EX AI+’s staggering performance honestly blew my mind but I’m afraid I can’t get over that absurd price tag",
-      "summary": "The new MSI Claw and its Intel Arc G3 Extreme chipset unlocks gloriously smooth gameplay on the go. But that price means it's likely out of reach for most of us.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/fwt7WthhcshBD58p2UBSxA-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/fwt7WthhcshBD58p2UBSxA-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-most-eye-watering-thing-ive-seen-since-the-solar-eclipse-experiencing-the-msi-claw-8-e",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-08-31T20:59:57.613Z",
-        "message_id": 290,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-techradar-com-computing-gaming-computers-msi-claw-8-ex-ai-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/worlds-second-biggest-data-center-proposed-in-scotland-meets-huge-opposition-and-its-part-of-a-wider-trend-across-the-united-kingdom",
-      "source_url": "https://www.techradar.com/pro/worlds-second-biggest-data-center-proposed-in-scotland-meets-huge-opposition-and-its-part-of-a-wider-trend-across-the-united-kingdom",
-      "headline": "World’s second-biggest data center proposed in Scotland meets “huge” opposition",
-      "summary": "Data centers are being opposed in every region of the UK, and it could cause some problems for the government's plans for AI",
-      "source_name": "and it's part of a wider trend across the United Kingdom",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/owbSSGyfRyGGobNhGmqk2Q-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/owbSSGyfRyGGobNhGmqk2Q-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=worlds-second-biggest-data-center-proposed-in-scotland-meets-huge-opposition",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T13:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-techradar-com-pro-worlds-second-biggest-data-center-proposed-in-scotla-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3222358/this-99-99-lifetime-deal-puts-gpt-5-5-pro-and-claude-4-6-sonnet-in-one-app.html",
-      "source_url": "https://www.macworld.com/article/3222358/this-99-99-lifetime-deal-puts-gpt-5-5-pro-and-claude-4-6-sonnet-in-one-app.html",
-      "headline": "This $99.99 lifetime deal puts GPT-5.5 Pro and Claude 4.6 Sonnet in one app",
-      "summary": "Macworld TL;DR: A lifetime subscription to the 1min.AI Advanced Business Plan is on sale for $99.99 (MSRP $540), giving you chat, image, video, audio, and document AI tools in one app. Keeping up with AI tools usually means juggling separate subscriptions for chat, images, video, and audio, each wi",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3222358-0-36315700-1788163260-1minAI_51419e.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3222358-0-36315700-1788163260-1minAI_51419e.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "source_url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "headline": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
-        "height": 768
+        "height": 681
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-99-99-lifetime-deal-puts-gpt-5-5-pro-and-claude-4-6-sonnet-in-one-app",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-01T05:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -279,7 +38,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-macworld-com-article-3222358-this-99-99-lifetime-deal-puts-gpt-5-5-pro-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-01/https-techcrunch-com-2026-08-31-the-pentagon-now-has-its-own-version-of-chatgpt--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -289,24 +48,24 @@
       }
     },
     {
-      "story_id": "https://www.creativebloq.com/design/graphic-design/graphic-designers-are-trying-to-fix-peoples-terrible-ai-flyers",
-      "source_url": "https://www.creativebloq.com/design/graphic-design/graphic-designers-are-trying-to-fix-peoples-terrible-ai-flyers",
-      "headline": "Graphic designers are trying to fix people's terrible AI flyers",
-      "summary": "The trend is going viral on Instagram.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/3bqifq82zuYVwaT8H2uHzS-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/3bqifq82zuYVwaT8H2uHzS-1920-80.jpg",
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/let-data-reign-trump-warns-that-those-who-dont-let-ai-data-centers-proliferate-will-end-up-backwards-and-poor",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/let-data-reign-trump-warns-that-those-who-dont-let-ai-data-centers-proliferate-will-end-up-backwards-and-poor",
+      "headline": "'Let data reign'; Trump warns that those who don't let AI data centers proliferate will end up 'backwards and poor'",
+      "summary": "Us President Donald Trump is pushing consumers to embrace rapid data center development in their communities, but there may be good reasons they balk.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/vV9tZyUzrznNHkCv2bd9Kb-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vV9tZyUzrznNHkCv2bd9Kb-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
         "height": 1080
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=graphic-designers-are-trying-to-fix-peoples-terrible-ai-flyers",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=let-data-reign-trump-warns-that-those-who-dont-let-ai-data-centers-proliferate-will-end-up",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T17:20:00.000Z",
+      "scheduled_publish_at": "2026-09-01T07:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -322,7 +81,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-creativebloq-com-design-graphic-design-graphic-designers-are-trying-to-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-01/https-www-techradar-com-ai-platforms-assistants-let-data-reign-trump-warns-that--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -332,24 +91,282 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/teachers-are-getting-more-comfortable-using-ai-but-it-isnt-helping-lower-their-workload",
-      "source_url": "https://www.techradar.com/pro/teachers-are-getting-more-comfortable-using-ai-but-it-isnt-helping-lower-their-workload",
-      "headline": "Teachers are getting more comfortable using AI",
-      "summary": "Although most teachers use artificial intelligence, only one in three say they're able to work fewer hours amid intense workloads.",
-      "source_name": "but it isn't helping lower their workload",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/DroFFmiArXg2SARc9KPh44-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/DroFFmiArXg2SARc9KPh44-2000-80.jpg",
+      "story_id": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "source_url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "headline": "Instagram puts new limits on undisclosed AI profiles",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 675
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=instagram-puts-new-limits-on-undisclosed-ai-profiles",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-01T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-01/https-techcrunch-com-2026-08-31-instagram-puts-new-limits-on-undisclosed-ai-prof-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "source_url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "headline": "Harvard Law dropout raises $6M for Blue Voice to build a &#8216;Harvey for police officers&#8217;",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/BlueVoice_Founders.png?resize=1200,600",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/BlueVoice_Founders.png?resize=1200,600",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 600
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-and-8216-harvey-for-police-officer",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-01T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-01/https-techcrunch-com-2026-08-31-harvard-law-dropout-raises-6m-for-blue-voice-to--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3223800/longtime-exec-phil-schiller-is-downgraing-his-role-at-apple-again.html",
+      "source_url": "https://www.macworld.com/article/3223800/longtime-exec-phil-schiller-is-downgraing-his-role-at-apple-again.html",
+      "headline": "Longtime exec Phil Schiller is downgrading his role at Apple again",
+      "summary": "Macworld Bloomberg’s Mark Gurman reported on Monday that Apple executive Phil Schiller is stepping down from his roles as leader of the App Store and manager of product events. The news comes on Tim Cook’s last day as Apple CEO. Schiller became an Apple Fellow in 2020 after initially stepping down",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3223800-0-78647100-1788205714-Phil-Schiller.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3223800-0-78647100-1788205714-Phil-Schiller.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 576
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=longtime-exec-phil-schiller-is-downgrading-his-role-at-apple-again",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-01T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-01/https-www-macworld-com-article-3223800-longtime-exec-phil-schiller-is-downgraing-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
+      "source_url": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
+      "headline": "iOS 27 beta 8 is out now as the general release date approaches",
+      "summary": "Macworld On the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026. The pattern goes like this: Apple releases developer-only betas for the firs",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3172166-0-03658900-1788198189-ios_27_hero.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3172166-0-03658900-1788198189-ios_27_hero.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 576
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ios-27-beta-8-is-out-now-as-the-general-release-date-approaches",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-01T15:20:00.000Z",
+      "telegram": {
+        "status": "skipped_duplicate",
+        "published_at": "2026-08-25T16:03:41.650Z"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-01/https-www-macworld-com-article-3172166-ios-27-beta-updates-features-release-date-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.creativebloq.com/3d/is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-closer-to-artists-original-vision",
+      "source_url": "https://www.creativebloq.com/3d/is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-closer-to-artists-original-vision",
+      "headline": "Is Nvidia’s DLSS 5 an AI slop machine or a game-changing technology that will take us closer to artists' original vision?",
+      "summary": "The controversy continues, but gamers might have been too quick to judge the controversial AI tech.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/92hEKGMNWmVyPzUNFDqpaA-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/92hEKGMNWmVyPzUNFDqpaA-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-close",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-01T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-01/https-www-creativebloq-com-3d-is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-cha-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3177024/apple-watch-series-12-2026-design-features-specs-release-date.html",
+      "source_url": "https://www.macworld.com/article/3177024/apple-watch-series-12-2026-design-features-specs-release-date.html",
+      "headline": "Apple Watch Series 12 (2026): Everything we know so far",
+      "summary": "Macworld If you’re thinking about buying an Apple Watch, you’ll want to know whether or not Apple is likely to launch a new model in the near future. After all, there are few things worse than spending hundreds of dollars on a tech device only to see it superseded by something better (and potentiall",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3177024-0-13227200-1788192949-Apple-Watch-Series-11-review-hero1.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/08/3177024-0-13227200-1788192949-Apple-Watch-Series-11-review-hero1.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 576
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-watch-series-12-2026-everything-we-know-so-far",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-01T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-01/https-www-macworld-com-article-3177024-apple-watch-series-12-2026-design-feature-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/phones/iphone/tim-cook-was-the-best-apple-ceo-for-his-time-john-ternus-tenure-will-be-defined-by-ai",
+      "source_url": "https://www.techradar.com/phones/iphone/tim-cook-was-the-best-apple-ceo-for-his-time-john-ternus-tenure-will-be-defined-by-ai",
+      "headline": "Tim Cook was the best Apple CEO for his time",
+      "summary": "Tim Cook took over as Apple CEO in the long shadow of his predecessor, Steve Jobs — and yet he became the best tech CEO in a generation, more than preparing the company for his successor, John Ternus.",
+      "source_name": "John Ternus' tenure will be defined by AI",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/nCagXHBsmvxDsv7W7pTFjJ-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/nCagXHBsmvxDsv7W7pTFjJ-2000-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2000,
         "height": 1125
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=teachers-are-getting-more-comfortable-using-ai",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=tim-cook-was-the-best-apple-ceo-for-his-time",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-01T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -365,7 +382,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-techradar-com-pro-teachers-are-getting-more-comfortable-using-ai-but-i-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-01/https-www-techradar-com-phones-iphone-tim-cook-was-the-best-apple-ceo-for-his-ti-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -375,67 +392,24 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion",
-      "source_url": "https://www.techradar.com/pro/amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion",
-      "headline": "Amazon is buying 2 million Nvidia GPUs for AWS data center expansion",
-      "summary": "AWS plans to deploy two million additional Nvidia GPUs by 2028, expanding AI infrastructure across cloud, government, analytics, and robotics workloads.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-techradar-com-pro-amazon-is-buying-2-million-nvidia-gpus-for-aws-data--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "headline": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacki",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "story_id": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "source_url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "headline": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 624
+        "height": 675
       },
       "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=texas-governor-abbott-blocks-funding-for-more-flock-cameras",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=clipto-uses-ai-to-search-terabytes-of-video-and-is-now-valued-at-250m",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-01T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -451,7 +425,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-theverge-com-ai-artificial-intelligence-986541-texas-governor-abbott-f-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-01/https-techcrunch-com-2026-08-31-three-year-old-ai-media-search-startup-clipto-hi-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
