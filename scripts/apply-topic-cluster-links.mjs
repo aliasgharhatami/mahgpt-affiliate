@@ -9,7 +9,7 @@ const localize=(url,locale)=>{
  if(url==="/news/") return "/"+locale+"/news/";
  return "/"+locale+url;
 };
-const exists=(url,locale)=>{const u=localize(url,locale).replace(/^\\//,""); return fs.existsSync(path.join(root,u)) || fs.existsSync(path.join(root,u+".html")) || fs.existsSync(path.join(root,u,"index.html"));};
+const exists=(url,locale)=>{const u=localize(url,locale).replace(/^\//,""); return fs.existsSync(path.join(root,u)) || fs.existsSync(path.join(root,u+".html")) || fs.existsSync(path.join(root,u,"index.html"));};
 const files=[];
 const walk=d=>{for(const e of fs.readdirSync(d,{withFileTypes:true})){if([".git","node_modules","assets"].includes(e.name))continue;const f=path.join(d,e.name);if(e.isDirectory())walk(f);else if(e.name.endsWith(".html"))files.push("/"+path.relative(root,f).replaceAll(path.sep,"/"));}};
 walk(root);
