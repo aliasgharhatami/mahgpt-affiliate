@@ -10,6 +10,16 @@ on:
       - 'scripts/daily-analysis.mjs'
       - 'scripts/validate-daily-analysis.mjs'
       - 'scripts/social-queue-readiness.mjs'
+      - 'scripts/validate-social-cadence.mjs'
+      - 'scripts/validate-affiliate-links.mjs'
+      - '.github/workflows/social-delivery.yml'
+      - '.github/workflows/publish-social-queue.yml'
+      - '.github/workflows/test-instagram-publisher.yml'
+      - '.github/workflows/update-news.yml'
+      - 'config/social-affiliate-links.json'
+      - 'go/descript.html'
+      - 'go/soundraw.html'
+      - 'go/pictory.html'
       - 'assets/daily-analysis.json'
       - 'news/analysis/**'
       - '*/news/index.html'
@@ -33,8 +43,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Check daily refresh readiness syntax
-        run: node --check scripts/social-queue-readiness.mjs
+      - name: Check daily refresh and social cadence guards
+        run: |
+          node --check scripts/social-queue-readiness.mjs
+          node --check scripts/validate-social-cadence.mjs
+          node --check scripts/validate-affiliate-links.mjs
+          node scripts/validate-social-cadence.mjs
+          node scripts/validate-affiliate-links.mjs
       - name: Generate daily analysis pages for validation
         run: |
           node scripts/daily-analysis.mjs

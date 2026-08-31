@@ -2,23 +2,25 @@ name: Deliver scheduled MahGPT social items
 
 on:
   schedule:
-    - cron: "11,31,51 * * * *"
+    - cron: "20 5,7,9,11,13,15,17,19,21,23 * * *"
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Refresh MahGPT news"]
-    types: [completed]
   pull_request:
     paths:
       - ".github/workflows/social-delivery.yml"
       - "scripts/social-publisher.mjs"
       - "scripts/instagram-publisher.mjs"
       - "scripts/social-queue-readiness.mjs"
+      - "scripts/validate-social-cadence.mjs"
+      - "scripts/validate-affiliate-links.mjs"
+      - ".github/workflows/publish-social-queue.yml"
+      - ".github/workflows/test-instagram-publisher.yml"
+      - ".github/workflows/update-news.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: mahgpt-social-delivery
+  group: mahgpt-social-delivery-${{ github.event_name == 'pull_request' && github.workflow || 'production' }}
   cancel-in-progress: false
 
 jobs:
@@ -36,9 +38,11 @@ jobs:
           node --check scripts/instagram-publisher.mjs
           node --check scripts/social-queue-readiness.mjs
           node scripts/social-queue-readiness.mjs
+          node scripts/validate-social-cadence.mjs
+          node scripts/validate-affiliate-links.mjs
 
   deliver:
-    if: github.event_name != 'pull_request' && (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success')
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

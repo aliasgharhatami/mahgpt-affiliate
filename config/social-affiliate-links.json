@@ -9,8 +9,10 @@
     "redirectPath": "/go/elevenlabs.html"
   },
   "descript": {
-    "status": "none",
-    "officialUrl": "https://www.descript.com/"
+    "status": "active",
+    "officialUrl": "https://www.descript.com/",
+    "affiliateUrl": "https://get.descript.com/35sevxkoxqev",
+    "redirectPath": "/go/descript.html"
   },
   "invideo": {
     "status": "none",
@@ -52,8 +54,10 @@
     "officialUrl": "https://createmusicai.ai/"
   },
   "soundraw": {
-    "status": "none",
-    "officialUrl": "https://soundraw.io/"
+    "status": "active",
+    "officialUrl": "https://soundraw.io/",
+    "affiliateUrl": "https://soundraw.io/?ref=jwgoliii",
+    "redirectPath": "/go/soundraw.html"
   },
   "heygen": {
     "status": "none",
@@ -68,7 +72,9 @@
     "officialUrl": "https://www.adcreative.ai/"
   },
   "pictory": {
-    "status": "none",
-    "officialUrl": "https://pictory.ai/"
+    "status": "active",
+    "officialUrl": "https://pictory.ai/",
+    "affiliateUrl": "https://pictory.ai?fpr=ali-asghar30",
+    "redirectPath": "/go/pictory.html"
   }
 }
