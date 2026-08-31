@@ -38,7 +38,7 @@ async function main() {
   if (previous.hash === hash) { console.log("IndexNow: sitemap unchanged; duplicate notification skipped."); return; }
   const dry = process.env.INDEXNOW_DRY_RUN !== "false" || !process.env.INDEXNOW_KEY;
   const key = process.env.INDEXNOW_KEY || "DRY_RUN";
-  const keyLocation = process.env.INDEXNOW_KEY_LOCATION || ORIGIN + "/indexnow-key.txt";
+  const keyLocation = process.env.INDEXNOW_KEY_LOCATION || (key && key !== "DRY_RUN" ? `${ORIGIN}/${key}.txt` : ORIGIN + "/indexnow-key.txt");
   const payload = { host: "mahgpt.com", key, keyLocation, urlList: urls };
   if (dry) { console.log(JSON.stringify({ mode: "dry-run", urlCount: urls.length, hash })); return; }
   try {
