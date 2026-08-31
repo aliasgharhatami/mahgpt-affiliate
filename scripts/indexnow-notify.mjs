@@ -37,9 +37,14 @@ async function main() {
   const previous = fs.existsSync(statePath) ? JSON.parse(fs.readFileSync(statePath, "utf8")) : {};
   if (previous.hash === hash) { console.log("IndexNow: sitemap unchanged; duplicate notification skipped."); return; }
   const dry = process.env.INDEXNOW_DRY_RUN !== "false" || !process.env.INDEXNOW_KEY;
-  const payload = { host: "mahgpt.com", key: process.env.INDEXNOW_KEY || "DRY_RUN", keyLocation: ORIGIN + "/" + (process.env.INDEXNOW_KEY || "indexnow-key") + ".txt", urlList: urls };
+  const key = process.env.INDEXNOW_KEY || "DRY_RUN";
+  const keyLocation = process.env.INDEXNOW_KEY_LOCATION || ORIGIN + "/indexnow-key.txt";
+  const payload = { host: "mahgpt.com", key, keyLocation, urlList: urls };
   if (dry) { console.log(JSON.stringify({ mode: "dry-run", urlCount: urls.length, hash })); return; }
   try {
+    const keyResponse = await fetch(keyLocation, {redirect:"follow"});
+    const servedKey = (await keyResponse.text()).trim();
+    if (!keyResponse.ok || servedKey !== key) throw new Error("public IndexNow key file is missing or does not match the secret");
     const response = await fetch(ENDPOINT, { method: "POST", headers: {"content-type":"application/json; charset=utf-8"}, body: JSON.stringify(payload) });
     if (!response.ok) throw new Error("HTTP " + response.status);
     fs.mkdirSync(path.dirname(statePath), { recursive: true });
