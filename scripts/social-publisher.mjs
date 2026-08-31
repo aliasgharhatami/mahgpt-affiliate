@@ -6,6 +6,7 @@ import { FEED, LINKS, QUEUE, HISTORY } from "./social-queue.mjs";
 
 const CHANNEL=process.env.TELEGRAM_CHANNEL||"@mahgptplus",TOKEN=process.env.TELEGRAM_BOT_TOKEN,mode=process.argv[2]||"queue-next";
 const DELIVERY_COOLDOWN_MINUTES=75;
+const ELIGIBLE_WINDOW_MINUTES=150;
 const readJson=async(p,f)=>{try{return JSON.parse(await readFile(p,"utf8"))}catch{return f}};
 const escapeHtml=v=>String(v??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const formatPost=post=>{const source=post.source_name?"\n\n<i>Source: "+escapeHtml(post.source_name)+"</i>":"",cta=post.product_url?"\n\n🚀 <b>Explore "+escapeHtml(partnerDisplayName(post.detected_partner))+"</b>\n"+escapeHtml(absoluteSocialUrl(post.product_url)):"",disclosure=post.affiliate_status==="active"?"\n\n<i>Affiliate disclosure: MahGPT may earn a commission from this link.</i>":"";return "<b>"+escapeHtml(post.headline)+"</b>\n\n"+escapeHtml(post.summary)+source+"\n\n🔗 <b>Read the full story on MahGPT</b>\n"+escapeHtml(post.mahgpt_url)+cta+disclosure};
@@ -17,10 +18,9 @@ const legacyNormalized=async()=>{const feed=await readJson(FEED,{items:[]}),link
 if(!TOKEN){console.error("Telegram publishing skipped: TELEGRAM_BOT_TOKEN is not configured.");process.exit(0)}
 if(mode==="test"){try{const p=await legacyNormalized();await send(p);console.log("Telegram test succeeded:",p.headline)}catch(e){console.error("Telegram test failed:",e.message);process.exitCode=1}process.exit()}
 const queue=await readJson(QUEUE,null);if(!queue?.items?.length){console.log("No social queue is available; nothing published.");process.exit(0)}
-const currentQueueDate=new Intl.DateTimeFormat("en-CA",{timeZone:"Europe/Istanbul"}).format(new Date());
-if(queue.queue_date!==currentQueueDate){console.log("Social queue is stale; waiting for today’s queue before publishing.");process.exit(0)}
-const retry=process.env.RETRY_FAILED==="true",manual=process.env.MANUAL_NEXT==="true",now=Date.now(),lastPublished=Math.max(0,...queue.items.map(x=>Date.parse(x.telegram?.published_at||"")).filter(Number.isFinite));
+const retry=process.env.RETRY_FAILED==="true",manual=process.env.MANUAL_NEXT==="true",now=Date.now(),eligibleWindowStart=now-ELIGIBLE_WINDOW_MINUTES*60*1000,lastPublished=Math.max(0,...queue.items.map(x=>Date.parse(x.telegram?.published_at||"")).filter(Number.isFinite));
+const isCurrentSlot=x=>{const scheduled=Date.parse(x.scheduled_publish_at||"");return Number.isFinite(scheduled)&&(manual||(scheduled<=now&&scheduled>=eligibleWindowStart))};
 if(!manual&&lastPublished&&now-lastPublished<DELIVERY_COOLDOWN_MINUTES*60*1000){console.log("Telegram delivery cooldown is active; nothing published.");process.exit(0)}
-const item=queue.items.find(x=>x.telegram?.status==="pending"&&(manual||Date.parse(x.scheduled_publish_at)<=now))||(retry?queue.items.find(x=>x.telegram?.status==="failed"):null);
+const item=queue.items.find(x=>x.telegram?.status==="pending"&&isCurrentSlot(x))||(retry?queue.items.find(x=>x.telegram?.status==="failed"):null);
 if(!item){console.log("No eligible queued Telegram item; nothing published.");process.exit(0)}
 try{const checked=validateSocialPost(item);if(!checked.valid)throw new Error("Social quality gate rejected item");Object.assign(item,checked.post);const result=await send(item);item.telegram={status:"published",published_at:new Date().toISOString(),message_id:result.message_id,delivery:result.delivery};const history=await readJson(HISTORY,{version:1,stories:{}});history.stories=history.stories||{};history.stories[item.story_id]={...(history.stories[item.story_id]||{}),telegram:item.telegram,linkedin:{status:"pending"},instagram:{status:"pending"},x:{status:"pending"}};await write(QUEUE,queue);await write(HISTORY,history);console.log("Telegram published one queued item:",item.headline)}catch(e){item.telegram={...(item.telegram||{}),status:"failed",failed_at:new Date().toISOString(),error:e.message};await write(QUEUE,queue);console.error("Telegram publish failed; item retained as failed:",item.headline,e.message)}

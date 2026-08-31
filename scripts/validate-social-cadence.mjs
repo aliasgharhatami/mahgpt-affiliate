@@ -35,12 +35,18 @@ expect(hasCron(updateNews, "17 5 * * *"), "update-news.yml must refresh once dai
 expect(!updateNews.includes("7,27,47 * * * *"), "update-news.yml must not poll three times per hour.");
 expect(/Date\.UTC\([^)]*,5,20\)/.test(socialQueue), "social-queue.mjs must keep the first queue slot at 08:20 Europe/Istanbul.");
 expect(/Array\.from\(\{length:10\}/.test(socialQueue), "social-queue.mjs must keep exactly ten protected daily social slots.");
+expect(!telegramPublisher.includes("queue.queue_date!==currentQueueDate"), "Telegram publisher must not reject the 00:20 and 02:20 overnight slots by local date.");
+expect(!instagramPublisher.includes("queue.queue_date!==currentQueueDate"), "Instagram publisher must not reject the 00:20 and 02:20 overnight slots by local date.");
 
 for (const [name, source] of [["Telegram", telegramPublisher], ["Instagram", instagramPublisher]]) {
   const match = source.match(/DELIVERY_COOLDOWN_MINUTES\s*=\s*(\d+)/);
   expect(match, `${name} publisher must define DELIVERY_COOLDOWN_MINUTES.`);
   const minutes = Number(match[1]);
   expect(minutes >= 60 && minutes <= 85, `${name} cooldown must prevent bursts without blocking the next two-hour slot.`);
+  const windowMatch = source.match(/ELIGIBLE_WINDOW_MINUTES\s*=\s*(\d+)/);
+  expect(windowMatch, `${name} publisher must define ELIGIBLE_WINDOW_MINUTES.`);
+  const windowMinutes = Number(windowMatch[1]);
+  expect(windowMinutes >= 120 && windowMinutes <= 180, `${name} eligibility window must allow delayed overnight slots without replaying stale backlog.`);
 }
 
 console.log("Social cadence guard passed: daily 08:17 refresh and two-hour 08:20-02:20 delivery slots are protected.");
