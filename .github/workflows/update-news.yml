@@ -6,6 +6,9 @@ on:
       - ".github/workflows/update-news.yml"
       - "scripts/social-queue-readiness.mjs"
       - "scripts/social-queue.mjs"
+      - "scripts/daily-analysis.mjs"
+      - "scripts/validate-daily-analysis.mjs"
+      - "scripts/generate-sitemaps.mjs"
   workflow_dispatch:
     inputs:
       force:
@@ -54,11 +57,17 @@ jobs:
       - name: Build daily social queue and fallback cards
         if: steps.queue.outputs.refresh == 'true'
         run: node scripts/social-queue.mjs
-      - name: Commit daily social queue and cards
+      - name: Generate daily original AI analysis
+        if: steps.queue.outputs.refresh == 'true'
+        run: |
+          node scripts/daily-analysis.mjs
+          node scripts/validate-daily-analysis.mjs
+          node scripts/generate-sitemaps.mjs
+      - name: Commit daily social queue, analysis and sitemaps
         if: steps.queue.outputs.refresh == 'true'
         run: |
           git config user.name "MahGPT News Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/social-queue.json data/social-delivery-history.json assets/social-cards
-          git diff --cached --quiet || git commit -m "Build daily MahGPT social queue"
+          git add data/social-queue.json data/social-delivery-history.json assets/social-cards assets/daily-analysis.json news/analysis */news/index.html */news/analysis sitemap.xml sitemaps
+          git diff --cached --quiet || git commit -m "Build daily MahGPT social queue and analysis"
           git push
