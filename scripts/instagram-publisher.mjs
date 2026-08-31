@@ -12,7 +12,6 @@ const dryRun=process.env.INSTAGRAM_DRY_RUN==="true";
 const storyEnabled=process.env.INSTAGRAM_STORY_ENABLED!=="false";
 const DELIVERY_COOLDOWN_MINUTES=75;
 const ELIGIBLE_WINDOW_MINUTES=150;
-const ELIGIBLE_WINDOW_MINUTES=150;
 
 const readJson=async(p,f)=>{try{return JSON.parse(await readFile(p,"utf8"))}catch{return f}};
 const writeJson=async(p,v)=>{await mkdir("data",{recursive:true});await writeFile(p,JSON.stringify(v,null,2)+"\n")};
