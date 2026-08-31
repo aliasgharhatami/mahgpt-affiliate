@@ -25,6 +25,7 @@ const resolveLocal = (href, from) => {
   const candidate = clean.startsWith("/")
     ? clean.slice(1)
     : path.posix.normalize(path.posix.join(path.posix.dirname(pagePath(from)), clean));
+  if (candidate === "") return "index.html";
   return candidate.replace(/^\.\//, "");
 };
 const targetExists = candidate => {
@@ -36,7 +37,7 @@ const targetExists = candidate => {
 const text = html => html.replace(/<script[\s\S]*?<\/script>/gi, " ").replace(/<style[\s\S]*?<\/style>/gi, " ").replace(/<[^>]+>/g, " ").replace(/&[^;]+;/g, " ").replace(/\s+/g, " ").trim();
 const attr = (tag, name) => tag.match(new RegExp(name + "[\\s\\t\\r\\n]*=[\\s\\t\\r\\n]*[\"']([^\"']*)", "i"))?.[1] || "";
 const isUtility = file => /^(?:about|affiliate-disclosure|editorial-policy|partner-with-mahgpt)\.html$/.test(file);
-const isEditorial = file => /^(?:guides|news)(?:\/|$)/.test(file) || /partners\//.test(file);
+const isEditorial = file => /^(?:guides|news)(?:\/|$)/.test(file);
 
 const inbound = new Map([...pages].map(p => [p, 0]));
 for (const file of htmlFiles) {
