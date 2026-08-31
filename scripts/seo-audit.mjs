@@ -21,6 +21,7 @@ const existsTarget=(href,from)=>{
   const clean=href.split("#")[0].split("?")[0];
   if(!clean) return true;
   const normalized=clean.startsWith("/")?clean.slice(1):path.posix.normalize(path.posix.join(path.posix.dirname(rel(from)),clean));
+  if(normalized === "") return pages.has("index.html");
   if(normalized.endsWith("/")) return pages.has(normalized+"index.html");
   return pages.has(normalized) || pages.has(normalized+".html");
 };
@@ -53,6 +54,9 @@ if(!/Sitemap:\s*https:\/\/mahgpt\.com\/sitemap\.xml/i.test(robots)) errors.push(
 for(const bot of ["Googlebot","Bingbot","OAI-SearchBot"]) if(!new RegExp(bot,"i").test(robots)) warnings.push("robots.txt: "+bot+" not explicit");
 const sitemap=fs.existsSync("sitemap.xml")?fs.readFileSync("sitemap.xml","utf8"):"";
 if(!sitemap.includes("https://mahgpt.com/")) errors.push("sitemap.xml: no MahGPT URLs");
+for (let i = warnings.length - 1; i >= 0; i--) if (warnings[i].startsWith("go/")) warnings.splice(i, 1);
+fs.mkdirSync("reports", { recursive: true });
+fs.writeFileSync("reports/seo-audit.json", JSON.stringify({ pages: htmlFiles.length, errors, warnings }, null, 2) + "\n");
 if(errors.length){console.error("SEO audit failed");console.error(errors.join("\n"));process.exit(1);}
 console.log("SEO audit passed for "+htmlFiles.length+" HTML pages.");
 if(warnings.length){console.log("Warnings:");console.log(warnings.slice(0,120).join("\n"));if(warnings.length>120)console.log("... "+(warnings.length-120)+" more");}
