@@ -9,7 +9,7 @@
   "clusters": [
     {"id":"video","hub":"/guides/video-motion.html","pages":["/guides/video-motion-best-2026.html","/guides/video-motion-new-tools-2026.html","/guides/free-video-motion-tools-2026.html","/partners/descript.html","/partners/invideo.html","/partners/pictory.html","/partners/heygen.html","/tools/runway.html"]},
     {"id":"audio-voice","hub":"/guides/audio-voice.html","pages":["/guides/audio-voice-best-2026.html","/guides/audio-voice-new-tools-2026.html","/guides/free-audio-voice-tools-2026.html","/guides/voice-cloning-tools.html","/partners/elevenlabs.html","/partners/soundraw.html"]},
-    {"id":"image-design","hub":"/guides/image-design.html","pages":["/guides/image-design-best-2026.html","/guides/image-design-new-tools-2026.html","/guides/free-image-design-tools-2026.html","/partners/adobe.html","/partners/canva.html"]},
+    {"id":"image-design","hub":"/guides/image-design.html","pages":["/guides/image-design-best-2026.html","/guides/image-design-new-tools-2026.html","/guides/free-image-design-tools-2026.html","/partners/adobe.html","/tools/canva.html"]},
     {"id":"seo","hub":"/partners/semrush.html","pages":["/guides/business.html","/guides/business-best-2026.html","/guides/business-new-tools-2026.html","/partners/surfer.html"]},
     {"id":"writing","hub":"/guides/text-writing.html","pages":["/guides/text-writing-best-2026.html","/guides/text-writing-new-tools-2026.html","/guides/free-text-writing-tools-2026.html","/partners/jasper.html"]},
     {"id":"productivity","hub":"/guides/productivity.html","pages":["/guides/productivity-best-2026.html","/guides/productivity-new-tools-2026.html","/guides/free-productivity-tools-2026.html"]},
