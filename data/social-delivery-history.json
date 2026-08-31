@@ -901,6 +901,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/shadow-ai-is-a-security-problem-but-the-eu-ai-act-makes-it-a-legal-one": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-31T17:12:53.037Z",
+        "message_id": 289,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

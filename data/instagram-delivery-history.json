@@ -200,6 +200,20 @@
         "message_id": "17917596087231067",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/shadow-ai-is-a-security-problem-but-the-eu-ai-act-makes-it-a-legal-one": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-08-31T17:13:02.133Z",
+        "message_id": "18134364262628263",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-08-31T17:13:11.786Z",
+        "message_id": "17942045952338958",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
