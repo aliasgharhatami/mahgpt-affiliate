@@ -1,6 +1,8 @@
 name: Test MahGPT Instagram publisher
 
 on:
+  schedule:
+    - cron: "41 5,7,9,11,13,15,17,19,21,23 * * *"
   workflow_dispatch:
     inputs:
       queue_index:
@@ -12,16 +14,32 @@ on:
         required: false
         default: false
         type: boolean
+  pull_request:
+    paths:
+      - ".github/workflows/test-instagram-publisher.yml"
+      - "scripts/instagram-publisher.mjs"
 
 permissions:
   contents: write
 
 concurrency:
-  group: mahgpt-instagram-manual
+  group: mahgpt-social-delivery
   cancel-in-progress: false
 
 jobs:
+  syntax:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Validate Instagram publisher syntax
+        run: node --check scripts/instagram-publisher.mjs
+
   publish-one:
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -34,8 +52,8 @@ jobs:
         env:
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
           INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
-          INSTAGRAM_QUEUE_INDEX: ${{ inputs.queue_index }}
-          INSTAGRAM_DRY_RUN: ${{ inputs.dry_run }}
+          INSTAGRAM_QUEUE_INDEX: ${{ inputs.queue_index || '' }}
+          INSTAGRAM_DRY_RUN: ${{ inputs.dry_run || 'false' }}
         run: node scripts/instagram-publisher.mjs
       - name: Commit Instagram delivery state
         if: inputs.dry_run != true

@@ -1,6 +1,8 @@
 name: Publish one MahGPT social item
 
 on:
+  schedule:
+    - cron: "36 5,7,9,11,13,15,17,19,21,23 * * *"
   workflow_dispatch:
     inputs:
       retry_failed:
@@ -8,16 +10,32 @@ on:
         required: false
         default: false
         type: boolean
+  pull_request:
+    paths:
+      - ".github/workflows/publish-social-queue.yml"
+      - "scripts/social-publisher.mjs"
 
 permissions:
   contents: write
 
 concurrency:
-  group: mahgpt-social-queue
+  group: mahgpt-social-delivery
   cancel-in-progress: false
 
 jobs:
+  syntax:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Validate Telegram publisher syntax
+        run: node --check scripts/social-publisher.mjs
+
   publish-one:
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
