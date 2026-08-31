@@ -17,7 +17,8 @@ for(const locale of locales){
   const members=[cluster.hub,...cluster.pages].filter((v,i,a)=>a.indexOf(v)===i);
   for(const base of members){
    const file="/"+(locale==="en"?"":locale+"/")+base.slice(1);
-   const disk=path.join(root,file.slice(1));
+   let disk=path.join(root,file.slice(1));
+   if(fs.existsSync(disk)&&fs.statSync(disk).isDirectory()) disk=path.join(disk,"index.html");
    if(!fs.existsSync(disk))continue;
    let html=fs.readFileSync(disk,"utf8");
    if(html.includes('data-topic-cluster="'+cluster.id+'"'))continue;
