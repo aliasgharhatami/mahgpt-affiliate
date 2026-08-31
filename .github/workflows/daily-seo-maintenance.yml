@@ -7,6 +7,12 @@ on:
       - 'scripts/seo-audit.mjs'
       - 'scripts/seo-content-audit.mjs'
       - 'scripts/validate-hreflang-sitemaps.mjs'
+      - 'scripts/daily-analysis.mjs'
+      - 'scripts/validate-daily-analysis.mjs'
+      - 'assets/daily-analysis.json'
+      - 'news/analysis/**'
+      - '*/news/index.html'
+      - '*/news/analysis/**'
       - 'sitemap.xml'
       - 'sitemaps/**'
       - 'robots.txt'
@@ -26,6 +32,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Generate daily analysis pages for validation
+        run: |
+          node scripts/daily-analysis.mjs
+          node scripts/validate-daily-analysis.mjs
+          node scripts/generate-sitemaps.mjs
       - name: Run deterministic SEO audit
         run: node scripts/seo-audit.mjs
       - name: Validate hreflang and sitemaps
