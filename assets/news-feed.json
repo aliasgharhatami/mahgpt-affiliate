@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T09:32:55.310Z",
+  "updatedAt": "2026-08-31T10:28:25.999Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -15,6 +15,28 @@
     "https://feeds.arstechnica.com/arstechnica/technology-lab"
   ],
   "items": [
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "The three forces reshaping the future of enterprise SaaS",
+      "summary": "For years, SaaS has enjoyed a comfortable position, but Agentic AI is changing that.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/the-three-forces-reshaping-the-future-of-enterprise-saas",
+      "publishedAt": "2026-08-31T10:19:08.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Shadow AI is a security problem, but the EU AI Act makes it a legal one",
+      "summary": "Employees at larger enterprises regularly feed corporate data into AI tools.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/shadow-ai-is-a-security-problem-but-the-eu-ai-act-makes-it-a-legal-one",
+      "publishedAt": "2026-08-31T09:46:41.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
+    },
     {
       "tool": "ai-news",
       "toolName": "AI News",
@@ -102,28 +124,6 @@
       "source": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
       "publishedAt": "2026-08-30T15:35:10.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "publishedAt": "2026-08-30T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Top AI tools including Claude, Codex, and Hermes installed suspicious code inside corporate networks",
-      "summary": "There is a new class of \"squatting\" risks emerging right in front of us and it involves llms.txt and llms-full.txt documentation.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/security/top-ai-tools-including-claude-codex-and-hermes-installed-suspicious-code-inside-corporate-networks",
-      "publishedAt": "2026-08-30T12:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg"
     }
   ]
 }
