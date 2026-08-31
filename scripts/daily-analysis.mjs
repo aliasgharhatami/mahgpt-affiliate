@@ -37,11 +37,11 @@ if (items.length < 3) {
 }
 
 const themes = [
-  { key: "video", label: "video AI", test: /video|runway|pictory|invideo|heygen|sora|clip|motion|youtube/i, tool: "Pictory", url: "/go/pictory/" },
-  { key: "audio", label: "audio and voice AI", test: /audio|voice|music|soundraw|elevenlabs|podcast|song|tts/i, tool: "SOUNDRAW", url: "/go/soundraw/" },
+  { key: "video", label: "video AI", test: /video|runway|pictory|invideo|heygen|sora|clip|motion|youtube/i, tool: "Pictory", url: "/go/pictory.html" },
+  { key: "audio", label: "audio and voice AI", test: /audio|voice|music|soundraw|elevenlabs|podcast|song|tts/i, tool: "SOUNDRAW", url: "/go/soundraw.html" },
   { key: "image", label: "image and design AI", test: /image|photo|design|canva|adobe|creative|firefly|visual/i, tool: "Adobe", url: "/partners/adobe.html" },
   { key: "search", label: "AI search", test: /search|google|bing|copilot|chatgpt|answer|overview|perplexity/i, tool: "SEMrush", url: "/partners/semrush.html" },
-  { key: "productivity", label: "workflow automation", test: /agent|automation|workflow|productivity|office|workspace|coding|developer/i, tool: "Descript", url: "/go/descript/" },
+  { key: "productivity", label: "workflow automation", test: /agent|automation|workflow|productivity|office|workspace|coding|developer/i, tool: "Descript", url: "/go/descript.html" },
   { key: "business", label: "AI business", test: /startup|funding|enterprise|business|market|ads|commerce|revenue/i, tool: "Hostinger", url: "/partners/hostinger.html" }
 ];
 const scoreThemes = stories => themes.map(theme => ({ ...theme, count: stories.filter(item => theme.test.test([item.title, item.summary, item.category].join(" "))).length })).filter(theme => theme.count > 0).sort((a, b) => b.count - a.count).slice(0, 3);
@@ -204,6 +204,7 @@ const schema = (locale, l, pageUrl) => JSON.stringify({
 function page(locale) {
   const l = localeLabels(locale.code), rtl = locale.dir === "rtl";
   const pathPrefix = locale.code === "en" ? "" : `/${locale.code}`;
+  const homeHref = locale.code === "en" ? "/" : `/${locale.code}/`;
   const pageUrl = `${base}${pathPrefix}/news/analysis/${today}.html`;
   const related = pickedThemes.map(theme => `<li><a href="${theme.url}">${esc(l.cta(theme.tool))}</a></li>`).join("\n");
   const sourceList = items.slice(0, 6).map(item => `<li><a href="${item.story}">${esc(item.title)}</a> <span>— ${esc(item.sourceName)}</span></li>`).join("\n");
@@ -222,8 +223,8 @@ ${alternates(readJson(localesPath, { supported: [locale] }).supported, today)}
 <script type="application/ld+json">${schema(locale, l, pageUrl)}</script>
 <style>:root{--paper:#f7f4ee;--ink:#111a2c;--muted:#63718a;--red:#c54137;--line:#d8d2c8;--panel:#fffdf8}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,Arial,sans-serif;line-height:1.75}a{color:var(--red);font-weight:800}.wrap{max-width:980px;margin:auto;padding:34px 24px 80px}.brand{font:700 34px Georgia,serif;text-decoration:none;color:var(--ink)}.brand span{color:var(--red)}nav{margin:22px 0;color:var(--muted);font-size:14px}h1{font:700 clamp(38px,7vw,76px)/1.02 Georgia,serif;letter-spacing:-2px;margin:28px 0 14px}.dek{font-size:20px;color:var(--muted);max-width:780px}.meta{color:var(--muted);font-size:14px;margin:18px 0 40px}.grid{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:50px}.card{background:var(--panel);border:1px solid var(--line);padding:24px;margin:0 0 26px}.brief p{margin:0 0 22px}.brief h2{font:700 30px Georgia,serif;margin:0 0 12px}.brief h3{font:700 22px Georgia,serif;margin:0 0 10px}.sources li,.tools li{margin:0 0 12px}.sources span{color:var(--muted);font-size:13px}.note{font-size:14px;color:var(--muted)}@media(max-width:820px){.grid{grid-template-columns:1fr}h1{letter-spacing:-1px}}</style>
 </head>
-<body><main class="wrap"><a class="brand" href="${pathPrefix || "/" }">Mah<span>GPT</span></a>
-<nav aria-label="Breadcrumb"><a href="${pathPrefix || "/" }">${esc(l.home)}</a> / <a href="${pathPrefix}/news/">${esc(l.news)}</a> / <span>${esc(l.analysis)}</span></nav>
+<body><main class="wrap"><a class="brand" href="${homeHref}">Mah<span>GPT</span></a>
+<nav aria-label="Breadcrumb"><a href="${homeHref}">${esc(l.home)}</a> / <a href="${pathPrefix}/news/">${esc(l.news)}</a> / <span>${esc(l.analysis)}</span></nav>
 <article>
 <p class="meta"><time datetime="${today}">${today}</time> · MahGPT analysis desk</p>
 <h1>${esc(l.titlePrefix)}: ${esc(primaryTheme.label)} and ${esc(secondaryTheme.label)}</h1>
@@ -242,14 +243,16 @@ ${alternates(readJson(localesPath, { supported: [locale] }).supported, today)}
 
 function analysisIndexPage(locale, generatedPath) {
   const l = localeLabels(locale.code), rtl = locale.dir === "rtl", pathPrefix = locale.code === "en" ? "" : `/${locale.code}`;
+  const homeHref = locale.code === "en" ? "/" : `/${locale.code}/`;
   const pageUrl = `${base}${pathPrefix}/news/analysis/index.html`;
-  return `<!doctype html><html lang="${locale.hreflang}" dir="${rtl ? "rtl" : "ltr"}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(l.analysis)} | ${esc(locale.name)} | MahGPT</title><meta name="description" content="Daily MahGPT analysis of AI news, tools, workflows and market signals."><link rel="canonical" href="${pageUrl}"><meta property="og:title" content="${esc(l.analysis)} | MahGPT"><meta property="og:description" content="Daily MahGPT analysis of AI news, tools, workflows and market signals."><meta name="twitter:card" content="summary"><link rel="icon" type="image/svg+xml" href="/assets/mahgpt-favicon.svg"><style>body{font-family:Inter,Arial,sans-serif;max-width:860px;margin:auto;padding:34px 24px;line-height:1.7;background:#f7f4ee;color:#111a2c}a{color:#c54137;font-weight:800}.brand{font:700 34px Georgia,serif;text-decoration:none;color:#111a2c}.brand span{color:#c54137}h1{font:700 54px Georgia,serif}</style></head><body><a class="brand" href="${pathPrefix || "/"}">Mah<span>GPT</span></a><h1>${esc(l.analysis)}</h1><p>${esc(l.intro(items.length))}</p><p><a href="${path.basename(generatedPath)}">${esc(l.titlePrefix)} — ${today}</a></p></body></html>`;
+  return `<!doctype html><html lang="${locale.hreflang}" dir="${rtl ? "rtl" : "ltr"}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(l.analysis)} | ${esc(locale.name)} | MahGPT</title><meta name="description" content="Daily MahGPT analysis of AI news, tools, workflows and market signals."><link rel="canonical" href="${pageUrl}"><meta property="og:title" content="${esc(l.analysis)} | MahGPT"><meta property="og:description" content="Daily MahGPT analysis of AI news, tools, workflows and market signals."><meta name="twitter:card" content="summary"><link rel="icon" type="image/svg+xml" href="/assets/mahgpt-favicon.svg"><style>body{font-family:Inter,Arial,sans-serif;max-width:860px;margin:auto;padding:34px 24px;line-height:1.7;background:#f7f4ee;color:#111a2c}a{color:#c54137;font-weight:800}.brand{font:700 34px Georgia,serif;text-decoration:none;color:#111a2c}.brand span{color:#c54137}h1{font:700 54px Georgia,serif}</style></head><body><a class="brand" href="${homeHref}">Mah<span>GPT</span></a><h1>${esc(l.analysis)}</h1><p>${esc(l.intro(items.length))}</p><p><a href="${path.basename(generatedPath)}">${esc(l.titlePrefix)} — ${today}</a></p></body></html>`;
 }
 
 function localeNewsIndexPage(locale) {
   const l = localeLabels(locale.code), rtl = locale.dir === "rtl", pathPrefix = locale.code === "en" ? "" : `/${locale.code}`;
+  const homeHref = locale.code === "en" ? "/" : `/${locale.code}/`;
   const pageUrl = `${base}${pathPrefix}/news/index.html`;
-  return `<!doctype html><html lang="${locale.hreflang}" dir="${rtl ? "rtl" : "ltr"}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(l.news)} | ${esc(locale.name)} | MahGPT</title><meta name="description" content="MahGPT AI news and daily workflow analysis."><link rel="canonical" href="${pageUrl}"><meta property="og:title" content="${esc(l.news)} | MahGPT"><meta property="og:description" content="MahGPT AI news and daily workflow analysis."><meta name="twitter:card" content="summary"><link rel="icon" type="image/svg+xml" href="/assets/mahgpt-favicon.svg"><style>body{font-family:Inter,Arial,sans-serif;max-width:860px;margin:auto;padding:34px 24px;line-height:1.7;background:#f7f4ee;color:#111a2c}a{color:#c54137;font-weight:800}.brand{font:700 34px Georgia,serif;text-decoration:none;color:#111a2c}.brand span{color:#c54137}h1{font:700 54px Georgia,serif}</style></head><body><a class="brand" href="${pathPrefix || "/"}">Mah<span>GPT</span></a><h1>${esc(l.news)}</h1><p>${esc(l.intro(items.length))}</p><p><a href="${pathPrefix}/news/analysis/">${esc(l.analysis)}</a></p></body></html>`;
+  return `<!doctype html><html lang="${locale.hreflang}" dir="${rtl ? "rtl" : "ltr"}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(l.news)} | ${esc(locale.name)} | MahGPT</title><meta name="description" content="MahGPT AI news and daily workflow analysis."><link rel="canonical" href="${pageUrl}"><meta property="og:title" content="${esc(l.news)} | MahGPT"><meta property="og:description" content="MahGPT AI news and daily workflow analysis."><meta name="twitter:card" content="summary"><link rel="icon" type="image/svg+xml" href="/assets/mahgpt-favicon.svg"><style>body{font-family:Inter,Arial,sans-serif;max-width:860px;margin:auto;padding:34px 24px;line-height:1.7;background:#f7f4ee;color:#111a2c}a{color:#c54137;font-weight:800}.brand{font:700 34px Georgia,serif;text-decoration:none;color:#111a2c}.brand span{color:#c54137}h1{font:700 54px Georgia,serif}</style></head><body><a class="brand" href="${homeHref}">Mah<span>GPT</span></a><h1>${esc(l.news)}</h1><p>${esc(l.intro(items.length))}</p><p><a href="${pathPrefix}/news/analysis/">${esc(l.analysis)}</a></p></body></html>`;
 }
 
 const config = readJson(localesPath, { supported: [{ code: "en", hreflang: "en", dir: "ltr", name: "English" }] });
