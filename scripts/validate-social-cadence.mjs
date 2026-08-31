@@ -34,7 +34,7 @@ expect(!hasSchedule(instagramFallback), "test-instagram-publisher.yml must stay 
 expect(hasCron(updateNews, "17 5 * * *"), "update-news.yml must refresh once daily at 08:17 Europe/Istanbul.");
 expect(!updateNews.includes("7,27,47 * * * *"), "update-news.yml must not poll three times per hour.");
 expect(/Date\.UTC\([^)]*,5,20\)/.test(socialQueue), "social-queue.mjs must keep the first queue slot at 08:20 Europe/Istanbul.");
-expect(/Array\.from\(\{length:10\}/.test(socialQueue), "social-queue.mjs must keep exactly ten daily social slots.");
+expect(/Array\.from\(\{length:10\}/.test(socialQueue), "social-queue.mjs must keep exactly ten protected daily social slots.");
 
 for (const [name, source] of [["Telegram", telegramPublisher], ["Instagram", instagramPublisher]]) {
   const match = source.match(/DELIVERY_COOLDOWN_MINUTES\s*=\s*(\d+)/);
