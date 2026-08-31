@@ -11,6 +11,7 @@ on:
       - 'scripts/validate-hreflang-sitemaps.mjs'
       - 'scripts/seo-content-audit.mjs'
       - 'news/story.html'
+      - 'guides/**'
 permissions:
   contents: read
 jobs:
