@@ -8,12 +8,12 @@ const root = process.cwd();
 const statePath = path.join(root, ".cache", "indexnow-state.json");
 
 export function extractUrls(xml) {
-  return [...String(xml).matchAll(/<loc>\\s*([^<]+?)\\s*<\\/loc>/gi)].map(m=>m[1].trim());
+  return [...String(xml).matchAll(/<loc>\s*([^<]+?)\s*<\/loc>/gi)].map(m=>m[1].trim());
 }
 export function isValidUrl(value) {
   try {
     const u = new URL(value);
-    return u.origin === ORIGIN && u.protocol === "https:" && !u.pathname.startsWith("/go/") && !u.pathname.includes("/404") && !/\\.(?:xml|json|txt)$/i.test(u.pathname);
+    return u.origin === ORIGIN && u.protocol === "https:" && !u.pathname.startsWith("/go/") && !u.pathname.includes("/404") && !/\.(?:xml|json|txt)$/i.test(u.pathname);
   } catch { return false; }
 }
 export function collectUrls(sitemapIndex, sitemapFiles) {
