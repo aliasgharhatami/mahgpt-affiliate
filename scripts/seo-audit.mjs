@@ -26,18 +26,18 @@ const existsTarget=(href,from)=>{
 };
 for(const file of htmlFiles){
   const name=rel(file), html=fs.readFileSync(file,"utf8");
-  const title=(html.match(/<title[^>]*>([\\s\\S]*?)<\\/title>/i)?.[1]||"").replace(/<[^>]+>/g,"").replace(/\\s+/g," ").trim();
+  const title=(html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1]||"").replace(/<[^>]+>/g,"").replace(/\s+/g," ").trim();
   const desc=html.match(/<meta[^>]+(?:name|property)=["']description["'][^>]+content=["'][^"']+["']/i)||html.match(/<meta[^>]+content=["'][^"']+["'][^>]+(?:name|property)=["']description["']/i);
   const canonical=html.match(/<link[^>]+rel=["']canonical["'][^>]+href=["']([^"']+)/i)?.[1]||"";
   if(!title) errors.push(name+": missing title");
   if(!desc) warnings.push(name+": missing meta description");
   if(!canonical) warnings.push(name+": missing canonical");
-  if(!/<h1\\b/i.test(html)) warnings.push(name+": missing h1");
+  if(!/<h1\b/i.test(html)) warnings.push(name+": missing h1");
   if(!/<meta[^>]+property=["']og:title["']/i.test(html)) warnings.push(name+": missing og:title");
   if(!/<meta[^>]+property=["']og:description["']/i.test(html)) warnings.push(name+": missing og:description");
   if(!/<meta[^>]+name=["']twitter:card["']/i.test(html)) warnings.push(name+": missing twitter:card");
-  for(const m of html.matchAll(/<img\\b[^>]*>/gi)) if(!/\\balt=["'][^"']*["']/i.test(m[0])) errors.push(name+": image missing alt");
-  for(const m of html.matchAll(/<a\\b[^>]+href=["']([^"']+)["']/gi)) if(!existsTarget(m[1],file)) warnings.push(name+": broken local link "+m[1]);
+  for(const m of html.matchAll(/<img\b[^>]*>/gi)) if(!/\balt=["'][^"']*["']/i.test(m[0])) errors.push(name+": image missing alt");
+  for(const m of html.matchAll(/<a\b[^>]+href=["']([^"']+)["']/gi)) if(!existsTarget(m[1],file)) warnings.push(name+": broken local link "+m[1]);
   for(const m of html.matchAll(/<link[^>]+hreflang=["']([^"']+)["'][^>]+href=["']([^"']+)["']/gi)) hreflangTargets.push([name,m[1],m[2]]);
   if(title){if(!titles.has(title))titles.set(title,[]);titles.get(title).push(name);}
   if(canonical){if(!canonicals.has(canonical))canonicals.set(canonical,[]);canonicals.get(canonical).push(name);}
@@ -49,10 +49,10 @@ for(const [from,lang,url] of hreflangTargets) if(url.startsWith("https://mahgpt.
   if(!pages.has(local) && !pages.has(local+".html")) warnings.push(from+": hreflang target not found "+url);
 }
 const robots=fs.existsSync("robots.txt")?fs.readFileSync("robots.txt","utf8"):"";
-if(!/Sitemap:\\s*https:\\/\\/mahgpt\\.com\\/sitemap\\.xml/i.test(robots)) errors.push("robots.txt: missing sitemap");
+if(!/Sitemap:\s*https:\/\/mahgpt\.com\/sitemap\.xml/i.test(robots)) errors.push("robots.txt: missing sitemap");
 for(const bot of ["Googlebot","Bingbot","OAI-SearchBot"]) if(!new RegExp(bot,"i").test(robots)) warnings.push("robots.txt: "+bot+" not explicit");
 const sitemap=fs.existsSync("sitemap.xml")?fs.readFileSync("sitemap.xml","utf8"):"";
 if(!sitemap.includes("https://mahgpt.com/")) errors.push("sitemap.xml: no MahGPT URLs");
-if(errors.length){console.error("SEO audit failed");console.error(errors.join("\\n"));process.exit(1);}
+if(errors.length){console.error("SEO audit failed");console.error(errors.join("\n"));process.exit(1);}
 console.log("SEO audit passed for "+htmlFiles.length+" HTML pages.");
-if(warnings.length){console.log("Warnings:");console.log(warnings.slice(0,120).join("\\n"));if(warnings.length>120)console.log("... "+(warnings.length-120)+" more");}
+if(warnings.length){console.log("Warnings:");console.log(warnings.slice(0,120).join("\n"));if(warnings.length>120)console.log("... "+(warnings.length-120)+" more");}
