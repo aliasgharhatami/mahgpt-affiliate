@@ -1,9 +1,95 @@
 {
   "version": 1,
   "queue_date": "2026-08-31",
-  "created_at": "2026-08-31T09:32:59.324Z",
-  "source_feed_updated_at": "2026-08-31T09:32:55.310Z",
+  "created_at": "2026-08-31T10:28:30.672Z",
+  "source_feed_updated_at": "2026-08-31T10:28:25.999Z",
   "items": [
+    {
+      "story_id": "https://www.techradar.com/pro/the-three-forces-reshaping-the-future-of-enterprise-saas",
+      "source_url": "https://www.techradar.com/pro/the-three-forces-reshaping-the-future-of-enterprise-saas",
+      "headline": "The three forces reshaping the future of enterprise SaaS",
+      "summary": "For years, SaaS has enjoyed a comfortable position, but Agentic AI is changing that.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-three-forces-reshaping-the-future-of-enterprise-saas",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-31T05:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-techradar-com-pro-the-three-forces-reshaping-the-future-of-enterprise--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/shadow-ai-is-a-security-problem-but-the-eu-ai-act-makes-it-a-legal-one",
+      "source_url": "https://www.techradar.com/pro/shadow-ai-is-a-security-problem-but-the-eu-ai-act-makes-it-a-legal-one",
+      "headline": "Shadow AI is a security problem, but the EU AI Act makes it a legal one",
+      "summary": "Employees at larger enterprises regularly feed corporate data into AI tools.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2000,
+        "height": 1125
+      },
+      "image_mode": "source",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=shadow-ai-is-a-security-problem-but-the-eu-ai-act-makes-it-a-legal-one",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-08-31T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-techradar-com-pro-shadow-ai-is-a-security-problem-but-the-eu-ai-act-ma-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
     {
       "story_id": "https://www.techradar.com/pro/the-ai-layoff-narrative-is-missing-the-real-story",
       "source_url": "https://www.techradar.com/pro/the-ai-layoff-narrative-is-missing-the-real-story",
@@ -22,12 +108,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T05:20:00.000Z",
+      "scheduled_publish_at": "2026-08-31T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-08-31T09:33:41.612Z",
-        "message_id": 287,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-08-31T09:33:41.612Z"
       },
       "linkedin": {
         "status": "pending"
@@ -35,8 +119,7 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-08-31T09:33:59.423Z",
-        "message_id": "18127152247730484",
-        "media_kind": "source"
+        "message_id": "18127152247730484"
       },
       "x": {
         "status": "pending"
@@ -50,12 +133,6 @@
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-08-31T09:34:08.066Z",
-        "message_id": "18263298640306868",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -76,7 +153,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T07:20:00.000Z",
+      "scheduled_publish_at": "2026-08-31T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -119,7 +196,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T09:20:00.000Z",
+      "scheduled_publish_at": "2026-08-31T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -162,7 +239,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T11:20:00.000Z",
+      "scheduled_publish_at": "2026-08-31T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -205,7 +282,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T13:20:00.000Z",
+      "scheduled_publish_at": "2026-08-31T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -248,7 +325,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T15:20:00.000Z",
+      "scheduled_publish_at": "2026-08-31T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -291,7 +368,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T17:20:00.000Z",
+      "scheduled_publish_at": "2026-08-31T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -334,92 +411,6 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-theverge-com-ai-artificial-intelligence-986541-texas-governor-abbott-f-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "source_url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "headline": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-08-31T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-08-31/https-techcrunch-com-2026-08-30-caterpillar-is-bringing-to-ai-deployment-what-it-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/security/top-ai-tools-including-claude-codex-and-hermes-installed-suspicious-code-inside-corporate-networks",
-      "source_url": "https://www.techradar.com/pro/security/top-ai-tools-including-claude-codex-and-hermes-installed-suspicious-code-inside-corporate-networks",
-      "headline": "Top AI tools including Claude, Codex, and Hermes installed suspicious code inside corporate networks",
-      "summary": "There is a new class of \"squatting\" risks emerging right in front of us and it involves llms.txt and llms-full.txt documentation.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440
-      },
-      "image_mode": "source",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=top-ai-tools-including-claude-codex-and-hermes-installed-suspicious-code-inside-corporate-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
       "scheduled_publish_at": "2026-08-31T23:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -436,7 +427,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-techradar-com-pro-security-top-ai-tools-including-claude-codex-and-her-story.png",
+      "fallback_image_story": "assets/social-cards/2026-08-31/https-www-theverge-com-ai-artificial-intelligence-986541-texas-governor-abbott-f-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
