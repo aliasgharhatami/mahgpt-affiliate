@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T10:28:25.999Z",
+  "updatedAt": "2026-08-31T21:02:19.979Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The three forces reshaping the future of enterprise SaaS",
-      "summary": "For years, SaaS has enjoyed a comfortable position, but Agentic AI is changing that.",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-three-forces-reshaping-the-future-of-enterprise-saas",
-      "publishedAt": "2026-08-31T10:19:08.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "publishedAt": "2026-08-31T20:13:45.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Shadow AI is a security problem, but the EU AI Act makes it a legal one",
-      "summary": "Employees at larger enterprises regularly feed corporate data into AI tools.",
+      "title": "'Let data reign'; Trump warns that those who don't let AI data centers proliferate will end up 'backwards and poor'",
+      "summary": "Us President Donald Trump is pushing consumers to embrace rapid data center development in their communities, but there may be good reasons they balk.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/shadow-ai-is-a-security-problem-but-the-eu-ai-act-makes-it-a-legal-one",
-      "publishedAt": "2026-08-31T09:46:41.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
+      "source": "https://www.techradar.com/ai-platforms-assistants/let-data-reign-trump-warns-that-those-who-dont-let-ai-data-centers-proliferate-will-end-up-backwards-and-poor",
+      "publishedAt": "2026-08-31T20:04:16.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vV9tZyUzrznNHkCv2bd9Kb-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The AI layoff narrative is missing the real story",
-      "summary": "Fintech blames AI for layoffs, but the real story is cost-cutting, weak returns, and unproven innovation.",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-ai-layoff-narrative-is-missing-the-real-story",
-      "publishedAt": "2026-08-31T09:12:19.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "publishedAt": "2026-08-31T19:16:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "‘The most eye-watering thing I’ve seen since the solar eclipse’ — experiencing the MSI Claw 8 EX AI+’s staggering performance honestly blew my mind but I’m afraid I can’t get over that absurd price tag",
-      "summary": "The new MSI Claw and its Intel Arc G3 Extreme chipset unlocks gloriously smooth gameplay on the go. But that price means it's likely out of reach for most of us.",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a &#8216;Harvey for police officers&#8217;",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/computing/gaming-computers/msi-claw-8-ex-ai",
-      "publishedAt": "2026-08-31T08:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/fwt7WthhcshBD58p2UBSxA-1920-80.jpg"
+      "source": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "publishedAt": "2026-08-31T18:35:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/BlueVoice_Founders.png?resize=1200,600"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "World’s second-biggest data center proposed in Scotland meets “huge” opposition — and it's part of a wider trend across the United Kingdom",
-      "summary": "Data centers are being opposed in every region of the UK, and it could cause some problems for the government's plans for AI",
+      "title": "Longtime exec Phil Schiller is downgrading his role at Apple again",
+      "summary": "Macworld Bloomberg’s Mark Gurman reported on Monday that Apple executive Phil Schiller is stepping down from his roles as leader of the App Store and manager of product events. The news comes on Tim Cook’s last day as Apple CEO . Schiller became an Apple Fellow in 2020 after initially stepping down ",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/worlds-second-biggest-data-center-proposed-in-scotland-meets-huge-opposition-and-its-part-of-a-wider-trend-across-the-united-kingdom",
-      "publishedAt": "2026-08-31T08:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/owbSSGyfRyGGobNhGmqk2Q-1920-80.jpg"
+      "source": "https://www.macworld.com/article/3223800/longtime-exec-phil-schiller-is-downgraing-his-role-at-apple-again.html",
+      "publishedAt": "2026-08-31T18:25:49.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3223800-0-78647100-1788205714-Phil-Schiller.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "This $99.99 lifetime deal puts GPT-5.5 Pro and Claude 4.6 Sonnet in one app",
-      "summary": "Macworld TL;DR: A lifetime subscription to the 1min.AI Advanced Business Plan is on sale for $99.99 (MSRP $540), giving you chat, image, video, audio, and document AI tools in one app . Keeping up with AI tools usually means juggling separate subscriptions for chat, images, video, and audio, each wi",
+      "title": "iOS 27 beta 8 is out now as the general release date approaches",
+      "summary": "Macworld On the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026. The pattern goes like this: Apple releases developer-only betas for the firs",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3222358/this-99-99-lifetime-deal-puts-gpt-5-5-pro-and-claude-4-6-sonnet-in-one-app.html",
-      "publishedAt": "2026-08-31T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3222358-0-36315700-1788163260-1minAI_51419e.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
+      "publishedAt": "2026-08-31T17:42:07.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3172166-0-03658900-1788198189-ios_27_hero.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Graphic designers are trying to fix people's terrible AI flyers",
-      "summary": "The trend is going viral on Instagram.",
+      "title": "Is Nvidia’s DLSS 5 an AI slop machine or a game-changing technology that will take us closer to artists' original vision?",
+      "summary": "The controversy continues, but gamers might have been too quick to judge the controversial AI tech.",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/design/graphic-design/graphic-designers-are-trying-to-fix-peoples-terrible-ai-flyers",
-      "publishedAt": "2026-08-31T08:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3bqifq82zuYVwaT8H2uHzS-1920-80.jpg"
+      "source": "https://www.creativebloq.com/3d/is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-closer-to-artists-original-vision",
+      "publishedAt": "2026-08-31T17:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/92hEKGMNWmVyPzUNFDqpaA-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Teachers are getting more comfortable using AI – but it isn't helping lower their workload",
-      "summary": "Although most teachers use artificial intelligence, only one in three say they're able to work fewer hours amid intense workloads.",
+      "title": "Apple Watch Series 12 (2026): Everything we know so far",
+      "summary": "Macworld If you’re thinking about buying an Apple Watch, you’ll want to know whether or not Apple is likely to launch a new model in the near future. After all, there are few things worse than spending hundreds of dollars on a tech device only to see it superseded by something better (and potentiall",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/teachers-are-getting-more-comfortable-using-ai-but-it-isnt-helping-lower-their-workload",
-      "publishedAt": "2026-08-31T06:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/DroFFmiArXg2SARc9KPh44-2000-80.jpg"
+      "source": "https://www.macworld.com/article/3177024/apple-watch-series-12-2026-design-features-specs-release-date.html",
+      "publishedAt": "2026-08-31T16:15:24.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3177024-0-13227200-1788192949-Apple-Watch-Series-11-review-hero1.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Amazon is buying 2 million Nvidia GPUs for AWS data center expansion",
-      "summary": "AWS plans to deploy two million additional Nvidia GPUs by 2028, expanding AI infrastructure across cloud, government, analytics, and robotics workloads.",
+      "title": "Tim Cook was the best Apple CEO for his time — John Ternus' tenure will be defined by AI",
+      "summary": "Tim Cook took over as Apple CEO in the long shadow of his predecessor, Steve Jobs — and yet he became the best tech CEO in a generation, more than preparing the company for his successor, John Ternus.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion",
-      "publishedAt": "2026-08-30T22:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb-1920-80.jpg"
+      "source": "https://www.techradar.com/phones/iphone/tim-cook-was-the-best-apple-ceo-for-his-time-john-ternus-tenure-will-be-defined-by-ai",
+      "publishedAt": "2026-08-31T16:07:04.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/nCagXHBsmvxDsv7W7pTFjJ-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacki",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "publishedAt": "2026-08-30T15:35:10.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "publishedAt": "2026-08-31T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
     }
   ]
 }
