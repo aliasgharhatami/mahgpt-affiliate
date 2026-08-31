@@ -1,24 +1,41 @@
 name: Refresh MahGPT news
 on:
   workflow_dispatch:
+    inputs:
+      force:
+        description: Rebuild today's news feed and social queue
+        required: false
+        default: false
+        type: boolean
   schedule:
-    - cron: "17 5 * * *"
+    - cron: "7,27,47 * * * *"
+
 permissions:
   contents: write
+
 concurrency:
   group: mahgpt-news-refresh
   cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - id: queue
+        name: Check whether today's queue is ready
+        env:
+          SOCIAL_QUEUE_FORCE_REFRESH: ${{ inputs.force || 'false' }}
+        run: node scripts/social-queue-readiness.mjs
       - uses: actions/setup-node@v4
+        if: steps.queue.outputs.refresh == 'true'
         with:
           node-version: 20
       - name: Fetch and filter partner news
+        if: steps.queue.outputs.refresh == 'true'
         run: node scripts/update-news.mjs
       - name: Commit refreshed feed
+        if: steps.queue.outputs.refresh == 'true'
         run: |
           git config user.name "MahGPT News Bot"
           git config user.email "actions@users.noreply.github.com"
@@ -26,10 +43,13 @@ jobs:
           git diff --cached --quiet || git commit -m "Refresh MahGPT partner news"
           git push
       - name: Install Node dependencies
+        if: steps.queue.outputs.refresh == 'true'
         run: npm install --no-audit --no-fund
       - name: Build daily social queue and fallback cards
+        if: steps.queue.outputs.refresh == 'true'
         run: node scripts/social-queue.mjs
       - name: Commit daily social queue and cards
+        if: steps.queue.outputs.refresh == 'true'
         run: |
           git config user.name "MahGPT News Bot"
           git config user.email "actions@users.noreply.github.com"
