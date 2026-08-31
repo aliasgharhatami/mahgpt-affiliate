@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T10:30:03.510Z",
+  "updatedAt": "2026-08-31T09:32:55.310Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Adobe just added a brand new AI-assisted editor to Photoshop",
-      "summary": "The software is leaning further into prompt-based editing.",
-      "guide": "/partners/adobe.html",
-      "source": "https://www.creativebloq.com/design/design-software/adobe-just-added-a-brand-new-ai-assisted-editor-to-photoshop",
-      "publishedAt": "2026-08-27T13:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gcxqpJupoHi2PGXgAHX4j-1440-80.jpg"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "The AI layoff narrative is missing the real story",
+      "summary": "Fintech blames AI for layoffs, but the real story is cost-cutting, weak returns, and unproven innovation.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/the-ai-layoff-narrative-is-missing-the-real-story",
+      "publishedAt": "2026-08-31T09:12:19.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "If Apple and Spotify are cracking down on AI slop, why can't YouTube? I think I know the answer",
-      "summary": "It's all about the business model.",
+      "title": "‘The most eye-watering thing I’ve seen since the solar eclipse’ — experiencing the MSI Claw 8 EX AI+’s staggering performance honestly blew my mind but I’m afraid I can’t get over that absurd price tag",
+      "summary": "The new MSI Claw and its Intel Arc G3 Extreme chipset unlocks gloriously smooth gameplay on the go. But that price means it's likely out of reach for most of us.",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/ai/if-apple-and-spotify-are-cracking-down-on-ai-slop-why-cant-youtube-i-think-i-know-the-answer",
-      "publishedAt": "2026-08-30T10:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/kLotpGooqDCMWf8JaWAHWV-1698-80.jpg"
+      "source": "https://www.techradar.com/computing/gaming-computers/msi-claw-8-ex-ai",
+      "publishedAt": "2026-08-31T08:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/fwt7WthhcshBD58p2UBSxA-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Cancel ChatGPT and get 20+ AI models including Claude and GPT for life for $79",
-      "summary": "Macworld TL;DR: ChatPlayground gives you access to dozens of major AI models, and it’s only $79 for life. Paying for ChatGPT Plus, Gemini Advanced, and a separate coding assistant means three monthly bills for tools you switch between all day. ChatPlayground gives you the same AI tools (plus a lot m",
+      "title": "World’s second-biggest data center proposed in Scotland meets “huge” opposition — and it's part of a wider trend across the United Kingdom",
+      "summary": "Data centers are being opposed in every region of the UK, and it could cause some problems for the government's plans for AI",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3221599/cancel-chatgpt-and-get-20-ai-models-including-claude-and-gpt-for-life-for-79.html",
-      "publishedAt": "2026-08-30T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3221599-0-85760100-1788076854-ChatPlayground_ac22ae.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/worlds-second-biggest-data-center-proposed-in-scotland-meets-huge-opposition-and-its-part-of-a-wider-trend-across-the-united-kingdom",
+      "publishedAt": "2026-08-31T08:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/owbSSGyfRyGGobNhGmqk2Q-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "I threw every creative AI tool that I could think of at the Acer Nitro V 16 AI, and this is what happened",
-      "summary": "The Acer Nitro V 16 AI features the hardware required to excel in AI creativity, but the benchmarks suggest otherwise",
+      "title": "This $99.99 lifetime deal puts GPT-5.5 Pro and Claude 4.6 Sonnet in one app",
+      "summary": "Macworld TL;DR: A lifetime subscription to the 1min.AI Advanced Business Plan is on sale for $99.99 (MSRP $540), giving you chat, image, video, audio, and document AI tools in one app . Keeping up with AI tools usually means juggling separate subscriptions for chat, images, video, and audio, each wi",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/tech/laptops/i-threw-every-creative-ai-tool-that-i-could-think-of-at-the-acer-nitro-v-16-ai-and-this-is-what-happened",
-      "publishedAt": "2026-08-30T06:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/N34FNuKR7ASYWHmNcyJiPT-2560-80.jpg"
+      "source": "https://www.macworld.com/article/3222358/this-99-99-lifetime-deal-puts-gpt-5-5-pro-and-claude-4-6-sonnet-in-one-app.html",
+      "publishedAt": "2026-08-31T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3222358-0-36315700-1788163260-1minAI_51419e.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Quote of the day by tech pioneer Claude Shannon: 'I visualize a time when we will be to robots what dogs are to humans' — a warning about superintelligent AI",
-      "summary": "Many scientists have predicted AI will one day become more intelligent than humans",
+      "title": "Graphic designers are trying to fix people's terrible AI flyers",
+      "summary": "The trend is going viral on Instagram.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/quote-of-the-day-by-tech-pioneer-claude-shannon-i-visualize-a-time-when-we-will-be-to-robots-what-dogs-are-to-humans-a-warning-about-superintelligent-ai",
-      "publishedAt": "2026-08-29T22:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/uuKjnfsa7UerZN4hXJ7H8e-1024-80.jpg"
+      "source": "https://www.creativebloq.com/design/graphic-design/graphic-designers-are-trying-to-fix-peoples-terrible-ai-flyers",
+      "publishedAt": "2026-08-31T08:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3bqifq82zuYVwaT8H2uHzS-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "‘They find themselves obsessed, forgoing sleep and self-care’ — what ‘AI psychosis’ looks like, and why experts question the term",
-      "summary": "More and more people are experiencing delusional thinking fuelled by AI, but how should we talk about it?",
+      "title": "Teachers are getting more comfortable using AI – but it isn't helping lower their workload",
+      "summary": "Although most teachers use artificial intelligence, only one in three say they're able to work fewer hours amid intense workloads.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/they-find-themselves-obsessed-forgoing-sleep-and-self-care-what-ai-psychosis-looks-like-and-why-experts-question-the-term",
-      "publishedAt": "2026-08-29T18:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/vJGbWePXHGczj9neZTZcEa-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/teachers-are-getting-more-comfortable-using-ai-but-it-isnt-helping-lower-their-workload",
+      "publishedAt": "2026-08-31T06:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DroFFmiArXg2SARc9KPh44-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
-      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared dat",
+      "title": "Amazon is buying 2 million Nvidia GPUs for AWS data center expansion",
+      "summary": "AWS plans to deploy two million additional Nvidia GPUs by 2028, expanding AI infrastructure across cloud, government, analytics, and robotics workloads.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "publishedAt": "2026-08-29T17:36:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800"
+      "source": "https://www.techradar.com/pro/amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion",
+      "publishedAt": "2026-08-30T22:10:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacki",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "publishedAt": "2026-08-29T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "publishedAt": "2026-08-30T15:35:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The $3.4m Disney auction is a reminder of what AI concept art takes from us",
-      "summary": "Spider-Man: Brand New Day's AI art will never have the same value.",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/art/animation/the-usd3-4m-disney-auction-is-a-reminder-of-what-ai-concept-art-takes-from-us",
-      "publishedAt": "2026-08-29T12:08:13.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/QcAaimJpfPsZLum6vAjPV-1920-80.jpg"
+      "source": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "publishedAt": "2026-08-30T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AWS is shutting down Mechanical Turk, which let humans beat AI at certain work tasks",
-      "summary": "Amazon will close Mechanical Turk on September 30, 2026, ending a 21-year platform that connected businesses with hundreds of thousands of workers.",
+      "title": "Top AI tools including Claude, Codex, and Hermes installed suspicious code inside corporate networks",
+      "summary": "There is a new class of \"squatting\" risks emerging right in front of us and it involves llms.txt and llms-full.txt documentation.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/aws-is-shutting-down-mechanical-turk-which-let-humans-beat-ai-at-certain-work-tasks",
-      "publishedAt": "2026-08-29T12:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/jwfiVfSRJQF3ZsFfk78EaA-1520-80.png"
+      "source": "https://www.techradar.com/pro/security/top-ai-tools-including-claude-codex-and-hermes-installed-suspicious-code-inside-corporate-networks",
+      "publishedAt": "2026-08-30T12:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg"
     }
   ]
 }
