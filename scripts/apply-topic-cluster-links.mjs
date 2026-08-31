@@ -9,6 +9,7 @@ const localize=(url,locale)=>{
  if(url==="/news/") return "/"+locale+"/news/";
  return "/"+locale+url;
 };
+const exists=(url,locale)=>{const u=localize(url,locale).replace(/^\\//,""); return fs.existsSync(path.join(root,u)) || fs.existsSync(path.join(root,u+".html")) || fs.existsSync(path.join(root,u,"index.html"));};
 const files=[];
 const walk=d=>{for(const e of fs.readdirSync(d,{withFileTypes:true})){if([".git","node_modules","assets"].includes(e.name))continue;const f=path.join(d,e.name);if(e.isDirectory())walk(f);else if(e.name.endsWith(".html"))files.push("/"+path.relative(root,f).replaceAll(path.sep,"/"));}};
 walk(root);
@@ -22,7 +23,7 @@ for(const locale of locales){
    if(!fs.existsSync(disk))continue;
    let html=fs.readFileSync(disk,"utf8");
    if(html.includes('data-topic-cluster="'+cluster.id+'"'))continue;
-   const related=members.filter(v=>v!==base).slice(0,cfg.policy.maxLinksPerPage);
+   const related=members.filter(v=>v!==base&&exists(v,locale)).slice(0,cfg.policy.maxLinksPerPage);
    if(!related.length)continue;
    const nav='<nav class="topic-links" data-topic-cluster="'+cluster.id+'" aria-label="Related MahGPT pages"><strong>Related:</strong> '+related.map(v=>'<a href="'+localize(v,locale)+'">'+label(v)+'</a>').join(" · ")+"</nav>";
    const marker=/<\/main>/i;
