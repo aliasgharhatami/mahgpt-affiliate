@@ -31,19 +31,19 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: .cache/indexnow-state.json
-          key: \${{ github.repository }}-\${{ hashFiles('sitemap.xml', 'sitemaps/*.xml') }}
+          key: ${{ github.repository }}-${{ hashFiles('sitemap.xml', 'sitemaps/*.xml') }}
           restore-keys: |
-            indexnow-state-\${{ github.repository }}-
+            indexnow-state-${{ github.repository }}-
       - name: Notify IndexNow (non-blocking)
         continue-on-error: true
         env:
-          INDEXNOW_KEY: \${{ secrets.INDEXNOW_KEY }}
-          INDEXNOW_DRY_RUN: \${{ vars.INDEXNOW_DRY_RUN || 'true' }}
-          INDEXNOW_KEY_LOCATION: \${{ vars.INDEXNOW_KEY_LOCATION || 'https://mahgpt.com/indexnow-key.txt' }}
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+          INDEXNOW_DRY_RUN: ${{ vars.INDEXNOW_DRY_RUN || 'true' }}
+          INDEXNOW_KEY_LOCATION: ${{ vars.INDEXNOW_KEY_LOCATION || 'https://mahgpt.com/indexnow-key.txt' }}
         run: node scripts/indexnow-notify.mjs
       - name: Save notification state
         if: always() && github.event_name == 'workflow_run'
         uses: actions/cache/save@v4
         with:
           path: .cache/indexnow-state.json
-          key: indexnow-state-\${{ github.repository }}-\${{ hashFiles('sitemap.xml', 'sitemaps/*.xml') }}
+          key: indexnow-state-${{ github.repository }}-${{ hashFiles('sitemap.xml', 'sitemaps/*.xml') }}
