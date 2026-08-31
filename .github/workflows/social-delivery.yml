@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "11,31,51 * * * *"
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Refresh MahGPT news"]
+    types: [completed]
   pull_request:
     paths:
       - ".github/workflows/social-delivery.yml"
@@ -35,7 +38,7 @@ jobs:
           node scripts/social-queue-readiness.mjs
 
   deliver:
-    if: github.event_name != 'pull_request'
+    if: github.event_name != 'pull_request' && (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
