@@ -884,6 +884,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/the-three-forces-reshaping-the-future-of-enterprise-saas": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-31T14:17:42.168Z",
+        "message_id": 288,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
