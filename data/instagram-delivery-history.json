@@ -172,6 +172,20 @@
         "message_id": "17892357825417082",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/the-ai-layoff-narrative-is-missing-the-real-story": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-08-31T09:33:59.423Z",
+        "message_id": "18127152247730484",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-08-31T09:34:08.066Z",
+        "message_id": "18263298640306868",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }

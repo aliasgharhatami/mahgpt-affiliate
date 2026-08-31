@@ -867,6 +867,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/the-ai-layoff-narrative-is-missing-the-real-story": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-31T09:33:41.612Z",
+        "message_id": 287,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
