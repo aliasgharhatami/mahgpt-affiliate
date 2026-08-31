@@ -1,6 +1,16 @@
 name: MahGPT Daily SEO Maintenance
 on:
   workflow_dispatch:
+  pull_request:
+    paths:
+      - '**.html'
+      - 'scripts/seo-audit.mjs'
+      - 'scripts/seo-content-audit.mjs'
+      - 'scripts/validate-hreflang-sitemaps.mjs'
+      - 'sitemap.xml'
+      - 'sitemaps/**'
+      - 'robots.txt'
+      - '.github/workflows/daily-seo-maintenance.yml'
   schedule:
     - cron: "30 6 * * *"
 permissions:
