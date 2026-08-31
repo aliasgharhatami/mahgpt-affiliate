@@ -39,7 +39,7 @@ jobs:
         env:
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
           INDEXNOW_DRY_RUN: ${{ github.event_name == 'pull_request' && 'true' || vars.INDEXNOW_DRY_RUN || 'true' }}
-          INDEXNOW_KEY_LOCATION: ${{ vars.INDEXNOW_KEY_LOCATION || 'https://mahgpt.com/indexnow-key.txt' }}
+          INDEXNOW_KEY_LOCATION: ${{ vars.INDEXNOW_KEY_LOCATION }}
         run: node scripts/indexnow-notify.mjs
       - name: Save notification state
         if: always() && github.event_name == 'workflow_run'
