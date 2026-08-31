@@ -918,6 +918,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/computing/gaming-computers/msi-claw-8-ex-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-08-31T20:59:57.613Z",
+        "message_id": 290,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
