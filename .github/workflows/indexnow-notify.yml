@@ -1,6 +1,11 @@
 name: MahGPT IndexNow notification
 on:
   workflow_dispatch:
+  pull_request:
+    paths:
+      - 'scripts/indexnow-notify.mjs'
+      - 'tests/indexnow-notify.test.mjs'
+      - '.github/workflows/indexnow-notify.yml'
   workflow_run:
     workflows: ["Generate zero-cost multilingual pages"]
     types: [completed]
@@ -11,12 +16,12 @@ concurrency:
   cancel-in-progress: true
 jobs:
   notify:
-    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    if: github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main
+          ref: ${{ github.sha }}
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -37,7 +42,7 @@ jobs:
           INDEXNOW_KEY_LOCATION: \${{ vars.INDEXNOW_KEY_LOCATION || 'https://mahgpt.com/indexnow-key.txt' }}
         run: node scripts/indexnow-notify.mjs
       - name: Save notification state
-        if: always()
+        if: always() && github.event_name == 'workflow_run'
         uses: actions/cache/save@v4
         with:
           path: .cache/indexnow-state.json
