@@ -16,14 +16,15 @@ on:
         required: false
         default: false
         type: boolean
+  # Watchdog checks readiness frequently; the script defers stale refreshes until 08:17 Istanbul.
   schedule:
-    - cron: "17 5 * * *"
+    - cron: "*/15 * * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: mahgpt-news-refresh
+  group: mahgpt-content-automation
   cancel-in-progress: false
 
 jobs:
