@@ -986,6 +986,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3177024/apple-watch-series-12-2026-design-features-specs-release-date.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-01T21:49:08.386Z",
+        "message_id": 294,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

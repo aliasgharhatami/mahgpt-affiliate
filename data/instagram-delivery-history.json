@@ -242,6 +242,20 @@
         "message_id": "17985316734070370",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3177024/apple-watch-series-12-2026-design-features-specs-release-date.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-01T21:49:21.308Z",
+        "message_id": "17943595068291853",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-01T21:49:31.393Z",
+        "message_id": "17913081840264024",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
