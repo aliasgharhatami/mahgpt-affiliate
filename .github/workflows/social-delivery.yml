@@ -11,6 +11,10 @@ on:
       - ".github/workflows/social-delivery.yml"
       - "scripts/social-publisher.mjs"
       - "scripts/instagram-publisher.mjs"
+      - "scripts/social-card.mjs"
+      - "tests/instagram-publisher.test.mjs"
+      - "tests/social-queue.test.mjs"
+      - "tests/social-quality.test.mjs"
       - "scripts/social-queue-readiness.mjs"
       - "scripts/validate-social-cadence.mjs"
       - "scripts/validate-affiliate-links.mjs"
@@ -34,14 +38,18 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Install Node dependencies
+        run: npm install --no-audit --no-fund
       - name: Validate social automation syntax
         run: |
           node --check scripts/social-publisher.mjs
           node --check scripts/instagram-publisher.mjs
+          node --check scripts/social-card.mjs
           node --check scripts/social-queue-readiness.mjs
           node scripts/social-queue-readiness.mjs
           node scripts/validate-social-cadence.mjs
           node scripts/validate-affiliate-links.mjs
+          node --test tests/instagram-publisher.test.mjs tests/social-queue.test.mjs tests/social-quality.test.mjs
 
   deliver:
     if: github.event_name != 'pull_request'
