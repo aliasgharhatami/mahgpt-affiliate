@@ -1,6 +1,6 @@
 # MahGPT Operations Reference
 
-Last updated: 2026-08-31
+Last updated: 2026-09-01
 
 This document is the human-readable source of truth for the current MahGPT automation, SEO, multilingual pages, social publishing, and affiliate-link safety rules. Read this before changing workflows, SEO scripts, social publishers, locale generation, or affiliate redirects.
 
@@ -33,12 +33,13 @@ Current intended cadence, in Europe/Istanbul time:
 
 UTC cron source of truth:
 
-- `.github/workflows/update-news.yml`: `17 5 * * *`
-- `.github/workflows/social-delivery.yml`: `20 5,7,9,11,13,15,17,19,21,23 * * *`
+- `.github/workflows/update-news.yml`: `*/15 * * * *` watchdog; readiness defers stale refresh until 08:17 Europe/Istanbul
+- `.github/workflows/social-delivery.yml`: `*/15 * * * *` watchdog; publishers still enforce the two-hour queue slots
 
 Important behavior:
 
 - `social-delivery.yml` is the only scheduled production publisher for Telegram + Instagram.
+- `social-delivery.yml` and `update-news.yml` share `mahgpt-content-automation` concurrency in production to prevent state commit races.
 - `.github/workflows/publish-social-queue.yml` is manual-only and should not have a `schedule` trigger.
 - `.github/workflows/test-instagram-publisher.yml` is manual-only and should not have a `schedule` trigger.
 - `social-delivery.yml` must not have a `workflow_run` trigger from `Refresh MahGPT news`.
@@ -225,6 +226,8 @@ GitHub Actions that should pass for related PRs:
 
 - PR #36: restored exact social cadence, removed off-cadence triggers, made fallback publishers manual-only, protected key affiliate links.
 - PR #37: fixed overnight 00:20 and 02:20 Europe/Istanbul delivery slots.
+- PR #39: replaced exact-minute social scheduling with a 15-minute watchdog.
+- Current hardening: refresh and delivery watchdogs defer to the protected queue/cadence guards and share production concurrency.
 
 ## Maintenance Rule For Future Work
 

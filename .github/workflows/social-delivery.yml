@@ -22,7 +22,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: mahgpt-social-delivery-${{ github.event_name == 'pull_request' && github.workflow || 'production' }}
+  group: ${{ github.event_name == 'pull_request' && github.workflow || 'mahgpt-content-automation' }}
   cancel-in-progress: false
 
 jobs:
