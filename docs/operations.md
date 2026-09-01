@@ -33,8 +33,8 @@ Current intended cadence, in Europe/Istanbul time:
 
 UTC cron source of truth:
 
-- `.github/workflows/update-news.yml`: `*/15 * * * *` watchdog; readiness defers stale refresh until 08:17 Europe/Istanbul
-- `.github/workflows/social-delivery.yml`: `*/15 * * * *` watchdog; publishers still enforce the two-hour queue slots
+- `.github/workflows/update-news.yml`: `7,22,37,52 * * * *` offset watchdog; readiness defers stale refresh until 08:17 Europe/Istanbul
+- `.github/workflows/social-delivery.yml`: `7,22,37,52 * * * *` offset watchdog; publishers still enforce the two-hour queue slots
 
 Important behavior:
 

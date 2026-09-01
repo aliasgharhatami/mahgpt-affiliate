@@ -25,15 +25,15 @@ const [
   read("scripts/instagram-publisher.mjs")
 ]);
 
-const deliveryCron = "*/15 * * * *";
-expect(hasCron(socialDelivery, deliveryCron), "social-delivery.yml must use the reliable 15-minute watchdog cron.");
+const deliveryCron = "7,22,37,52 * * * *";
+expect(hasCron(socialDelivery, deliveryCron), "social-delivery.yml must use the reliable offset 15-minute watchdog cron.");
 expect((socialDelivery.match(/- cron:/g) || []).length === 1, "social-delivery.yml must define exactly one production schedule.");
 expect(!socialDelivery.includes("20 5,7,9,11,13,15,17,19,21,23 * * *"), "social-delivery.yml must not rely only on exact two-hour cron slots.");
 expect(!socialDelivery.includes("workflow_run:"), "social-delivery.yml must not publish off-cadence after news refresh.");
 expect(!socialDelivery.includes("11,31,51 * * * *"), "social-delivery.yml must not use the old temporary polling cron.");
 expect(!hasSchedule(telegramFallback), "publish-social-queue.yml must stay manual-only so it cannot duplicate the unified delivery workflow.");
 expect(!hasSchedule(instagramFallback), "test-instagram-publisher.yml must stay manual-only so it cannot duplicate the unified delivery workflow.");
-expect(hasCron(updateNews, "*/15 * * * *"), "update-news.yml must use the reliable watchdog cron.");
+expect(hasCron(updateNews, deliveryCron), "update-news.yml must use the reliable offset watchdog cron.");
 expect(!updateNews.includes("17 5 * * *"), "update-news.yml must not rely only on an exact refresh minute.");
 expect((await read("scripts/social-queue-readiness.mjs")).includes("localMinutes() >= (8 * 60 + 17)"), "refresh readiness must defer stale queues until 08:17 Europe/Istanbul.");
 expect(!updateNews.includes("7,27,47 * * * *"), "update-news.yml must not use the old three-times-per-hour poll.");

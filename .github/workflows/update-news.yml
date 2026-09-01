@@ -16,9 +16,10 @@ on:
         required: false
         default: false
         type: boolean
-  # Watchdog checks readiness frequently; the script defers stale refreshes until 08:17 Istanbul.
+  # Run off the hour boundary to reduce GitHub Actions scheduler contention.
+  # Readiness still defers stale refreshes until 08:17 Istanbul.
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "7,22,37,52 * * * *"
 
 permissions:
   contents: write
