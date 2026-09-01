@@ -952,6 +952,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-01T13:16:49.319Z",
+        "delivery": "photo",
+        "reconciled_from_run": 33512400186
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
