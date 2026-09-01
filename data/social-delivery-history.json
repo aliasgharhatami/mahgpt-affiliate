@@ -1003,6 +1003,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/phones/iphone/tim-cook-was-the-best-apple-ceo-for-his-time-john-ternus-tenure-will-be-defined-by-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-01T23:32:27.971Z",
+        "message_id": 295,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

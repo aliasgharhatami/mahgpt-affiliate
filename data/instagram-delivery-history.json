@@ -256,6 +256,20 @@
         "message_id": "17913081840264024",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/phones/iphone/tim-cook-was-the-best-apple-ceo-for-his-time-john-ternus-tenure-will-be-defined-by-ai": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-01T23:32:50.738Z",
+        "message_id": "18127599298857908",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-01T23:33:08.054Z",
+        "message_id": "18112284263517111",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
