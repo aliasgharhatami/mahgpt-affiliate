@@ -38,6 +38,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Install Node dependencies
+        run: npm install --no-audit --no-fund
       - name: Validate social automation syntax
         run: |
           node --check scripts/social-publisher.mjs
