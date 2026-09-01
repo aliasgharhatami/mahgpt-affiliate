@@ -16,16 +16,14 @@ on:
         required: false
         default: false
         type: boolean
-  # Run off the hour boundary to reduce GitHub Actions scheduler contention.
-  # Readiness still defers stale refreshes until 08:17 Istanbul.
   schedule:
-    - cron: "7,22,37,52 * * * *"
+    - cron: "17 5 * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: mahgpt-content-automation
+  group: mahgpt-news-refresh
   cancel-in-progress: false
 
 jobs:
