@@ -4,7 +4,7 @@ on:
   # Run off the hour boundary to reduce GitHub Actions scheduler contention.
   # Publisher guards still enforce the protected two-hour queue slots.
   schedule:
-    - cron: "7,22,37,52 * * * *"
+    - cron: "20 5,7,9,11,13,15,17,19,21,23 * * *"
   workflow_dispatch:
   pull_request:
     paths:
@@ -59,14 +59,16 @@ jobs:
           TELEGRAM_CHANNEL: "@mahgptplus"
         run: node scripts/social-publisher.mjs queue-next
       - name: Publish at most one eligible Instagram item
+        continue-on-error: true
         env:
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
           INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
         run: node scripts/instagram-publisher.mjs
       - name: Commit delivery state
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/social-queue.json data/social-delivery-history.json data/instagram-delivery-history.json
+          git add data/social-queue.json data/social-delivery-history.json data/instagram-delivery-history.json assets/social-cards
           git diff --cached --quiet || git commit -m "chore: record scheduled social delivery"
           git push
