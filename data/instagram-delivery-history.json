@@ -214,6 +214,20 @@
         "message_id": "17942045952338958",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-01T07:43:30.387Z",
+        "message_id": "17904645732488610",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-01T07:43:36.466Z",
+        "message_id": "18080426114329050",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
