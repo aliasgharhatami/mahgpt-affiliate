@@ -969,6 +969,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/3d/is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-closer-to-artists-original-vision": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-01T18:34:35.662Z",
+        "message_id": 293,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

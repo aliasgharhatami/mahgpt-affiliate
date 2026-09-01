@@ -228,6 +228,20 @@
         "message_id": "18080426114329050",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/3d/is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-closer-to-artists-original-vision": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-01T18:34:45.688Z",
+        "message_id": "18067445996755337",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-01T18:35:03.805Z",
+        "message_id": "17985316734070370",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
