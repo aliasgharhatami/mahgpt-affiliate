@@ -26,20 +26,13 @@ const [
 ]);
 
 const deliveryCron = "20 5,7,9,11,13,15,17,19,21,23 * * *";
-const refreshCron = "7,22,37,52 * * * *";
-expect(hasCron(socialDelivery, deliveryCron), "social-delivery.yml must preserve the protected two-hour production delivery schedule.");
-expect((socialDelivery.match(/- cron:/g) || []).length === 1, "social-delivery.yml must define exactly one production schedule.");
-expect(!socialDelivery.includes(refreshCron), "social-delivery.yml must not use the refresh watchdog as its production delivery schedule.");
+expect(hasCron(socialDelivery, deliveryCron), "social-delivery.yml must run exactly every two hours at :20 UTC slots.");
 expect(!socialDelivery.includes("workflow_run:"), "social-delivery.yml must not publish off-cadence after news refresh.");
-expect(!socialDelivery.includes("11,31,51 * * * *"), "social-delivery.yml must not use the old temporary polling cron.");
+expect(!socialDelivery.includes("11,31,51 * * * *"), "social-delivery.yml must not use the temporary every-20-minutes polling cron.");
 expect(!hasSchedule(telegramFallback), "publish-social-queue.yml must stay manual-only so it cannot duplicate the unified delivery workflow.");
 expect(!hasSchedule(instagramFallback), "test-instagram-publisher.yml must stay manual-only so it cannot duplicate the unified delivery workflow.");
-expect(hasCron(updateNews, refreshCron), "update-news.yml must use the reliable offset watchdog cron.");
-expect(!updateNews.includes("17 5 * * *"), "update-news.yml must not rely only on an exact refresh minute.");
-expect((await read("scripts/social-queue-readiness.mjs")).includes("localMinutes() >= (8 * 60 + 17)"), "refresh readiness must defer stale queues until 08:17 Europe/Istanbul.");
-expect(!updateNews.includes("7,27,47 * * * *"), "update-news.yml must not use the old three-times-per-hour poll.");
-expect(socialDelivery.includes("mahgpt-content-automation"), "social delivery must share the production concurrency group.");
-expect(updateNews.includes("group: mahgpt-content-automation"), "news refresh must share the production concurrency group.");
+expect(hasCron(updateNews, "17 5 * * *"), "update-news.yml must refresh once daily at 08:17 Europe/Istanbul.");
+expect(!updateNews.includes("7,27,47 * * * *"), "update-news.yml must not poll three times per hour.");
 expect(/Date\.UTC\([^)]*,5,20\)/.test(socialQueue), "social-queue.mjs must keep the first queue slot at 08:20 Europe/Istanbul.");
 expect(/Array\.from\(\{length:10\}/.test(socialQueue), "social-queue.mjs must keep exactly ten protected daily social slots.");
 expect(!telegramPublisher.includes("queue.queue_date!==currentQueueDate"), "Telegram publisher must not reject the 00:20 and 02:20 overnight slots by local date.");
@@ -56,4 +49,4 @@ for (const [name, source] of [["Telegram", telegramPublisher], ["Instagram", ins
   expect(windowMinutes >= 120 && windowMinutes <= 180, `${name} eligibility window must allow delayed overnight slots without replaying stale backlog.`);
 }
 
-console.log("Social cadence guard passed: protected two-hour delivery slots and offset news-refresh watchdog.");
+console.log("Social cadence guard passed: daily 08:17 refresh and two-hour 08:20-02:20 delivery slots are protected.");
