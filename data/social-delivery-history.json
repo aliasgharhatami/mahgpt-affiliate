@@ -1037,6 +1037,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/it-allows-workers-to-experiment-with-the-same-logic-their-employers-have-been-applying-to-them-developers-reportedly-lost-their-jobs-to-an-ai-transformation-so-they-built-an-ai-that-can-replace-the-ceo": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-02T08:27:31.492Z",
+        "message_id": 297,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

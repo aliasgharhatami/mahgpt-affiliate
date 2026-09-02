@@ -284,6 +284,20 @@
         "message_id": "18200446342375614",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/it-allows-workers-to-experiment-with-the-same-logic-their-employers-have-been-applying-to-them-developers-reportedly-lost-their-jobs-to-an-ai-transformation-so-they-built-an-ai-that-can-replace-the-ceo": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-02T08:27:42.957Z",
+        "message_id": "17954659539228464",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-02T08:27:52.798Z",
+        "message_id": "18350903401171635",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
