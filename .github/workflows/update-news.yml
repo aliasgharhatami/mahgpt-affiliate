@@ -18,6 +18,9 @@ on:
         type: boolean
   schedule:
     - cron: "17 5 * * *"
+    # Backup ticks: readiness exits without work once today's queue exists.
+    - cron: "37 5 * * *"
+    - cron: "57 5 * * *"
 
 permissions:
   contents: write
