@@ -1105,6 +1105,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-02T21:21:49.909Z",
+        "message_id": 301,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
