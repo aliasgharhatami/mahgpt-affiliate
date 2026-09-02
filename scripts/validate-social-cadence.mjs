@@ -27,7 +27,9 @@ const [
 
 const deliveryCron = "20 5,7,9,11,13,15,17,19,21,23 * * *";
 expect(hasCron(socialDelivery, deliveryCron), "social-delivery.yml must run exactly every two hours at :20 UTC slots.");
-expect(!socialDelivery.includes("workflow_run:"), "social-delivery.yml must not publish off-cadence after news refresh.");
+expect(socialDelivery.includes("workflow_run:"), "social-delivery.yml must hand off after a successful daily news refresh.");
+expect(/workflows:\s*\["Refresh MahGPT news"\]/.test(socialDelivery), "social-delivery.yml workflow handoff must only listen to Refresh MahGPT news.");
+expect(/types:\s*\[completed\]/.test(socialDelivery), "social-delivery.yml workflow handoff must listen for completed runs.");
 expect(!socialDelivery.includes("11,31,51 * * * *"), "social-delivery.yml must not use the temporary every-20-minutes polling cron.");
 expect(!hasSchedule(telegramFallback), "publish-social-queue.yml must stay manual-only so it cannot duplicate the unified delivery workflow.");
 expect(!hasSchedule(instagramFallback), "test-instagram-publisher.yml must stay manual-only so it cannot duplicate the unified delivery workflow.");
