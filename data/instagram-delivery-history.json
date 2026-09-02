@@ -354,6 +354,20 @@
         "message_id": "18084768362442810",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/the-disguise-becomes-part-of-the-answer-key-researchers-find-that-ai-is-redefining-what-human-writing-means-by-self-correcting-itself": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-02T23:21:59.378Z",
+        "message_id": "18112795436014285",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-02T23:22:07.833Z",
+        "message_id": "17973648924069691",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
