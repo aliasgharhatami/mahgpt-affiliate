@@ -5,6 +5,8 @@ on:
     - cron: "20 5,7,9,11,13,15,17,19,21,23 * * *"
     # Backup tick: publisher cooldown/eligibility guards make this a no-op when the primary ran.
     - cron: "40 5,7,9,11,13,15,17,19,21,23 * * *"
+    # Watchdog: GitHub may delay or drop a scheduled event; publisher guards still enforce one item per two-hour slot.
+    - cron: "*/15 * * * *"
   workflow_dispatch:
   workflow_run:
     workflows: ["Refresh MahGPT news"]

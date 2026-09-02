@@ -26,11 +26,13 @@ const [
 ]);
 
 const deliveryCron = "20 5,7,9,11,13,15,17,19,21,23 * * *";
-expect(hasCron(socialDelivery, deliveryCron), "social-delivery.yml must run exactly every two hours at :20 UTC slots.");
+const watchdogCron = "*/15 * * * *";
+expect(hasCron(socialDelivery, deliveryCron), "social-delivery.yml must keep the two-hour :20 UTC delivery slots.");
+expect(hasCron(socialDelivery, watchdogCron), "social-delivery.yml must include the guarded 15-minute watchdog.");
 expect(socialDelivery.includes("workflow_run:"), "social-delivery.yml must hand off after a successful daily news refresh.");
 expect(/workflows:\s*\["Refresh MahGPT news"\]/.test(socialDelivery), "social-delivery.yml workflow handoff must only listen to Refresh MahGPT news.");
 expect(/types:\s*\[completed\]/.test(socialDelivery), "social-delivery.yml workflow handoff must listen for completed runs.");
-expect(!socialDelivery.includes("11,31,51 * * * *"), "social-delivery.yml must not use the temporary every-20-minutes polling cron.");
+expect(!socialDelivery.includes("11,31,51 * * * *"), "social-delivery.yml must not use the obsolete polling cron.");
 expect(!hasSchedule(telegramFallback), "publish-social-queue.yml must stay manual-only so it cannot duplicate the unified delivery workflow.");
 expect(!hasSchedule(instagramFallback), "test-instagram-publisher.yml must stay manual-only so it cannot duplicate the unified delivery workflow.");
 expect(hasCron(updateNews, "17 5 * * *"), "update-news.yml must refresh once daily at 08:17 Europe/Istanbul.");
@@ -51,4 +53,4 @@ for (const [name, source] of [["Telegram", telegramPublisher], ["Instagram", ins
   expect(windowMinutes >= 120 && windowMinutes <= 180, `${name} eligibility window must allow delayed overnight slots without replaying stale backlog.`);
 }
 
-console.log("Social cadence guard passed: daily 08:17 refresh and two-hour 08:20-02:20 delivery slots are protected.");
+console.log("Social cadence guard passed: daily refresh, two-hour delivery slots, and the guarded 15-minute watchdog are protected.");
