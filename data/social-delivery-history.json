@@ -1088,6 +1088,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-02T18:44:08.595Z",
+        "message_id": 300,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

@@ -326,6 +326,20 @@
         "message_id": "18127406032704207",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-02T18:44:20.565Z",
+        "message_id": "18128411404664736",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-02T18:44:30.643Z",
+        "message_id": "17874021372566790",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
