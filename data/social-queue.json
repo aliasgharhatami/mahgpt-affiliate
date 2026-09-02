@@ -234,14 +234,19 @@
       "affiliate_status": null,
       "scheduled_publish_at": "2026-09-02T13:20:00.000Z",
       "telegram": {
-        "status": "pending",
-        "published_at": null
+        "status": "published",
+        "published_at": "2026-09-02T15:07:58.710Z",
+        "message_id": 299,
+        "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "pending"
+        "status": "published",
+        "published_at": "2026-09-02T15:08:10.968Z",
+        "message_id": "17891274312426650",
+        "media_kind": "source"
       },
       "x": {
         "status": "pending"
@@ -255,6 +260,12 @@
         "repairs": [
           "image-rejected"
         ]
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-02T15:08:21.212Z",
+        "message_id": "18127406032704207",
+        "media_kind": "story-fallback"
       }
     },
     {

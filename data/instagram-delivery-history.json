@@ -312,6 +312,20 @@
         "message_id": "18124388326838932",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/nvidia-gb300-dgx-station-desktop-pc-goes-on-sale-for-almost-usd91-100-7x-costlier-than-a-256gb-ram-mac-studio-m5-ultra-but-with-748gb-ram": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-02T15:08:10.968Z",
+        "message_id": "17891274312426650",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-02T15:08:21.212Z",
+        "message_id": "18127406032704207",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
