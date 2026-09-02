@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T21:02:19.979Z",
+  "updatedAt": "2026-09-02T06:34:51.113Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "publishedAt": "2026-08-31T20:13:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024"
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
+      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "guide": "/partners/adobe.html",
+      "source": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "publishedAt": "2026-09-01T17:35:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'Let data reign'; Trump warns that those who don't let AI data centers proliferate will end up 'backwards and poor'",
-      "summary": "Us President Donald Trump is pushing consumers to embrace rapid data center development in their communities, but there may be good reasons they balk.",
+      "title": "'It allows workers to experiment with the same logic their employers have been applying to them' — developers reportedly lost their jobs to an ‘AI Transformation’, so they built an AI that can replace the CEO",
+      "summary": "OpenExecutive turns corporate enthusiasm for replacing workers with AI into a test of how replaceable executives might be",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/let-data-reign-trump-warns-that-those-who-dont-let-ai-data-centers-proliferate-will-end-up-backwards-and-poor",
-      "publishedAt": "2026-08-31T20:04:16.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/vV9tZyUzrznNHkCv2bd9Kb-1920-80.jpg"
+      "source": "https://www.techradar.com/ai-platforms-assistants/it-allows-workers-to-experiment-with-the-same-logic-their-employers-have-been-applying-to-them-developers-reportedly-lost-their-jobs-to-an-ai-transformation-so-they-built-an-ai-that-can-replace-the-ceo",
+      "publishedAt": "2026-09-02T01:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/p2dPCXWPqTd2nkWmhEQRVa-1600-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "title": "Anthropic reveals its view of how AI agents should interact with the physical world",
+      "summary": "Anthropic's Model Hardware Standard gives AI agents a common method for controlling laboratory equipment, robots, and other programmable physical machines.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "publishedAt": "2026-08-31T19:16:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200"
+      "source": "https://www.techradar.com/pro/anthropic-reveals-its-view-of-how-ai-agents-should-interact-with-the-physical-world",
+      "publishedAt": "2026-09-01T23:25:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a &#8216;Harvey for police officers&#8217;",
-      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      "title": "Google needs Hollywood more than the studios need AI",
+      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the ",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "publishedAt": "2026-08-31T18:35:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/BlueVoice_Founders.png?resize=1200,600"
+      "source": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "publishedAt": "2026-09-01T22:50:29.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&strip=all&crop=0%2C12.885618424569%2C100%2C74.228763150863&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Longtime exec Phil Schiller is downgrading his role at Apple again",
-      "summary": "Macworld Bloomberg’s Mark Gurman reported on Monday that Apple executive Phil Schiller is stepping down from his roles as leader of the App Store and manager of product events. The news comes on Tim Cook’s last day as Apple CEO . Schiller became an Apple Fellow in 2020 after initially stepping down ",
+      "title": "Nvidia GB300 DGX station desktop PC goes on sale for almost $91,100 — 7x costlier than a 256GB RAM Mac Studio M5 Ultra but with 748GB RAM",
+      "summary": "Supermicro's new $91,100 AI workstation offers 748GB of memory, dwarfing Apple's Mac Studio while targeting labs, not casual home users.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3223800/longtime-exec-phil-schiller-is-downgraing-his-role-at-apple-again.html",
-      "publishedAt": "2026-08-31T18:25:49.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3223800-0-78647100-1788205714-Phil-Schiller.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/nvidia-gb300-dgx-station-desktop-pc-goes-on-sale-for-almost-usd91-100-7x-costlier-than-a-256gb-ram-mac-studio-m5-ultra-but-with-748gb-ram",
+      "publishedAt": "2026-09-01T22:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/fA7AKnpbEzjkvbz59bxutP-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "iOS 27 beta 8 is out now as the general release date approaches",
-      "summary": "Macworld On the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026. The pattern goes like this: Apple releases developer-only betas for the firs",
+      "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
-      "publishedAt": "2026-08-31T17:42:07.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3172166-0-03658900-1788198189-ios_27_hero.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "publishedAt": "2026-09-01T22:08:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Is Nvidia’s DLSS 5 an AI slop machine or a game-changing technology that will take us closer to artists' original vision?",
-      "summary": "The controversy continues, but gamers might have been too quick to judge the controversial AI tech.",
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/3d/is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-closer-to-artists-original-vision",
-      "publishedAt": "2026-08-31T17:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/92hEKGMNWmVyPzUNFDqpaA-1920-80.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "publishedAt": "2026-09-01T22:01:36.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple Watch Series 12 (2026): Everything we know so far",
-      "summary": "Macworld If you’re thinking about buying an Apple Watch, you’ll want to know whether or not Apple is likely to launch a new model in the near future. After all, there are few things worse than spending hundreds of dollars on a tech device only to see it superseded by something better (and potentiall",
+      "title": "Meta's new AI transcription model can distinguish between multiple speakers and languages in real-time",
+      "summary": "The latest release from Meta Superintelligence Lab is a powerful transcription model.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3177024/apple-watch-series-12-2026-design-features-specs-release-date.html",
-      "publishedAt": "2026-08-31T16:15:24.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/08/3177024-0-13227200-1788192949-Apple-Watch-Series-11-review-hero1.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/",
+      "publishedAt": "2026-09-01T21:56:29.000Z",
+      "image": "https://www.engadget.com/img/gallery/metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-in-real-time/l-intro-1788299695.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Tim Cook was the best Apple CEO for his time — John Ternus' tenure will be defined by AI",
-      "summary": "Tim Cook took over as Apple CEO in the long shadow of his predecessor, Steve Jobs — and yet he became the best tech CEO in a generation, more than preparing the company for his successor, John Ternus.",
+      "title": "I think Sonos just fully solved home audio, mostly by doing exactly what we want — even with AI",
+      "summary": "Sonos unveiled a new platform and \"Fabric\" to weave together Sonos hardware (old and new) and software in a way that not only works, but could finally make home audio the experience of our dreams.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/phones/iphone/tim-cook-was-the-best-apple-ceo-for-his-time-john-ternus-tenure-will-be-defined-by-ai",
-      "publishedAt": "2026-08-31T16:07:04.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/nCagXHBsmvxDsv7W7pTFjJ-2000-80.jpg"
+      "source": "https://www.techradar.com/audio/speakers/i-think-sonos-just-fully-solved-home-audio-mostly-by-doing-exactly-what-we-want-even-with-ai",
+      "publishedAt": "2026-09-01T20:56:51.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mtyM4JHrEyfxSPcu6ehrGG-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "title": "'The disguise becomes part of the answer key': Researchers find that AI is redefining what human writing means by self-correcting itself",
+      "summary": "An analysis of 18,989 abstracts finds AI-associated vocabulary is rising sharply, complicating efforts to distinguish machine-influenced language from human writing.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "publishedAt": "2026-08-31T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
+      "source": "https://www.techradar.com/pro/the-disguise-becomes-part-of-the-answer-key-researchers-find-that-ai-is-redefining-what-human-writing-means-by-self-correcting-itself",
+      "publishedAt": "2026-09-01T20:15:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg"
     }
   ]
 }
