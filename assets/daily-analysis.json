@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T21:02:31.839Z",
-  "analysis_date": "2026-09-01",
+  "generated_at": "2026-09-02T06:35:00.188Z",
+  "analysis_date": "2026-09-02",
   "stories": [
     {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "source": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "mahgpt_url": "/news/story.html?id=the-pentagon-now-has-its-own-version-of-chatgpt-and-grok"
+      "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
+      "source": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "mahgpt_url": "/news/story.html?id=google-and-8217-s-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design"
     },
     {
-      "title": "'Let data reign'; Trump warns that those who don't let AI data centers proliferate will end up 'backwards and poor'",
-      "source": "https://www.techradar.com/ai-platforms-assistants/let-data-reign-trump-warns-that-those-who-dont-let-ai-data-centers-proliferate-will-end-up-backwards-and-poor",
-      "mahgpt_url": "/news/story.html?id=let-data-reign-trump-warns-that-those-who-dont-let-ai-data-centers-proliferate-will-end-up"
+      "title": "'It allows workers to experiment with the same logic their employers have been applying to them' — developers reportedly lost their jobs to an ‘AI Transformation’, so they built an AI that can replace the CEO",
+      "source": "https://www.techradar.com/ai-platforms-assistants/it-allows-workers-to-experiment-with-the-same-logic-their-employers-have-been-applying-to-them-developers-reportedly-lost-their-jobs-to-an-ai-transformation-so-they-built-an-ai-that-can-replace-the-ceo",
+      "mahgpt_url": "/news/story.html?id=it-allows-workers-to-experiment-with-the-same-logic-their-employers-have-been-applying-to-"
     },
     {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "source": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "mahgpt_url": "/news/story.html?id=instagram-puts-new-limits-on-undisclosed-ai-profiles"
+      "title": "Anthropic reveals its view of how AI agents should interact with the physical world",
+      "source": "https://www.techradar.com/pro/anthropic-reveals-its-view-of-how-ai-agents-should-interact-with-the-physical-world",
+      "mahgpt_url": "/news/story.html?id=anthropic-reveals-its-view-of-how-ai-agents-should-interact-with-the-physical-world"
     },
     {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a &#8216;Harvey for police officers&#8217;",
-      "source": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "mahgpt_url": "/news/story.html?id=harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-and-8216-harvey-for-police-officer"
+      "title": "Google needs Hollywood more than the studios need AI",
+      "source": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "mahgpt_url": "/news/story.html?id=google-needs-hollywood-more-than-the-studios-need-ai"
     },
     {
-      "title": "Longtime exec Phil Schiller is downgrading his role at Apple again",
-      "source": "https://www.macworld.com/article/3223800/longtime-exec-phil-schiller-is-downgraing-his-role-at-apple-again.html",
-      "mahgpt_url": "/news/story.html?id=longtime-exec-phil-schiller-is-downgrading-his-role-at-apple-again"
+      "title": "Nvidia GB300 DGX station desktop PC goes on sale for almost $91,100 — 7x costlier than a 256GB RAM Mac Studio M5 Ultra but with 748GB RAM",
+      "source": "https://www.techradar.com/pro/nvidia-gb300-dgx-station-desktop-pc-goes-on-sale-for-almost-usd91-100-7x-costlier-than-a-256gb-ram-mac-studio-m5-ultra-but-with-748gb-ram",
+      "mahgpt_url": "/news/story.html?id=nvidia-gb300-dgx-station-desktop-pc-goes-on-sale-for-almost-91-100-7x-costlier-than-a-256g"
     },
     {
-      "title": "iOS 27 beta 8 is out now as the general release date approaches",
-      "source": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
-      "mahgpt_url": "/news/story.html?id=ios-27-beta-8-is-out-now-as-the-general-release-date-approaches"
+      "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
+      "source": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "mahgpt_url": "/news/story.html?id=afterquery-reportedly-becomes-y-combinator-and-8217-s-fastest-ever-unicorn-now-valued-at-3"
     },
     {
-      "title": "Is Nvidia’s DLSS 5 an AI slop machine or a game-changing technology that will take us closer to artists' original vision?",
-      "source": "https://www.creativebloq.com/3d/is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-closer-to-artists-original-vision",
-      "mahgpt_url": "/news/story.html?id=is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-close"
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "mahgpt_url": "/news/story.html?id=anthropic-launches-claude-fable-5-1-and-says-it-and-8217-s-up-to-45-percent-cheaper-for-ag"
     },
     {
-      "title": "Apple Watch Series 12 (2026): Everything we know so far",
-      "source": "https://www.macworld.com/article/3177024/apple-watch-series-12-2026-design-features-specs-release-date.html",
-      "mahgpt_url": "/news/story.html?id=apple-watch-series-12-2026-everything-we-know-so-far"
+      "title": "Meta's new AI transcription model can distinguish between multiple speakers and languages in real-time",
+      "source": "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/",
+      "mahgpt_url": "/news/story.html?id=metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-i"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-01.html"
+      "path": "news/analysis/2026-09-02.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-01.html"
+      "path": "es/news/analysis/2026-09-02.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-01.html"
+      "path": "de/news/analysis/2026-09-02.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-01.html"
+      "path": "fr/news/analysis/2026-09-02.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-01.html"
+      "path": "pt-BR/news/analysis/2026-09-02.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-01.html"
+      "path": "ar/news/analysis/2026-09-02.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-01.html"
+      "path": "fa/news/analysis/2026-09-02.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-01.html"
+      "path": "tr/news/analysis/2026-09-02.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-01.html"
+      "path": "it/news/analysis/2026-09-02.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-01.html"
+      "path": "ja/news/analysis/2026-09-02.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-01.html"
+      "path": "ko/news/analysis/2026-09-02.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-01.html"
+      "path": "id/news/analysis/2026-09-02.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-01.html"
+      "path": "hi/news/analysis/2026-09-02.html"
     }
   ]
 }
