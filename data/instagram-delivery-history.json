@@ -340,6 +340,20 @@
         "message_id": "17874021372566790",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/audio/speakers/i-think-sonos-just-fully-solved-home-audio-mostly-by-doing-exactly-what-we-want-even-with-ai": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-02T21:58:22.563Z",
+        "message_id": "17913469854444360",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-02T21:58:30.911Z",
+        "message_id": "18084768362442810",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
