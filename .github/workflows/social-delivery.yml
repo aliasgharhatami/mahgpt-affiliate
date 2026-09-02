@@ -1,11 +1,9 @@
-name: Deliver scheduled MahGPT social items
+name: Deliver scheduled MahGPT Telegram items
 
 on:
   schedule:
     - cron: "20 5,7,9,11,13,15,17,19,21,23 * * *"
-    # Backup tick: publisher cooldown/eligibility guards make this a no-op when the primary ran.
     - cron: "40 5,7,9,11,13,15,17,19,21,23 * * *"
-    # Watchdog: GitHub may delay or drop a scheduled event; publisher guards still enforce one item per two-hour slot.
     - cron: "*/15 * * * *"
   workflow_dispatch:
   workflow_run:
@@ -15,19 +13,15 @@ on:
     paths:
       - ".github/workflows/social-delivery.yml"
       - "scripts/social-publisher.mjs"
-      - "scripts/instagram-publisher.mjs"
       - "scripts/social-queue-readiness.mjs"
       - "scripts/validate-social-cadence.mjs"
       - "scripts/validate-affiliate-links.mjs"
-      - ".github/workflows/publish-social-queue.yml"
-      - ".github/workflows/test-instagram-publisher.yml"
-      - ".github/workflows/update-news.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: mahgpt-social-delivery-${{ github.event_name == 'pull_request' && github.workflow || 'production' }}
+  group: mahgpt-telegram-delivery-${{ github.event_name == 'pull_request' && github.workflow || 'production' }}
   cancel-in-progress: false
 
 jobs:
@@ -39,11 +33,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Validate social automation syntax
+      - name: Validate Telegram automation syntax
         run: |
           node --check scripts/social-publisher.mjs
-          node --check scripts/instagram-publisher.mjs
-          node --check scripts/social-queue-readiness.mjs
           node scripts/social-queue-readiness.mjs
           node scripts/validate-social-cadence.mjs
           node scripts/validate-affiliate-links.mjs
@@ -58,22 +50,16 @@ jobs:
           node-version: 20
       - name: Install Node dependencies
         run: npm install --no-audit --no-fund
-      - name: Publish at most one eligible Telegram item
+      - name: Publish exactly one eligible Telegram item
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: "@mahgptplus"
         run: node scripts/social-publisher.mjs queue-next
-      - name: Publish at most one eligible Instagram item
-        continue-on-error: true
-        env:
-          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
-          INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
-        run: node scripts/instagram-publisher.mjs
-      - name: Commit delivery state
+      - name: Commit Telegram delivery state
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/social-queue.json data/social-delivery-history.json data/instagram-delivery-history.json assets/social-cards
-          git diff --cached --quiet || git commit -m "chore: record scheduled social delivery"
+          git add data/social-queue.json data/social-delivery-history.json assets/social-cards
+          git diff --cached --quiet || git commit -m "chore: record Telegram delivery"
           git push
