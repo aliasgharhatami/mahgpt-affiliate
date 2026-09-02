@@ -270,6 +270,20 @@
         "message_id": "18112284263517111",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-02T01:03:06.695Z",
+        "message_id": "18154097692507110",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-02T01:03:14.148Z",
+        "message_id": "18200446342375614",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }

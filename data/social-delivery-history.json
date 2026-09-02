@@ -1020,6 +1020,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-02T01:02:58.224Z",
+        "message_id": 296,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
