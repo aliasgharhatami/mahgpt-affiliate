@@ -1122,6 +1122,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/audio/speakers/i-think-sonos-just-fully-solved-home-audio-mostly-by-doing-exactly-what-we-want-even-with-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-02T23:30:38.298Z",
+        "message_id": 302,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
