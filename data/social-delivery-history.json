@@ -1054,6 +1054,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/anthropic-reveals-its-view-of-how-ai-agents-should-interact-with-the-physical-world": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-02T09:52:24.666Z",
+        "message_id": 298,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

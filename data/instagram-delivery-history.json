@@ -298,6 +298,20 @@
         "message_id": "18350903401171635",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/anthropic-reveals-its-view-of-how-ai-agents-should-interact-with-the-physical-world": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-02T09:52:35.477Z",
+        "message_id": "17984477355026638",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-02T09:52:44.740Z",
+        "message_id": "18124388326838932",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
