@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T06:34:51.113Z",
+  "updatedAt": "2026-09-03T08:11:28.787Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
-      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "title": "Feature-packed PDF Reader Pro is just $39.99 — for life",
+      "summary": "Macworld TL;DR: Edit, encrypt, and sign PDFs with ease with a lifetime subscription to PDF Reader Pro Premium License for Mac for $39.99, 50% off the retail price of $79.99. PDFs may be the preferred format for electronic document sharing but creating, editing, and working with PDFs is a hassle if y",
       "guide": "/partners/adobe.html",
-      "source": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "publishedAt": "2026-09-01T17:35:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675"
+      "source": "https://www.macworld.com/article/3224796/feature-packed-pdf-reader-pro-is-just-39-99-for-life.html",
+      "publishedAt": "2026-09-03T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3224796-0-15974700-1788422465-PDF-Reader.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'It allows workers to experiment with the same logic their employers have been applying to them' — developers reportedly lost their jobs to an ‘AI Transformation’, so they built an AI that can replace the CEO",
-      "summary": "OpenExecutive turns corporate enthusiasm for replacing workers with AI into a test of how replaceable executives might be",
+      "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
+      "summary": "Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can process your footage without it ever leaving your home. It's also announcing a handful of other smart home security products at the IFA tech show in B",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/it-allows-workers-to-experiment-with-the-same-logic-their-employers-have-been-applying-to-them-developers-reportedly-lost-their-jobs-to-an-ai-transformation-so-they-built-an-ai-that-can-replace-the-ceo",
-      "publishedAt": "2026-09-02T01:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/p2dPCXWPqTd2nkWmhEQRVa-1600-80.jpg"
+      "source": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+      "publishedAt": "2026-09-03T07:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anker-MindBase_Lifestyle-image.jpg?quality=90&strip=all&crop=9.4895161290323%2C0%2C81.020967741935%2C100&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Anthropic reveals its view of how AI agents should interact with the physical world",
-      "summary": "Anthropic's Model Hardware Standard gives AI agents a common method for controlling laboratory equipment, robots, and other programmable physical machines.",
+      "title": "Anker brings its AI chip to the Soundcore Space 2 Pro headphones",
+      "summary": "Anker has a bunch of new AI-infused headphones, earbuds and hearing aids on the way.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/anthropic-reveals-its-view-of-how-ai-agents-should-interact-with-the-physical-world",
-      "publishedAt": "2026-09-01T23:25:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg"
+      "source": "https://www.engadget.com/2248998/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/",
+      "publishedAt": "2026-09-03T07:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/l-intro-1788293545.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Google needs Hollywood more than the studios need AI",
-      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the ",
+      "title": "Anker's MindBase is a smart home hub, NAS and security guard",
+      "summary": "Anker's MindBase uses AI to run your smart home, and keep it safe.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "publishedAt": "2026-09-01T22:50:29.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&strip=all&crop=0%2C12.885618424569%2C100%2C74.228763150863&w=1200"
+      "source": "https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/",
+      "publishedAt": "2026-09-03T07:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/ankers-mindbase-is-a-smart-home-hub-nas-and-security-guard/l-intro-1788361945.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Nvidia GB300 DGX station desktop PC goes on sale for almost $91,100 — 7x costlier than a 256GB RAM Mac Studio M5 Ultra but with 748GB RAM",
-      "summary": "Supermicro's new $91,100 AI workstation offers 748GB of memory, dwarfing Apple's Mac Studio while targeting labs, not casual home users.",
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/nvidia-gb300-dgx-station-desktop-pc-goes-on-sale-for-almost-usd91-100-7x-costlier-than-a-256gb-ram-mac-studio-m5-ultra-but-with-748gb-ram",
-      "publishedAt": "2026-09-01T22:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/fA7AKnpbEzjkvbz59bxutP-1920-80.png"
+      "source": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "publishedAt": "2026-09-03T01:32:02.000Z",
+      "image": "https://media.wired.com/photos/6a98bc1a652ea8849cb4e3a3/191:100/w_1280,c_limit/Meta-Stops-Forcing-Employees-To-Use-AI-Business-1461790372.jpg"
+    },
+    {
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Adobe brings 70+ tools from Photoshop, Illustrator and more to Slack",
+      "summary": "Adobe added dozens of tools from its creative apps like Illustrator and Premiere Pro into Slack, allowing you to ask Slackbot to do the Photoshopping for you.",
+      "guide": "/partners/adobe.html",
+      "source": "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/",
+      "publishedAt": "2026-09-03T00:10:45.000Z",
+      "image": "https://www.engadget.com/img/gallery/adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack/l-intro-1788393296.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "title": "Vodafone’s new premier connectivity plan is designed for a future in which Meta Glasses are as ubiquitous as phones: ‘If you believe in the potential of AI, then you also believe in the potential of SuperMobile’",
+      "summary": "Vodafone has launched a new SuperMobile connectivity plan that's fast enough to power the ‘new world of generative AI.’",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "publishedAt": "2026-09-01T22:08:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800"
+      "source": "https://www.techradar.com/computing/wi-fi-broadband/if-you-believe-in-the-potential-of-ai-then-you-also-believe-in-the-potential-of-supermobile-vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are-as-ubiquitous-as-phones",
+      "publishedAt": "2026-09-02T23:01:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/d9QEcSoKNvwDX9Ju47DdJa-1780-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "publishedAt": "2026-09-01T22:01:36.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "publishedAt": "2026-09-02T22:44:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Meta's new AI transcription model can distinguish between multiple speakers and languages in real-time",
-      "summary": "The latest release from Meta Superintelligence Lab is a powerful transcription model.",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/",
-      "publishedAt": "2026-09-01T21:56:29.000Z",
-      "image": "https://www.engadget.com/img/gallery/metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-in-real-time/l-intro-1788299695.jpg"
+      "source": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "publishedAt": "2026-09-02T22:24:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "I think Sonos just fully solved home audio, mostly by doing exactly what we want — even with AI",
-      "summary": "Sonos unveiled a new platform and \"Fabric\" to weave together Sonos hardware (old and new) and software in a way that not only works, but could finally make home audio the experience of our dreams.",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/audio/speakers/i-think-sonos-just-fully-solved-home-audio-mostly-by-doing-exactly-what-we-want-even-with-ai",
-      "publishedAt": "2026-09-01T20:56:51.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mtyM4JHrEyfxSPcu6ehrGG-2000-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "'The disguise becomes part of the answer key': Researchers find that AI is redefining what human writing means by self-correcting itself",
-      "summary": "An analysis of 18,989 abstracts finds AI-associated vocabulary is rising sharply, complicating efforts to distinguish machine-influenced language from human writing.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-disguise-becomes-part-of-the-answer-key-researchers-find-that-ai-is-redefining-what-human-writing-means-by-self-correcting-itself",
-      "publishedAt": "2026-09-01T20:15:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg"
+      "source": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "publishedAt": "2026-09-02T20:19:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
     }
   ]
 }
