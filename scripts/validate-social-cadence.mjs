@@ -34,12 +34,15 @@ for (const [name, workflow] of [["Telegram", telegramDelivery], ["Instagram", in
   expect(hasCron(workflow, backupCron), `${name} workflow must keep the guarded backup ticks.`);
   expect(hasCron(workflow, watchdogCron), `${name} workflow must include the guarded 15-minute watchdog.`);
   expect(workflow.includes("concurrency:"), `${name} workflow must define concurrency protection.`);
+  expect(workflow.includes("mahgpt-social-state-"), `${name} workflow must share serialized social-state concurrency.`);
 }
 expect(telegramDelivery.includes("workflow_run:"), "Telegram workflow must hand off after a successful daily news refresh.");
 expect(/workflows:\s*\["Refresh MahGPT news"\]/.test(telegramDelivery), "Telegram workflow handoff must only listen to Refresh MahGPT news.");
 expect(/types:\s*\[completed\]/.test(telegramDelivery), "Telegram workflow handoff must listen for completed runs.");
-expect(!telegramDelivery.includes("test-instagram-publisher.yml"), "Telegram workflow must not invoke the Instagram workflow.");
-expect(!telegramDelivery.includes("instagram-publisher.mjs"), "Telegram workflow must not invoke the Instagram publisher.");
+expect(!/run:\s*node scripts\/instagram-publisher\.mjs/.test(telegramDelivery), "Telegram delivery job must not invoke the Instagram publisher.");
+expect(telegramDelivery.includes('SOCIAL_QUEUE_ONLY: "true"'), "Telegram workflow must check queue freshness independently from SEO analysis.");
+expect(telegramDelivery.includes("node scripts/update-news.mjs"), "Telegram workflow must self-heal a missed daily news refresh.");
+expect(telegramDelivery.includes("node scripts/social-queue.mjs"), "Telegram workflow must self-heal a stale daily social queue.");
 expect(!telegramDelivery.includes("11,31,51 * * * *"), "Telegram workflow must not use the obsolete polling cron.");
 expect(!hasSchedule(telegramManual), "publish-social-queue.yml must stay manual-only.");
 expect(hasCron(updateNews, "17 5 * * *"), "update-news.yml must refresh once daily at 08:17 Europe/Istanbul.");
@@ -54,10 +57,8 @@ for (const [name, source] of [["Telegram", telegramPublisher], ["Instagram", ins
   expect(match, `${name} publisher must define DELIVERY_COOLDOWN_MINUTES.`);
   const minutes = Number(match[1]);
   expect(minutes >= 60 && minutes <= 85, `${name} cooldown must prevent bursts without blocking the next two-hour slot.`);
-  const windowMatch = source.match(/ELIGIBLE_WINDOW_MINUTES\s*=\s*(\d+)/);
-  expect(windowMatch, `${name} publisher must define ELIGIBLE_WINDOW_MINUTES.`);
-  const windowMinutes = Number(windowMatch[1]);
-  expect(windowMinutes >= 120 && windowMinutes <= 180, `${name} eligibility window must allow delayed slots without replaying stale backlog.`);
+  expect(!source.includes("ELIGIBLE_WINDOW_MINUTES"), `${name} publisher must not permanently expire due queue items after a missed GitHub schedule.`);
+  expect(source.includes("queueDateIsActive"), `${name} publisher must reject stale queues while allowing overnight slots.`);
 }
 
-console.log("Social cadence guard passed: independent Telegram/Instagram workflows, daily refresh, two-hour delivery slots, and watchdog protection are valid.");
+console.log("Social cadence guard passed: self-healing daily queue, durable due-item selection, serialized Telegram/Instagram state, and watchdog protection are valid.");
