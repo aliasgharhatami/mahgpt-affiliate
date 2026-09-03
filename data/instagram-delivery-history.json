@@ -424,6 +424,20 @@
         "message_id": "18007437920990869",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-03T18:44:29.223Z",
+        "message_id": "18092830670642815",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-03T18:44:36.737Z",
+        "message_id": "18131365258632763",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
