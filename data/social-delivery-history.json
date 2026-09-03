@@ -1224,6 +1224,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-03T18:42:30.351Z",
+        "message_id": 308,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
