@@ -438,6 +438,20 @@
         "message_id": "18131365258632763",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-03T20:01:33.866Z",
+        "message_id": "17949314319271977",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-03T20:01:42.485Z",
+        "message_id": "18125639782696683",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
