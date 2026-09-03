@@ -26,15 +26,18 @@ const queue = await readJson("data/social-queue.json");
 const analysis = await readJson("assets/daily-analysis.json");
 const analysisPageReady = await exists(`news/analysis/${date}.html`);
 const force = process.env.SOCIAL_QUEUE_FORCE_REFRESH === "true";
+const queueOnly = process.env.SOCIAL_QUEUE_ONLY === "true";
 const refreshDue = force || localMinutes() >= (8 * 60 + 17);
 
 const reasons = [];
 if (force) reasons.push("forced");
 if (!queue?.items?.length) reasons.push("missing-social-queue");
 if (queue?.items?.length && queue.queue_date !== date && refreshDue) reasons.push("stale-social-queue");
-if (!analysis?.analysis_date && refreshDue) reasons.push("missing-daily-analysis-manifest");
-if (analysis?.analysis_date && analysis.analysis_date !== date && refreshDue) reasons.push("stale-daily-analysis");
-if (!analysisPageReady && refreshDue) reasons.push("missing-daily-analysis-page");
+if (!queueOnly) {
+  if (!analysis?.analysis_date && refreshDue) reasons.push("missing-daily-analysis-manifest");
+  if (analysis?.analysis_date && analysis.analysis_date !== date && refreshDue) reasons.push("stale-daily-analysis");
+  if (!analysisPageReady && refreshDue) reasons.push("missing-daily-analysis-page");
+}
 
 const refresh = reasons.length > 0;
 if (!refresh && queue?.queue_date !== date && !refreshDue) {
