@@ -1207,6 +1207,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-03T15:01:34.341Z",
+        "message_id": 307,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
