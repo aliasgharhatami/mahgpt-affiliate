@@ -12,7 +12,9 @@ on:
   pull_request:
     paths:
       - ".github/workflows/social-delivery.yml"
+      - ".github/workflows/test-instagram-publisher.yml"
       - "scripts/social-publisher.mjs"
+      - "scripts/instagram-publisher.mjs"
       - "scripts/social-queue-readiness.mjs"
       - "scripts/validate-social-cadence.mjs"
       - "scripts/validate-affiliate-links.mjs"
@@ -21,7 +23,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: mahgpt-telegram-delivery-${{ github.event_name == 'pull_request' && github.workflow || 'production' }}
+  group: mahgpt-social-state-${{ github.event_name == 'pull_request' && github.workflow || 'production' }}
   cancel-in-progress: false
 
 jobs:
@@ -33,10 +35,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Validate Telegram automation syntax
+      - name: Validate social automation
         run: |
           node --check scripts/social-publisher.mjs
-          node scripts/social-queue-readiness.mjs
+          node --check scripts/instagram-publisher.mjs
+          SOCIAL_QUEUE_ONLY=true node scripts/social-queue-readiness.mjs
           node scripts/validate-social-cadence.mjs
           node scripts/validate-affiliate-links.mjs
 
@@ -45,21 +48,35 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - id: queue
+        name: Check current Türkiye social queue
+        env:
+          SOCIAL_QUEUE_ONLY: "true"
+        run: node scripts/social-queue-readiness.mjs
       - name: Install Node dependencies
         run: npm install --no-audit --no-fund
-      - name: Publish exactly one eligible Telegram item
+      - name: Self-heal missed daily queue refresh
+        if: steps.queue.outputs.refresh == 'true'
+        run: |
+          node scripts/update-news.mjs
+          node scripts/social-queue.mjs
+      - name: Publish at most one due Telegram item
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: "@mahgptplus"
         run: node scripts/social-publisher.mjs queue-next
-      - name: Commit Telegram delivery state
+      - name: Commit refreshed queue and Telegram state
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/social-queue.json data/social-delivery-history.json assets/social-cards
-          git diff --cached --quiet || git commit -m "chore: record Telegram delivery"
-          git push
+          git add assets/news-feed.json data/social-queue.json data/social-delivery-history.json assets/social-cards
+          git diff --cached --quiet || git commit -m "chore: maintain Telegram social delivery"
+          git pull --rebase origin main
+          git push origin HEAD:main
