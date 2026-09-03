@@ -1139,6 +1139,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/the-disguise-becomes-part-of-the-answer-key-researchers-find-that-ai-is-redefining-what-human-writing-means-by-self-correcting-itself": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-03T01:08:28.419Z",
+        "message_id": 303,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
