@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T06:35:00.188Z",
-  "analysis_date": "2026-09-02",
+  "generated_at": "2026-09-03T08:11:40.673Z",
+  "analysis_date": "2026-09-03",
   "stories": [
     {
-      "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
-      "source": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "mahgpt_url": "/news/story.html?id=google-and-8217-s-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design"
+      "title": "Feature-packed PDF Reader Pro is just $39.99 — for life",
+      "source": "https://www.macworld.com/article/3224796/feature-packed-pdf-reader-pro-is-just-39-99-for-life.html",
+      "mahgpt_url": "/news/story.html?id=feature-packed-pdf-reader-pro-is-just-39-99-for-life"
     },
     {
-      "title": "'It allows workers to experiment with the same logic their employers have been applying to them' — developers reportedly lost their jobs to an ‘AI Transformation’, so they built an AI that can replace the CEO",
-      "source": "https://www.techradar.com/ai-platforms-assistants/it-allows-workers-to-experiment-with-the-same-logic-their-employers-have-been-applying-to-them-developers-reportedly-lost-their-jobs-to-an-ai-transformation-so-they-built-an-ai-that-can-replace-the-ceo",
-      "mahgpt_url": "/news/story.html?id=it-allows-workers-to-experiment-with-the-same-logic-their-employers-have-been-applying-to-"
+      "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
+      "source": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+      "mahgpt_url": "/news/story.html?id=ankers-new-mindbase-is-an-ai-powered-brain-for-your-smart-home"
     },
     {
-      "title": "Anthropic reveals its view of how AI agents should interact with the physical world",
-      "source": "https://www.techradar.com/pro/anthropic-reveals-its-view-of-how-ai-agents-should-interact-with-the-physical-world",
-      "mahgpt_url": "/news/story.html?id=anthropic-reveals-its-view-of-how-ai-agents-should-interact-with-the-physical-world"
+      "title": "Anker brings its AI chip to the Soundcore Space 2 Pro headphones",
+      "source": "https://www.engadget.com/2248998/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/",
+      "mahgpt_url": "/news/story.html?id=anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones"
     },
     {
-      "title": "Google needs Hollywood more than the studios need AI",
-      "source": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "mahgpt_url": "/news/story.html?id=google-needs-hollywood-more-than-the-studios-need-ai"
+      "title": "Anker's MindBase is a smart home hub, NAS and security guard",
+      "source": "https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/",
+      "mahgpt_url": "/news/story.html?id=ankers-mindbase-is-a-smart-home-hub-nas-and-security-guard"
     },
     {
-      "title": "Nvidia GB300 DGX station desktop PC goes on sale for almost $91,100 — 7x costlier than a 256GB RAM Mac Studio M5 Ultra but with 748GB RAM",
-      "source": "https://www.techradar.com/pro/nvidia-gb300-dgx-station-desktop-pc-goes-on-sale-for-almost-usd91-100-7x-costlier-than-a-256gb-ram-mac-studio-m5-ultra-but-with-748gb-ram",
-      "mahgpt_url": "/news/story.html?id=nvidia-gb300-dgx-station-desktop-pc-goes-on-sale-for-almost-91-100-7x-costlier-than-a-256g"
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "source": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "mahgpt_url": "/news/story.html?id=meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing"
     },
     {
-      "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
-      "source": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "mahgpt_url": "/news/story.html?id=afterquery-reportedly-becomes-y-combinator-and-8217-s-fastest-ever-unicorn-now-valued-at-3"
+      "title": "Adobe brings 70+ tools from Photoshop, Illustrator and more to Slack",
+      "source": "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/",
+      "mahgpt_url": "/news/story.html?id=adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack"
     },
     {
-      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "mahgpt_url": "/news/story.html?id=anthropic-launches-claude-fable-5-1-and-says-it-and-8217-s-up-to-45-percent-cheaper-for-ag"
+      "title": "Vodafone’s new premier connectivity plan is designed for a future in which Meta Glasses are as ubiquitous as phones: ‘If you believe in the potential of AI, then you also believe in the potential of SuperMobile’",
+      "source": "https://www.techradar.com/computing/wi-fi-broadband/if-you-believe-in-the-potential-of-ai-then-you-also-believe-in-the-potential-of-supermobile-vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are-as-ubiquitous-as-phones",
+      "mahgpt_url": "/news/story.html?id=vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are"
     },
     {
-      "title": "Meta's new AI transcription model can distinguish between multiple speakers and languages in real-time",
-      "source": "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/",
-      "mahgpt_url": "/news/story.html?id=metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-i"
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "source": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "mahgpt_url": "/news/story.html?id=palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-02.html"
+      "path": "news/analysis/2026-09-03.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-02.html"
+      "path": "es/news/analysis/2026-09-03.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-02.html"
+      "path": "de/news/analysis/2026-09-03.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-02.html"
+      "path": "fr/news/analysis/2026-09-03.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-02.html"
+      "path": "pt-BR/news/analysis/2026-09-03.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-02.html"
+      "path": "ar/news/analysis/2026-09-03.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-02.html"
+      "path": "fa/news/analysis/2026-09-03.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-02.html"
+      "path": "tr/news/analysis/2026-09-03.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-02.html"
+      "path": "it/news/analysis/2026-09-03.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-02.html"
+      "path": "ja/news/analysis/2026-09-03.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-02.html"
+      "path": "ko/news/analysis/2026-09-03.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-02.html"
+      "path": "id/news/analysis/2026-09-03.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-02.html"
+      "path": "hi/news/analysis/2026-09-03.html"
     }
   ]
 }

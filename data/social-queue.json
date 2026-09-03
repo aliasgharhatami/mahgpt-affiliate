@@ -1,31 +1,31 @@
 {
   "version": 1,
-  "queue_date": "2026-09-02",
-  "created_at": "2026-09-02T06:34:54.982Z",
-  "source_feed_updated_at": "2026-09-02T06:34:51.113Z",
+  "queue_date": "2026-09-03",
+  "created_at": "2026-09-03T08:11:32.383Z",
+  "source_feed_updated_at": "2026-09-03T08:11:28.787Z",
   "items": [
     {
-      "story_id": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "source_url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "headline": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
-      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675",
+      "story_id": "https://www.macworld.com/article/3224796/feature-packed-pdf-reader-pro-is-just-39-99-for-life.html",
+      "source_url": "https://www.macworld.com/article/3224796/feature-packed-pdf-reader-pro-is-just-39-99-for-life.html",
+      "headline": "Feature-packed PDF Reader Pro is just $39.99",
+      "summary": "Macworld TL;DR: Edit, encrypt, and sign PDFs with ease with a lifetime subscription to PDF Reader Pro Premium License for Mac for $39.99, 50% off the retail price of $79.99. PDFs may be the preferred format for electronic document sharing but creating, editing, and working with PDFs is a hassle if y",
+      "source_name": "for life",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3224796-0-15974700-1788422465-PDF-Reader.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3224796-0-15974700-1788422465-PDF-Reader.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 675,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-and-8217-s-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
-      "detected_partner": "adobe",
-      "product_url": "https://www.adobe.com/products/firefly.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-02T05:20:00.000Z",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=feature-packed-pdf-reader-pro-is-just-39-99",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-03T05:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -41,7 +41,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-02/https-techcrunch-com-2026-09-01-googles-answer-to-canva-is-an-ai-tool-where-you--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-macworld-com-article-3224796-feature-packed-pdf-reader-pro-is-just-39--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -51,141 +51,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/it-allows-workers-to-experiment-with-the-same-logic-their-employers-have-been-applying-to-them-developers-reportedly-lost-their-jobs-to-an-ai-transformation-so-they-built-an-ai-that-can-replace-the-ceo",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/it-allows-workers-to-experiment-with-the-same-logic-their-employers-have-been-applying-to-them-developers-reportedly-lost-their-jobs-to-an-ai-transformation-so-they-built-an-ai-that-can-replace-the-ceo",
-      "headline": "'It allows workers to experiment with the same logic their employers have been applying to them' — developers reportedly lost their jobs to an ‘AI Transformation’, so they built an AI that can replace the CEO",
-      "summary": "OpenExecutive turns corporate enthusiasm for replacing workers with AI into a test of how replaceable executives might be",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/p2dPCXWPqTd2nkWmhEQRVa-1600-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/p2dPCXWPqTd2nkWmhEQRVa-1600-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 900,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=it-allows-workers-to-experiment-with-the-same-logic-their-employers-have-been-applying-to-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-02T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-02T08:27:31.492Z",
-        "message_id": 297,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-02T08:27:42.957Z",
-        "message_id": "17954659539228464",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-02/https-www-techradar-com-ai-platforms-assistants-it-allows-workers-to-experiment--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-02T08:27:52.798Z",
-        "message_id": "18350903401171635",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/anthropic-reveals-its-view-of-how-ai-agents-should-interact-with-the-physical-world",
-      "source_url": "https://www.techradar.com/pro/anthropic-reveals-its-view-of-how-ai-agents-should-interact-with-the-physical-world",
-      "headline": "Anthropic reveals its view of how AI agents should interact with the physical world",
-      "summary": "Anthropic's Model Hardware Standard gives AI agents a common method for controlling laboratory equipment, robots, and other programmable physical machines.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-reveals-its-view-of-how-ai-agents-should-interact-with-the-physical-world",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-02T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-02T09:52:24.666Z",
-        "message_id": 298,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-02T09:52:35.477Z",
-        "message_id": "17984477355026638",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-02/https-www-techradar-com-pro-anthropic-reveals-its-view-of-how-ai-agents-should-i-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-02T09:52:44.740Z",
-        "message_id": "18124388326838932",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "source_url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "headline": "Google needs Hollywood more than the studios need AI",
-      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the",
+      "story_id": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+      "source_url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+      "headline": "Anker’s new MindBase is an AI-powered brain for your smart home",
+      "summary": "Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can process your footage without it ever leaving your home. It's also announcing a handful of other smart home security products at the IFA tech show in B",
       "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&strip=all&crop=0%2C12.885618424569%2C100%2C74.228763150863&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&strip=all&crop=0%2C12.885618424569%2C100%2C74.228763150863&w=1200",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anker-MindBase_Lifestyle-image.jpg?quality=90&strip=all&crop=9.4895161290323%2C0%2C81.020967741935%2C100&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anker-MindBase_Lifestyle-image.jpg?quality=90&strip=all&crop=9.4895161290323%2C0%2C81.020967741935%2C100&w=1200",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 626,
-        "aspectRatio": 1.9169329073482428,
+        "height": 628,
+        "aspectRatio": 1.910828025477707,
         "instagramCompatible": false
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-needs-hollywood-more-than-the-studios-need-ai",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ankers-new-mindbase-is-an-ai-powered-brain-for-your-smart-home",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-02T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-03T07:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -200,8 +86,8 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-02/Google-needs-Hollywood-more-than-the-studios-need-AI-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-02/https-www-theverge-com-tech-987429-google-needs-hollywood-more-than-the-studios--story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-03/Anker-s-new-MindBase-is-an-AI-powered-brain-for-your-smart-home-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-theverge-com-tech-987936-anker-eufy-mindbase-ai-security-camera-system-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -212,70 +98,244 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/nvidia-gb300-dgx-station-desktop-pc-goes-on-sale-for-almost-usd91-100-7x-costlier-than-a-256gb-ram-mac-studio-m5-ultra-but-with-748gb-ram",
-      "source_url": "https://www.techradar.com/pro/nvidia-gb300-dgx-station-desktop-pc-goes-on-sale-for-almost-usd91-100-7x-costlier-than-a-256gb-ram-mac-studio-m5-ultra-but-with-748gb-ram",
-      "headline": "Nvidia GB300 DGX station desktop PC goes on sale for almost $91,100",
-      "summary": "Supermicro's new $91,100 AI workstation offers 748GB of memory, dwarfing Apple's Mac Studio while targeting labs, not casual home users.",
-      "source_name": "7x costlier than a 256GB RAM Mac Studio M5 Ultra but with 748GB RAM",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/fA7AKnpbEzjkvbz59bxutP-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/fA7AKnpbEzjkvbz59bxutP-1920-80.png",
+      "story_id": "https://www.engadget.com/2248998/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/",
+      "source_url": "https://www.engadget.com/2248998/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/",
+      "headline": "Anker brings its AI chip to the Soundcore Space 2 Pro headphones",
+      "summary": "Anker has a bunch of new AI-infused headphones, earbuds and hearing aids on the way.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/l-intro-1788293545.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/l-intro-1788293545.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nvidia-gb300-dgx-station-desktop-pc-goes-on-sale-for-almost-91-100",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-02T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-03T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-02T15:07:58.710Z",
-        "message_id": 299,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-02T15:08:10.968Z",
-        "message_id": "17891274312426650",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-02/https-www-techradar-com-pro-nvidia-gb300-dgx-station-desktop-pc-goes-on-sale-for-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-engadget-com-2248998-anker-brings-its-ai-chip-to-the-soundcore-space-2-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-02T15:08:21.212Z",
-        "message_id": "18127406032704207",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "source_url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "headline": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "story_id": "https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/",
+      "source_url": "https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/",
+      "headline": "Anker's MindBase is a smart home hub, NAS and security guard",
+      "summary": "Anker's MindBase uses AI to run your smart home, and keep it safe.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/ankers-mindbase-is-a-smart-home-hub-nas-and-security-guard/l-intro-1788361945.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/ankers-mindbase-is-a-smart-home-hub-nas-and-security-guard/l-intro-1788361945.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ankers-mindbase-is-a-smart-home-hub-nas-and-security-guard",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-03T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-engadget-com-2249482-anker-mindbase-is-a-smart-home-hub-nas-and-securi-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "source_url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "headline": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6a98bc1a652ea8849cb4e3a3/191:100/w_1280,c_limit/Meta-Stops-Forcing-Employees-To-Use-AI-Business-1461790372.jpg",
+      "image_url": "https://media.wired.com/photos/6a98bc1a652ea8849cb4e3a3/191:100/w_1280,c_limit/Meta-Stops-Forcing-Employees-To-Use-AI-Business-1461790372.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-03T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-03/Meta-Pushes-Its-New-AI-Agent-on-Employees-but-Eases-Off-on-Tokenmaxxing-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-wired-com-story-meta-pushes-its-new-ai-agent-on-employees-but-eases-of-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/",
+      "source_url": "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/",
+      "headline": "Adobe brings 70+ tools from Photoshop, Illustrator and more to Slack",
+      "summary": "Adobe added dozens of tools from its creative apps like Illustrator and Premiere Pro into Slack, allowing you to ask Slackbot to do the Photoshopping for you.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack/l-intro-1788393296.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack/l-intro-1788393296.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack",
+      "detected_partner": "adobe",
+      "product_url": "https://www.adobe.com/products/firefly.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-09-03T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-engadget-com-2250051-adobe-slack-over-70-tools-added--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/computing/wi-fi-broadband/if-you-believe-in-the-potential-of-ai-then-you-also-believe-in-the-potential-of-supermobile-vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are-as-ubiquitous-as-phones",
+      "source_url": "https://www.techradar.com/computing/wi-fi-broadband/if-you-believe-in-the-potential-of-ai-then-you-also-believe-in-the-potential-of-supermobile-vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are-as-ubiquitous-as-phones",
+      "headline": "Vodafone’s new premier connectivity plan is designed for a future in which Meta Glasses are as ubiquitous as phones: ‘If you believe in the potential of AI, then you also believe in the potential of SuperMobile’",
+      "summary": "Vodafone has launched a new SuperMobile connectivity plan that's fast enough to power the ‘new world of generative AI.’",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/d9QEcSoKNvwDX9Ju47DdJa-1780-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/d9QEcSoKNvwDX9Ju47DdJa-1780-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1780,
+        "height": 1002,
+        "aspectRatio": 1.7764471057884232,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-03T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-techradar-com-computing-wi-fi-broadband-if-you-believe-in-the-potentia-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "source_url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "headline": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
       "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
       "image_validation": {
         "valid": true,
         "width": 1200,
@@ -285,11 +345,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=afterquery-reportedly-becomes-y-combinator-and-8217-s-fastest-ever-unicorn-now-valued-at-3",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-02T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-03T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -305,7 +365,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-02/https-techcrunch-com-2026-09-01-afterquery-reportedly-becomes-y-combinators-fast-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-03/https-techcrunch-com-2026-09-02-palo-alto-networks-paid-500m-for-thrive-backed-c-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -315,48 +375,43 @@
       }
     },
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "headline": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "story_id": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "source_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "headline": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
+        "height": 628,
+        "aspectRatio": 1.910828025477707,
         "instagramCompatible": false
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-launches-claude-fable-5-1-and-says-it-and-8217-s-up-to-45-percent-cheaper-for-ag",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animal",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-02T17:20:00.000Z",
+      "scheduled_publish_at": "2026-09-03T21:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-02T18:44:08.595Z",
-        "message_id": 300,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-02T18:44:20.565Z",
-        "message_id": "18128411404664736",
-        "media_kind": "fallback-card"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-02/Anthropic-launches-Claude-Fable-5-1-and-says-it-8217-s-up-to-45-percent-cheaper--instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-02/https-www-theverge-com-ai-artificial-intelligence-987830-anthropic-claude-fable--story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-03/TechCrunch-Disrupt-2026-s-new-Real-World-AI-Stage-features-Nvidia-robots-and-ext-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-03/https-techcrunch-com-2026-09-02-techcrunch-disrupt-2026s-new-real-world-ai-stage-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -364,41 +419,27 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-02T18:44:30.643Z",
-        "message_id": "17874021372566790",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/",
-      "source_url": "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/",
-      "headline": "Meta's new AI transcription model can distinguish between multiple speakers and languages in real-time",
-      "summary": "The latest release from Meta Superintelligence Lab is a powerful transcription model.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-in-real-time/l-intro-1788299695.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-in-real-time/l-intro-1788299695.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 898,
-        "aspectRatio": 1.78173719376392,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-i",
+      "story_id": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source_url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "headline": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "image_url": "",
+      "image_validation": null,
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openais-new-reasoning-technique-alarms-ai-safety-experts",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-02T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-03T23:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-02T21:21:49.909Z",
-        "message_id": 301,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -409,129 +450,16 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-02/https-www-engadget-com-2249112-meta-new-ai-transcription-model-can-distinguist-b-story.png",
+      "fallback_image_landscape": "assets/social-cards/2026-09-03/OpenAI-s-new-reasoning-technique-alarms-AI-safety-experts-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-03/OpenAI-s-new-reasoning-technique-alarms-AI-safety-experts-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-03/https-techcrunch-com-2026-09-02-openais-new-reasoning-technique-alarms-ai-safety-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-missing-source"
         ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/audio/speakers/i-think-sonos-just-fully-solved-home-audio-mostly-by-doing-exactly-what-we-want-even-with-ai",
-      "source_url": "https://www.techradar.com/audio/speakers/i-think-sonos-just-fully-solved-home-audio-mostly-by-doing-exactly-what-we-want-even-with-ai",
-      "headline": "I think Sonos just fully solved home audio, mostly by doing exactly what we want",
-      "summary": "Sonos unveiled a new platform and \"Fabric\" to weave together Sonos hardware (old and new) and software in a way that not only works, but could finally make home audio the experience of our dreams.",
-      "source_name": "even with AI",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mtyM4JHrEyfxSPcu6ehrGG-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/mtyM4JHrEyfxSPcu6ehrGG-2000-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2000,
-        "height": 1125,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-think-sonos-just-fully-solved-home-audio-mostly-by-doing-exactly-what-we-want",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-02T21:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-02T23:30:38.298Z",
-        "message_id": 302,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-02T21:58:22.563Z",
-        "message_id": "17913469854444360",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-02/https-www-techradar-com-audio-speakers-i-think-sonos-just-fully-solved-home-audi-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-02T21:58:30.911Z",
-        "message_id": "18084768362442810",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/the-disguise-becomes-part-of-the-answer-key-researchers-find-that-ai-is-redefining-what-human-writing-means-by-self-correcting-itself",
-      "source_url": "https://www.techradar.com/pro/the-disguise-becomes-part-of-the-answer-key-researchers-find-that-ai-is-redefining-what-human-writing-means-by-self-correcting-itself",
-      "headline": "'The disguise becomes part of the answer key': Researchers find that AI is redefining what human writing means by self-correcting itself",
-      "summary": "An analysis of 18,989 abstracts finds AI-associated vocabulary is rising sharply, complicating efforts to distinguish machine-influenced language from human writing.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-disguise-becomes-part-of-the-answer-key-researchers-find-that-ai-is-redefining-what-hu",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-02T23:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-03T01:08:28.419Z",
-        "message_id": 303,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-02T23:21:59.378Z",
-        "message_id": "18112795436014285",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-02/https-www-techradar-com-pro-the-disguise-becomes-part-of-the-answer-key-research-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-02T23:22:07.833Z",
-        "message_id": "17973648924069691",
-        "media_kind": "story-fallback"
       }
     }
   ]
