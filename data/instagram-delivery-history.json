@@ -396,6 +396,20 @@
         "message_id": "18126162077244382",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2248998/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-03T15:02:40.513Z",
+        "message_id": "17914222407443652",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-03T15:02:48.167Z",
+        "message_id": "18113170199092406",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
