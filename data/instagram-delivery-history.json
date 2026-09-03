@@ -452,6 +452,20 @@
         "message_id": "18125639782696683",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/computing/wi-fi-broadband/if-you-believe-in-the-potential-of-ai-then-you-also-believe-in-the-potential-of-supermobile-vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are-as-ubiquitous-as-phones": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-03T21:45:22.697Z",
+        "message_id": "18031599827841646",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-03T21:45:38.844Z",
+        "message_id": "18136211470715669",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
