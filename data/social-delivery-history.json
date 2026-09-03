@@ -1241,6 +1241,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-03T21:23:43.137Z",
+        "message_id": 309,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
