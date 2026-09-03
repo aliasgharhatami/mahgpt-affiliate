@@ -368,6 +368,20 @@
         "message_id": "17973648924069691",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3224796/feature-packed-pdf-reader-pro-is-just-39-99-for-life.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-03T09:12:41.871Z",
+        "message_id": "18582232594071721",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-03T09:12:49.108Z",
+        "message_id": "18118253434903916",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
