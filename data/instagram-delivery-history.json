@@ -382,6 +382,20 @@
         "message_id": "18118253434903916",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-03T13:37:06.329Z",
+        "message_id": "18113999432076088",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-03T13:37:22.975Z",
+        "message_id": "18126162077244382",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
