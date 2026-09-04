@@ -550,6 +550,20 @@
         "message_id": "18382238449228618",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-04T21:33:39.329Z",
+        "message_id": "18004839353782462",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-04T21:33:49.427Z",
+        "message_id": "17974154484066013",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
