@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T08:11:28.787Z",
+  "updatedAt": "2026-09-04T06:00:13.869Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -27,103 +27,103 @@
       "image": "https://www.macworld.com/wp-content/uploads/2026/09/3224796-0-15974700-1788422465-PDF-Reader.jpg?quality=50&strip=all&w=1024"
     },
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
-      "summary": "Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can process your footage without it ever leaving your home. It's also announcing a handful of other smart home security products at the IFA tech show in B",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
-      "publishedAt": "2026-09-03T07:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anker-MindBase_Lifestyle-image.jpg?quality=90&strip=all&crop=9.4895161290323%2C0%2C81.020967741935%2C100&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Anker brings its AI chip to the Soundcore Space 2 Pro headphones",
-      "summary": "Anker has a bunch of new AI-infused headphones, earbuds and hearing aids on the way.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2248998/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/",
-      "publishedAt": "2026-09-03T07:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/l-intro-1788293545.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Anker's MindBase is a smart home hub, NAS and security guard",
-      "summary": "Anker's MindBase uses AI to run your smart home, and keep it safe.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/",
-      "publishedAt": "2026-09-03T07:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/ankers-mindbase-is-a-smart-home-hub-nas-and-security-guard/l-intro-1788361945.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-      "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-      "publishedAt": "2026-09-03T01:32:02.000Z",
-      "image": "https://media.wired.com/photos/6a98bc1a652ea8849cb4e3a3/191:100/w_1280,c_limit/Meta-Stops-Forcing-Employees-To-Use-AI-Business-1461790372.jpg"
-    },
-    {
-      "tool": "adobe",
-      "toolName": "Adobe",
+      "tool": "canva",
+      "toolName": "Canva AI",
       "category": "Partner watch",
-      "title": "Adobe brings 70+ tools from Photoshop, Illustrator and more to Slack",
-      "summary": "Adobe added dozens of tools from its creative apps like Illustrator and Premiere Pro into Slack, allowing you to ask Slackbot to do the Photoshopping for you.",
-      "guide": "/partners/adobe.html",
-      "source": "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/",
-      "publishedAt": "2026-09-03T00:10:45.000Z",
-      "image": "https://www.engadget.com/img/gallery/adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack/l-intro-1788393296.jpg"
+      "title": "Google is quietly building an AI version of Canva inside Workspace — and Nano Banana could make it seriously useful",
+      "summary": "Google Pics brings Nano Banana-powered image creation and editing directly into Workspace, giving Canva a potentially formidable new rival.",
+      "guide": "/partners/canva.html",
+      "source": "https://www.techradar.com/ai-platforms-assistants/google-is-quietly-building-an-ai-version-of-canva-inside-workspace-and-nano-banana-could-make-it-seriously-useful",
+      "publishedAt": "2026-09-03T14:35:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/h4bHGsEyWZD5asEUQtdiee-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Vodafone’s new premier connectivity plan is designed for a future in which Meta Glasses are as ubiquitous as phones: ‘If you believe in the potential of AI, then you also believe in the potential of SuperMobile’",
-      "summary": "Vodafone has launched a new SuperMobile connectivity plan that's fast enough to power the ‘new world of generative AI.’",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/computing/wi-fi-broadband/if-you-believe-in-the-potential-of-ai-then-you-also-believe-in-the-potential-of-supermobile-vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are-as-ubiquitous-as-phones",
-      "publishedAt": "2026-09-02T23:01:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/d9QEcSoKNvwDX9Ju47DdJa-1780-80.jpg"
+      "source": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "publishedAt": "2026-09-04T04:21:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cheeseburger-stack.png?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+      "summary": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version of DLSS 5 to run on ju",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "publishedAt": "2026-09-02T22:44:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800"
+      "source": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+      "publishedAt": "2026-09-04T01:49:25.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "title": "I thought ChatGPT’s new Stickers feature sounded like peak AI slop — then I made a pack I actually wanted to use",
+      "summary": "ChatGPT’s Stickers feature transcends disposable AI slop and proved surprisingly charming.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "publishedAt": "2026-09-02T22:24:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200"
+      "source": "https://www.techradar.com/ai-platforms-assistants/i-thought-chatgpts-new-stickers-feature-sounded-like-peak-ai-slop-then-i-made-a-pack-i-actually-wanted-to-use",
+      "publishedAt": "2026-09-04T01:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3DXuTR6xmVf5PPDkv3bRq5-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "title": "The unusually muted Tesla Cybercab launch",
+      "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, a",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "publishedAt": "2026-09-02T20:19:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
+      "source": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+      "publishedAt": "2026-09-04T00:25:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&strip=all&crop=0%2C15.098136889637%2C100%2C69.803726220726&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
+      "summary": "The new frontier model is particularly competent at agentic, computer-use tasks.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/",
+      "publishedAt": "2026-09-03T22:58:12.000Z",
+      "image": "https://www.engadget.com/img/gallery/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/l-intro-1788476205.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Ugreen's new smart home ecosystem is built around local AI hubs",
+      "summary": "Ugreen has three new hubs that run your smart home with local AI rather than the cloud. The top model runs on Nvidia's Jetson Thor platform and costs $20,000.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/",
+      "publishedAt": "2026-09-03T22:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/ugreens-new-smart-home-ecosystem-is-built-around-local-ai-hubs/l-intro-1788468967.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "SpaceXAI apologizes for outage that affected Grok and other 'compute partners'",
+      "summary": "Several AI companies experienced issues at around the same time.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/",
+      "publishedAt": "2026-09-03T21:52:34.000Z",
+      "image": "https://www.engadget.com/img/gallery/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/l-intro-1788472233.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+      "publishedAt": "2026-09-03T21:48:24.000Z",
+      "image": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg"
     }
   ]
 }

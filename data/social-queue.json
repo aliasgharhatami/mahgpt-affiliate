@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-09-03",
-  "created_at": "2026-09-03T08:11:32.383Z",
-  "source_feed_updated_at": "2026-09-03T08:11:28.787Z",
+  "queue_date": "2026-09-04",
+  "created_at": "2026-09-04T06:00:13.964Z",
+  "source_feed_updated_at": "2026-09-04T06:00:13.869Z",
   "items": [
     {
       "story_id": "https://www.macworld.com/article/3224796/feature-packed-pdf-reader-pro-is-just-39-99-for-life.html",
@@ -25,12 +25,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-03T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-04T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-03T08:13:13.454Z",
-        "message_id": 304,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-03T08:13:13.454Z"
       },
       "linkedin": {
         "status": "pending"
@@ -38,381 +36,76 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-03T09:12:41.871Z",
-        "message_id": "18582232594071721",
-        "media_kind": "source"
+        "message_id": "18582232594071721"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-macworld-com-article-3224796-feature-packed-pdf-reader-pro-is-just-39--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-macworld-com-article-3224796-feature-packed-pdf-reader-pro-is-just-39--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-03T09:12:49.108Z",
-        "message_id": "18118253434903916",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
-      "source_url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
-      "headline": "Anker’s new MindBase is an AI-powered brain for your smart home",
-      "summary": "Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can process your footage without it ever leaving your home. It's also announcing a handful of other smart home security products at the IFA tech show in B",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anker-MindBase_Lifestyle-image.jpg?quality=90&strip=all&crop=9.4895161290323%2C0%2C81.020967741935%2C100&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anker-MindBase_Lifestyle-image.jpg?quality=90&strip=all&crop=9.4895161290323%2C0%2C81.020967741935%2C100&w=1200",
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/google-is-quietly-building-an-ai-version-of-canva-inside-workspace-and-nano-banana-could-make-it-seriously-useful",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/google-is-quietly-building-an-ai-version-of-canva-inside-workspace-and-nano-banana-could-make-it-seriously-useful",
+      "headline": "Google is quietly building an AI version of Canva inside Workspace",
+      "summary": "Google Pics brings Nano Banana-powered image creation and editing directly into Workspace, giving Canva a potentially formidable new rival.",
+      "source_name": "and Nano Banana could make it seriously useful",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/h4bHGsEyWZD5asEUQtdiee-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/h4bHGsEyWZD5asEUQtdiee-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 628,
-        "aspectRatio": 1.910828025477707,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ankers-new-mindbase-is-an-ai-powered-brain-for-your-smart-home",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-03T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-03T09:51:18.483Z",
-        "message_id": 305,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-03T13:37:06.329Z",
-        "message_id": "18113999432076088",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-03/Anker-s-new-MindBase-is-an-AI-powered-brain-for-your-smart-home-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-theverge-com-tech-987936-anker-eufy-mindbase-ai-security-camera-system-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-03T13:37:22.975Z",
-        "message_id": "18126162077244382",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2248998/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/",
-      "source_url": "https://www.engadget.com/2248998/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/",
-      "headline": "Anker brings its AI chip to the Soundcore Space 2 Pro headphones",
-      "summary": "Anker has a bunch of new AI-infused headphones, earbuds and hearing aids on the way.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/l-intro-1788293545.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/l-intro-1788293545.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-03T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-03T11:33:45.102Z",
-        "message_id": 306,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-03T15:02:40.513Z",
-        "message_id": "17914222407443652",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-engadget-com-2248998-anker-brings-its-ai-chip-to-the-soundcore-space-2-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-03T15:02:48.167Z",
-        "message_id": "18113170199092406",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/",
-      "source_url": "https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/",
-      "headline": "Anker's MindBase is a smart home hub, NAS and security guard",
-      "summary": "Anker's MindBase uses AI to run your smart home, and keep it safe.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/ankers-mindbase-is-a-smart-home-hub-nas-and-security-guard/l-intro-1788361945.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/ankers-mindbase-is-a-smart-home-hub-nas-and-security-guard/l-intro-1788361945.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ankers-mindbase-is-a-smart-home-hub-nas-and-security-guard",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-03T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-03T15:01:34.341Z",
-        "message_id": 307,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-03T17:15:46.825Z",
-        "message_id": "17994711050824902",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-engadget-com-2249482-anker-mindbase-is-a-smart-home-hub-nas-and-securi-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-03T17:15:55.717Z",
-        "message_id": "18007437920990869",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-      "source_url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-      "headline": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6a98bc1a652ea8849cb4e3a3/191:100/w_1280,c_limit/Meta-Stops-Forcing-Employees-To-Use-AI-Business-1461790372.jpg",
-      "image_url": "https://media.wired.com/photos/6a98bc1a652ea8849cb4e3a3/191:100/w_1280,c_limit/Meta-Stops-Forcing-Employees-To-Use-AI-Business-1461790372.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-03T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-03T18:42:30.351Z",
-        "message_id": 308,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-03T18:44:29.223Z",
-        "message_id": "18092830670642815",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-03/Meta-Pushes-Its-New-AI-Agent-on-Employees-but-Eases-Off-on-Tokenmaxxing-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-wired-com-story-meta-pushes-its-new-ai-agent-on-employees-but-eases-of-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-03T18:44:36.737Z",
-        "message_id": "18131365258632763",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/",
-      "source_url": "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/",
-      "headline": "Adobe brings 70+ tools from Photoshop, Illustrator and more to Slack",
-      "summary": "Adobe added dozens of tools from its creative apps like Illustrator and Premiere Pro into Slack, allowing you to ask Slackbot to do the Photoshopping for you.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack/l-intro-1788393296.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack/l-intro-1788393296.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack",
-      "detected_partner": "adobe",
-      "product_url": "https://www.adobe.com/products/firefly.html",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-is-quietly-building-an-ai-version-of-canva-inside-workspace",
+      "detected_partner": "canva",
+      "product_url": "/go/canva.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-03T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-04T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-03T21:23:43.137Z",
-        "message_id": 309,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-03T20:01:33.866Z",
-        "message_id": "17949314319271977",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-engadget-com-2250051-adobe-slack-over-70-tools-added--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-techradar-com-ai-platforms-assistants-google-is-quietly-building-an-ai-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-03T20:01:42.485Z",
-        "message_id": "18125639782696683",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/computing/wi-fi-broadband/if-you-believe-in-the-potential-of-ai-then-you-also-believe-in-the-potential-of-supermobile-vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are-as-ubiquitous-as-phones",
-      "source_url": "https://www.techradar.com/computing/wi-fi-broadband/if-you-believe-in-the-potential-of-ai-then-you-also-believe-in-the-potential-of-supermobile-vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are-as-ubiquitous-as-phones",
-      "headline": "Vodafone’s new premier connectivity plan is designed for a future in which Meta Glasses are as ubiquitous as phones: ‘If you believe in the potential of AI, then you also believe in the potential of SuperMobile’",
-      "summary": "Vodafone has launched a new SuperMobile connectivity plan that's fast enough to power the ‘new world of generative AI.’",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/d9QEcSoKNvwDX9Ju47DdJa-1780-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/d9QEcSoKNvwDX9Ju47DdJa-1780-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1780,
-        "height": 1002,
-        "aspectRatio": 1.7764471057884232,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-03T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-03T23:27:23.886Z",
-        "message_id": 310,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-03T21:45:22.697Z",
-        "message_id": "18031599827841646",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-03/https-www-techradar-com-computing-wi-fi-broadband-if-you-believe-in-the-potentia-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-03T21:45:38.844Z",
-        "message_id": "18136211470715669",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "source_url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "headline": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "story_id": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source_url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "headline": "The sameness problem behind those unappetizing AI-generated menus",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
       "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Cheeseburger-stack.png?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Cheeseburger-stack.png?resize=1200,800",
       "image_validation": {
         "valid": true,
         "width": 1200,
@@ -422,68 +115,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-sameness-problem-behind-those-unappetizing-ai-generated-menus",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-03T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-04T01:00:56.833Z",
-        "message_id": 311,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-04T00:25:45.795Z",
-        "message_id": "17944144089314631",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-03/https-techcrunch-com-2026-09-02-palo-alto-networks-paid-500m-for-thrive-backed-c-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-04T00:25:55.115Z",
-        "message_id": "18034459202652220",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "source_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "headline": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 628,
-        "aspectRatio": 1.910828025477707,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animal",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-03T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-04T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -498,8 +134,54 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-03/TechCrunch-Disrupt-2026-s-new-Real-World-AI-Stage-features-Nvidia-robots-and-ext-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-03/https-techcrunch-com-2026-09-02-techcrunch-disrupt-2026s-new-real-world-ai-stage-story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-techcrunch-com-2026-09-03-the-sameness-problem-behind-those-unappetizing-a-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+      "source_url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+      "headline": "Nvidia will officially bring DLSS 5 to older GPUs",
+      "summary": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version of DLSS 5 to run on ju",
+      "source_name": "but won’t give gamers full control",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 627,
+        "aspectRatio": 1.9138755980861244,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nvidia-will-officially-bring-dlss-5-to-older-gpus",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-04T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-04/Nvidia-will-officially-bring-DLSS-5-to-older-GPUs-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-theverge-com-games-989978-nvidia-dlss-5-rtx-40-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -510,21 +192,27 @@
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "source_url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "headline": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openais-new-reasoning-technique-alarms-ai-safety-experts",
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/i-thought-chatgpts-new-stickers-feature-sounded-like-peak-ai-slop-then-i-made-a-pack-i-actually-wanted-to-use",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/i-thought-chatgpts-new-stickers-feature-sounded-like-peak-ai-slop-then-i-made-a-pack-i-actually-wanted-to-use",
+      "headline": "I thought ChatGPT’s new Stickers feature sounded like peak AI slop",
+      "summary": "ChatGPT’s Stickers feature transcends disposable AI slop and proved surprisingly charming.",
+      "source_name": "then I made a pack I actually wanted to use",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/3DXuTR6xmVf5PPDkv3bRq5-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3DXuTR6xmVf5PPDkv3bRq5-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-thought-chatgpts-new-stickers-feature-sounded-like-peak-ai-slop",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-03T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-04T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -538,15 +226,246 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-09-03/OpenAI-s-new-reasoning-technique-alarms-AI-safety-experts-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-09-03/OpenAI-s-new-reasoning-technique-alarms-AI-safety-experts-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-03/https-techcrunch-com-2026-09-02-openais-new-reasoning-technique-alarms-ai-safety-story.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-techradar-com-ai-platforms-assistants-i-thought-chatgpts-new-stickers--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+      "source_url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+      "headline": "The unusually muted Tesla Cybercab launch",
+      "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, a",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&strip=all&crop=0%2C15.098136889637%2C100%2C69.803726220726&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&strip=all&crop=0%2C15.098136889637%2C100%2C69.803726220726&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 620,
+        "aspectRatio": 1.935483870967742,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-unusually-muted-tesla-cybercab-launch",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-04T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-04/The-unusually-muted-Tesla-Cybercab-launch-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-theverge-com-transportation-989501-tesla-cybercab-launch-robotaxi-aust-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected",
-          "instagram-card-for-missing-source"
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/",
+      "source_url": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/",
+      "headline": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
+      "summary": "The new frontier model is particularly competent at agentic, computer-use tasks.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/l-intro-1788476205.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/l-intro-1788476205.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-04T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-engadget-com-2250814-openai-says-gpt-6-astra-is-the-most-intelligent-a-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/",
+      "source_url": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/",
+      "headline": "Ugreen's new smart home ecosystem is built around local AI hubs",
+      "summary": "Ugreen has three new hubs that run your smart home with local AI rather than the cloud. The top model runs on Nvidia's Jetson Thor platform and costs $20,000.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/ugreens-new-smart-home-ecosystem-is-built-around-local-ai-hubs/l-intro-1788468967.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/ugreens-new-smart-home-ecosystem-is-built-around-local-ai-hubs/l-intro-1788468967.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ugreens-new-smart-home-ecosystem-is-built-around-local-ai-hubs",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-04T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-engadget-com-2250749-ugreen-smart-home-ecosystem-built-around-local-ai-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/",
+      "source_url": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/",
+      "headline": "SpaceXAI apologizes for outage that affected Grok and other 'compute partners'",
+      "summary": "Several AI companies experienced issues at around the same time.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/l-intro-1788472233.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/l-intro-1788472233.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-04T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-engadget-com-2250789-spacexai-apologizes-for-outage-that-affected-grok-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+      "source_url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+      "headline": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
+      "image_url": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1232,
+        "height": 645,
+        "aspectRatio": 1.910077519379845,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=prediction-market-betting-is-getting-people-banned-and-arrested",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-04T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-04/Prediction-Market-Betting-Is-Getting-People-Banned-and-Arrested-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-wired-com-story-prediction-market-betting-is-getting-people-banned-and-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     }
