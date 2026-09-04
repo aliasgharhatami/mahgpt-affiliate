@@ -1309,6 +1309,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/why-industrial-ai-is-adopting-faster-than-its-working": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-04T11:09:03.377Z",
+        "message_id": 313,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
