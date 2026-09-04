@@ -522,6 +522,20 @@
         "message_id": "18103264961081381",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/design/advertising/parker-only-went-and-made-those-viral-anti-ai-pen-billboards-real": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-04T17:06:47.661Z",
+        "message_id": "18048215420803610",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-04T17:06:56.620Z",
+        "message_id": "17984246898099717",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
