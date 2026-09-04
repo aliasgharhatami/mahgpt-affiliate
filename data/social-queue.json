@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-09-04",
-  "created_at": "2026-09-04T06:00:13.964Z",
-  "source_feed_updated_at": "2026-09-04T06:00:13.869Z",
+  "created_at": "2026-09-04T09:39:52.144Z",
+  "source_feed_updated_at": "2026-09-04T09:39:48.399Z",
   "items": [
     {
       "story_id": "https://www.macworld.com/article/3224796/feature-packed-pdf-reader-pro-is-just-39-99-for-life.html",
@@ -84,8 +84,7 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-04T09:20:20.126Z",
-        "message_id": "18077751110348455",
-        "media_kind": "source"
+        "message_id": "18077751110348455"
       },
       "x": {
         "status": "pending"
@@ -99,12 +98,190 @@
         "repairs": [
           "image-rejected"
         ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/why-industrial-ai-is-adopting-faster-than-its-working",
+      "source_url": "https://www.techradar.com/pro/why-industrial-ai-is-adopting-faster-than-its-working",
+      "headline": "Why industrial AI is adopting faster than it’s working",
+      "summary": "Access to industrial AI is moving faster than the ability to use it consistently. That gap is now the constraint.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-04T09:20:28.977Z",
-        "message_id": "17897715903664971",
-        "media_kind": "story-fallback"
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-industrial-ai-is-adopting-faster-than-its-working",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-04T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-techradar-com-pro-why-industrial-ai-is-adopting-faster-than-its-workin-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3224958/iscanner-is-a-major-upgrade-to-your-desktop-scanner-and-with-this-labor-day-discount-its-only-24-97.html",
+      "source_url": "https://www.macworld.com/article/3224958/iscanner-is-a-major-upgrade-to-your-desktop-scanner-and-with-this-labor-day-discount-its-only-24-97.html",
+      "headline": "iScanner is a major upgrade to your desktop scanner, and with this Labor Day discount it’s only $24.97",
+      "summary": "Macworld TL;DR: Replace the scanner taking up space on your desk with a lifetime subscription to the portable, feature-packed iScanner App, on sale for Labor Day for just $24.97, 88% off the $199 regular price. You need to scan, but that doesn’t mean you need a bulky desktop scanner: With the iScan",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3224958-0-01562800-1788508899-iScanner.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3224958-0-01562800-1788508899-iScanner.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=iscanner-is-a-major-upgrade-to-your-desktop-scanner-and-with-this-labor-day-discount-its-o",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-04T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-macworld-com-article-3224958-iscanner-is-a-major-upgrade-to-your-deskt-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.creativebloq.com/design/advertising/parker-only-went-and-made-those-viral-anti-ai-pen-billboards-real",
+      "source_url": "https://www.creativebloq.com/design/advertising/parker-only-went-and-made-those-viral-anti-ai-pen-billboards-real",
+      "headline": "Parker only went and made those viral anti-AI pen billboards real",
+      "summary": "Creatives' ingenious ideas went live in Times Square.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Jj94UaRhKysYSDUgGK7i7S-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Jj94UaRhKysYSDUgGK7i7S-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=parker-only-went-and-made-those-viral-anti-ai-pen-billboards-real",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-04T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-creativebloq-com-design-advertising-parker-only-went-and-made-those-vi-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.creativebloq.com/art/quote-of-the-day-by-pablo-picasso-the-chief-enemy-of-creativity-is-good-sense",
+      "source_url": "https://www.creativebloq.com/art/quote-of-the-day-by-pablo-picasso-the-chief-enemy-of-creativity-is-good-sense",
+      "headline": "Quote of the Day by Pablo Picasso: “The chief enemy of creativity is ‘good’ sense\"",
+      "summary": "Why this advice is more relevant than ever in an age of algorithms, AI and art made for likes.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/SfBgStB5W3m4dweQo83pb3-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/SfBgStB5W3m4dweQo83pb3-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1739,
+        "aspectRatio": 1.4721104082806211,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=quote-of-the-day-by-pablo-picasso-the-chief-enemy-of-creativity-is-good-sense",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-04T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-creativebloq-com-art-quote-of-the-day-by-pablo-picasso-the-chief-enemy-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
       }
     },
     {
@@ -128,7 +305,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-04T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-04T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -174,7 +351,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-04T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-04T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -221,7 +398,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-04T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-04T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -267,7 +444,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-04T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-04T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -284,191 +461,6 @@
       "fallback_image_landscape": "",
       "fallback_image_instagram": "assets/social-cards/2026-09-04/The-unusually-muted-Tesla-Cybercab-launch-instagram.png",
       "fallback_image_story": "assets/social-cards/2026-09-04/https-www-theverge-com-transportation-989501-tesla-cybercab-launch-robotaxi-aust-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/",
-      "source_url": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/",
-      "headline": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
-      "summary": "The new frontier model is particularly competent at agentic, computer-use tasks.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/l-intro-1788476205.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/l-intro-1788476205.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-04T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-engadget-com-2250814-openai-says-gpt-6-astra-is-the-most-intelligent-a-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/",
-      "source_url": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/",
-      "headline": "Ugreen's new smart home ecosystem is built around local AI hubs",
-      "summary": "Ugreen has three new hubs that run your smart home with local AI rather than the cloud. The top model runs on Nvidia's Jetson Thor platform and costs $20,000.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/ugreens-new-smart-home-ecosystem-is-built-around-local-ai-hubs/l-intro-1788468967.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/ugreens-new-smart-home-ecosystem-is-built-around-local-ai-hubs/l-intro-1788468967.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ugreens-new-smart-home-ecosystem-is-built-around-local-ai-hubs",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-04T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-engadget-com-2250749-ugreen-smart-home-ecosystem-built-around-local-ai-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/",
-      "source_url": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/",
-      "headline": "SpaceXAI apologizes for outage that affected Grok and other 'compute partners'",
-      "summary": "Several AI companies experienced issues at around the same time.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/l-intro-1788472233.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/l-intro-1788472233.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-04T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-engadget-com-2250789-spacexai-apologizes-for-outage-that-affected-grok-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-      "source_url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-      "headline": "Prediction Market Betting Is Getting People Banned and Arrested",
-      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
-      "image_url": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1232,
-        "height": 645,
-        "aspectRatio": 1.910077519379845,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=prediction-market-betting-is-getting-people-banned-and-arrested",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-04T23:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-04/Prediction-Market-Betting-Is-Getting-People-Banned-and-Arrested-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-04/https-www-wired-com-story-prediction-market-betting-is-getting-people-banned-and-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
