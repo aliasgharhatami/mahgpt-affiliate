@@ -494,6 +494,20 @@
         "message_id": "17897715903664971",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/why-industrial-ai-is-adopting-faster-than-its-working": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-04T13:41:20.189Z",
+        "message_id": "18119924533920864",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-04T13:41:34.016Z",
+        "message_id": "18028687667893255",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
