@@ -480,6 +480,20 @@
         "message_id": "18034459202652220",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/google-is-quietly-building-an-ai-version-of-canva-inside-workspace-and-nano-banana-could-make-it-seriously-useful": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-04T09:20:20.126Z",
+        "message_id": "18077751110348455",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-04T09:20:28.977Z",
+        "message_id": "17897715903664971",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
