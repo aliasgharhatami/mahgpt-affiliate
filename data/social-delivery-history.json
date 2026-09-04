@@ -1360,6 +1360,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/art/quote-of-the-day-by-pablo-picasso-the-chief-enemy-of-creativity-is-good-sense": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-04T20:56:52.152Z",
+        "message_id": 316,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
