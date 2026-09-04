@@ -1326,6 +1326,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3224958/iscanner-is-a-major-upgrade-to-your-desktop-scanner-and-with-this-labor-day-discount-its-only-24-97.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-04T14:58:26.143Z",
+        "message_id": 314,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
