@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T06:00:13.869Z",
+  "updatedAt": "2026-09-04T09:39:48.399Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -36,6 +36,50 @@
       "source": "https://www.techradar.com/ai-platforms-assistants/google-is-quietly-building-an-ai-version-of-canva-inside-workspace-and-nano-banana-could-make-it-seriously-useful",
       "publishedAt": "2026-09-03T14:35:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/h4bHGsEyWZD5asEUQtdiee-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Why industrial AI is adopting faster than it’s working",
+      "summary": "Access to industrial AI is moving faster than the ability to use it consistently. That gap is now the constraint.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/why-industrial-ai-is-adopting-faster-than-its-working",
+      "publishedAt": "2026-09-04T09:06:27.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "iScanner is a major upgrade to your desktop scanner, and with this Labor Day discount it’s only $24.97",
+      "summary": "Macworld TL;DR: Replace the scanner taking up space on your desk with a lifetime subscription to the portable, feature-packed iScanner App , on sale for Labor Day for just $24.97, 88% off the $199 regular price. You need to scan, but that doesn’t mean you need a bulky desktop scanner: With the iScan",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3224958/iscanner-is-a-major-upgrade-to-your-desktop-scanner-and-with-this-labor-day-discount-its-only-24-97.html",
+      "publishedAt": "2026-09-04T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3224958-0-01562800-1788508899-iScanner.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Parker only went and made those viral anti-AI pen billboards real",
+      "summary": "Creatives' ingenious ideas went live in Times Square.",
+      "guide": "/news/index.html",
+      "source": "https://www.creativebloq.com/design/advertising/parker-only-went-and-made-those-viral-anti-ai-pen-billboards-real",
+      "publishedAt": "2026-09-04T08:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Jj94UaRhKysYSDUgGK7i7S-1920-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Quote of the Day by Pablo Picasso: “The chief enemy of creativity is ‘good’ sense\"",
+      "summary": "Why this advice is more relevant than ever in an age of algorithms, AI and art made for likes.",
+      "guide": "/news/index.html",
+      "source": "https://www.creativebloq.com/art/quote-of-the-day-by-pablo-picasso-the-chief-enemy-of-creativity-is-good-sense",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/SfBgStB5W3m4dweQo83pb3-2560-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -80,50 +124,6 @@
       "source": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
       "publishedAt": "2026-09-04T00:25:06.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&strip=all&crop=0%2C15.098136889637%2C100%2C69.803726220726&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
-      "summary": "The new frontier model is particularly competent at agentic, computer-use tasks.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/",
-      "publishedAt": "2026-09-03T22:58:12.000Z",
-      "image": "https://www.engadget.com/img/gallery/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/l-intro-1788476205.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Ugreen's new smart home ecosystem is built around local AI hubs",
-      "summary": "Ugreen has three new hubs that run your smart home with local AI rather than the cloud. The top model runs on Nvidia's Jetson Thor platform and costs $20,000.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/",
-      "publishedAt": "2026-09-03T22:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/ugreens-new-smart-home-ecosystem-is-built-around-local-ai-hubs/l-intro-1788468967.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "SpaceXAI apologizes for outage that affected Grok and other 'compute partners'",
-      "summary": "Several AI companies experienced issues at around the same time.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/",
-      "publishedAt": "2026-09-03T21:52:34.000Z",
-      "image": "https://www.engadget.com/img/gallery/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/l-intro-1788472233.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
-      "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-      "publishedAt": "2026-09-03T21:48:24.000Z",
-      "image": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg"
     }
   ]
 }
