@@ -466,6 +466,20 @@
         "message_id": "18136211470715669",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-04T00:25:45.795Z",
+        "message_id": "17944144089314631",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-04T00:25:55.115Z",
+        "message_id": "18034459202652220",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
