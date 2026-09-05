@@ -1496,6 +1496,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-05T21:17:28.955Z",
+        "message_id": 324,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
