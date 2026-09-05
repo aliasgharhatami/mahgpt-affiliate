@@ -592,6 +592,20 @@
         "message_id": "18335750587255663",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3223456/ifa-2026-the-best-accessories-we-found-for-your-iphone-ipad-and-mac.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-05T09:09:13.014Z",
+        "message_id": "17908671558530086",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-05T09:09:21.228Z",
+        "message_id": "18005331302994381",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
