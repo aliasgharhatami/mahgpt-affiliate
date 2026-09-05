@@ -662,6 +662,20 @@
         "message_id": "18049258055598505",
         "media_kind": "story-fallback"
       }
+    },
+    "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-05T20:40:22.798Z",
+        "message_id": "18126101803831858",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-05T20:40:32.222Z",
+        "message_id": "18457138054190013",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
