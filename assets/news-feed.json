@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T08:57:28.626Z",
+  "updatedAt": "2026-09-05T09:05:24.984Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
