@@ -375,7 +375,10 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "pending"
+        "status": "published",
+        "published_at": "2026-09-05T22:19:31.570Z",
+        "message_id": "18373461907243427",
+        "media_kind": "fallback-card"
       },
       "x": {
         "status": "pending"
@@ -390,6 +393,12 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
+      },
+      "instagram_story": {
+        "status": "failed",
+        "attempted_at": "2026-09-05T22:19:36.878Z",
+        "classification": "instagram-api-error",
+        "message": "The requested resource does not exist"
       }
     },
     {
