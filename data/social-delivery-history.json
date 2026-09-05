@@ -1411,6 +1411,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3223456/ifa-2026-the-best-accessories-we-found-for-your-iphone-ipad-and-mac.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-05T08:57:37.838Z",
+        "message_id": 319,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
