@@ -1428,6 +1428,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/tech/quote-of-the-day-by-tim-cook-im-not-worried-about-ai-giving-computers-the-ability-to-think-like-humans-im-more-concerned-about-people-thinking-like-computers-without-values-or-compassion-without-concern-for-consequences": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-05T12:35:03.738Z",
+        "message_id": 320,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
