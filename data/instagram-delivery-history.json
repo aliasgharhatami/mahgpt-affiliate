@@ -634,6 +634,20 @@
         "message_id": "17924440215185431",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-05T16:07:31.631Z",
+        "message_id": "18108789083605541",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-05T16:07:37.761Z",
+        "message_id": "17909169654532029",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
