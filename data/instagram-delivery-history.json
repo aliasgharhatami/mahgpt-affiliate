@@ -620,6 +620,20 @@
         "message_id": "18068570102735649",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-05T12:47:37.648Z",
+        "message_id": "18126448171627532",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-05T12:47:47.607Z",
+        "message_id": "17924440215185431",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
