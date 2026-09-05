@@ -578,6 +578,20 @@
         "message_id": "18390745867202691",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/i-thought-chatgpts-new-stickers-feature-sounded-like-peak-ai-slop-then-i-made-a-pack-i-actually-wanted-to-use": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-05T01:03:50.974Z",
+        "message_id": "18128404747746026",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-05T01:03:59.376Z",
+        "message_id": "18335750587255663",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
