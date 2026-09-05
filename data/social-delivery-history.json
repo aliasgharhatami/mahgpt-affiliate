@@ -1479,6 +1479,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-05T19:03:44.965Z",
+        "message_id": 323,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
