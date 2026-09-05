@@ -1394,6 +1394,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-05T00:43:47.863Z",
+        "message_id": 318,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
