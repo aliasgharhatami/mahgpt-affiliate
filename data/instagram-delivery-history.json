@@ -760,6 +760,20 @@
         "message_id": "18053226140578962",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2251707/seattle-times-newsday-sue-openai-microsoft-for-copyright-infringement/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-06T17:37:30.198Z",
+        "message_id": "18115345687749884",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-06T17:37:37.918Z",
+        "message_id": "17947133682338048",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
