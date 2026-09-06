@@ -746,6 +746,20 @@
         "message_id": "18204414724366035",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-06T15:48:57.461Z",
+        "message_id": "18120177883915260",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-06T15:49:09.462Z",
+        "message_id": "18053226140578962",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
