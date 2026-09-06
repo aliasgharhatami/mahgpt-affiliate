@@ -704,6 +704,20 @@
         "message_id": "18089785379186804",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-06T08:56:56.818Z",
+        "message_id": "17914151640444397",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-06T08:57:05.893Z",
+        "message_id": "17960204628191614",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
