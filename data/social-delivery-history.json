@@ -1581,6 +1581,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-06T11:15:10.621Z",
+        "message_id": 329,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
