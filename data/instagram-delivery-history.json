@@ -802,6 +802,20 @@
         "message_id": "18355198255218886",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-06T23:57:48.922Z",
+        "message_id": "18107911310273036",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-06T23:57:56.069Z",
+        "message_id": "18119568136923710",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
