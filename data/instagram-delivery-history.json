@@ -774,6 +774,20 @@
         "message_id": "17947133682338048",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2245485/roku-tv-channel-ai-slop-free-fairground/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-06T19:29:11.463Z",
+        "message_id": "18112929367826342",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-06T19:29:20.562Z",
+        "message_id": "18098463224562320",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
