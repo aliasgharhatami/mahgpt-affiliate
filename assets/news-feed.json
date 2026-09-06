@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T09:05:24.984Z",
+  "updatedAt": "2026-09-06T06:22:18.731Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,12 +19,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
+      "summary": "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/",
+      "publishedAt": "2026-09-05T21:17:18.000Z",
+      "image": "https://www.engadget.com/img/gallery/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/l-intro-1788642295.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "publishedAt": "2026-09-05T18:05:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Two more news organizations sue OpenAI and Microsoft for copyright infringement",
+      "summary": "The Seattle Times and Newsday accused the two AI giants of using their content without permission.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2251707/seattle-times-newsday-sue-openai-microsoft-for-copyright-infringement/",
+      "publishedAt": "2026-09-05T17:46:29.000Z",
+      "image": "https://www.engadget.com/img/gallery/two-more-news-organizations-sue-openai-and-microsoft-for-copyright-infringement/l-intro-1788630220.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Your Roku TV offers AI slop for free (if you're into that sort of thing)",
+      "summary": "Roku's new free programming gives AI creators a platform for their productions. Whether the public will embrace it remains to be seen,",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2245485/roku-tv-channel-ai-slop-free-fairground/",
+      "publishedAt": "2026-09-05T15:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/your-roku-tv-offers-ai-slop-for-free-if-youre-into-that-sort-of-thing/l-intro-1787762385.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Samsung's Labor Day appliance sale is live — $1,500 off Bespoke refrigerators, AI washers and dryers, dishwashers, and more",
+      "summary": "Samsung's Labor Day sale is live, and I have all the top offers, including up to $1,500 in savings on Bespoke refrigerators, AI washers and dryers, ranges, dishwashers, and more.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/seasonal-sales/samsungs-labor-day-appliance-sale-is-live-usd1-500-off-bespoke-refrigerators-ai-washers-and-dryers-dishwashers-and-more",
+      "publishedAt": "2026-09-05T14:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/U48KFBkfM3JwgtqZ8rmxjH-2000-80.png"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our age",
+      "guide": "/news/index.html",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "publishedAt": "2026-09-05T11:15:55.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Get ready, Apple’s iPhone event is massive this year",
+      "summary": "Macworld Apple always holds its events at 10 am PT, with iPhone launches usually taking place on the second Tuesday or Wednesday of September. This year, that means the event, dubbed Surprise and Shine , will take place on Wednesday, September 9. Additionally, Apple always introduces its new iPhones",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3209849/apple-surprise-shine-event-iphone-18-pro-ultra-watch-smart-home.html",
+      "publishedAt": "2026-09-05T11:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3209849-0-71701900-1788606035-john-ternus-scary-fast-event.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
       "title": "IFA 2026: The best accessories we found for your iPhone, iPad, and Mac",
       "summary": "Macworld IFA 2026 in Berlin is Europe’s answer to CES, attracting global brands and huge crowds. Macworld walked its 27 halls to find the most interesting Apple-related products, breezily ignoring Windows PCs and Nintendo Switch accessories. More importantly, this year’s best launches offered a glim",
       "guide": "/news/index.html",
       "source": "https://www.macworld.com/article/3223456/ifa-2026-the-best-accessories-we-found-for-your-iphone-ipad-and-mac.html",
       "publishedAt": "2026-09-05T07:46:01.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3223456-0-99012200-1788594375-IFA-2026-banners.jpg?quality=50&strip=all&w=1024"
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3223456-0-54121900-1788602198-IFA-2026-banners.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
@@ -36,94 +124,6 @@
       "source": "https://www.creativebloq.com/tech/quote-of-the-day-by-tim-cook-im-not-worried-about-ai-giving-computers-the-ability-to-think-like-humans-im-more-concerned-about-people-thinking-like-computers-without-values-or-compassion-without-concern-for-consequences",
       "publishedAt": "2026-09-05T06:00:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/ob4D5NeGyWoVo3cjVbyYXZ-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "publishedAt": "2026-09-04T23:15:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "publishedAt": "2026-09-04T21:12:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ide",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "publishedAt": "2026-09-04T17:51:35.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&strip=all&crop=0%2C10.595205290714%2C100%2C78.809589418573&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-      "guide": "/news/index.html",
-      "source": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "publishedAt": "2026-09-04T17:18:12.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "AGI is whatever you want it to be",
-      "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and Nvidia's acquisition ",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
-      "publishedAt": "2026-09-04T17:16:49.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Artboard-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Grab the M5 MacBook Air with 1TB of storage and save $150",
-      "summary": "Macworld Save $150 ion Apple MacBook Air M5 View Deal (function () { document.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) { const debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1; const text = this.closest(\"#sticky-promo-block\").querySelector(\"p.p",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3227535/grab-the-m5-macbook-air-with-1tb-of-storage-and-save-150.html",
-      "publishedAt": "2026-09-04T16:54:13.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3227535-0-75955400-1788540867-macbook-air-m5-hero.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Get ready for the ‘biggest run’ of product releases in Apple history",
-      "summary": "Macworld The John Ternus era is entering like a wave. According to Bloomberg’s Mark Gurman, the “Surprise and Shine” iPhone event on Wednesday will kick off, “the biggest run of device releases in [Apple’s] history, delivering a wave of fresh form factors and whole new product areas in 2026, 2027 an",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3227570/get-ready-for-the-biggest-run-of-product-releases-in-apple-history.html",
-      "publishedAt": "2026-09-04T16:49:03.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3227570-0-82764600-1788540563-apple-store-syndey-iphone-17-pro.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Apple&#8217;s Ternus era begins as Nvidia bets on the whole AI stack",
-      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "publishedAt": "2026-09-04T16:04:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264179980.jpg?resize=1200,800"
     }
   ]
 }

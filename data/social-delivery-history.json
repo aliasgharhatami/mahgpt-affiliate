@@ -1547,6 +1547,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-06T06:22:29.654Z",
+        "message_id": 327,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
