@@ -1666,6 +1666,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-06T23:00:29.253Z",
+        "message_id": 334,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
