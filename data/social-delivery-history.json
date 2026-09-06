@@ -1649,6 +1649,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/seasonal-sales/samsungs-labor-day-appliance-sale-is-live-usd1-500-off-bespoke-refrigerators-ai-washers-and-dryers-dishwashers-and-more": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-06T21:23:53.799Z",
+        "message_id": 333,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
