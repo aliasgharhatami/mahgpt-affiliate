@@ -1632,6 +1632,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2245485/roku-tv-channel-ai-slop-free-fairground/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-06T19:12:40.520Z",
+        "message_id": 332,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
