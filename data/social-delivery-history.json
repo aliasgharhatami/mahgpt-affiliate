@@ -1615,6 +1615,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2251707/seattle-times-newsday-sue-openai-microsoft-for-copyright-infringement/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-06T16:24:59.119Z",
+        "message_id": 331,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
