@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T06:22:18.731Z",
+  "updatedAt": "2026-09-06T09:27:01.377Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -15,6 +15,17 @@
     "https://feeds.arstechnica.com/arstechnica/technology-lab"
   ],
   "items": [
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "The best budget AI laptops under $1,000: Your laptop should make your life easier!",
+      "summary": "You don't need to spend big to run AI locally.",
+      "guide": "/news/index.html",
+      "source": "https://www.creativebloq.com/tech/laptops/the-best-budget-ai-laptops-under-usd1-000-let-your-laptop-make-your-life-easier",
+      "publishedAt": "2026-09-06T08:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/K3NbfCBmm7vDWVhfth2KMV-1920-80.jpg"
+    },
     {
       "tool": "ai-news",
       "toolName": "AI News",
@@ -113,17 +124,6 @@
       "source": "https://www.macworld.com/article/3223456/ifa-2026-the-best-accessories-we-found-for-your-iphone-ipad-and-mac.html",
       "publishedAt": "2026-09-05T07:46:01.000Z",
       "image": "https://www.macworld.com/wp-content/uploads/2026/09/3223456-0-54121900-1788602198-IFA-2026-banners.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Quote of the Day by Tim Cook: \"I'm not worried about AI giving computers the ability to think like humans. I'm more concerned about people thinking like computers without values or compassion, without concern for consequences.\"",
-      "summary": "As Apple's CEO steps down, his decade-old words serve as a warning.",
-      "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/tech/quote-of-the-day-by-tim-cook-im-not-worried-about-ai-giving-computers-the-ability-to-think-like-humans-im-more-concerned-about-people-thinking-like-computers-without-values-or-compassion-without-concern-for-consequences",
-      "publishedAt": "2026-09-05T06:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ob4D5NeGyWoVo3cjVbyYXZ-1920-80.jpg"
     }
   ]
 }
