@@ -1564,6 +1564,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/tech/laptops/the-best-budget-ai-laptops-under-usd1-000-let-your-laptop-make-your-life-easier": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-06T09:27:43.291Z",
+        "message_id": 328,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
