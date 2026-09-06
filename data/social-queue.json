@@ -1,9 +1,55 @@
 {
   "version": 1,
   "queue_date": "2026-09-06",
-  "created_at": "2026-09-06T06:22:18.828Z",
-  "source_feed_updated_at": "2026-09-06T06:22:18.731Z",
+  "created_at": "2026-09-06T09:27:05.591Z",
+  "source_feed_updated_at": "2026-09-06T09:27:01.377Z",
   "items": [
+    {
+      "story_id": "https://www.creativebloq.com/tech/laptops/the-best-budget-ai-laptops-under-usd1-000-let-your-laptop-make-your-life-easier",
+      "source_url": "https://www.creativebloq.com/tech/laptops/the-best-budget-ai-laptops-under-usd1-000-let-your-laptop-make-your-life-easier",
+      "headline": "The best budget AI laptops under $1,000: Your laptop should make your life easier!",
+      "summary": "You don't need to spend big to run AI locally.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/K3NbfCBmm7vDWVhfth2KMV-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/K3NbfCBmm7vDWVhfth2KMV-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-best-budget-ai-laptops-under-1-000-your-laptop-should-make-your-life-easier",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-06T05:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-06/https-www-creativebloq-com-tech-laptops-the-best-budget-ai-laptops-under-usd1-00-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
     {
       "story_id": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
       "source_url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -19,12 +65,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-06T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-06T06:22:29.654Z",
-        "message_id": 327,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-06T06:22:29.654Z"
       },
       "linkedin": {
         "status": "pending"
@@ -32,8 +76,7 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-06T08:56:56.818Z",
-        "message_id": "17914151640444397",
-        "media_kind": "fallback-card"
+        "message_id": "17914151640444397"
       },
       "x": {
         "status": "pending"
@@ -48,12 +91,6 @@
           "image-rejected",
           "instagram-card-for-missing-source"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-06T08:57:05.893Z",
-        "message_id": "17960204628191614",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -77,7 +114,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-06T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -117,7 +154,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-06T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -164,7 +201,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-06T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -210,7 +247,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-06T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -256,7 +293,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-06T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -302,7 +339,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T17:20:00.000Z",
+      "scheduled_publish_at": "2026-09-06T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -349,7 +386,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-06T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -395,7 +432,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-06T23:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-09-05T08:57:37.838Z"
@@ -414,54 +451,6 @@
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
       "fallback_image_story": "assets/social-cards/2026-09-06/https-www-macworld-com-article-3223456-ifa-2026-the-best-accessories-we-found-fo-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.creativebloq.com/tech/quote-of-the-day-by-tim-cook-im-not-worried-about-ai-giving-computers-the-ability-to-think-like-humans-im-more-concerned-about-people-thinking-like-computers-without-values-or-compassion-without-concern-for-consequences",
-      "source_url": "https://www.creativebloq.com/tech/quote-of-the-day-by-tim-cook-im-not-worried-about-ai-giving-computers-the-ability-to-think-like-humans-im-more-concerned-about-people-thinking-like-computers-without-values-or-compassion-without-concern-for-consequences",
-      "headline": "Quote of the Day by Tim Cook: \"I'm not worried about AI giving computers the ability to think like humans. I'm more concerned about people thinking like computers without values or compassion, without concern for consequences.\"",
-      "summary": "As Apple's CEO steps down, his decade-old words serve as a warning.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ob4D5NeGyWoVo3cjVbyYXZ-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ob4D5NeGyWoVo3cjVbyYXZ-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=quote-of-the-day-by-tim-cook-im-not-worried-about-ai-giving-computers-the-ability-to-think",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T23:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-05T12:35:03.738Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-05T10:35:06.441Z",
-        "message_id": "18024662156910685"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-06/https-www-creativebloq-com-tech-quote-of-the-day-by-tim-cook-im-not-worried-abou-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
