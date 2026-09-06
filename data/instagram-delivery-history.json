@@ -718,6 +718,20 @@
         "message_id": "17960204628191614",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/tech/laptops/the-best-budget-ai-laptops-under-usd1-000-let-your-laptop-make-your-life-easier": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-06T12:42:05.793Z",
+        "message_id": "17879879004527204",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-06T12:42:14.794Z",
+        "message_id": "18075738455709829",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
