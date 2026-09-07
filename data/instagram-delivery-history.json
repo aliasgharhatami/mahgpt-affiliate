@@ -900,6 +900,20 @@
         "message_id": "18128234368811103",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/why-ai-visibility-now-demands-paid-and-organic-geo-optimization": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-07T20:38:31.606Z",
+        "message_id": "17931503937401718",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-07T20:38:41.093Z",
+        "message_id": "17903332314560446",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
