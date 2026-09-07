@@ -844,6 +844,20 @@
         "message_id": "18111983426122025",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/the-planets-aligned-nvidia-confirms-usd12-9bn-hugging-face-deal-in-potentially-huge-ai-shake-up": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-07T10:27:45.711Z",
+        "message_id": "18103890524459691",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-07T10:27:54.704Z",
+        "message_id": "17915389854454192",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
