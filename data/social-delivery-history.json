@@ -1700,6 +1700,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-07T06:07:37.791Z",
+        "message_id": 336,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

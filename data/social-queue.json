@@ -1,9 +1,336 @@
 {
   "version": 1,
-  "queue_date": "2026-09-06",
-  "created_at": "2026-09-06T09:27:05.591Z",
-  "source_feed_updated_at": "2026-09-06T09:27:01.377Z",
+  "queue_date": "2026-09-07",
+  "created_at": "2026-09-07T06:07:28.840Z",
+  "source_feed_updated_at": "2026-09-07T06:07:28.750Z",
   "items": [
+    {
+      "story_id": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "source_url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "headline": "An Amazon cargo plane crashed at Miami International Airport",
+      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=an-amazon-cargo-plane-crashed-at-miami-international-airport",
+      "detected_partner": "runway",
+      "product_url": "/go/runway.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-09-07T05:20:00.000Z",
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-07T06:07:37.791Z",
+        "message_id": 336,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-07/An-Amazon-cargo-plane-crashed-at-Miami-International-Airport-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-theverge-com-tech-990918-amazon-cargo-plane-crashed-miami-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "headline": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user qu",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 622,
+        "aspectRatio": 1.9292604501607717,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-07T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-07/Seattle-Times-and-Newsday-sue-OpenAI-and-Microsoft-for-infringement-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-theverge-com-ai-artificial-intelligence-990932-seattle-times-newsday-l-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/",
+      "source_url": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/",
+      "headline": "OpenAI says it reached its goal of creating an automated research intern",
+      "summary": "The company hopes to have an even better \"automated AI researcher\" by March 2028.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/l-intro-1788721751.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/l-intro-1788721751.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-says-it-reached-its-goal-of-creating-an-automated-research-intern",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-07T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-engadget-com-2251859-openai-says-it-reached-its-goal-of-creating-an-au-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2247892/what-is-vibe-coding-explained/",
+      "source_url": "https://www.engadget.com/2247892/what-is-vibe-coding-explained/",
+      "headline": "What is vibe coding and why does it get so much hate?",
+      "summary": "Vibe coding has gotten a bad reputation as lazy, AI-driven coding, but that's not where it came from.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/what-is-vibe-coding-and-why-does-it-get-so-much-hate/l-intro-1788184434.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/what-is-vibe-coding-and-why-does-it-get-so-much-hate/l-intro-1788184434.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=what-is-vibe-coding-and-why-does-it-get-so-much-hate",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-07T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-engadget-com-2247892-what-is-vibe-coding-explained--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+      "source_url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+      "headline": "Flock's AI search tool for police officers has been reverse engineered",
+      "summary": "Wired has managed to uncover some of the details about how search works for police officers using Flock.",
+      "source_name": "here's what it shows",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/FxMzh8xnBa3LCTagLY7nsC-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FxMzh8xnBa3LCTagLY7nsC-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-07T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-techradar-com-tech-flocks-ai-search-tool-for-police-officers-has-been--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "source_url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "headline": "My Brief Summer Fling With Siri AI",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6a9957d8075950c219e951f8/191:100/w_1280,c_limit/GettyImages-2255802594.jpg",
+      "image_url": "https://media.wired.com/photos/6a9957d8075950c219e951f8/191:100/w_1280,c_limit/GettyImages-2255802594.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=my-brief-summer-fling-with-siri-ai",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-07T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-07/My-Brief-Summer-Fling-With-Siri-AI-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-wired-com-story-my-brief-summer-fling-with-siri-ai--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/resilience-comes-from-designing-for-disconnection-not-assuming-more-connectivity-the-future-of-battlefield-ai-systems-lies-in-both-coordination-and-local-capability",
+      "source_url": "https://www.techradar.com/pro/resilience-comes-from-designing-for-disconnection-not-assuming-more-connectivity-the-future-of-battlefield-ai-systems-lies-in-both-coordination-and-local-capability",
+      "headline": "‘Resilience comes from designing for disconnection, not assuming more connectivity’: The future of battlefield AI systems lies in both coordination and local capability",
+      "summary": "I spoke to Andreas Hellander of Scaleout to learn more about how battlefield AI systems and frontline technologies can be made more resilient.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/3xYAE75gYrzr4hTu3ssyhj-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3xYAE75gYrzr4hTu3ssyhj-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=resilience-comes-from-designing-for-disconnection-not-assuming-more-connectivity-the-futur",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-07T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-techradar-com-pro-resilience-comes-from-designing-for-disconnection-no-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
     {
       "story_id": "https://www.creativebloq.com/tech/laptops/the-best-budget-ai-laptops-under-usd1-000-let-your-laptop-make-your-life-easier",
       "source_url": "https://www.creativebloq.com/tech/laptops/the-best-budget-ai-laptops-under-usd1-000-let-your-laptop-make-your-life-easier",
@@ -25,12 +352,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-07T19:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-06T09:27:43.291Z",
-        "message_id": 328,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-06T09:27:43.291Z"
       },
       "linkedin": {
         "status": "pending"
@@ -38,27 +363,20 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-06T12:42:05.793Z",
-        "message_id": "17879879004527204",
-        "media_kind": "source"
+        "message_id": "17879879004527204"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-06/https-www-creativebloq-com-tech-laptops-the-best-budget-ai-laptops-under-usd1-00-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-creativebloq-com-tech-laptops-the-best-budget-ai-laptops-under-usd1-00-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-06T12:42:14.794Z",
-        "message_id": "18075738455709829",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -76,7 +394,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-07T21:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-09-06T06:22:29.654Z"
@@ -92,9 +410,9 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-09-06/Seattle-Times-and-Newsday-are-the-latest-publications-to-sue-OpenAI-and-Microsof-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-09-06/Seattle-Times-and-Newsday-are-the-latest-publications-to-sue-OpenAI-and-Microsof-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-06/https-techcrunch-com-2026-09-05-seattle-times-and-newsday-are-the-latest-publica-story.png",
+      "fallback_image_landscape": "assets/social-cards/2026-09-07/Seattle-Times-and-Newsday-are-the-latest-publications-to-sue-OpenAI-and-Microsof-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-07/Seattle-Times-and-Newsday-are-the-latest-publications-to-sue-OpenAI-and-Microsof-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-07/https-techcrunch-com-2026-09-05-seattle-times-and-newsday-are-the-latest-publica-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -102,63 +420,6 @@
           "image-rejected",
           "instagram-card-for-missing-source"
         ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/",
-      "source_url": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/",
-      "headline": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
-      "summary": "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/l-intro-1788642295.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/l-intro-1788642295.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-06T11:15:10.621Z",
-        "message_id": 329,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-06T14:13:55.658Z",
-        "message_id": "17988575973021305",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-06/https-www-engadget-com-2251725-openai-responds-after-report-exposed-another-inci-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-06T14:14:04.840Z",
-        "message_id": "18204414724366035",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -176,12 +437,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-07T23:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-06T13:06:15.342Z",
-        "message_id": 330,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-06T13:06:15.342Z"
       },
       "linkedin": {
         "status": "pending"
@@ -189,361 +448,20 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-06T15:48:57.461Z",
-        "message_id": "18120177883915260",
-        "media_kind": "fallback-card"
+        "message_id": "18120177883915260"
       },
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-09-06/OpenAI-confirms-wiki-incident-says-it-s-working-on-a-framework-for-more-disclosu-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-09-06/OpenAI-confirms-wiki-incident-says-it-s-working-on-a-framework-for-more-disclosu-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-06/https-techcrunch-com-2026-09-05-openai-confirms-wiki-incident-says-its-working-o-story.png",
+      "fallback_image_landscape": "assets/social-cards/2026-09-07/OpenAI-confirms-wiki-incident-says-it-s-working-on-a-framework-for-more-disclosu-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-07/OpenAI-confirms-wiki-incident-says-it-s-working-on-a-framework-for-more-disclosu-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-07/https-techcrunch-com-2026-09-05-openai-confirms-wiki-incident-says-its-working-o-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected",
           "instagram-card-for-missing-source"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-06T15:49:09.462Z",
-        "message_id": "18053226140578962",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2251707/seattle-times-newsday-sue-openai-microsoft-for-copyright-infringement/",
-      "source_url": "https://www.engadget.com/2251707/seattle-times-newsday-sue-openai-microsoft-for-copyright-infringement/",
-      "headline": "Two more news organizations sue OpenAI and Microsoft for copyright infringement",
-      "summary": "The Seattle Times and Newsday accused the two AI giants of using their content without permission.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/two-more-news-organizations-sue-openai-and-microsoft-for-copyright-infringement/l-intro-1788630220.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/two-more-news-organizations-sue-openai-and-microsoft-for-copyright-infringement/l-intro-1788630220.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=two-more-news-organizations-sue-openai-and-microsoft-for-copyright-infringement",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-06T16:24:59.119Z",
-        "message_id": 331,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-06T17:37:30.198Z",
-        "message_id": "18115345687749884",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-06/https-www-engadget-com-2251707-seattle-times-newsday-sue-openai-microsoft-for-co-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-06T17:37:37.918Z",
-        "message_id": "17947133682338048",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2245485/roku-tv-channel-ai-slop-free-fairground/",
-      "source_url": "https://www.engadget.com/2245485/roku-tv-channel-ai-slop-free-fairground/",
-      "headline": "Your Roku TV offers AI slop for free (if you're into that sort of thing)",
-      "summary": "Roku's new free programming gives AI creators a platform for their productions. Whether the public will embrace it remains to be seen,",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/your-roku-tv-offers-ai-slop-for-free-if-youre-into-that-sort-of-thing/l-intro-1787762385.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/your-roku-tv-offers-ai-slop-for-free-if-youre-into-that-sort-of-thing/l-intro-1787762385.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=your-roku-tv-offers-ai-slop-for-free-if-youre-into-that-sort-of-thing",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-06T19:12:40.520Z",
-        "message_id": 332,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-06T19:29:11.463Z",
-        "message_id": "18112929367826342",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-06/https-www-engadget-com-2245485-roku-tv-channel-ai-slop-free-fairground--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-06T19:29:20.562Z",
-        "message_id": "18098463224562320",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/seasonal-sales/samsungs-labor-day-appliance-sale-is-live-usd1-500-off-bespoke-refrigerators-ai-washers-and-dryers-dishwashers-and-more",
-      "source_url": "https://www.techradar.com/seasonal-sales/samsungs-labor-day-appliance-sale-is-live-usd1-500-off-bespoke-refrigerators-ai-washers-and-dryers-dishwashers-and-more",
-      "headline": "Samsung's Labor Day appliance sale is live — $1,500 off Bespoke refrigerators, AI washers and dryers, dishwashers, and more",
-      "summary": "Samsung's Labor Day sale is live, and I have all the top offers, including up to $1,500 in savings on Bespoke refrigerators, AI washers and dryers, ranges, dishwashers, and more.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/U48KFBkfM3JwgtqZ8rmxjH-2000-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/U48KFBkfM3JwgtqZ8rmxjH-2000-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 2000,
-        "height": 1125,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=samsungs-labor-day-appliance-sale-is-live-1-500-off-bespoke-refrigerators-ai-washers-and-d",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-06T21:23:53.799Z",
-        "message_id": 333,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-06T21:26:05.793Z",
-        "message_id": "18464744023142591",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-06/https-www-techradar-com-seasonal-sales-samsungs-labor-day-appliance-sale-is-live-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-06T21:26:14.416Z",
-        "message_id": "18355198255218886",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "headline": "OpenAI admits to German wiki ‘incident’",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our age",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 627,
-        "aspectRatio": 1.9138755980861244,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-admits-to-german-wiki-incident",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-06T23:00:29.253Z",
-        "message_id": 334,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-06T23:57:48.922Z",
-        "message_id": "18107911310273036",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-06/OpenAI-admits-to-German-wiki-incident--instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-06/https-www-theverge-com-ai-artificial-intelligence-990773-openai-german-wiki-inci-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-06T23:57:56.069Z",
-        "message_id": "18119568136923710",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3209849/apple-surprise-shine-event-iphone-18-pro-ultra-watch-smart-home.html",
-      "source_url": "https://www.macworld.com/article/3209849/apple-surprise-shine-event-iphone-18-pro-ultra-watch-smart-home.html",
-      "headline": "Get ready, Apple’s iPhone event is massive this year",
-      "summary": "Macworld Apple always holds its events at 10 am PT, with iPhone launches usually taking place on the second Tuesday or Wednesday of September. This year, that means the event, dubbed Surprise and Shine, will take place on Wednesday, September 9. Additionally, Apple always introduces its new iPhones",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3209849-0-71701900-1788606035-john-ternus-scary-fast-event.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3209849-0-71701900-1788606035-john-ternus-scary-fast-event.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=get-ready-apples-iphone-event-is-massive-this-year",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T21:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-07T01:01:52.289Z",
-        "message_id": 335,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-07T01:17:44.242Z",
-        "message_id": "17910158637464447",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-06/https-www-macworld-com-article-3209849-apple-surprise-shine-event-iphone-18-pro--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-07T01:17:53.262Z",
-        "message_id": "17894835087405847",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3223456/ifa-2026-the-best-accessories-we-found-for-your-iphone-ipad-and-mac.html",
-      "source_url": "https://www.macworld.com/article/3223456/ifa-2026-the-best-accessories-we-found-for-your-iphone-ipad-and-mac.html",
-      "headline": "IFA 2026: The best accessories we found for your iPhone, iPad, and Mac",
-      "summary": "Macworld IFA 2026 in Berlin is Europe’s answer to CES, attracting global brands and huge crowds. Macworld walked its 27 halls to find the most interesting Apple-related products, breezily ignoring Windows PCs and Nintendo Switch accessories. More importantly, this year’s best launches offered a glim",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3223456-0-54121900-1788602198-IFA-2026-banners.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3223456-0-54121900-1788602198-IFA-2026-banners.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 576,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ifa-2026-the-best-accessories-we-found-for-your-iphone-ipad-and-mac",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-06T23:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-05T08:57:37.838Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-05T09:09:13.014Z",
-        "message_id": "17908671558530086"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-06/https-www-macworld-com-article-3223456-ifa-2026-the-best-accessories-we-found-fo-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
         ]
       }
     }

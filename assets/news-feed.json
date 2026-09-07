@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T09:27:01.377Z",
+  "updatedAt": "2026-09-07T06:07:28.750Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -15,6 +15,83 @@
     "https://feeds.arstechnica.com/arstechnica/technology-lab"
   ],
   "items": [
+    {
+      "tool": "runway",
+      "toolName": "Runway",
+      "category": "Partner watch",
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident",
+      "guide": "/partners/runway.html",
+      "source": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "publishedAt": "2026-09-06T20:56:38.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user qu",
+      "guide": "/news/index.html",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "publishedAt": "2026-09-06T23:36:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "OpenAI says it reached its goal of creating an automated research intern",
+      "summary": "The company hopes to have an even better \"automated AI researcher\" by March 2028.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/",
+      "publishedAt": "2026-09-06T19:26:52.000Z",
+      "image": "https://www.engadget.com/img/gallery/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/l-intro-1788721751.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "What is vibe coding and why does it get so much hate?",
+      "summary": "Vibe coding has gotten a bad reputation as lazy, AI-driven coding, but that's not where it came from.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2247892/what-is-vibe-coding-explained/",
+      "publishedAt": "2026-09-06T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-is-vibe-coding-and-why-does-it-get-so-much-hate/l-intro-1788184434.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
+      "summary": "Wired has managed to uncover some of the details about how search works for police officers using Flock.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+      "publishedAt": "2026-09-06T12:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/FxMzh8xnBa3LCTagLY7nsC-1920-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "My Brief Summer Fling With Siri AI",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "publishedAt": "2026-09-06T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a9957d8075950c219e951f8/191:100/w_1280,c_limit/GettyImages-2255802594.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "‘Resilience comes from designing for disconnection, not assuming more connectivity’: The future of battlefield AI systems lies in both coordination and local capability",
+      "summary": "I spoke to Andreas Hellander of Scaleout to learn more about how battlefield AI systems and frontline technologies can be made more resilient.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/resilience-comes-from-designing-for-disconnection-not-assuming-more-connectivity-the-future-of-battlefield-ai-systems-lies-in-both-coordination-and-local-capability",
+      "publishedAt": "2026-09-06T10:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3xYAE75gYrzr4hTu3ssyhj-1920-80.jpg"
+    },
     {
       "tool": "ai-news",
       "toolName": "AI News",
@@ -41,89 +118,12 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
-      "summary": "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/",
-      "publishedAt": "2026-09-05T21:17:18.000Z",
-      "image": "https://www.engadget.com/img/gallery/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/l-intro-1788642295.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
       "guide": "/news/index.html",
       "source": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
       "publishedAt": "2026-09-05T18:05:27.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Two more news organizations sue OpenAI and Microsoft for copyright infringement",
-      "summary": "The Seattle Times and Newsday accused the two AI giants of using their content without permission.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2251707/seattle-times-newsday-sue-openai-microsoft-for-copyright-infringement/",
-      "publishedAt": "2026-09-05T17:46:29.000Z",
-      "image": "https://www.engadget.com/img/gallery/two-more-news-organizations-sue-openai-and-microsoft-for-copyright-infringement/l-intro-1788630220.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Your Roku TV offers AI slop for free (if you're into that sort of thing)",
-      "summary": "Roku's new free programming gives AI creators a platform for their productions. Whether the public will embrace it remains to be seen,",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2245485/roku-tv-channel-ai-slop-free-fairground/",
-      "publishedAt": "2026-09-05T15:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/your-roku-tv-offers-ai-slop-for-free-if-youre-into-that-sort-of-thing/l-intro-1787762385.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Samsung's Labor Day appliance sale is live — $1,500 off Bespoke refrigerators, AI washers and dryers, dishwashers, and more",
-      "summary": "Samsung's Labor Day sale is live, and I have all the top offers, including up to $1,500 in savings on Bespoke refrigerators, AI washers and dryers, ranges, dishwashers, and more.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/seasonal-sales/samsungs-labor-day-appliance-sale-is-live-usd1-500-off-bespoke-refrigerators-ai-washers-and-dryers-dishwashers-and-more",
-      "publishedAt": "2026-09-05T14:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/U48KFBkfM3JwgtqZ8rmxjH-2000-80.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our age",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "publishedAt": "2026-09-05T11:15:55.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Get ready, Apple’s iPhone event is massive this year",
-      "summary": "Macworld Apple always holds its events at 10 am PT, with iPhone launches usually taking place on the second Tuesday or Wednesday of September. This year, that means the event, dubbed Surprise and Shine , will take place on Wednesday, September 9. Additionally, Apple always introduces its new iPhones",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3209849/apple-surprise-shine-event-iphone-18-pro-ultra-watch-smart-home.html",
-      "publishedAt": "2026-09-05T11:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3209849-0-71701900-1788606035-john-ternus-scary-fast-event.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "IFA 2026: The best accessories we found for your iPhone, iPad, and Mac",
-      "summary": "Macworld IFA 2026 in Berlin is Europe’s answer to CES, attracting global brands and huge crowds. Macworld walked its 27 halls to find the most interesting Apple-related products, breezily ignoring Windows PCs and Nintendo Switch accessories. More importantly, this year’s best launches offered a glim",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3223456/ifa-2026-the-best-accessories-we-found-for-your-iphone-ipad-and-mac.html",
-      "publishedAt": "2026-09-05T07:46:01.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3223456-0-54121900-1788602198-IFA-2026-banners.jpg?quality=50&strip=all&w=1024"
     }
   ]
 }
