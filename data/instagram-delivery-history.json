@@ -928,6 +928,20 @@
         "message_id": "18088085099350609",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-07T23:34:15.557Z",
+        "message_id": "17928093291162540",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-07T23:34:24.265Z",
+        "message_id": "17988047585858505",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
