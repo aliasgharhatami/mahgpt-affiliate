@@ -830,6 +830,20 @@
         "message_id": "17894835087405847",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-07T08:56:29.382Z",
+        "message_id": "18128987584780677",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-07T08:56:38.989Z",
+        "message_id": "18111983426122025",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
