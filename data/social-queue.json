@@ -133,8 +133,10 @@
       "affiliate_status": null,
       "scheduled_publish_at": "2026-09-07T09:20:00.000Z",
       "telegram": {
-        "status": "pending",
-        "published_at": null
+        "status": "published",
+        "published_at": "2026-09-07T12:35:08.548Z",
+        "message_id": 338,
+        "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"

@@ -1734,6 +1734,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-07T12:35:08.548Z",
+        "message_id": 338,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
