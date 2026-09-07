@@ -914,6 +914,20 @@
         "message_id": "17903332314560446",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3227101/get-over-25-hours-of-chatgpt-and-ai-training-for-15.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-07T21:58:54.345Z",
+        "message_id": "18083513594288743",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-07T21:59:01.709Z",
+        "message_id": "18088085099350609",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
