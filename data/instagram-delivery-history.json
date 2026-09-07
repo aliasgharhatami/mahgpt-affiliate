@@ -816,6 +816,20 @@
         "message_id": "18119568136923710",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3209849/apple-surprise-shine-event-iphone-18-pro-ultra-watch-smart-home.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-07T01:17:44.242Z",
+        "message_id": "17910158637464447",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-07T01:17:53.262Z",
+        "message_id": "17894835087405847",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
