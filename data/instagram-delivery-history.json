@@ -858,6 +858,20 @@
         "message_id": "17915389854454192",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-07T14:52:29.850Z",
+        "message_id": "18100388750015132",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-07T14:52:39.489Z",
+        "message_id": "17988621710850705",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
