@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T06:07:28.750Z",
+  "updatedAt": "2026-09-07T10:19:21.300Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -25,6 +25,72 @@
       "source": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
       "publishedAt": "2026-09-06T20:56:38.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "'The planets aligned': Nvidia confirms $12.9bn Hugging Face deal in potentially huge AI shake-up",
+      "summary": "Jensen Huang confirms Nvidia's plans to buy Hugging Face in its biggest-ever acquisition.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/the-planets-aligned-nvidia-confirms-usd12-9bn-hugging-face-deal-in-potentially-huge-ai-shake-up",
+      "publishedAt": "2026-09-07T10:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/npaNv3MEDjf8xv7zBGtCTi-1920-80.png"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Surprise and Shine Apple iPhone event live blog begins now!",
+      "summary": "Macworld Apple’s “Surprise and Shine” event might be the most anticipated iPhone keynote in 10 years. It all kicks off Wednesday morning, and like you, we can’t wait. So join us as we count down the hours and minutes to the big show with all the latest rumors, leaks, and guesses leading up to the bi",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html",
+      "publishedAt": "2026-09-07T10:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-68910400-1788775268-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Surprise! We found Apple’s iPhone Ultra keynote script",
+      "summary": "Macworld Excited about Apple’s “Surprise and Shine” event on Wednesday? Can’t wait to hear about the iPhone Ultra, Apple Watch Series 12, and other new products? Wish you could read about the announcements before they’re, well, announced? Then you’ve come to the right place. As is traditional at thi",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3224488/surprise-we-found-apples-iphone-ultra-keynote-script.html",
+      "publishedAt": "2026-09-07T09:45:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3224488-0-90212800-1788774339-ternus-subway-keynote.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Banking giant UBS wants all new employees to have AI skills",
+      "summary": "UBS says all new recruits for its 2027 intake must be AI-proficient – but it will also support them with AI training once employed.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/banking-giant-ubs-wants-all-new-employees-to-have-ai-skills",
+      "publishedAt": "2026-09-07T09:29:41.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/w2ZchiV2wSCB7G8Nq8bRW5-2500-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Why AI visibility now demands paid and organic GEO optimization",
+      "summary": "AI shopping is reshaping GEO: brands must optimize for organic discovery and paid conversion.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/why-ai-visibility-now-demands-paid-and-organic-geo-optimization",
+      "publishedAt": "2026-09-07T09:00:08.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/RS98vpkgSPMeGnEDabKD7d-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Get over 25 hours of ChatGPT and AI training for $15",
+      "summary": "Macworld TL;DR: The ChatGPT & Automation E-Degree is on sale for $14.97, (reg. $790), with 12 courses and more than 25 hours of AI-focused training. AI is becoming part of more professional workflows, and understanding how to use it effectively can be a useful addition to your skill set. The ChatGPT",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3227101/get-over-25-hours-of-chatgpt-and-ai-training-for-15.html",
+      "publishedAt": "2026-09-07T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3227101-0-14179400-1788768058-sale_323843_article_image.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
@@ -58,72 +124,6 @@
       "source": "https://www.engadget.com/2247892/what-is-vibe-coding-explained/",
       "publishedAt": "2026-09-06T18:30:00.000Z",
       "image": "https://www.engadget.com/img/gallery/what-is-vibe-coding-and-why-does-it-get-so-much-hate/l-intro-1788184434.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
-      "summary": "Wired has managed to uncover some of the details about how search works for police officers using Flock.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-      "publishedAt": "2026-09-06T12:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/FxMzh8xnBa3LCTagLY7nsC-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "My Brief Summer Fling With Siri AI",
-      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
-      "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-      "publishedAt": "2026-09-06T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a9957d8075950c219e951f8/191:100/w_1280,c_limit/GettyImages-2255802594.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "‘Resilience comes from designing for disconnection, not assuming more connectivity’: The future of battlefield AI systems lies in both coordination and local capability",
-      "summary": "I spoke to Andreas Hellander of Scaleout to learn more about how battlefield AI systems and frontline technologies can be made more resilient.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/resilience-comes-from-designing-for-disconnection-not-assuming-more-connectivity-the-future-of-battlefield-ai-systems-lies-in-both-coordination-and-local-capability",
-      "publishedAt": "2026-09-06T10:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3xYAE75gYrzr4hTu3ssyhj-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "The best budget AI laptops under $1,000: Your laptop should make your life easier!",
-      "summary": "You don't need to spend big to run AI locally.",
-      "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/tech/laptops/the-best-budget-ai-laptops-under-usd1-000-let-your-laptop-make-your-life-easier",
-      "publishedAt": "2026-09-06T08:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/K3NbfCBmm7vDWVhfth2KMV-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "publishedAt": "2026-09-05T22:49:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "publishedAt": "2026-09-05T18:05:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
     }
   ]
 }
