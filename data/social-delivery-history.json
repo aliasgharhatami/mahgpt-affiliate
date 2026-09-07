@@ -1785,6 +1785,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/why-ai-visibility-now-demands-paid-and-organic-geo-optimization": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-07T20:36:16.629Z",
+        "message_id": 341,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
