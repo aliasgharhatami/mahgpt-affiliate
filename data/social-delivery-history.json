@@ -1802,6 +1802,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3227101/get-over-25-hours-of-chatgpt-and-ai-training-for-15.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-07T23:32:02.283Z",
+        "message_id": 342,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
