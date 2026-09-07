@@ -886,6 +886,20 @@
         "message_id": "18187447879401733",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/banking-giant-ubs-wants-all-new-employees-to-have-ai-skills": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-07T19:00:11.059Z",
+        "message_id": "18016129592939367",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-07T19:00:20.870Z",
+        "message_id": "18128234368811103",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
