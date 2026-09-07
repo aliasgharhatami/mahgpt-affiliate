@@ -872,6 +872,20 @@
         "message_id": "17988621710850705",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3224488/surprise-we-found-apples-iphone-ultra-keynote-script.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-07T16:31:53.720Z",
+        "message_id": "18087046163419144",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-07T16:32:02.191Z",
+        "message_id": "18187447879401733",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
