@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T06:21:48.618Z",
+  "updatedAt": "2026-09-08T09:41:45.690Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -41,89 +41,89 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "A third of workers believe having an AI boss would make them more productive",
-      "summary": "Over 33% of employees feel they would be more productive under an AI boss, with directors also favourable towards replacing middle managers with agentic solutions.",
+      "title": "‘I’ve seen AIs of me sitting with Obama talking about insane things that we never did’: George Clooney raises the alarm over AI fakes — while Maggie Gyllenhaal says the tech 'fundamentally did not work’ when she was pressured to use it in filmmaking",
+      "summary": "George Clooney and Maggie Gyllenhaal discussed the future of AI in filmmaking at the The Future of Creativity hosted by Finch & Partners and CAA in Venice.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
-      "publishedAt": "2026-09-08T05:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH-970-80.jpg"
+      "source": "https://www.techradar.com/ai-platforms-assistants/ive-seen-ais-of-me-sitting-with-obama-talking-about-insane-things-that-we-never-did-george-clooney-raises-the-alarm-over-ai-fakes-while-maggie-gyllenhaal-says-the-tech-fundamentally-did-not-work-when-she-was-pressured-to-use-it-in-filmmaking",
+      "publishedAt": "2026-09-08T09:17:38.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oqaaYsXyo6NK8tyZZNp34f-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "summary": "Google&#8217;s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour. Energy traders, grid operators and wind and solar de",
+      "guide": "/news/index.html",
+      "source": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "publishedAt": "2026-09-08T09:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Screenshot-2026-09-07-at-10.59.24-AM.png"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected. Se",
+      "guide": "/news/index.html",
+      "source": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "publishedAt": "2026-09-08T08:50:39.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/raimond-klavins-n-7HTOiJPso-unsplash-scaled.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Beyond AI adoption: what it takes to deliver measurable business value",
+      "summary": "Why AI success requires better workflows, accountability, governance and measurable outcomes.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/beyond-ai-adoption-what-it-takes-to-deliver-measurable-business-value",
+      "publishedAt": "2026-09-08T08:48:08.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Get Visual Studio 2026 plus courses covering Python, Java, C++, AI, and web development for $35",
+      "summary": "Macworld TL;DR: Get Microsoft Visual Studio plus 15 coding and development courses for $34.97 through September 13 (MSRP $1,999.99). The bundle covers everything from beginner programming and databases to AI, computer vision, web development, mobile apps, and Salesforce. Learning to code can get com",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3228728/get-visual-studio-2026-plus-courses-covering-python-java-c-ai-and-web-development-for-35.html",
+      "publishedAt": "2026-09-08T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3228728-0-09834000-1788854428-Visual-Stud-2026-Prem-Learn.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Your AI-written brief might wreck your brand's chances of finding the right creatives",
+      "summary": "Design agencies used to take a chance on interesting founders – AI-written briefs are ending that.",
+      "guide": "/news/index.html",
+      "source": "https://www.creativebloq.com/design/branding/your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/M7B64KDJqXbhq5AYqBqSMJ-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
       "title": "Surprise and Shine Apple iPhone event live blog begins now!",
-      "summary": "Macworld Apple’s “Surprise and Shine” event might be the most anticipated iPhone keynote in 10 years. It all kicks off Wednesday morning, and like you, we can’t wait. So join us as we count down the hours and minutes to the big show with all the latest rumors, leaks, and guesses leading up to the bi",
+      "summary": "Macworld Apple’s “Surprise and Shine” event might be the most anticipated iPhone keynote in 10 years. It all kicks off tomorrow morning, and like you, we can’t wait. So join us as we count down the hours and minutes to the big show with all the latest rumors, leaks, and speculation leading up to the",
       "guide": "/news/index.html",
       "source": "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html",
-      "publishedAt": "2026-09-08T02:04:44.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-30632100-1788833109-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024"
+      "publishedAt": "2026-09-08T06:28:38.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-83359100-1788858271-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Almost all AI tools are now running with no oversight from IT — putting companies in the firing line",
-      "summary": "Organizations are employing AI tools as a “fire-and-forget” solution, overlooking the importance of AI oversight and leaving security teams with the problem of seeking out avoidable vulnerabilities.",
+      "title": "A third of workers believe having an AI boss would make them more productive",
+      "summary": "Over 33% of employees feel they would be more productive under an AI boss, with directors also favourable towards replacing middle managers with agentic solutions.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/almost-all-ai-tools-are-now-running-with-no-oversight-from-it-putting-companies-in-the-firing-line",
-      "publishedAt": "2026-09-08T01:40:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/fNuLsYSse5LcaYMLXDUsbG-2560-80.jpeg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "‘If we don’t like it, we’ll kill it. If we love it, we’ll marry it’: We were dreaming about ChatGPT thousands of years before it existed — here's how ancient myths shaped the AI we’re building today",
-      "summary": "The authors of Myth-Made Machines explain how ancient myths and science fiction shaped our hopes and fears about today’s AI.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/if-we-dont-like-it-well-kill-it-if-we-love-it-well-marry-it-we-were-dreaming-about-chatgpt-thousands-of-years-before-it-existed-heres-how-ancient-myths-shaped-the-ai-were-building-today",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/crwCbqY6PhFTZf8MAZtG4M-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Cathay Pacific tests Google AI that dramatically cuts airplane contrails — tiny altitude shifts slash environmental impact by 40% in early trials",
-      "summary": "Google is expanding its AI-driven contrail reduction project to a new part of the world.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/cathay-pacific-tests-google-ai-that-dramatically-cuts-airplane-contrails-tiny-altitude-shifts-slash-environmental-impact-by-40-percent-in-early-trials",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/uVTCmyofGQbaQupjQWUttN-2000-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Ryzen AI Max+ PRO 495 mini PCs with 192GB RAM emerge — Acemagic, GMKtek, Framework debut ultra-expensive 'supercomputers' that can handle 300B-parameter",
-      "summary": "AMD’s Ryzen AI Max+ PRO 495 is entering mini PCs with huge memory capacities and local AI support for massive language models.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ryzen-ai-max-pro-495-mini-pcs-with-192gb-ram-emerge-acemagic-gmktek-framework-debut-ultra-expensive-supercomputers-that-can-handle-300b-parameter",
-      "publishedAt": "2026-09-07T22:35:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/yXNt8Hatk4tYAnvJC7b45N-1920-80.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "publishedAt": "2026-09-07T19:24:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Scientists develop ‘ultrafast magnetic-field pulses’ memory system that could cut AI data center energy use by 100x — and even get close to hitting thermodynamic limits",
-      "summary": "A new scientific paper outlines a way to cut AI data center energy usage by ‘orders of magnitude’.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
-      "publishedAt": "2026-09-07T19:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
+      "publishedAt": "2026-09-08T05:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH-970-80.jpg"
     }
   ]
 }
