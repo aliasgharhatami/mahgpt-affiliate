@@ -1853,6 +1853,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/ive-seen-ais-of-me-sitting-with-obama-talking-about-insane-things-that-we-never-did-george-clooney-raises-the-alarm-over-ai-fakes-while-maggie-gyllenhaal-says-the-tech-fundamentally-did-not-work-when-she-was-pressured-to-use-it-in-filmmaking": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-08T09:42:25.488Z",
+        "message_id": 345,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
