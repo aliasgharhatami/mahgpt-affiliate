@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T10:19:33.123Z",
-  "analysis_date": "2026-09-07",
+  "generated_at": "2026-09-08T09:42:00.891Z",
+  "analysis_date": "2026-09-08",
   "stories": [
+    {
+      "title": "Can NVIDIA and Adobe work together to get creatives to actually like AI?",
+      "source": "https://www.creativebloq.com/ai/can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai",
+      "mahgpt_url": "/news/story.html?id=can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai"
+    },
     {
       "title": "An Amazon cargo plane crashed at Miami International Airport",
       "source": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
       "mahgpt_url": "/news/story.html?id=an-amazon-cargo-plane-crashed-at-miami-international-airport"
     },
     {
-      "title": "'The planets aligned': Nvidia confirms $12.9bn Hugging Face deal in potentially huge AI shake-up",
-      "source": "https://www.techradar.com/pro/the-planets-aligned-nvidia-confirms-usd12-9bn-hugging-face-deal-in-potentially-huge-ai-shake-up",
-      "mahgpt_url": "/news/story.html?id=the-planets-aligned-nvidia-confirms-12-9bn-hugging-face-deal-in-potentially-huge-ai-shake-"
+      "title": "‘I’ve seen AIs of me sitting with Obama talking about insane things that we never did’: George Clooney raises the alarm over AI fakes — while Maggie Gyllenhaal says the tech 'fundamentally did not work’ when she was pressured to use it in filmmaking",
+      "source": "https://www.techradar.com/ai-platforms-assistants/ive-seen-ais-of-me-sitting-with-obama-talking-about-insane-things-that-we-never-did-george-clooney-raises-the-alarm-over-ai-fakes-while-maggie-gyllenhaal-says-the-tech-fundamentally-did-not-work-when-she-was-pressured-to-use-it-in-filmmaking",
+      "mahgpt_url": "/news/story.html?id=ive-seen-ais-of-me-sitting-with-obama-talking-about-insane-things-that-we-never-did-george"
     },
     {
-      "title": "Surprise and Shine Apple iPhone event live blog begins now!",
-      "source": "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html",
-      "mahgpt_url": "/news/story.html?id=surprise-and-shine-apple-iphone-event-live-blog-begins-now"
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "source": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "mahgpt_url": "/news/story.html?id=ai-weather-forecasting-enters-the-energy-market-as-google-targets-grid-operators-with-weat"
     },
     {
-      "title": "Surprise! We found Apple’s iPhone Ultra keynote script",
-      "source": "https://www.macworld.com/article/3224488/surprise-we-found-apples-iphone-ultra-keynote-script.html",
-      "mahgpt_url": "/news/story.html?id=surprise-we-found-apples-iphone-ultra-keynote-script"
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "source": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "mahgpt_url": "/news/story.html?id=youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches"
     },
     {
-      "title": "Banking giant UBS wants all new employees to have AI skills",
-      "source": "https://www.techradar.com/pro/banking-giant-ubs-wants-all-new-employees-to-have-ai-skills",
-      "mahgpt_url": "/news/story.html?id=banking-giant-ubs-wants-all-new-employees-to-have-ai-skills"
+      "title": "Beyond AI adoption: what it takes to deliver measurable business value",
+      "source": "https://www.techradar.com/pro/beyond-ai-adoption-what-it-takes-to-deliver-measurable-business-value",
+      "mahgpt_url": "/news/story.html?id=beyond-ai-adoption-what-it-takes-to-deliver-measurable-business-value"
     },
     {
-      "title": "Why AI visibility now demands paid and organic GEO optimization",
-      "source": "https://www.techradar.com/pro/why-ai-visibility-now-demands-paid-and-organic-geo-optimization",
-      "mahgpt_url": "/news/story.html?id=why-ai-visibility-now-demands-paid-and-organic-geo-optimization"
+      "title": "Get Visual Studio 2026 plus courses covering Python, Java, C++, AI, and web development for $35",
+      "source": "https://www.macworld.com/article/3228728/get-visual-studio-2026-plus-courses-covering-python-java-c-ai-and-web-development-for-35.html",
+      "mahgpt_url": "/news/story.html?id=get-visual-studio-2026-plus-courses-covering-python-java-c-ai-and-web-development-for-35"
     },
     {
-      "title": "Get over 25 hours of ChatGPT and AI training for $15",
-      "source": "https://www.macworld.com/article/3227101/get-over-25-hours-of-chatgpt-and-ai-training-for-15.html",
-      "mahgpt_url": "/news/story.html?id=get-over-25-hours-of-chatgpt-and-ai-training-for-15"
-    },
-    {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "mahgpt_url": "/news/story.html?id=seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement"
+      "title": "Your AI-written brief might wreck your brand's chances of finding the right creatives",
+      "source": "https://www.creativebloq.com/design/branding/your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives",
+      "mahgpt_url": "/news/story.html?id=your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-07.html"
+      "path": "news/analysis/2026-09-08.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-07.html"
+      "path": "es/news/analysis/2026-09-08.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-07.html"
+      "path": "de/news/analysis/2026-09-08.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-07.html"
+      "path": "fr/news/analysis/2026-09-08.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-07.html"
+      "path": "pt-BR/news/analysis/2026-09-08.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-07.html"
+      "path": "ar/news/analysis/2026-09-08.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-07.html"
+      "path": "fa/news/analysis/2026-09-08.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-07.html"
+      "path": "tr/news/analysis/2026-09-08.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-07.html"
+      "path": "it/news/analysis/2026-09-08.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-07.html"
+      "path": "ja/news/analysis/2026-09-08.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-07.html"
+      "path": "ko/news/analysis/2026-09-08.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-07.html"
+      "path": "id/news/analysis/2026-09-08.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-07.html"
+      "path": "hi/news/analysis/2026-09-08.html"
     }
   ]
 }

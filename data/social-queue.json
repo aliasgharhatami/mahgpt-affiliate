@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-09-08",
-  "created_at": "2026-09-08T06:21:48.717Z",
-  "source_feed_updated_at": "2026-09-08T06:21:48.618Z",
+  "created_at": "2026-09-08T09:41:49.780Z",
+  "source_feed_updated_at": "2026-09-08T09:41:45.690Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/ai/can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai",
@@ -27,10 +27,8 @@
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-09-08T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-08T06:22:01.708Z",
-        "message_id": 344,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-08T06:22:01.708Z"
       },
       "linkedin": {
         "status": "pending"
@@ -38,8 +36,7 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-08T09:06:39.408Z",
-        "message_id": "18369785206243298",
-        "media_kind": "source"
+        "message_id": "18369785206243298"
       },
       "x": {
         "status": "pending"
@@ -53,12 +50,6 @@
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-08T09:06:47.178Z",
-        "message_id": "17975319710915932",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -111,23 +102,23 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
-      "source_url": "https://www.techradar.com/pro/a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
-      "headline": "A third of workers believe having an AI boss would make them more productive",
-      "summary": "Over 33% of employees feel they would be more productive under an AI boss, with directors also favourable towards replacing middle managers with agentic solutions.",
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/ive-seen-ais-of-me-sitting-with-obama-talking-about-insane-things-that-we-never-did-george-clooney-raises-the-alarm-over-ai-fakes-while-maggie-gyllenhaal-says-the-tech-fundamentally-did-not-work-when-she-was-pressured-to-use-it-in-filmmaking",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/ive-seen-ais-of-me-sitting-with-obama-talking-about-insane-things-that-we-never-did-george-clooney-raises-the-alarm-over-ai-fakes-while-maggie-gyllenhaal-says-the-tech-fundamentally-did-not-work-when-she-was-pressured-to-use-it-in-filmmaking",
+      "headline": "‘I’ve seen AIs of me sitting with Obama talking about insane things that we never did’: George Clooney raises the alarm over AI fakes — while Maggie Gyllenhaal says the tech 'fundamentally did not work’ when she was pressured to use it in filmmaking",
+      "summary": "George Clooney and Maggie Gyllenhaal discussed the future of AI in filmmaking at the The Future of Creativity hosted by Finch & Partners and CAA in Venice.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH-970-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH-970-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/oqaaYsXyo6NK8tyZZNp34f-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/oqaaYsXyo6NK8tyZZNp34f-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 970,
-        "height": 545,
-        "aspectRatio": 1.7798165137614679,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ive-seen-ais-of-me-sitting-with-obama-talking-about-insane-things-that-we-never-did-george",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -147,7 +138,237 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-pro-a-third-of-workers-believe-having-an-ai-boss-would-m-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-ai-platforms-assistants-ive-seen-ais-of-me-sitting-with--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "source_url": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "headline": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "summary": "Google&#8217;s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour. Energy traders, grid operators and wind and solar de",
+      "source_name": "Artificialintelligence News",
+      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Screenshot-2026-09-07-at-10.59.24-AM.png",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Screenshot-2026-09-07-at-10.59.24-AM.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1679,
+        "height": 938,
+        "aspectRatio": 1.7899786780383795,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-weather-forecasting-enters-the-energy-market-as-google-targets-grid-operators-with-weat",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-08T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-artificialintelligence-news-com-news-ai-weather-forecasting-google-wea-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "source_url": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "headline": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected. Se",
+      "source_name": "Artificialintelligence News",
+      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/raimond-klavins-n-7HTOiJPso-unsplash-scaled.jpg",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/raimond-klavins-n-7HTOiJPso-unsplash-scaled.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1707,
+        "aspectRatio": 1.4997070884592854,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-08T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-artificialintelligence-news-com-news-youtube-appears-in-53-of-google-a-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/beyond-ai-adoption-what-it-takes-to-deliver-measurable-business-value",
+      "source_url": "https://www.techradar.com/pro/beyond-ai-adoption-what-it-takes-to-deliver-measurable-business-value",
+      "headline": "Beyond AI adoption: what it takes to deliver measurable business value",
+      "summary": "Why AI success requires better workflows, accountability, governance and measurable outcomes.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=beyond-ai-adoption-what-it-takes-to-deliver-measurable-business-value",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-08T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-pro-beyond-ai-adoption-what-it-takes-to-deliver-measurab-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3228728/get-visual-studio-2026-plus-courses-covering-python-java-c-ai-and-web-development-for-35.html",
+      "source_url": "https://www.macworld.com/article/3228728/get-visual-studio-2026-plus-courses-covering-python-java-c-ai-and-web-development-for-35.html",
+      "headline": "Get Visual Studio 2026 plus courses covering Python, Java, C++, AI, and web development for $35",
+      "summary": "Macworld TL;DR: Get Microsoft Visual Studio plus 15 coding and development courses for $34.97 through September 13 (MSRP $1,999.99). The bundle covers everything from beginner programming and databases to AI, computer vision, web development, mobile apps, and Salesforce. Learning to code can get com",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228728-0-09834000-1788854428-Visual-Stud-2026-Prem-Learn.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228728-0-09834000-1788854428-Visual-Stud-2026-Prem-Learn.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=get-visual-studio-2026-plus-courses-covering-python-java-c-ai-and-web-development-for-35",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-08T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-macworld-com-article-3228728-get-visual-studio-2026-plus-courses-cover-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.creativebloq.com/design/branding/your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives",
+      "source_url": "https://www.creativebloq.com/design/branding/your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives",
+      "headline": "Your AI-written brief might wreck your brand's chances of finding the right creatives",
+      "summary": "Design agencies used to take a chance on interesting founders – AI-written briefs are ending that.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/M7B64KDJqXbhq5AYqBqSMJ-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/M7B64KDJqXbhq5AYqBqSMJ-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-08T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-creativebloq-com-design-branding-your-ai-written-brief-might-wreck-you-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -160,10 +381,10 @@
       "story_id": "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html",
       "source_url": "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html",
       "headline": "Surprise and Shine Apple iPhone event live blog begins now!",
-      "summary": "Macworld Apple’s “Surprise and Shine” event might be the most anticipated iPhone keynote in 10 years. It all kicks off Wednesday morning, and like you, we can’t wait. So join us as we count down the hours and minutes to the big show with all the latest rumors, leaks, and guesses leading up to the bi",
+      "summary": "Macworld Apple’s “Surprise and Shine” event might be the most anticipated iPhone keynote in 10 years. It all kicks off tomorrow morning, and like you, we can’t wait. So join us as we count down the hours and minutes to the big show with all the latest rumors, leaks, and speculation leading up to the",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-30632100-1788833109-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-30632100-1788833109-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-83359100-1788858271-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-83359100-1788858271-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
@@ -177,7 +398,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-08T21:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-09-07T12:35:08.548Z"
@@ -206,253 +427,23 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/almost-all-ai-tools-are-now-running-with-no-oversight-from-it-putting-companies-in-the-firing-line",
-      "source_url": "https://www.techradar.com/pro/almost-all-ai-tools-are-now-running-with-no-oversight-from-it-putting-companies-in-the-firing-line",
-      "headline": "Almost all AI tools are now running with no oversight from IT",
-      "summary": "Organizations are employing AI tools as a “fire-and-forget” solution, overlooking the importance of AI oversight and leaving security teams with the problem of seeking out avoidable vulnerabilities.",
-      "source_name": "putting companies in the firing line",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/fNuLsYSse5LcaYMLXDUsbG-2560-80.jpeg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/fNuLsYSse5LcaYMLXDUsbG-2560-80.jpeg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=almost-all-ai-tools-are-now-running-with-no-oversight-from-it",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T13:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-pro-almost-all-ai-tools-are-now-running-with-no-oversigh-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/if-we-dont-like-it-well-kill-it-if-we-love-it-well-marry-it-we-were-dreaming-about-chatgpt-thousands-of-years-before-it-existed-heres-how-ancient-myths-shaped-the-ai-were-building-today",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/if-we-dont-like-it-well-kill-it-if-we-love-it-well-marry-it-we-were-dreaming-about-chatgpt-thousands-of-years-before-it-existed-heres-how-ancient-myths-shaped-the-ai-were-building-today",
-      "headline": "‘If we don’t like it, we’ll kill it. If we love it, we’ll marry it’: We were dreaming about ChatGPT thousands of years before it existed",
-      "summary": "The authors of Myth-Made Machines explain how ancient myths and science fiction shaped our hopes and fears about today’s AI.",
-      "source_name": "here's how ancient myths shaped the AI we’re building today",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/crwCbqY6PhFTZf8MAZtG4M-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/crwCbqY6PhFTZf8MAZtG4M-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=if-we-dont-like-it-well-kill-it-if-we-love-it-well-marry-it-we-were-dreaming-about-chatgpt",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-ai-platforms-assistants-if-we-dont-like-it-well-kill-it--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/cathay-pacific-tests-google-ai-that-dramatically-cuts-airplane-contrails-tiny-altitude-shifts-slash-environmental-impact-by-40-percent-in-early-trials",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/cathay-pacific-tests-google-ai-that-dramatically-cuts-airplane-contrails-tiny-altitude-shifts-slash-environmental-impact-by-40-percent-in-early-trials",
-      "headline": "Cathay Pacific tests Google AI that dramatically cuts airplane contrails",
-      "summary": "Google is expanding its AI-driven contrail reduction project to a new part of the world.",
-      "source_name": "tiny altitude shifts slash environmental impact by 40% in early trials",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/uVTCmyofGQbaQupjQWUttN-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/uVTCmyofGQbaQupjQWUttN-2000-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2000,
-        "height": 1125,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=cathay-pacific-tests-google-ai-that-dramatically-cuts-airplane-contrails",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-ai-platforms-assistants-cathay-pacific-tests-google-ai-t-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/ryzen-ai-max-pro-495-mini-pcs-with-192gb-ram-emerge-acemagic-gmktek-framework-debut-ultra-expensive-supercomputers-that-can-handle-300b-parameter",
-      "source_url": "https://www.techradar.com/pro/ryzen-ai-max-pro-495-mini-pcs-with-192gb-ram-emerge-acemagic-gmktek-framework-debut-ultra-expensive-supercomputers-that-can-handle-300b-parameter",
-      "headline": "Ryzen AI Max+ PRO 495 mini PCs with 192GB RAM emerge — Acemagic, GMKtek, Framework debut ultra-expensive 'supercomputers' that can handle 300B-parameter",
-      "summary": "AMD’s Ryzen AI Max+ PRO 495 is entering mini PCs with huge memory capacities and local AI support for massive language models.",
+      "story_id": "https://www.techradar.com/pro/a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
+      "source_url": "https://www.techradar.com/pro/a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
+      "headline": "A third of workers believe having an AI boss would make them more productive",
+      "summary": "Over 33% of employees feel they would be more productive under an AI boss, with directors also favourable towards replacing middle managers with agentic solutions.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/yXNt8Hatk4tYAnvJC7b45N-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/yXNt8Hatk4tYAnvJC7b45N-1920-80.png",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH-970-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH-970-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 970,
+        "height": 545,
+        "aspectRatio": 1.7798165137614679,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ryzen-ai-max-pro-495-mini-pcs-with-192gb-ram-emerge-acemagic-gmktek-framework-debut-ultra-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-pro-ryzen-ai-max-pro-495-mini-pcs-with-192gb-ram-emerge--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source_url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "headline": "Opaque recurrence, and other AI terms that you should probably know",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=opaque-recurrence-and-other-ai-terms-that-you-should-probably-know",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-techcrunch-com-2026-09-07-artificial-intelligence-definition-glossary-hall-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
-      "source_url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
-      "headline": "Scientists develop ‘ultrafast magnetic-field pulses’ memory system that could cut AI data center energy use by 100x",
-      "summary": "A new scientific paper outlines a way to cut AI data center energy usage by ‘orders of magnitude’.",
-      "source_name": "and even get close to hitting thermodynamic limits",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-ce",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -472,7 +463,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-computing-scientists-develop-ultrafast-magnetic-field-pu-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-pro-a-third-of-workers-believe-having-an-ai-boss-would-m-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
