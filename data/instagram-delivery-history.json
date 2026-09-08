@@ -984,6 +984,20 @@
         "message_id": "18108087422275965",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-08T18:47:00.532Z",
+        "message_id": "18103822139525625",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-08T18:47:10.891Z",
+        "message_id": "17934220374388059",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }

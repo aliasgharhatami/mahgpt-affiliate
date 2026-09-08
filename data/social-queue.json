@@ -247,7 +247,10 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "pending"
+        "status": "published",
+        "published_at": "2026-09-08T18:47:00.532Z",
+        "message_id": "18103822139525625",
+        "media_kind": "source"
       },
       "x": {
         "status": "pending"
@@ -261,6 +264,12 @@
         "repairs": [
           "image-rejected"
         ]
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-08T18:47:10.891Z",
+        "message_id": "17934220374388059",
+        "media_kind": "story-fallback"
       }
     },
     {
