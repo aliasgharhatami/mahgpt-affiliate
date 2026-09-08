@@ -1836,6 +1836,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/ai/can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-08T06:22:01.708Z",
+        "message_id": 344,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

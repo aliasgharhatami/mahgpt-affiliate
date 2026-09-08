@@ -1,9 +1,57 @@
 {
   "version": 1,
-  "queue_date": "2026-09-07",
-  "created_at": "2026-09-07T10:19:26.875Z",
-  "source_feed_updated_at": "2026-09-07T10:19:21.300Z",
+  "queue_date": "2026-09-08",
+  "created_at": "2026-09-08T06:21:48.717Z",
+  "source_feed_updated_at": "2026-09-08T06:21:48.618Z",
   "items": [
+    {
+      "story_id": "https://www.creativebloq.com/ai/can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai",
+      "source_url": "https://www.creativebloq.com/ai/can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai",
+      "headline": "Can NVIDIA and Adobe work together to get creatives to actually like AI?",
+      "summary": "RTX Spark introduces local AI agents in Photoshop, and creatives should be (cautiously) optimistic",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/xj6higMTFsj8RNTqxnLGW3-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xj6higMTFsj8RNTqxnLGW3-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai",
+      "detected_partner": "adobe",
+      "product_url": "https://www.adobe.com/products/firefly.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-09-08T05:20:00.000Z",
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-08T06:22:01.708Z",
+        "message_id": 344,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-creativebloq-com-ai-can-nvidia-and-adobe-work-together-to-get-creative-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
     {
       "story_id": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
       "source_url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
@@ -25,7 +73,7 @@
       "detected_partner": "runway",
       "product_url": "/go/runway.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-07T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-08T07:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-09-07T06:07:37.791Z"
@@ -42,8 +90,8 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-07/An-Amazon-cargo-plane-crashed-at-Miami-International-Airport-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-theverge-com-tech-990918-amazon-cargo-plane-crashed-miami-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-08/An-Amazon-cargo-plane-crashed-at-Miami-International-Airport-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-theverge-com-tech-990918-amazon-cargo-plane-crashed-miami-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -54,60 +102,49 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/the-planets-aligned-nvidia-confirms-usd12-9bn-hugging-face-deal-in-potentially-huge-ai-shake-up",
-      "source_url": "https://www.techradar.com/pro/the-planets-aligned-nvidia-confirms-usd12-9bn-hugging-face-deal-in-potentially-huge-ai-shake-up",
-      "headline": "'The planets aligned': Nvidia confirms $12.9bn Hugging Face deal in potentially huge AI shake-up",
-      "summary": "Jensen Huang confirms Nvidia's plans to buy Hugging Face in its biggest-ever acquisition.",
+      "story_id": "https://www.techradar.com/pro/a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
+      "source_url": "https://www.techradar.com/pro/a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
+      "headline": "A third of workers believe having an AI boss would make them more productive",
+      "summary": "Over 33% of employees feel they would be more productive under an AI boss, with directors also favourable towards replacing middle managers with agentic solutions.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/npaNv3MEDjf8xv7zBGtCTi-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/npaNv3MEDjf8xv7zBGtCTi-1920-80.png",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH-970-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH-970-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 970,
+        "height": 545,
+        "aspectRatio": 1.7798165137614679,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-planets-aligned-nvidia-confirms-12-9bn-hugging-face-deal-in-potentially-huge-ai-shake-",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-07T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-08T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-07T10:20:04.259Z",
-        "message_id": 337,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-07T10:27:45.711Z",
-        "message_id": "18103890524459691",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-techradar-com-pro-the-planets-aligned-nvidia-confirms-usd12-9bn-huggin-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-pro-a-third-of-workers-believe-having-an-ai-boss-would-m-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-07T10:27:54.704Z",
-        "message_id": "17915389854454192",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -116,8 +153,8 @@
       "headline": "Surprise and Shine Apple iPhone event live blog begins now!",
       "summary": "Macworld Apple’s “Surprise and Shine” event might be the most anticipated iPhone keynote in 10 years. It all kicks off Wednesday morning, and like you, we can’t wait. So join us as we count down the hours and minutes to the big show with all the latest rumors, leaks, and guesses leading up to the bi",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-68910400-1788775268-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-68910400-1788775268-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-30632100-1788833109-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-30632100-1788833109-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
@@ -131,12 +168,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-07T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-08T11:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-07T12:35:08.548Z",
-        "message_id": 338,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-07T12:35:08.548Z"
       },
       "linkedin": {
         "status": "pending"
@@ -144,15 +179,14 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-07T14:52:29.850Z",
-        "message_id": "18100388750015132",
-        "media_kind": "fallback-card"
+        "message_id": "18100388750015132"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-07/Surprise-and-Shine-Apple-iPhone-event-live-blog-begins-now--instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-macworld-com-article-3228054-surprise-and-shine-apple-iphone-event-liv-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-08/Surprise-and-Shine-Apple-iPhone-event-live-blog-begins-now--instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-macworld-com-article-3228054-surprise-and-shine-apple-iphone-event-liv-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -160,323 +194,214 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-07T14:52:39.489Z",
-        "message_id": "17988621710850705",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3224488/surprise-we-found-apples-iphone-ultra-keynote-script.html",
-      "source_url": "https://www.macworld.com/article/3224488/surprise-we-found-apples-iphone-ultra-keynote-script.html",
-      "headline": "Surprise! We found Apple’s iPhone Ultra keynote script",
-      "summary": "Macworld Excited about Apple’s “Surprise and Shine” event on Wednesday? Can’t wait to hear about the iPhone Ultra, Apple Watch Series 12, and other new products? Wish you could read about the announcements before they’re, well, announced? Then you’ve come to the right place. As is traditional at thi",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3224488-0-90212800-1788774339-ternus-subway-keynote.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3224488-0-90212800-1788774339-ternus-subway-keynote.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=surprise-we-found-apples-iphone-ultra-keynote-script",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-07T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-07T16:29:47.110Z",
-        "message_id": 339,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-07T16:31:53.720Z",
-        "message_id": "18087046163419144",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-macworld-com-article-3224488-surprise-we-found-apples-iphone-ultra-key-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-07T16:32:02.191Z",
-        "message_id": "18187447879401733",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/banking-giant-ubs-wants-all-new-employees-to-have-ai-skills",
-      "source_url": "https://www.techradar.com/pro/banking-giant-ubs-wants-all-new-employees-to-have-ai-skills",
-      "headline": "Banking giant UBS wants all new employees to have AI skills",
-      "summary": "UBS says all new recruits for its 2027 intake must be AI-proficient – but it will also support them with AI training once employed.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/w2ZchiV2wSCB7G8Nq8bRW5-2500-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/w2ZchiV2wSCB7G8Nq8bRW5-2500-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2500,
-        "height": 1406,
-        "aspectRatio": 1.7780938833570412,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=banking-giant-ubs-wants-all-new-employees-to-have-ai-skills",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-07T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-07T17:55:42.721Z",
-        "message_id": 340,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-07T19:00:11.059Z",
-        "message_id": "18016129592939367",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-techradar-com-pro-banking-giant-ubs-wants-all-new-employees-to-have-ai-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-07T19:00:20.870Z",
-        "message_id": "18128234368811103",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/why-ai-visibility-now-demands-paid-and-organic-geo-optimization",
-      "source_url": "https://www.techradar.com/pro/why-ai-visibility-now-demands-paid-and-organic-geo-optimization",
-      "headline": "Why AI visibility now demands paid and organic GEO optimization",
-      "summary": "AI shopping is reshaping GEO: brands must optimize for organic discovery and paid conversion.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/RS98vpkgSPMeGnEDabKD7d-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/RS98vpkgSPMeGnEDabKD7d-2560-80.jpg",
+      "story_id": "https://www.techradar.com/pro/almost-all-ai-tools-are-now-running-with-no-oversight-from-it-putting-companies-in-the-firing-line",
+      "source_url": "https://www.techradar.com/pro/almost-all-ai-tools-are-now-running-with-no-oversight-from-it-putting-companies-in-the-firing-line",
+      "headline": "Almost all AI tools are now running with no oversight from IT",
+      "summary": "Organizations are employing AI tools as a “fire-and-forget” solution, overlooking the importance of AI oversight and leaving security teams with the problem of seeking out avoidable vulnerabilities.",
+      "source_name": "putting companies in the firing line",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/fNuLsYSse5LcaYMLXDUsbG-2560-80.jpeg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fNuLsYSse5LcaYMLXDUsbG-2560-80.jpeg",
       "image_validation": {
         "valid": true,
         "width": 2560,
-        "height": 1264,
-        "aspectRatio": 2.0253164556962027,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-ai-visibility-now-demands-paid-and-organic-geo-optimization",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-07T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-07T20:36:16.629Z",
-        "message_id": 341,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-07T20:38:31.606Z",
-        "message_id": "17931503937401718",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-07/Why-AI-visibility-now-demands-paid-and-organic-GEO-optimization-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-techradar-com-pro-why-ai-visibility-now-demands-paid-and-organic-geo-o-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-07T20:38:41.093Z",
-        "message_id": "17903332314560446",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3227101/get-over-25-hours-of-chatgpt-and-ai-training-for-15.html",
-      "source_url": "https://www.macworld.com/article/3227101/get-over-25-hours-of-chatgpt-and-ai-training-for-15.html",
-      "headline": "Get over 25 hours of ChatGPT and AI training for $15",
-      "summary": "Macworld TL;DR: The ChatGPT & Automation E-Degree is on sale for $14.97, (reg. $790), with 12 courses and more than 25 hours of AI-focused training. AI is becoming part of more professional workflows, and understanding how to use it effectively can be a useful addition to your skill set. The ChatGPT",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3227101-0-14179400-1788768058-sale_323843_article_image.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3227101-0-14179400-1788768058-sale_323843_article_image.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=get-over-25-hours-of-chatgpt-and-ai-training-for-15",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=almost-all-ai-tools-are-now-running-with-no-oversight-from-it",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-07T17:20:00.000Z",
+      "scheduled_publish_at": "2026-09-08T13:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-07T23:32:02.283Z",
-        "message_id": 342,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-07T21:58:54.345Z",
-        "message_id": "18083513594288743",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-macworld-com-article-3227101-get-over-25-hours-of-chatgpt-and-ai-train-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-pro-almost-all-ai-tools-are-now-running-with-no-oversigh-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-07T21:59:01.709Z",
-        "message_id": "18088085099350609",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "headline": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user qu",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200",
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/if-we-dont-like-it-well-kill-it-if-we-love-it-well-marry-it-we-were-dreaming-about-chatgpt-thousands-of-years-before-it-existed-heres-how-ancient-myths-shaped-the-ai-were-building-today",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/if-we-dont-like-it-well-kill-it-if-we-love-it-well-marry-it-we-were-dreaming-about-chatgpt-thousands-of-years-before-it-existed-heres-how-ancient-myths-shaped-the-ai-were-building-today",
+      "headline": "‘If we don’t like it, we’ll kill it. If we love it, we’ll marry it’: We were dreaming about ChatGPT thousands of years before it existed",
+      "summary": "The authors of Myth-Made Machines explain how ancient myths and science fiction shaped our hopes and fears about today’s AI.",
+      "source_name": "here's how ancient myths shaped the AI we’re building today",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/crwCbqY6PhFTZf8MAZtG4M-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/crwCbqY6PhFTZf8MAZtG4M-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=if-we-dont-like-it-well-kill-it-if-we-love-it-well-marry-it-we-were-dreaming-about-chatgpt",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-08T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-ai-platforms-assistants-if-we-dont-like-it-well-kill-it--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/cathay-pacific-tests-google-ai-that-dramatically-cuts-airplane-contrails-tiny-altitude-shifts-slash-environmental-impact-by-40-percent-in-early-trials",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/cathay-pacific-tests-google-ai-that-dramatically-cuts-airplane-contrails-tiny-altitude-shifts-slash-environmental-impact-by-40-percent-in-early-trials",
+      "headline": "Cathay Pacific tests Google AI that dramatically cuts airplane contrails",
+      "summary": "Google is expanding its AI-driven contrail reduction project to a new part of the world.",
+      "source_name": "tiny altitude shifts slash environmental impact by 40% in early trials",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/uVTCmyofGQbaQupjQWUttN-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uVTCmyofGQbaQupjQWUttN-2000-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2000,
+        "height": 1125,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=cathay-pacific-tests-google-ai-that-dramatically-cuts-airplane-contrails",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-08T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-ai-platforms-assistants-cathay-pacific-tests-google-ai-t-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/ryzen-ai-max-pro-495-mini-pcs-with-192gb-ram-emerge-acemagic-gmktek-framework-debut-ultra-expensive-supercomputers-that-can-handle-300b-parameter",
+      "source_url": "https://www.techradar.com/pro/ryzen-ai-max-pro-495-mini-pcs-with-192gb-ram-emerge-acemagic-gmktek-framework-debut-ultra-expensive-supercomputers-that-can-handle-300b-parameter",
+      "headline": "Ryzen AI Max+ PRO 495 mini PCs with 192GB RAM emerge — Acemagic, GMKtek, Framework debut ultra-expensive 'supercomputers' that can handle 300B-parameter",
+      "summary": "AMD’s Ryzen AI Max+ PRO 495 is entering mini PCs with huge memory capacities and local AI support for massive language models.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/yXNt8Hatk4tYAnvJC7b45N-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/yXNt8Hatk4tYAnvJC7b45N-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ryzen-ai-max-pro-495-mini-pcs-with-192gb-ram-emerge-acemagic-gmktek-framework-debut-ultra-",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-08T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-pro-ryzen-ai-max-pro-495-mini-pcs-with-192gb-ram-emerge--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source_url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "headline": "Opaque recurrence, and other AI terms that you should probably know",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 622,
-        "aspectRatio": 1.9292604501607717,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-07T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-08T01:24:52.039Z",
-        "message_id": 343,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-07T23:34:15.557Z",
-        "message_id": "17928093291162540",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-07/Seattle-Times-and-Newsday-sue-OpenAI-and-Microsoft-for-infringement-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-theverge-com-ai-artificial-intelligence-990932-seattle-times-newsday-l-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-07T23:34:24.265Z",
-        "message_id": "17988047585858505",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/",
-      "source_url": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/",
-      "headline": "OpenAI says it reached its goal of creating an automated research intern",
-      "summary": "The company hopes to have an even better \"automated AI researcher\" by March 2028.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/l-intro-1788721751.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/l-intro-1788721751.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
+        "height": 800,
+        "aspectRatio": 1.5,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-says-it-reached-its-goal-of-creating-an-automated-research-intern",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=opaque-recurrence-and-other-ai-terms-that-you-should-probably-know",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-07T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-08T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -492,7 +417,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-engadget-com-2251859-openai-says-it-reached-its-goal-of-creating-an-au-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-techcrunch-com-2026-09-07-artificial-intelligence-definition-glossary-hall-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -502,27 +427,27 @@
       }
     },
     {
-      "story_id": "https://www.engadget.com/2247892/what-is-vibe-coding-explained/",
-      "source_url": "https://www.engadget.com/2247892/what-is-vibe-coding-explained/",
-      "headline": "What is vibe coding and why does it get so much hate?",
-      "summary": "Vibe coding has gotten a bad reputation as lazy, AI-driven coding, but that's not where it came from.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/what-is-vibe-coding-and-why-does-it-get-so-much-hate/l-intro-1788184434.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/what-is-vibe-coding-and-why-does-it-get-so-much-hate/l-intro-1788184434.jpg",
+      "story_id": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
+      "source_url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
+      "headline": "Scientists develop ‘ultrafast magnetic-field pulses’ memory system that could cut AI data center energy use by 100x",
+      "summary": "A new scientific paper outlines a way to cut AI data center energy usage by ‘orders of magnitude’.",
+      "source_name": "and even get close to hitting thermodynamic limits",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=what-is-vibe-coding-and-why-does-it-get-so-much-hate",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-ce",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-07T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-08T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -538,7 +463,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-07/https-www-engadget-com-2247892-what-is-vibe-coding-explained--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-computing-scientists-develop-ultrafast-magnetic-field-pu-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
