@@ -1012,6 +1012,20 @@
         "message_id": "18150802963524751",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3228728/get-visual-studio-2026-plus-courses-covering-python-java-c-ai-and-web-development-for-35.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-08T21:55:14.864Z",
+        "message_id": "18041253284818540",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-08T21:55:23.492Z",
+        "message_id": "18143649082494731",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
