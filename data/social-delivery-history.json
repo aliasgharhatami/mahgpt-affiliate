@@ -1887,6 +1887,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-08T15:09:16.472Z",
+        "message_id": 347,
+        "delivery": "message"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
