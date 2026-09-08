@@ -1921,6 +1921,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3228728/get-visual-studio-2026-plus-courses-covering-python-java-c-ai-and-web-development-for-35.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-08T21:40:13.252Z",
+        "message_id": 349,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
