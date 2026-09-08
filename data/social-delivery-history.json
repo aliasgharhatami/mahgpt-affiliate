@@ -1904,6 +1904,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/beyond-ai-adoption-what-it-takes-to-deliver-measurable-business-value": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-08T18:43:45.473Z",
+        "message_id": 348,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
