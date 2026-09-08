@@ -942,6 +942,20 @@
         "message_id": "17988047585858505",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/ai/can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-08T09:06:39.408Z",
+        "message_id": "18369785206243298",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-08T09:06:47.178Z",
+        "message_id": "17975319710915932",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
