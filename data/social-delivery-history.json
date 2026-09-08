@@ -1870,6 +1870,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-08T11:37:25.932Z",
+        "message_id": 346,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
