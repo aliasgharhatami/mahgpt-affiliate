@@ -970,6 +970,20 @@
         "message_id": "18122926639880741",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-08T15:18:27.419Z",
+        "message_id": "18138208420610271",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-08T15:18:35.828Z",
+        "message_id": "18108087422275965",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
