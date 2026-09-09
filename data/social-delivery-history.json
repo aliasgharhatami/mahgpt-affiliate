@@ -1972,6 +1972,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/3d/3d-software/this-free-app-could-become-the-blender-of-texture-painting-software": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-09T06:43:33.052Z",
+        "message_id": 352,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

@@ -1,456 +1,65 @@
 {
   "version": 1,
-  "queue_date": "2026-09-08",
-  "created_at": "2026-09-08T09:41:49.780Z",
-  "source_feed_updated_at": "2026-09-08T09:41:45.690Z",
+  "queue_date": "2026-09-09",
+  "created_at": "2026-09-09T06:43:25.604Z",
+  "source_feed_updated_at": "2026-09-09T06:43:25.527Z",
   "items": [
     {
-      "story_id": "https://www.creativebloq.com/ai/can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai",
-      "source_url": "https://www.creativebloq.com/ai/can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai",
-      "headline": "Can NVIDIA and Adobe work together to get creatives to actually like AI?",
-      "summary": "RTX Spark introduces local AI agents in Photoshop, and creatives should be (cautiously) optimistic",
+      "story_id": "https://www.creativebloq.com/3d/3d-software/this-free-app-could-become-the-blender-of-texture-painting-software",
+      "source_url": "https://www.creativebloq.com/3d/3d-software/this-free-app-could-become-the-blender-of-texture-painting-software",
+      "headline": "This free app could become the Blender of texture painting software",
+      "summary": "The Adobe Substance Painter alternative is lightweight, open source and available for every platform.",
       "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/xj6higMTFsj8RNTqxnLGW3-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/xj6higMTFsj8RNTqxnLGW3-1920-80.png",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/xx9vTNdYdPAwRiqD4VgqtG-2244-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xx9vTNdYdPAwRiqD4VgqtG-2244-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 2244,
+        "height": 1275,
+        "aspectRatio": 1.76,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-free-app-could-become-the-blender-of-texture-painting-software",
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-08T05:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-08T06:22:01.708Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-08T09:06:39.408Z",
-        "message_id": "18369785206243298"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-creativebloq-com-ai-can-nvidia-and-adobe-work-together-to-get-creative-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-      "source_url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-      "headline": "An Amazon cargo plane crashed at Miami International Airport",
-      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=an-amazon-cargo-plane-crashed-at-miami-international-airport",
-      "detected_partner": "runway",
-      "product_url": "/go/runway.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-08T07:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-07T06:07:37.791Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-07T08:56:29.382Z",
-        "message_id": "18128987584780677"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-08/An-Amazon-cargo-plane-crashed-at-Miami-International-Airport-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-theverge-com-tech-990918-amazon-cargo-plane-crashed-miami-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/ive-seen-ais-of-me-sitting-with-obama-talking-about-insane-things-that-we-never-did-george-clooney-raises-the-alarm-over-ai-fakes-while-maggie-gyllenhaal-says-the-tech-fundamentally-did-not-work-when-she-was-pressured-to-use-it-in-filmmaking",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/ive-seen-ais-of-me-sitting-with-obama-talking-about-insane-things-that-we-never-did-george-clooney-raises-the-alarm-over-ai-fakes-while-maggie-gyllenhaal-says-the-tech-fundamentally-did-not-work-when-she-was-pressured-to-use-it-in-filmmaking",
-      "headline": "‘I’ve seen AIs of me sitting with Obama talking about insane things that we never did’: George Clooney raises the alarm over AI fakes — while Maggie Gyllenhaal says the tech 'fundamentally did not work’ when she was pressured to use it in filmmaking",
-      "summary": "George Clooney and Maggie Gyllenhaal discussed the future of AI in filmmaking at the The Future of Creativity hosted by Finch & Partners and CAA in Venice.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/oqaaYsXyo6NK8tyZZNp34f-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/oqaaYsXyo6NK8tyZZNp34f-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ive-seen-ais-of-me-sitting-with-obama-talking-about-insane-things-that-we-never-did-george",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-09T05:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-09-08T09:42:25.488Z",
-        "message_id": 345,
+        "published_at": "2026-09-09T06:43:33.052Z",
+        "message_id": 352,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-08T13:38:38.976Z",
-        "message_id": "18016794605949698",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-ai-platforms-assistants-ive-seen-ais-of-me-sitting-with--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-creativebloq-com-3d-3d-software-this-free-app-could-become-the-blender-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-08T13:38:48.814Z",
-        "message_id": "18122926639880741",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
-      "source_url": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
-      "headline": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
-      "summary": "Google&#8217;s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour. Energy traders, grid operators and wind and solar de",
-      "source_name": "Artificialintelligence News",
-      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Screenshot-2026-09-07-at-10.59.24-AM.png",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Screenshot-2026-09-07-at-10.59.24-AM.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1679,
-        "height": 938,
-        "aspectRatio": 1.7899786780383795,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-weather-forecasting-enters-the-energy-market-as-google-targets-grid-operators-with-weat",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-08T11:37:25.932Z",
-        "message_id": 346,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-08T15:18:27.419Z",
-        "message_id": "18138208420610271",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-artificialintelligence-news-com-news-ai-weather-forecasting-google-wea-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-08T15:18:35.828Z",
-        "message_id": "18108087422275965",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
-      "source_url": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
-      "headline": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
-      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected. Se",
-      "source_name": "Artificialintelligence News",
-      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/raimond-klavins-n-7HTOiJPso-unsplash-scaled.jpg",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/raimond-klavins-n-7HTOiJPso-unsplash-scaled.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1707,
-        "aspectRatio": 1.4997070884592854,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-08T15:09:16.472Z",
-        "message_id": 347,
-        "delivery": "message"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-08T18:47:00.532Z",
-        "message_id": "18103822139525625",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-artificialintelligence-news-com-news-youtube-appears-in-53-of-google-a-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-08T18:47:10.891Z",
-        "message_id": "17934220374388059",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/beyond-ai-adoption-what-it-takes-to-deliver-measurable-business-value",
-      "source_url": "https://www.techradar.com/pro/beyond-ai-adoption-what-it-takes-to-deliver-measurable-business-value",
-      "headline": "Beyond AI adoption: what it takes to deliver measurable business value",
-      "summary": "Why AI success requires better workflows, accountability, governance and measurable outcomes.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=beyond-ai-adoption-what-it-takes-to-deliver-measurable-business-value",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-08T18:43:45.473Z",
-        "message_id": 348,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-08T20:18:28.378Z",
-        "message_id": "18013718084945521",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-pro-beyond-ai-adoption-what-it-takes-to-deliver-measurab-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-08T20:18:39.257Z",
-        "message_id": "18150802963524751",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3228728/get-visual-studio-2026-plus-courses-covering-python-java-c-ai-and-web-development-for-35.html",
-      "source_url": "https://www.macworld.com/article/3228728/get-visual-studio-2026-plus-courses-covering-python-java-c-ai-and-web-development-for-35.html",
-      "headline": "Get Visual Studio 2026 plus courses covering Python, Java, C++, AI, and web development for $35",
-      "summary": "Macworld TL;DR: Get Microsoft Visual Studio plus 15 coding and development courses for $34.97 through September 13 (MSRP $1,999.99). The bundle covers everything from beginner programming and databases to AI, computer vision, web development, mobile apps, and Salesforce. Learning to code can get com",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228728-0-09834000-1788854428-Visual-Stud-2026-Prem-Learn.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228728-0-09834000-1788854428-Visual-Stud-2026-Prem-Learn.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=get-visual-studio-2026-plus-courses-covering-python-java-c-ai-and-web-development-for-35",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-08T21:40:13.252Z",
-        "message_id": 349,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-08T21:55:14.864Z",
-        "message_id": "18041253284818540",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-macworld-com-article-3228728-get-visual-studio-2026-plus-courses-cover-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-08T21:55:23.492Z",
-        "message_id": "18143649082494731",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.creativebloq.com/design/branding/your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives",
-      "source_url": "https://www.creativebloq.com/design/branding/your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives",
-      "headline": "Your AI-written brief might wreck your brand's chances of finding the right creatives",
-      "summary": "Design agencies used to take a chance on interesting founders – AI-written briefs are ending that.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/M7B64KDJqXbhq5AYqBqSMJ-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/M7B64KDJqXbhq5AYqBqSMJ-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-08T23:41:07.022Z",
-        "message_id": 350,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-09T01:03:19.759Z",
-        "message_id": "18163503838489091",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-creativebloq-com-design-branding-your-ai-written-brief-might-wreck-you-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-09T01:03:28.386Z",
-        "message_id": "18127163113701715",
-        "media_kind": "story-fallback"
       }
     },
     {
       "story_id": "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html",
       "source_url": "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html",
-      "headline": "Surprise and Shine Apple iPhone event live blog begins now!",
+      "headline": "Surprise and Shine Apple iPhone event live blog: Latest updates",
       "summary": "Macworld Apple’s “Surprise and Shine” event might be the most anticipated iPhone keynote in 10 years. It all kicks off tomorrow morning, and like you, we can’t wait. So join us as we count down the hours and minutes to the big show with all the latest rumors, leaks, and speculation leading up to the",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-83359100-1788858271-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-83359100-1788858271-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-17117300-1788922737-surprise-and-shine-apple-live-hero.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-17117300-1788922737-surprise-and-shine-apple-live-hero.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
@@ -460,11 +69,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=surprise-and-shine-apple-iphone-event-live-blog-begins-now",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=surprise-and-shine-apple-iphone-event-live-blog-latest-updates",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-09T07:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-09-07T12:35:08.548Z"
@@ -481,8 +90,8 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-08/Surprise-and-Shine-Apple-iPhone-event-live-blog-begins-now--instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-macworld-com-article-3228054-surprise-and-shine-apple-iphone-event-liv-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-09/Surprise-and-Shine-Apple-iPhone-event-live-blog-Latest-updates-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-macworld-com-article-3228054-surprise-and-shine-apple-iphone-event-liv-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -493,32 +102,30 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
-      "source_url": "https://www.techradar.com/pro/a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
-      "headline": "A third of workers believe having an AI boss would make them more productive",
-      "summary": "Over 33% of employees feel they would be more productive under an AI boss, with directors also favourable towards replacing middle managers with agentic solutions.",
+      "story_id": "https://www.techradar.com/pro/69-of-americans-oppose-local-ai-data-centers-in-2026-poll-trump-blasts-blocking-communities-on-truth-social-for-choosing-poverty-over-server-farms-throwing-off-tremendous-amounts-of-money",
+      "source_url": "https://www.techradar.com/pro/69-of-americans-oppose-local-ai-data-centers-in-2026-poll-trump-blasts-blocking-communities-on-truth-social-for-choosing-poverty-over-server-farms-throwing-off-tremendous-amounts-of-money",
+      "headline": "69% of Americans oppose local AI data centers in 2026 poll — Trump blasts blocking communities on Truth Social for choosing poverty over server farms, throwing off 'tremendous amounts of money'",
+      "summary": "National polling shows Americans increasingly oppose local AI data centers, citing concerns over water, electricity costs, land use, and community impacts.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH-970-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH-970-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 970,
-        "height": 545,
-        "aspectRatio": 1.7798165137614679,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=69-of-americans-oppose-local-ai-data-centers-in-2026-poll-trump-blasts-blocking-communitie",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-08T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-09T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-09T01:16:14.470Z",
-        "message_id": 351,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -531,12 +138,335 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-08/https-www-techradar-com-pro-a-third-of-workers-believe-having-an-ai-boss-would-m-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-techradar-com-pro-69-of-americans-oppose-local-ai-data-centers-in-2026-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy/",
+      "source_url": "https://www.engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy/",
+      "headline": "What's going on with OpenAI and the Navier-Stokes controversy?",
+      "summary": "Artificial intelligence has solved a major mathematics problem, but credit for the accomplishment is murky.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/whats-going-on-with-openai-and-the-navier-stokes-controversy/l-intro-1788905065.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/whats-going-on-with-openai-and-the-navier-stokes-controversy/l-intro-1788905065.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=whats-going-on-with-openai-and-the-navier-stokes-controversy",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-09T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-engadget-com-2253393-whats-going-on-with-openai-and-the-navier-stokes--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/revolutionary-36-year-old-jet-engine-designed-for-f-16-set-to-power-worlds-first-ai-piloted-vtol-fighter-jet",
+      "source_url": "https://www.techradar.com/pro/revolutionary-36-year-old-jet-engine-designed-for-f-16-set-to-power-worlds-first-ai-piloted-vtol-fighter-jet",
+      "headline": "'Revolutionary' 36-year old jet engine designed for F-16 set to power world's first AI-piloted VTOL fighter jet",
+      "summary": "Shield AI’s unmanned vertical takeoff craft the X-BAT is employing axisymmetric vectoring, using a a jet engine first tested in the 1990s.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/PPuZsTqz9G2jF5DbiwqYen-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/PPuZsTqz9G2jF5DbiwqYen-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=revolutionary-36-year-old-jet-engine-designed-for-f-16-set-to-power-worlds-first-ai-pilote",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-09T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-techradar-com-pro-revolutionary-36-year-old-jet-engine-designed-for-f--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2252838/how-to-use-ios-27-ai-clean-up-tool-iphone-photos/",
+      "source_url": "https://www.engadget.com/2252838/how-to-use-ios-27-ai-clean-up-tool-iphone-photos/",
+      "headline": "How to use the AI Clean Up tool in iOS 27 to remove unwanted objects in iPhone Photos",
+      "summary": "Clean Up has been a handy tool for removing unwanted elements from photos since iOS 18, but iOS 27 upgrades it even further.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/how-to-use-the-ai-clean-up-tool-in-ios-27-to-remove-unwanted-objects-in-iphone-photos/l-intro-1788794561.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/how-to-use-the-ai-clean-up-tool-in-ios-27-to-remove-unwanted-objects-in-iphone-photos/l-intro-1788794561.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-use-the-ai-clean-up-tool-in-ios-27-to-remove-unwanted-objects-in-iphone-photos",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-09T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-engadget-com-2252838-how-to-use-ios-27-ai-clean-up-tool-iphone-photos--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "source_url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "headline": "Why this month&#039;s Microsoft patch release is a doozy",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "source_name": "Arstechnica",
+      "original_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1000,
+        "height": 563,
+        "aspectRatio": 1.7761989342806395,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-this-month-and-039-s-microsoft-patch-release-is-a-doozy",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-09T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-arstechnica-com-security-2026-09-microsoft-patches-a-record-972-vulnerabil-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source_url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "headline": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 683,
+        "aspectRatio": 1.499267935578331,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-ta",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-09T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-techcrunch-com-2026-09-08-cognition-hits-48b-valuation-signaling-investors-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/apple-intelligence/i-compared-siri-ai-to-gemini-on-android-and-apple-actually-understands-what-most-people-want-from-ai",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/apple-intelligence/i-compared-siri-ai-to-gemini-on-android-and-apple-actually-understands-what-most-people-want-from-ai",
+      "headline": "I compared Siri AI to Gemini on Android",
+      "summary": "I've compared using Siri AI to Gemini on Android— here's why Siri actually has an advantage.",
+      "source_name": "and Apple actually understands what most people want from AI",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/z9wsPLknVe6VQ849FxrZYH-1918-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/z9wsPLknVe6VQ849FxrZYH-1918-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1918,
+        "height": 1079,
+        "aspectRatio": 1.777571825764597,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-compared-siri-ai-to-gemini-on-android",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-09T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-techradar-com-ai-platforms-assistants-apple-intelligence-i-compared-si-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "headline": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=chatgpt-sketch-turns-your-bad-drawings-into-detailed-ai-images",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-09T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-09/ChatGPT-Sketch-turns-your-bad-drawings-into-detailed-AI-images-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-theverge-com-ai-artificial-intelligence-991727-openai-chatgpt-images-2-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     }

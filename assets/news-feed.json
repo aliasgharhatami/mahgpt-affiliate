@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T09:41:45.690Z",
+  "updatedAt": "2026-09-09T06:43:25.527Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "Can NVIDIA and Adobe work together to get creatives to actually like AI?",
-      "summary": "RTX Spark introduces local AI agents in Photoshop, and creatives should be (cautiously) optimistic",
+      "title": "This free app could become the Blender of texture painting software",
+      "summary": "The Adobe Substance Painter alternative is lightweight, open source and available for every platform.",
       "guide": "/partners/adobe.html",
-      "source": "https://www.creativebloq.com/ai/can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai",
-      "publishedAt": "2026-09-07T16:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/xj6higMTFsj8RNTqxnLGW3-1920-80.png"
-    },
-    {
-      "tool": "runway",
-      "toolName": "Runway",
-      "category": "Partner watch",
-      "title": "An Amazon cargo plane crashed at Miami International Airport",
-      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident",
-      "guide": "/partners/runway.html",
-      "source": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-      "publishedAt": "2026-09-06T20:56:38.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.creativebloq.com/3d/3d-software/this-free-app-could-become-the-blender-of-texture-painting-software",
+      "publishedAt": "2026-09-08T15:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/xx9vTNdYdPAwRiqD4VgqtG-2244-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "‘I’ve seen AIs of me sitting with Obama talking about insane things that we never did’: George Clooney raises the alarm over AI fakes — while Maggie Gyllenhaal says the tech 'fundamentally did not work’ when she was pressured to use it in filmmaking",
-      "summary": "George Clooney and Maggie Gyllenhaal discussed the future of AI in filmmaking at the The Future of Creativity hosted by Finch & Partners and CAA in Venice.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/ive-seen-ais-of-me-sitting-with-obama-talking-about-insane-things-that-we-never-did-george-clooney-raises-the-alarm-over-ai-fakes-while-maggie-gyllenhaal-says-the-tech-fundamentally-did-not-work-when-she-was-pressured-to-use-it-in-filmmaking",
-      "publishedAt": "2026-09-08T09:17:38.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/oqaaYsXyo6NK8tyZZNp34f-2560-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
-      "summary": "Google&#8217;s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour. Energy traders, grid operators and wind and solar de",
-      "guide": "/news/index.html",
-      "source": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
-      "publishedAt": "2026-09-08T09:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Screenshot-2026-09-07-at-10.59.24-AM.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
-      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected. Se",
-      "guide": "/news/index.html",
-      "source": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
-      "publishedAt": "2026-09-08T08:50:39.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/raimond-klavins-n-7HTOiJPso-unsplash-scaled.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Beyond AI adoption: what it takes to deliver measurable business value",
-      "summary": "Why AI success requires better workflows, accountability, governance and measurable outcomes.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/beyond-ai-adoption-what-it-takes-to-deliver-measurable-business-value",
-      "publishedAt": "2026-09-08T08:48:08.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Get Visual Studio 2026 plus courses covering Python, Java, C++, AI, and web development for $35",
-      "summary": "Macworld TL;DR: Get Microsoft Visual Studio plus 15 coding and development courses for $34.97 through September 13 (MSRP $1,999.99). The bundle covers everything from beginner programming and databases to AI, computer vision, web development, mobile apps, and Salesforce. Learning to code can get com",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3228728/get-visual-studio-2026-plus-courses-covering-python-java-c-ai-and-web-development-for-35.html",
-      "publishedAt": "2026-09-08T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3228728-0-09834000-1788854428-Visual-Stud-2026-Prem-Learn.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Your AI-written brief might wreck your brand's chances of finding the right creatives",
-      "summary": "Design agencies used to take a chance on interesting founders – AI-written briefs are ending that.",
-      "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/design/branding/your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives",
-      "publishedAt": "2026-09-08T07:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/M7B64KDJqXbhq5AYqBqSMJ-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Surprise and Shine Apple iPhone event live blog begins now!",
+      "title": "Surprise and Shine Apple iPhone event live blog: Latest updates",
       "summary": "Macworld Apple’s “Surprise and Shine” event might be the most anticipated iPhone keynote in 10 years. It all kicks off tomorrow morning, and like you, we can’t wait. So join us as we count down the hours and minutes to the big show with all the latest rumors, leaks, and speculation leading up to the",
       "guide": "/news/index.html",
       "source": "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html",
-      "publishedAt": "2026-09-08T06:28:38.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-83359100-1788858271-surprise-and-shine-apple-hero.jpg?quality=50&strip=all&w=1024"
+      "publishedAt": "2026-09-09T02:58:32.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-17117300-1788922737-surprise-and-shine-apple-live-hero.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "A third of workers believe having an AI boss would make them more productive",
-      "summary": "Over 33% of employees feel they would be more productive under an AI boss, with directors also favourable towards replacing middle managers with agentic solutions.",
+      "title": "69% of Americans oppose local AI data centers in 2026 poll — Trump blasts blocking communities on Truth Social for choosing poverty over server farms, throwing off 'tremendous amounts of money'",
+      "summary": "National polling shows Americans increasingly oppose local AI data centers, citing concerns over water, electricity costs, land use, and community impacts.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive",
-      "publishedAt": "2026-09-08T05:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH-970-80.jpg"
+      "source": "https://www.techradar.com/pro/69-of-americans-oppose-local-ai-data-centers-in-2026-poll-trump-blasts-blocking-communities-on-truth-social-for-choosing-poverty-over-server-farms-throwing-off-tremendous-amounts-of-money",
+      "publishedAt": "2026-09-08T23:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "What's going on with OpenAI and the Navier-Stokes controversy?",
+      "summary": "Artificial intelligence has solved a major mathematics problem, but credit for the accomplishment is murky.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy/",
+      "publishedAt": "2026-09-08T22:11:24.000Z",
+      "image": "https://www.engadget.com/img/gallery/whats-going-on-with-openai-and-the-navier-stokes-controversy/l-intro-1788905065.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "'Revolutionary' 36-year old jet engine designed for F-16 set to power world's first AI-piloted VTOL fighter jet",
+      "summary": "Shield AI’s unmanned vertical takeoff craft the X-BAT is employing axisymmetric vectoring, using a a jet engine first tested in the 1990s.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/revolutionary-36-year-old-jet-engine-designed-for-f-16-set-to-power-worlds-first-ai-piloted-vtol-fighter-jet",
+      "publishedAt": "2026-09-08T22:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/PPuZsTqz9G2jF5DbiwqYen-1920-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "How to use the AI Clean Up tool in iOS 27 to remove unwanted objects in iPhone Photos",
+      "summary": "Clean Up has been a handy tool for removing unwanted elements from photos since iOS 18, but iOS 27 upgrades it even further.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2252838/how-to-use-ios-27-ai-clean-up-tool-iphone-photos/",
+      "publishedAt": "2026-09-08T22:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-the-ai-clean-up-tool-in-ios-27-to-remove-unwanted-objects-in-iphone-photos/l-intro-1788794561.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Why this month&#039;s Microsoft patch release is a doozy",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "guide": "/news/index.html",
+      "source": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "publishedAt": "2026-09-08T21:11:46.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "publishedAt": "2026-09-08T21:04:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "I compared Siri AI to Gemini on Android — and Apple actually understands what most people want from AI",
+      "summary": "I've compared using Siri AI to Gemini on Android— here's why Siri actually has an advantage.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/ai-platforms-assistants/apple-intelligence/i-compared-siri-ai-to-gemini-on-android-and-apple-actually-understands-what-most-people-want-from-ai",
+      "publishedAt": "2026-09-08T21:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/z9wsPLknVe6VQ849FxrZYH-1918-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]",
+      "guide": "/news/index.html",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "publishedAt": "2026-09-08T20:16:09.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     }
   ]
 }
