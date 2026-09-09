@@ -2006,6 +2006,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2251539/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-09T11:56:37.836Z",
+        "message_id": 354,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
