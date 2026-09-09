@@ -1068,6 +1068,20 @@
         "message_id": "18133704982632266",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2251539/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-09T15:07:40.563Z",
+        "message_id": "18087315182240766",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-09T15:07:50.313Z",
+        "message_id": "18168272743458448",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
