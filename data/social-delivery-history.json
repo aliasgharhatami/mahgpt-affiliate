@@ -2040,6 +2040,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2252811/major-changes-coming-apple-homekit-ios-27/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-09T18:39:40.932Z",
+        "message_id": 356,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
