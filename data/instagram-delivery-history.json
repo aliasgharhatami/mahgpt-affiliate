@@ -1054,6 +1054,20 @@
         "message_id": "17993352540031276",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/ai-founders-no-longer-need-a-silicon-valley-address": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-09T11:11:17.332Z",
+        "message_id": "18112389776023183",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-09T11:11:27.566Z",
+        "message_id": "18133704982632266",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
