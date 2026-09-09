@@ -2074,6 +2074,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-09T23:53:54.578Z",
+        "message_id": 358,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
