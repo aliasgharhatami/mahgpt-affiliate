@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-09-09",
-  "created_at": "2026-09-09T06:43:25.604Z",
-  "source_feed_updated_at": "2026-09-09T06:43:25.527Z",
+  "created_at": "2026-09-09T09:46:15.127Z",
+  "source_feed_updated_at": "2026-09-09T09:46:10.853Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/3d/3d-software/this-free-app-could-become-the-blender-of-texture-painting-software",
@@ -27,10 +27,8 @@
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-09-09T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-09T06:43:33.052Z",
-        "message_id": 352,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-09T06:43:33.052Z"
       },
       "linkedin": {
         "status": "pending"
@@ -56,10 +54,10 @@
       "story_id": "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html",
       "source_url": "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html",
       "headline": "Surprise and Shine Apple iPhone event live blog: Latest updates",
-      "summary": "Macworld Apple’s “Surprise and Shine” event might be the most anticipated iPhone keynote in 10 years. It all kicks off tomorrow morning, and like you, we can’t wait. So join us as we count down the hours and minutes to the big show with all the latest rumors, leaks, and speculation leading up to the",
+      "summary": "Macworld Apple’s “Surprise and Shine” event might be the most anticipated iPhone keynote in 10 years. It all kicks off today, and like you, we can’t wait! So join us as we count down the hours and minutes with all the latest rumors, leaks, and speculation leading up to the big event on Wednesday, Se",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-17117300-1788922737-surprise-and-shine-apple-live-hero.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-17117300-1788922737-surprise-and-shine-apple-live-hero.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-71123300-1788946873-surprise-and-shine-apple-live-hero.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-71123300-1788946873-surprise-and-shine-apple-live-hero.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
@@ -102,6 +100,185 @@
       }
     },
     {
+      "story_id": "https://www.techradar.com/pro/ai-founders-no-longer-need-a-silicon-valley-address",
+      "source_url": "https://www.techradar.com/pro/ai-founders-no-longer-need-a-silicon-valley-address",
+      "headline": "AI founders no longer need a Silicon Valley address",
+      "summary": "Europe has AI talent; the challenge is converting operators into founders.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-founders-no-longer-need-a-silicon-valley-address",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-09T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-techradar-com-pro-ai-founders-no-longer-need-a-silicon-valley-address-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2251539/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/",
+      "source_url": "https://www.engadget.com/2251539/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/",
+      "headline": "Suno trained its v6 AI music models with help from Warner and BMG",
+      "summary": "Suno's new AI music models are the formal start of the company's partnership with some big labels.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/l-intro-1788555504.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/l-intro-1788555504.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-09T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-engadget-com-2251539-suno-trained-its-v6-ai-music-models-with-help-fro-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "source_url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "headline": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France. Samsung will integrate Mistral&#8217;s software suite – in",
+      "source_name": "Artificialintelligence News",
+      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/samsung-mistral-ai-models-semiconductor-manufacturing-supply-chain-artificial-intelligence.jpg",
+      "image_url": "",
+      "image_validation": null,
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=samsung-taps-mistral-ai-models-for-semiconductor-manufacturing",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-09T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "assets/social-cards/2026-09-09/Samsung-taps-Mistral-AI-models-for-semiconductor-manufacturing-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-09/Samsung-taps-Mistral-AI-models-for-semiconductor-manufacturing-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-artificialintelligence-news-com-news-samsung-mistral-ai-models-for-sem-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-missing-source"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2252811/major-changes-coming-apple-homekit-ios-27/",
+      "source_url": "https://www.engadget.com/2252811/major-changes-coming-apple-homekit-ios-27/",
+      "headline": "What are the major changes coming to Apple HomeKit in iOS 27?",
+      "summary": "iOS 27 isn't leaving out HomeKit and the Home app in its list of AI revamps and improvements.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/what-are-the-major-changes-coming-to-apple-homekit-in-ios-27/l-intro-1788792476.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/what-are-the-major-changes-coming-to-apple-homekit-in-ios-27/l-intro-1788792476.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=what-are-the-major-changes-coming-to-apple-homekit-in-ios-27",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-09T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-engadget-com-2252811-major-changes-coming-apple-homekit-ios-27--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
       "story_id": "https://www.techradar.com/pro/69-of-americans-oppose-local-ai-data-centers-in-2026-poll-trump-blasts-blocking-communities-on-truth-social-for-choosing-poverty-over-server-farms-throwing-off-tremendous-amounts-of-money",
       "source_url": "https://www.techradar.com/pro/69-of-americans-oppose-local-ai-data-centers-in-2026-poll-trump-blasts-blocking-communities-on-truth-social-for-choosing-poverty-over-server-farms-throwing-off-tremendous-amounts-of-money",
       "headline": "69% of Americans oppose local AI data centers in 2026 poll — Trump blasts blocking communities on Truth Social for choosing poverty over server farms, throwing off 'tremendous amounts of money'",
@@ -122,7 +299,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-09T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-09T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -168,7 +345,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-09T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-09T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -214,7 +391,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-09T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-09T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -260,7 +437,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-09T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-09T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -282,191 +459,6 @@
         "warnings": [],
         "repairs": [
           "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "source_url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "headline": "Why this month&#039;s Microsoft patch release is a doozy",
-      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-      "source_name": "Arstechnica",
-      "original_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1000,
-        "height": 563,
-        "aspectRatio": 1.7761989342806395,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-this-month-and-039-s-microsoft-patch-release-is-a-doozy",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-09T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-09/https-arstechnica-com-security-2026-09-microsoft-patches-a-record-972-vulnerabil-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source_url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "headline": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 683,
-        "aspectRatio": 1.499267935578331,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-ta",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-09T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-09/https-techcrunch-com-2026-09-08-cognition-hits-48b-valuation-signaling-investors-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/apple-intelligence/i-compared-siri-ai-to-gemini-on-android-and-apple-actually-understands-what-most-people-want-from-ai",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/apple-intelligence/i-compared-siri-ai-to-gemini-on-android-and-apple-actually-understands-what-most-people-want-from-ai",
-      "headline": "I compared Siri AI to Gemini on Android",
-      "summary": "I've compared using Siri AI to Gemini on Android— here's why Siri actually has an advantage.",
-      "source_name": "and Apple actually understands what most people want from AI",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/z9wsPLknVe6VQ849FxrZYH-1918-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/z9wsPLknVe6VQ849FxrZYH-1918-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1918,
-        "height": 1079,
-        "aspectRatio": 1.777571825764597,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-compared-siri-ai-to-gemini-on-android",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-09T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-techradar-com-ai-platforms-assistants-apple-intelligence-i-compared-si-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "headline": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=chatgpt-sketch-turns-your-bad-drawings-into-detailed-ai-images",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-09T23:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-09/ChatGPT-Sketch-turns-your-bad-drawings-into-detailed-AI-images-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-09/https-www-theverge-com-ai-artificial-intelligence-991727-openai-chatgpt-images-2-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     }
