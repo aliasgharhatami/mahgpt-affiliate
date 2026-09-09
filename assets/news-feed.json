@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T06:43:25.527Z",
+  "updatedAt": "2026-09-09T09:46:10.853Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -31,11 +31,55 @@
       "toolName": "AI News",
       "category": "AI news",
       "title": "Surprise and Shine Apple iPhone event live blog: Latest updates",
-      "summary": "Macworld Apple’s “Surprise and Shine” event might be the most anticipated iPhone keynote in 10 years. It all kicks off tomorrow morning, and like you, we can’t wait. So join us as we count down the hours and minutes to the big show with all the latest rumors, leaks, and speculation leading up to the",
+      "summary": "Macworld Apple’s “Surprise and Shine” event might be the most anticipated iPhone keynote in 10 years. It all kicks off today, and like you, we can’t wait! So join us as we count down the hours and minutes with all the latest rumors, leaks, and speculation leading up to the big event on Wednesday, Se",
       "guide": "/news/index.html",
       "source": "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html",
-      "publishedAt": "2026-09-09T02:58:32.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-17117300-1788922737-surprise-and-shine-apple-live-hero.jpg?quality=50&strip=all&w=1024"
+      "publishedAt": "2026-09-09T09:40:55.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-71123300-1788946873-surprise-and-shine-apple-live-hero.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "AI founders no longer need a Silicon Valley address",
+      "summary": "Europe has AI talent; the challenge is converting operators into founders.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/ai-founders-no-longer-need-a-silicon-valley-address",
+      "publishedAt": "2026-09-09T09:07:48.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Suno trained its v6 AI music models with help from Warner and BMG",
+      "summary": "Suno's new AI music models are the formal start of the company's partnership with some big labels.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2251539/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/",
+      "publishedAt": "2026-09-09T09:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/l-intro-1788555504.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France. Samsung will integrate Mistral&#8217;s software suite – in",
+      "guide": "/news/index.html",
+      "source": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "publishedAt": "2026-09-09T08:52:19.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/samsung-mistral-ai-models-semiconductor-manufacturing-supply-chain-artificial-intelligence.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "What are the major changes coming to Apple HomeKit in iOS 27?",
+      "summary": "iOS 27 isn't leaving out HomeKit and the Home app in its list of AI revamps and improvements.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2252811/major-changes-coming-apple-homekit-ios-27/",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-are-the-major-changes-coming-to-apple-homekit-in-ios-27/l-intro-1788792476.jpg"
     },
     {
       "tool": "ai-news",
@@ -80,50 +124,6 @@
       "source": "https://www.engadget.com/2252838/how-to-use-ios-27-ai-clean-up-tool-iphone-photos/",
       "publishedAt": "2026-09-08T22:00:00.000Z",
       "image": "https://www.engadget.com/img/gallery/how-to-use-the-ai-clean-up-tool-in-ios-27-to-remove-unwanted-objects-in-iphone-photos/l-intro-1788794561.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Why this month&#039;s Microsoft patch release is a doozy",
-      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-      "guide": "/news/index.html",
-      "source": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "publishedAt": "2026-09-08T21:11:46.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "publishedAt": "2026-09-08T21:04:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "I compared Siri AI to Gemini on Android — and Apple actually understands what most people want from AI",
-      "summary": "I've compared using Siri AI to Gemini on Android— here's why Siri actually has an advantage.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/apple-intelligence/i-compared-siri-ai-to-gemini-on-android-and-apple-actually-understands-what-most-people-want-from-ai",
-      "publishedAt": "2026-09-08T21:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/z9wsPLknVe6VQ849FxrZYH-1918-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "publishedAt": "2026-09-08T20:16:09.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     }
   ]
 }
