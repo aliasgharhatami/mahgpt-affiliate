@@ -1110,6 +1110,20 @@
         "message_id": "18091831052671362",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/69-of-americans-oppose-local-ai-data-centers-in-2026-poll-trump-blasts-blocking-communities-on-truth-social-for-choosing-poverty-over-server-farms-throwing-off-tremendous-amounts-of-money": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-09T23:18:10.354Z",
+        "message_id": "18136926319618493",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-09T23:18:19.452Z",
+        "message_id": "18124708760507804",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
