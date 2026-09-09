@@ -1026,6 +1026,20 @@
         "message_id": "18143649082494731",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/design/branding/your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-09T01:03:19.759Z",
+        "message_id": "18163503838489091",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-09T01:03:28.386Z",
+        "message_id": "18127163113701715",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
