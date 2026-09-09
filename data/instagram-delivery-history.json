@@ -1082,6 +1082,20 @@
         "message_id": "18168272743458448",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-09T18:36:49.436Z",
+        "message_id": "18153151519519346",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-09T18:36:59.200Z",
+        "message_id": "17995005035824854",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
