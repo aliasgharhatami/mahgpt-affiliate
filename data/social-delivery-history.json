@@ -1955,6 +1955,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/a-third-of-workers-believe-having-an-ai-boss-would-make-them-more-productive": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-09T01:16:14.470Z",
+        "message_id": 351,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
