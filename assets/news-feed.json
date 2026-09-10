@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T09:46:10.853Z",
+  "updatedAt": "2026-09-10T08:25:23.911Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -27,103 +27,103 @@
       "image": "https://cdn.mos.cms.futurecdn.net/xx9vTNdYdPAwRiqD4VgqtG-2244-80.jpg"
     },
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Surprise and Shine Apple iPhone event live blog: Latest updates",
-      "summary": "Macworld Apple’s “Surprise and Shine” event might be the most anticipated iPhone keynote in 10 years. It all kicks off today, and like you, we can’t wait! So join us as we count down the hours and minutes with all the latest rumors, leaks, and speculation leading up to the big event on Wednesday, Se",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html",
-      "publishedAt": "2026-09-09T09:40:55.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3228054-0-71123300-1788946873-surprise-and-shine-apple-live-hero.jpg?quality=50&strip=all&w=1024"
+      "tool": "horizons",
+      "toolName": "Hostinger Horizons",
+      "category": "Partner watch",
+      "title": "iOS 27 release candidate is out now, wide release on September 14",
+      "summary": "Macworld On the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026. After almost exactly three months of beta releases, fixes, tweaks, and optim",
+      "guide": "/partners/horizons.html",
+      "source": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
+      "publishedAt": "2026-09-09T21:59:53.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3172166-0-35660600-1788991226-ios_27_hero.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI founders no longer need a Silicon Valley address",
-      "summary": "Europe has AI talent; the challenge is converting operators into founders.",
+      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+      "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it arrives at dealerships earl",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ai-founders-no-longer-need-a-silicon-valley-address",
-      "publishedAt": "2026-09-09T09:07:48.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc-2560-80.jpg"
+      "source": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Suno trained its v6 AI music models with help from Warner and BMG",
-      "summary": "Suno's new AI music models are the formal start of the company's partnership with some big labels.",
+      "title": "Can you spot all the clues that prove this AI 'photo' isn't real?",
+      "summary": "There are a lot more errors than it seems at first glance.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2251539/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/",
-      "publishedAt": "2026-09-09T09:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/l-intro-1788555504.jpg"
+      "source": "https://www.creativebloq.com/ai/ai-art/can-you-spot-all-the-clues-that-prove-this-ai-photo-isnt-real",
+      "publishedAt": "2026-09-10T06:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/XB6izpmzrsEj4xwpWoXGqP-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
-      "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France. Samsung will integrate Mistral&#8217;s software suite – in",
+      "title": "Despite spending billions on data centers and AI, US government report finds Amazon workers are using food stamps more than ever",
+      "summary": "Multi-billion-dollar buildouts for AI partners, but an increasing number of food-stamp recipients among one's employees?",
       "guide": "/news/index.html",
-      "source": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
-      "publishedAt": "2026-09-09T08:52:19.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/samsung-mistral-ai-models-semiconductor-manufacturing-supply-chain-artificial-intelligence.jpg"
+      "source": "https://www.techradar.com/pro/despite-spending-billions-on-data-centers-and-ai-us-government-report-finds-amazon-workers-are-using-food-stamps-more-than-ever",
+      "publishedAt": "2026-09-10T00:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "What are the major changes coming to Apple HomeKit in iOS 27?",
-      "summary": "iOS 27 isn't leaving out HomeKit and the Home app in its list of AI revamps and improvements.",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2252811/major-changes-coming-apple-homekit-ios-27/",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-are-the-major-changes-coming-to-apple-homekit-in-ios-27/l-intro-1788792476.jpg"
+      "source": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "publishedAt": "2026-09-10T00:00:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "69% of Americans oppose local AI data centers in 2026 poll — Trump blasts blocking communities on Truth Social for choosing poverty over server farms, throwing off 'tremendous amounts of money'",
-      "summary": "National polling shows Americans increasingly oppose local AI data centers, citing concerns over water, electricity costs, land use, and community impacts.",
+      "title": "AI data centers have a hidden cost few highlighted: A $200 billion insurance price tag that consumers will end up paying",
+      "summary": "The risk management of data centers has been highlighted as a potential payday for insurers, with market estimates as high as $200 billion through to 2030.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/69-of-americans-oppose-local-ai-data-centers-in-2026-poll-trump-blasts-blocking-communities-on-truth-social-for-choosing-poverty-over-server-farms-throwing-off-tremendous-amounts-of-money",
-      "publishedAt": "2026-09-08T23:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/ai-data-centers-have-a-hidden-cost-few-highlighted-a-usd200-billion-insurance-price-tag-that-consumers-will-end-up-paying",
+      "publishedAt": "2026-09-09T23:15:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "What's going on with OpenAI and the Navier-Stokes controversy?",
-      "summary": "Artificial intelligence has solved a major mathematics problem, but credit for the accomplishment is murky.",
+      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+      "summary": "The exact circumstances surrounding the changes aren't clear, but Meta execs have accidentally tagged the band instead of their AI agent.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy/",
-      "publishedAt": "2026-09-08T22:11:24.000Z",
-      "image": "https://www.engadget.com/img/gallery/whats-going-on-with-openai-and-the-navier-stokes-controversy/l-intro-1788905065.jpg"
+      "source": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+      "publishedAt": "2026-09-09T22:52:49.000Z",
+      "image": "https://www.engadget.com/img/gallery/muse-the-band-lost-its-social-media-handles-to-muse-metas-new-ai-agent/l-intro-1788993799.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'Revolutionary' 36-year old jet engine designed for F-16 set to power world's first AI-piloted VTOL fighter jet",
-      "summary": "Shield AI’s unmanned vertical takeoff craft the X-BAT is employing axisymmetric vectoring, using a a jet engine first tested in the 1990s.",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/revolutionary-36-year-old-jet-engine-designed-for-f-16-set-to-power-worlds-first-ai-piloted-vtol-fighter-jet",
-      "publishedAt": "2026-09-08T22:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PPuZsTqz9G2jF5DbiwqYen-1920-80.jpg"
+      "source": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "publishedAt": "2026-09-09T22:25:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How to use the AI Clean Up tool in iOS 27 to remove unwanted objects in iPhone Photos",
-      "summary": "Clean Up has been a handy tool for removing unwanted elements from photos since iOS 18, but iOS 27 upgrades it even further.",
+      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+      "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2252838/how-to-use-ios-27-ai-clean-up-tool-iphone-photos/",
-      "publishedAt": "2026-09-08T22:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-the-ai-clean-up-tool-in-ios-27-to-remove-unwanted-objects-in-iphone-photos/l-intro-1788794561.jpg"
+      "source": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "publishedAt": "2026-09-09T22:11:55.000Z",
+      "image": "https://media.wired.com/photos/6aa1b02e3037c77bcc965f82/191:100/w_1280,c_limit/Security_Interview%20With%20Anthropic%20Guy%20Who%20Quit%20Because%20AI%20Is%20Going%20to%20Kill%20Everybody_v1.jpg"
     }
   ]
 }
