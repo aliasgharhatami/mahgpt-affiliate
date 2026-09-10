@@ -2125,6 +2125,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/ais-overlooked-storage-opportunity": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-10T13:03:24.696Z",
+        "message_id": 361,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
