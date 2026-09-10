@@ -1124,6 +1124,20 @@
         "message_id": "18124708760507804",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-10T01:09:46.923Z",
+        "message_id": "18078279248341554",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-10T01:09:56.025Z",
+        "message_id": "18231532909319128",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
