@@ -2108,6 +2108,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/will-ai-data-centers-actually-create-as-many-jobs-as-promised-probably-not-new-report-warns": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-10T09:45:11.325Z",
+        "message_id": 360,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
