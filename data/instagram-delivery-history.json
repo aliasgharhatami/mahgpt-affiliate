@@ -1180,6 +1180,20 @@
         "message_id": "17956688517231650",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-10T18:29:23.413Z",
+        "message_id": "17957672388247041",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-10T18:29:31.407Z",
+        "message_id": "18408243205086415",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
