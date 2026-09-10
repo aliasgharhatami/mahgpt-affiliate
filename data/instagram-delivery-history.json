@@ -1194,6 +1194,20 @@
         "message_id": "18408243205086415",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/ai/ai-art/can-you-spot-all-the-clues-that-prove-this-ai-photo-isnt-real": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-10T21:08:07.507Z",
+        "message_id": "17884808892619138",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-10T21:08:16.332Z",
+        "message_id": "18114411625899105",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
