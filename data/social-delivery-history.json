@@ -2142,6 +2142,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-10T15:00:08.536Z",
+        "message_id": 362,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
