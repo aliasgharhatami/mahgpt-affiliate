@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T09:46:23.047Z",
-  "analysis_date": "2026-09-09",
+  "generated_at": "2026-09-10T09:44:42.277Z",
+  "analysis_date": "2026-09-10",
   "stories": [
     {
       "title": "This free app could become the Blender of texture painting software",
@@ -9,93 +9,93 @@
       "mahgpt_url": "/news/story.html?id=this-free-app-could-become-the-blender-of-texture-painting-software"
     },
     {
-      "title": "Surprise and Shine Apple iPhone event live blog: Latest updates",
-      "source": "https://www.macworld.com/article/3228054/surprise-and-shine-apple-iphone-event-live-blog-begins-now.html",
-      "mahgpt_url": "/news/story.html?id=surprise-and-shine-apple-iphone-event-live-blog-latest-updates"
+      "title": "iOS 27 release candidate is out now, wide release on September 14",
+      "source": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
+      "mahgpt_url": "/news/story.html?id=ios-27-release-candidate-is-out-now-wide-release-on-september-14"
     },
     {
-      "title": "AI founders no longer need a Silicon Valley address",
-      "source": "https://www.techradar.com/pro/ai-founders-no-longer-need-a-silicon-valley-address",
-      "mahgpt_url": "/news/story.html?id=ai-founders-no-longer-need-a-silicon-valley-address"
+      "title": "Will AI data centers actually create as many jobs as promised? Probably not, new report warns",
+      "source": "https://www.techradar.com/pro/will-ai-data-centers-actually-create-as-many-jobs-as-promised-probably-not-new-report-warns",
+      "mahgpt_url": "/news/story.html?id=will-ai-data-centers-actually-create-as-many-jobs-as-promised-probably-not-new-report-warn"
     },
     {
-      "title": "Suno trained its v6 AI music models with help from Warner and BMG",
-      "source": "https://www.engadget.com/2251539/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/",
-      "mahgpt_url": "/news/story.html?id=suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg"
+      "title": "AI’s overlooked storage opportunity",
+      "source": "https://www.techradar.com/pro/ais-overlooked-storage-opportunity",
+      "mahgpt_url": "/news/story.html?id=ais-overlooked-storage-opportunity"
     },
     {
-      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
-      "source": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
-      "mahgpt_url": "/news/story.html?id=samsung-taps-mistral-ai-models-for-semiconductor-manufacturing"
+      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+      "source": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+      "mahgpt_url": "/news/story.html?id=volvo-xc40-phev-is-back-with-a-new-look-better-sensors-and-gemini-ai"
     },
     {
-      "title": "What are the major changes coming to Apple HomeKit in iOS 27?",
-      "source": "https://www.engadget.com/2252811/major-changes-coming-apple-homekit-ios-27/",
-      "mahgpt_url": "/news/story.html?id=what-are-the-major-changes-coming-to-apple-homekit-in-ios-27"
+      "title": "Can you spot all the clues that prove this AI 'photo' isn't real?",
+      "source": "https://www.creativebloq.com/ai/ai-art/can-you-spot-all-the-clues-that-prove-this-ai-photo-isnt-real",
+      "mahgpt_url": "/news/story.html?id=can-you-spot-all-the-clues-that-prove-this-ai-photo-isnt-real"
     },
     {
-      "title": "69% of Americans oppose local AI data centers in 2026 poll — Trump blasts blocking communities on Truth Social for choosing poverty over server farms, throwing off 'tremendous amounts of money'",
-      "source": "https://www.techradar.com/pro/69-of-americans-oppose-local-ai-data-centers-in-2026-poll-trump-blasts-blocking-communities-on-truth-social-for-choosing-poverty-over-server-farms-throwing-off-tremendous-amounts-of-money",
-      "mahgpt_url": "/news/story.html?id=69-of-americans-oppose-local-ai-data-centers-in-2026-poll-trump-blasts-blocking-communitie"
+      "title": "Despite spending billions on data centers and AI, US government report finds Amazon workers are using food stamps more than ever",
+      "source": "https://www.techradar.com/pro/despite-spending-billions-on-data-centers-and-ai-us-government-report-finds-amazon-workers-are-using-food-stamps-more-than-ever",
+      "mahgpt_url": "/news/story.html?id=despite-spending-billions-on-data-centers-and-ai-us-government-report-finds-amazon-workers"
     },
     {
-      "title": "What's going on with OpenAI and the Navier-Stokes controversy?",
-      "source": "https://www.engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy/",
-      "mahgpt_url": "/news/story.html?id=whats-going-on-with-openai-and-the-navier-stokes-controversy"
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "source": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "mahgpt_url": "/news/story.html?id=ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-09.html"
+      "path": "news/analysis/2026-09-10.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-09.html"
+      "path": "es/news/analysis/2026-09-10.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-09.html"
+      "path": "de/news/analysis/2026-09-10.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-09.html"
+      "path": "fr/news/analysis/2026-09-10.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-09.html"
+      "path": "pt-BR/news/analysis/2026-09-10.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-09.html"
+      "path": "ar/news/analysis/2026-09-10.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-09.html"
+      "path": "fa/news/analysis/2026-09-10.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-09.html"
+      "path": "tr/news/analysis/2026-09-10.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-09.html"
+      "path": "it/news/analysis/2026-09-10.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-09.html"
+      "path": "ja/news/analysis/2026-09-10.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-09.html"
+      "path": "ko/news/analysis/2026-09-10.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-09.html"
+      "path": "id/news/analysis/2026-09-10.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-09.html"
+      "path": "hi/news/analysis/2026-09-10.html"
     }
   ]
 }
