@@ -2176,6 +2176,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/despite-spending-billions-on-data-centers-and-ai-us-government-report-finds-amazon-workers-are-using-food-stamps-more-than-ever": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-10T18:31:39.399Z",
+        "message_id": 364,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
