@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T08:25:23.911Z",
+  "updatedAt": "2026-09-10T09:44:30.154Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -36,6 +36,28 @@
       "source": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
       "publishedAt": "2026-09-09T21:59:53.000Z",
       "image": "https://www.macworld.com/wp-content/uploads/2026/09/3172166-0-35660600-1788991226-ios_27_hero.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Will AI data centers actually create as many jobs as promised? Probably not, new report warns",
+      "summary": "While earlier data centers could support lots of jobs, increasing efficiency and automation makes this less likely at bigger facilities.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/will-ai-data-centers-actually-create-as-many-jobs-as-promised-probably-not-new-report-warns",
+      "publishedAt": "2026-09-10T09:29:47.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/EvwjyiKQ3AfWBgAwjcAL4c-1920-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "AI’s overlooked storage opportunity",
+      "summary": "AI success depends on keeping more data accessible, protected, and affordable at scale.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/ais-overlooked-storage-opportunity",
+      "publishedAt": "2026-09-10T09:12:33.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YoQ7bF6XQjs33SMa72NcwK-2560-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -102,28 +124,6 @@
       "source": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
       "publishedAt": "2026-09-09T22:52:49.000Z",
       "image": "https://www.engadget.com/img/gallery/muse-the-band-lost-its-social-media-handles-to-muse-metas-new-ai-agent/l-intro-1788993799.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "publishedAt": "2026-09-09T22:25:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-      "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
-      "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-      "publishedAt": "2026-09-09T22:11:55.000Z",
-      "image": "https://media.wired.com/photos/6aa1b02e3037c77bcc965f82/191:100/w_1280,c_limit/Security_Interview%20With%20Anthropic%20Guy%20Who%20Quit%20Because%20AI%20Is%20Going%20to%20Kill%20Everybody_v1.jpg"
     }
   ]
 }
