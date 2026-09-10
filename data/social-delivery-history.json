@@ -2091,6 +2091,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/revolutionary-36-year-old-jet-engine-designed-for-f-16-set-to-power-worlds-first-ai-piloted-vtol-fighter-jet": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-10T01:24:46.832Z",
+        "message_id": 359,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
