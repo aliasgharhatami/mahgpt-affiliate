@@ -1166,6 +1166,20 @@
         "message_id": "18143734762562177",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/ais-overlooked-storage-opportunity": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-10T15:01:46.069Z",
+        "message_id": "18055511525557882",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-10T15:01:56.157Z",
+        "message_id": "17956688517231650",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
