@@ -1152,6 +1152,20 @@
         "message_id": "18389867203163663",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/will-ai-data-centers-actually-create-as-many-jobs-as-promised-probably-not-new-report-warns": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-10T11:40:20.601Z",
+        "message_id": "18097392104065906",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-10T11:40:30.178Z",
+        "message_id": "18143734762562177",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
