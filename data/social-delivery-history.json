@@ -2210,6 +2210,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/ai-data-centers-have-a-hidden-cost-few-highlighted-a-usd200-billion-insurance-price-tag-that-consumers-will-end-up-paying": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-10T23:55:36.120Z",
+        "message_id": 366,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
