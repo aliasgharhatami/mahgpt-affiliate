@@ -1138,6 +1138,20 @@
         "message_id": "18231532909319128",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-10T09:49:57.708Z",
+        "message_id": "18027925814887583",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-10T09:50:08.672Z",
+        "message_id": "18389867203163663",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
