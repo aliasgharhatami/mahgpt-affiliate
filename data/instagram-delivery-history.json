@@ -1278,6 +1278,20 @@
         "message_id": "18123981397885826",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/gemini/google-just-gave-every-windows-10-and-11-pc-a-gemini-key-i-tried-it-and-its-the-easiest-way-to-use-its-ai-yet": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-11T18:32:56.279Z",
+        "message_id": "18122277074298741",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-11T18:33:03.246Z",
+        "message_id": "18201317269374036",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
