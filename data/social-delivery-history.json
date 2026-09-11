@@ -2278,6 +2278,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/the-visibility-gap-thats-smuggling-risk-into-ai-code": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-11T12:58:02.789Z",
+        "message_id": 370,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
