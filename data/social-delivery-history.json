@@ -2329,6 +2329,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/younger-workers-apparently-want-their-bosses-to-start-behaving-more-like-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-11T18:36:12.487Z",
+        "message_id": 373,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
