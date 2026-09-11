@@ -1222,6 +1222,20 @@
         "message_id": "17989118010020340",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-11T01:06:11.219Z",
+        "message_id": "17901497385592285",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-11T01:06:18.949Z",
+        "message_id": "18094988948450515",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
