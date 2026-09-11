@@ -1250,6 +1250,20 @@
         "message_id": "18630758452051254",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/the-visibility-gap-thats-smuggling-risk-into-ai-code": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-11T11:07:39.707Z",
+        "message_id": "18375983671236729",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-11T11:07:47.235Z",
+        "message_id": "18175288792445403",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
