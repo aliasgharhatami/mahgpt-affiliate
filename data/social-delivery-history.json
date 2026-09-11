@@ -2227,6 +2227,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-11T01:25:39.514Z",
+        "message_id": 367,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
