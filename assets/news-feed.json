@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T09:44:30.154Z",
+  "updatedAt": "2026-09-11T08:20:07.713Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,12 +19,23 @@
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "This free app could become the Blender of texture painting software",
-      "summary": "The Adobe Substance Painter alternative is lightweight, open source and available for every platform.",
+      "title": "Beware — these new phishing attacks use a convincing fake Adobe Reader pages to trick victims into installing malware",
+      "summary": "Crooks are deploying cheeky browser-in-the-browser techniques to trick victims into downloading RMM tools.",
       "guide": "/partners/adobe.html",
-      "source": "https://www.creativebloq.com/3d/3d-software/this-free-app-could-become-the-blender-of-texture-painting-software",
-      "publishedAt": "2026-09-08T15:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/xx9vTNdYdPAwRiqD4VgqtG-2244-80.jpg"
+      "source": "https://www.techradar.com/pro/security/watch-out-these-new-phishing-attacks-use-a-convincing-fake-adobe-reader-pages-to-trick-victims-into-installing-malware",
+      "publishedAt": "2026-09-10T14:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ncL98vteKnP9dydmNAHGqN-1920-80.png"
+    },
+    {
+      "tool": "elevenlabs",
+      "toolName": "ElevenLabs",
+      "category": "Partner watch",
+      "title": "Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform",
+      "summary": "The unnamed software will be built around licensed music from UMG artists who want to participate.",
+      "guide": "/partners/elevenlabs.html",
+      "source": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
+      "publishedAt": "2026-09-10T17:01:52.000Z",
+      "image": "https://www.engadget.com/img/gallery/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/l-intro-1789059229.jpg"
     },
     {
       "tool": "horizons",
@@ -41,89 +52,78 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Will AI data centers actually create as many jobs as promised? Probably not, new report warns",
-      "summary": "While earlier data centers could support lots of jobs, increasing efficiency and automation makes this less likely at bigger facilities.",
+      "title": "Younger workers apparently want their bosses to start behaving more like AI",
+      "summary": "The specificity of AI prompting is proving popular with 18-28 year old workers, who prefer their bosses to deliver instructions with clear steps and parameters, according to new research.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/will-ai-data-centers-actually-create-as-many-jobs-as-promised-probably-not-new-report-warns",
-      "publishedAt": "2026-09-10T09:29:47.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/EvwjyiKQ3AfWBgAwjcAL4c-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/younger-workers-apparently-want-their-bosses-to-start-behaving-more-like-ai",
+      "publishedAt": "2026-09-11T06:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/bGwfWH6msj3nt7d7uk7oq6-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI’s overlooked storage opportunity",
-      "summary": "AI success depends on keeping more data accessible, protected, and affordable at scale.",
+      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ais-overlooked-storage-opportunity",
-      "publishedAt": "2026-09-10T09:12:33.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/YoQ7bF6XQjs33SMa72NcwK-2560-80.jpg"
+      "source": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "publishedAt": "2026-09-10T23:28:42.000Z",
+      "image": "https://media.wired.com/photos/6aa304df834bd0176b553b6c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
-      "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it arrives at dealerships earl",
+      "title": "CA governor signs 'landmark' laws on youth use of social media and AI chatbots",
+      "summary": "They're aimed at protecting minors, but the rules are not universally supported.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
-      "publishedAt": "2026-09-10T07:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200"
+      "source": "https://www.engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/",
+      "publishedAt": "2026-09-10T22:45:45.000Z",
+      "image": "https://www.engadget.com/img/gallery/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/l-intro-1789080229.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Can you spot all the clues that prove this AI 'photo' isn't real?",
-      "summary": "There are a lot more errors than it seems at first glance.",
+      "title": "'I love this place; it's in my blood. Goosebumps'; John Ternus on how he felt when he learned he was becoming Apple CEO, and why AI may be the key to future Apple innovation",
+      "summary": "Apple chief John Ternus tells us how it feels to be CEO, what innovation looks like, and how excited he is about what comes next.",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/ai/ai-art/can-you-spot-all-the-clues-that-prove-this-ai-photo-isnt-real",
-      "publishedAt": "2026-09-10T06:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/XB6izpmzrsEj4xwpWoXGqP-1920-80.jpg"
+      "source": "https://www.techradar.com/phones/iphone/i-love-this-place-its-in-my-blood-goosebumps-john-ternus-on-how-he-felt-when-he-learned-he-was-becoming-apple-ceo-and-why-ai-may-be-the-key-to-future-apple-innovation",
+      "publishedAt": "2026-09-10T21:51:03.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/LrgzeijsW5oNsURHCMZb27-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Despite spending billions on data centers and AI, US government report finds Amazon workers are using food stamps more than ever",
-      "summary": "Multi-billion-dollar buildouts for AI partners, but an increasing number of food-stamp recipients among one's employees?",
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations ",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/despite-spending-billions-on-data-centers-and-ai-us-government-report-finds-amazon-workers-are-using-food-stamps-more-than-ever",
-      "publishedAt": "2026-09-10T00:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn-2560-80.jpg"
+      "source": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "publishedAt": "2026-09-10T21:25:21.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&crop=0%2C9.8234763765205%2C100%2C80.353047246959&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "title": "AMD Threadripper Halo Station is probably the world's most expensive desktop PC thanks to its 2.7TB memory and four AI GPUs — a GB300 rival likely to cost $150,000 with just 1 CPU",
+      "summary": "AMD’s Threadripper Halo Station combines massive memory, four AI accelerators and 96 CPU cores for demanding local AI workloads.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "publishedAt": "2026-09-10T00:00:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800"
+      "source": "https://www.techradar.com/pro/amd-threadripper-halo-station-is-probably-the-worlds-most-expensive-desktop-pc-thanks-to-its-2-7tb-memory-and-four-ai-gpus-a-gb300-rival-likely-to-cost-usd150-000-with-just-1-cpu",
+      "publishedAt": "2026-09-10T21:15:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/FVLD9arUgUVA3EkWjuNreK-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI data centers have a hidden cost few highlighted: A $200 billion insurance price tag that consumers will end up paying",
-      "summary": "The risk management of data centers has been highlighted as a potential payday for insurers, with market estimates as high as $200 billion through to 2030.",
+      "title": "Anthropic caught scientists using Claude to further biological weapon research",
+      "summary": "Anthropic produced an extensive collection of case studies covering the ways its current AI models have been misused.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ai-data-centers-have-a-hidden-cost-few-highlighted-a-usd200-billion-insurance-price-tag-that-consumers-will-end-up-paying",
-      "publishedAt": "2026-09-09T23:15:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-      "summary": "The exact circumstances surrounding the changes aren't clear, but Meta execs have accidentally tagged the band instead of their AI agent.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
-      "publishedAt": "2026-09-09T22:52:49.000Z",
-      "image": "https://www.engadget.com/img/gallery/muse-the-band-lost-its-social-media-handles-to-muse-metas-new-ai-agent/l-intro-1788993799.jpg"
+      "source": "https://www.engadget.com/2255473/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/",
+      "publishedAt": "2026-09-10T21:04:54.000Z",
+      "image": "https://www.engadget.com/img/gallery/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/l-intro-1789073866.jpg"
     }
   ]
 }

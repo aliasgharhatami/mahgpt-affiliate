@@ -1,49 +1,95 @@
 {
   "version": 1,
-  "queue_date": "2026-09-10",
-  "created_at": "2026-09-10T09:44:34.566Z",
-  "source_feed_updated_at": "2026-09-10T09:44:30.154Z",
+  "queue_date": "2026-09-11",
+  "created_at": "2026-09-11T08:20:07.814Z",
+  "source_feed_updated_at": "2026-09-11T08:20:07.713Z",
   "items": [
     {
-      "story_id": "https://www.creativebloq.com/3d/3d-software/this-free-app-could-become-the-blender-of-texture-painting-software",
-      "source_url": "https://www.creativebloq.com/3d/3d-software/this-free-app-could-become-the-blender-of-texture-painting-software",
-      "headline": "This free app could become the Blender of texture painting software",
-      "summary": "The Adobe Substance Painter alternative is lightweight, open source and available for every platform.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/xx9vTNdYdPAwRiqD4VgqtG-2244-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/xx9vTNdYdPAwRiqD4VgqtG-2244-80.jpg",
+      "story_id": "https://www.techradar.com/pro/security/watch-out-these-new-phishing-attacks-use-a-convincing-fake-adobe-reader-pages-to-trick-victims-into-installing-malware",
+      "source_url": "https://www.techradar.com/pro/security/watch-out-these-new-phishing-attacks-use-a-convincing-fake-adobe-reader-pages-to-trick-victims-into-installing-malware",
+      "headline": "Beware — these new phishing attacks use a convincing fake Adobe Reader pages to trick victims into installing malware",
+      "summary": "Crooks are deploying cheeky browser-in-the-browser techniques to trick victims into downloading RMM tools.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ncL98vteKnP9dydmNAHGqN-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ncL98vteKnP9dydmNAHGqN-1920-80.png",
       "image_validation": {
         "valid": true,
-        "width": 2244,
-        "height": 1275,
-        "aspectRatio": 1.76,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-free-app-could-become-the-blender-of-texture-painting-software",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=beware-these-new-phishing-attacks-use-a-convincing-fake-adobe-reader-pages-to-trick-victim",
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-10T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-11T05:20:00.000Z",
       "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-09T06:43:33.052Z"
+        "status": "published",
+        "published_at": "2026-09-11T08:20:15.780Z",
+        "message_id": 368,
+        "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-09T09:52:04.664Z",
-        "message_id": "18593031517064477"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-10/https-www-creativebloq-com-3d-3d-software-this-free-app-could-become-the-blender-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-techradar-com-pro-security-watch-out-these-new-phishing-attacks-use-a--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
+      "source_url": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
+      "headline": "Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform",
+      "summary": "The unnamed software will be built around licensed music from UMG artists who want to participate.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/l-intro-1789059229.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/l-intro-1789059229.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platfo",
+      "detected_partner": "elevenlabs",
+      "product_url": "/go/elevenlabs.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-09-11T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-engadget-com-2255044-universal-music-group-is-collaborating-with-eleve-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -73,7 +119,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-10T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-11T09:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-08-25T16:03:41.650Z"
@@ -84,37 +130,30 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-10T09:49:57.708Z",
-        "message_id": "18027925814887583",
-        "media_kind": "source"
+        "message_id": "18027925814887583"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-10/https-www-macworld-com-article-3172166-ios-27-beta-updates-features-release-date-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-macworld-com-article-3172166-ios-27-beta-updates-features-release-date-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-10T09:50:08.672Z",
-        "message_id": "18389867203163663",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/will-ai-data-centers-actually-create-as-many-jobs-as-promised-probably-not-new-report-warns",
-      "source_url": "https://www.techradar.com/pro/will-ai-data-centers-actually-create-as-many-jobs-as-promised-probably-not-new-report-warns",
-      "headline": "Will AI data centers actually create as many jobs as promised? Probably not, new report warns",
-      "summary": "While earlier data centers could support lots of jobs, increasing efficiency and automation makes this less likely at bigger facilities.",
+      "story_id": "https://www.techradar.com/pro/younger-workers-apparently-want-their-bosses-to-start-behaving-more-like-ai",
+      "source_url": "https://www.techradar.com/pro/younger-workers-apparently-want-their-bosses-to-start-behaving-more-like-ai",
+      "headline": "Younger workers apparently want their bosses to start behaving more like AI",
+      "summary": "The specificity of AI prompting is proving popular with 18-28 year old workers, who prefer their bosses to deliver instructions with clear steps and parameters, according to new research.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/EvwjyiKQ3AfWBgAwjcAL4c-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/EvwjyiKQ3AfWBgAwjcAL4c-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/bGwfWH6msj3nt7d7uk7oq6-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bGwfWH6msj3nt7d7uk7oq6-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -124,146 +163,73 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=will-ai-data-centers-actually-create-as-many-jobs-as-promised-probably-not-new-report-warn",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=younger-workers-apparently-want-their-bosses-to-start-behaving-more-like-ai",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-10T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-11T11:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-10T09:45:11.325Z",
-        "message_id": 360,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-10T11:40:20.601Z",
-        "message_id": "18097392104065906",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-10/https-www-techradar-com-pro-will-ai-data-centers-actually-create-as-many-jobs-as-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-techradar-com-pro-younger-workers-apparently-want-their-bosses-to-star-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-10T11:40:30.178Z",
-        "message_id": "18143734762562177",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/ais-overlooked-storage-opportunity",
-      "source_url": "https://www.techradar.com/pro/ais-overlooked-storage-opportunity",
-      "headline": "AI’s overlooked storage opportunity",
-      "summary": "AI success depends on keeping more data accessible, protected, and affordable at scale.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/YoQ7bF6XQjs33SMa72NcwK-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/YoQ7bF6XQjs33SMa72NcwK-2560-80.jpg",
+      "story_id": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "source_url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "headline": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6aa304df834bd0176b553b6c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg",
+      "image_url": "https://media.wired.com/photos/6aa304df834bd0176b553b6c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ais-overlooked-storage-opportunity",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-10T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-10T13:03:24.696Z",
-        "message_id": 361,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-10T15:01:46.069Z",
-        "message_id": "18055511525557882",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-10/https-www-techradar-com-pro-ais-overlooked-storage-opportunity-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-10T15:01:56.157Z",
-        "message_id": "17956688517231650",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
-      "source_url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
-      "headline": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
-      "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it arrives at dealerships earl",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 621,
-        "aspectRatio": 1.932367149758454,
+        "width": 1232,
+        "height": 645,
+        "aspectRatio": 1.910077519379845,
         "instagramCompatible": false
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=volvo-xc40-phev-is-back-with-a-new-look-better-sensors-and-gemini-ai",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-10T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-11T13:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-10T15:00:08.536Z",
-        "message_id": 362,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-10T18:29:23.413Z",
-        "message_id": "17957672388247041",
-        "media_kind": "fallback-card"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-10/Volvo-XC40-PHEV-is-back-with-a-new-look-better-sensors-and-Gemini-AI-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-10/https-www-theverge-com-transportation-992443-volvo-xc40-phev-specs-price-gemini-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-11/OpenAI-Wants-to-Know-if-an-AI-Industry-Slowdown-Would-Even-Be-Legal-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-wired-com-story-openai-wants-to-know-if-an-ai-industry-slowdown-would--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -271,241 +237,16 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-10T18:29:31.407Z",
-        "message_id": "18408243205086415",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.creativebloq.com/ai/ai-art/can-you-spot-all-the-clues-that-prove-this-ai-photo-isnt-real",
-      "source_url": "https://www.creativebloq.com/ai/ai-art/can-you-spot-all-the-clues-that-prove-this-ai-photo-isnt-real",
-      "headline": "Can you spot all the clues that prove this AI 'photo' isn't real?",
-      "summary": "There are a lot more errors than it seems at first glance.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/XB6izpmzrsEj4xwpWoXGqP-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/XB6izpmzrsEj4xwpWoXGqP-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=can-you-spot-all-the-clues-that-prove-this-ai-photo-isnt-real",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-10T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-10T17:00:35.074Z",
-        "message_id": 363,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-10T21:08:07.507Z",
-        "message_id": "17884808892619138",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-10/https-www-creativebloq-com-ai-ai-art-can-you-spot-all-the-clues-that-prove-this--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-10T21:08:16.332Z",
-        "message_id": "18114411625899105",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/despite-spending-billions-on-data-centers-and-ai-us-government-report-finds-amazon-workers-are-using-food-stamps-more-than-ever",
-      "source_url": "https://www.techradar.com/pro/despite-spending-billions-on-data-centers-and-ai-us-government-report-finds-amazon-workers-are-using-food-stamps-more-than-ever",
-      "headline": "Despite spending billions on data centers and AI, US government report finds Amazon workers are using food stamps more than ever",
-      "summary": "Multi-billion-dollar buildouts for AI partners, but an increasing number of food-stamp recipients among one's employees?",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=despite-spending-billions-on-data-centers-and-ai-us-government-report-finds-amazon-workers",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-10T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-10T18:31:39.399Z",
-        "message_id": 364,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-10T23:11:12.155Z",
-        "message_id": "18106094504239217",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-10/https-www-techradar-com-pro-despite-spending-billions-on-data-centers-and-ai-us--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-10T23:11:21.397Z",
-        "message_id": "17989118010020340",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "source_url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "headline": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-10T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-10T21:40:17.384Z",
-        "message_id": 365,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-11T01:06:11.219Z",
-        "message_id": "17901497385592285",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-10/https-techcrunch-com-2026-09-09-ai-research-startup-listen-labs-scrubbed-a-1-5b--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-11T01:06:18.949Z",
-        "message_id": "18094988948450515",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/ai-data-centers-have-a-hidden-cost-few-highlighted-a-usd200-billion-insurance-price-tag-that-consumers-will-end-up-paying",
-      "source_url": "https://www.techradar.com/pro/ai-data-centers-have-a-hidden-cost-few-highlighted-a-usd200-billion-insurance-price-tag-that-consumers-will-end-up-paying",
-      "headline": "AI data centers have a hidden cost few highlighted: A $200 billion insurance price tag that consumers will end up paying",
-      "summary": "The risk management of data centers has been highlighted as a potential payday for insurers, with market estimates as high as $200 billion through to 2030.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-data-centers-have-a-hidden-cost-few-highlighted-a-200-billion-insurance-price-tag-that-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-10T21:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-10T23:55:36.120Z",
-        "message_id": 366,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-10/https-www-techradar-com-pro-ai-data-centers-have-a-hidden-cost-few-highlighted-a-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
-      "source_url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
-      "headline": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-      "summary": "The exact circumstances surrounding the changes aren't clear, but Meta execs have accidentally tagged the band instead of their AI agent.",
+      "story_id": "https://www.engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/",
+      "source_url": "https://www.engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/",
+      "headline": "CA governor signs 'landmark' laws on youth use of social media and AI chatbots",
+      "summary": "They're aimed at protecting minors, but the rules are not universally supported.",
       "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/muse-the-band-lost-its-social-media-handles-to-muse-metas-new-ai-agent/l-intro-1788993799.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/muse-the-band-lost-its-social-media-handles-to-muse-metas-new-ai-agent/l-intro-1788993799.jpg",
+      "original_image_url": "https://www.engadget.com/img/gallery/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/l-intro-1789080229.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/l-intro-1789080229.jpg",
       "image_validation": {
         "valid": true,
         "width": 1600,
@@ -515,16 +256,14 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=muse-the-band-lost-its-social-media-handles-to-muse-metas-new-ai-agent",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-10T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-11T15:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-11T01:25:39.514Z",
-        "message_id": 367,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -537,7 +276,192 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-10/https-www-engadget-com-2254419-muse-the-band-lost-its-social-media-handles-to-mu-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-engadget-com-2255569-ca-governor-signs-landmark-laws-on-youth-use-of-s-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/phones/iphone/i-love-this-place-its-in-my-blood-goosebumps-john-ternus-on-how-he-felt-when-he-learned-he-was-becoming-apple-ceo-and-why-ai-may-be-the-key-to-future-apple-innovation",
+      "source_url": "https://www.techradar.com/phones/iphone/i-love-this-place-its-in-my-blood-goosebumps-john-ternus-on-how-he-felt-when-he-learned-he-was-becoming-apple-ceo-and-why-ai-may-be-the-key-to-future-apple-innovation",
+      "headline": "'I love this place; it's in my blood. Goosebumps'; John Ternus on how he felt when he learned he was becoming Apple CEO, and why AI may be the key to future Apple innovation",
+      "summary": "Apple chief John Ternus tells us how it feels to be CEO, what innovation looks like, and how excited he is about what comes next.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/LrgzeijsW5oNsURHCMZb27-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/LrgzeijsW5oNsURHCMZb27-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-love-this-place-its-in-my-blood-goosebumps-john-ternus-on-how-he-felt-when-he-learned-he",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-11T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-techradar-com-phones-iphone-i-love-this-place-its-in-my-blood-goosebum-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "source_url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "headline": "Slack can now vibe-code interactive charts and reports inside chats",
+      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&crop=0%2C9.8234763765205%2C100%2C80.353047246959&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&crop=0%2C9.8234763765205%2C100%2C80.353047246959&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1199,
+        "height": 625,
+        "aspectRatio": 1.9184,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=slack-can-now-vibe-code-interactive-charts-and-reports-inside-chats",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-11T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-11/Slack-can-now-vibe-code-interactive-charts-and-reports-inside-chats-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-theverge-com-tech-989853-slackforce-surfaces-launch-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/amd-threadripper-halo-station-is-probably-the-worlds-most-expensive-desktop-pc-thanks-to-its-2-7tb-memory-and-four-ai-gpus-a-gb300-rival-likely-to-cost-usd150-000-with-just-1-cpu",
+      "source_url": "https://www.techradar.com/pro/amd-threadripper-halo-station-is-probably-the-worlds-most-expensive-desktop-pc-thanks-to-its-2-7tb-memory-and-four-ai-gpus-a-gb300-rival-likely-to-cost-usd150-000-with-just-1-cpu",
+      "headline": "AMD Threadripper Halo Station is probably the world's most expensive desktop PC thanks to its 2.7TB memory and four AI GPUs — a GB300 rival likely to cost $150,000 with just 1 CPU",
+      "summary": "AMD’s Threadripper Halo Station combines massive memory, four AI accelerators and 96 CPU cores for demanding local AI workloads.",
+      "source_name": "a GB300 rival likely to cost $150,000 with just 1 CPU",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/FVLD9arUgUVA3EkWjuNreK-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FVLD9arUgUVA3EkWjuNreK-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=amd-threadripper-halo-station-is-probably-the-worlds-most-expensive-desktop-pc-thanks-to-i",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-11T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-techradar-com-pro-amd-threadripper-halo-station-is-probably-the-worlds-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2255473/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/",
+      "source_url": "https://www.engadget.com/2255473/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/",
+      "headline": "Anthropic caught scientists using Claude to further biological weapon research",
+      "summary": "Anthropic produced an extensive collection of case studies covering the ways its current AI models have been misused.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/l-intro-1789073866.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/l-intro-1789073866.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-caught-scientists-using-claude-to-further-biological-weapon-research",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-11T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-engadget-com-2255473-anthropic-caught-scientists-using-claude-to-furth-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
