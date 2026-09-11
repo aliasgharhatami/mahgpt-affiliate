@@ -2261,6 +2261,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-11T09:42:24.154Z",
+        "message_id": 369,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
