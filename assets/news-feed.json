@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T08:20:07.713Z",
+  "updatedAt": "2026-09-11T09:41:47.848Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -15,17 +15,6 @@
     "https://feeds.arstechnica.com/arstechnica/technology-lab"
   ],
   "items": [
-    {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Beware — these new phishing attacks use a convincing fake Adobe Reader pages to trick victims into installing malware",
-      "summary": "Crooks are deploying cheeky browser-in-the-browser techniques to trick victims into downloading RMM tools.",
-      "guide": "/partners/adobe.html",
-      "source": "https://www.techradar.com/pro/security/watch-out-these-new-phishing-attacks-use-a-convincing-fake-adobe-reader-pages-to-trick-victims-into-installing-malware",
-      "publishedAt": "2026-09-10T14:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ncL98vteKnP9dydmNAHGqN-1920-80.png"
-    },
     {
       "tool": "elevenlabs",
       "toolName": "ElevenLabs",
@@ -47,6 +36,39 @@
       "source": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
       "publishedAt": "2026-09-09T21:59:53.000Z",
       "image": "https://www.macworld.com/wp-content/uploads/2026/09/3172166-0-35660600-1788991226-ios_27_hero.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "The visibility gap that's smuggling risk into AI code",
+      "summary": "Data shows a widening gap between how much enterprises trust agentic code and actual visibility.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/the-visibility-gap-thats-smuggling-risk-into-ai-code",
+      "publishedAt": "2026-09-11T09:07:25.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "publishedAt": "2026-09-11T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aa1c85ef107c265a15668ae/191:100/w_1280,c_limit/Why-All-These-AI-Researchers-Freaking-Out-About-AI-Killing-Us-All-Business-MCDTETH_EC026.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Google just gave every Windows 10 and 11 PC a Gemini key — I tried it, and it’s the easiest way to use its AI yet",
+      "summary": "Google’s new Windows app turns [Alt] + [Space] into a dedicated Gemini shortcut, making its AI faster and easier to access than through a browser.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/ai-platforms-assistants/gemini/google-just-gave-every-windows-10-and-11-pc-a-gemini-key-i-tried-it-and-its-the-easiest-way-to-use-its-ai-yet",
+      "publishedAt": "2026-09-11T08:35:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/W98DrhkUta9HRS94m5sgj5-1920-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -102,28 +124,6 @@
       "source": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
       "publishedAt": "2026-09-10T21:25:21.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&crop=0%2C9.8234763765205%2C100%2C80.353047246959&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "AMD Threadripper Halo Station is probably the world's most expensive desktop PC thanks to its 2.7TB memory and four AI GPUs — a GB300 rival likely to cost $150,000 with just 1 CPU",
-      "summary": "AMD’s Threadripper Halo Station combines massive memory, four AI accelerators and 96 CPU cores for demanding local AI workloads.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/amd-threadripper-halo-station-is-probably-the-worlds-most-expensive-desktop-pc-thanks-to-its-2-7tb-memory-and-four-ai-gpus-a-gb300-rival-likely-to-cost-usd150-000-with-just-1-cpu",
-      "publishedAt": "2026-09-10T21:15:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/FVLD9arUgUVA3EkWjuNreK-1920-80.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Anthropic caught scientists using Claude to further biological weapon research",
-      "summary": "Anthropic produced an extensive collection of case studies covering the ways its current AI models have been misused.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2255473/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/",
-      "publishedAt": "2026-09-10T21:04:54.000Z",
-      "image": "https://www.engadget.com/img/gallery/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/l-intro-1789073866.jpg"
     }
   ]
 }
