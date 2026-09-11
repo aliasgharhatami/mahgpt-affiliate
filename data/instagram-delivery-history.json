@@ -1264,6 +1264,20 @@
         "message_id": "18175288792445403",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-11T15:01:37.220Z",
+        "message_id": "18109020218151509",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-11T15:01:46.244Z",
+        "message_id": "18123981397885826",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
