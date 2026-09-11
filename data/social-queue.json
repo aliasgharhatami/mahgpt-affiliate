@@ -1,57 +1,9 @@
 {
   "version": 1,
   "queue_date": "2026-09-11",
-  "created_at": "2026-09-11T08:20:07.814Z",
-  "source_feed_updated_at": "2026-09-11T08:20:07.713Z",
+  "created_at": "2026-09-11T09:41:52.173Z",
+  "source_feed_updated_at": "2026-09-11T09:41:47.848Z",
   "items": [
-    {
-      "story_id": "https://www.techradar.com/pro/security/watch-out-these-new-phishing-attacks-use-a-convincing-fake-adobe-reader-pages-to-trick-victims-into-installing-malware",
-      "source_url": "https://www.techradar.com/pro/security/watch-out-these-new-phishing-attacks-use-a-convincing-fake-adobe-reader-pages-to-trick-victims-into-installing-malware",
-      "headline": "Beware — these new phishing attacks use a convincing fake Adobe Reader pages to trick victims into installing malware",
-      "summary": "Crooks are deploying cheeky browser-in-the-browser techniques to trick victims into downloading RMM tools.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ncL98vteKnP9dydmNAHGqN-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ncL98vteKnP9dydmNAHGqN-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=beware-these-new-phishing-attacks-use-a-convincing-fake-adobe-reader-pages-to-trick-victim",
-      "detected_partner": "adobe",
-      "product_url": "https://www.adobe.com/products/firefly.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-11T05:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-11T08:20:15.780Z",
-        "message_id": 368,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-techradar-com-pro-security-watch-out-these-new-phishing-attacks-use-a--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
     {
       "story_id": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
       "source_url": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
@@ -73,7 +25,7 @@
       "detected_partner": "elevenlabs",
       "product_url": "/go/elevenlabs.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-11T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-11T05:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -119,7 +71,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-11T07:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-08-25T16:03:41.650Z"
@@ -138,6 +90,145 @@
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
       "fallback_image_story": "assets/social-cards/2026-09-11/https-www-macworld-com-article-3172166-ios-27-beta-updates-features-release-date-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/the-visibility-gap-thats-smuggling-risk-into-ai-code",
+      "source_url": "https://www.techradar.com/pro/the-visibility-gap-thats-smuggling-risk-into-ai-code",
+      "headline": "The visibility gap that's smuggling risk into AI code",
+      "summary": "Data shows a widening gap between how much enterprises trust agentic code and actual visibility.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-visibility-gap-thats-smuggling-risk-into-ai-code",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-11T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-techradar-com-pro-the-visibility-gap-thats-smuggling-risk-into-ai-code-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "source_url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "headline": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6aa1c85ef107c265a15668ae/191:100/w_1280,c_limit/Why-All-These-AI-Researchers-Freaking-Out-About-AI-Killing-Us-All-Business-MCDTETH_EC026.jpg",
+      "image_url": "https://media.wired.com/photos/6aa1c85ef107c265a15668ae/191:100/w_1280,c_limit/Why-All-These-AI-Researchers-Freaking-Out-About-AI-Killing-Us-All-Business-MCDTETH_EC026.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-so-many-ai-researchers-think-the-machines-could-kill-everyone",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-11T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-11/Why-So-Many-AI-Researchers-Think-the-Machines-Could-Kill-Everyone-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-wired-com-story-why-so-many-ai-researchers-think-the-machines-could-ki-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/gemini/google-just-gave-every-windows-10-and-11-pc-a-gemini-key-i-tried-it-and-its-the-easiest-way-to-use-its-ai-yet",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/gemini/google-just-gave-every-windows-10-and-11-pc-a-gemini-key-i-tried-it-and-its-the-easiest-way-to-use-its-ai-yet",
+      "headline": "Google just gave every Windows 10 and 11 PC a Gemini key",
+      "summary": "Google’s new Windows app turns [Alt] + [Space] into a dedicated Gemini shortcut, making its AI faster and easier to access than through a browser.",
+      "source_name": "I tried it, and it’s the easiest way to use its AI yet",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/W98DrhkUta9HRS94m5sgj5-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/W98DrhkUta9HRS94m5sgj5-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-just-gave-every-windows-10-and-11-pc-a-gemini-key",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-11T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-techradar-com-ai-platforms-assistants-gemini-google-just-gave-every-wi-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -167,7 +258,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-11T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -213,7 +304,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-11T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -260,7 +351,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-11T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -306,7 +397,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T17:20:00.000Z",
+      "scheduled_publish_at": "2026-09-11T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -352,7 +443,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-11T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -375,98 +466,6 @@
         "repairs": [
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/amd-threadripper-halo-station-is-probably-the-worlds-most-expensive-desktop-pc-thanks-to-its-2-7tb-memory-and-four-ai-gpus-a-gb300-rival-likely-to-cost-usd150-000-with-just-1-cpu",
-      "source_url": "https://www.techradar.com/pro/amd-threadripper-halo-station-is-probably-the-worlds-most-expensive-desktop-pc-thanks-to-its-2-7tb-memory-and-four-ai-gpus-a-gb300-rival-likely-to-cost-usd150-000-with-just-1-cpu",
-      "headline": "AMD Threadripper Halo Station is probably the world's most expensive desktop PC thanks to its 2.7TB memory and four AI GPUs — a GB300 rival likely to cost $150,000 with just 1 CPU",
-      "summary": "AMD’s Threadripper Halo Station combines massive memory, four AI accelerators and 96 CPU cores for demanding local AI workloads.",
-      "source_name": "a GB300 rival likely to cost $150,000 with just 1 CPU",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/FVLD9arUgUVA3EkWjuNreK-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/FVLD9arUgUVA3EkWjuNreK-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=amd-threadripper-halo-station-is-probably-the-worlds-most-expensive-desktop-pc-thanks-to-i",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-techradar-com-pro-amd-threadripper-halo-station-is-probably-the-worlds-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2255473/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/",
-      "source_url": "https://www.engadget.com/2255473/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/",
-      "headline": "Anthropic caught scientists using Claude to further biological weapon research",
-      "summary": "Anthropic produced an extensive collection of case studies covering the ways its current AI models have been misused.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/l-intro-1789073866.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/l-intro-1789073866.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-caught-scientists-using-claude-to-further-biological-weapon-research",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T23:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-engadget-com-2255473-anthropic-caught-scientists-using-claude-to-furth-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
         ]
       }
     }
