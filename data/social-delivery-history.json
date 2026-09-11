@@ -2346,6 +2346,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-11T21:45:03.861Z",
+        "message_id": 374,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
