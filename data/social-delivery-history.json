@@ -2295,6 +2295,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-11T15:03:24.973Z",
+        "message_id": 371,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
