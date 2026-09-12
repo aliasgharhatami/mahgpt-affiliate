@@ -2363,6 +2363,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-12T00:07:11.552Z",
+        "message_id": 375,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
