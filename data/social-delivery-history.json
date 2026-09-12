@@ -2516,6 +2516,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-12T23:17:37.393Z",
+        "message_id": 384,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
