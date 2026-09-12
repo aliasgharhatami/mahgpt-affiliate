@@ -1348,6 +1348,20 @@
         "message_id": "18110791142109382",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-12T11:05:17.542Z",
+        "message_id": "18081530795333787",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-12T11:05:25.340Z",
+        "message_id": "18107356460159985",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
