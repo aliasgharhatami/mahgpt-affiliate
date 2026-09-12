@@ -1432,6 +1432,20 @@
         "message_id": "18085789160674754",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-12T23:23:15.092Z",
+        "message_id": "18025752494860169",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-12T23:23:25.804Z",
+        "message_id": "18132709180632384",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
