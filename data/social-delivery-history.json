@@ -2414,6 +2414,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-will-glaze-anyone-regardless-i-tried-5-ways-to-make-chatgpt-flatter-and-agree-with-me-heres-what-happened": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-12T12:43:23.807Z",
+        "message_id": 378,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
