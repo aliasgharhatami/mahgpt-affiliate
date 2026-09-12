@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T08:51:18.024Z",
+  "updatedAt": "2026-09-12T09:22:32.177Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -25,6 +25,17 @@
       "source": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
       "publishedAt": "2026-09-10T17:01:52.000Z",
       "image": "https://www.engadget.com/img/gallery/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/l-intro-1789059229.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "‘ChatGPT will glaze anyone regardless’: I tried 5 ways to make ChatGPT flatter and agree with me — here’s what happened",
+      "summary": "Is AI less sycophantic now? I tried to make ChatGPT flatter, validate and agree with me and was surprised by what it did next.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-will-glaze-anyone-regardless-i-tried-5-ways-to-make-chatgpt-flatter-and-agree-with-me-heres-what-happened",
+      "publishedAt": "2026-09-12T09:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MqYBjM6MyBnwQUv4UQUTbP-2560-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -113,17 +124,6 @@
       "source": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
       "publishedAt": "2026-09-11T19:35:54.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "iPhone 18 Pro vs Pixel 11 Pro: How Apple and Google's flagships stack up",
-      "summary": "Google and Apple's latest flagships feature more AI, better cameras and few reasons to switch ecosystems.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2256364/iphone-18-pro-vs-pixel-11-pro/",
-      "publishedAt": "2026-09-11T19:17:46.000Z",
-      "image": "https://www.engadget.com/img/gallery/iphone-18-pro-vs-pixel-11-pro-how-apple-and-googles-flagships-stack-up/l-intro-1789154173.jpg"
     }
   ]
 }
