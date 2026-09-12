@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-09-11",
-  "created_at": "2026-09-11T09:41:52.173Z",
-  "source_feed_updated_at": "2026-09-11T09:41:47.848Z",
+  "queue_date": "2026-09-12",
+  "created_at": "2026-09-12T08:51:18.120Z",
+  "source_feed_updated_at": "2026-09-12T08:51:18.024Z",
   "items": [
     {
       "story_id": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
@@ -25,12 +25,10 @@
       "detected_partner": "elevenlabs",
       "product_url": "/go/elevenlabs.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-11T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-12T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-11T09:42:24.154Z",
-        "message_id": 369,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-11T09:42:24.154Z"
       },
       "linkedin": {
         "status": "pending"
@@ -38,69 +36,14 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-11T09:48:59.738Z",
-        "message_id": "17986494011871549",
-        "media_kind": "source"
+        "message_id": "17986494011871549"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-engadget-com-2255044-universal-music-group-is-collaborating-with-eleve-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-11T09:49:08.885Z",
-        "message_id": "18630758452051254",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
-      "source_url": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
-      "headline": "iOS 27 release candidate is out now, wide release on September 14",
-      "summary": "Macworld On the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026. After almost exactly three months of beta releases, fixes, tweaks, and optim",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3172166-0-35660600-1788991226-ios_27_hero.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3172166-0-35660600-1788991226-ios_27_hero.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 576,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ios-27-release-candidate-is-out-now-wide-release-on-september-14",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T07:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-08-25T16:03:41.650Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-10T09:49:57.708Z",
-        "message_id": "18027925814887583"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-macworld-com-article-3172166-ios-27-beta-updates-features-release-date-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-engadget-com-2255044-universal-music-group-is-collaborating-with-eleve-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -110,105 +53,45 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/the-visibility-gap-thats-smuggling-risk-into-ai-code",
-      "source_url": "https://www.techradar.com/pro/the-visibility-gap-thats-smuggling-risk-into-ai-code",
-      "headline": "The visibility gap that's smuggling risk into AI code",
-      "summary": "Data shows a widening gap between how much enterprises trust agentic code and actual visibility.",
+      "story_id": "https://www.techradar.com/pro/teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it",
+      "source_url": "https://www.techradar.com/pro/teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it",
+      "headline": "Teachers are worried AI is taking over the classroom faster than they can stop it",
+      "summary": "Across Europe, 80% of teachers are concerned that AI is having a noticeable impact on education, with some students relying heavily on the technology to complete basic tasks.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/w3sd965PrUasEsDDhEjhBW-2100-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/w3sd965PrUasEsDDhEjhBW-2100-80.png",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-visibility-gap-thats-smuggling-risk-into-ai-code",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-11T12:58:02.789Z",
-        "message_id": 370,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-11T11:07:39.707Z",
-        "message_id": "18375983671236729",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-techradar-com-pro-the-visibility-gap-thats-smuggling-risk-into-ai-code-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-11T11:07:47.235Z",
-        "message_id": "18175288792445403",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-      "source_url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-      "headline": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6aa1c85ef107c265a15668ae/191:100/w_1280,c_limit/Why-All-These-AI-Researchers-Freaking-Out-About-AI-Killing-Us-All-Business-MCDTETH_EC026.jpg",
-      "image_url": "https://media.wired.com/photos/6aa1c85ef107c265a15668ae/191:100/w_1280,c_limit/Why-All-These-AI-Researchers-Freaking-Out-About-AI-Killing-Us-All-Business-MCDTETH_EC026.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
+        "width": 2100,
+        "height": 900,
+        "aspectRatio": 2.3333333333333335,
         "instagramCompatible": false
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-so-many-ai-researchers-think-the-machines-could-kill-everyone",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-12T07:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-09-11T15:03:24.973Z",
-        "message_id": 371,
+        "published_at": "2026-09-12T08:51:28.211Z",
+        "message_id": 377,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-11T15:01:37.220Z",
-        "message_id": "18109020218151509",
-        "media_kind": "fallback-card"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-11/Why-So-Many-AI-Researchers-Think-the-Machines-Could-Kill-Everyone-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-wired-com-story-why-so-many-ai-researchers-think-the-machines-could-ki-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-12/Teachers-are-worried-AI-is-taking-over-the-classroom-faster-than-they-can-stop-i-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-techradar-com-pro-teachers-are-worried-ai-is-taking-over-the-classroom-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -216,313 +99,30 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-11T15:01:46.244Z",
-        "message_id": "18123981397885826",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/gemini/google-just-gave-every-windows-10-and-11-pc-a-gemini-key-i-tried-it-and-its-the-easiest-way-to-use-its-ai-yet",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/gemini/google-just-gave-every-windows-10-and-11-pc-a-gemini-key-i-tried-it-and-its-the-easiest-way-to-use-its-ai-yet",
-      "headline": "Google just gave every Windows 10 and 11 PC a Gemini key",
-      "summary": "Google’s new Windows app turns [Alt] + [Space] into a dedicated Gemini shortcut, making its AI faster and easier to access than through a browser.",
-      "source_name": "I tried it, and it’s the easiest way to use its AI yet",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/W98DrhkUta9HRS94m5sgj5-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/W98DrhkUta9HRS94m5sgj5-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-just-gave-every-windows-10-and-11-pc-a-gemini-key",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-11T16:59:50.518Z",
-        "message_id": 372,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-11T18:32:56.279Z",
-        "message_id": "18122277074298741",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-techradar-com-ai-platforms-assistants-gemini-google-just-gave-every-wi-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-11T18:33:03.246Z",
-        "message_id": "18201317269374036",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/younger-workers-apparently-want-their-bosses-to-start-behaving-more-like-ai",
-      "source_url": "https://www.techradar.com/pro/younger-workers-apparently-want-their-bosses-to-start-behaving-more-like-ai",
-      "headline": "Younger workers apparently want their bosses to start behaving more like AI",
-      "summary": "The specificity of AI prompting is proving popular with 18-28 year old workers, who prefer their bosses to deliver instructions with clear steps and parameters, according to new research.",
+      "story_id": "https://www.techradar.com/pro/gmktec-evo-x3-mini-pc-review",
+      "source_url": "https://www.techradar.com/pro/gmktec-evo-x3-mini-pc-review",
+      "headline": "GMKtec EVO-X3 mini PC review: For local AI, the hardware is impressive, but the software still needs work",
+      "summary": "The GMKtec EVO-X3 is a mini PC with a difference, as it's built for local AI, and features the AMD’s Ryzen AI Max+ 395, Radeon graphics and a 50-TOPS NPU.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/bGwfWH6msj3nt7d7uk7oq6-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/bGwfWH6msj3nt7d7uk7oq6-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qNSsq22MYBv3nmt5gWE2af-1200-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qNSsq22MYBv3nmt5gWE2af-1200-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=younger-workers-apparently-want-their-bosses-to-start-behaving-more-like-ai",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-11T18:36:12.487Z",
-        "message_id": 373,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-11T21:19:43.458Z",
-        "message_id": "18109571579120113",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-techradar-com-pro-younger-workers-apparently-want-their-bosses-to-star-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-11T21:19:53.586Z",
-        "message_id": "18626321911031268",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-      "source_url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-      "headline": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6aa304df834bd0176b553b6c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg",
-      "image_url": "https://media.wired.com/photos/6aa304df834bd0176b553b6c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1232,
-        "height": 645,
-        "aspectRatio": 1.910077519379845,
+        "width": 1200,
+        "height": 514,
+        "aspectRatio": 2.3346303501945527,
         "instagramCompatible": false
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=gmktec-evo-x3-mini-pc-review-for-local-ai-the-hardware-is-impressive-but-the-software-stil",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-11T21:45:03.861Z",
-        "message_id": 374,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-11T23:29:07.820Z",
-        "message_id": "17934482964125848",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-11/OpenAI-Wants-to-Know-if-an-AI-Industry-Slowdown-Would-Even-Be-Legal-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-wired-com-story-openai-wants-to-know-if-an-ai-industry-slowdown-would--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-11T23:29:18.457Z",
-        "message_id": "17883333387620540",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/",
-      "source_url": "https://www.engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/",
-      "headline": "CA governor signs 'landmark' laws on youth use of social media and AI chatbots",
-      "summary": "They're aimed at protecting minors, but the rules are not universally supported.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/l-intro-1789080229.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/l-intro-1789080229.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-12T00:07:11.552Z",
-        "message_id": 375,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-12T01:12:20.330Z",
-        "message_id": "18405359797093915",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-engadget-com-2255569-ca-governor-signs-landmark-laws-on-youth-use-of-s-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-12T01:12:27.820Z",
-        "message_id": "18068839700744141",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/phones/iphone/i-love-this-place-its-in-my-blood-goosebumps-john-ternus-on-how-he-felt-when-he-learned-he-was-becoming-apple-ceo-and-why-ai-may-be-the-key-to-future-apple-innovation",
-      "source_url": "https://www.techradar.com/phones/iphone/i-love-this-place-its-in-my-blood-goosebumps-john-ternus-on-how-he-felt-when-he-learned-he-was-becoming-apple-ceo-and-why-ai-may-be-the-key-to-future-apple-innovation",
-      "headline": "'I love this place; it's in my blood. Goosebumps'; John Ternus on how he felt when he learned he was becoming Apple CEO, and why AI may be the key to future Apple innovation",
-      "summary": "Apple chief John Ternus tells us how it feels to be CEO, what innovation looks like, and how excited he is about what comes next.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/LrgzeijsW5oNsURHCMZb27-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/LrgzeijsW5oNsURHCMZb27-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-love-this-place-its-in-my-blood-goosebumps-john-ternus-on-how-he-felt-when-he-learned-he",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T21:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-12T01:29:57.902Z",
-        "message_id": 376,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-techradar-com-phones-iphone-i-love-this-place-its-in-my-blood-goosebum-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "source_url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "headline": "Slack can now vibe-code interactive charts and reports inside chats",
-      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&crop=0%2C9.8234763765205%2C100%2C80.353047246959&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&crop=0%2C9.8234763765205%2C100%2C80.353047246959&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1199,
-        "height": 625,
-        "aspectRatio": 1.9184,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=slack-can-now-vibe-code-interactive-charts-and-reports-inside-chats",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-11T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-12T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -537,14 +137,327 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-11/Slack-can-now-vibe-code-interactive-charts-and-reports-inside-chats-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-11/https-www-theverge-com-tech-989853-slackforce-surfaces-launch-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-12/GMKtec-EVO-X3-mini-PC-review-For-local-AI-the-hardware-is-impressive-but-the-sof-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-techradar-com-pro-gmktec-evo-x3-mini-pc-review-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 857,
+        "aspectRatio": 1.4002333722287048,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-12T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-12/https-techcrunch-com-2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-dea-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/chuwi-unibox-ai495-pro-looks-a-bit-like-the-old-mac-pro-and-with-192gb-ram-matches-apples-new-workstation-for-memory",
+      "source_url": "https://www.techradar.com/pro/chuwi-unibox-ai495-pro-looks-a-bit-like-the-old-mac-pro-and-with-192gb-ram-matches-apples-new-workstation-for-memory",
+      "headline": "Chuwi UniBox AI495 Pro looks a bit like the old Mac Pro and, with 192GB RAM, matches Apple's new workstation for memory",
+      "summary": "CHUWI UniBox AI495 Pro combines AMD's Ryzen AI MAX+ PRO 495 with 192GB of memory, 160GB of VRAM allocation, and local AI support.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/EXvtZ7iVVcqZMSPao7UdsD-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EXvtZ7iVVcqZMSPao7UdsD-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=chuwi-unibox-ai495-pro-looks-a-bit-like-the-old-mac-pro-and-with-192gb-ram-matches-apples-",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-12T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-techradar-com-pro-chuwi-unibox-ai495-pro-looks-a-bit-like-the-old-mac--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "headline": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 801,
+        "aspectRatio": 1.4981273408239701,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=y-combinator-and-8217-s-garry-tan-wants-us-open-weight-ai-labs-to-and-8216-distill-and-821",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-12T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-12/https-techcrunch-com-2026-09-11-y-combinators-garry-tan-wants-u-s-open-weight-ai-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source_url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "headline": "OpenAI&#8217;s feud with mathematicians is only escalating",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "image_url": "",
+      "image_validation": null,
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-and-8217-s-feud-with-mathematicians-is-only-escalating",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-12T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "assets/social-cards/2026-09-12/OpenAI-8217-s-feud-with-mathematicians-is-only-escalating-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-12/OpenAI-8217-s-feud-with-mathematicians-is-only-escalating-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-12/https-techcrunch-com-2026-09-11-openais-feud-with-mathematicians-is-only-escalat-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-missing-source"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "headline": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing t",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=lawyer-fined-5k-over-ai-hallucinated-witnesses-in-a-murder-case",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-12T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-12/Lawyer-fined-5K-over-AI-hallucinated-witnesses-in-a-murder-case-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-theverge-com-ai-artificial-intelligence-994207-chatgpt-new-mexico-lawy-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source_url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "headline": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=kimi-maker-moonshot-ai-targets-2b-in-annual-revenue",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-12T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-12/https-techcrunch-com-2026-09-11-kimi-maker-moonshot-ai-targets-2-billion-in-annu-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2256364/iphone-18-pro-vs-pixel-11-pro/",
+      "source_url": "https://www.engadget.com/2256364/iphone-18-pro-vs-pixel-11-pro/",
+      "headline": "iPhone 18 Pro vs Pixel 11 Pro: How Apple and Google's flagships stack up",
+      "summary": "Google and Apple's latest flagships feature more AI, better cameras and few reasons to switch ecosystems.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/iphone-18-pro-vs-pixel-11-pro-how-apple-and-googles-flagships-stack-up/l-intro-1789154173.jpg",
+      "image_url": "",
+      "image_validation": null,
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=iphone-18-pro-vs-pixel-11-pro-how-apple-and-googles-flagships-stack-up",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-12T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "assets/social-cards/2026-09-12/iPhone-18-Pro-vs-Pixel-11-Pro-How-Apple-and-Google-s-flagships-stack-up-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-12/iPhone-18-Pro-vs-Pixel-11-Pro-How-Apple-and-Google-s-flagships-stack-up-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-engadget-com-2256364-iphone-18-pro-vs-pixel-11-pro--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-missing-source"
         ]
       }
     }

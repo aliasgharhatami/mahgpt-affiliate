@@ -2397,6 +2397,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-12T08:51:28.211Z",
+        "message_id": 377,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
