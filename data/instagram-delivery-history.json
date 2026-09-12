@@ -1418,6 +1418,20 @@
         "message_id": "18475408183112675",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-12T21:29:13.531Z",
+        "message_id": "18216293689355420",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-12T21:29:22.670Z",
+        "message_id": "18085789160674754",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
