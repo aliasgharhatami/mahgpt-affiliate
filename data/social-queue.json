@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-09-12",
-  "created_at": "2026-09-12T08:51:18.120Z",
-  "source_feed_updated_at": "2026-09-12T08:51:18.024Z",
+  "created_at": "2026-09-12T09:22:35.904Z",
+  "source_feed_updated_at": "2026-09-12T09:22:32.177Z",
   "items": [
     {
       "story_id": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
@@ -53,6 +53,52 @@
       }
     },
     {
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-will-glaze-anyone-regardless-i-tried-5-ways-to-make-chatgpt-flatter-and-agree-with-me-heres-what-happened",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-will-glaze-anyone-regardless-i-tried-5-ways-to-make-chatgpt-flatter-and-agree-with-me-heres-what-happened",
+      "headline": "‘ChatGPT will glaze anyone regardless’: I tried 5 ways to make ChatGPT flatter and agree with me",
+      "summary": "Is AI less sycophantic now? I tried to make ChatGPT flatter, validate and agree with me and was surprised by what it did next.",
+      "source_name": "here’s what happened",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/MqYBjM6MyBnwQUv4UQUTbP-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MqYBjM6MyBnwQUv4UQUTbP-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=chatgpt-will-glaze-anyone-regardless-i-tried-5-ways-to-make-chatgpt-flatter-and-agree-with",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-12T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-techradar-com-ai-platforms-assistants-chatgpt-chatgpt-will-glaze-anyon-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
       "story_id": "https://www.techradar.com/pro/teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it",
       "source_url": "https://www.techradar.com/pro/teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it",
       "headline": "Teachers are worried AI is taking over the classroom faster than they can stop it",
@@ -73,12 +119,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-12T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-12T08:51:28.211Z",
-        "message_id": 377,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-12T08:51:28.211Z"
       },
       "linkedin": {
         "status": "pending"
@@ -122,7 +166,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-12T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -169,7 +213,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-12T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -215,7 +259,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-12T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -261,7 +305,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-12T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -301,7 +345,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T17:20:00.000Z",
+      "scheduled_publish_at": "2026-09-12T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -348,7 +392,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-12T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -395,7 +439,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-12T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -417,47 +461,6 @@
         "warnings": [],
         "repairs": [
           "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2256364/iphone-18-pro-vs-pixel-11-pro/",
-      "source_url": "https://www.engadget.com/2256364/iphone-18-pro-vs-pixel-11-pro/",
-      "headline": "iPhone 18 Pro vs Pixel 11 Pro: How Apple and Google's flagships stack up",
-      "summary": "Google and Apple's latest flagships feature more AI, better cameras and few reasons to switch ecosystems.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/iphone-18-pro-vs-pixel-11-pro-how-apple-and-googles-flagships-stack-up/l-intro-1789154173.jpg",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=iphone-18-pro-vs-pixel-11-pro-how-apple-and-googles-flagships-stack-up",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T23:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "assets/social-cards/2026-09-12/iPhone-18-Pro-vs-Pixel-11-Pro-How-Apple-and-Google-s-flagships-stack-up-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-09-12/iPhone-18-Pro-vs-Pixel-11-Pro-How-Apple-and-Google-s-flagships-stack-up-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-engadget-com-2256364-iphone-18-pro-vs-pixel-11-pro--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-missing-source"
         ]
       }
     }
