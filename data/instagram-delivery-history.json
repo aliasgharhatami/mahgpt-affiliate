@@ -1320,6 +1320,20 @@
         "message_id": "17883333387620540",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-12T01:12:20.330Z",
+        "message_id": "18405359797093915",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-12T01:12:27.820Z",
+        "message_id": "18068839700744141",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
