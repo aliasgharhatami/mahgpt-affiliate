@@ -1362,6 +1362,20 @@
         "message_id": "18107356460159985",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/gmktec-evo-x3-mini-pc-review": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-12T13:07:16.208Z",
+        "message_id": "17983742838083346",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-12T13:07:24.161Z",
+        "message_id": "18124811096494054",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
