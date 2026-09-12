@@ -1376,6 +1376,20 @@
         "message_id": "18124811096494054",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-12T16:28:46.793Z",
+        "message_id": "18177234721439139",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-12T16:28:55.605Z",
+        "message_id": "18096013184227359",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
