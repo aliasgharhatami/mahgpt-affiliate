@@ -2380,6 +2380,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/phones/iphone/i-love-this-place-its-in-my-blood-goosebumps-john-ternus-on-how-he-felt-when-he-learned-he-was-becoming-apple-ceo-and-why-ai-may-be-the-key-to-future-apple-innovation": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-12T01:29:57.902Z",
+        "message_id": 376,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
