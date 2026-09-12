@@ -2499,6 +2499,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-12T21:27:31.806Z",
+        "message_id": 383,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
