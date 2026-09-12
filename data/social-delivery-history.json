@@ -2431,6 +2431,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/gmktec-evo-x3-mini-pc-review": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-12T14:10:51.460Z",
+        "message_id": 379,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
