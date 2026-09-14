@@ -1474,6 +1474,20 @@
         "message_id": "17869429821637332",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/what-formula-1-teaches-businesses-about-ai": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-14T13:23:30.102Z",
+        "message_id": "18090116306179914",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-14T13:23:38.660Z",
+        "message_id": "17906764851512731",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
