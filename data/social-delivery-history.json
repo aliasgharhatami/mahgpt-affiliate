@@ -2567,6 +2567,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/what-formula-1-teaches-businesses-about-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-14T16:37:21.386Z",
+        "message_id": 387,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
