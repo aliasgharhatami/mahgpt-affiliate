@@ -1,49 +1,47 @@
 {
   "version": 1,
-  "queue_date": "2026-09-12",
-  "created_at": "2026-09-12T09:22:35.904Z",
-  "source_feed_updated_at": "2026-09-12T09:22:32.177Z",
+  "queue_date": "2026-09-14",
+  "created_at": "2026-09-14T10:39:32.690Z",
+  "source_feed_updated_at": "2026-09-14T10:39:27.987Z",
   "items": [
     {
-      "story_id": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
-      "source_url": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
-      "headline": "Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform",
-      "summary": "The unnamed software will be built around licensed music from UMG artists who want to participate.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/l-intro-1789059229.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/l-intro-1789059229.jpg",
+      "story_id": "https://www.macworld.com/article/3228624/apples-surprise-event-was-a-parade-of-unobtainable-luxuries.html",
+      "source_url": "https://www.macworld.com/article/3228624/apples-surprise-event-was-a-parade-of-unobtainable-luxuries.html",
+      "headline": "Apple’s ‘Surprise’ event was a parade of unobtainable luxuries",
+      "summary": "Macworld Last week’s Surprise and Shine event, where Apple announced new iPhones, Apple Watches, and AirPods, was an enjoyable spectacle. The presentation was predictably professional, and the products looked great. But thanks to the high price of almost everything on display, the experience felt l",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228624-0-94763600-1789381828-Apple-september-event.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228624-0-94763600-1789381828-Apple-september-event.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
+        "width": 1024,
+        "height": 575,
+        "aspectRatio": 1.7808695652173914,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platfo",
-      "detected_partner": "elevenlabs",
-      "product_url": "/go/elevenlabs.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-12T05:20:00.000Z",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apples-surprise-event-was-a-parade-of-unobtainable-luxuries",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-14T05:20:00.000Z",
       "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-11T09:42:24.154Z"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-11T09:48:59.738Z",
-        "message_id": "17986494011871549"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-engadget-com-2255044-universal-music-group-is-collaborating-with-eleve-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-macworld-com-article-3228624-apples-surprise-event-was-a-parade-of-uno-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -53,13 +51,13 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-will-glaze-anyone-regardless-i-tried-5-ways-to-make-chatgpt-flatter-and-agree-with-me-heres-what-happened",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-will-glaze-anyone-regardless-i-tried-5-ways-to-make-chatgpt-flatter-and-agree-with-me-heres-what-happened",
-      "headline": "‘ChatGPT will glaze anyone regardless’: I tried 5 ways to make ChatGPT flatter and agree with me",
-      "summary": "Is AI less sycophantic now? I tried to make ChatGPT flatter, validate and agree with me and was surprised by what it did next.",
-      "source_name": "here’s what happened",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/MqYBjM6MyBnwQUv4UQUTbP-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/MqYBjM6MyBnwQUv4UQUTbP-2560-80.jpg",
+      "story_id": "https://www.techradar.com/pro/what-formula-1-teaches-businesses-about-ai",
+      "source_url": "https://www.techradar.com/pro/what-formula-1-teaches-businesses-about-ai",
+      "headline": "What Formula 1 teaches businesses about AI",
+      "summary": "In F1, every second counts, the same is becoming true for AI's use in business.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
@@ -69,225 +67,89 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=chatgpt-will-glaze-anyone-regardless-i-tried-5-ways-to-make-chatgpt-flatter-and-agree-with",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=what-formula-1-teaches-businesses-about-ai",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-14T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-12T12:43:23.807Z",
-        "message_id": 378,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-12T09:26:20.981Z",
-        "message_id": "18097870622375544",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-techradar-com-ai-platforms-assistants-chatgpt-chatgpt-will-glaze-anyon-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-techradar-com-pro-what-formula-1-teaches-businesses-about-ai-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-12T09:26:30.195Z",
-        "message_id": "18110791142109382",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it",
-      "source_url": "https://www.techradar.com/pro/teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it",
-      "headline": "Teachers are worried AI is taking over the classroom faster than they can stop it",
-      "summary": "Across Europe, 80% of teachers are concerned that AI is having a noticeable impact on education, with some students relying heavily on the technology to complete basic tasks.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/w3sd965PrUasEsDDhEjhBW-2100-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/w3sd965PrUasEsDDhEjhBW-2100-80.png",
+      "story_id": "https://www.macworld.com/article/673697/what-version-of-macos-can-my-mac-run.html",
+      "source_url": "https://www.macworld.com/article/673697/what-version-of-macos-can-my-mac-run.html",
+      "headline": "Can your Mac run macOS 27? Check the full compatibility list",
+      "summary": "Macworld Wondering which versions of macOS your Mac can run? Want to know if you will be able to run macOS 27 Golden Gate on your Mac when it launches on September 14? We’ve put together a macOS compatibility checker that will show you what Macs the different versions of macOS and Mac OS X support,",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/673697-0-01058000-1789378928-Which-MacOS-runs-on-which-Mac.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/673697-0-01058000-1789378928-Which-MacOS-runs-on-which-Mac.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 2100,
-        "height": 900,
-        "aspectRatio": 2.3333333333333335,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T09:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-12T08:51:28.211Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-12T11:05:17.542Z",
-        "message_id": "18081530795333787",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-12/Teachers-are-worried-AI-is-taking-over-the-classroom-faster-than-they-can-stop-i-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-techradar-com-pro-teachers-are-worried-ai-is-taking-over-the-classroom-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-12T11:05:25.340Z",
-        "message_id": "18107356460159985",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/gmktec-evo-x3-mini-pc-review",
-      "source_url": "https://www.techradar.com/pro/gmktec-evo-x3-mini-pc-review",
-      "headline": "GMKtec EVO-X3 mini PC review: For local AI, the hardware is impressive, but the software still needs work",
-      "summary": "The GMKtec EVO-X3 is a mini PC with a difference, as it's built for local AI, and features the AMD’s Ryzen AI Max+ 395, Radeon graphics and a 50-TOPS NPU.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qNSsq22MYBv3nmt5gWE2af-1200-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/qNSsq22MYBv3nmt5gWE2af-1200-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 514,
-        "aspectRatio": 2.3346303501945527,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=gmktec-evo-x3-mini-pc-review-for-local-ai-the-hardware-is-impressive-but-the-software-stil",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-12T14:10:51.460Z",
-        "message_id": 379,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-12T13:07:16.208Z",
-        "message_id": "17983742838083346",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-12/GMKtec-EVO-X3-mini-PC-review-For-local-AI-the-hardware-is-impressive-but-the-sof-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-techradar-com-pro-gmktec-evo-x3-mini-pc-review-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-12T13:07:24.161Z",
-        "message_id": "18124811096494054",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "source_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 857,
-        "aspectRatio": 1.4002333722287048,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=can-your-mac-run-macos-27-check-the-full-compatibility-list",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-14T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-12T15:52:14.497Z",
-        "message_id": 380,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-12T16:28:46.793Z",
-        "message_id": "18177234721439139",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-12/https-techcrunch-com-2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-dea-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-macworld-com-article-673697-what-version-of-macos-can-my-mac-run-html-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-12T16:28:55.605Z",
-        "message_id": "18096013184227359",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/chuwi-unibox-ai495-pro-looks-a-bit-like-the-old-mac-pro-and-with-192gb-ram-matches-apples-new-workstation-for-memory",
-      "source_url": "https://www.techradar.com/pro/chuwi-unibox-ai495-pro-looks-a-bit-like-the-old-mac-pro-and-with-192gb-ram-matches-apples-new-workstation-for-memory",
-      "headline": "Chuwi UniBox AI495 Pro looks a bit like the old Mac Pro and, with 192GB RAM, matches Apple's new workstation for memory",
-      "summary": "CHUWI UniBox AI495 Pro combines AMD's Ryzen AI MAX+ PRO 495 with 192GB of memory, 160GB of VRAM allocation, and local AI support.",
+      "story_id": "https://www.techradar.com/pro/youre-still-going-to-be-steamrolled-by-the-super-intelligences-created-in-the-us-uk-government-rejects-calls-for-an-ai-kill-switch",
+      "source_url": "https://www.techradar.com/pro/youre-still-going-to-be-steamrolled-by-the-super-intelligences-created-in-the-us-uk-government-rejects-calls-for-an-ai-kill-switch",
+      "headline": "'You're still going to be steamrolled by the super intelligences created in the US': UK government rejects calls for an AI 'kill switch'",
+      "summary": "UK government has ruled out an AI kill switch because it wouldn't actually be able to put a stop to harmful AI despite best efforts.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/EXvtZ7iVVcqZMSPao7UdsD-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/EXvtZ7iVVcqZMSPao7UdsD-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/QojumHtS3deMPxm4GGbE6Z-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QojumHtS3deMPxm4GGbE6Z-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -297,198 +159,73 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=chuwi-unibox-ai495-pro-looks-a-bit-like-the-old-mac-pro-and-with-192gb-ram-matches-apples-",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=youre-still-going-to-be-steamrolled-by-the-super-intelligences-created-in-the-us-uk-govern",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-14T11:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-12T17:45:18.834Z",
-        "message_id": 381,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-12T17:46:10.695Z",
-        "message_id": "18216242134354524",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-techradar-com-pro-chuwi-unibox-ai495-pro-looks-a-bit-like-the-old-mac--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-techradar-com-pro-youre-still-going-to-be-steamrolled-by-the-super-int-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-12T17:46:18.646Z",
-        "message_id": "18112670345045909",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "source_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "headline": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "story_id": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+      "source_url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+      "headline": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/191:100/w_1280,c_limit/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg",
+      "image_url": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/191:100/w_1280,c_limit/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 801,
-        "aspectRatio": 1.4981273408239701,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=y-combinator-and-8217-s-garry-tan-wants-us-open-weight-ai-labs-to-and-8216-distill-and-821",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-12T19:37:21.483Z",
-        "message_id": 382,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-12T19:20:54.990Z",
-        "message_id": "18115054267971484",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-12/https-techcrunch-com-2026-09-11-y-combinators-garry-tan-wants-u-s-open-weight-ai-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-12T19:21:04.751Z",
-        "message_id": "18475408183112675",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "source_url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "headline": "OpenAI&#8217;s feud with mathematicians is only escalating",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-and-8217-s-feud-with-mathematicians-is-only-escalating",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-12T21:27:31.806Z",
-        "message_id": 383,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-12T21:29:13.531Z",
-        "message_id": "18216293689355420",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "assets/social-cards/2026-09-12/OpenAI-8217-s-feud-with-mathematicians-is-only-escalating-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-09-12/OpenAI-8217-s-feud-with-mathematicians-is-only-escalating-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-12/https-techcrunch-com-2026-09-11-openais-feud-with-mathematicians-is-only-escalat-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-missing-source"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-12T21:29:22.670Z",
-        "message_id": "18085789160674754",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "headline": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing t",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
+        "width": 1232,
+        "height": 645,
+        "aspectRatio": 1.910077519379845,
         "instagramCompatible": false
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=lawyer-fined-5k-over-ai-hallucinated-witnesses-in-a-murder-case",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-like-my-big-rat-wife-meet-the-people-using-chatbots-to-write-custom-fiction",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-14T13:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-12T23:17:37.393Z",
-        "message_id": 384,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-12T23:23:15.092Z",
-        "message_id": "18025752494860169",
-        "media_kind": "fallback-card"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-12/Lawyer-fined-5K-over-AI-hallucinated-witnesses-in-a-murder-case-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-12/https-www-theverge-com-ai-artificial-intelligence-994207-chatgpt-new-mexico-lawy-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-14/-I-Like-My-Big-Rat-Wife-Meet-the-People-Using-Chatbots-to-Write-Custom-Fiction-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-wired-com-story-chatbot-generated-fiction-i-like-my-big-rat-wife--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -496,69 +233,237 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-12T23:23:25.804Z",
-        "message_id": "18132709180632384",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "source_url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "headline": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+      "story_id": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "source_url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "headline": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+      "summary": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly universal",
+      "source_name": "Artificialintelligence News",
+      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mohamed-nohassi-0xMiYQmk8g-unsplash-scaled.jpg",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mohamed-nohassi-0xMiYQmk8g-unsplash-scaled.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
+        "width": 2560,
+        "height": 1867,
+        "aspectRatio": 1.3711837171933583,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=kimi-maker-moonshot-ai-targets-2b-in-annual-revenue",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-most-enterprise-agent-pilots-never-reach-deployment",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-12T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-14T15:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-13T01:03:22.881Z",
-        "message_id": 385,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-13T01:06:52.348Z",
-        "message_id": "18105392255189524",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-12/https-techcrunch-com-2026-09-11-kimi-maker-moonshot-ai-targets-2-billion-in-annu-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-artificialintelligence-news-com-news-why-most-enterprise-agent-pilots--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
+      }
+    },
+    {
+      "story_id": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+      "source_url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+      "headline": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+      "summary": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to tr",
+      "source_name": "Artificialintelligence News",
+      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/sam-mcghee-KieCLNzKoBo-unsplash-scaled.jpg",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/sam-mcghee-KieCLNzKoBo-unsplash-scaled.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-13T01:07:00.685Z",
-        "message_id": "18092373428395095",
-        "media_kind": "story-fallback"
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=from-video-to-data-how-ai-is-transforming-multimedia-content-processing",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-14T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-artificialintelligence-news-com-news-from-video-to-data-how-ai-is-tran-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+      "source_url": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+      "headline": "How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+      "summary": "Live translation has long been one of travel&#8217;s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox Group, a 25-year-old guiding technology company operating in over 150 countries, has spent the past year rebuilding",
+      "source_name": "Artificialintelligence News",
+      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Techforge-Header-banner-1200x600-v2.jpg",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Techforge-Header-banner-1200x600-v2.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 600,
+        "aspectRatio": 2,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-vox-group-and-8217-s-ai-powered-technology-is-solving-real-time-translation-for-group-",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-14T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-14/How-Vox-Group-8217-s-AI-Powered-Technology-Is-Solving-Real-Time-Translation-for--instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-artificialintelligence-news-com-news-how-vox-groups-ai-powered-technol-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/that-is-where-the-machine-starts-winning-on-cost-expert-pits-amd-radeon-ai-pro-r9700-rig-against-chatgpt-and-gives-surprising-verdict",
+      "source_url": "https://www.techradar.com/pro/that-is-where-the-machine-starts-winning-on-cost-expert-pits-amd-radeon-ai-pro-r9700-rig-against-chatgpt-and-gives-surprising-verdict",
+      "headline": "'That is where the machine starts winning on cost': Expert pits AMD Radeon AI PRO R9700 rig against ChatGPT and gives surprising verdict",
+      "summary": "A dual-GPU AMD workstation beats expensive cloud AI subscriptions on cost only once monthly token volume climbs high enough.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Ve4vbheJ7uiaarM2GXbwD4-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Ve4vbheJ7uiaarM2GXbwD4-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=that-is-where-the-machine-starts-winning-on-cost-expert-pits-amd-radeon-ai-pro-r9700-rig-a",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-14T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-techradar-com-pro-that-is-where-the-machine-starts-winning-on-cost-exp-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/meta-enlists-tiny-korean-startup-to-build-one-chip-like-datacenter-cxl-architecture-introduced-by-facebooks-parent-company-and-panmnesia-can-handle-almost-1000-ai-gpus-per-domain",
+      "source_url": "https://www.techradar.com/pro/meta-enlists-tiny-korean-startup-to-build-one-chip-like-datacenter-cxl-architecture-introduced-by-facebooks-parent-company-and-panmnesia-can-handle-almost-1000-ai-gpus-per-domain",
+      "headline": "Meta enlists tiny Korean startup to build 'one-chip-like datacenter' — CXL architecture introduced by Facebook's parent company and Panmnesia can handle almost 1000 AI GPUs per domain",
+      "summary": "Meta and Panmnesia propose a CXL data center architecture connecting up to 960 accelerators within one coherent computing domain across multiple racks.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/pVdxPdmrrXkVxR4MfZxiTV-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pVdxPdmrrXkVxR4MfZxiTV-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-enlists-tiny-korean-startup-to-build-one-chip-like-datacenter-cxl-architecture-introd",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-14T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-techradar-com-pro-meta-enlists-tiny-korean-startup-to-build-one-chip-l-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
       }
     }
   ]

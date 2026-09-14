@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T09:22:41.562Z",
-  "analysis_date": "2026-09-12",
+  "generated_at": "2026-09-14T10:39:43.146Z",
+  "analysis_date": "2026-09-14",
   "stories": [
     {
-      "title": "Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform",
-      "source": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
-      "mahgpt_url": "/news/story.html?id=universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platfo"
+      "title": "Apple’s ‘Surprise’ event was a parade of unobtainable luxuries",
+      "source": "https://www.macworld.com/article/3228624/apples-surprise-event-was-a-parade-of-unobtainable-luxuries.html",
+      "mahgpt_url": "/news/story.html?id=apples-surprise-event-was-a-parade-of-unobtainable-luxuries"
     },
     {
-      "title": "‘ChatGPT will glaze anyone regardless’: I tried 5 ways to make ChatGPT flatter and agree with me — here’s what happened",
-      "source": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-will-glaze-anyone-regardless-i-tried-5-ways-to-make-chatgpt-flatter-and-agree-with-me-heres-what-happened",
-      "mahgpt_url": "/news/story.html?id=chatgpt-will-glaze-anyone-regardless-i-tried-5-ways-to-make-chatgpt-flatter-and-agree-with"
+      "title": "What Formula 1 teaches businesses about AI",
+      "source": "https://www.techradar.com/pro/what-formula-1-teaches-businesses-about-ai",
+      "mahgpt_url": "/news/story.html?id=what-formula-1-teaches-businesses-about-ai"
     },
     {
-      "title": "Teachers are worried AI is taking over the classroom faster than they can stop it",
-      "source": "https://www.techradar.com/pro/teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it",
-      "mahgpt_url": "/news/story.html?id=teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it"
+      "title": "Can your Mac run macOS 27? Check the full compatibility list",
+      "source": "https://www.macworld.com/article/673697/what-version-of-macos-can-my-mac-run.html",
+      "mahgpt_url": "/news/story.html?id=can-your-mac-run-macos-27-check-the-full-compatibility-list"
     },
     {
-      "title": "GMKtec EVO-X3 mini PC review: For local AI, the hardware is impressive, but the software still needs work",
-      "source": "https://www.techradar.com/pro/gmktec-evo-x3-mini-pc-review",
-      "mahgpt_url": "/news/story.html?id=gmktec-evo-x3-mini-pc-review-for-local-ai-the-hardware-is-impressive-but-the-software-stil"
+      "title": "'You're still going to be steamrolled by the super intelligences created in the US': UK government rejects calls for an AI 'kill switch'",
+      "source": "https://www.techradar.com/pro/youre-still-going-to-be-steamrolled-by-the-super-intelligences-created-in-the-us-uk-government-rejects-calls-for-an-ai-kill-switch",
+      "mahgpt_url": "/news/story.html?id=youre-still-going-to-be-steamrolled-by-the-super-intelligences-created-in-the-us-uk-govern"
     },
     {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "source": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "mahgpt_url": "/news/story.html?id=mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data"
+      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+      "source": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+      "mahgpt_url": "/news/story.html?id=i-like-my-big-rat-wife-meet-the-people-using-chatbots-to-write-custom-fiction"
     },
     {
-      "title": "Chuwi UniBox AI495 Pro looks a bit like the old Mac Pro and, with 192GB RAM, matches Apple's new workstation for memory",
-      "source": "https://www.techradar.com/pro/chuwi-unibox-ai495-pro-looks-a-bit-like-the-old-mac-pro-and-with-192gb-ram-matches-apples-new-workstation-for-memory",
-      "mahgpt_url": "/news/story.html?id=chuwi-unibox-ai495-pro-looks-a-bit-like-the-old-mac-pro-and-with-192gb-ram-matches-apples-"
+      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+      "source": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "mahgpt_url": "/news/story.html?id=why-most-enterprise-agent-pilots-never-reach-deployment"
     },
     {
-      "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
-      "source": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "mahgpt_url": "/news/story.html?id=y-combinator-and-8217-s-garry-tan-wants-us-open-weight-ai-labs-to-and-8216-distill-and-821"
+      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+      "source": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+      "mahgpt_url": "/news/story.html?id=from-video-to-data-how-ai-is-transforming-multimedia-content-processing"
     },
     {
-      "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
-      "source": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "mahgpt_url": "/news/story.html?id=openai-and-8217-s-feud-with-mathematicians-is-only-escalating"
+      "title": "How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+      "source": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+      "mahgpt_url": "/news/story.html?id=how-vox-group-and-8217-s-ai-powered-technology-is-solving-real-time-translation-for-group-"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-12.html"
+      "path": "news/analysis/2026-09-14.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-12.html"
+      "path": "es/news/analysis/2026-09-14.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-12.html"
+      "path": "de/news/analysis/2026-09-14.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-12.html"
+      "path": "fr/news/analysis/2026-09-14.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-12.html"
+      "path": "pt-BR/news/analysis/2026-09-14.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-12.html"
+      "path": "ar/news/analysis/2026-09-14.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-12.html"
+      "path": "fa/news/analysis/2026-09-14.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-12.html"
+      "path": "tr/news/analysis/2026-09-14.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-12.html"
+      "path": "it/news/analysis/2026-09-14.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-12.html"
+      "path": "ja/news/analysis/2026-09-14.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-12.html"
+      "path": "ko/news/analysis/2026-09-14.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-12.html"
+      "path": "id/news/analysis/2026-09-14.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-12.html"
+      "path": "hi/news/analysis/2026-09-14.html"
     }
   ]
 }
