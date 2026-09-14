@@ -1488,6 +1488,20 @@
         "message_id": "17906764851512731",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/673697/what-version-of-macos-can-my-mac-run.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-14T16:59:00.515Z",
+        "message_id": "17979112034908080",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-14T16:59:08.707Z",
+        "message_id": "18437683159130817",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
