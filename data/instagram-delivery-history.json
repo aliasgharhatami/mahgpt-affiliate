@@ -1460,6 +1460,20 @@
         "message_id": "18092373428395095",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3228624/apples-surprise-event-was-a-parade-of-unobtainable-luxuries.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-14T10:46:00.104Z",
+        "message_id": "18108555880895344",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-14T10:46:09.013Z",
+        "message_id": "17869429821637332",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
