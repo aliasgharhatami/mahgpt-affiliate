@@ -2584,6 +2584,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/673697/what-version-of-macos-can-my-mac-run.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-14T20:37:31.782Z",
+        "message_id": 388,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
