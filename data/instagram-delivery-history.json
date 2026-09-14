@@ -1502,6 +1502,20 @@
         "message_id": "18437683159130817",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/youre-still-going-to-be-steamrolled-by-the-super-intelligences-created-in-the-us-uk-government-rejects-calls-for-an-ai-kill-switch": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-14T20:58:12.497Z",
+        "message_id": "18146062000520514",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-14T20:58:22.114Z",
+        "message_id": "17907985104541664",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
