@@ -1516,6 +1516,20 @@
         "message_id": "17907985104541664",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-14T22:15:50.894Z",
+        "message_id": "18104798395952359",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-14T22:16:00.348Z",
+        "message_id": "17998266062815205",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
