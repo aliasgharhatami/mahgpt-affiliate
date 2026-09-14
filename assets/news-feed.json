@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T09:22:32.177Z",
+  "updatedAt": "2026-09-14T10:39:27.987Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "elevenlabs",
-      "toolName": "ElevenLabs",
-      "category": "Partner watch",
-      "title": "Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform",
-      "summary": "The unnamed software will be built around licensed music from UMG artists who want to participate.",
-      "guide": "/partners/elevenlabs.html",
-      "source": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
-      "publishedAt": "2026-09-10T17:01:52.000Z",
-      "image": "https://www.engadget.com/img/gallery/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/l-intro-1789059229.jpg"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Apple’s ‘Surprise’ event was a parade of unobtainable luxuries",
+      "summary": "Macworld Last week’s Surprise and Shine event , where Apple announced new iPhones, Apple Watches, and AirPods, was an enjoyable spectacle. The presentation was predictably professional, and the products looked great. But thanks to the high price of almost everything on display, the experience felt l",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3228624/apples-surprise-event-was-a-parade-of-unobtainable-luxuries.html",
+      "publishedAt": "2026-09-14T10:30:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3228624-0-94763600-1789381828-Apple-september-event.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "‘ChatGPT will glaze anyone regardless’: I tried 5 ways to make ChatGPT flatter and agree with me — here’s what happened",
-      "summary": "Is AI less sycophantic now? I tried to make ChatGPT flatter, validate and agree with me and was surprised by what it did next.",
+      "title": "What Formula 1 teaches businesses about AI",
+      "summary": "In F1, every second counts, the same is becoming true for AI's use in business.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-will-glaze-anyone-regardless-i-tried-5-ways-to-make-chatgpt-flatter-and-agree-with-me-heres-what-happened",
-      "publishedAt": "2026-09-12T09:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/MqYBjM6MyBnwQUv4UQUTbP-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/what-formula-1-teaches-businesses-about-ai",
+      "publishedAt": "2026-09-14T09:45:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Teachers are worried AI is taking over the classroom faster than they can stop it",
-      "summary": "Across Europe, 80% of teachers are concerned that AI is having a noticeable impact on education, with some students relying heavily on the technology to complete basic tasks.",
+      "title": "Can your Mac run macOS 27? Check the full compatibility list",
+      "summary": "Macworld Wondering which versions of macOS your Mac can run? Want to know if you will be able to run macOS 27 Golden Gate on your Mac when it launches on September 14? We’ve put together a macOS compatibility checker that will show you what Macs the different versions of macOS and Mac OS X support, ",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it",
-      "publishedAt": "2026-09-12T07:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/w3sd965PrUasEsDDhEjhBW-2100-80.png"
+      "source": "https://www.macworld.com/article/673697/what-version-of-macos-can-my-mac-run.html",
+      "publishedAt": "2026-09-14T09:41:56.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/673697-0-01058000-1789378928-Which-MacOS-runs-on-which-Mac.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "GMKtec EVO-X3 mini PC review: For local AI, the hardware is impressive, but the software still needs work",
-      "summary": "The GMKtec EVO-X3 is a mini PC with a difference, as it's built for local AI, and features the AMD’s Ryzen AI Max+ 395, Radeon graphics and a 50-TOPS NPU.",
+      "title": "'You're still going to be steamrolled by the super intelligences created in the US': UK government rejects calls for an AI 'kill switch'",
+      "summary": "UK government has ruled out an AI kill switch because it wouldn't actually be able to put a stop to harmful AI despite best efforts.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/gmktec-evo-x3-mini-pc-review",
-      "publishedAt": "2026-09-12T06:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qNSsq22MYBv3nmt5gWE2af-1200-80.jpg"
+      "source": "https://www.techradar.com/pro/youre-still-going-to-be-steamrolled-by-the-super-intelligences-created-in-the-us-uk-government-rejects-calls-for-an-ai-kill-switch",
+      "publishedAt": "2026-09-14T09:10:24.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/QojumHtS3deMPxm4GGbE6Z-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "publishedAt": "2026-09-11T22:58:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857"
+      "source": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+      "publishedAt": "2026-09-14T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/191:100/w_1280,c_limit/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Chuwi UniBox AI495 Pro looks a bit like the old Mac Pro and, with 192GB RAM, matches Apple's new workstation for memory",
-      "summary": "CHUWI UniBox AI495 Pro combines AMD's Ryzen AI MAX+ PRO 495 with 192GB of memory, 160GB of VRAM allocation, and local AI support.",
+      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+      "summary": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly universal",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/chuwi-unibox-ai495-pro-looks-a-bit-like-the-old-mac-pro-and-with-192gb-ram-matches-apples-new-workstation-for-memory",
-      "publishedAt": "2026-09-11T21:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/EXvtZ7iVVcqZMSPao7UdsD-1920-80.jpg"
+      "source": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "publishedAt": "2026-09-14T08:04:35.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mohamed-nohassi-0xMiYQmk8g-unsplash-scaled.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+      "summary": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to tr",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "publishedAt": "2026-09-11T20:59:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801"
+      "source": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+      "publishedAt": "2026-09-14T07:56:45.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/sam-mcghee-KieCLNzKoBo-unsplash-scaled.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "title": "How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+      "summary": "Live translation has long been one of travel&#8217;s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox Group, a 25-year-old guiding technology company operating in over 150 countries, has spent the past year rebuilding",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "publishedAt": "2026-09-11T20:57:36.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+      "source": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+      "publishedAt": "2026-09-14T07:39:28.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Techforge-Header-banner-1200x600-v2.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing t",
+      "title": "'That is where the machine starts winning on cost': Expert pits AMD Radeon AI PRO R9700 rig against ChatGPT and gives surprising verdict",
+      "summary": "A dual-GPU AMD workstation beats expensive cloud AI subscriptions on cost only once monthly token volume climbs high enough.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "publishedAt": "2026-09-11T20:44:02.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.techradar.com/pro/that-is-where-the-machine-starts-winning-on-cost-expert-pits-amd-radeon-ai-pro-r9700-rig-against-chatgpt-and-gives-surprising-verdict",
+      "publishedAt": "2026-09-13T23:35:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ve4vbheJ7uiaarM2GXbwD4-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "title": "Meta enlists tiny Korean startup to build 'one-chip-like datacenter' — CXL architecture introduced by Facebook's parent company and Panmnesia can handle almost 1000 AI GPUs per domain",
+      "summary": "Meta and Panmnesia propose a CXL data center architecture connecting up to 960 accelerators within one coherent computing domain across multiple racks.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "publishedAt": "2026-09-11T19:35:54.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800"
+      "source": "https://www.techradar.com/pro/meta-enlists-tiny-korean-startup-to-build-one-chip-like-datacenter-cxl-architecture-introduced-by-facebooks-parent-company-and-panmnesia-can-handle-almost-1000-ai-gpus-per-domain",
+      "publishedAt": "2026-09-13T22:35:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pVdxPdmrrXkVxR4MfZxiTV-1920-80.png"
     }
   ]
 }
