@@ -1586,6 +1586,20 @@
         "message_id": "18101381159457663",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-15T22:16:10.369Z",
+        "message_id": "17910882909495891",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-15T22:16:19.866Z",
+        "message_id": "18176043478441246",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
