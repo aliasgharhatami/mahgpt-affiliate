@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T10:39:27.987Z",
+  "updatedAt": "2026-09-15T07:24:00.144Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Apple’s ‘Surprise’ event was a parade of unobtainable luxuries",
-      "summary": "Macworld Last week’s Surprise and Shine event , where Apple announced new iPhones, Apple Watches, and AirPods, was an enjoyable spectacle. The presentation was predictably professional, and the products looked great. But thanks to the high price of almost everything on display, the experience felt l",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3228624/apples-surprise-event-was-a-parade-of-unobtainable-luxuries.html",
-      "publishedAt": "2026-09-14T10:30:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3228624-0-94763600-1789381828-Apple-september-event.jpg?quality=50&strip=all&w=1024"
+      "tool": "horizons",
+      "toolName": "Hostinger Horizons",
+      "category": "Partner watch",
+      "title": "iOS 27 is out now bringing Siri AI, better performance, and lots of QOL features",
+      "summary": "Macworld On the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026. After almost exactly three months of beta releases, fixes, tweaks, and optim",
+      "guide": "/partners/horizons.html",
+      "source": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
+      "publishedAt": "2026-09-14T17:28:08.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3172166-0-83159100-1789406908-ios_27_hero.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "What Formula 1 teaches businesses about AI",
-      "summary": "In F1, every second counts, the same is becoming true for AI's use in business.",
+      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem. By Sunny Sandhu, Senior Immigration Associate, AY&#38;J Solicitors For years, the offer tha",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/what-formula-1-teaches-businesses-about-ai",
-      "publishedAt": "2026-09-14T09:45:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg"
+      "source": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+      "publishedAt": "2026-09-15T07:14:47.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/thisisengineering-ZPeXrWxOjRQ-unsplash-scaled.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Can your Mac run macOS 27? Check the full compatibility list",
-      "summary": "Macworld Wondering which versions of macOS your Mac can run? Want to know if you will be able to run macOS 27 Golden Gate on your Mac when it launches on September 14? We’ve put together a macOS compatibility checker that will show you what Macs the different versions of macOS and Mac OS X support, ",
+      "title": "Chinese vendor debuts world's first AMD Ryzen AI Max+ Pro 495 laptop, but 192GB LPDDR5X-8533 for gaming? Really??",
+      "summary": "SIXUNITED's new laptop pairs an AMD AI chip with 192GB of memory, aiming squarely at AI workloads over casual gaming",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/673697/what-version-of-macos-can-my-mac-run.html",
-      "publishedAt": "2026-09-14T09:41:56.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/673697-0-01058000-1789378928-Which-MacOS-runs-on-which-Mac.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/chinese-vendor-debuts-worlds-first-amd-ryzen-ai-max-pro-495-laptop-but-192gb-lpddr5x-8533-for-gaming-really",
+      "publishedAt": "2026-09-15T02:10:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mPDojD3NtwnHbR3LWLSZTJ-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'You're still going to be steamrolled by the super intelligences created in the US': UK government rejects calls for an AI 'kill switch'",
-      "summary": "UK government has ruled out an AI kill switch because it wouldn't actually be able to put a stop to harmful AI despite best efforts.",
+      "title": "Kioxia has nothing to lose, so it wants to swap expensive DDR for the world's fastest SSD ever built to save the world from AI RAMpocalypse",
+      "summary": "Kioxia is developing faster NAND and CXL memory products aimed at reducing AI data centers' dependence on increasingly costly conventional DRAM.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/youre-still-going-to-be-steamrolled-by-the-super-intelligences-created-in-the-us-uk-government-rejects-calls-for-an-ai-kill-switch",
-      "publishedAt": "2026-09-14T09:10:24.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/QojumHtS3deMPxm4GGbE6Z-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/kioxia-has-nothing-to-lose-so-it-wants-to-swap-expensive-ddr-for-the-worlds-fastest-ssd-ever-built-to-save-the-world-from-ai-ram-pocalypse",
+      "publishedAt": "2026-09-15T01:15:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/RTo7FdeFYTobu2FVQZfMii-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
-      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontie",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-      "publishedAt": "2026-09-14T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/191:100/w_1280,c_limit/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "publishedAt": "2026-09-14T22:59:41.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
-      "summary": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly universal",
+      "title": "Apple Home’s new security camera features cost as much as $60 a month",
+      "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible secur",
       "guide": "/news/index.html",
-      "source": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-      "publishedAt": "2026-09-14T08:04:35.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mohamed-nohassi-0xMiYQmk8g-unsplash-scaled.jpg"
+      "source": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+      "publishedAt": "2026-09-14T22:28:52.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
-      "summary": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to tr",
+      "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
       "guide": "/news/index.html",
-      "source": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
-      "publishedAt": "2026-09-14T07:56:45.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/sam-mcghee-KieCLNzKoBo-unsplash-scaled.jpg"
+      "source": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "publishedAt": "2026-09-14T21:51:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
-      "summary": "Live translation has long been one of travel&#8217;s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox Group, a 25-year-old guiding technology company operating in over 150 countries, has spent the past year rebuilding",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compi",
       "guide": "/news/index.html",
-      "source": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
-      "publishedAt": "2026-09-14T07:39:28.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Techforge-Header-banner-1200x600-v2.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "publishedAt": "2026-09-14T21:21:42.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'That is where the machine starts winning on cost': Expert pits AMD Radeon AI PRO R9700 rig against ChatGPT and gives surprising verdict",
-      "summary": "A dual-GPU AMD workstation beats expensive cloud AI subscriptions on cost only once monthly token volume climbs high enough.",
+      "title": "A costly mistake? Report claims a third of employees fired due to AI will need to be rehired in the next few years",
+      "summary": "Gartner forecasts almost 33% of workers who were displaced by AI will be rehired by 2029 – probably on a higher salary package.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/that-is-where-the-machine-starts-winning-on-cost-expert-pits-amd-radeon-ai-pro-r9700-rig-against-chatgpt-and-gives-surprising-verdict",
-      "publishedAt": "2026-09-13T23:35:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ve4vbheJ7uiaarM2GXbwD4-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/a-costly-mistake-report-claims-a-third-of-employees-fired-due-to-ai-will-need-to-be-rehired-in-the-next-few-years",
+      "publishedAt": "2026-09-14T21:10:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/XHBG2PFugd2NXxfu95hpLB-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Meta enlists tiny Korean startup to build 'one-chip-like datacenter' — CXL architecture introduced by Facebook's parent company and Panmnesia can handle almost 1000 AI GPUs per domain",
-      "summary": "Meta and Panmnesia propose a CXL data center architecture connecting up to 960 accelerators within one coherent computing domain across multiple racks.",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/meta-enlists-tiny-korean-startup-to-build-one-chip-like-datacenter-cxl-architecture-introduced-by-facebooks-parent-company-and-panmnesia-can-handle-almost-1000-ai-gpus-per-domain",
-      "publishedAt": "2026-09-13T22:35:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/pVdxPdmrrXkVxR4MfZxiTV-1920-80.png"
+      "source": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "publishedAt": "2026-09-14T21:04:32.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg"
     }
   ]
 }

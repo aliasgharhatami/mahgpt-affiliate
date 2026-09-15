@@ -2635,6 +2635,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-15T07:24:12.154Z",
+        "message_id": 391,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

@@ -1,188 +1,113 @@
 {
   "version": 1,
-  "queue_date": "2026-09-14",
-  "created_at": "2026-09-14T10:39:32.690Z",
-  "source_feed_updated_at": "2026-09-14T10:39:27.987Z",
+  "queue_date": "2026-09-15",
+  "created_at": "2026-09-15T07:24:00.245Z",
+  "source_feed_updated_at": "2026-09-15T07:24:00.144Z",
   "items": [
     {
-      "story_id": "https://www.macworld.com/article/3228624/apples-surprise-event-was-a-parade-of-unobtainable-luxuries.html",
-      "source_url": "https://www.macworld.com/article/3228624/apples-surprise-event-was-a-parade-of-unobtainable-luxuries.html",
-      "headline": "Apple’s ‘Surprise’ event was a parade of unobtainable luxuries",
-      "summary": "Macworld Last week’s Surprise and Shine event, where Apple announced new iPhones, Apple Watches, and AirPods, was an enjoyable spectacle. The presentation was predictably professional, and the products looked great. But thanks to the high price of almost everything on display, the experience felt l",
+      "story_id": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
+      "source_url": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
+      "headline": "iOS 27 is out now bringing Siri AI, better performance, and lots of QOL features",
+      "summary": "Macworld On the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026. After almost exactly three months of beta releases, fixes, tweaks, and optim",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228624-0-94763600-1789381828-Apple-september-event.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3228624-0-94763600-1789381828-Apple-september-event.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3172166-0-83159100-1789406908-ios_27_hero.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3172166-0-83159100-1789406908-ios_27_hero.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
-        "height": 575,
-        "aspectRatio": 1.7808695652173914,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apples-surprise-event-was-a-parade-of-unobtainable-luxuries",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-14T05:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-14T10:40:10.121Z",
-        "message_id": 386,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-14T10:46:00.104Z",
-        "message_id": "18108555880895344",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-macworld-com-article-3228624-apples-surprise-event-was-a-parade-of-uno-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-14T10:46:09.013Z",
-        "message_id": "17869429821637332",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/what-formula-1-teaches-businesses-about-ai",
-      "source_url": "https://www.techradar.com/pro/what-formula-1-teaches-businesses-about-ai",
-      "headline": "What Formula 1 teaches businesses about AI",
-      "summary": "In F1, every second counts, the same is becoming true for AI's use in business.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
+        "height": 576,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=what-formula-1-teaches-businesses-about-ai",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ios-27-is-out-now-bringing-siri-ai-better-performance-and-lots-of-qol-features",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-14T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-15T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-14T16:37:21.386Z",
-        "message_id": 387,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-08-25T16:03:41.650Z"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
         "status": "published",
-        "published_at": "2026-09-14T13:23:30.102Z",
-        "message_id": "18090116306179914",
-        "media_kind": "source"
+        "published_at": "2026-09-10T09:49:57.708Z",
+        "message_id": "18027925814887583"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-techradar-com-pro-what-formula-1-teaches-businesses-about-ai-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-macworld-com-article-3172166-ios-27-beta-updates-features-release-date-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-14T13:23:38.660Z",
-        "message_id": "17906764851512731",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/673697/what-version-of-macos-can-my-mac-run.html",
-      "source_url": "https://www.macworld.com/article/673697/what-version-of-macos-can-my-mac-run.html",
-      "headline": "Can your Mac run macOS 27? Check the full compatibility list",
-      "summary": "Macworld Wondering which versions of macOS your Mac can run? Want to know if you will be able to run macOS 27 Golden Gate on your Mac when it launches on September 14? We’ve put together a macOS compatibility checker that will show you what Macs the different versions of macOS and Mac OS X support,",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/673697-0-01058000-1789378928-Which-MacOS-runs-on-which-Mac.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/673697-0-01058000-1789378928-Which-MacOS-runs-on-which-Mac.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+      "source_url": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+      "headline": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem. By Sunny Sandhu, Senior Immigration Associate, AY&#38;J Solicitors For years, the offer tha",
+      "source_name": "Artificialintelligence News",
+      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/thisisengineering-ZPeXrWxOjRQ-unsplash-scaled.jpg",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/thisisengineering-ZPeXrWxOjRQ-unsplash-scaled.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
+        "width": 2560,
+        "height": 1708,
+        "aspectRatio": 1.4988290398126465,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=can-your-mac-run-macos-27-check-the-full-compatibility-list",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-14T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-15T07:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-09-14T20:37:31.782Z",
-        "message_id": 388,
+        "published_at": "2026-09-15T07:24:12.154Z",
+        "message_id": 391,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-14T16:59:00.515Z",
-        "message_id": "17979112034908080",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-macworld-com-article-673697-what-version-of-macos-can-my-mac-run-html-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-artificialintelligence-news-com-news-the-ai-talent-britain-fought-to-h-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-14T16:59:08.707Z",
-        "message_id": "18437683159130817",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/youre-still-going-to-be-steamrolled-by-the-super-intelligences-created-in-the-us-uk-government-rejects-calls-for-an-ai-kill-switch",
-      "source_url": "https://www.techradar.com/pro/youre-still-going-to-be-steamrolled-by-the-super-intelligences-created-in-the-us-uk-government-rejects-calls-for-an-ai-kill-switch",
-      "headline": "'You're still going to be steamrolled by the super intelligences created in the US': UK government rejects calls for an AI 'kill switch'",
-      "summary": "UK government has ruled out an AI kill switch because it wouldn't actually be able to put a stop to harmful AI despite best efforts.",
+      "story_id": "https://www.techradar.com/pro/chinese-vendor-debuts-worlds-first-amd-ryzen-ai-max-pro-495-laptop-but-192gb-lpddr5x-8533-for-gaming-really",
+      "source_url": "https://www.techradar.com/pro/chinese-vendor-debuts-worlds-first-amd-ryzen-ai-max-pro-495-laptop-but-192gb-lpddr5x-8533-for-gaming-really",
+      "headline": "Chinese vendor debuts world's first AMD Ryzen AI Max+ Pro 495 laptop, but 192GB LPDDR5X-8533 for gaming? Really??",
+      "summary": "SIXUNITED's new laptop pairs an AMD AI chip with 192GB of memory, aiming squarely at AI workloads over casual gaming",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/QojumHtS3deMPxm4GGbE6Z-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/QojumHtS3deMPxm4GGbE6Z-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mPDojD3NtwnHbR3LWLSZTJ-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mPDojD3NtwnHbR3LWLSZTJ-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -192,126 +117,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=youre-still-going-to-be-steamrolled-by-the-super-intelligences-created-in-the-us-uk-govern",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=chinese-vendor-debuts-worlds-first-amd-ryzen-ai-max-pro-495-laptop-but-192gb-lpddr5x-8533-",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-14T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-14T23:30:29.023Z",
-        "message_id": 389,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-14T20:58:12.497Z",
-        "message_id": "18146062000520514",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-techradar-com-pro-youre-still-going-to-be-steamrolled-by-the-super-int-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-14T20:58:22.114Z",
-        "message_id": "17907985104541664",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-      "source_url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-      "headline": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
-      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/191:100/w_1280,c_limit/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg",
-      "image_url": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/191:100/w_1280,c_limit/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1232,
-        "height": 645,
-        "aspectRatio": 1.910077519379845,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-like-my-big-rat-wife-meet-the-people-using-chatbots-to-write-custom-fiction",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-14T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-15T01:55:12.680Z",
-        "message_id": 390,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-14T22:15:50.894Z",
-        "message_id": "18104798395952359",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-14/-I-Like-My-Big-Rat-Wife-Meet-the-People-Using-Chatbots-to-Write-Custom-Fiction-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-wired-com-story-chatbot-generated-fiction-i-like-my-big-rat-wife--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-14T22:16:00.348Z",
-        "message_id": "17998266062815205",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-      "source_url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-      "headline": "Why Most Enterprise Agent Pilots Never Reach Deployment",
-      "summary": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly universal",
-      "source_name": "Artificialintelligence News",
-      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mohamed-nohassi-0xMiYQmk8g-unsplash-scaled.jpg",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mohamed-nohassi-0xMiYQmk8g-unsplash-scaled.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1867,
-        "aspectRatio": 1.3711837171933583,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-most-enterprise-agent-pilots-never-reach-deployment",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-14T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-15T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -320,53 +130,44 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-14T23:58:51.053Z",
-        "message_id": "18225856882331550",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-artificialintelligence-news-com-news-why-most-enterprise-agent-pilots--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-techradar-com-pro-chinese-vendor-debuts-worlds-first-amd-ryzen-ai-max--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-14T23:59:02.168Z",
-        "message_id": "18121887995293944",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
-      "source_url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
-      "headline": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
-      "summary": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to tr",
-      "source_name": "Artificialintelligence News",
-      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/sam-mcghee-KieCLNzKoBo-unsplash-scaled.jpg",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/sam-mcghee-KieCLNzKoBo-unsplash-scaled.jpg",
+      "story_id": "https://www.techradar.com/pro/kioxia-has-nothing-to-lose-so-it-wants-to-swap-expensive-ddr-for-the-worlds-fastest-ssd-ever-built-to-save-the-world-from-ai-ram-pocalypse",
+      "source_url": "https://www.techradar.com/pro/kioxia-has-nothing-to-lose-so-it-wants-to-swap-expensive-ddr-for-the-worlds-fastest-ssd-ever-built-to-save-the-world-from-ai-ram-pocalypse",
+      "headline": "Kioxia has nothing to lose, so it wants to swap expensive DDR for the world's fastest SSD ever built to save the world from AI RAMpocalypse",
+      "summary": "Kioxia is developing faster NAND and CXL memory products aimed at reducing AI data centers' dependence on increasingly costly conventional DRAM.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/RTo7FdeFYTobu2FVQZfMii-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RTo7FdeFYTobu2FVQZfMii-1920-80.png",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
+        "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=from-video-to-data-how-ai-is-transforming-multimedia-content-processing",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=kioxia-has-nothing-to-lose-so-it-wants-to-swap-expensive-ddr-for-the-worlds-fastest-ssd-ev",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-14T17:20:00.000Z",
+      "scheduled_publish_at": "2026-09-15T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -382,7 +183,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-artificialintelligence-news-com-news-from-video-to-data-how-ai-is-tran-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-techradar-com-pro-kioxia-has-nothing-to-lose-so-it-wants-to-swap-expen-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -392,27 +193,27 @@
       }
     },
     {
-      "story_id": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
-      "source_url": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
-      "headline": "How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
-      "summary": "Live translation has long been one of travel&#8217;s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox Group, a 25-year-old guiding technology company operating in over 150 countries, has spent the past year rebuilding",
-      "source_name": "Artificialintelligence News",
-      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Techforge-Header-banner-1200x600-v2.jpg",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Techforge-Header-banner-1200x600-v2.jpg",
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "headline": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontie",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 600,
-        "aspectRatio": 2,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
         "instagramCompatible": false
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-vox-group-and-8217-s-ai-powered-technology-is-solving-real-time-translation-for-group-",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-14T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-15T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -427,8 +228,8 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-14/How-Vox-Group-8217-s-AI-Powered-Technology-Is-Solving-Real-Time-Translation-for--instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-artificialintelligence-news-com-news-how-vox-groups-ai-powered-technol-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-15/Is-Big-Tech-s-AI-slowdown-a-safety-pact-or-a-cartel--instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-theverge-com-ai-artificial-intelligence-995186-is-big-techs-ai-slowdow-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -439,27 +240,74 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/that-is-where-the-machine-starts-winning-on-cost-expert-pits-amd-radeon-ai-pro-r9700-rig-against-chatgpt-and-gives-surprising-verdict",
-      "source_url": "https://www.techradar.com/pro/that-is-where-the-machine-starts-winning-on-cost-expert-pits-amd-radeon-ai-pro-r9700-rig-against-chatgpt-and-gives-surprising-verdict",
-      "headline": "'That is where the machine starts winning on cost': Expert pits AMD Radeon AI PRO R9700 rig against ChatGPT and gives surprising verdict",
-      "summary": "A dual-GPU AMD workstation beats expensive cloud AI subscriptions on cost only once monthly token volume climbs high enough.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Ve4vbheJ7uiaarM2GXbwD4-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Ve4vbheJ7uiaarM2GXbwD4-1920-80.jpg",
+      "story_id": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+      "source_url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+      "headline": "Apple Home’s new security camera features cost as much as $60 a month",
+      "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible secur",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-homes-new-security-camera-features-cost-as-much-as-60-a-month",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-15T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-15/Apple-Home-s-new-security-camera-features-cost-as-much-as-60-a-month-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-theverge-com-tech-994949-apple-intelligence-apple-home-icloud-plus-cos-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "source_url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "headline": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=that-is-where-the-machine-starts-winning-on-cost-expert-pits-amd-radeon-ai-pro-r9700-rig-a",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nvidia-ceo-jensen-huang-tells-trump-and-8216-we-and-8217-re-not-going-to-let-an-ai-slowdow",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-14T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-15T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -475,7 +323,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-techradar-com-pro-that-is-where-the-machine-starts-winning-on-cost-exp-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-techcrunch-com-2026-09-14-nvidia-ceo-jensen-huang-tells-trump-were-not-goi-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -485,13 +333,60 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/meta-enlists-tiny-korean-startup-to-build-one-chip-like-datacenter-cxl-architecture-introduced-by-facebooks-parent-company-and-panmnesia-can-handle-almost-1000-ai-gpus-per-domain",
-      "source_url": "https://www.techradar.com/pro/meta-enlists-tiny-korean-startup-to-build-one-chip-like-datacenter-cxl-architecture-introduced-by-facebooks-parent-company-and-panmnesia-can-handle-almost-1000-ai-gpus-per-domain",
-      "headline": "Meta enlists tiny Korean startup to build 'one-chip-like datacenter' — CXL architecture introduced by Facebook's parent company and Panmnesia can handle almost 1000 AI GPUs per domain",
-      "summary": "Meta and Panmnesia propose a CXL data center architecture connecting up to 960 accelerators within one coherent computing domain across multiple racks.",
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "headline": "What execs and politicians are saying about slowing down AI development",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compi",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=what-execs-and-politicians-are-saying-about-slowing-down-ai-development",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-15T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-15/What-execs-and-politicians-are-saying-about-slowing-down-AI-development-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-theverge-com-ai-artificial-intelligence-995141-ai-executives-politicia-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/a-costly-mistake-report-claims-a-third-of-employees-fired-due-to-ai-will-need-to-be-rehired-in-the-next-few-years",
+      "source_url": "https://www.techradar.com/pro/a-costly-mistake-report-claims-a-third-of-employees-fired-due-to-ai-will-need-to-be-rehired-in-the-next-few-years",
+      "headline": "A costly mistake? Report claims a third of employees fired due to AI will need to be rehired in the next few years",
+      "summary": "Gartner forecasts almost 33% of workers who were displaced by AI will be rehired by 2029 – probably on a higher salary package.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/pVdxPdmrrXkVxR4MfZxiTV-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/pVdxPdmrrXkVxR4MfZxiTV-1920-80.png",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/XHBG2PFugd2NXxfu95hpLB-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XHBG2PFugd2NXxfu95hpLB-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -501,11 +396,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-enlists-tiny-korean-startup-to-build-one-chip-like-datacenter-cxl-architecture-introd",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-costly-mistake-report-claims-a-third-of-employees-fired-due-to-ai-will-need-to-be-rehire",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-14T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-15T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -521,7 +416,53 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-14/https-www-techradar-com-pro-meta-enlists-tiny-korean-startup-to-build-one-chip-l-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-techradar-com-pro-a-costly-mistake-report-claims-a-third-of-employees--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "source_url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "headline": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "source_name": "Arstechnica",
+      "original_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1152,
+        "height": 648,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-bots-timmy-ren-and-jackie-are-flooding-social-media-with-slop",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-15T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-arstechnica-com-ai-2026-09-ai-agents-flood-the-internet-with-slop-infused--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
