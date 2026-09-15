@@ -2652,6 +2652,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/why-every-enterprise-needs-an-ai-model-exit-strategy": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-15T10:06:05.329Z",
+        "message_id": 392,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
