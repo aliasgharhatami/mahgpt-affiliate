@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-09-15",
-  "created_at": "2026-09-15T07:24:00.245Z",
-  "source_feed_updated_at": "2026-09-15T07:24:00.144Z",
+  "created_at": "2026-09-15T10:05:28.020Z",
+  "source_feed_updated_at": "2026-09-15T10:05:24.303Z",
   "items": [
     {
       "story_id": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
@@ -53,6 +53,144 @@
       }
     },
     {
+      "story_id": "https://www.techradar.com/pro/why-every-enterprise-needs-an-ai-model-exit-strategy",
+      "source_url": "https://www.techradar.com/pro/why-every-enterprise-needs-an-ai-model-exit-strategy",
+      "headline": "Why every enterprise needs an AI model exit strategy",
+      "summary": "Model flexibility helps enterprises protect workflows, institutional knowledge and control as AI evolves.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-every-enterprise-needs-an-ai-model-exit-strategy",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-15T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-techradar-com-pro-why-every-enterprise-needs-an-ai-model-exit-strategy-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/675021/how-long-does-apple-support-iphones.html",
+      "source_url": "https://www.macworld.com/article/675021/how-long-does-apple-support-iphones.html",
+      "headline": "How long does Apple support iPhones with updates?",
+      "summary": "Macworld If you are thinking of buying an older generation or used/refurbished iPhone, or wondering whether it’s worth upgrading your current iPhone to a new one, one important factor to consider is how long Apple will continue to support it. The good news is that Apple provides software support fo",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/675021-0-57513000-1789466235-iphone_8_plus14-1.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/675021-0-57513000-1789466235-iphone_8_plus14-1.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 576,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-long-does-apple-support-iphones-with-updates",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-15T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-macworld-com-article-675021-how-long-does-apple-support-iphones-html-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/is-the-fca-underestimating-the-ai-fraud-threat",
+      "source_url": "https://www.techradar.com/pro/is-the-fca-underestimating-the-ai-fraud-threat",
+      "headline": "Is the FCA underestimating the AI fraud threat?",
+      "summary": "Banks must actively test AI-enabled fraud before criminals expose weaknesses.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=is-the-fca-underestimating-the-ai-fraud-threat",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-15T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-techradar-com-pro-is-the-fca-underestimating-the-ai-fraud-threat-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
       "story_id": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
       "source_url": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
       "headline": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
@@ -73,12 +211,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-15T13:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-15T07:24:12.154Z",
-        "message_id": 391,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-15T07:24:12.154Z"
       },
       "linkedin": {
         "status": "pending"
@@ -121,7 +257,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-15T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -167,7 +303,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-15T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -213,7 +349,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-15T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -260,7 +396,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-15T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -307,145 +443,6 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-techcrunch-com-2026-09-14-nvidia-ceo-jensen-huang-tells-trump-were-not-goi-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "headline": "What execs and politicians are saying about slowing down AI development",
-      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compi",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=what-execs-and-politicians-are-saying-about-slowing-down-ai-development",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-15/What-execs-and-politicians-are-saying-about-slowing-down-AI-development-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-theverge-com-ai-artificial-intelligence-995141-ai-executives-politicia-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/a-costly-mistake-report-claims-a-third-of-employees-fired-due-to-ai-will-need-to-be-rehired-in-the-next-few-years",
-      "source_url": "https://www.techradar.com/pro/a-costly-mistake-report-claims-a-third-of-employees-fired-due-to-ai-will-need-to-be-rehired-in-the-next-few-years",
-      "headline": "A costly mistake? Report claims a third of employees fired due to AI will need to be rehired in the next few years",
-      "summary": "Gartner forecasts almost 33% of workers who were displaced by AI will be rehired by 2029 – probably on a higher salary package.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/XHBG2PFugd2NXxfu95hpLB-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/XHBG2PFugd2NXxfu95hpLB-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-costly-mistake-report-claims-a-third-of-employees-fired-due-to-ai-will-need-to-be-rehire",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-techradar-com-pro-a-costly-mistake-report-claims-a-third-of-employees--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "source_url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "headline": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "source_name": "Arstechnica",
-      "original_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1152,
-        "height": 648,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-bots-timmy-ren-and-jackie-are-flooding-social-media-with-slop",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
       "scheduled_publish_at": "2026-09-15T23:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -462,7 +459,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-arstechnica-com-ai-2026-09-ai-agents-flood-the-internet-with-slop-infused--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-15/https-techcrunch-com-2026-09-14-nvidia-ceo-jensen-huang-tells-trump-were-not-goi-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

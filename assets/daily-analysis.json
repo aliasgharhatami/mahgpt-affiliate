@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T10:39:43.146Z",
-  "analysis_date": "2026-09-14",
+  "generated_at": "2026-09-15T10:05:37.548Z",
+  "analysis_date": "2026-09-15",
   "stories": [
     {
-      "title": "Apple’s ‘Surprise’ event was a parade of unobtainable luxuries",
-      "source": "https://www.macworld.com/article/3228624/apples-surprise-event-was-a-parade-of-unobtainable-luxuries.html",
-      "mahgpt_url": "/news/story.html?id=apples-surprise-event-was-a-parade-of-unobtainable-luxuries"
+      "title": "iOS 27 is out now bringing Siri AI, better performance, and lots of QOL features",
+      "source": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
+      "mahgpt_url": "/news/story.html?id=ios-27-is-out-now-bringing-siri-ai-better-performance-and-lots-of-qol-features"
     },
     {
-      "title": "What Formula 1 teaches businesses about AI",
-      "source": "https://www.techradar.com/pro/what-formula-1-teaches-businesses-about-ai",
-      "mahgpt_url": "/news/story.html?id=what-formula-1-teaches-businesses-about-ai"
+      "title": "Why every enterprise needs an AI model exit strategy",
+      "source": "https://www.techradar.com/pro/why-every-enterprise-needs-an-ai-model-exit-strategy",
+      "mahgpt_url": "/news/story.html?id=why-every-enterprise-needs-an-ai-model-exit-strategy"
     },
     {
-      "title": "Can your Mac run macOS 27? Check the full compatibility list",
-      "source": "https://www.macworld.com/article/673697/what-version-of-macos-can-my-mac-run.html",
-      "mahgpt_url": "/news/story.html?id=can-your-mac-run-macos-27-check-the-full-compatibility-list"
+      "title": "How long does Apple support iPhones with updates?",
+      "source": "https://www.macworld.com/article/675021/how-long-does-apple-support-iphones.html",
+      "mahgpt_url": "/news/story.html?id=how-long-does-apple-support-iphones-with-updates"
     },
     {
-      "title": "'You're still going to be steamrolled by the super intelligences created in the US': UK government rejects calls for an AI 'kill switch'",
-      "source": "https://www.techradar.com/pro/youre-still-going-to-be-steamrolled-by-the-super-intelligences-created-in-the-us-uk-government-rejects-calls-for-an-ai-kill-switch",
-      "mahgpt_url": "/news/story.html?id=youre-still-going-to-be-steamrolled-by-the-super-intelligences-created-in-the-us-uk-govern"
+      "title": "Is the FCA underestimating the AI fraud threat?",
+      "source": "https://www.techradar.com/pro/is-the-fca-underestimating-the-ai-fraud-threat",
+      "mahgpt_url": "/news/story.html?id=is-the-fca-underestimating-the-ai-fraud-threat"
     },
     {
-      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
-      "source": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-      "mahgpt_url": "/news/story.html?id=i-like-my-big-rat-wife-meet-the-people-using-chatbots-to-write-custom-fiction"
+      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+      "source": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+      "mahgpt_url": "/news/story.html?id=the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future"
     },
     {
-      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
-      "source": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-      "mahgpt_url": "/news/story.html?id=why-most-enterprise-agent-pilots-never-reach-deployment"
+      "title": "Chinese vendor debuts world's first AMD Ryzen AI Max+ Pro 495 laptop, but 192GB LPDDR5X-8533 for gaming? Really??",
+      "source": "https://www.techradar.com/pro/chinese-vendor-debuts-worlds-first-amd-ryzen-ai-max-pro-495-laptop-but-192gb-lpddr5x-8533-for-gaming-really",
+      "mahgpt_url": "/news/story.html?id=chinese-vendor-debuts-worlds-first-amd-ryzen-ai-max-pro-495-laptop-but-192gb-lpddr5x-8533-"
     },
     {
-      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
-      "source": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
-      "mahgpt_url": "/news/story.html?id=from-video-to-data-how-ai-is-transforming-multimedia-content-processing"
+      "title": "Kioxia has nothing to lose, so it wants to swap expensive DDR for the world's fastest SSD ever built to save the world from AI RAMpocalypse",
+      "source": "https://www.techradar.com/pro/kioxia-has-nothing-to-lose-so-it-wants-to-swap-expensive-ddr-for-the-worlds-fastest-ssd-ever-built-to-save-the-world-from-ai-ram-pocalypse",
+      "mahgpt_url": "/news/story.html?id=kioxia-has-nothing-to-lose-so-it-wants-to-swap-expensive-ddr-for-the-worlds-fastest-ssd-ev"
     },
     {
-      "title": "How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
-      "source": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
-      "mahgpt_url": "/news/story.html?id=how-vox-group-and-8217-s-ai-powered-technology-is-solving-real-time-translation-for-group-"
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "mahgpt_url": "/news/story.html?id=is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-14.html"
+      "path": "news/analysis/2026-09-15.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-14.html"
+      "path": "es/news/analysis/2026-09-15.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-14.html"
+      "path": "de/news/analysis/2026-09-15.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-14.html"
+      "path": "fr/news/analysis/2026-09-15.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-14.html"
+      "path": "pt-BR/news/analysis/2026-09-15.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-14.html"
+      "path": "ar/news/analysis/2026-09-15.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-14.html"
+      "path": "fa/news/analysis/2026-09-15.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-14.html"
+      "path": "tr/news/analysis/2026-09-15.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-14.html"
+      "path": "it/news/analysis/2026-09-15.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-14.html"
+      "path": "ja/news/analysis/2026-09-15.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-14.html"
+      "path": "ko/news/analysis/2026-09-15.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-14.html"
+      "path": "id/news/analysis/2026-09-15.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-14.html"
+      "path": "hi/news/analysis/2026-09-15.html"
     }
   ]
 }
