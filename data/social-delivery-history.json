@@ -2686,6 +2686,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/is-the-fca-underestimating-the-ai-fraud-threat": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-15T15:34:59.444Z",
+        "message_id": 394,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
