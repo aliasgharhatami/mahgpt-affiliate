@@ -1544,6 +1544,20 @@
         "message_id": "18121887995293944",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/why-every-enterprise-needs-an-ai-model-exit-strategy": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-15T10:10:13.304Z",
+        "message_id": "18273842605305894",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-15T10:10:21.966Z",
+        "message_id": "18106154597207104",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
