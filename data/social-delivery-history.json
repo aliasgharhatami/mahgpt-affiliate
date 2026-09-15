@@ -2669,6 +2669,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/675021/how-long-does-apple-support-iphones.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-15T12:49:56.926Z",
+        "message_id": 393,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
