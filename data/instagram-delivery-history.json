@@ -1558,6 +1558,20 @@
         "message_id": "18106154597207104",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/675021/how-long-does-apple-support-iphones.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-15T15:33:47.813Z",
+        "message_id": "18617396473057012",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-15T15:33:55.917Z",
+        "message_id": "17906685195506439",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
