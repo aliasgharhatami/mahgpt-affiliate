@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T07:24:00.144Z",
+  "updatedAt": "2026-09-15T10:05:24.303Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -25,6 +25,39 @@
       "source": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
       "publishedAt": "2026-09-14T17:28:08.000Z",
       "image": "https://www.macworld.com/wp-content/uploads/2026/09/3172166-0-83159100-1789406908-ios_27_hero.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Why every enterprise needs an AI model exit strategy",
+      "summary": "Model flexibility helps enterprises protect workflows, institutional knowledge and control as AI evolves.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/why-every-enterprise-needs-an-ai-model-exit-strategy",
+      "publishedAt": "2026-09-15T09:58:40.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "How long does Apple support iPhones with updates?",
+      "summary": "Macworld If you are thinking of buying an older generation or used/refurbished iPhone , or wondering whether it’s worth upgrading your current iPhone to a new one, one important factor to consider is how long Apple will continue to support it. The good news is that Apple provides software support fo",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/675021/how-long-does-apple-support-iphones.html",
+      "publishedAt": "2026-09-15T09:57:02.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/675021-0-57513000-1789466235-iphone_8_plus14-1.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Is the FCA underestimating the AI fraud threat?",
+      "summary": "Banks must actively test AI-enabled fraud before criminals expose weaknesses.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/is-the-fca-underestimating-the-ai-fraud-threat",
+      "publishedAt": "2026-09-15T09:15:22.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -91,39 +124,6 @@
       "source": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
       "publishedAt": "2026-09-14T21:51:02.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compi",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "publishedAt": "2026-09-14T21:21:42.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "A costly mistake? Report claims a third of employees fired due to AI will need to be rehired in the next few years",
-      "summary": "Gartner forecasts almost 33% of workers who were displaced by AI will be rehired by 2029 – probably on a higher salary package.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/a-costly-mistake-report-claims-a-third-of-employees-fired-due-to-ai-will-need-to-be-rehired-in-the-next-few-years",
-      "publishedAt": "2026-09-14T21:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/XHBG2PFugd2NXxfu95hpLB-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "guide": "/news/index.html",
-      "source": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "publishedAt": "2026-09-14T21:04:32.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg"
     }
   ]
 }
