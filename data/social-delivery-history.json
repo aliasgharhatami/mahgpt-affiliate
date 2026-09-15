@@ -2618,6 +2618,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-15T01:55:12.680Z",
+        "message_id": 390,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
