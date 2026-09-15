@@ -2703,6 +2703,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/chinese-vendor-debuts-worlds-first-amd-ryzen-ai-max-pro-495-laptop-but-192gb-lpddr5x-8533-for-gaming-really": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-15T17:32:19.788Z",
+        "message_id": 395,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
