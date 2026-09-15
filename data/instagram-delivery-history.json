@@ -1572,6 +1572,20 @@
         "message_id": "17906685195506439",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/is-the-fca-underestimating-the-ai-fraud-threat": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-15T19:12:50.705Z",
+        "message_id": "17908167507307958",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-15T19:13:00.591Z",
+        "message_id": "18101381159457663",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
