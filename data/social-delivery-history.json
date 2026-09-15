@@ -2754,6 +2754,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-15T22:25:24.723Z",
+        "message_id": 398,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
