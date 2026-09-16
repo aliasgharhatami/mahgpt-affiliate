@@ -1670,6 +1670,20 @@
         "message_id": "18128321194773869",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-16T21:53:14.924Z",
+        "message_id": "18021233003872575",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-16T21:53:24.550Z",
+        "message_id": "18115737418956485",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
