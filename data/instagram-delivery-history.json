@@ -1656,6 +1656,20 @@
         "message_id": "17888166540614672",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-16T20:13:36.914Z",
+        "message_id": "18126421870832576",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-16T20:13:45.589Z",
+        "message_id": "18128321194773869",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
