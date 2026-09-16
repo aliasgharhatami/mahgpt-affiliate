@@ -1614,6 +1614,20 @@
         "message_id": "18033742256895456",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-16T10:01:25.685Z",
+        "message_id": "17933350629391152",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-16T10:01:33.695Z",
+        "message_id": "18107463920590628",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
