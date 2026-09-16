@@ -2856,6 +2856,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-16T19:03:01.412Z",
+        "message_id": 404,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
