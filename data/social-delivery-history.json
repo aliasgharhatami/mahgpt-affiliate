@@ -2805,6 +2805,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/rogue-ai-agents-arent-flukes-theyre-patterns": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-16T12:06:53.491Z",
+        "message_id": 401,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
