@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T10:05:24.303Z",
+  "updatedAt": "2026-09-16T06:35:14.982Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why every enterprise needs an AI model exit strategy",
-      "summary": "Model flexibility helps enterprises protect workflows, institutional knowledge and control as AI evolves.",
+      "title": "Autodesk’s AU26 AI pitch: let AI help you make more, not make it for you",
+      "summary": "But there's still a question left hanging – what about jobs?",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/why-every-enterprise-needs-an-ai-model-exit-strategy",
-      "publishedAt": "2026-09-15T09:58:40.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg"
+      "source": "https://www.creativebloq.com/3d/autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you",
+      "publishedAt": "2026-09-16T01:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mh2TXe66oa7inzq7pRbhR4-1600-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How long does Apple support iPhones with updates?",
-      "summary": "Macworld If you are thinking of buying an older generation or used/refurbished iPhone , or wondering whether it’s worth upgrading your current iPhone to a new one, one important factor to consider is how long Apple will continue to support it. The good news is that Apple provides software support fo",
+      "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/675021/how-long-does-apple-support-iphones.html",
-      "publishedAt": "2026-09-15T09:57:02.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/675021-0-57513000-1789466235-iphone_8_plus14-1.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "publishedAt": "2026-09-16T00:20:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Is the FCA underestimating the AI fraud threat?",
-      "summary": "Banks must actively test AI-enabled fraud before criminals expose weaknesses.",
+      "title": "Salesforce has built the TSA a new AI agent to make travelling less awful for everyone",
+      "summary": "Salesforce wants to make your TSA experience smoother with a new AI agent.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/is-the-fca-underestimating-the-ai-fraud-threat",
-      "publishedAt": "2026-09-15T09:15:22.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone",
+      "publishedAt": "2026-09-16T00:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/v2yK39jVhXuFSfFKyyZcDi-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
-      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem. By Sunny Sandhu, Senior Immigration Associate, AY&#38;J Solicitors For years, the offer tha",
+      "title": "AI might kill humanity in 10 years, but Autodesk’s CEO sees a more immediate threat to artists",
+      "summary": "Andrew Anagnost says AI needs guardrails, but the more immediate disruption for creatives is already happening in animation and VFX.",
       "guide": "/news/index.html",
-      "source": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
-      "publishedAt": "2026-09-15T07:14:47.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/thisisengineering-ZPeXrWxOjRQ-unsplash-scaled.jpg"
+      "source": "https://www.creativebloq.com/ai/ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artists",
+      "publishedAt": "2026-09-15T23:46:16.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/NwNkvrVYyFtgwKjH3jXZyG-1600-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Chinese vendor debuts world's first AMD Ryzen AI Max+ Pro 495 laptop, but 192GB LPDDR5X-8533 for gaming? Really??",
-      "summary": "SIXUNITED's new laptop pairs an AMD AI chip with 192GB of memory, aiming squarely at AI workloads over casual gaming",
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/chinese-vendor-debuts-worlds-first-amd-ryzen-ai-max-pro-495-laptop-but-192gb-lpddr5x-8533-for-gaming-really",
-      "publishedAt": "2026-09-15T02:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mPDojD3NtwnHbR3LWLSZTJ-1920-80.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "publishedAt": "2026-09-15T23:34:25.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Kioxia has nothing to lose, so it wants to swap expensive DDR for the world's fastest SSD ever built to save the world from AI RAMpocalypse",
-      "summary": "Kioxia is developing faster NAND and CXL memory products aimed at reducing AI data centers' dependence on increasingly costly conventional DRAM.",
+      "title": "OpenAI CEO Sam Altman says ‘the world is right to be afraid’ of AI influence — but that it can benefit humanity like no other technology before it",
+      "summary": "Sam Altman opens up on Hugging Face “accident”, the future of AI and humanity, and much more.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/kioxia-has-nothing-to-lose-so-it-wants-to-swap-expensive-ddr-for-the-worlds-fastest-ssd-ever-built-to-save-the-world-from-ai-ram-pocalypse",
-      "publishedAt": "2026-09-15T01:15:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/RTo7FdeFYTobu2FVQZfMii-1920-80.png"
+      "source": "https://www.techradar.com/pro/openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence-but-that-it-can-benefit-humanity-like-no-other-technology-before-it",
+      "publishedAt": "2026-09-15T22:23:03.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/w4FM89EMTyEckeVYVYGBYM-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontie",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "publishedAt": "2026-09-14T22:59:41.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "publishedAt": "2026-09-15T21:47:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple Home’s new security camera features cost as much as $60 a month",
-      "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible secur",
+      "title": "'We're going through a new industrial revolution': Nvidia CEO Jensen Huang and Anthropic CEO Dario Amodei share differing views on AI at Dreamforce 2026",
+      "summary": "Nvidia and Anthropic CEOs share their views on AI regulation and progress.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
-      "publishedAt": "2026-09-14T22:28:52.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.techradar.com/pro/were-going-through-a-new-industrial-revolution-nvidia-ceo-jensen-huang-and-anthropic-ceo-dario-amodei-share-differing-views-on-ai-at-dreamforce-2026",
+      "publishedAt": "2026-09-15T20:55:19.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/a6CcNrCYzbRg8G8yoReCih-2525-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
-      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "title": "Microsoft announces Windows and Surface event for October 7th",
+      "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the [&#",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "publishedAt": "2026-09-14T21:51:02.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
+      "source": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+      "publishedAt": "2026-09-15T20:36:59.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/image004.png?quality=90&strip=all&crop=6.2291666666667,0,87.541666666667,100"
     }
   ]
 }

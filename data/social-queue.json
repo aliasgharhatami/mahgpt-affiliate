@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-09-15",
-  "created_at": "2026-09-15T10:05:28.020Z",
-  "source_feed_updated_at": "2026-09-15T10:05:24.303Z",
+  "queue_date": "2026-09-16",
+  "created_at": "2026-09-16T06:35:15.077Z",
+  "source_feed_updated_at": "2026-09-16T06:35:14.982Z",
   "items": [
     {
       "story_id": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
@@ -25,7 +25,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-16T05:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-08-25T16:03:41.650Z"
@@ -43,7 +43,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-macworld-com-article-3172166-ios-27-beta-updates-features-release-date-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-macworld-com-article-3172166-ios-27-beta-updates-features-release-date-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -53,239 +53,105 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/why-every-enterprise-needs-an-ai-model-exit-strategy",
-      "source_url": "https://www.techradar.com/pro/why-every-enterprise-needs-an-ai-model-exit-strategy",
-      "headline": "Why every enterprise needs an AI model exit strategy",
-      "summary": "Model flexibility helps enterprises protect workflows, institutional knowledge and control as AI evolves.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
+      "story_id": "https://www.creativebloq.com/3d/autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you",
+      "source_url": "https://www.creativebloq.com/3d/autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you",
+      "headline": "Autodesk’s AU26 AI pitch: let AI help you make more, not make it for you",
+      "summary": "But there's still a question left hanging – what about jobs?",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mh2TXe66oa7inzq7pRbhR4-1600-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mh2TXe66oa7inzq7pRbhR4-1600-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
+        "width": 1600,
+        "height": 900,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-every-enterprise-needs-an-ai-model-exit-strategy",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-16T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-15T10:06:05.329Z",
-        "message_id": 392,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-15T10:10:13.304Z",
-        "message_id": "18273842605305894",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-techradar-com-pro-why-every-enterprise-needs-an-ai-model-exit-strategy-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-creativebloq-com-3d-autodesks-au26-ai-pitch-let-ai-help-you-make-more--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-15T10:10:21.966Z",
-        "message_id": "18106154597207104",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/675021/how-long-does-apple-support-iphones.html",
-      "source_url": "https://www.macworld.com/article/675021/how-long-does-apple-support-iphones.html",
-      "headline": "How long does Apple support iPhones with updates?",
-      "summary": "Macworld If you are thinking of buying an older generation or used/refurbished iPhone, or wondering whether it’s worth upgrading your current iPhone to a new one, one important factor to consider is how long Apple will continue to support it. The good news is that Apple provides software support fo",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/675021-0-57513000-1789466235-iphone_8_plus14-1.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/675021-0-57513000-1789466235-iphone_8_plus14-1.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "source_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "headline": "We don&#8217;t need AI regulation",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "source_name": "leave safety to us, Nvidia&#8217;s Jensen Huang says",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 576,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1200,
+        "height": 750,
+        "aspectRatio": 1.6,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-long-does-apple-support-iphones-with-updates",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=we-don-and-8217-t-need-ai-regulation",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-16T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-15T12:49:56.926Z",
-        "message_id": 393,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-15T15:33:47.813Z",
-        "message_id": "18617396473057012",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-macworld-com-article-675021-how-long-does-apple-support-iphones-html-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-16/https-techcrunch-com-2026-09-15-we-dont-need-ai-regulation-leave-safety-to-us-nv-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-15T15:33:55.917Z",
-        "message_id": "17906685195506439",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/is-the-fca-underestimating-the-ai-fraud-threat",
-      "source_url": "https://www.techradar.com/pro/is-the-fca-underestimating-the-ai-fraud-threat",
-      "headline": "Is the FCA underestimating the AI fraud threat?",
-      "summary": "Banks must actively test AI-enabled fraud before criminals expose weaknesses.",
+      "story_id": "https://www.techradar.com/pro/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone",
+      "source_url": "https://www.techradar.com/pro/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone",
+      "headline": "Salesforce has built the TSA a new AI agent to make travelling less awful for everyone",
+      "summary": "Salesforce wants to make your TSA experience smoother with a new AI agent.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=is-the-fca-underestimating-the-ai-fraud-threat",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-15T15:34:59.444Z",
-        "message_id": 394,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-15T19:12:50.705Z",
-        "message_id": "17908167507307958",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-techradar-com-pro-is-the-fca-underestimating-the-ai-fraud-threat-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-15T19:13:00.591Z",
-        "message_id": "18101381159457663",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
-      "source_url": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
-      "headline": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
-      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem. By Sunny Sandhu, Senior Immigration Associate, AY&#38;J Solicitors For years, the offer tha",
-      "source_name": "Artificialintelligence News",
-      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/thisisengineering-ZPeXrWxOjRQ-unsplash-scaled.jpg",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/thisisengineering-ZPeXrWxOjRQ-unsplash-scaled.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1708,
-        "aspectRatio": 1.4988290398126465,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T13:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-15T07:24:12.154Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-15T22:16:10.369Z",
-        "message_id": "17910882909495891",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-artificialintelligence-news-com-news-the-ai-talent-britain-fought-to-h-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-15T22:16:19.866Z",
-        "message_id": "18176043478441246",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/chinese-vendor-debuts-worlds-first-amd-ryzen-ai-max-pro-495-laptop-but-192gb-lpddr5x-8533-for-gaming-really",
-      "source_url": "https://www.techradar.com/pro/chinese-vendor-debuts-worlds-first-amd-ryzen-ai-max-pro-495-laptop-but-192gb-lpddr5x-8533-for-gaming-really",
-      "headline": "Chinese vendor debuts world's first AMD Ryzen AI Max+ Pro 495 laptop, but 192GB LPDDR5X-8533 for gaming? Really??",
-      "summary": "SIXUNITED's new laptop pairs an AMD AI chip with 192GB of memory, aiming squarely at AI workloads over casual gaming",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mPDojD3NtwnHbR3LWLSZTJ-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/mPDojD3NtwnHbR3LWLSZTJ-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/v2yK39jVhXuFSfFKyyZcDi-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/v2yK39jVhXuFSfFKyyZcDi-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -295,73 +161,60 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=chinese-vendor-debuts-worlds-first-amd-ryzen-ai-max-pro-495-laptop-but-192gb-lpddr5x-8533-",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-16T11:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-15T17:32:19.788Z",
-        "message_id": 395,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-15T23:41:20.484Z",
-        "message_id": "18114009689106051",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-techradar-com-pro-chinese-vendor-debuts-worlds-first-amd-ryzen-ai-max--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-techradar-com-pro-salesforce-has-built-the-tsa-a-new-ai-agent-to-make--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-15T23:41:30.023Z",
-        "message_id": "18033742256895456",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/kioxia-has-nothing-to-lose-so-it-wants-to-swap-expensive-ddr-for-the-worlds-fastest-ssd-ever-built-to-save-the-world-from-ai-ram-pocalypse",
-      "source_url": "https://www.techradar.com/pro/kioxia-has-nothing-to-lose-so-it-wants-to-swap-expensive-ddr-for-the-worlds-fastest-ssd-ever-built-to-save-the-world-from-ai-ram-pocalypse",
-      "headline": "Kioxia has nothing to lose, so it wants to swap expensive DDR for the world's fastest SSD ever built to save the world from AI RAMpocalypse",
-      "summary": "Kioxia is developing faster NAND and CXL memory products aimed at reducing AI data centers' dependence on increasingly costly conventional DRAM.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/RTo7FdeFYTobu2FVQZfMii-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/RTo7FdeFYTobu2FVQZfMii-1920-80.png",
+      "story_id": "https://www.creativebloq.com/ai/ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artists",
+      "source_url": "https://www.creativebloq.com/ai/ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artists",
+      "headline": "AI might kill humanity in 10 years, but Autodesk’s CEO sees a more immediate threat to artists",
+      "summary": "Andrew Anagnost says AI needs guardrails, but the more immediate disruption for creatives is already happening in animation and VFX.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/NwNkvrVYyFtgwKjH3jXZyG-1600-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/NwNkvrVYyFtgwKjH3jXZyG-1600-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
+        "width": 1600,
+        "height": 900,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=kioxia-has-nothing-to-lose-so-it-wants-to-swap-expensive-ddr-for-the-worlds-fastest-ssd-ev",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artis",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T17:20:00.000Z",
+      "scheduled_publish_at": "2026-09-16T13:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-15T19:11:41.454Z",
-        "message_id": 396,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -374,7 +227,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-techradar-com-pro-kioxia-has-nothing-to-lose-so-it-wants-to-swap-expen-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-creativebloq-com-ai-ai-might-kill-humanity-in-10-years-but-autodesks-c-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -384,13 +237,13 @@
       }
     },
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "headline": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontie",
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "headline": "AI and data centers are incredibly unpopular in every poll",
+      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1",
       "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_validation": {
         "valid": true,
         "width": 1200,
@@ -400,16 +253,14 @@
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-and-data-centers-are-incredibly-unpopular-in-every-poll",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-16T15:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-15T20:27:37.985Z",
-        "message_id": 397,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -421,8 +272,8 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-15/Is-Big-Tech-s-AI-slowdown-a-safety-pact-or-a-cartel--instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-theverge-com-ai-artificial-intelligence-995186-is-big-techs-ai-slowdow-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-16/AI-and-data-centers-are-incredibly-unpopular-in-every-poll-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-theverge-com-ai-artificial-intelligence-995917-data-center-nyt-midterm-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -433,32 +284,30 @@
       }
     },
     {
-      "story_id": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
-      "source_url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
-      "headline": "Apple Home’s new security camera features cost as much as $60 a month",
-      "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible secur",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "story_id": "https://www.techradar.com/pro/openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence-but-that-it-can-benefit-humanity-like-no-other-technology-before-it",
+      "source_url": "https://www.techradar.com/pro/openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence-but-that-it-can-benefit-humanity-like-no-other-technology-before-it",
+      "headline": "OpenAI CEO Sam Altman says ‘the world is right to be afraid’ of AI influence",
+      "summary": "Sam Altman opens up on Hugging Face “accident”, the future of AI and humanity, and much more.",
+      "source_name": "but that it can benefit humanity like no other technology before it",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/w4FM89EMTyEckeVYVYGBYM-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/w4FM89EMTyEckeVYVYGBYM-1920-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-homes-new-security-camera-features-cost-as-much-as-60-a-month",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-16T17:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-15T22:25:24.723Z",
-        "message_id": 398,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -470,25 +319,24 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-15/Apple-Home-s-new-security-camera-features-cost-as-much-as-60-a-month-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-www-theverge-com-tech-994949-apple-intelligence-apple-home-icloud-plus-cos-story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-techradar-com-pro-openai-ceo-sam-altman-says-the-world-is-right-to-be--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
+          "image-rejected"
         ]
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "source_url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "headline": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
-      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "story_id": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "source_url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "headline": "The AI data center boom is colliding with cities scarred by big industry",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
       "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
       "image_validation": {
         "valid": true,
         "width": 1200,
@@ -498,16 +346,14 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nvidia-ceo-jensen-huang-tells-trump-and-8216-we-and-8217-re-not-going-to-let-an-ai-slowdow",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-15T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-16T19:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-16T01:26:49.059Z",
-        "message_id": 399,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -520,7 +366,99 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-15/https-techcrunch-com-2026-09-14-nvidia-ceo-jensen-huang-tells-trump-were-not-goi-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-16/https-techcrunch-com-2026-09-15-the-ai-data-center-boom-is-colliding-with-cities-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/were-going-through-a-new-industrial-revolution-nvidia-ceo-jensen-huang-and-anthropic-ceo-dario-amodei-share-differing-views-on-ai-at-dreamforce-2026",
+      "source_url": "https://www.techradar.com/pro/were-going-through-a-new-industrial-revolution-nvidia-ceo-jensen-huang-and-anthropic-ceo-dario-amodei-share-differing-views-on-ai-at-dreamforce-2026",
+      "headline": "'We're going through a new industrial revolution': Nvidia CEO Jensen Huang and Anthropic CEO Dario Amodei share differing views on AI at Dreamforce 2026",
+      "summary": "Nvidia and Anthropic CEOs share their views on AI regulation and progress.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/a6CcNrCYzbRg8G8yoReCih-2525-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/a6CcNrCYzbRg8G8yoReCih-2525-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2525,
+        "height": 1421,
+        "aspectRatio": 1.776917663617171,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=were-going-through-a-new-industrial-revolution-nvidia-ceo-jensen-huang-and-anthropic-ceo-d",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-16T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-techradar-com-pro-were-going-through-a-new-industrial-revolution-nvidi-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+      "source_url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+      "headline": "Microsoft announces Windows and Surface event for October 7th",
+      "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the [&#",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/image004.png?quality=90&strip=all&crop=6.2291666666667,0,87.541666666667,100",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/image004.png?quality=90&strip=all&crop=6.2291666666667,0,87.541666666667,100",
+      "image_validation": {
+        "valid": true,
+        "width": 835,
+        "height": 440,
+        "aspectRatio": 1.8977272727272727,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-announces-windows-and-surface-event-for-october-7th",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-16T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-theverge-com-news-994714-microsoft-windows-surface-event-october-7-san-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
