@@ -2873,6 +2873,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/ai/ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artists": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-16T22:17:44.003Z",
+        "message_id": 405,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
