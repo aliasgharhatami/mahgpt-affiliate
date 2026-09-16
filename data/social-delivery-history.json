@@ -2822,6 +2822,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/3d/autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-16T15:26:01.117Z",
+        "message_id": 402,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
