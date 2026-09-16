@@ -1628,6 +1628,20 @@
         "message_id": "18107463920590628",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/rogue-ai-agents-arent-flukes-theyre-patterns": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-16T14:58:56.021Z",
+        "message_id": "18144480832567248",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-16T14:59:06.224Z",
+        "message_id": "18036098489664073",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
