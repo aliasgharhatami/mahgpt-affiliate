@@ -1642,6 +1642,20 @@
         "message_id": "18036098489664073",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/3d/autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-16T18:48:40.847Z",
+        "message_id": "17916022692449773",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-16T18:48:51.395Z",
+        "message_id": "17888166540614672",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
