@@ -2890,6 +2890,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-16T23:39:52.835Z",
+        "message_id": 406,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
