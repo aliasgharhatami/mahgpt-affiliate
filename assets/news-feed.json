@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T06:35:14.982Z",
+  "updatedAt": "2026-09-16T09:57:41.023Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,15 +16,26 @@
   ],
   "items": [
     {
-      "tool": "horizons",
-      "toolName": "Hostinger Horizons",
-      "category": "Partner watch",
-      "title": "iOS 27 is out now bringing Siri AI, better performance, and lots of QOL features",
-      "summary": "Macworld On the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026. After almost exactly three months of beta releases, fixes, tweaks, and optim",
-      "guide": "/partners/horizons.html",
-      "source": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
-      "publishedAt": "2026-09-14T17:28:08.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3172166-0-83159100-1789406908-ios_27_hero.jpg?quality=50&strip=all&w=1024"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+      "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+      "publishedAt": "2026-09-16T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6aa8339f6d59a577994203cf/191:100/w_1280,c_limit/China-Not-Buying-Silicon-Valley-Call-for-AI-Pause-Business-2286390787.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Rogue AI agents aren’t flukes, they’re patterns",
+      "summary": "AI models are escaping containment. Optiv security leader explains this pattern and what's next.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/rogue-ai-agents-arent-flukes-theyre-patterns",
+      "publishedAt": "2026-09-16T08:59:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -113,17 +124,6 @@
       "source": "https://www.techradar.com/pro/were-going-through-a-new-industrial-revolution-nvidia-ceo-jensen-huang-and-anthropic-ceo-dario-amodei-share-differing-views-on-ai-at-dreamforce-2026",
       "publishedAt": "2026-09-15T20:55:19.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/a6CcNrCYzbRg8G8yoReCih-2525-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Microsoft announces Windows and Surface event for October 7th",
-      "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the [&#",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
-      "publishedAt": "2026-09-15T20:36:59.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/image004.png?quality=90&strip=all&crop=6.2291666666667,0,87.541666666667,100"
     }
   ]
 }
