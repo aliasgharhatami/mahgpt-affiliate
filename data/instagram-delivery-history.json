@@ -1726,6 +1726,20 @@
         "message_id": "18031635965845556",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/chatgpt/think-you-can-spot-a-chatgpt-image-take-my-real-or-ai-quiz-and-see-how-many-fool-you": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-17T14:42:04.965Z",
+        "message_id": "18625054849016064",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-17T14:42:13.888Z",
+        "message_id": "18069243707735134",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
