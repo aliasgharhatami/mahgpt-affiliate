@@ -4,6 +4,8 @@ const MAX_IMAGE_BYTES = 30 * 1024 * 1024;
 const MAX_VIDEO_BYTES = 200 * 1024 * 1024;
 const ALLOWED_IMAGE_TYPES = new Set(['image/jpeg', 'image/png', 'image/webp']);
 const ALLOWED_VIDEO_TYPES = new Set(['video/mp4', 'video/quicktime', 'video/x-matroska']);
+const IMAGE_EXTENSIONS = new Set(['jpg', 'jpeg', 'png', 'webp']);
+const VIDEO_EXTENSIONS = new Set(['mp4', 'mov', 'mkv']);
 const MAX_REFERENCE_VIDEOS = 3;
 const MAX_REFERENCE_VIDEO_SECONDS = 30;
 const HISTORY_KEY = 'mahgpt-video-studio-history-v2';
@@ -17,7 +19,15 @@ function show(el, visible = true) { el.classList.toggle('hidden', !visible); }
 function sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)); }
 function escapeHtml(value = '') { return value.replace(/[&<>'\"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[c])); }
 function setError(message = '') { const el = $('#formError'); el.textContent = message; show(el, Boolean(message)); }
-function toast(message) { const old = $('.toast'); if (old) old.remove(); const el = document.createElement('div'); el.className = 'toast'; el.textContent = message; document.body.appendChild(el); setTimeout(() => el.remove(), 2200); }
+function toast(message) { const old = $('.toast'); if (old) old.remove(); const el = document.createElement('div'); el.className = 'toast'; el.textContent = message; document.body.appendChild(el); setTimeout(() => el.remove(), 2600); }
+function fileExtension(name = '') { const m = String(name).toLowerCase().match(/\.([a-z0-9]+)$/); return m ? m[1] : ''; }
+function classifyReferenceFile(file) {
+  const ext = fileExtension(file?.name);
+  if (ALLOWED_IMAGE_TYPES.has(file?.type) || IMAGE_EXTENSIONS.has(ext)) return 'image';
+  if (ALLOWED_VIDEO_TYPES.has(file?.type) || VIDEO_EXTENSIONS.has(ext)) return 'video';
+  return null;
+}
+function formatSeconds(value) { return Number.isFinite(value) ? `${value.toFixed(value >= 10 ? 1 : 2)}s` : 'duration unknown'; }
 
 function setMode(mode) {
   state.mode = mode;
@@ -45,24 +55,56 @@ function renderReferences() {
   retagReferences();
   const grid = $('#referenceGrid'); grid.innerHTML = '';
   state.references.forEach((ref, index) => {
-    const card = document.createElement('div'); card.className = 'reference-card';
+    const card = document.createElement('div');
+    card.className = 'reference-card';
+    card.style.position = 'relative';
+    card.dataset.kind = ref.kind;
+
     let media;
     if (ref.kind === 'video') {
-      media = document.createElement('video'); media.src = ref.previewUrl; media.muted = true; media.playsInline = true; media.preload = 'metadata';
-      media.style.width = '100%'; media.style.aspectRatio = '1 / 1'; media.style.objectFit = 'cover'; media.style.display = 'block';
+      media = document.createElement('video');
+      media.src = ref.previewUrl; media.muted = true; media.playsInline = true; media.preload = 'metadata';
+      media.style.width = '100%'; media.style.aspectRatio = '1 / 1'; media.style.objectFit = 'cover'; media.style.display = 'block'; media.style.background = '#050509';
+      media.title = 'Click to preview this video reference';
+      media.addEventListener('click', () => { if (media.paused) media.play().catch(() => {}); else media.pause(); });
+
+      const badge = document.createElement('div');
+      badge.textContent = '▶ VIDEO';
+      badge.style.position = 'absolute'; badge.style.left = '8px'; badge.style.top = '8px'; badge.style.zIndex = '3';
+      badge.style.padding = '4px 7px'; badge.style.borderRadius = '999px'; badge.style.fontSize = '10px'; badge.style.fontWeight = '800';
+      badge.style.background = 'rgba(0,0,0,.78)'; badge.style.border = '1px solid rgba(255,255,255,.28)'; badge.style.color = '#fff';
+      card.appendChild(badge);
+
+      const durationBadge = document.createElement('div');
+      durationBadge.textContent = formatSeconds(ref.duration);
+      durationBadge.style.position = 'absolute'; durationBadge.style.right = '8px'; durationBadge.style.bottom = '34px'; durationBadge.style.zIndex = '3';
+      durationBadge.style.padding = '3px 6px'; durationBadge.style.borderRadius = '6px'; durationBadge.style.fontSize = '9px';
+      durationBadge.style.background = 'rgba(0,0,0,.78)'; durationBadge.style.color = '#fff';
+      card.appendChild(durationBadge);
     } else {
       media = document.createElement('img'); media.src = ref.previewUrl; media.alt = `Reference image ${ref.tag}`;
+      const badge = document.createElement('div');
+      badge.textContent = 'IMAGE';
+      badge.style.position = 'absolute'; badge.style.left = '8px'; badge.style.top = '8px'; badge.style.zIndex = '3';
+      badge.style.padding = '4px 7px'; badge.style.borderRadius = '999px'; badge.style.fontSize = '10px'; badge.style.fontWeight = '800';
+      badge.style.background = 'rgba(0,0,0,.72)'; badge.style.border = '1px solid rgba(255,255,255,.2)'; badge.style.color = '#fff';
+      card.appendChild(badge);
     }
+
     const tag = document.createElement('button'); tag.type = 'button'; tag.className = 'reference-tag'; tag.textContent = ref.tag; tag.title = `Insert ${ref.tag} into prompt`; tag.onclick = () => insertAtCursor(ref.tag);
     const remove = document.createElement('button'); remove.type = 'button'; remove.className = 'remove-ref'; remove.textContent = '×'; remove.title = `Remove ${ref.kind}`;
     remove.onclick = () => { URL.revokeObjectURL(ref.previewUrl); state.references.splice(index, 1); renderReferences(); };
-    card.append(media, tag, remove); grid.appendChild(card);
+    const filename = document.createElement('div');
+    filename.textContent = ref.file?.name || ref.kind;
+    filename.title = filename.textContent;
+    filename.style.fontSize = '9px'; filename.style.opacity = '.7'; filename.style.padding = '4px 4px 0'; filename.style.whiteSpace = 'nowrap'; filename.style.overflow = 'hidden'; filename.style.textOverflow = 'ellipsis';
+    card.append(media, tag, remove, filename); grid.appendChild(card);
   });
   show($('#referencesToolbar'), state.references.length > 0);
   const videos = state.references.filter(x => x.kind === 'video');
   const knownDuration = videos.reduce((sum, x) => sum + (Number.isFinite(x.duration) ? x.duration : 0), 0);
   const info = $('#referenceLimits');
-  if (info) info.textContent = videos.length ? `${videos.length}/${MAX_REFERENCE_VIDEOS} video refs · ${knownDuration.toFixed(1)}s known total (max 30s)` : 'Images up to 30 MB · videos up to 200 MB · up to 3 video refs / 30s total';
+  if (info) info.textContent = videos.length ? `${videos.length}/${MAX_REFERENCE_VIDEOS} video refs selected · ${knownDuration.toFixed(1)}s known total (max 30s)` : 'Images up to 30 MB · videos up to 200 MB · up to 3 video refs / 30s total';
 }
 
 function getVideoDuration(file) {
@@ -76,9 +118,11 @@ function getVideoDuration(file) {
 
 async function addFiles(files) {
   setError('');
+  let addedImages = 0, addedVideos = 0;
   for (const file of files) {
-    const isImage = ALLOWED_IMAGE_TYPES.has(file.type); const isVideo = ALLOWED_VIDEO_TYPES.has(file.type);
-    if (!isImage && !isVideo) { setError(`${file.name}: supported files are JPEG, PNG, WebP, MP4, MOV and MKV.`); continue; }
+    const kind = classifyReferenceFile(file);
+    const isImage = kind === 'image'; const isVideo = kind === 'video';
+    if (!kind) { setError(`${file.name}: supported files are JPEG, PNG, WebP, MP4, MOV and MKV.`); continue; }
     if (isImage && file.size > MAX_IMAGE_BYTES) { setError(`${file.name}: each image must be 30 MB or smaller.`); continue; }
     if (isVideo && file.size > MAX_VIDEO_BYTES) { setError(`${file.name}: each video must be 200 MB or smaller.`); continue; }
     if (isVideo && state.references.filter(x => x.kind === 'video').length >= MAX_REFERENCE_VIDEOS) { setError(`Seedance reference videos are limited to ${MAX_REFERENCE_VIDEOS} files in this studio.`); continue; }
@@ -87,9 +131,13 @@ async function addFiles(files) {
       const current = state.references.filter(x => x.kind === 'video').reduce((sum, x) => sum + (Number.isFinite(x.duration) ? x.duration : 0), 0);
       if (current + duration > MAX_REFERENCE_VIDEO_SECONDS + 0.05) { setError(`${file.name}: reference videos may total at most 30 seconds.`); continue; }
     }
-    state.references.push({ file, kind: isVideo ? 'video' : 'image', duration, previewUrl: URL.createObjectURL(file), uploadedUrl: null, tag: '' });
+    state.references.push({ file, kind, duration, previewUrl: URL.createObjectURL(file), uploadedUrl: null, tag: '' });
+    if (isVideo) addedVideos++; else addedImages++;
   }
-  if (state.references.length) setMode('reference'); renderReferences();
+  if (state.references.length) setMode('reference');
+  renderReferences();
+  if (addedVideos) toast(`${addedVideos} video reference${addedVideos > 1 ? 's' : ''} selected — look for @Video1 below.`);
+  else if (addedImages) toast(`${addedImages} image reference${addedImages > 1 ? 's' : ''} selected.`);
 }
 
 function updateCharCount() { $('#charCount').textContent = $('#prompt').value.length.toLocaleString(); }
@@ -172,12 +220,12 @@ $('#generateButton').addEventListener('click', generate); $('#newGeneration').ad
 const dropzone = $('#dropzone'); ['dragenter','dragover'].forEach(name => dropzone.addEventListener(name, e => { e.preventDefault(); dropzone.classList.add('drag'); })); ['dragleave','drop'].forEach(name => dropzone.addEventListener(name, e => { e.preventDefault(); dropzone.classList.remove('drag'); })); dropzone.addEventListener('drop', async e => addFiles([...e.dataTransfer.files]));
 
 const fileInput = $('#imageInput');
-fileInput.accept = 'image/jpeg,image/png,image/webp,video/mp4,video/quicktime,video/x-matroska,.mov,.mkv';
+fileInput.accept = 'image/jpeg,image/png,image/webp,video/mp4,video/quicktime,video/x-matroska,.mp4,.mov,.mkv';
 const refSection = $('#referenceSection');
 const refLabel = refSection.querySelector('.field-label-row label'); if (refLabel) refLabel.textContent = 'Reference images & videos';
 const refMeta = refSection.querySelector('.field-label-row span'); if (refMeta) refMeta.textContent = 'Images: JPEG/PNG/WebP · Videos: MP4/MOV/MKV';
 const dzStrong = $('#dropzone strong'); if (dzStrong) dzStrong.textContent = 'Drop images or videos here';
-const toolbarCopy = $('#referencesToolbar p'); if (toolbarCopy) toolbarCopy.innerHTML = 'Use <code>@Image1</code>, <code>@Image2</code>… for images and <code>@Video1</code>, <code>@Video2</code>… for videos.';
+const toolbarCopy = $('#referencesToolbar p'); if (toolbarCopy) toolbarCopy.innerHTML = 'Selected videos appear with a <b>VIDEO</b> badge and use <code>@Video1</code>, <code>@Video2</code>… · Images use <code>@Image1</code>, <code>@Image2</code>…';
 const limits = document.createElement('p'); limits.id = 'referenceLimits'; limits.className = 'hint'; limits.style.marginTop = '10px'; refSection.appendChild(limits);
 const referenceMode = $('.mode[data-mode="reference"]'); if (referenceMode) { const strong = referenceMode.querySelector('strong'); const small = referenceMode.querySelector('small'); if (strong) strong.textContent = 'References → Video'; if (small) small.textContent = 'Use images and/or videos as references'; }
 setMode('text'); readSettings(); updateCharCount(); renderReferences(); renderHistory(); resetOutput(); checkHealth();
