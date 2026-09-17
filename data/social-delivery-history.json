@@ -2924,6 +2924,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/the-end-of-rip-and-replace-new-survey-finds-businesses-are-sticking-it-out-with-legacy-tech": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-17T06:09:38.623Z",
+        "message_id": 408,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

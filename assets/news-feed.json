@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T09:57:41.023Z",
+  "updatedAt": "2026-09-17T06:09:29.524Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-      "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
+      "title": "The end of 'rip and replace'? New survey finds businesses are sticking it out with legacy tech",
+      "summary": "Despite scaling to AI, many businesses are keeping hold of older hardware, opting to upgrade existing devices wherever possible, rather than replace them.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-      "publishedAt": "2026-09-16T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6aa8339f6d59a577994203cf/191:100/w_1280,c_limit/China-Not-Buying-Silicon-Valley-Call-for-AI-Pause-Business-2286390787.jpg"
+      "source": "https://www.techradar.com/pro/the-end-of-rip-and-replace-new-survey-finds-businesses-are-sticking-it-out-with-legacy-tech",
+      "publishedAt": "2026-09-17T06:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/synLobxmTXs8M9hwrRiLx8-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Rogue AI agents aren’t flukes, they’re patterns",
-      "summary": "AI models are escaping containment. Optiv security leader explains this pattern and what's next.",
+      "title": "‘We’re not stopping’: Salesforce UK&I CEO calls for greater training and skills as it continues on its “mission” to boost workers across the country",
+      "summary": "Salesforce UK&I CEO says greater AI skills and training can benefit users across the country.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/rogue-ai-agents-arent-flukes-theyre-patterns",
-      "publishedAt": "2026-09-16T08:59:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/were-not-stopping-salesforce-uk-and-i-ceo-calls-for-greater-training-and-skills-as-it-continues-on-its-mission-to-boost-workers-across-the-country",
+      "publishedAt": "2026-09-17T05:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6wtzTiLoEYW3oCzFJp2TFn-970-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Autodesk’s AU26 AI pitch: let AI help you make more, not make it for you",
-      "summary": "But there's still a question left hanging – what about jobs?",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/3d/autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you",
-      "publishedAt": "2026-09-16T01:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mh2TXe66oa7inzq7pRbhR4-1600-80.jpg"
+      "source": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "publishedAt": "2026-09-17T05:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "publishedAt": "2026-09-16T00:20:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
+      "source": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-17T03:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Salesforce has built the TSA a new AI agent to make travelling less awful for everyone",
-      "summary": "Salesforce wants to make your TSA experience smoother with a new AI agent.",
+      "title": "Al Gore says the real AI risk isn&#8217;t data centers",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone",
-      "publishedAt": "2026-09-16T00:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/v2yK39jVhXuFSfFKyyZcDi-1920-80.jpg"
+      "source": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "publishedAt": "2026-09-16T23:43:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Al-Gore.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI might kill humanity in 10 years, but Autodesk’s CEO sees a more immediate threat to artists",
-      "summary": "Andrew Anagnost says AI needs guardrails, but the more immediate disruption for creatives is already happening in animation and VFX.",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as a",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/ai/ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artists",
-      "publishedAt": "2026-09-15T23:46:16.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/NwNkvrVYyFtgwKjH3jXZyG-1600-80.jpg"
+      "source": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "publishedAt": "2026-09-16T23:40:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&strip=all&crop=5.0466377440347%2C0%2C89.906724511931%2C100&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1",
+      "title": "Snap introduces a standalone AI assistant, Specs Intelligence",
+      "summary": "The new assistant works with the company's new AR glasses, but will also have its own mobile and desktop apps.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "publishedAt": "2026-09-15T23:34:25.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence/",
+      "publishedAt": "2026-09-16T23:40:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/snap-introduces-a-standalone-ai-assistant-specs-intelligence/l-intro-1789590420.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI CEO Sam Altman says ‘the world is right to be afraid’ of AI influence — but that it can benefit humanity like no other technology before it",
-      "summary": "Sam Altman opens up on Hugging Face “accident”, the future of AI and humanity, and much more.",
+      "title": "How the mighty have fallen — the notorious Stuxnet malware source code has been replicated and posted on GitHub for all to see",
+      "summary": "Recreating a prolific malware using a mix of publicly available decompiled binaries and AI?",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence-but-that-it-can-benefit-humanity-like-no-other-technology-before-it",
-      "publishedAt": "2026-09-15T22:23:03.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/w4FM89EMTyEckeVYVYGBYM-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/security/how-the-mighty-have-fallen-the-notorious-stuxnet-malware-source-code-has-been-replicated-and-posted-on-github-for-all-to-see",
+      "publishedAt": "2026-09-16T23:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "publishedAt": "2026-09-15T21:47:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800"
+      "source": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "publishedAt": "2026-09-16T22:07:24.000Z",
+      "image": "https://media.wired.com/photos/6aaade9cf251bfe9554bf39a/191:100/w_1280,c_limit/OpenAI-Releases-New-AI-Policy-Business-2294958021.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'We're going through a new industrial revolution': Nvidia CEO Jensen Huang and Anthropic CEO Dario Amodei share differing views on AI at Dreamforce 2026",
-      "summary": "Nvidia and Anthropic CEOs share their views on AI regulation and progress.",
+      "title": "Forget AI ending humanity; what people are really worried about is AI taking their jobs — even if that's not exactly what's happening",
+      "summary": "AI doomsday scenarios cloud the growing, real-time concerns of a growing number of young people who see technology and AI taking their jobs. What's really going on?",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/were-going-through-a-new-industrial-revolution-nvidia-ceo-jensen-huang-and-anthropic-ceo-dario-amodei-share-differing-views-on-ai-at-dreamforce-2026",
-      "publishedAt": "2026-09-15T20:55:19.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/a6CcNrCYzbRg8G8yoReCih-2525-80.jpg"
+      "source": "https://www.techradar.com/ai-platforms-assistants/forget-ai-ending-humanity-what-people-are-really-worried-about-is-ai-taking-their-jobs-even-if-thats-not-exactly-whats-happening",
+      "publishedAt": "2026-09-16T21:11:12.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YuCLf7xjRg2vqTaEQiTWDH-1920-80.jpg"
     }
   ]
 }

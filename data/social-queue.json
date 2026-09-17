@@ -1,69 +1,17 @@
 {
   "version": 1,
-  "queue_date": "2026-09-16",
-  "created_at": "2026-09-16T09:57:44.822Z",
-  "source_feed_updated_at": "2026-09-16T09:57:41.023Z",
+  "queue_date": "2026-09-17",
+  "created_at": "2026-09-17T06:09:29.611Z",
+  "source_feed_updated_at": "2026-09-17T06:09:29.524Z",
   "items": [
     {
-      "story_id": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-      "source_url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-      "headline": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-      "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6aa8339f6d59a577994203cf/191:100/w_1280,c_limit/China-Not-Buying-Silicon-Valley-Call-for-AI-Pause-Business-2286390787.jpg",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=china-isnt-buying-silicon-valleys-call-for-an-ai-slowdown",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-16T05:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-16T09:58:17.846Z",
-        "message_id": 400,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-16T10:01:25.685Z",
-        "message_id": "17933350629391152",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "assets/social-cards/2026-09-16/China-Isn-t-Buying-Silicon-Valley-s-Call-for-an-AI-Slowdown-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-09-16/China-Isn-t-Buying-Silicon-Valley-s-Call-for-an-AI-Slowdown-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-wired-com-story-china-isnt-buying-silicon-valley-call-for-ai-slowdown--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-missing-source"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-16T10:01:33.695Z",
-        "message_id": "18107463920590628",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/rogue-ai-agents-arent-flukes-theyre-patterns",
-      "source_url": "https://www.techradar.com/pro/rogue-ai-agents-arent-flukes-theyre-patterns",
-      "headline": "Rogue AI agents aren’t flukes, they’re patterns",
-      "summary": "AI models are escaping containment. Optiv security leader explains this pattern and what's next.",
+      "story_id": "https://www.techradar.com/pro/the-end-of-rip-and-replace-new-survey-finds-businesses-are-sticking-it-out-with-legacy-tech",
+      "source_url": "https://www.techradar.com/pro/the-end-of-rip-and-replace-new-survey-finds-businesses-are-sticking-it-out-with-legacy-tech",
+      "headline": "The end of 'rip and replace'? New survey finds businesses are sticking it out with legacy tech",
+      "summary": "Despite scaling to AI, many businesses are keeping hold of older hardware, opting to upgrade existing devices wherever possible, rather than replace them.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/synLobxmTXs8M9hwrRiLx8-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/synLobxmTXs8M9hwrRiLx8-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
@@ -73,359 +21,108 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=rogue-ai-agents-arent-flukes-theyre-patterns",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-end-of-rip-and-replace-new-survey-finds-businesses-are-sticking-it-out-with-legacy-tec",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-16T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-17T05:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-09-16T12:06:53.491Z",
-        "message_id": 401,
+        "published_at": "2026-09-17T06:09:38.623Z",
+        "message_id": 408,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-16T14:58:56.021Z",
-        "message_id": "18144480832567248",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-techradar-com-pro-rogue-ai-agents-arent-flukes-theyre-patterns-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-techradar-com-pro-the-end-of-rip-and-replace-new-survey-finds-business-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-16T14:59:06.224Z",
-        "message_id": "18036098489664073",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.creativebloq.com/3d/autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you",
-      "source_url": "https://www.creativebloq.com/3d/autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you",
-      "headline": "Autodesk’s AU26 AI pitch: let AI help you make more, not make it for you",
-      "summary": "But there's still a question left hanging – what about jobs?",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mh2TXe66oa7inzq7pRbhR4-1600-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/mh2TXe66oa7inzq7pRbhR4-1600-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 900,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-16T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-16T15:26:01.117Z",
-        "message_id": 402,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-16T18:48:40.847Z",
-        "message_id": "17916022692449773",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-creativebloq-com-3d-autodesks-au26-ai-pitch-let-ai-help-you-make-more--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-16T18:48:51.395Z",
-        "message_id": "17888166540614672",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "source_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "headline": "We don&#8217;t need AI regulation",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "source_name": "leave safety to us, Nvidia&#8217;s Jensen Huang says",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 750,
-        "aspectRatio": 1.6,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=we-don-and-8217-t-need-ai-regulation",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-16T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-16T16:57:37.853Z",
-        "message_id": 403,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-16T20:13:36.914Z",
-        "message_id": "18126421870832576",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-16/https-techcrunch-com-2026-09-15-we-dont-need-ai-regulation-leave-safety-to-us-nv-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-16T20:13:45.589Z",
-        "message_id": "18128321194773869",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone",
-      "source_url": "https://www.techradar.com/pro/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone",
-      "headline": "Salesforce has built the TSA a new AI agent to make travelling less awful for everyone",
-      "summary": "Salesforce wants to make your TSA experience smoother with a new AI agent.",
+      "story_id": "https://www.techradar.com/pro/were-not-stopping-salesforce-uk-and-i-ceo-calls-for-greater-training-and-skills-as-it-continues-on-its-mission-to-boost-workers-across-the-country",
+      "source_url": "https://www.techradar.com/pro/were-not-stopping-salesforce-uk-and-i-ceo-calls-for-greater-training-and-skills-as-it-continues-on-its-mission-to-boost-workers-across-the-country",
+      "headline": "‘We’re not stopping’: Salesforce UK&I CEO calls for greater training and skills as it continues on its “mission” to boost workers across the country",
+      "summary": "Salesforce UK&I CEO says greater AI skills and training can benefit users across the country.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/v2yK39jVhXuFSfFKyyZcDi-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/v2yK39jVhXuFSfFKyyZcDi-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6wtzTiLoEYW3oCzFJp2TFn-970-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6wtzTiLoEYW3oCzFJp2TFn-970-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 970,
+        "height": 548,
+        "aspectRatio": 1.77007299270073,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=were-not-stopping-salesforce-uk-and-i-ceo-calls-for-greater-training-and-skills-as-it-cont",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-16T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-17T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-16T19:03:01.412Z",
-        "message_id": 404,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-16T21:53:14.924Z",
-        "message_id": "18021233003872575",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-techradar-com-pro-salesforce-has-built-the-tsa-a-new-ai-agent-to-make--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-techradar-com-pro-were-not-stopping-salesforce-uk-and-i-ceo-calls-for--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-16T21:53:24.550Z",
-        "message_id": "18115737418956485",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.creativebloq.com/ai/ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artists",
-      "source_url": "https://www.creativebloq.com/ai/ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artists",
-      "headline": "AI might kill humanity in 10 years, but Autodesk’s CEO sees a more immediate threat to artists",
-      "summary": "Andrew Anagnost says AI needs guardrails, but the more immediate disruption for creatives is already happening in animation and VFX.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/NwNkvrVYyFtgwKjH3jXZyG-1600-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/NwNkvrVYyFtgwKjH3jXZyG-1600-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 900,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artis",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-16T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-16T22:17:44.003Z",
-        "message_id": 405,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-16T23:40:33.243Z",
-        "message_id": "17914703838455194",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-creativebloq-com-ai-ai-might-kill-humanity-in-10-years-but-autodesks-c-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-16T23:40:42.307Z",
-        "message_id": "18064090634685326",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "headline": "AI and data centers are incredibly unpopular in every poll",
-      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "story_id": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "source_url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "headline": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-and-data-centers-are-incredibly-unpopular-in-every-poll",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-16T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-16T23:39:52.835Z",
-        "message_id": 406,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-17T01:40:47.918Z",
-        "message_id": "18096092882106818",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-16/AI-and-data-centers-are-incredibly-unpopular-in-every-poll-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-theverge-com-ai-artificial-intelligence-995917-data-center-nyt-midterm-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-17T01:40:58.566Z",
-        "message_id": "18105422381185202",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence-but-that-it-can-benefit-humanity-like-no-other-technology-before-it",
-      "source_url": "https://www.techradar.com/pro/openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence-but-that-it-can-benefit-humanity-like-no-other-technology-before-it",
-      "headline": "OpenAI CEO Sam Altman says ‘the world is right to be afraid’ of AI influence",
-      "summary": "Sam Altman opens up on Hugging Face “accident”, the future of AI and humanity, and much more.",
-      "source_name": "but that it can benefit humanity like no other technology before it",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/w4FM89EMTyEckeVYVYGBYM-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/w4FM89EMTyEckeVYVYGBYM-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "height": 670,
+        "aspectRatio": 1.791044776119403,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=iceland-based-treble-raises-18-million-for-its-voice-simulation-platform",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-16T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-17T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-17T01:09:07.938Z",
-        "message_id": 407,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -438,7 +135,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-techradar-com-pro-openai-ceo-sam-altman-says-the-world-is-right-to-be--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-17/https-techcrunch-com-2026-09-16-iceland-based-treble-raises-18-million-for-its-v-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -448,13 +145,13 @@
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "source_url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "headline": "The AI data center boom is colliding with cities scarred by big industry",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "story_id": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "source_url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "headline": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
       "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
       "image_validation": {
         "valid": true,
         "width": 1200,
@@ -464,11 +161,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-16T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-17T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -484,7 +181,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-16/https-techcrunch-com-2026-09-15-the-ai-data-center-boom-is-colliding-with-cities-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-17/https-techcrunch-com-2026-09-16-your-startups-next-teammate-might-be-an-ai-agent-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -494,27 +191,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/were-going-through-a-new-industrial-revolution-nvidia-ceo-jensen-huang-and-anthropic-ceo-dario-amodei-share-differing-views-on-ai-at-dreamforce-2026",
-      "source_url": "https://www.techradar.com/pro/were-going-through-a-new-industrial-revolution-nvidia-ceo-jensen-huang-and-anthropic-ceo-dario-amodei-share-differing-views-on-ai-at-dreamforce-2026",
-      "headline": "'We're going through a new industrial revolution': Nvidia CEO Jensen Huang and Anthropic CEO Dario Amodei share differing views on AI at Dreamforce 2026",
-      "summary": "Nvidia and Anthropic CEOs share their views on AI regulation and progress.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/a6CcNrCYzbRg8G8yoReCih-2525-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/a6CcNrCYzbRg8G8yoReCih-2525-80.jpg",
+      "story_id": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "source_url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "headline": "Al Gore says the real AI risk isn&#8217;t data centers",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Al-Gore.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Al-Gore.jpg?resize=1200,800",
       "image_validation": {
         "valid": true,
-        "width": 2525,
-        "height": 1421,
-        "aspectRatio": 1.776917663617171,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=were-going-through-a-new-industrial-revolution-nvidia-ceo-jensen-huang-and-anthropic-ceo-d",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=al-gore-says-the-real-ai-risk-isn-and-8217-t-data-centers",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-16T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-17T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -530,7 +227,238 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-16/https-www-techradar-com-pro-were-going-through-a-new-industrial-revolution-nvidi-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-17/https-techcrunch-com-2026-09-16-al-gore-has-a-surprisingly-calm-take-on-the-ai-d-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "source_url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "headline": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as a",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&strip=all&crop=5.0466377440347%2C0%2C89.906724511931%2C100&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&strip=all&crop=5.0466377440347%2C0%2C89.906724511931%2C100&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1199,
+        "height": 634,
+        "aspectRatio": 1.891167192429022,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=snap-is-launching-a-new-specs-ai-tool-and-its-coming-to-ios-and-mac",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-17T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-theverge-com-tech-996078-snap-specs-intelligence-ai-agent-ios-mac-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence/",
+      "source_url": "https://www.engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence/",
+      "headline": "Snap introduces a standalone AI assistant, Specs Intelligence",
+      "summary": "The new assistant works with the company's new AR glasses, but will also have its own mobile and desktop apps.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/snap-introduces-a-standalone-ai-assistant-specs-intelligence/l-intro-1789590420.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/snap-introduces-a-standalone-ai-assistant-specs-intelligence/l-intro-1789590420.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=snap-introduces-a-standalone-ai-assistant-specs-intelligence",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-17T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-engadget-com-2260736-snap-introduces-a-standalone-ai-assistant-specs-i-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/security/how-the-mighty-have-fallen-the-notorious-stuxnet-malware-source-code-has-been-replicated-and-posted-on-github-for-all-to-see",
+      "source_url": "https://www.techradar.com/pro/security/how-the-mighty-have-fallen-the-notorious-stuxnet-malware-source-code-has-been-replicated-and-posted-on-github-for-all-to-see",
+      "headline": "How the mighty have fallen — the notorious Stuxnet malware source code has been replicated and posted on GitHub for all to see",
+      "summary": "Recreating a prolific malware using a mix of publicly available decompiled binaries and AI?",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1609,
+        "aspectRatio": 1.591050341827222,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-the-mighty-have-fallen-the-notorious-stuxnet-malware-source-code-has-been-replicated-a",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-17T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-techradar-com-pro-security-how-the-mighty-have-fallen-the-notorious-st-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "source_url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "headline": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6aaade9cf251bfe9554bf39a/191:100/w_1280,c_limit/OpenAI-Releases-New-AI-Policy-Business-2294958021.jpg",
+      "image_url": "https://media.wired.com/photos/6aaade9cf251bfe9554bf39a/191:100/w_1280,c_limit/OpenAI-Releases-New-AI-Policy-Business-2294958021.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-creates-a-new-framework-to-disclose-bad-ai-behavior",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-17T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-17/OpenAI-Creates-a-New-Framework-to-Disclose-Bad-AI-Behavior-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-wired-com-story-openai-releases-new-policy-for-reporting-incidents-of--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/forget-ai-ending-humanity-what-people-are-really-worried-about-is-ai-taking-their-jobs-even-if-thats-not-exactly-whats-happening",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/forget-ai-ending-humanity-what-people-are-really-worried-about-is-ai-taking-their-jobs-even-if-thats-not-exactly-whats-happening",
+      "headline": "Forget AI ending humanity; what people are really worried about is AI taking their jobs",
+      "summary": "AI doomsday scenarios cloud the growing, real-time concerns of a growing number of young people who see technology and AI taking their jobs. What's really going on?",
+      "source_name": "even if that's not exactly what's happening",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/YuCLf7xjRg2vqTaEQiTWDH-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YuCLf7xjRg2vqTaEQiTWDH-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1081,
+        "aspectRatio": 1.7761332099907492,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=forget-ai-ending-humanity-what-people-are-really-worried-about-is-ai-taking-their-jobs",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-17T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-techradar-com-ai-platforms-assistants-forget-ai-ending-humanity-what-p-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
