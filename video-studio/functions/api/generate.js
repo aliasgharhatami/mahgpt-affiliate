@@ -17,6 +17,7 @@ export async function onRequestPost({ request, env }) {
     const mode = body?.mode === 'reference' ? 'reference' : 'text';
     const prompt = String(body?.prompt || '').trim();
     const images = Array.isArray(body?.images) ? body.images.filter(x => typeof x === 'string' && /^https:\/\//i.test(x)) : [];
+    const videos = Array.isArray(body?.videos) ? body.videos.filter(x => typeof x === 'string' && /^https:\/\//i.test(x)) : [];
     const duration = Number(body?.duration);
     const resolution = String(body?.resolution || '');
     const aspectRatio = String(body?.aspectRatio || 'adaptive');
@@ -27,7 +28,8 @@ export async function onRequestPost({ request, env }) {
     if (!DURATIONS.has(duration)) return json({ error: 'Duration must be 10, 20 or 30 seconds.' }, 400);
     if (!RESOLUTIONS.has(resolution)) return json({ error: 'Resolution must be 480p, 720p or 1080p.' }, 400);
     if (!RATIOS.has(aspectRatio)) return json({ error: 'Unsupported aspect ratio.' }, 400);
-    if (mode === 'reference' && images.length === 0) return json({ error: 'Reference mode requires at least one uploaded image.' }, 400);
+    if (videos.length > 3) return json({ error: 'Use at most 3 reference videos.' }, 400);
+    if (mode === 'reference' && images.length === 0 && videos.length === 0) return json({ error: 'Reference mode requires at least one image or video.' }, 400);
 
     const input = {
       prompt,
@@ -41,7 +43,8 @@ export async function onRequestPost({ request, env }) {
       nsfw_checker: true
     };
 
-    if (mode === 'reference') input.reference_image_urls = images;
+    if (mode === 'reference' && images.length) input.reference_image_urls = images;
+    if (mode === 'reference' && videos.length) input.reference_video_urls = videos;
 
     const upstream = await fetch('https://api.kie.ai/api/v1/jobs/createTask', {
       method: 'POST',
