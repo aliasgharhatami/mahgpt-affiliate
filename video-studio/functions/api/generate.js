@@ -9,13 +9,32 @@ const DURATIONS = new Set([10, 20, 30]);
 const RESOLUTIONS = new Set(['480p', '720p', '1080p']);
 const RATIOS = new Set(['16:9', '4:3', '1:1', '3:4', '9:16', '21:9', 'adaptive']);
 
+function normalizeSeedanceTags(text = '') {
+  return String(text)
+    .replace(/@image\s*(\d+)/gi, (_, n) => `@Image${Number(n)}`)
+    .replace(/@video\s*(\d+)/gi, (_, n) => `@Video${Number(n)}`);
+}
+
+function validatePromptReferenceTags(prompt, imageCount, videoCount) {
+  const bad = [];
+  for (const match of prompt.matchAll(/@Image(\d+)/g)) {
+    const n = Number(match[1]);
+    if (!Number.isInteger(n) || n < 1 || n > imageCount) bad.push(`@Image${n}`);
+  }
+  for (const match of prompt.matchAll(/@Video(\d+)/g)) {
+    const n = Number(match[1]);
+    if (!Number.isInteger(n) || n < 1 || n > videoCount) bad.push(`@Video${n}`);
+  }
+  return [...new Set(bad)];
+}
+
 export async function onRequestPost({ request, env }) {
   if (!env.KIE_API_KEY) return json({ error: 'KIE_API_KEY is not configured on the server.' }, 503);
 
   try {
     const body = await request.json();
     const mode = body?.mode === 'reference' ? 'reference' : 'text';
-    const prompt = String(body?.prompt || '').trim();
+    const prompt = normalizeSeedanceTags(String(body?.prompt || '').trim());
     const images = Array.isArray(body?.images) ? body.images.filter(x => typeof x === 'string' && /^https:\/\//i.test(x)) : [];
     const videos = Array.isArray(body?.videos) ? body.videos.filter(x => typeof x === 'string' && /^https:\/\//i.test(x)) : [];
     const duration = Number(body?.duration);
@@ -28,8 +47,14 @@ export async function onRequestPost({ request, env }) {
     if (!DURATIONS.has(duration)) return json({ error: 'Duration must be 10, 20 or 30 seconds.' }, 400);
     if (!RESOLUTIONS.has(resolution)) return json({ error: 'Resolution must be 480p, 720p or 1080p.' }, 400);
     if (!RATIOS.has(aspectRatio)) return json({ error: 'Unsupported aspect ratio.' }, 400);
-    if (videos.length > 3) return json({ error: 'Use at most 3 reference videos.' }, 400);
-    if (mode === 'reference' && images.length === 0 && videos.length === 0) return json({ error: 'Reference mode requires at least one image or video.' }, 400);
+    if (mode === 'reference' && images.length === 0 && videos.length === 0) {
+      return json({ error: 'Reference mode requires at least one image or video.' }, 400);
+    }
+
+    const badTags = validatePromptReferenceTags(prompt, images.length, videos.length);
+    if (badTags.length) {
+      return json({ error: `Prompt references ${badTags.join(', ')}, but those reference files were not supplied.` }, 400);
+    }
 
     const input = {
       prompt,
@@ -43,6 +68,7 @@ export async function onRequestPost({ request, env }) {
       nsfw_checker: true
     };
 
+    // KIE Seedance 2.5 Multimodal Reference-to-Video accepts ordered image/video URL arrays.
     if (mode === 'reference' && images.length) input.reference_image_urls = images;
     if (mode === 'reference' && videos.length) input.reference_video_urls = videos;
 
