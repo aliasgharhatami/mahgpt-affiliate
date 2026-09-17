@@ -2941,6 +2941,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/design/design-software/why-canva-hit-the-brakes-on-its-huge-ai-rollout-and-what-other-brands-can-learn-from-it": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-17T10:00:11.299Z",
+        "message_id": 409,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
