@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T06:09:29.524Z",
+  "updatedAt": "2026-09-17T09:59:34.566Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -15,6 +15,28 @@
     "https://feeds.arstechnica.com/arstechnica/technology-lab"
   ],
   "items": [
+    {
+      "tool": "canva",
+      "toolName": "Canva AI",
+      "category": "Partner watch",
+      "title": "Why Canva hit the brakes on its huge AI rollout (and what other brands can learn from it)",
+      "summary": "Canva co-founder Cameron Adams on why brands should look beyond the hype of the biggest AI models.",
+      "guide": "/partners/canva.html",
+      "source": "https://www.creativebloq.com/design/design-software/why-canva-hit-the-brakes-on-its-huge-ai-rollout-and-what-other-brands-can-learn-from-it",
+      "publishedAt": "2026-09-17T06:44:33.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ssEfigFQsefZWDv82HaDdU-1920-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Think you can spot a ChatGPT image? Take my real-or-AI quiz and see how many fool you",
+      "summary": "ChatGPT can now create eerily realistic images. I mixed them with my own travel photos, can you spot the fakes?",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/ai-platforms-assistants/chatgpt/think-you-can-spot-a-chatgpt-image-take-my-real-or-ai-quiz-and-see-how-many-fool-you",
+      "publishedAt": "2026-09-17T09:07:39.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JKAptBzRC3Gh5pZmRJhQjA-1920-80.jpg"
+    },
     {
       "tool": "ai-news",
       "toolName": "AI News",
@@ -102,28 +124,6 @@
       "source": "https://www.techradar.com/pro/security/how-the-mighty-have-fallen-the-notorious-stuxnet-malware-source-code-has-been-replicated-and-posted-on-github-for-all-to-see",
       "publishedAt": "2026-09-16T23:05:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
-      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
-      "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
-      "publishedAt": "2026-09-16T22:07:24.000Z",
-      "image": "https://media.wired.com/photos/6aaade9cf251bfe9554bf39a/191:100/w_1280,c_limit/OpenAI-Releases-New-AI-Policy-Business-2294958021.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Forget AI ending humanity; what people are really worried about is AI taking their jobs — even if that's not exactly what's happening",
-      "summary": "AI doomsday scenarios cloud the growing, real-time concerns of a growing number of young people who see technology and AI taking their jobs. What's really going on?",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/forget-ai-ending-humanity-what-people-are-really-worried-about-is-ai-taking-their-jobs-even-if-thats-not-exactly-whats-happening",
-      "publishedAt": "2026-09-16T21:11:12.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/YuCLf7xjRg2vqTaEQiTWDH-1920-80.jpg"
     }
   ]
 }
