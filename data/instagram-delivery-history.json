@@ -1698,6 +1698,20 @@
         "message_id": "18064090634685326",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-17T01:40:47.918Z",
+        "message_id": "18096092882106818",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-17T01:40:58.566Z",
+        "message_id": "18105422381185202",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
