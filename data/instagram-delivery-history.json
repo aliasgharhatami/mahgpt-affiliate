@@ -1768,6 +1768,20 @@
         "message_id": "18120929408303510",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-17T21:46:23.722Z",
+        "message_id": "18105881759240171",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-17T21:46:31.383Z",
+        "message_id": "18095267762540776",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
