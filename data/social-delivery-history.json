@@ -2907,6 +2907,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence-but-that-it-can-benefit-humanity-like-no-other-technology-before-it": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-17T01:09:07.938Z",
+        "message_id": 407,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
