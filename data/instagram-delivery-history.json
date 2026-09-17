@@ -1740,6 +1740,20 @@
         "message_id": "18069243707735134",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/the-end-of-rip-and-replace-new-survey-finds-businesses-are-sticking-it-out-with-legacy-tech": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-17T18:34:53.291Z",
+        "message_id": "18157760665517742",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-17T18:35:02.791Z",
+        "message_id": "18125871814842172",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
