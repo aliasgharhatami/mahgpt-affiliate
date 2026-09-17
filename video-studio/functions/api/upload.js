@@ -10,11 +10,13 @@ const VIDEO_TYPES = new Set(['video/mp4', 'video/quicktime', 'video/x-matroska']
 const IMAGE_EXTENSIONS = new Set(['jpg', 'jpeg', 'png', 'webp']);
 const VIDEO_EXTENSIONS = new Set(['mp4', 'mov', 'mkv']);
 const MAX_IMAGE_BYTES = 30 * 1024 * 1024;
-const MAX_VIDEO_BYTES = 200 * 1024 * 1024;
+// Keep below Cloudflare's ~100 MB proxied request-body ceiling so multipart overhead fits.
+const MAX_VIDEO_BYTES = 95 * 1024 * 1024;
 
 function safeName(name = 'reference') {
   return name.replace(/[^a-zA-Z0-9._-]+/g, '-').replace(/^-+|-+$/g, '').slice(-100) || 'reference';
 }
+
 function extension(name = '') {
   const match = String(name).toLowerCase().match(/\.([a-z0-9]+)$/);
   return match ? match[1] : '';
@@ -29,13 +31,15 @@ export async function onRequestPost({ request, env }) {
     if (!(file instanceof File)) return json({ error: 'No reference file was provided.' }, 400);
 
     const ext = extension(file.name);
-    const isImage = IMAGE_TYPES.has(file.type) || IMAGE_EXTENSIONS.has(ext);
-    const isVideo = VIDEO_TYPES.has(file.type) || VIDEO_EXTENSIONS.has(ext);
+    const type = String(file.type || '').toLowerCase();
+    const isImage = IMAGE_TYPES.has(type) || IMAGE_EXTENSIONS.has(ext);
+    const isVideo = VIDEO_TYPES.has(type) || VIDEO_EXTENSIONS.has(ext);
+
     if (!isImage && !isVideo) {
       return json({ error: 'Supported reference files are JPEG, PNG, WebP, MP4, MOV and MKV.' }, 415);
     }
     if (isImage && file.size > MAX_IMAGE_BYTES) return json({ error: 'Each image must be 30 MB or smaller.' }, 413);
-    if (isVideo && file.size > MAX_VIDEO_BYTES) return json({ error: 'Each video must be 200 MB or smaller.' }, 413);
+    if (isVideo && file.size > MAX_VIDEO_BYTES) return json({ error: 'Each video must be 95 MB or smaller for this Cloudflare-hosted studio.' }, 413);
 
     const uniqueName = `${Date.now()}-${crypto.randomUUID()}-${safeName(file.name)}`;
     const outgoing = new FormData();
@@ -56,7 +60,13 @@ export async function onRequestPost({ request, env }) {
 
     const url = data?.data?.downloadUrl || data?.data?.fileUrl;
     if (!url) return json({ error: 'KIE uploaded the reference but returned no usable URL.' }, 502);
-    return json({ url, kind: isVideo ? 'video' : 'image', fileName: data?.data?.fileName || uniqueName, expiresAt: data?.data?.expiresAt || null });
+
+    return json({
+      url,
+      kind: isVideo ? 'video' : 'image',
+      fileName: data?.data?.fileName || uniqueName,
+      expiresAt: data?.data?.expiresAt || null
+    });
   } catch (error) {
     return json({ error: error?.message || 'Reference upload failed.' }, 500);
   }
