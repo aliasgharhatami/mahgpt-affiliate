@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T09:57:51.887Z",
-  "analysis_date": "2026-09-16",
+  "generated_at": "2026-09-17T09:59:46.585Z",
+  "analysis_date": "2026-09-17",
   "stories": [
     {
-      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-      "source": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-      "mahgpt_url": "/news/story.html?id=china-isnt-buying-silicon-valleys-call-for-an-ai-slowdown"
+      "title": "Why Canva hit the brakes on its huge AI rollout (and what other brands can learn from it)",
+      "source": "https://www.creativebloq.com/design/design-software/why-canva-hit-the-brakes-on-its-huge-ai-rollout-and-what-other-brands-can-learn-from-it",
+      "mahgpt_url": "/news/story.html?id=why-canva-hit-the-brakes-on-its-huge-ai-rollout-and-what-other-brands-can-learn-from-it"
     },
     {
-      "title": "Rogue AI agents aren’t flukes, they’re patterns",
-      "source": "https://www.techradar.com/pro/rogue-ai-agents-arent-flukes-theyre-patterns",
-      "mahgpt_url": "/news/story.html?id=rogue-ai-agents-arent-flukes-theyre-patterns"
+      "title": "Think you can spot a ChatGPT image? Take my real-or-AI quiz and see how many fool you",
+      "source": "https://www.techradar.com/ai-platforms-assistants/chatgpt/think-you-can-spot-a-chatgpt-image-take-my-real-or-ai-quiz-and-see-how-many-fool-you",
+      "mahgpt_url": "/news/story.html?id=think-you-can-spot-a-chatgpt-image-take-my-real-or-ai-quiz-and-see-how-many-fool-you"
     },
     {
-      "title": "Autodesk’s AU26 AI pitch: let AI help you make more, not make it for you",
-      "source": "https://www.creativebloq.com/3d/autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you",
-      "mahgpt_url": "/news/story.html?id=autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you"
+      "title": "The end of 'rip and replace'? New survey finds businesses are sticking it out with legacy tech",
+      "source": "https://www.techradar.com/pro/the-end-of-rip-and-replace-new-survey-finds-businesses-are-sticking-it-out-with-legacy-tech",
+      "mahgpt_url": "/news/story.html?id=the-end-of-rip-and-replace-new-survey-finds-businesses-are-sticking-it-out-with-legacy-tec"
     },
     {
-      "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
-      "source": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "mahgpt_url": "/news/story.html?id=we-don-and-8217-t-need-ai-regulation-leave-safety-to-us-nvidia-and-8217-s-jensen-huang-say"
+      "title": "‘We’re not stopping’: Salesforce UK&I CEO calls for greater training and skills as it continues on its “mission” to boost workers across the country",
+      "source": "https://www.techradar.com/pro/were-not-stopping-salesforce-uk-and-i-ceo-calls-for-greater-training-and-skills-as-it-continues-on-its-mission-to-boost-workers-across-the-country",
+      "mahgpt_url": "/news/story.html?id=were-not-stopping-salesforce-uk-and-i-ceo-calls-for-greater-training-and-skills-as-it-cont"
     },
     {
-      "title": "Salesforce has built the TSA a new AI agent to make travelling less awful for everyone",
-      "source": "https://www.techradar.com/pro/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone",
-      "mahgpt_url": "/news/story.html?id=salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone"
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "source": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "mahgpt_url": "/news/story.html?id=iceland-based-treble-raises-18-million-for-its-voice-simulation-platform"
     },
     {
-      "title": "AI might kill humanity in 10 years, but Autodesk’s CEO sees a more immediate threat to artists",
-      "source": "https://www.creativebloq.com/ai/ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artists",
-      "mahgpt_url": "/news/story.html?id=ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artis"
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "source": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "mahgpt_url": "/news/story.html?id=your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain"
     },
     {
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "mahgpt_url": "/news/story.html?id=ai-and-data-centers-are-incredibly-unpopular-in-every-poll"
+      "title": "Al Gore says the real AI risk isn&#8217;t data centers",
+      "source": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "mahgpt_url": "/news/story.html?id=al-gore-says-the-real-ai-risk-isn-and-8217-t-data-centers"
     },
     {
-      "title": "OpenAI CEO Sam Altman says ‘the world is right to be afraid’ of AI influence — but that it can benefit humanity like no other technology before it",
-      "source": "https://www.techradar.com/pro/openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence-but-that-it-can-benefit-humanity-like-no-other-technology-before-it",
-      "mahgpt_url": "/news/story.html?id=openai-ceo-sam-altman-says-the-world-is-right-to-be-afraid-of-ai-influence-but-that-it-can"
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "source": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "mahgpt_url": "/news/story.html?id=snap-is-launching-a-new-specs-ai-tool-and-its-coming-to-ios-and-mac"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-16.html"
+      "path": "news/analysis/2026-09-17.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-16.html"
+      "path": "es/news/analysis/2026-09-17.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-16.html"
+      "path": "de/news/analysis/2026-09-17.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-16.html"
+      "path": "fr/news/analysis/2026-09-17.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-16.html"
+      "path": "pt-BR/news/analysis/2026-09-17.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-16.html"
+      "path": "ar/news/analysis/2026-09-17.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-16.html"
+      "path": "fa/news/analysis/2026-09-17.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-16.html"
+      "path": "tr/news/analysis/2026-09-17.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-16.html"
+      "path": "it/news/analysis/2026-09-17.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-16.html"
+      "path": "ja/news/analysis/2026-09-17.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-16.html"
+      "path": "ko/news/analysis/2026-09-17.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-16.html"
+      "path": "id/news/analysis/2026-09-17.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-16.html"
+      "path": "hi/news/analysis/2026-09-17.html"
     }
   ]
 }
