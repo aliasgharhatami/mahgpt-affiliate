@@ -7,11 +7,17 @@ function json(data, status = 200) {
 
 const IMAGE_TYPES = new Set(['image/jpeg', 'image/png', 'image/webp']);
 const VIDEO_TYPES = new Set(['video/mp4', 'video/quicktime', 'video/x-matroska']);
+const IMAGE_EXTENSIONS = new Set(['jpg', 'jpeg', 'png', 'webp']);
+const VIDEO_EXTENSIONS = new Set(['mp4', 'mov', 'mkv']);
 const MAX_IMAGE_BYTES = 30 * 1024 * 1024;
 const MAX_VIDEO_BYTES = 200 * 1024 * 1024;
 
 function safeName(name = 'reference') {
   return name.replace(/[^a-zA-Z0-9._-]+/g, '-').replace(/^-+|-+$/g, '').slice(-100) || 'reference';
+}
+function extension(name = '') {
+  const match = String(name).toLowerCase().match(/\.([a-z0-9]+)$/);
+  return match ? match[1] : '';
 }
 
 export async function onRequestPost({ request, env }) {
@@ -22,8 +28,9 @@ export async function onRequestPost({ request, env }) {
     const file = form.get('file');
     if (!(file instanceof File)) return json({ error: 'No reference file was provided.' }, 400);
 
-    const isImage = IMAGE_TYPES.has(file.type);
-    const isVideo = VIDEO_TYPES.has(file.type);
+    const ext = extension(file.name);
+    const isImage = IMAGE_TYPES.has(file.type) || IMAGE_EXTENSIONS.has(ext);
+    const isVideo = VIDEO_TYPES.has(file.type) || VIDEO_EXTENSIONS.has(ext);
     if (!isImage && !isVideo) {
       return json({ error: 'Supported reference files are JPEG, PNG, WebP, MP4, MOV and MKV.' }, 415);
     }
