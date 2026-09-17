@@ -2975,6 +2975,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/were-not-stopping-salesforce-uk-and-i-ceo-calls-for-greater-training-and-skills-as-it-continues-on-its-mission-to-boost-workers-across-the-country": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-17T15:33:41.756Z",
+        "message_id": 411,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
