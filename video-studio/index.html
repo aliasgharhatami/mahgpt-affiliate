@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex,nofollow,noarchive" />
+  <title>MahGPT Video Studio</title>
+  <meta name="description" content="Private MahGPT AI video generation studio." />
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body>
+  <div class="noise" aria-hidden="true"></div>
+  <header class="topbar">
+    <a class="brand" href="/" aria-label="MahGPT Video Studio home">
+      <span class="brand-mark">M</span>
+      <span>
+        <strong>MahGPT</strong>
+        <small>Video Studio</small>
+      </span>
+    </a>
+    <div class="topbar-actions">
+      <span id="apiState" class="connection"><i></i><span>Checking API</span></span>
+      <span class="private-badge">Private Studio</span>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="intro">
+      <p class="eyebrow">Seedance 2.5 workspace</p>
+      <h1>Create a video from an idea<br />or your reference images.</h1>
+      <p>Prompt, references, sound, duration and resolution — all in one private workspace.</p>
+    </section>
+
+    <div class="workspace">
+      <section class="panel composer">
+        <div class="panel-heading">
+          <div>
+            <span class="step">01</span>
+            <h2>Generation setup</h2>
+          </div>
+        </div>
+
+        <div class="mode-switch" role="tablist" aria-label="Generation mode">
+          <button type="button" class="mode active" data-mode="text" role="tab" aria-selected="true">
+            <span class="mode-icon">T</span>
+            <span><strong>Text → Video</strong><small>Generate directly from your prompt</small></span>
+          </button>
+          <button type="button" class="mode" data-mode="reference" role="tab" aria-selected="false">
+            <span class="mode-icon">◎</span>
+            <span><strong>Images → Video</strong><small>Use one or more visual references</small></span>
+          </button>
+        </div>
+
+        <div id="referenceSection" class="reference-section hidden">
+          <div class="field-label-row">
+            <label>Reference images</label>
+            <span>JPEG, PNG or WebP · max 30 MB each</span>
+          </div>
+          <label id="dropzone" class="dropzone" for="imageInput">
+            <input id="imageInput" type="file" accept="image/jpeg,image/png,image/webp" multiple hidden />
+            <span class="upload-icon">＋</span>
+            <strong>Drop images here</strong>
+            <small>or click to browse</small>
+          </label>
+          <div id="referencesToolbar" class="references-toolbar hidden">
+            <p>Seedance reference tags use the exact format <code>@Image1</code>, <code>@Image2</code>, …</p>
+            <button id="insertAllTags" class="text-button" type="button">Insert all tags in prompt</button>
+          </div>
+          <div id="referenceGrid" class="reference-grid"></div>
+        </div>
+
+        <div class="prompt-block">
+          <div class="field-label-row">
+            <label for="prompt">Prompt</label>
+            <span><b id="charCount">0</b> / 30,000</span>
+          </div>
+          <textarea id="prompt" maxlength="30000" placeholder="Describe the video you want to create…"></textarea>
+          <p id="promptHint" class="hint">No image is required in Text → Video mode.</p>
+        </div>
+
+        <div class="settings-grid">
+          <fieldset>
+            <legend>Duration</legend>
+            <div class="segmented" data-group="duration">
+              <button type="button" data-value="10">10s</button>
+              <button type="button" class="selected" data-value="20">20s</button>
+              <button type="button" data-value="30">30s</button>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Resolution</legend>
+            <div class="segmented" data-group="resolution">
+              <button type="button" data-value="480p">480p</button>
+              <button type="button" class="selected" data-value="720p">720p</button>
+              <button type="button" data-value="1080p">1080p</button>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Audio</legend>
+            <div class="segmented" data-group="audio">
+              <button type="button" class="selected" data-value="true">With audio</button>
+              <button type="button" data-value="false">Silent</button>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Aspect ratio</legend>
+            <select id="aspectRatio">
+              <option value="adaptive">Adaptive</option>
+              <option value="16:9">16:9 · Landscape</option>
+              <option value="9:16">9:16 · Portrait</option>
+              <option value="1:1">1:1 · Square</option>
+              <option value="4:3">4:3</option>
+              <option value="3:4">3:4</option>
+              <option value="21:9">21:9 · Cinematic</option>
+            </select>
+          </fieldset>
+        </div>
+
+        <div id="formError" class="form-error hidden" role="alert"></div>
+        <button id="generateButton" class="generate" type="button">
+          <span>Generate video</span>
+          <i>→</i>
+        </button>
+        <p class="privacy-note">Your KIE API key stays on the server and is never sent to this browser.</p>
+      </section>
+
+      <aside class="panel output-panel">
+        <div class="panel-heading">
+          <div>
+            <span class="step">02</span>
+            <h2>Output</h2>
+          </div>
+          <span id="taskBadge" class="task-badge hidden"></span>
+        </div>
+
+        <div id="emptyOutput" class="empty-output">
+          <div class="film-icon"><span>▶</span></div>
+          <h3>Your video will appear here</h3>
+          <p>Start a generation and you can keep this page open while Seedance works.</p>
+        </div>
+
+        <div id="workingOutput" class="working-output hidden">
+          <div class="loader-ring"></div>
+          <p class="status-kicker">Seedance is working</p>
+          <h3 id="statusTitle">Creating your video…</h3>
+          <p id="statusDetail">The task has been added to the generation queue.</p>
+          <div class="status-steps">
+            <span id="stepUpload" class="done">References</span>
+            <span id="stepQueue" class="active">Queued</span>
+            <span id="stepGenerate">Generate</span>
+            <span id="stepReady">Ready</span>
+          </div>
+          <small id="elapsedTime">Elapsed 00:00</small>
+        </div>
+
+        <div id="readyOutput" class="ready-output hidden">
+          <div class="video-wrap">
+            <video id="resultVideo" controls playsinline preload="metadata"></video>
+          </div>
+          <div class="result-meta">
+            <div>
+              <span>Generation complete</span>
+              <strong id="resultSummary">20s · 720p · MP4</strong>
+            </div>
+            <a id="downloadButton" class="download" href="#">Download MP4</a>
+          </div>
+          <button id="newGeneration" class="secondary-button" type="button">Create another video</button>
+        </div>
+
+        <div id="failedOutput" class="failed-output hidden">
+          <div class="error-mark">!</div>
+          <h3>Generation failed</h3>
+          <p id="failureMessage">Seedance could not complete this task.</p>
+          <button id="retryButton" class="secondary-button" type="button">Try again</button>
+        </div>
+      </aside>
+    </div>
+
+    <section class="history-section">
+      <div class="history-heading">
+        <div><span class="step">03</span><h2>Recent generations</h2></div>
+        <button id="clearHistory" class="text-button" type="button">Clear local history</button>
+      </div>
+      <div id="historyList" class="history-list">
+        <p class="history-empty">No generations saved in this browser yet.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>MahGPT Video Studio</span>
+    <span>Seedance 2.5 via KIE.AI</span>
+  </footer>
+
+  <script src="/assets/app.js" defer></script>
+</body>
+</html>
