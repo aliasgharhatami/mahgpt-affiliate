@@ -1712,6 +1712,20 @@
         "message_id": "18105422381185202",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/design/design-software/why-canva-hit-the-brakes-on-its-huge-ai-rollout-and-what-other-brands-can-learn-from-it": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-17T10:04:43.284Z",
+        "message_id": "18007620686989172",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-17T10:04:48.721Z",
+        "message_id": "18031635965845556",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
