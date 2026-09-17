@@ -1782,6 +1782,20 @@
         "message_id": "18095267762540776",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-17T23:34:24.396Z",
+        "message_id": "18430555954179441",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-17T23:34:32.589Z",
+        "message_id": "17886179034478259",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
