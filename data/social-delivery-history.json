@@ -2958,6 +2958,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/chatgpt/think-you-can-spot-a-chatgpt-image-take-my-real-or-ai-quiz-and-see-how-many-fool-you": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-17T11:43:34.351Z",
+        "message_id": 410,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
