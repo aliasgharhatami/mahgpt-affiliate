@@ -28,6 +28,20 @@ function validatePromptReferenceTags(prompt, imageCount, videoCount) {
   return [...new Set(bad)];
 }
 
+function compactUpstreamError(data, rawText, httpStatus) {
+  const candidates = [
+    data?.msg,
+    data?.message,
+    data?.error,
+    data?.data?.message,
+    data?.data?.error,
+    rawText
+  ];
+  const message = candidates.find(v => typeof v === 'string' && v.trim());
+  if (message) return String(message).trim().slice(0, 1200);
+  return `KIE task creation failed (HTTP ${httpStatus}).`;
+}
+
 export async function onRequestPost({ request, env }) {
   if (!env.KIE_API_KEY) return json({ error: 'KIE_API_KEY is not configured on the server.' }, 503);
 
@@ -35,8 +49,12 @@ export async function onRequestPost({ request, env }) {
     const body = await request.json();
     const mode = body?.mode === 'reference' ? 'reference' : 'text';
     const prompt = normalizeSeedanceTags(String(body?.prompt || '').trim());
-    const images = Array.isArray(body?.images) ? body.images.filter(x => typeof x === 'string' && /^https:\/\//i.test(x)) : [];
-    const videos = Array.isArray(body?.videos) ? body.videos.filter(x => typeof x === 'string' && /^https:\/\//i.test(x)) : [];
+    const images = Array.isArray(body?.images)
+      ? body.images.filter(x => typeof x === 'string' && /^https:\/\//i.test(x))
+      : [];
+    const videos = Array.isArray(body?.videos)
+      ? body.videos.filter(x => typeof x === 'string' && /^https:\/\//i.test(x))
+      : [];
     const duration = Number(body?.duration);
     const resolution = String(body?.resolution || '');
     const aspectRatio = String(body?.aspectRatio || 'adaptive');
@@ -56,19 +74,18 @@ export async function onRequestPost({ request, env }) {
       return json({ error: `Prompt references ${badTags.join(', ')}, but those reference files were not supplied.` }, 400);
     }
 
+    // Keep the payload deliberately limited to fields documented for the
+    // current KIE Seedance 2.5 createTask endpoint. Extra fields that were
+    // accepted by older/other KIE models can cause request validation errors.
     const input = {
       prompt,
-      generate_audio: generateAudio,
       return_last_frame: false,
+      generate_audio: generateAudio,
       resolution,
       aspect_ratio: aspectRatio,
-      duration,
-      output_format: 'mp4',
-      web_search: false,
-      nsfw_checker: true
+      duration
     };
 
-    // KIE Seedance 2.5 Multimodal Reference-to-Video accepts ordered image/video URL arrays.
     if (mode === 'reference' && images.length) input.reference_image_urls = images;
     if (mode === 'reference' && videos.length) input.reference_video_urls = videos;
 
@@ -78,17 +95,36 @@ export async function onRequestPost({ request, env }) {
         Authorization: `Bearer ${env.KIE_API_KEY}`,
         'Content-Type': 'application/json'
       },
-      body: JSON.stringify({ model: 'bytedance/seedance-2-5', input })
+      body: JSON.stringify({
+        model: 'bytedance/seedance-2-5',
+        input
+      })
     });
 
-    const data = await upstream.json().catch(() => null);
+    const rawText = await upstream.text();
+    let data = null;
+    try {
+      data = rawText ? JSON.parse(rawText) : null;
+    } catch {
+      data = null;
+    }
+
     if (!upstream.ok || data?.code !== 200 || !data?.data?.taskId) {
-      const status = upstream.status >= 400 ? upstream.status : 502;
-      return json({ error: data?.msg || `KIE task creation failed (${upstream.status}).`, upstreamCode: data?.code || null }, status);
+      const message = compactUpstreamError(data, rawText, upstream.status);
+      const status = upstream.status >= 400 && upstream.status < 600 ? upstream.status : 502;
+      return json({
+        error: message,
+        upstreamCode: data?.code ?? null,
+        upstreamHttpStatus: upstream.status,
+        stage: 'kie-createTask'
+      }, status);
     }
 
     return json({ taskId: data.data.taskId });
   } catch (error) {
-    return json({ error: error?.message || 'Could not create generation task.' }, 500);
+    return json({
+      error: error?.message || 'Could not create generation task.',
+      stage: 'mahgpt-generate'
+    }, 500);
   }
 }
