@@ -1894,6 +1894,20 @@
         "message_id": "18116126479778166",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-18T23:53:09.391Z",
+        "message_id": "18087046850677895",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-18T23:53:18.117Z",
+        "message_id": "18050947553610013",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
