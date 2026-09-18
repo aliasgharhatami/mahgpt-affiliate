@@ -21,7 +21,10 @@ const state = {
   busy: false,
   activeTaskId: null,
   timerStartedAt: null,
-  elapsedTimer: null
+  elapsedTimer: null,
+  runId: null,
+  debugEntries: [],
+  lastPollState: null
 };
 
 function show(el, visible = true) {
@@ -53,6 +56,88 @@ function toast(message, type = 'info') {
   el.textContent = message;
   document.body.appendChild(el);
   setTimeout(() => el.remove(), 3200);
+}
+
+function newRunId() {
+  return `run-${Date.now().toString(36)}-${crypto.randomUUID().slice(0, 8)}`;
+}
+
+function safeDiagnosticDetails(details = {}) {
+  const safe = {};
+  for (const [key, value] of Object.entries(details || {})) {
+    if (value == null) continue;
+    if (/key|token|authorization|secret/i.test(key)) continue;
+    if (/url/i.test(key)) {
+      try { safe[key] = new URL(String(value)).host; } catch { safe[key] = '[redacted-url]'; }
+      continue;
+    }
+    if (typeof value === 'string') safe[key] = value.slice(0, 500);
+    else safe[key] = value;
+  }
+  return safe;
+}
+
+function setDiagnosticsState(label, kind = '') {
+  const el = $('#diagnosticsState');
+  if (!el) return;
+  el.textContent = label;
+  el.className = `diagnostics-pill ${kind}`.trim();
+}
+
+function renderDiagnostics() {
+  const out = $('#diagnosticsLog');
+  if (!out) return;
+  if (!state.debugEntries.length) {
+    out.textContent = 'No generation attempt logged yet.';
+    return;
+  }
+  out.textContent = state.debugEntries.map(entry => {
+    const details = Object.keys(entry.details || {}).length ? ` ${JSON.stringify(entry.details)}` : '';
+    return `[${entry.time}] [${entry.level}] [${entry.stage}] ${entry.message}${details}`;
+  }).join('\n');
+  out.scrollTop = out.scrollHeight;
+}
+
+function debugLog(stage, message, details = {}, level = 'INFO') {
+  const entry = {
+    time: new Date().toISOString(),
+    level,
+    stage,
+    message: String(message || ''),
+    details: safeDiagnosticDetails(details)
+  };
+  state.debugEntries.push(entry);
+  if (state.debugEntries.length > 300) state.debugEntries.shift();
+  renderDiagnostics();
+}
+
+function clearDiagnostics() {
+  state.debugEntries = [];
+  state.runId = null;
+  state.lastPollState = null;
+  const runEl = $('#diagnosticsRunId');
+  if (runEl) runEl.textContent = '';
+  setDiagnosticsState('Idle');
+  renderDiagnostics();
+}
+
+async function copyDiagnostics() {
+  const text = state.debugEntries.map(entry => {
+    const details = Object.keys(entry.details || {}).length ? ` ${JSON.stringify(entry.details)}` : '';
+    return `[${entry.time}] [${entry.level}] [${entry.stage}] ${entry.message}${details}`;
+  }).join('\n');
+  try {
+    await navigator.clipboard.writeText(text || 'No diagnostics captured.');
+    toast('Diagnostics copied');
+  } catch {
+    toast('Could not copy diagnostics', 'error');
+  }
+}
+
+function errorWithDiagnostics(message, details = {}) {
+  const err = new Error(message);
+  Object.assign(err, details);
+  return err;
 }
 
 function fileExtension(name = '') {
@@ -256,6 +341,7 @@ async function addFiles(files) {
     const kind = classifyReferenceFile(file);
     if (!kind) {
       rejected.push(`${file.name}: unsupported format`);
+      debugLog('reference-select', 'Rejected reference file', { fileName: file.name, mime: file.type || 'unknown', size: file.size }, 'ERROR');
       continue;
     }
 
@@ -277,6 +363,13 @@ async function addFiles(files) {
       previewUrl: URL.createObjectURL(file),
       uploadedUrl: null,
       tag: ''
+    });
+    debugLog('reference-select', 'Reference accepted in browser', {
+      fileName: file.name,
+      kind,
+      mime: file.type || 'unknown',
+      size: file.size,
+      duration: Number.isFinite(duration) ? duration : 'unknown'
     });
 
     if (kind === 'video') addedVideos++;
@@ -413,33 +506,130 @@ function showFailure(message, taskId = null) {
 }
 
 async function uploadReference(ref, index) {
-  if (ref.uploadedUrl) return ref.uploadedUrl;
+  if (ref.uploadedUrl) {
+    debugLog('upload', `${ref.tag} already uploaded; reusing URL host`, { url: ref.uploadedUrl });
+    return ref.uploadedUrl;
+  }
   $('#statusDetail').textContent = `Uploading ${ref.tag} (${index + 1} of ${state.references.length})…`;
+  debugLog('upload', `Starting upload for ${ref.tag}`, {
+    fileName: ref.file?.name,
+    kind: ref.kind,
+    size: ref.file?.size,
+    mime: ref.file?.type || 'unknown'
+  });
   const body = new FormData();
   body.append('file', ref.file, ref.file.name);
-  const response = await fetch('/api/upload', { method: 'POST', body });
-  const data = await response.json().catch(() => ({}));
-  if (!response.ok || !data.url) throw new Error(data.error || `Could not upload ${ref.tag}.`);
-  if (data.kind && data.kind !== ref.kind) throw new Error(`${ref.tag} was uploaded but classified unexpectedly as ${data.kind}.`);
+
+  let response;
+  try {
+    response = await fetch('/api/upload', { method: 'POST', body });
+  } catch (networkError) {
+    debugLog('upload', `Network failure while uploading ${ref.tag}`, { message: networkError?.message }, 'ERROR');
+    throw errorWithDiagnostics(`Upload network failure for ${ref.tag}: ${networkError?.message || 'unknown error'}`, { stage: 'upload-network' });
+  }
+
+  const raw = await response.text();
+  let data = {};
+  try { data = raw ? JSON.parse(raw) : {}; } catch {}
+  debugLog('upload', `Upload response for ${ref.tag}`, {
+    httpStatus: response.status,
+    stage: data.stage || 'upload-response',
+    upstreamHttpStatus: data.upstreamHttpStatus,
+    upstreamCode: data.upstreamCode,
+    message: data.error || data.message || (response.ok ? 'ok' : raw.slice(0, 300))
+  }, response.ok ? 'INFO' : 'ERROR');
+
+  if (!response.ok || !data.url) {
+    throw errorWithDiagnostics(data.error || `Could not upload ${ref.tag}.`, {
+      stage: data.stage || 'upload-response',
+      httpStatus: response.status,
+      upstreamHttpStatus: data.upstreamHttpStatus,
+      upstreamCode: data.upstreamCode
+    });
+  }
+  if (data.kind && data.kind !== ref.kind) {
+    throw errorWithDiagnostics(`${ref.tag} was uploaded but classified unexpectedly as ${data.kind}.`, { stage: 'upload-classification' });
+  }
   ref.uploadedUrl = data.url;
+  debugLog('upload', `${ref.tag} uploaded successfully`, { kind: data.kind || ref.kind, url: data.url });
   return data.url;
 }
 
 async function createTask(payload) {
-  const response = await fetch('/api/generate', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(payload)
+  debugLog('create-task', 'Sending createTask request to MahGPT backend', {
+    mode: payload.mode,
+    imageCount: payload.images?.length || 0,
+    videoCount: payload.videos?.length || 0,
+    duration: payload.duration,
+    resolution: payload.resolution,
+    aspectRatio: payload.aspectRatio,
+    generateAudio: payload.generateAudio,
+    promptChars: payload.prompt?.length || 0,
+    promptTags: (payload.prompt?.match(/@(Image|Video)\d+/g) || []).join(', ')
   });
-  const data = await response.json().catch(() => ({}));
-  if (!response.ok || !data.taskId) throw new Error(data.error || 'Could not create the Seedance task.');
+  let response;
+  try {
+    response = await fetch('/api/generate', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    });
+  } catch (networkError) {
+    debugLog('create-task', 'Network failure before backend response', { message: networkError?.message }, 'ERROR');
+    throw errorWithDiagnostics(`Generate network failure: ${networkError?.message || 'unknown error'}`, { stage: 'generate-network' });
+  }
+
+  const raw = await response.text();
+  let data = {};
+  try { data = raw ? JSON.parse(raw) : {}; } catch {}
+  debugLog('create-task', 'Backend createTask response received', {
+    httpStatus: response.status,
+    stage: data.stage || 'backend-generate',
+    upstreamHttpStatus: data.upstreamHttpStatus,
+    upstreamCode: data.upstreamCode,
+    message: data.error || data.message || (response.ok ? 'ok' : raw.slice(0, 500)),
+    taskId: data.taskId || null
+  }, response.ok && data.taskId ? 'INFO' : 'ERROR');
+
+  if (!response.ok || !data.taskId) {
+    throw errorWithDiagnostics(data.error || 'Could not create the Seedance task.', {
+      stage: data.stage || 'backend-generate',
+      httpStatus: response.status,
+      upstreamHttpStatus: data.upstreamHttpStatus,
+      upstreamCode: data.upstreamCode
+    });
+  }
+  debugLog('create-task', 'KIE task created successfully', { taskId: data.taskId });
   return data.taskId;
 }
 
 async function getTask(taskId) {
-  const response = await fetch(`/api/status?taskId=${encodeURIComponent(taskId)}`, { cache: 'no-store' });
-  const data = await response.json().catch(() => ({}));
-  if (!response.ok) throw new Error(data.error || 'Could not read task status.');
+  let response;
+  try {
+    response = await fetch(`/api/status?taskId=${encodeURIComponent(taskId)}`, { cache: 'no-store' });
+  } catch (networkError) {
+    debugLog('status', 'Network failure while checking task status', { taskId, message: networkError?.message }, 'ERROR');
+    throw errorWithDiagnostics(networkError?.message || 'Status network failure', { stage: 'status-network' });
+  }
+  const raw = await response.text();
+  let data = {};
+  try { data = raw ? JSON.parse(raw) : {}; } catch {}
+  if (!response.ok) {
+    debugLog('status', 'Status endpoint returned an error', {
+      taskId,
+      httpStatus: response.status,
+      stage: data.stage || 'status-response',
+      upstreamHttpStatus: data.upstreamHttpStatus,
+      upstreamCode: data.upstreamCode,
+      message: data.error || raw.slice(0, 300)
+    }, 'ERROR');
+    throw errorWithDiagnostics(data.error || 'Could not read task status.', {
+      stage: data.stage || 'status-response',
+      httpStatus: response.status,
+      upstreamHttpStatus: data.upstreamHttpStatus,
+      upstreamCode: data.upstreamCode
+    });
+  }
   return data;
 }
 
@@ -453,11 +643,23 @@ async function pollTask(taskId, startedAt = Date.now()) {
     try {
       const data = await getTask(taskId);
       const normalized = String(data.state || '').toLowerCase();
+      if (normalized !== state.lastPollState) {
+        state.lastPollState = normalized;
+        debugLog('status', 'Task state changed', {
+          taskId,
+          state: normalized || 'unknown',
+          failCode: data.failCode || null,
+          failMsg: data.failMsg || null,
+          costTime: data.costTime || null
+        }, normalized === 'fail' || normalized === 'failed' ? 'ERROR' : 'INFO');
+      }
       if (normalized === 'success') {
         const resultUrl = data.resultUrls?.[0];
         if (!resultUrl) throw new Error('Seedance completed the task but returned no video URL.');
         updateHistory(taskId, { state: 'success', resultUrl, completedAt: Date.now() });
         const entry = getHistory().find(x => x.taskId === taskId) || {};
+        debugLog('result', 'Generation completed successfully', { taskId, resultCount: data.resultUrls?.length || 0 });
+        setDiagnosticsState('Success', 'ok');
         showReady(taskId, resultUrl, entry);
         renderHistory();
         return;
@@ -465,6 +667,8 @@ async function pollTask(taskId, startedAt = Date.now()) {
       if (normalized === 'fail' || normalized === 'failed') {
         const message = data.failMsg || data.failCode || 'Seedance could not complete this generation.';
         updateHistory(taskId, { state: 'fail', failMsg: message, completedAt: Date.now() });
+        debugLog('result', 'KIE task failed after creation', { taskId, failCode: data.failCode || null, failMsg: data.failMsg || message }, 'ERROR');
+        setDiagnosticsState('Failed', 'error');
         showFailure(message, taskId);
         renderHistory();
         return;
@@ -502,11 +706,22 @@ function validatePromptReferenceTags(prompt, imageCount, videoCount) {
 
 async function generate() {
   if (state.busy) return;
+  clearDiagnostics();
+  state.runId = newRunId();
+  state.lastPollState = null;
+  const runEl = $('#diagnosticsRunId');
+  if (runEl) runEl.textContent = state.runId;
+  setDiagnosticsState('Running', 'active');
+  debugLog('start', 'Generation attempt started', { runId: state.runId });
   setError('');
   readSettings();
 
   let prompt = $('#prompt').value.trim();
-  if (!prompt) return setError('Please enter a prompt before generating.');
+  if (!prompt) {
+    debugLog('validation', 'Prompt is empty', {}, 'ERROR');
+    setDiagnosticsState('Blocked', 'error');
+    return setError('Please enter a prompt before generating.');
+  }
 
   // Normalize common user variants such as @video1 / @IMAGE2 to our ordered reference convention.
   const normalizedPrompt = normalizeSeedanceTags(prompt);
@@ -518,6 +733,8 @@ async function generate() {
   }
 
   if (state.mode === 'reference' && state.references.length === 0) {
+    debugLog('validation', 'Reference mode selected with no references', {}, 'ERROR');
+    setDiagnosticsState('Blocked', 'error');
     return setError('Add at least one reference image or video, or switch to Text → Video.');
   }
 
@@ -526,6 +743,8 @@ async function generate() {
   const tagError = validatePromptReferenceTags(prompt, counts.images, counts.videos);
   if (tagError) {
     setReferenceNotice(tagError, 'error');
+    debugLog('validation', tagError, { imageCount: counts.images, videoCount: counts.videos }, 'ERROR');
+    setDiagnosticsState('Blocked', 'error');
     return setError(tagError);
   }
 
@@ -534,6 +753,16 @@ async function generate() {
     const images = [];
     const videos = [];
 
+    debugLog('validation', 'Input validation passed', {
+      mode: state.mode,
+      imageCount: counts.images,
+      videoCount: counts.videos,
+      duration: state.duration,
+      resolution: state.resolution,
+      aspectRatio: state.aspectRatio,
+      generateAudio: state.audio,
+      promptChars: prompt.length
+    });
     if (state.mode === 'reference') {
       showWorking('upload');
       startElapsedTimer();
@@ -573,6 +802,12 @@ async function generate() {
     renderHistory();
     await pollTask(taskId, entry.createdAt);
   } catch (err) {
+    debugLog(err.stage || 'exception', err.message || 'Generation could not start', {
+      httpStatus: err.httpStatus,
+      upstreamHttpStatus: err.upstreamHttpStatus,
+      upstreamCode: err.upstreamCode
+    }, 'ERROR');
+    setDiagnosticsState('Failed', 'error');
     showFailure(err.message || 'Something went wrong while starting the generation.');
     setError(err.message || 'Generation could not start.');
   }
@@ -639,13 +874,16 @@ async function checkHealth() {
     const response = await fetch('/api/health', { cache: 'no-store' });
     const data = await response.json();
     if (response.ok && data.apiConfigured) {
+      debugLog('health', 'Backend health check passed; KIE_API_KEY is configured');
       el.classList.add('ok');
       el.querySelector('span').textContent = 'API connected';
     } else {
+      debugLog('health', 'Backend health check failed or API key missing', { httpStatus: response.status }, 'ERROR');
       el.classList.add('bad');
       el.querySelector('span').textContent = 'API key missing';
     }
-  } catch {
+  } catch (err) {
+    debugLog('health', 'Backend health request failed', { message: err?.message }, 'ERROR');
     el.classList.add('bad');
     el.querySelector('span').textContent = 'API unavailable';
   }
@@ -682,6 +920,8 @@ $('#clearHistory').addEventListener('click', () => {
   renderHistory();
   toast('Local history cleared');
 });
+$('#copyDiagnostics')?.addEventListener('click', copyDiagnostics);
+$('#clearDiagnostics')?.addEventListener('click', clearDiagnostics);
 
 const dropzone = $('#dropzone');
 ['dragenter', 'dragover'].forEach(name => dropzone.addEventListener(name, e => {
@@ -721,6 +961,7 @@ if (referenceMode) {
   if (small) small.textContent = 'Use images and/or videos as references';
 }
 
+clearDiagnostics();
 setMode('text');
 readSettings();
 updateCharCount();
