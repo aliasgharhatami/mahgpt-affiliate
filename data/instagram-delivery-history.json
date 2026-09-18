@@ -1880,6 +1880,20 @@
         "message_id": "18103453214256032",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/health-fitness/oral-health/a-camera-in-a-toothbrush-dyson-tells-us-why-it-combined-wifi-ai-intelligent-sensing-and-fluid-dynamics-with-a-highly-engineered-brushing-experience-to-create-the-dyson-camerajet": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-18T21:44:13.906Z",
+        "message_id": "18088077308301408",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-18T21:44:23.917Z",
+        "message_id": "18116126479778166",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
