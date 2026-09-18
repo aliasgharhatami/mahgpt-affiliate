@@ -1852,6 +1852,20 @@
         "message_id": "18113650181113910",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-18T17:04:56.330Z",
+        "message_id": "18143465893584198",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-18T17:05:06.382Z",
+        "message_id": "18104017793631584",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
