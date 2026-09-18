@@ -83,7 +83,10 @@ export async function onRequestPost({ request, env }) {
       generate_audio: generateAudio,
       resolution,
       aspect_ratio: aspectRatio,
-      duration
+      duration,
+      output_format: 'mp4',
+      web_search: false,
+      nsfw_checker: true
     };
 
     if (mode === 'reference' && images.length) input.reference_image_urls = images;
@@ -94,52 +97,36 @@ export async function onRequestPost({ request, env }) {
       input
     });
 
-    let upstream = null;
-    let rawText = '';
-    let data = null;
-    let lastMessage = '';
-    let lastStatus = 502;
-    let attempts = 0;
-
-    for (let attempt = 1; attempt <= 3; attempt++) {
-      attempts = attempt;
+    let upstream;
+    try {
       upstream = await fetch('https://api.kie.ai/api/v1/jobs/createTask', {
         method: 'POST',
         headers: {
           Authorization: `Bearer ${env.KIE_API_KEY}`,
-          'Content-Type': 'application/json',
-          'User-Agent': 'MahGPT-Video-Studio/1.0'
+          'Content-Type': 'application/json'
         },
         body: requestBody
       });
-
-      rawText = await upstream.text();
-      data = null;
-      try { data = rawText ? JSON.parse(rawText) : null; } catch {}
-
-      if (upstream.ok && data?.code === 200 && data?.data?.taskId) break;
-
-      lastStatus = upstream.status || 502;
-      lastMessage = compactUpstreamError(data, rawText, lastStatus);
-
-      const retryable = [429, 500, 502, 503, 504].includes(lastStatus);
-      if (!retryable || attempt === 3) break;
-
-      const retryAfterHeader = Number(upstream.headers.get('Retry-After'));
-      const waitMs = Number.isFinite(retryAfterHeader) && retryAfterHeader > 0
-        ? Math.min(retryAfterHeader * 1000, 8000)
-        : attempt * 1200;
-      await new Promise(resolve => setTimeout(resolve, waitMs));
+    } catch (fetchError) {
+      return json({
+        error: fetchError?.message || 'KIE createTask network request failed before a response was received.',
+        stage: 'kie-createTask-network'
+      }, 502);
     }
 
-    if (!upstream?.ok || data?.code !== 200 || !data?.data?.taskId) {
-      const status = lastStatus >= 400 && lastStatus < 600 ? lastStatus : 502;
+    const rawText = await upstream.text();
+    let data = null;
+    try { data = rawText ? JSON.parse(rawText) : null; } catch {}
+
+    if (!upstream.ok || data?.code !== 200 || !data?.data?.taskId) {
+      const message = compactUpstreamError(data, rawText, upstream.status);
+      const status = upstream.status >= 400 && upstream.status < 600 ? upstream.status : 502;
       return json({
-        error: lastMessage || `KIE task creation failed after ${attempts} attempt(s).`,
+        error: message,
         upstreamCode: data?.code ?? null,
-        upstreamHttpStatus: lastStatus,
-        attempts,
-        stage: 'kie-createTask'
+        upstreamHttpStatus: upstream.status,
+        stage: 'kie-createTask',
+        responseType: data ? 'json' : 'non-json'
       }, status);
     }
 
@@ -148,7 +135,6 @@ export async function onRequestPost({ request, env }) {
       stage: 'kie-createTask',
       upstreamHttpStatus: upstream.status,
       upstreamCode: data?.code ?? null,
-      attempts,
       requestSummary: {
         model: 'bytedance/seedance-2-5',
         imageCount: images.length,
@@ -159,6 +145,7 @@ export async function onRequestPost({ request, env }) {
         generateAudio,
         promptChars: prompt.length
       }
+    });
     });
   } catch (error) {
     return json({
