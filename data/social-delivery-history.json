@@ -3043,6 +3043,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-18T09:47:49.197Z",
+        "message_id": 415,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
