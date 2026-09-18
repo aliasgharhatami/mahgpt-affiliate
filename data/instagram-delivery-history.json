@@ -1810,6 +1810,20 @@
         "message_id": "17879210052628977",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-18T09:51:39.948Z",
+        "message_id": "18068233457779385",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-18T09:51:47.821Z",
+        "message_id": "17958797331237263",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
