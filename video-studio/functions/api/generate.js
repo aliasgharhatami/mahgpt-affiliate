@@ -43,7 +43,7 @@ function compactUpstreamError(data, rawText, httpStatus) {
 }
 
 export async function onRequestPost({ request, env }) {
-  if (!env.KIE_API_KEY) return json({ error: 'KIE_API_KEY is not configured on the server.' }, 503);
+  if (!env.KIE_API_KEY) return json({ error: 'KIE_API_KEY is not configured on the server.', stage: 'generate-config' }, 503);
 
   try {
     const body = await request.json();
@@ -120,7 +120,22 @@ export async function onRequestPost({ request, env }) {
       }, status);
     }
 
-    return json({ taskId: data.data.taskId });
+    return json({
+      taskId: data.data.taskId,
+      stage: 'kie-createTask',
+      upstreamHttpStatus: upstream.status,
+      upstreamCode: data?.code ?? null,
+      requestSummary: {
+        model: 'bytedance/seedance-2-5',
+        imageCount: images.length,
+        videoCount: videos.length,
+        duration,
+        resolution,
+        aspectRatio,
+        generateAudio,
+        promptChars: prompt.length
+      }
+    });
   } catch (error) {
     return json({
       error: error?.message || 'Could not create generation task.',
