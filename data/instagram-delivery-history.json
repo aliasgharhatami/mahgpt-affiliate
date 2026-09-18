@@ -1824,6 +1824,20 @@
         "message_id": "17958797331237263",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-18T13:04:38.791Z",
+        "message_id": "17901517485657361",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-18T13:04:46.283Z",
+        "message_id": "17973597714154854",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
