@@ -1796,6 +1796,20 @@
         "message_id": "17886179034478259",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-18T01:27:25.903Z",
+        "message_id": "18124774615872801",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-18T01:27:34.841Z",
+        "message_id": "17879210052628977",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
