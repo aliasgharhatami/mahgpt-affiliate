@@ -631,6 +631,58 @@ async function checkCreditsPreflight() {
   return data.credits;
 }
 
+async function checkPayloadSchemaProbe(payload) {
+  debugLog('payload-probe', 'Validating the real Seedance payload shape with a non-billable rejection probe', {
+    imageCount: payload.images?.length || 0,
+    videoCount: payload.videos?.length || 0,
+    promptChars: payload.prompt?.length || 0,
+    aspectRatio: payload.aspectRatio
+  });
+
+  let response;
+  try {
+    response = await fetch('/api/payload-probe', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    });
+  } catch (networkError) {
+    debugLog('payload-probe', 'Payload probe network failure', { message: networkError?.message }, 'ERROR');
+    throw errorWithDiagnostics(
+      `Seedance payload probe network failure: ${networkError?.message || 'unknown error'}`,
+      { stage: 'payload-probe-network' }
+    );
+  }
+
+  const raw = await response.text();
+  let data = {};
+  try { data = raw ? JSON.parse(raw) : {}; } catch {}
+
+  debugLog('payload-probe', 'Payload probe response received', {
+    httpStatus: response.status,
+    stage: data.stage || 'payload-probe-response',
+    endpointReachable: data.endpointReachable,
+    expectedRejection: data.expectedRejection,
+    upstreamHttpStatus: data.upstreamHttpStatus,
+    upstreamCode: data.upstreamCode,
+    message: data.upstreamMessage || data.error || data.message || (response.ok ? 'ok' : raw.slice(0, 300))
+  }, response.ok && data.ok && data.expectedRejection ? 'INFO' : 'ERROR');
+
+  if (!response.ok || !data.ok || !data.expectedRejection) {
+    throw errorWithDiagnostics(
+      data.error || 'KIE could not validate the real Seedance payload shape.',
+      {
+        stage: data.stage || 'payload-probe-response',
+        httpStatus: response.status,
+        upstreamHttpStatus: data.upstreamHttpStatus,
+        upstreamCode: data.upstreamCode
+      }
+    );
+  }
+
+  return true;
+}
+
 async function createTask(payload) {
   debugLog('create-task', 'Sending createTask request to MahGPT backend', {
     mode: payload.mode,
@@ -665,12 +717,15 @@ async function createTask(payload) {
     upstreamCode: data.upstreamCode,
     message: data.error || data.message || (response.ok ? 'ok' : raw.slice(0, 500)),
     taskId: data.taskId || null,
-    attempts: data.attempts || 1
+    attempts: data.attempts || 1,
+    cfRay: response.headers.get('cf-ray') || null,
+    server: response.headers.get('server') || null,
+    contentType: response.headers.get('content-type') || null
   }, response.ok && data.taskId ? 'INFO' : 'ERROR');
 
   if (!response.ok || !data.taskId) {
     const fallbackError = (!data.error && response.status === 502)
-      ? 'Gateway failure while creating the KIE task. The request reached MahGPT, but the upstream createTask call did not return a usable API response.'
+      ? 'KIE returned a gateway failure only when allocating the real Seedance generation. Authentication, credits lookup, endpoint connectivity, uploads, and payload-schema routing already passed. This points to KIE upstream capacity/routing, account entitlement, or the cost/size of this specific generation request rather than the MahGPT form itself.'
       : 'Could not create the Seedance task.';
     throw errorWithDiagnostics(data.error || fallbackError, {
       stage: data.stage || 'backend-generate',
@@ -883,8 +938,7 @@ async function generate() {
       }
     }
 
-    showWorking('queue');
-    const taskId = await createTask({
+    const generationPayload = {
       mode: state.mode,
       prompt,
       images,
@@ -893,7 +947,13 @@ async function generate() {
       resolution: state.resolution,
       aspectRatio: state.aspectRatio,
       generateAudio: state.audio
-    });
+    };
+
+    await checkPayloadSchemaProbe(generationPayload);
+    debugLog('payload-probe', 'Real payload shape reached the Seedance 2.5 validator successfully');
+
+    showWorking('queue');
+    const taskId = await createTask(generationPayload);
 
     const entry = {
       taskId,
