@@ -3111,6 +3111,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3236190/a-new-e-degree-shows-you-how-to-use-claude-to-automate-your-job-just-20-right-now.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-18T21:43:13.130Z",
+        "message_id": 419,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
