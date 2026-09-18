@@ -3094,6 +3094,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-18T19:59:24.850Z",
+        "message_id": 418,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
