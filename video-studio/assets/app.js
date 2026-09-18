@@ -555,6 +555,41 @@ async function uploadReference(ref, index) {
   return data.url;
 }
 
+async function checkCreditsPreflight() {
+  debugLog('credit', 'Checking KIE account credits before uploads');
+  let response;
+  try {
+    response = await fetch('/api/credit', { cache: 'no-store' });
+  } catch (networkError) {
+    debugLog('credit', 'Credit preflight network failure', { message: networkError?.message }, 'ERROR');
+    throw errorWithDiagnostics(`Credit check network failure: ${networkError?.message || 'unknown error'}`, { stage: 'credit-network' });
+  }
+
+  const raw = await response.text();
+  let data = {};
+  try { data = raw ? JSON.parse(raw) : {}; } catch {}
+
+  debugLog('credit', 'Credit preflight response received', {
+    httpStatus: response.status,
+    stage: data.stage || 'credit-response',
+    upstreamHttpStatus: data.upstreamHttpStatus,
+    upstreamCode: data.upstreamCode,
+    credits: data.credits,
+    message: data.error || data.message || (response.ok ? 'ok' : raw.slice(0, 500))
+  }, response.ok && data.ok ? 'INFO' : 'ERROR');
+
+  if (!response.ok || !data.ok) {
+    throw errorWithDiagnostics(data.error || 'Could not verify KIE credits.', {
+      stage: data.stage || 'credit-response',
+      httpStatus: response.status,
+      upstreamHttpStatus: data.upstreamHttpStatus,
+      upstreamCode: data.upstreamCode
+    });
+  }
+
+  return data.credits;
+}
+
 async function createTask(payload) {
   debugLog('create-task', 'Sending createTask request to MahGPT backend', {
     mode: payload.mode,
@@ -588,11 +623,15 @@ async function createTask(payload) {
     upstreamHttpStatus: data.upstreamHttpStatus,
     upstreamCode: data.upstreamCode,
     message: data.error || data.message || (response.ok ? 'ok' : raw.slice(0, 500)),
-    taskId: data.taskId || null
+    taskId: data.taskId || null,
+    attempts: data.attempts || 1
   }, response.ok && data.taskId ? 'INFO' : 'ERROR');
 
   if (!response.ok || !data.taskId) {
-    throw errorWithDiagnostics(data.error || 'Could not create the Seedance task.', {
+    const fallbackError = (!data.error && response.status === 502)
+      ? 'Gateway failure while creating the KIE task. The request reached MahGPT, but the upstream createTask call did not return a usable API response.'
+      : 'Could not create the Seedance task.';
+    throw errorWithDiagnostics(data.error || fallbackError, {
       stage: data.stage || 'backend-generate',
       httpStatus: response.status,
       upstreamHttpStatus: data.upstreamHttpStatus,
@@ -763,6 +802,10 @@ async function generate() {
       generateAudio: state.audio,
       promptChars: prompt.length
     });
+
+    const credits = await checkCreditsPreflight();
+    debugLog('credit', 'KIE credit preflight passed', { credits });
+
     if (state.mode === 'reference') {
       showWorking('upload');
       startElapsedTimer();
