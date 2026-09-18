@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "queue_date": "2026-09-17",
-  "created_at": "2026-09-17T09:59:38.574Z",
-  "source_feed_updated_at": "2026-09-17T09:59:34.566Z",
+  "queue_date": "2026-09-18",
+  "created_at": "2026-09-18T09:47:14.030Z",
+  "source_feed_updated_at": "2026-09-18T09:47:09.931Z",
   "items": [
     {
-      "story_id": "https://www.creativebloq.com/design/design-software/why-canva-hit-the-brakes-on-its-huge-ai-rollout-and-what-other-brands-can-learn-from-it",
-      "source_url": "https://www.creativebloq.com/design/design-software/why-canva-hit-the-brakes-on-its-huge-ai-rollout-and-what-other-brands-can-learn-from-it",
-      "headline": "Why Canva hit the brakes on its huge AI rollout (and what other brands can learn from it)",
-      "summary": "Canva co-founder Cameron Adams on why brands should look beyond the hype of the biggest AI models.",
+      "story_id": "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft",
+      "source_url": "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft",
+      "headline": "Massive Canva update adds 100 features to new ProSuite",
+      "summary": "It aims to \"automate the tedious, keep the craft\".",
       "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ssEfigFQsefZWDv82HaDdU-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ssEfigFQsefZWDv82HaDdU-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/HwGjfNduZKeiTmb8UygjHB-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HwGjfNduZKeiTmb8UygjHB-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -21,111 +21,229 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-canva-hit-the-brakes-on-its-huge-ai-rollout-and-what-other-brands-can-learn-from-it",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=massive-canva-update-adds-100-features-to-new-prosuite",
       "detected_partner": "canva",
       "product_url": "/go/canva.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-17T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-18T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-17T10:00:11.299Z",
-        "message_id": 409,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-17T10:04:43.284Z",
-        "message_id": "18007620686989172",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-creativebloq-com-design-design-software-why-canva-hit-the-brakes-on-it-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-creativebloq-com-design-design-software-massive-canva-update-aims-to-a-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-17T10:04:48.721Z",
-        "message_id": "18031635965845556",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/chatgpt/think-you-can-spot-a-chatgpt-image-take-my-real-or-ai-quiz-and-see-how-many-fool-you",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/think-you-can-spot-a-chatgpt-image-take-my-real-or-ai-quiz-and-see-how-many-fool-you",
-      "headline": "Think you can spot a ChatGPT image? Take my real-or-AI quiz and see how many fool you",
-      "summary": "ChatGPT can now create eerily realistic images. I mixed them with my own travel photos, can you spot the fakes?",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/JKAptBzRC3Gh5pZmRJhQjA-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/JKAptBzRC3Gh5pZmRJhQjA-1920-80.jpg",
+      "story_id": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+      "source_url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+      "headline": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/191:100/w_1280,c_limit/Napster_lead.jpg",
+      "image_url": "https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/191:100/w_1280,c_limit/Napster_lead.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=napster-is-back-and-it-wants-to-digitally-clone-teachers",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-18T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-18/Napster-Is-Back-and-It-Wants-to-Digitally-Clone-Teachers-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-wired-com-story-napster-is-back-and-it-wants-to-digitally-clone-teache-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/how-to-move-from-ai-discovery-to-ai-enforcement",
+      "source_url": "https://www.techradar.com/pro/how-to-move-from-ai-discovery-to-ai-enforcement",
+      "headline": "How to move from AI discovery to AI enforcement",
+      "summary": "Shifting shadow AI programs from inventory to real-time action.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2000,
+        "height": 1125,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=think-you-can-spot-a-chatgpt-image-take-my-real-or-ai-quiz-and-see-how-many-fool-you",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-move-from-ai-discovery-to-ai-enforcement",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-17T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-18T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-17T11:43:34.351Z",
-        "message_id": 410,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-17T14:42:04.965Z",
-        "message_id": "18625054849016064",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-techradar-com-ai-platforms-assistants-chatgpt-think-you-can-spot-a-cha-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-techradar-com-pro-how-to-move-from-ai-discovery-to-ai-enforcement-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-17T14:42:13.888Z",
-        "message_id": "18069243707735134",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/the-end-of-rip-and-replace-new-survey-finds-businesses-are-sticking-it-out-with-legacy-tech",
-      "source_url": "https://www.techradar.com/pro/the-end-of-rip-and-replace-new-survey-finds-businesses-are-sticking-it-out-with-legacy-tech",
-      "headline": "The end of 'rip and replace'? New survey finds businesses are sticking it out with legacy tech",
-      "summary": "Despite scaling to AI, many businesses are keeping hold of older hardware, opting to upgrade existing devices wherever possible, rather than replace them.",
+      "story_id": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+      "source_url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+      "headline": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/191:100/w_1280,c_limit/091526-Bioweapon%20AI.jpg",
+      "image_url": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/191:100/w_1280,c_limit/091526-Bioweapon%20AI.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-ai-isnt-likely-to-wipe-out-humanity-with-bioweapons",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-18T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-18/Why-AI-Isn-t-Likely-to-Wipe-Out-Humanity-With-Bioweapons-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-wired-com-story-why-ai-bioweapons-wont-wipe-out-humanity--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3236190/a-new-e-degree-shows-you-how-to-use-claude-to-automate-your-job-just-20-right-now.html",
+      "source_url": "https://www.macworld.com/article/3236190/a-new-e-degree-shows-you-how-to-use-claude-to-automate-your-job-just-20-right-now.html",
+      "headline": "A new e-degree shows you how to use Claude to automate your job, just $20 right now",
+      "summary": "Macworld TL;DR: Learn to automate real work with Claude through this Claude AI e-degree, now only $19.99 (reg. $159). Most people are not using AI to its full potential. One of the most useful things AI can do is automate basic tasks, but learning how to do that is tough. If you want help, the Clau",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3236190-0-61565200-1789718456-Claude.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3236190-0-61565200-1789718456-Claude.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-new-e-degree-shows-you-how-to-use-claude-to-automate-your-job-just-20-right-now",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-18T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-macworld-com-article-3236190-a-new-e-degree-shows-you-how-to-use-claud-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/health-fitness/oral-health/a-camera-in-a-toothbrush-dyson-tells-us-why-it-combined-wifi-ai-intelligent-sensing-and-fluid-dynamics-with-a-highly-engineered-brushing-experience-to-create-the-dyson-camerajet",
+      "source_url": "https://www.techradar.com/health-fitness/oral-health/a-camera-in-a-toothbrush-dyson-tells-us-why-it-combined-wifi-ai-intelligent-sensing-and-fluid-dynamics-with-a-highly-engineered-brushing-experience-to-create-the-dyson-camerajet",
+      "headline": "A camera in a toothbrush? Dyson tells us why it combined 'WiFi, AI, intelligent sensing and fluid dynamics with a highly engineered brushing experience' to create the Dyson Camerajet",
+      "summary": "Dyson tells us how (and why) it created the revolutionary, slightly controversial Camerajet toothbrush.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/synLobxmTXs8M9hwrRiLx8-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/synLobxmTXs8M9hwrRiLx8-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/jcVe48FnUnxNU47gJLhDYo-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jcVe48FnUnxNU47gJLhDYo-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
@@ -135,294 +253,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-end-of-rip-and-replace-new-survey-finds-businesses-are-sticking-it-out-with-legacy-tec",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-camera-in-a-toothbrush-dyson-tells-us-why-it-combined-wifi-ai-intelligent-sensing-and-fl",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-17T09:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-17T06:09:38.623Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-17T18:34:53.291Z",
-        "message_id": "18157760665517742",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-techradar-com-pro-the-end-of-rip-and-replace-new-survey-finds-business-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-17T18:35:02.791Z",
-        "message_id": "18125871814842172",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/were-not-stopping-salesforce-uk-and-i-ceo-calls-for-greater-training-and-skills-as-it-continues-on-its-mission-to-boost-workers-across-the-country",
-      "source_url": "https://www.techradar.com/pro/were-not-stopping-salesforce-uk-and-i-ceo-calls-for-greater-training-and-skills-as-it-continues-on-its-mission-to-boost-workers-across-the-country",
-      "headline": "‘We’re not stopping’: Salesforce UK&I CEO calls for greater training and skills as it continues on its “mission” to boost workers across the country",
-      "summary": "Salesforce UK&I CEO says greater AI skills and training can benefit users across the country.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6wtzTiLoEYW3oCzFJp2TFn-970-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/6wtzTiLoEYW3oCzFJp2TFn-970-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 970,
-        "height": 548,
-        "aspectRatio": 1.77007299270073,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=were-not-stopping-salesforce-uk-and-i-ceo-calls-for-greater-training-and-skills-as-it-cont",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-17T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-17T15:33:41.756Z",
-        "message_id": 411,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-17T20:22:57.239Z",
-        "message_id": "18115803632051139",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-techradar-com-pro-were-not-stopping-salesforce-uk-and-i-ceo-calls-for--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-17T20:23:07.899Z",
-        "message_id": "18120929408303510",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "source_url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "headline": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 670,
-        "aspectRatio": 1.791044776119403,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=iceland-based-treble-raises-18-million-for-its-voice-simulation-platform",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-17T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-17T19:14:38.121Z",
-        "message_id": 412,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-17T21:46:23.722Z",
-        "message_id": "18105881759240171",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-17/https-techcrunch-com-2026-09-16-iceland-based-treble-raises-18-million-for-its-v-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-17T21:46:31.383Z",
-        "message_id": "18095267762540776",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "source_url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "headline": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-17T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-17T22:21:36.664Z",
-        "message_id": 413,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-17T23:34:24.396Z",
-        "message_id": "18430555954179441",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-17/https-techcrunch-com-2026-09-16-your-startups-next-teammate-might-be-an-ai-agent-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-17T23:34:32.589Z",
-        "message_id": "17886179034478259",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "source_url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "headline": "Al Gore says the real AI risk isn&#8217;t data centers",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Al-Gore.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Al-Gore.jpg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=al-gore-says-the-real-ai-risk-isn-and-8217-t-data-centers",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-17T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-18T00:40:06.318Z",
-        "message_id": 414,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-18T01:27:25.903Z",
-        "message_id": "18124774615872801",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-17/https-techcrunch-com-2026-09-16-al-gore-has-a-surprisingly-calm-take-on-the-ai-d-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-18T01:27:34.841Z",
-        "message_id": "17879210052628977",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "source_url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "headline": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as a",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&strip=all&crop=5.0466377440347%2C0%2C89.906724511931%2C100&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&strip=all&crop=5.0466377440347%2C0%2C89.906724511931%2C100&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1199,
-        "height": 634,
-        "aspectRatio": 1.891167192429022,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=snap-is-launching-a-new-specs-ai-tool-and-its-coming-to-ios-and-mac",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-17T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-18T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -438,7 +273,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-theverge-com-tech-996078-snap-specs-intelligence-ai-agent-ios-mac-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-techradar-com-health-fitness-oral-health-a-camera-in-a-toothbrush-dyso-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -448,13 +283,105 @@
       }
     },
     {
-      "story_id": "https://www.engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence/",
-      "source_url": "https://www.engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence/",
-      "headline": "Snap introduces a standalone AI assistant, Specs Intelligence",
-      "summary": "The new assistant works with the company's new AR glasses, but will also have its own mobile and desktop apps.",
+      "story_id": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source_url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "headline": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-and-8216-ai-factories-a",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-18T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-18/https-techcrunch-com-2026-09-17-crusoe-raises-3-9b-to-build-massive-data-centers-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/rtx-5090s-are-going-for-as-much-as-usd9000-as-ai-server-builders-reportedly-buy-nvidias-flagship-by-the-pallet-but-the-photos-behind-the-story-may-be-ai-generated",
+      "source_url": "https://www.techradar.com/pro/rtx-5090s-are-going-for-as-much-as-usd9000-as-ai-server-builders-reportedly-buy-nvidias-flagship-by-the-pallet-but-the-photos-behind-the-story-may-be-ai-generated",
+      "headline": "RTX 5090s are going for as much as $9000, as AI server builders reportedly buy Nvidia's flagship by the pallet, but the photos behind the story may be AI-generated",
+      "summary": "AI firms are reportedly buying RTX 5090s by the pallet, which Nvidia's own driver license has prohibited since 2017.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4eNnJHesZM8kGr2NnZtC2U-970-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4eNnJHesZM8kGr2NnZtC2U-970-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 970,
+        "height": 545,
+        "aspectRatio": 1.7798165137614679,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=rtx-5090s-are-going-for-as-much-as-9000-as-ai-server-builders-reportedly-buy-nvidias-flags",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-18T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-techradar-com-pro-rtx-5090s-are-going-for-as-much-as-usd9000-as-ai-ser-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
+      "source_url": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
+      "headline": "Google's revamped CC is an AI agent for families and groups",
+      "summary": "CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing.",
       "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/snap-introduces-a-standalone-ai-assistant-specs-intelligence/l-intro-1789590420.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/snap-introduces-a-standalone-ai-assistant-specs-intelligence/l-intro-1789590420.jpg",
+      "original_image_url": "https://www.engadget.com/img/gallery/googles-revamped-cc-is-an-ai-agent-for-families-and-groups/l-intro-1789685266.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/googles-revamped-cc-is-an-ai-agent-for-families-and-groups/l-intro-1789685266.jpg",
       "image_validation": {
         "valid": true,
         "width": 1600,
@@ -464,11 +391,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=snap-introduces-a-standalone-ai-assistant-specs-intelligence",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=googles-revamped-cc-is-an-ai-agent-for-families-and-groups",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-17T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-18T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -484,7 +411,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-engadget-com-2260736-snap-introduces-a-standalone-ai-assistant-specs-i-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-engadget-com-2261924-google-cc-is-an-ai-agent-for-families-and-groups--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -494,27 +421,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/security/how-the-mighty-have-fallen-the-notorious-stuxnet-malware-source-code-has-been-replicated-and-posted-on-github-for-all-to-see",
-      "source_url": "https://www.techradar.com/pro/security/how-the-mighty-have-fallen-the-notorious-stuxnet-malware-source-code-has-been-replicated-and-posted-on-github-for-all-to-see",
-      "headline": "How the mighty have fallen — the notorious Stuxnet malware source code has been replicated and posted on GitHub for all to see",
-      "summary": "Recreating a prolific malware using a mix of publicly available decompiled binaries and AI?",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg",
+      "story_id": "https://www.macworld.com/article/670458/iphone-buying-guide.html",
+      "source_url": "https://www.macworld.com/article/670458/iphone-buying-guide.html",
+      "headline": "iPhone buying guide 2026: Which iPhone should you buy?",
+      "summary": "Macworld Apple now has a wider iPhone range than ever, making it harder to decide which model is right for you. Your choice will largely come down to price, camera capabilities, display, performance, battery life, size and storage. You may also be wondering which screen size suits you, how much stor",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/670458-0-88599400-1789684695-iPhone-Buying-Guide-2026.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/670458-0-88599400-1789684695-iPhone-Buying-Guide-2026.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1609,
-        "aspectRatio": 1.591050341827222,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-the-mighty-have-fallen-the-notorious-stuxnet-malware-source-code-has-been-replicated-a",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=iphone-buying-guide-2026-which-iphone-should-you-buy",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-17T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-18T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -530,7 +457,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-17/https-www-techradar-com-pro-security-how-the-mighty-have-fallen-the-notorious-st-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-macworld-com-article-670458-iphone-buying-guide-html-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
