@@ -10,7 +10,7 @@ function validTaskId(value) {
 }
 
 export async function onRequestGet({ request, env }) {
-  if (!env.KIE_API_KEY) return json({ error: 'KIE_API_KEY is not configured on the server.' }, 503);
+  if (!env.KIE_API_KEY) return json({ error: 'KIE_API_KEY is not configured on the server.', stage: 'status-config' }, 503);
   const taskId = new URL(request.url).searchParams.get('taskId');
   if (!validTaskId(taskId)) return json({ error: 'A valid taskId is required.' }, 400);
 
@@ -18,9 +18,16 @@ export async function onRequestGet({ request, env }) {
     const upstream = await fetch(`https://api.kie.ai/api/v1/jobs/recordInfo?taskId=${encodeURIComponent(taskId)}`, {
       headers: { Authorization: `Bearer ${env.KIE_API_KEY}` }
     });
-    const data = await upstream.json().catch(() => null);
+    const rawText = await upstream.text();
+    let data = null;
+    try { data = rawText ? JSON.parse(rawText) : null; } catch {}
     if (!upstream.ok || data?.code !== 200 || !data?.data) {
-      return json({ error: data?.msg || `KIE status request failed (${upstream.status}).` }, upstream.status >= 400 ? upstream.status : 502);
+      return json({
+        error: data?.msg || data?.message || (rawText ? rawText.slice(0, 1000) : null) || `KIE status request failed (HTTP ${upstream.status}).`,
+        stage: 'kie-status',
+        upstreamHttpStatus: upstream.status,
+        upstreamCode: data?.code ?? null
+      }, upstream.status >= 400 && upstream.status < 600 ? upstream.status : 502);
     }
 
     let result = null;
@@ -34,9 +41,12 @@ export async function onRequestGet({ request, env }) {
       failMsg: data.data.failMsg || null,
       costTime: data.data.costTime || null,
       completeTime: data.data.completeTime || null,
-      createTime: data.data.createTime || null
+      createTime: data.data.createTime || null,
+      stage: 'kie-status',
+      upstreamHttpStatus: upstream.status,
+      upstreamCode: data?.code ?? null
     });
   } catch (error) {
-    return json({ error: error?.message || 'Could not query task status.' }, 500);
+    return json({ error: error?.message || 'Could not query task status.', stage: 'mahgpt-status' }, 500);
   }
 }
