@@ -596,6 +596,42 @@ async function checkCreateTaskConnectivity() {
   return true;
 }
 
+function classifyGenerationFailure(data = {}) {
+  const failCode = String(data.failCode || '').toLowerCase();
+  const failMsg = String(data.failMsg || '');
+  const lower = failMsg.toLowerCase();
+
+  if (lower.includes('sensitive information') || failCode.includes('sensitive')) {
+    return {
+      kind: 'moderation',
+      userMessage: 'Seedance created the task, but its output moderation rejected the generated video as potentially sensitive. The MahGPT → KIE connection, uploads, payload validation and task creation all succeeded.'
+    };
+  }
+
+  return {
+    kind: 'generation',
+    userMessage: failMsg || data.failCode || 'Seedance could not complete this generation.'
+  };
+}
+
+async function logCreditsAfterFailure() {
+  try {
+    const response = await fetch('/api/credit', { cache: 'no-store' });
+    const raw = await response.text();
+    let data = {};
+    try { data = raw ? JSON.parse(raw) : {}; } catch {}
+    debugLog('credit', 'Post-failure credit check', {
+      httpStatus: response.status,
+      credits: data.credits,
+      upstreamHttpStatus: data.upstreamHttpStatus,
+      upstreamCode: data.upstreamCode,
+      message: data.error || (response.ok ? 'ok' : raw.slice(0, 300))
+    }, response.ok && data.ok ? 'INFO' : 'ERROR');
+  } catch (err) {
+    debugLog('credit', 'Could not verify credits after task failure', { message: err?.message }, 'WARN');
+  }
+}
+
 async function checkCreditsPreflight() {
   debugLog('credit', 'Checking KIE account credits before uploads');
   let response;
@@ -800,11 +836,33 @@ async function pollTask(taskId, startedAt = Date.now()) {
         return;
       }
       if (normalized === 'fail' || normalized === 'failed') {
-        const message = data.failMsg || data.failCode || 'Seedance could not complete this generation.';
-        updateHistory(taskId, { state: 'fail', failMsg: message, completedAt: Date.now() });
-        debugLog('result', 'KIE task failed after creation', { taskId, failCode: data.failCode || null, failMsg: data.failMsg || message }, 'ERROR');
-        setDiagnosticsState('Failed', 'error');
-        showFailure(message, taskId);
+        const failure = classifyGenerationFailure(data);
+        const originalMessage = data.failMsg || data.failCode || failure.userMessage;
+        updateHistory(taskId, {
+          state: 'fail',
+          failMsg: failure.userMessage,
+          failCode: data.failCode || null,
+          providerFailMsg: data.failMsg || null,
+          failureKind: failure.kind,
+          completedAt: Date.now()
+        });
+        debugLog('result', 'KIE task failed after creation', {
+          taskId,
+          failureKind: failure.kind,
+          failCode: data.failCode || null,
+          failMsg: data.failMsg || originalMessage
+        }, 'ERROR');
+
+        if (failure.kind === 'moderation') {
+          debugLog('moderation', 'Provider output moderation blocked the generated result. No automatic retry will be attempted.', {
+            taskId,
+            providerMessage: data.failMsg || originalMessage
+          }, 'WARN');
+        }
+
+        await logCreditsAfterFailure();
+        setDiagnosticsState(failure.kind === 'moderation' ? 'Moderation blocked' : 'Failed', 'error');
+        showFailure(failure.userMessage, taskId);
         renderHistory();
         return;
       }
