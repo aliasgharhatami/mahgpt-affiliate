@@ -6,6 +6,7 @@ const MAX_IMAGE_BYTES = 30 * 1024 * 1024;
 // Keep a little headroom for multipart/form-data overhead.
 const MAX_VIDEO_BYTES = 95 * 1024 * 1024;
 const MAX_REFERENCE_VIDEO_SECONDS = 30;
+const REFERENCE_VIDEO_ENCODER_PADDING_TOLERANCE = 0.25;
 const ALLOWED_IMAGE_TYPES = new Set(['image/jpeg', 'image/png', 'image/webp']);
 const ALLOWED_VIDEO_TYPES = new Set(['video/mp4', 'video/quicktime', 'video/x-matroska']);
 const IMAGE_EXTENSIONS = new Set(['jpg', 'jpeg', 'png', 'webp']);
@@ -836,12 +837,18 @@ async function generate() {
     setDiagnosticsState('Blocked', 'error');
     return setError(msg);
   }
-  if (totalReferenceVideoSeconds > MAX_REFERENCE_VIDEO_SECONDS + 0.05) {
-    const msg = `KIE Seedance 2.5 allows at most 30 seconds total reference-video duration. Selected total: ${totalReferenceVideoSeconds.toFixed(1)}s.`;
+  if (totalReferenceVideoSeconds > MAX_REFERENCE_VIDEO_SECONDS + REFERENCE_VIDEO_ENCODER_PADDING_TOLERANCE) {
+    const msg = `KIE Seedance 2.5 allows at most 30 seconds total reference-video duration. Selected metadata total: ${totalReferenceVideoSeconds.toFixed(3)}s. Trim the reference video slightly (for example to 29.8–29.9s) and try again.`;
     debugLog('validation', msg, { totalReferenceVideoSeconds }, 'ERROR');
     setDiagnosticsState('Blocked', 'error');
     setReferenceNotice(msg, 'error');
     return setError(msg);
+  }
+
+  if (totalReferenceVideoSeconds > MAX_REFERENCE_VIDEO_SECONDS) {
+    const warning = `Reference video metadata is ${totalReferenceVideoSeconds.toFixed(3)}s, only ${(totalReferenceVideoSeconds - MAX_REFERENCE_VIDEO_SECONDS).toFixed(3)}s over 30s. This can be encoder/frame padding, so MahGPT will submit it and let KIE perform the final duration validation.`;
+    debugLog('validation', warning, { totalReferenceVideoSeconds, tolerance: REFERENCE_VIDEO_ENCODER_PADDING_TOLERANCE }, 'WARN');
+    setReferenceNotice(warning, 'ok');
   }
 
   setBusy(true);
