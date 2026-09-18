@@ -179,6 +179,27 @@
       </aside>
     </div>
 
+    <section id="diagnosticsPanel" class="diagnostics-section">
+      <div class="diagnostics-heading">
+        <div>
+          <span class="step">DBG</span>
+          <div>
+            <h2>Generation diagnostics</h2>
+            <p>Safe runtime log — API keys and full reference URLs are never shown.</p>
+          </div>
+        </div>
+        <div class="diagnostics-actions">
+          <button id="copyDiagnostics" class="secondary-button compact" type="button">Copy log</button>
+          <button id="clearDiagnostics" class="text-button" type="button">Clear</button>
+        </div>
+      </div>
+      <div class="diagnostics-status">
+        <span id="diagnosticsState" class="diagnostics-pill">Idle</span>
+        <span id="diagnosticsRunId" class="diagnostics-run"></span>
+      </div>
+      <pre id="diagnosticsLog" class="diagnostics-log">No generation attempt logged yet.</pre>
+    </section>
+
     <section class="history-section">
       <div class="history-heading">
         <div><span class="step">03</span><h2>Recent generations</h2></div>
