@@ -1866,6 +1866,20 @@
         "message_id": "18104017793631584",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3236190/a-new-e-degree-shows-you-how-to-use-claude-to-automate-your-job-just-20-right-now.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-18T18:32:49.424Z",
+        "message_id": "18461836180136469",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-18T18:32:57.268Z",
+        "message_id": "18103453214256032",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
