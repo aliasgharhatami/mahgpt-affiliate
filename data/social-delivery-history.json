@@ -3060,6 +3060,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-18T14:12:14.160Z",
+        "message_id": 416,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
