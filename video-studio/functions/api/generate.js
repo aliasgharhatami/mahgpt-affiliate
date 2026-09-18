@@ -74,9 +74,7 @@ export async function onRequestPost({ request, env }) {
       return json({ error: `Prompt references ${badTags.join(', ')}, but those reference files were not supplied.` }, 400);
     }
 
-    // Keep the payload deliberately limited to fields documented for the
-    // current KIE Seedance 2.5 createTask endpoint. Extra fields that were
-    // accepted by older/other KIE models can cause request validation errors.
+    // Keep the payload aligned with the current KIE Seedance 2.5 schema.
     const input = {
       prompt,
       return_last_frame: false,
@@ -145,7 +143,6 @@ export async function onRequestPost({ request, env }) {
         generateAudio,
         promptChars: prompt.length
       }
-    });
     });
   } catch (error) {
     return json({
