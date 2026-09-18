@@ -5,6 +5,7 @@ const MAX_IMAGE_BYTES = 30 * 1024 * 1024;
 // Cloudflare Free/Pro proxied request bodies are limited to about 100 MB.
 // Keep a little headroom for multipart/form-data overhead.
 const MAX_VIDEO_BYTES = 95 * 1024 * 1024;
+const MAX_REFERENCE_VIDEO_SECONDS = 30;
 const ALLOWED_IMAGE_TYPES = new Set(['image/jpeg', 'image/png', 'image/webp']);
 const ALLOWED_VIDEO_TYPES = new Set(['video/mp4', 'video/quicktime', 'video/x-matroska']);
 const IMAGE_EXTENSIONS = new Set(['jpg', 'jpeg', 'png', 'webp']);
@@ -306,8 +307,8 @@ function renderReferences() {
   const info = $('#referenceLimits');
   if (info) {
     info.textContent = state.references.length
-      ? `${counts.images} image reference(s) · ${counts.videos} video reference(s) selected. Video files: MP4/MOV/MKV up to 95 MB each.`
-      : 'Images up to 30 MB · videos up to 95 MB · MP4/MOV/MKV supported.';
+      ? `${counts.images} image reference(s) · ${counts.videos} video reference(s) selected. Videos: MP4/MOV/MKV up to 95 MB each · max 30s total reference-video duration.`
+      : 'Images up to 30 MB · videos up to 95 MB · MP4/MOV/MKV · max 30s total reference-video duration.';
   }
 }
 
@@ -515,7 +516,8 @@ async function uploadReference(ref, index) {
     fileName: ref.file?.name,
     kind: ref.kind,
     size: ref.file?.size,
-    mime: ref.file?.type || 'unknown'
+    mime: ref.file?.type || 'unknown',
+    duration: Number.isFinite(ref.duration) ? ref.duration : 'unknown'
   });
   const body = new FormData();
   body.append('file', ref.file, ref.file.name);
@@ -553,6 +555,44 @@ async function uploadReference(ref, index) {
   ref.uploadedUrl = data.url;
   debugLog('upload', `${ref.tag} uploaded successfully`, { kind: data.kind || ref.kind, url: data.url });
   return data.url;
+}
+
+async function checkCreateTaskConnectivity() {
+  debugLog('probe', 'Checking KIE createTask endpoint before uploading references');
+  let response;
+  try {
+    response = await fetch('/api/create-probe', { cache: 'no-store' });
+  } catch (networkError) {
+    debugLog('probe', 'createTask probe network failure', { message: networkError?.message }, 'ERROR');
+    throw errorWithDiagnostics(`createTask connectivity probe failed: ${networkError?.message || 'unknown error'}`, { stage: 'probe-network' });
+  }
+
+  const raw = await response.text();
+  let data = {};
+  try { data = raw ? JSON.parse(raw) : {}; } catch {}
+
+  debugLog('probe', 'createTask probe response received', {
+    httpStatus: response.status,
+    stage: data.stage || 'probe-response',
+    endpointReachable: data.endpointReachable,
+    expectedRejection: data.expectedRejection,
+    upstreamHttpStatus: data.upstreamHttpStatus,
+    upstreamCode: data.upstreamCode,
+    message: data.upstreamMessage || data.error || data.message || (response.ok ? 'ok' : raw.slice(0, 300))
+  }, response.ok && data.endpointReachable ? 'INFO' : 'ERROR');
+
+  if (!response.ok || !data.endpointReachable) {
+    throw errorWithDiagnostics(
+      data.error || 'KIE createTask endpoint is not returning a usable API response.',
+      {
+        stage: data.stage || 'probe-response',
+        httpStatus: response.status,
+        upstreamHttpStatus: data.upstreamHttpStatus,
+        upstreamCode: data.upstreamCode
+      }
+    );
+  }
+  return true;
 }
 
 async function checkCreditsPreflight() {
@@ -787,6 +827,23 @@ async function generate() {
     return setError(tagError);
   }
 
+  const selectedVideos = state.references.filter(x => x.kind === 'video');
+  const unknownDurationVideos = selectedVideos.filter(x => !Number.isFinite(x.duration));
+  const totalReferenceVideoSeconds = selectedVideos.reduce((sum, x) => sum + (Number.isFinite(x.duration) ? x.duration : 0), 0);
+  if (unknownDurationVideos.length) {
+    const msg = 'Could not read the duration of one or more reference videos. Re-encode the video as a standard MP4 (H.264/AAC) and select it again.';
+    debugLog('validation', msg, { unknownDurationVideoCount: unknownDurationVideos.length }, 'ERROR');
+    setDiagnosticsState('Blocked', 'error');
+    return setError(msg);
+  }
+  if (totalReferenceVideoSeconds > MAX_REFERENCE_VIDEO_SECONDS + 0.05) {
+    const msg = `KIE Seedance 2.5 allows at most 30 seconds total reference-video duration. Selected total: ${totalReferenceVideoSeconds.toFixed(1)}s.`;
+    debugLog('validation', msg, { totalReferenceVideoSeconds }, 'ERROR');
+    setDiagnosticsState('Blocked', 'error');
+    setReferenceNotice(msg, 'error');
+    return setError(msg);
+  }
+
   setBusy(true);
   try {
     const images = [];
@@ -805,6 +862,9 @@ async function generate() {
 
     const credits = await checkCreditsPreflight();
     debugLog('credit', 'KIE credit preflight passed', { credits });
+
+    await checkCreateTaskConnectivity();
+    debugLog('probe', 'KIE createTask endpoint connectivity passed');
 
     if (state.mode === 'reference') {
       showWorking('upload');
