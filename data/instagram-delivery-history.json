@@ -1838,6 +1838,20 @@
         "message_id": "17973597714154854",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/how-to-move-from-ai-discovery-to-ai-enforcement": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-18T15:01:41.774Z",
+        "message_id": "18101696144200797",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-18T15:01:50.197Z",
+        "message_id": "18113650181113910",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
