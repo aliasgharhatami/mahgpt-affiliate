@@ -23,7 +23,7 @@ function extension(name = '') {
 }
 
 export async function onRequestPost({ request, env }) {
-  if (!env.KIE_API_KEY) return json({ error: 'KIE_API_KEY is not configured on the server.' }, 503);
+  if (!env.KIE_API_KEY) return json({ error: 'KIE_API_KEY is not configured on the server.', stage: 'upload-config' }, 503);
 
   try {
     const form = await request.formData();
@@ -53,21 +53,32 @@ export async function onRequestPost({ request, env }) {
       body: outgoing
     });
 
-    const data = await upstream.json().catch(() => null);
+    const rawText = await upstream.text();
+    let data = null;
+    try { data = rawText ? JSON.parse(rawText) : null; } catch {}
     if (!upstream.ok || !data?.success) {
-      return json({ error: data?.msg || data?.message || `KIE upload failed (${upstream.status}).` }, upstream.status >= 400 ? upstream.status : 502);
+      const upstreamMessage = data?.msg || data?.message || data?.error || (rawText ? rawText.slice(0, 1000) : null) || `KIE upload failed (HTTP ${upstream.status}).`;
+      return json({
+        error: String(upstreamMessage),
+        stage: 'kie-upload',
+        upstreamHttpStatus: upstream.status,
+        upstreamCode: data?.code ?? null
+      }, upstream.status >= 400 && upstream.status < 600 ? upstream.status : 502);
     }
 
     const url = data?.data?.downloadUrl || data?.data?.fileUrl;
-    if (!url) return json({ error: 'KIE uploaded the reference but returned no usable URL.' }, 502);
+    if (!url) return json({ error: 'KIE uploaded the reference but returned no usable URL.', stage: 'kie-upload-result', upstreamHttpStatus: upstream.status, upstreamCode: data?.code ?? null }, 502);
 
     return json({
       url,
       kind: isVideo ? 'video' : 'image',
       fileName: data?.data?.fileName || uniqueName,
-      expiresAt: data?.data?.expiresAt || null
+      expiresAt: data?.data?.expiresAt || null,
+      stage: 'kie-upload',
+      upstreamHttpStatus: upstream.status,
+      upstreamCode: data?.code ?? null
     });
   } catch (error) {
-    return json({ error: error?.message || 'Reference upload failed.' }, 500);
+    return json({ error: error?.message || 'Reference upload failed.', stage: 'mahgpt-upload' }, 500);
   }
 }
