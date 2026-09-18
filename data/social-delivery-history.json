@@ -3077,6 +3077,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/how-to-move-from-ai-discovery-to-ai-enforcement": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-18T17:42:43.645Z",
+        "message_id": 417,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
