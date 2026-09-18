@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T09:59:34.566Z",
+  "updatedAt": "2026-09-18T09:47:09.931Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "canva",
       "toolName": "Canva AI",
       "category": "Partner watch",
-      "title": "Why Canva hit the brakes on its huge AI rollout (and what other brands can learn from it)",
-      "summary": "Canva co-founder Cameron Adams on why brands should look beyond the hype of the biggest AI models.",
+      "title": "Massive Canva update adds 100 features to new ProSuite",
+      "summary": "It aims to \"automate the tedious, keep the craft\".",
       "guide": "/partners/canva.html",
-      "source": "https://www.creativebloq.com/design/design-software/why-canva-hit-the-brakes-on-its-huge-ai-rollout-and-what-other-brands-can-learn-from-it",
-      "publishedAt": "2026-09-17T06:44:33.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ssEfigFQsefZWDv82HaDdU-1920-80.jpg"
+      "source": "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft",
+      "publishedAt": "2026-09-17T10:39:48.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/HwGjfNduZKeiTmb8UygjHB-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Think you can spot a ChatGPT image? Take my real-or-AI quiz and see how many fool you",
-      "summary": "ChatGPT can now create eerily realistic images. I mixed them with my own travel photos, can you spot the fakes?",
+      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/chatgpt/think-you-can-spot-a-chatgpt-image-take-my-real-or-ai-quiz-and-see-how-many-fool-you",
-      "publishedAt": "2026-09-17T09:07:39.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/JKAptBzRC3Gh5pZmRJhQjA-1920-80.jpg"
+      "source": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+      "publishedAt": "2026-09-18T09:15:00.000Z",
+      "image": "https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/191:100/w_1280,c_limit/Napster_lead.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The end of 'rip and replace'? New survey finds businesses are sticking it out with legacy tech",
-      "summary": "Despite scaling to AI, many businesses are keeping hold of older hardware, opting to upgrade existing devices wherever possible, rather than replace them.",
+      "title": "How to move from AI discovery to AI enforcement",
+      "summary": "Shifting shadow AI programs from inventory to real-time action.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-end-of-rip-and-replace-new-survey-finds-businesses-are-sticking-it-out-with-legacy-tech",
-      "publishedAt": "2026-09-17T06:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/synLobxmTXs8M9hwrRiLx8-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/how-to-move-from-ai-discovery-to-ai-enforcement",
+      "publishedAt": "2026-09-18T09:08:19.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "‘We’re not stopping’: Salesforce UK&I CEO calls for greater training and skills as it continues on its “mission” to boost workers across the country",
-      "summary": "Salesforce UK&I CEO says greater AI skills and training can benefit users across the country.",
+      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/were-not-stopping-salesforce-uk-and-i-ceo-calls-for-greater-training-and-skills-as-it-continues-on-its-mission-to-boost-workers-across-the-country",
-      "publishedAt": "2026-09-17T05:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6wtzTiLoEYW3oCzFJp2TFn-970-80.jpg"
+      "source": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+      "publishedAt": "2026-09-18T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/191:100/w_1280,c_limit/091526-Bioweapon%20AI.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "title": "A new e-degree shows you how to use Claude to automate your job, just $20 right now",
+      "summary": "Macworld TL;DR: Learn to automate real work with Claude through this Claude AI e-degree , now only $19.99 (reg. $159). Most people are not using AI to its full potential. One of the most useful things AI can do is automate basic tasks, but learning how to do that is tough. If you want help, the Clau",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "publishedAt": "2026-09-17T05:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670"
+      "source": "https://www.macworld.com/article/3236190/a-new-e-degree-shows-you-how-to-use-claude-to-automate-your-job-just-20-right-now.html",
+      "publishedAt": "2026-09-18T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3236190-0-61565200-1789718456-Claude.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+      "title": "A camera in a toothbrush? Dyson tells us why it combined 'WiFi, AI, intelligent sensing and fluid dynamics with a highly engineered brushing experience' to create the Dyson Camerajet",
+      "summary": "Dyson tells us how (and why) it created the revolutionary, slightly controversial Camerajet toothbrush.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-17T03:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800"
+      "source": "https://www.techradar.com/health-fitness/oral-health/a-camera-in-a-toothbrush-dyson-tells-us-why-it-combined-wifi-ai-intelligent-sensing-and-fluid-dynamics-with-a-highly-engineered-brushing-experience-to-create-the-dyson-camerajet",
+      "publishedAt": "2026-09-18T01:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/jcVe48FnUnxNU47gJLhDYo-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Al Gore says the real AI risk isn&#8217;t data centers",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;",
+      "summary": "The round values the data center giant at $30.9 billion.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "publishedAt": "2026-09-16T23:43:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Al-Gore.jpg?resize=1200,800"
+      "source": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "publishedAt": "2026-09-17T23:25:52.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as a",
+      "title": "RTX 5090s are going for as much as $9000, as AI server builders reportedly buy Nvidia's flagship by the pallet, but the photos behind the story may be AI-generated",
+      "summary": "AI firms are reportedly buying RTX 5090s by the pallet, which Nvidia's own driver license has prohibited since 2017.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "publishedAt": "2026-09-16T23:40:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&strip=all&crop=5.0466377440347%2C0%2C89.906724511931%2C100&w=1200"
+      "source": "https://www.techradar.com/pro/rtx-5090s-are-going-for-as-much-as-usd9000-as-ai-server-builders-reportedly-buy-nvidias-flagship-by-the-pallet-but-the-photos-behind-the-story-may-be-ai-generated",
+      "publishedAt": "2026-09-17T23:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4eNnJHesZM8kGr2NnZtC2U-970-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Snap introduces a standalone AI assistant, Specs Intelligence",
-      "summary": "The new assistant works with the company's new AR glasses, but will also have its own mobile and desktop apps.",
+      "title": "Google's revamped CC is an AI agent for families and groups",
+      "summary": "CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence/",
-      "publishedAt": "2026-09-16T23:40:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/snap-introduces-a-standalone-ai-assistant-specs-intelligence/l-intro-1789590420.jpg"
+      "source": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
+      "publishedAt": "2026-09-17T22:55:08.000Z",
+      "image": "https://www.engadget.com/img/gallery/googles-revamped-cc-is-an-ai-agent-for-families-and-groups/l-intro-1789685266.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How the mighty have fallen — the notorious Stuxnet malware source code has been replicated and posted on GitHub for all to see",
-      "summary": "Recreating a prolific malware using a mix of publicly available decompiled binaries and AI?",
+      "title": "iPhone buying guide 2026: Which iPhone should you buy?",
+      "summary": "Macworld Apple now has a wider iPhone range than ever, making it harder to decide which model is right for you. Your choice will largely come down to price, camera capabilities, display, performance, battery life, size and storage. You may also be wondering which screen size suits you, how much stor",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/security/how-the-mighty-have-fallen-the-notorious-stuxnet-malware-source-code-has-been-replicated-and-posted-on-github-for-all-to-see",
-      "publishedAt": "2026-09-16T23:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg"
+      "source": "https://www.macworld.com/article/670458/iphone-buying-guide.html",
+      "publishedAt": "2026-09-17T22:36:49.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/670458-0-88599400-1789684695-iPhone-Buying-Guide-2026.jpg?quality=50&strip=all&w=1024"
     }
   ]
 }
