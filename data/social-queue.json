@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-09-18",
-  "created_at": "2026-09-18T09:47:14.030Z",
-  "source_feed_updated_at": "2026-09-18T09:47:09.931Z",
+  "queue_date": "2026-09-19",
+  "created_at": "2026-09-19T09:31:14.285Z",
+  "source_feed_updated_at": "2026-09-19T09:31:10.853Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft",
@@ -25,12 +25,10 @@
       "detected_partner": "canva",
       "product_url": "/go/canva.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-18T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-19T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-18T09:47:49.197Z",
-        "message_id": 415,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-18T09:47:49.197Z"
       },
       "linkedin": {
         "status": "pending"
@@ -38,95 +36,30 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-18T09:51:39.948Z",
-        "message_id": "18068233457779385",
-        "media_kind": "source"
+        "message_id": "18068233457779385"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-creativebloq-com-design-design-software-massive-canva-update-aims-to-a-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-19/https-www-creativebloq-com-design-design-software-massive-canva-update-aims-to-a-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-18T09:51:47.821Z",
-        "message_id": "17958797331237263",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-      "source_url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-      "headline": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/191:100/w_1280,c_limit/Napster_lead.jpg",
-      "image_url": "https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/191:100/w_1280,c_limit/Napster_lead.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=napster-is-back-and-it-wants-to-digitally-clone-teachers",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-18T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-18T14:12:14.160Z",
-        "message_id": 416,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-18T13:04:38.791Z",
-        "message_id": "17901517485657361",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-18/Napster-Is-Back-and-It-Wants-to-Digitally-Clone-Teachers-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-wired-com-story-napster-is-back-and-it-wants-to-digitally-clone-teache-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-18T13:04:46.283Z",
-        "message_id": "17973597714154854",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/how-to-move-from-ai-discovery-to-ai-enforcement",
-      "source_url": "https://www.techradar.com/pro/how-to-move-from-ai-discovery-to-ai-enforcement",
-      "headline": "How to move from AI discovery to AI enforcement",
-      "summary": "Shifting shadow AI programs from inventory to real-time action.",
+      "story_id": "https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-ai-apocalypse-warnings-to-our-apple-ceo-interview",
+      "source_url": "https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-ai-apocalypse-warnings-to-our-apple-ceo-interview",
+      "headline": "ICYMI: the 7 biggest tech stories of the week, from AI apocalypse warnings to our Apple CEO interview",
+      "summary": "We're looking back over the last week to pick out the most important stories published on TechRadar.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Df6TEQ3oDWP6NKx3xeQuyS-2000-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Df6TEQ3oDWP6NKx3xeQuyS-2000-80.png",
       "image_validation": {
         "valid": true,
         "width": 2000,
@@ -136,240 +69,57 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-move-from-ai-discovery-to-ai-enforcement",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=icymi-the-7-biggest-tech-stories-of-the-week-from-ai-apocalypse-warnings-to-our-apple-ceo-",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-18T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-19T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-18T17:42:43.645Z",
-        "message_id": 417,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-18T15:01:41.774Z",
-        "message_id": "18101696144200797",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-techradar-com-pro-how-to-move-from-ai-discovery-to-ai-enforcement-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-19/https-www-techradar-com-tech-icymi-the-7-biggest-tech-stories-of-the-week-from-a-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-18T15:01:50.197Z",
-        "message_id": "18113650181113910",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-      "source_url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-      "headline": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/191:100/w_1280,c_limit/091526-Bioweapon%20AI.jpg",
-      "image_url": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/191:100/w_1280,c_limit/091526-Bioweapon%20AI.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-ai-isnt-likely-to-wipe-out-humanity-with-bioweapons",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-18T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-18T19:59:24.850Z",
-        "message_id": 418,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-18T17:04:56.330Z",
-        "message_id": "18143465893584198",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-18/Why-AI-Isn-t-Likely-to-Wipe-Out-Humanity-With-Bioweapons-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-wired-com-story-why-ai-bioweapons-wont-wipe-out-humanity--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-18T17:05:06.382Z",
-        "message_id": "18104017793631584",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3236190/a-new-e-degree-shows-you-how-to-use-claude-to-automate-your-job-just-20-right-now.html",
-      "source_url": "https://www.macworld.com/article/3236190/a-new-e-degree-shows-you-how-to-use-claude-to-automate-your-job-just-20-right-now.html",
-      "headline": "A new e-degree shows you how to use Claude to automate your job, just $20 right now",
-      "summary": "Macworld TL;DR: Learn to automate real work with Claude through this Claude AI e-degree, now only $19.99 (reg. $159). Most people are not using AI to its full potential. One of the most useful things AI can do is automate basic tasks, but learning how to do that is tough. If you want help, the Clau",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3236190-0-61565200-1789718456-Claude.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3236190-0-61565200-1789718456-Claude.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-new-e-degree-shows-you-how-to-use-claude-to-automate-your-job-just-20-right-now",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-18T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-18T21:43:13.130Z",
-        "message_id": 419,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-18T18:32:49.424Z",
-        "message_id": "18461836180136469",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-macworld-com-article-3236190-a-new-e-degree-shows-you-how-to-use-claud-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-18T18:32:57.268Z",
-        "message_id": "18103453214256032",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/health-fitness/oral-health/a-camera-in-a-toothbrush-dyson-tells-us-why-it-combined-wifi-ai-intelligent-sensing-and-fluid-dynamics-with-a-highly-engineered-brushing-experience-to-create-the-dyson-camerajet",
-      "source_url": "https://www.techradar.com/health-fitness/oral-health/a-camera-in-a-toothbrush-dyson-tells-us-why-it-combined-wifi-ai-intelligent-sensing-and-fluid-dynamics-with-a-highly-engineered-brushing-experience-to-create-the-dyson-camerajet",
-      "headline": "A camera in a toothbrush? Dyson tells us why it combined 'WiFi, AI, intelligent sensing and fluid dynamics with a highly engineered brushing experience' to create the Dyson Camerajet",
-      "summary": "Dyson tells us how (and why) it created the revolutionary, slightly controversial Camerajet toothbrush.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/jcVe48FnUnxNU47gJLhDYo-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/jcVe48FnUnxNU47gJLhDYo-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-camera-in-a-toothbrush-dyson-tells-us-why-it-combined-wifi-ai-intelligent-sensing-and-fl",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-18T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-19T00:34:16.668Z",
-        "message_id": 420,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-18T21:44:13.906Z",
-        "message_id": "18088077308301408",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-techradar-com-health-fitness-oral-health-a-camera-in-a-toothbrush-dyso-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-18T21:44:23.917Z",
-        "message_id": "18116126479778166",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "source_url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "headline": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;",
-      "summary": "The round values the data center giant at $30.9 billion.",
+      "story_id": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "source_url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "headline": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
       "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
+        "height": 672,
+        "aspectRatio": 1.7857142857142858,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-and-8216-ai-factories-a",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=tilly-norwood-and-8217-s-press-tour-is-going-about-as-well-as-you-and-8217-d-expect-for-an",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-18T17:20:00.000Z",
+      "scheduled_publish_at": "2026-09-19T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -378,53 +128,44 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-18T23:53:09.391Z",
-        "message_id": "18087046850677895",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-18/https-techcrunch-com-2026-09-17-crusoe-raises-3-9b-to-build-massive-data-centers-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-19/https-techcrunch-com-2026-09-18-tilly-norwoods-press-tour-is-going-about-as-well-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-18T23:53:18.117Z",
-        "message_id": "18050947553610013",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/rtx-5090s-are-going-for-as-much-as-usd9000-as-ai-server-builders-reportedly-buy-nvidias-flagship-by-the-pallet-but-the-photos-behind-the-story-may-be-ai-generated",
-      "source_url": "https://www.techradar.com/pro/rtx-5090s-are-going-for-as-much-as-usd9000-as-ai-server-builders-reportedly-buy-nvidias-flagship-by-the-pallet-but-the-photos-behind-the-story-may-be-ai-generated",
-      "headline": "RTX 5090s are going for as much as $9000, as AI server builders reportedly buy Nvidia's flagship by the pallet, but the photos behind the story may be AI-generated",
-      "summary": "AI firms are reportedly buying RTX 5090s by the pallet, which Nvidia's own driver license has prohibited since 2017.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4eNnJHesZM8kGr2NnZtC2U-970-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4eNnJHesZM8kGr2NnZtC2U-970-80.jpg",
+      "story_id": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "source_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "headline": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
       "image_validation": {
         "valid": true,
-        "width": 970,
-        "height": 545,
-        "aspectRatio": 1.7798165137614679,
+        "width": 1200,
+        "height": 781,
+        "aspectRatio": 1.5364916773367479,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=rtx-5090s-are-going-for-as-much-as-9000-as-ai-server-builders-reportedly-buy-nvidias-flags",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-18T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-19T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -433,39 +174,122 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-19T01:15:48.406Z",
-        "message_id": "18115224742913423",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-techradar-com-pro-rtx-5090s-are-going-for-as-much-as-usd9000-as-ai-ser-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-19/https-techcrunch-com-2026-09-18-a-startup-that-builds-other-startups-raised-100m-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-19T01:15:57.263Z",
-        "message_id": "18111470150024464",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
-      "source_url": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
-      "headline": "Google's revamped CC is an AI agent for families and groups",
-      "summary": "CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing.",
+      "story_id": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "source_url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "headline": "Anthropic is operating a lab that conducts biology experiments",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-%E2%80%94-Xero-2.jpg?resize=1200,750",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-%E2%80%94-Xero-2.jpg?resize=1200,750",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 750,
+        "aspectRatio": 1.6,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-19T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-19/https-techcrunch-com-2026-09-18-anthropic-is-operating-a-lab-that-conducts-biolo-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "source_url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "headline": "AI hallucination nearly triggers US military operation",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000",
+      "image_validation": {
+        "valid": true,
+        "width": 1000,
+        "height": 593,
+        "aspectRatio": 1.6863406408094435,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-hallucination-nearly-triggers-us-military-operation",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-19T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-19/https-techcrunch-com-2026-09-18-ai-hallucination-nearly-triggers-us-military-ope-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/",
+      "source_url": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/",
+      "headline": "AI almost led the US military to start a war with China, report says",
+      "summary": "CNN's sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components.",
       "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/googles-revamped-cc-is-an-ai-agent-for-families-and-groups/l-intro-1789685266.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/googles-revamped-cc-is-an-ai-agent-for-families-and-groups/l-intro-1789685266.jpg",
+      "original_image_url": "https://www.engadget.com/img/gallery/ai-almost-led-the-us-military-to-attack-china-report-says/l-intro-1789771253.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/ai-almost-led-the-us-military-to-attack-china-report-says/l-intro-1789771253.jpg",
       "image_validation": {
         "valid": true,
         "width": 1600,
@@ -475,11 +299,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=googles-revamped-cc-is-an-ai-agent-for-families-and-groups",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-almost-led-the-us-military-to-start-a-war-with-china-report-says",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-18T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-19T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -495,7 +319,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-engadget-com-2261924-google-cc-is-an-ai-agent-for-families-and-groups--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-19/https-www-engadget-com-2263043-ai-almost-led-the-us-military-to-attack-china-rep-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -505,27 +329,27 @@
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/670458/iphone-buying-guide.html",
-      "source_url": "https://www.macworld.com/article/670458/iphone-buying-guide.html",
-      "headline": "iPhone buying guide 2026: Which iPhone should you buy?",
-      "summary": "Macworld Apple now has a wider iPhone range than ever, making it harder to decide which model is right for you. Your choice will largely come down to price, camera capabilities, display, performance, battery life, size and storage. You may also be wondering which screen size suits you, how much stor",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/670458-0-88599400-1789684695-iPhone-Buying-Guide-2026.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/670458-0-88599400-1789684695-iPhone-Buying-Guide-2026.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://www.techradar.com/pro/quote-of-the-day-by-ex-openai-chief-scientist-and-ssi-co-founder-ilya-sutskever-ai-will-keep-getting-better-and-the-day-will-come-when-ai-will-do-all-the-things-that-we-can-do-a-staggering-prediction-about-a-future-superintelligence",
+      "source_url": "https://www.techradar.com/pro/quote-of-the-day-by-ex-openai-chief-scientist-and-ssi-co-founder-ilya-sutskever-ai-will-keep-getting-better-and-the-day-will-come-when-ai-will-do-all-the-things-that-we-can-do-a-staggering-prediction-about-a-future-superintelligence",
+      "headline": "Quote of the day by ex-OpenAI chief scientist and SSI co-founder Ilya Sutskever: 'AI will keep getting better and the day will come when AI will do all the things that we can do'",
+      "summary": "Scientists predict that AI will one day be able to outdo humans on not just some, but all, tasks that we currently excel in",
+      "source_name": "a staggering prediction about a future superintelligence",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Q2f89wwbppeLUrxDbZyZdd-1024-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Q2f89wwbppeLUrxDbZyZdd-1024-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
+        "height": 576,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=iphone-buying-guide-2026-which-iphone-should-you-buy",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=quote-of-the-day-by-ex-openai-chief-scientist-and-ssi-co-founder-ilya-sutskever-ai-will-ke",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-18T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-19T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -541,7 +365,99 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-18/https-www-macworld-com-article-670458-iphone-buying-guide-html-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-19/https-www-techradar-com-pro-quote-of-the-day-by-ex-openai-chief-scientist-and-ss-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/tiny-dutch-startup-enlists-samsung-as-backer-as-it-seeks-to-dethrone-nvidia-ai-gpu-euclyd-wont-get-its-inference-chip-out-till-2028",
+      "source_url": "https://www.techradar.com/pro/tiny-dutch-startup-enlists-samsung-as-backer-as-it-seeks-to-dethrone-nvidia-ai-gpu-euclyd-wont-get-its-inference-chip-out-till-2028",
+      "headline": "Tiny Dutch startup enlists Samsung as backer as it seeks to dethrone Nvidia AI GPU",
+      "summary": "Samsung joined Euclyd's $231 million funding round as the Dutch startup develops an alternative AI chip architecture for commercial deployment in 2028.",
+      "source_name": "but Euclyd won't get its inference chip out till 2028",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/vTgpySVCWWr5zR7NVYSsJ7-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vTgpySVCWWr5zR7NVYSsJ7-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=tiny-dutch-startup-enlists-samsung-as-backer-as-it-seeks-to-dethrone-nvidia-ai-gpu",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-19T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-19/https-www-techradar-com-pro-tiny-dutch-startup-enlists-samsung-as-backer-as-it-s-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
+      "source_url": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
+      "headline": "What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more",
+      "summary": "There's a lot for Mark Zuckerberg to cover at this year's keynote.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/l-intro-1789763272.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/l-intro-1789763272.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-19T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-19/https-www-engadget-com-2262932-what-to-expect-at-meta-connect-2026-new-ai-glasse-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
