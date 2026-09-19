@@ -2006,6 +2006,20 @@
         "message_id": "18133538341651467",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/quote-of-the-day-by-ex-openai-chief-scientist-and-ssi-co-founder-ilya-sutskever-ai-will-keep-getting-better-and-the-day-will-come-when-ai-will-do-all-the-things-that-we-can-do-a-staggering-prediction-about-a-future-superintelligence": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-19T23:04:33.184Z",
+        "message_id": "18061948637521909",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-19T23:04:40.360Z",
+        "message_id": "18153916000515208",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
