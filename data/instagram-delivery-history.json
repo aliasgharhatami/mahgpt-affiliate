@@ -1978,6 +1978,20 @@
         "message_id": "17920580508433287",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-19T18:06:07.732Z",
+        "message_id": "18131266204662360",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-19T18:06:16.011Z",
+        "message_id": "18079787462376471",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
