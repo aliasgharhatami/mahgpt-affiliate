@@ -1950,6 +1950,20 @@
         "message_id": "17866502799659113",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-19T14:30:10.049Z",
+        "message_id": "18105368642040564",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-19T14:30:17.006Z",
+        "message_id": "17942436870346141",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
