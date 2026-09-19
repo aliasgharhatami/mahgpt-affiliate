@@ -3145,6 +3145,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-ai-apocalypse-warnings-to-our-apple-ceo-interview": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-19T09:31:43.154Z",
+        "message_id": 421,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
