@@ -1908,6 +1908,20 @@
         "message_id": "18050947553610013",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/rtx-5090s-are-going-for-as-much-as-usd9000-as-ai-server-builders-reportedly-buy-nvidias-flagship-by-the-pallet-but-the-photos-behind-the-story-may-be-ai-generated": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-19T01:15:48.406Z",
+        "message_id": "18115224742913423",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-19T01:15:57.263Z",
+        "message_id": "18111470150024464",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
