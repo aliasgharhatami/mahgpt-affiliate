@@ -1992,6 +1992,20 @@
         "message_id": "18079787462376471",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-19T21:02:17.241Z",
+        "message_id": "18031214822894672",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-19T21:02:26.308Z",
+        "message_id": "18133538341651467",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
