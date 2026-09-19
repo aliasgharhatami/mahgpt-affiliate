@@ -1964,6 +1964,20 @@
         "message_id": "17942436870346141",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-19T16:01:51.962Z",
+        "message_id": "18108430676127533",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-19T16:02:01.147Z",
+        "message_id": "17920580508433287",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
