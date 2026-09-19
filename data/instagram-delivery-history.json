@@ -1936,6 +1936,20 @@
         "message_id": "18106817219185500",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-19T12:30:03.062Z",
+        "message_id": "18088275434235959",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-19T12:30:10.969Z",
+        "message_id": "17866502799659113",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
