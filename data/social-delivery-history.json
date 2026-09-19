@@ -3230,6 +3230,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-19T21:24:46.831Z",
+        "message_id": 426,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
