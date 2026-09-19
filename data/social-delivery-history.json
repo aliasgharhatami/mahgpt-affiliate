@@ -3213,6 +3213,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-19T18:03:45.917Z",
+        "message_id": 425,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
