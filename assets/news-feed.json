@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T09:47:09.931Z",
+  "updatedAt": "2026-09-19T09:31:10.853Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
+      "title": "ICYMI: the 7 biggest tech stories of the week, from AI apocalypse warnings to our Apple CEO interview",
+      "summary": "We're looking back over the last week to pick out the most important stories published on TechRadar.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-      "publishedAt": "2026-09-18T09:15:00.000Z",
-      "image": "https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/191:100/w_1280,c_limit/Napster_lead.jpg"
+      "source": "https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-ai-apocalypse-warnings-to-our-apple-ceo-interview",
+      "publishedAt": "2026-09-19T08:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Df6TEQ3oDWP6NKx3xeQuyS-2000-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How to move from AI discovery to AI enforcement",
-      "summary": "Shifting shadow AI programs from inventory to real-time action.",
+      "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/how-to-move-from-ai-discovery-to-ai-enforcement",
-      "publishedAt": "2026-09-18T09:08:19.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
+      "source": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "publishedAt": "2026-09-19T00:12:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-      "publishedAt": "2026-09-18T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/191:100/w_1280,c_limit/091526-Bioweapon%20AI.jpg"
+      "source": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "publishedAt": "2026-09-18T23:25:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "A new e-degree shows you how to use Claude to automate your job, just $20 right now",
-      "summary": "Macworld TL;DR: Learn to automate real work with Claude through this Claude AI e-degree , now only $19.99 (reg. $159). Most people are not using AI to its full potential. One of the most useful things AI can do is automate basic tasks, but learning how to do that is tough. If you want help, the Clau",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3236190/a-new-e-degree-shows-you-how-to-use-claude-to-automate-your-job-just-20-right-now.html",
-      "publishedAt": "2026-09-18T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3236190-0-61565200-1789718456-Claude.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "publishedAt": "2026-09-18T23:13:31.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-%E2%80%94-Xero-2.jpg?resize=1200,750"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "A camera in a toothbrush? Dyson tells us why it combined 'WiFi, AI, intelligent sensing and fluid dynamics with a highly engineered brushing experience' to create the Dyson Camerajet",
-      "summary": "Dyson tells us how (and why) it created the revolutionary, slightly controversial Camerajet toothbrush.",
+      "title": "AI hallucination nearly triggers US military operation",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/health-fitness/oral-health/a-camera-in-a-toothbrush-dyson-tells-us-why-it-combined-wifi-ai-intelligent-sensing-and-fluid-dynamics-with-a-highly-engineered-brushing-experience-to-create-the-dyson-camerajet",
-      "publishedAt": "2026-09-18T01:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/jcVe48FnUnxNU47gJLhDYo-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "publishedAt": "2026-09-18T23:12:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;",
-      "summary": "The round values the data center giant at $30.9 billion.",
+      "title": "AI almost led the US military to start a war with China, report says",
+      "summary": "CNN's sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "publishedAt": "2026-09-17T23:25:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800"
+      "source": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/",
+      "publishedAt": "2026-09-18T22:44:45.000Z",
+      "image": "https://www.engadget.com/img/gallery/ai-almost-led-the-us-military-to-attack-china-report-says/l-intro-1789771253.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "RTX 5090s are going for as much as $9000, as AI server builders reportedly buy Nvidia's flagship by the pallet, but the photos behind the story may be AI-generated",
-      "summary": "AI firms are reportedly buying RTX 5090s by the pallet, which Nvidia's own driver license has prohibited since 2017.",
+      "title": "Quote of the day by ex-OpenAI chief scientist and SSI co-founder Ilya Sutskever: 'AI will keep getting better and the day will come when AI will do all the things that we can do' — a staggering prediction about a future superintelligence",
+      "summary": "Scientists predict that AI will one day be able to outdo humans on not just some, but all, tasks that we currently excel in",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/rtx-5090s-are-going-for-as-much-as-usd9000-as-ai-server-builders-reportedly-buy-nvidias-flagship-by-the-pallet-but-the-photos-behind-the-story-may-be-ai-generated",
-      "publishedAt": "2026-09-17T23:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4eNnJHesZM8kGr2NnZtC2U-970-80.jpg"
+      "source": "https://www.techradar.com/pro/quote-of-the-day-by-ex-openai-chief-scientist-and-ssi-co-founder-ilya-sutskever-ai-will-keep-getting-better-and-the-day-will-come-when-ai-will-do-all-the-things-that-we-can-do-a-staggering-prediction-about-a-future-superintelligence",
+      "publishedAt": "2026-09-18T22:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Q2f89wwbppeLUrxDbZyZdd-1024-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Google's revamped CC is an AI agent for families and groups",
-      "summary": "CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing.",
+      "title": "Tiny Dutch startup enlists Samsung as backer as it seeks to dethrone Nvidia AI GPU — but Euclyd won't get its inference chip out till 2028",
+      "summary": "Samsung joined Euclyd's $231 million funding round as the Dutch startup develops an alternative AI chip architecture for commercial deployment in 2028.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
-      "publishedAt": "2026-09-17T22:55:08.000Z",
-      "image": "https://www.engadget.com/img/gallery/googles-revamped-cc-is-an-ai-agent-for-families-and-groups/l-intro-1789685266.jpg"
+      "source": "https://www.techradar.com/pro/tiny-dutch-startup-enlists-samsung-as-backer-as-it-seeks-to-dethrone-nvidia-ai-gpu-euclyd-wont-get-its-inference-chip-out-till-2028",
+      "publishedAt": "2026-09-18T21:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vTgpySVCWWr5zR7NVYSsJ7-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "iPhone buying guide 2026: Which iPhone should you buy?",
-      "summary": "Macworld Apple now has a wider iPhone range than ever, making it harder to decide which model is right for you. Your choice will largely come down to price, camera capabilities, display, performance, battery life, size and storage. You may also be wondering which screen size suits you, how much stor",
+      "title": "What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more",
+      "summary": "There's a lot for Mark Zuckerberg to cover at this year's keynote.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/670458/iphone-buying-guide.html",
-      "publishedAt": "2026-09-17T22:36:49.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/670458-0-88599400-1789684695-iPhone-Buying-Guide-2026.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
+      "publishedAt": "2026-09-18T20:35:11.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/l-intro-1789763272.jpg"
     }
   ]
 }
