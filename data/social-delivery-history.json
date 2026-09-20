@@ -3332,6 +3332,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-20T16:08:08.896Z",
+        "message_id": 432,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
