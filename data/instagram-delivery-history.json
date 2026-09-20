@@ -2076,6 +2076,20 @@
         "message_id": "17922953967429777",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-20T17:58:13.704Z",
+        "message_id": "18111618368037146",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-20T17:58:22.565Z",
+        "message_id": "18215740555354147",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
