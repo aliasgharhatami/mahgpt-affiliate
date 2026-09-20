@@ -2048,6 +2048,20 @@
         "message_id": "18046545338813442",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/ai/ai-art/a-creative-studio-built-an-ai-slop-monster-as-a-promise-never-to-make-one-again": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-20T11:42:33.604Z",
+        "message_id": "18433383004176018",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-20T11:42:41.394Z",
+        "message_id": "17986574688063451",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
