@@ -2104,6 +2104,20 @@
         "message_id": "18094324220135949",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-20T22:42:38.833Z",
+        "message_id": "17998048649816808",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-20T22:42:47.495Z",
+        "message_id": "17898792141666701",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
