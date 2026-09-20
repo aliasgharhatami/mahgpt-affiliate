@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T09:31:17.744Z",
-  "analysis_date": "2026-09-19",
+  "generated_at": "2026-09-20T09:49:30.107Z",
+  "analysis_date": "2026-09-20",
   "stories": [
     {
-      "title": "Massive Canva update adds 100 features to new ProSuite",
-      "source": "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft",
-      "mahgpt_url": "/news/story.html?id=massive-canva-update-adds-100-features-to-new-prosuite"
+      "title": "'The test isn’t whether AI can do something. It’s whether it can make the process measurably better': We hear why businesses need to be more selective about where they’re using AI",
+      "source": "https://www.techradar.com/pro/the-test-isnt-whether-ai-can-do-something-its-whether-it-can-make-the-process-measurably-better-we-hear-why-businesses-need-to-be-more-selective-about-where-theyre-using-ai",
+      "mahgpt_url": "/news/story.html?id=the-test-isnt-whether-ai-can-do-something-its-whether-it-can-make-the-process-measurably-b"
     },
     {
-      "title": "ICYMI: the 7 biggest tech stories of the week, from AI apocalypse warnings to our Apple CEO interview",
-      "source": "https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-ai-apocalypse-warnings-to-our-apple-ceo-interview",
-      "mahgpt_url": "/news/story.html?id=icymi-the-7-biggest-tech-stories-of-the-week-from-ai-apocalypse-warnings-to-our-apple-ceo-"
+      "title": "A creative studio built an \"AI slop monster\" sculpture as a promise never to make one again",
+      "source": "https://www.creativebloq.com/ai/ai-art/a-creative-studio-built-an-ai-slop-monster-as-a-promise-never-to-make-one-again",
+      "mahgpt_url": "/news/story.html?id=a-creative-studio-built-an-ai-slop-monster-sculpture-as-a-promise-never-to-make-one-again"
     },
     {
-      "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
-      "source": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "mahgpt_url": "/news/story.html?id=tilly-norwood-and-8217-s-press-tour-is-going-about-as-well-as-you-and-8217-d-expect-for-an"
+      "title": "\"AI slop\" was a great phrase, but now AI is getting better at video, we need a new one",
+      "source": "https://www.creativebloq.com/ai/ai-slop-was-a-great-phrase-but-now-ai-is-getting-better-at-video-we-need-a-new-one",
+      "mahgpt_url": "/news/story.html?id=ai-slop-was-a-great-phrase-but-now-ai-is-getting-better-at-video-we-need-a-new-one"
     },
     {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "source": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "mahgpt_url": "/news/story.html?id=a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai"
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "mahgpt_url": "/news/story.html?id=metas-muse-is-creepy-but-maybe-not-for-the-reasons-you-think"
     },
     {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "source": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "mahgpt_url": "/news/story.html?id=anthropic-is-operating-a-lab-that-conducts-biology-experiments"
+      "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
+      "source": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "mahgpt_url": "/news/story.html?id=trump-says-it-and-8217-s-time-to-rebrand-ai-with-a-new-name-and-he-and-8217-s-also-creatin"
     },
     {
-      "title": "AI hallucination nearly triggers US military operation",
-      "source": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "mahgpt_url": "/news/story.html?id=ai-hallucination-nearly-triggers-us-military-operation"
+      "title": "Now Trump says he's creating an AI Force",
+      "source": "https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/",
+      "mahgpt_url": "/news/story.html?id=now-trump-says-hes-creating-an-ai-force"
     },
     {
-      "title": "AI almost led the US military to start a war with China, report says",
-      "source": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/",
-      "mahgpt_url": "/news/story.html?id=ai-almost-led-the-us-military-to-start-a-war-with-china-report-says"
+      "title": "Anthropic picks Accenture for third-party AI safety evaluations",
+      "source": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/",
+      "mahgpt_url": "/news/story.html?id=anthropic-picks-accenture-for-third-party-ai-safety-evaluations"
     },
     {
-      "title": "Quote of the day by ex-OpenAI chief scientist and SSI co-founder Ilya Sutskever: 'AI will keep getting better and the day will come when AI will do all the things that we can do' — a staggering prediction about a future superintelligence",
-      "source": "https://www.techradar.com/pro/quote-of-the-day-by-ex-openai-chief-scientist-and-ssi-co-founder-ilya-sutskever-ai-will-keep-getting-better-and-the-day-will-come-when-ai-will-do-all-the-things-that-we-can-do-a-staggering-prediction-about-a-future-superintelligence",
-      "mahgpt_url": "/news/story.html?id=quote-of-the-day-by-ex-openai-chief-scientist-and-ssi-co-founder-ilya-sutskever-ai-will-ke"
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "source": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "mahgpt_url": "/news/story.html?id=googles-gemini-is-the-latest-ai-model-to-hack-other-companies"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-19.html"
+      "path": "news/analysis/2026-09-20.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-19.html"
+      "path": "es/news/analysis/2026-09-20.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-19.html"
+      "path": "de/news/analysis/2026-09-20.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-19.html"
+      "path": "fr/news/analysis/2026-09-20.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-19.html"
+      "path": "pt-BR/news/analysis/2026-09-20.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-19.html"
+      "path": "ar/news/analysis/2026-09-20.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-19.html"
+      "path": "fa/news/analysis/2026-09-20.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-19.html"
+      "path": "tr/news/analysis/2026-09-20.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-19.html"
+      "path": "it/news/analysis/2026-09-20.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-19.html"
+      "path": "ja/news/analysis/2026-09-20.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-19.html"
+      "path": "ko/news/analysis/2026-09-20.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-19.html"
+      "path": "id/news/analysis/2026-09-20.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-19.html"
+      "path": "hi/news/analysis/2026-09-20.html"
     }
   ]
 }

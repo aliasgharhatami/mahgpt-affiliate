@@ -1,17 +1,63 @@
 {
   "version": 1,
   "queue_date": "2026-09-20",
-  "created_at": "2026-09-20T06:49:47.870Z",
-  "source_feed_updated_at": "2026-09-20T06:49:47.778Z",
+  "created_at": "2026-09-20T09:49:24.562Z",
+  "source_feed_updated_at": "2026-09-20T09:49:21.653Z",
   "items": [
     {
-      "story_id": "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft",
-      "source_url": "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft",
-      "headline": "Massive Canva update adds 100 features to new ProSuite",
-      "summary": "It aims to \"automate the tedious, keep the craft\".",
+      "story_id": "https://www.techradar.com/pro/the-test-isnt-whether-ai-can-do-something-its-whether-it-can-make-the-process-measurably-better-we-hear-why-businesses-need-to-be-more-selective-about-where-theyre-using-ai",
+      "source_url": "https://www.techradar.com/pro/the-test-isnt-whether-ai-can-do-something-its-whether-it-can-make-the-process-measurably-better-we-hear-why-businesses-need-to-be-more-selective-about-where-theyre-using-ai",
+      "headline": "'The test isn’t whether AI can do something. It’s whether it can make the process measurably better': We hear why businesses need to be more selective about where they’re using AI",
+      "summary": "Does every business process really need AI?",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/478v6VqTvvCMsByCNXZP8Q-920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/478v6VqTvvCMsByCNXZP8Q-920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 920,
+        "height": 545,
+        "aspectRatio": 1.688073394495413,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-test-isnt-whether-ai-can-do-something-its-whether-it-can-make-the-process-measurably-b",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-20T05:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-techradar-com-pro-the-test-isnt-whether-ai-can-do-something-its-whethe-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.creativebloq.com/ai/ai-art/a-creative-studio-built-an-ai-slop-monster-as-a-promise-never-to-make-one-again",
+      "source_url": "https://www.creativebloq.com/ai/ai-art/a-creative-studio-built-an-ai-slop-monster-as-a-promise-never-to-make-one-again",
+      "headline": "A creative studio built an \"AI slop monster\" sculpture as a promise never to make one again",
+      "summary": "This ‘CHAIMERA’ is coming to the British Art Fair this week.",
       "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/HwGjfNduZKeiTmb8UygjHB-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/HwGjfNduZKeiTmb8UygjHB-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/bBDiKYLdzf5qWRYuvmsr37-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bBDiKYLdzf5qWRYuvmsr37-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -21,29 +67,27 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=massive-canva-update-adds-100-features-to-new-prosuite",
-      "detected_partner": "canva",
-      "product_url": "/go/canva.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-20T05:20:00.000Z",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-creative-studio-built-an-ai-slop-monster-sculpture-as-a-promise-never-to-make-one-again",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-20T07:20:00.000Z",
       "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-18T09:47:49.197Z"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-18T09:51:39.948Z",
-        "message_id": "18068233457779385"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-creativebloq-com-design-design-software-massive-canva-update-aims-to-a-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-creativebloq-com-ai-ai-art-a-creative-studio-built-an-ai-slop-monster--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -73,7 +117,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-20T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -119,7 +163,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-20T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -166,7 +210,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-20T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -212,7 +256,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-20T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -258,7 +302,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-20T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -304,7 +348,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T17:20:00.000Z",
+      "scheduled_publish_at": "2026-09-20T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -350,7 +394,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-20T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -396,52 +440,6 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-engadget-com-2263218-california-governor-wants-to-implement-a-kill-swi-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/gaming/broken-sword-creator-chose-human-artists-over-ai-for-all-55-000-new-frames-of-animation-in-the-upcoming-2-remake-people-are-going-to-seek-out-human-crafted-art",
-      "source_url": "https://www.techradar.com/gaming/broken-sword-creator-chose-human-artists-over-ai-for-all-55-000-new-frames-of-animation-in-the-upcoming-2-remake-people-are-going-to-seek-out-human-crafted-art",
-      "headline": "Broken Sword creator chose human artists over AI for all 55,000 new frames of animation in the upcoming 2 remake — 'People are going to seek out human-crafted art'",
-      "summary": "Co-founder Charles Cecil says humans are better at capturing emotion and character than AI tools.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/wwhUYkEJsqbGkSn2e5U8Ak-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/wwhUYkEJsqbGkSn2e5U8Ak-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=broken-sword-creator-chose-human-artists-over-ai-for-all-55-000-new-frames-of-animation-in",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
       "scheduled_publish_at": "2026-09-20T23:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -458,7 +456,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-techradar-com-gaming-broken-sword-creator-chose-human-artists-over-ai--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-engadget-com-2263218-california-governor-wants-to-implement-a-kill-swi-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
