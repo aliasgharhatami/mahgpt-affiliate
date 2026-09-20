@@ -3366,6 +3366,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-20T21:15:32.853Z",
+        "message_id": 434,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
