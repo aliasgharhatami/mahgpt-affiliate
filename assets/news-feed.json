@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T06:49:47.778Z",
+  "updatedAt": "2026-09-20T09:49:21.653Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,15 +16,26 @@
   ],
   "items": [
     {
-      "tool": "canva",
-      "toolName": "Canva AI",
-      "category": "Partner watch",
-      "title": "Massive Canva update adds 100 features to new ProSuite",
-      "summary": "It aims to \"automate the tedious, keep the craft\".",
-      "guide": "/partners/canva.html",
-      "source": "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft",
-      "publishedAt": "2026-09-17T10:39:48.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/HwGjfNduZKeiTmb8UygjHB-1920-80.jpg"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "'The test isn’t whether AI can do something. It’s whether it can make the process measurably better': We hear why businesses need to be more selective about where they’re using AI",
+      "summary": "Does every business process really need AI?",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/the-test-isnt-whether-ai-can-do-something-its-whether-it-can-make-the-process-measurably-better-we-hear-why-businesses-need-to-be-more-selective-about-where-theyre-using-ai",
+      "publishedAt": "2026-09-20T09:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/478v6VqTvvCMsByCNXZP8Q-920-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "A creative studio built an \"AI slop monster\" sculpture as a promise never to make one again",
+      "summary": "This ‘CHAIMERA’ is coming to the British Art Fair this week.",
+      "guide": "/news/index.html",
+      "source": "https://www.creativebloq.com/ai/ai-art/a-creative-studio-built-an-ai-slop-monster-as-a-promise-never-to-make-one-again",
+      "publishedAt": "2026-09-20T09:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/bBDiKYLdzf5qWRYuvmsr37-1920-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -113,17 +124,6 @@
       "source": "https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/",
       "publishedAt": "2026-09-19T17:00:01.000Z",
       "image": "https://www.engadget.com/img/gallery/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/l-intro-1789836840.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Broken Sword creator chose human artists over AI for all 55,000 new frames of animation in the upcoming 2 remake — 'People are going to seek out human-crafted art'",
-      "summary": "Co-founder Charles Cecil says humans are better at capturing emotion and character than AI tools.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/gaming/broken-sword-creator-chose-human-artists-over-ai-for-all-55-000-new-frames-of-animation-in-the-upcoming-2-remake-people-are-going-to-seek-out-human-crafted-art",
-      "publishedAt": "2026-09-19T17:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/wwhUYkEJsqbGkSn2e5U8Ak-1920-80.jpg"
     }
   ]
 }
