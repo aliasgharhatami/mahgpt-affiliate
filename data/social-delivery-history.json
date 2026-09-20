@@ -3264,6 +3264,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/tiny-dutch-startup-enlists-samsung-as-backer-as-it-seeks-to-dethrone-nvidia-ai-gpu-euclyd-wont-get-its-inference-chip-out-till-2028": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-20T01:12:38.332Z",
+        "message_id": 428,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
