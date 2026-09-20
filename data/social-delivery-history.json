@@ -3315,6 +3315,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/ai/ai-slop-was-a-great-phrase-but-now-ai-is-getting-better-at-video-we-need-a-new-one": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-20T14:43:00.479Z",
+        "message_id": 431,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
