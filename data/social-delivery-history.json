@@ -3383,6 +3383,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-20T23:22:19.243Z",
+        "message_id": 435,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
