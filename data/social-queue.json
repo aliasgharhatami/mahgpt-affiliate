@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-09-19",
-  "created_at": "2026-09-19T09:31:14.285Z",
-  "source_feed_updated_at": "2026-09-19T09:31:10.853Z",
+  "queue_date": "2026-09-20",
+  "created_at": "2026-09-20T06:49:47.870Z",
+  "source_feed_updated_at": "2026-09-20T06:49:47.778Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft",
@@ -25,7 +25,7 @@
       "detected_partner": "canva",
       "product_url": "/go/canva.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-19T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-20T05:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-09-18T09:47:49.197Z"
@@ -43,7 +43,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-19/https-www-creativebloq-com-design-design-software-massive-canva-update-aims-to-a-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-creativebloq-com-design-design-software-massive-canva-update-aims-to-a-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -53,483 +53,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-ai-apocalypse-warnings-to-our-apple-ceo-interview",
-      "source_url": "https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-ai-apocalypse-warnings-to-our-apple-ceo-interview",
-      "headline": "ICYMI: the 7 biggest tech stories of the week, from AI apocalypse warnings to our Apple CEO interview",
-      "summary": "We're looking back over the last week to pick out the most important stories published on TechRadar.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Df6TEQ3oDWP6NKx3xeQuyS-2000-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Df6TEQ3oDWP6NKx3xeQuyS-2000-80.png",
+      "story_id": "https://www.creativebloq.com/ai/ai-slop-was-a-great-phrase-but-now-ai-is-getting-better-at-video-we-need-a-new-one",
+      "source_url": "https://www.creativebloq.com/ai/ai-slop-was-a-great-phrase-but-now-ai-is-getting-better-at-video-we-need-a-new-one",
+      "headline": "\"AI slop\" was a great phrase, but now AI is getting better at video, we need a new one",
+      "summary": "A term that once made instant sense is starting to fall short.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6XCmd6UQyCL6cA9sEknETJ-1500-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6XCmd6UQyCL6cA9sEknETJ-1500-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2000,
-        "height": 1125,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1500,
+        "height": 844,
+        "aspectRatio": 1.7772511848341233,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=icymi-the-7-biggest-tech-stories-of-the-week-from-ai-apocalypse-warnings-to-our-apple-ceo-",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-slop-was-a-great-phrase-but-now-ai-is-getting-better-at-video-we-need-a-new-one",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-19T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-19T09:31:43.154Z",
-        "message_id": 421,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-19T09:35:29.264Z",
-        "message_id": "17971610799135105",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-19/https-www-techradar-com-tech-icymi-the-7-biggest-tech-stories-of-the-week-from-a-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-19T09:35:39.064Z",
-        "message_id": "18106817219185500",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "source_url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "headline": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 672,
-        "aspectRatio": 1.7857142857142858,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=tilly-norwood-and-8217-s-press-tour-is-going-about-as-well-as-you-and-8217-d-expect-for-an",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-19T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-19T13:26:54.890Z",
-        "message_id": 422,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-19T12:30:03.062Z",
-        "message_id": "18088275434235959",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-19/https-techcrunch-com-2026-09-18-tilly-norwoods-press-tour-is-going-about-as-well-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-19T12:30:10.969Z",
-        "message_id": "17866502799659113",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "source_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "headline": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 781,
-        "aspectRatio": 1.5364916773367479,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-19T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-19T14:44:39.713Z",
-        "message_id": 423,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-19T14:30:10.049Z",
-        "message_id": "18105368642040564",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-19/https-techcrunch-com-2026-09-18-a-startup-that-builds-other-startups-raised-100m-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-19T14:30:17.006Z",
-        "message_id": "17942436870346141",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "source_url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "headline": "Anthropic is operating a lab that conducts biology experiments",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-%E2%80%94-Xero-2.jpg?resize=1200,750",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-%E2%80%94-Xero-2.jpg?resize=1200,750",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 750,
-        "aspectRatio": 1.6,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-is-operating-a-lab-that-conducts-biology-experiments",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-19T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-19T16:43:38.344Z",
-        "message_id": 424,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-19T16:01:51.962Z",
-        "message_id": "18108430676127533",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-19/https-techcrunch-com-2026-09-18-anthropic-is-operating-a-lab-that-conducts-biolo-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-19T16:02:01.147Z",
-        "message_id": "17920580508433287",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "source_url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "headline": "AI hallucination nearly triggers US military operation",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000",
-      "image_validation": {
-        "valid": true,
-        "width": 1000,
-        "height": 593,
-        "aspectRatio": 1.6863406408094435,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-hallucination-nearly-triggers-us-military-operation",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-19T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-19T18:03:45.917Z",
-        "message_id": 425,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-19T18:06:07.732Z",
-        "message_id": "18131266204662360",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-19/https-techcrunch-com-2026-09-18-ai-hallucination-nearly-triggers-us-military-ope-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-19T18:06:16.011Z",
-        "message_id": "18079787462376471",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/",
-      "source_url": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/",
-      "headline": "AI almost led the US military to start a war with China, report says",
-      "summary": "CNN's sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/ai-almost-led-the-us-military-to-attack-china-report-says/l-intro-1789771253.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/ai-almost-led-the-us-military-to-attack-china-report-says/l-intro-1789771253.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-almost-led-the-us-military-to-start-a-war-with-china-report-says",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-19T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-19T21:24:46.831Z",
-        "message_id": 426,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-19T21:02:17.241Z",
-        "message_id": "18031214822894672",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-19/https-www-engadget-com-2263043-ai-almost-led-the-us-military-to-attack-china-rep-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-19T21:02:26.308Z",
-        "message_id": "18133538341651467",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/quote-of-the-day-by-ex-openai-chief-scientist-and-ssi-co-founder-ilya-sutskever-ai-will-keep-getting-better-and-the-day-will-come-when-ai-will-do-all-the-things-that-we-can-do-a-staggering-prediction-about-a-future-superintelligence",
-      "source_url": "https://www.techradar.com/pro/quote-of-the-day-by-ex-openai-chief-scientist-and-ssi-co-founder-ilya-sutskever-ai-will-keep-getting-better-and-the-day-will-come-when-ai-will-do-all-the-things-that-we-can-do-a-staggering-prediction-about-a-future-superintelligence",
-      "headline": "Quote of the day by ex-OpenAI chief scientist and SSI co-founder Ilya Sutskever: 'AI will keep getting better and the day will come when AI will do all the things that we can do'",
-      "summary": "Scientists predict that AI will one day be able to outdo humans on not just some, but all, tasks that we currently excel in",
-      "source_name": "a staggering prediction about a future superintelligence",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Q2f89wwbppeLUrxDbZyZdd-1024-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Q2f89wwbppeLUrxDbZyZdd-1024-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 576,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=quote-of-the-day-by-ex-openai-chief-scientist-and-ssi-co-founder-ilya-sutskever-ai-will-ke",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-19T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-19T23:22:25.102Z",
-        "message_id": 427,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-19T23:04:33.184Z",
-        "message_id": "18061948637521909",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-19/https-www-techradar-com-pro-quote-of-the-day-by-ex-openai-chief-scientist-and-ss-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-19T23:04:40.360Z",
-        "message_id": "18153916000515208",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/tiny-dutch-startup-enlists-samsung-as-backer-as-it-seeks-to-dethrone-nvidia-ai-gpu-euclyd-wont-get-its-inference-chip-out-till-2028",
-      "source_url": "https://www.techradar.com/pro/tiny-dutch-startup-enlists-samsung-as-backer-as-it-seeks-to-dethrone-nvidia-ai-gpu-euclyd-wont-get-its-inference-chip-out-till-2028",
-      "headline": "Tiny Dutch startup enlists Samsung as backer as it seeks to dethrone Nvidia AI GPU",
-      "summary": "Samsung joined Euclyd's $231 million funding round as the Dutch startup develops an alternative AI chip architecture for commercial deployment in 2028.",
-      "source_name": "but Euclyd won't get its inference chip out till 2028",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/vTgpySVCWWr5zR7NVYSsJ7-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/vTgpySVCWWr5zR7NVYSsJ7-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=tiny-dutch-startup-enlists-samsung-as-backer-as-it-seeks-to-dethrone-nvidia-ai-gpu",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-19T21:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-20T01:12:38.332Z",
-        "message_id": 428,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-20T01:08:54.653Z",
-        "message_id": "17986255785081274",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-19/https-www-techradar-com-pro-tiny-dutch-startup-enlists-samsung-as-backer-as-it-s-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-20T01:09:02.911Z",
-        "message_id": "17861259978695433",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
-      "source_url": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
-      "headline": "What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more",
-      "summary": "There's a lot for Mark Zuckerberg to cover at this year's keynote.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/l-intro-1789763272.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/l-intro-1789763272.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-19T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-20T07:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -545,7 +89,376 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-19/https-www-engadget-com-2262932-what-to-expect-at-meta-connect-2026-new-ai-glasse-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-creativebloq-com-ai-ai-slop-was-a-great-phrase-but-now-ai-is-getting-b-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "headline": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazin",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=metas-muse-is-creepy-but-maybe-not-for-the-reasons-you-think",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-20T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-20/Meta-s-Muse-is-creepy-but-maybe-not-for-the-reasons-you-think-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-theverge-com-ai-artificial-intelligence-997833-meta-muse-creepy-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "source_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "headline": "Trump says it&#8217;s time to rebrand AI with a new name",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "source_name": "and he&#8217;s also creating an AI Force",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trump-says-it-and-8217-s-time-to-rebrand-ai-with-a-new-name",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-20T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-20/https-techcrunch-com-2026-09-19-trump-suggests-rebranding-ai-with-a-new-name-say-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/",
+      "source_url": "https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/",
+      "headline": "Now Trump says he's creating an AI Force",
+      "summary": "The president said he will soon announce an &#34;AI czar&#34; to run this newly made-up agency.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/now-trump-says-hes-creating-an-ai-force/l-intro-1789845347.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/now-trump-says-hes-creating-an-ai-force/l-intro-1789845347.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=now-trump-says-hes-creating-an-ai-force",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-20T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-engadget-com-2263237-now-trump-says-hes-creating-an-ai-force--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/",
+      "source_url": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/",
+      "headline": "Anthropic picks Accenture for third-party AI safety evaluations",
+      "summary": "This move represents the first step in the CEO's plan to slow down AI development.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/l-intro-1789841893.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/l-intro-1789841893.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-picks-accenture-for-third-party-ai-safety-evaluations",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-20T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-engadget-com-2263235-anthropic-picks-accenture-for-third-party-ai-safe-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "source_url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "headline": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 683,
+        "aspectRatio": 1.499267935578331,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=googles-gemini-is-the-latest-ai-model-to-hack-other-companies",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-20T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-20/https-techcrunch-com-2026-09-19-googles-gemini-is-the-latest-ai-model-to-hack-ot-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/masters-of-miniature-delivers-minuscule-upgradable-ryzen-ai-laptop-mouse-has-a-12-2-inch-screen-weighs-981g-but-aint-on-sale-outside-japan",
+      "source_url": "https://www.techradar.com/pro/masters-of-miniature-delivers-minuscule-upgradable-ryzen-ai-laptop-mouse-has-a-12-2-inch-screen-weighs-981g-but-aint-on-sale-outside-japan",
+      "headline": "Masters of Miniature delivers minuscule upgradable Ryzen AI laptop — Mouse has a 12.2-inch screen, weighs 981g, but ain't on sale outside Japan",
+      "summary": "Mouse's X2 combines a 981 g chassis, 12.2-inch display, Ryzen AI processors, expandable RAM, and a 60 Wh battery capacity.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ZGBtv8NVG5fGiQrdQUoBci-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZGBtv8NVG5fGiQrdQUoBci-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=masters-of-miniature-delivers-minuscule-upgradable-ryzen-ai-laptop-mouse-has-a-12-2-inch-s",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-20T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-techradar-com-pro-masters-of-miniature-delivers-minuscule-upgradable-r-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/",
+      "source_url": "https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/",
+      "headline": "California governor wants to implement a kill switch for frontier AI models",
+      "summary": "Newsom's executive order calls for an expert panel to develop new AI safety measures.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/l-intro-1789836840.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/l-intro-1789836840.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-20T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-engadget-com-2263218-california-governor-wants-to-implement-a-kill-swi-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/gaming/broken-sword-creator-chose-human-artists-over-ai-for-all-55-000-new-frames-of-animation-in-the-upcoming-2-remake-people-are-going-to-seek-out-human-crafted-art",
+      "source_url": "https://www.techradar.com/gaming/broken-sword-creator-chose-human-artists-over-ai-for-all-55-000-new-frames-of-animation-in-the-upcoming-2-remake-people-are-going-to-seek-out-human-crafted-art",
+      "headline": "Broken Sword creator chose human artists over AI for all 55,000 new frames of animation in the upcoming 2 remake — 'People are going to seek out human-crafted art'",
+      "summary": "Co-founder Charles Cecil says humans are better at capturing emotion and character than AI tools.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/wwhUYkEJsqbGkSn2e5U8Ak-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wwhUYkEJsqbGkSn2e5U8Ak-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=broken-sword-creator-chose-human-artists-over-ai-for-all-55-000-new-frames-of-animation-in",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-20T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-techradar-com-gaming-broken-sword-creator-chose-human-artists-over-ai--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
