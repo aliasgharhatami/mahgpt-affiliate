@@ -2034,6 +2034,20 @@
         "message_id": "17861259978695433",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/the-test-isnt-whether-ai-can-do-something-its-whether-it-can-make-the-process-measurably-better-we-hear-why-businesses-need-to-be-more-selective-about-where-theyre-using-ai": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-20T09:51:35.146Z",
+        "message_id": "18014849678943603",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-20T09:51:43.748Z",
+        "message_id": "18046545338813442",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
