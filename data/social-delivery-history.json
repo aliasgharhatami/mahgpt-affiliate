@@ -3519,6 +3519,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-21T22:30:51.356Z",
+        "message_id": 443,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
