@@ -2132,6 +2132,20 @@
         "classification": "instagram-api-error",
         "message": "The requested resource does not exist"
       }
+    },
+    "https://www.creativebloq.com/design/design-software/affinity-3-3-shows-that-canva-is-serious-about-taking-on-adobe": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-21T10:49:26.638Z",
+        "message_id": "17948277816328496",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-21T10:49:36.797Z",
+        "message_id": "18123632506862458",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
