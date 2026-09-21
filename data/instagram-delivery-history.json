@@ -2118,6 +2118,20 @@
         "message_id": "17898792141666701",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-21T00:31:17.963Z",
+        "message_id": "17907790257490254",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "failed",
+        "attempted_at": "2026-09-21T00:31:21.688Z",
+        "classification": "instagram-api-error",
+        "message": "The requested resource does not exist"
+      }
     }
   }
 }
