@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T09:49:30.107Z",
-  "analysis_date": "2026-09-20",
+  "generated_at": "2026-09-21T10:44:55.045Z",
+  "analysis_date": "2026-09-21",
   "stories": [
     {
-      "title": "'The test isn’t whether AI can do something. It’s whether it can make the process measurably better': We hear why businesses need to be more selective about where they’re using AI",
-      "source": "https://www.techradar.com/pro/the-test-isnt-whether-ai-can-do-something-its-whether-it-can-make-the-process-measurably-better-we-hear-why-businesses-need-to-be-more-selective-about-where-theyre-using-ai",
-      "mahgpt_url": "/news/story.html?id=the-test-isnt-whether-ai-can-do-something-its-whether-it-can-make-the-process-measurably-b"
+      "title": "Affinity 3.3 shows that Canva is serious about taking on Adobe",
+      "source": "https://www.creativebloq.com/design/design-software/affinity-3-3-shows-that-canva-is-serious-about-taking-on-adobe",
+      "mahgpt_url": "/news/story.html?id=affinity-3-3-shows-that-canva-is-serious-about-taking-on-adobe"
     },
     {
-      "title": "A creative studio built an \"AI slop monster\" sculpture as a promise never to make one again",
-      "source": "https://www.creativebloq.com/ai/ai-art/a-creative-studio-built-an-ai-slop-monster-as-a-promise-never-to-make-one-again",
-      "mahgpt_url": "/news/story.html?id=a-creative-studio-built-an-ai-slop-monster-sculpture-as-a-promise-never-to-make-one-again"
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "source": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "mahgpt_url": "/news/story.html?id=us-and-china-discuss-alerting-each-other-to-ai-national-security-threats"
     },
     {
-      "title": "\"AI slop\" was a great phrase, but now AI is getting better at video, we need a new one",
-      "source": "https://www.creativebloq.com/ai/ai-slop-was-a-great-phrase-but-now-ai-is-getting-better-at-video-we-need-a-new-one",
-      "mahgpt_url": "/news/story.html?id=ai-slop-was-a-great-phrase-but-now-ai-is-getting-better-at-video-we-need-a-new-one"
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "mahgpt_url": "/news/story.html?id=un-says-ai-safeguards-cant-wait-for-certainty"
     },
     {
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "mahgpt_url": "/news/story.html?id=metas-muse-is-creepy-but-maybe-not-for-the-reasons-you-think"
+      "title": "Google’s Gemini hacked three companies during Irregular AI ‘capture-the-flag’ testing — agents broke containment and guessed passwords to hack computer systems",
+      "source": "https://www.techradar.com/pro/security/googles-gemini-hacked-three-companies-during-irregular-ai-capture-the-flag-testing-agents-broke-containment-and-guessed-passwords-to-hack-computer-systems",
+      "mahgpt_url": "/news/story.html?id=googles-gemini-hacked-three-companies-during-irregular-ai-capture-the-flag-testing-agents-"
     },
     {
-      "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
-      "source": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "mahgpt_url": "/news/story.html?id=trump-says-it-and-8217-s-time-to-rebrand-ai-with-a-new-name-and-he-and-8217-s-also-creatin"
+      "title": "Where should AI agents stop and human judgement begin?",
+      "source": "https://www.techradar.com/pro/where-should-ai-agents-stop-and-human-judgement-begin",
+      "mahgpt_url": "/news/story.html?id=where-should-ai-agents-stop-and-human-judgement-begin"
     },
     {
-      "title": "Now Trump says he's creating an AI Force",
-      "source": "https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/",
-      "mahgpt_url": "/news/story.html?id=now-trump-says-hes-creating-an-ai-force"
+      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "source": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "mahgpt_url": "/news/story.html?id=amazon-doesnt-trust-metas-muse-ai-agent"
     },
     {
-      "title": "Anthropic picks Accenture for third-party AI safety evaluations",
-      "source": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/",
-      "mahgpt_url": "/news/story.html?id=anthropic-picks-accenture-for-third-party-ai-safety-evaluations"
+      "title": "Forget Pixar: Laika is the animation house of the future",
+      "source": "https://www.creativebloq.com/art/animation/forget-pixar-laika-is-the-animation-house-of-the-future",
+      "mahgpt_url": "/news/story.html?id=forget-pixar-laika-is-the-animation-house-of-the-future"
     },
     {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "source": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "mahgpt_url": "/news/story.html?id=googles-gemini-is-the-latest-ai-model-to-hack-other-companies"
+      "title": "AI isn’t only for enterprises; it’s time for SMBs to cash in",
+      "source": "https://www.techradar.com/pro/ai-isnt-only-for-enterprises-its-time-for-smbs-to-cash-in",
+      "mahgpt_url": "/news/story.html?id=ai-isnt-only-for-enterprises-its-time-for-smbs-to-cash-in"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-20.html"
+      "path": "news/analysis/2026-09-21.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-20.html"
+      "path": "es/news/analysis/2026-09-21.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-20.html"
+      "path": "de/news/analysis/2026-09-21.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-20.html"
+      "path": "fr/news/analysis/2026-09-21.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-20.html"
+      "path": "pt-BR/news/analysis/2026-09-21.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-20.html"
+      "path": "ar/news/analysis/2026-09-21.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-20.html"
+      "path": "fa/news/analysis/2026-09-21.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-20.html"
+      "path": "tr/news/analysis/2026-09-21.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-20.html"
+      "path": "it/news/analysis/2026-09-21.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-20.html"
+      "path": "ja/news/analysis/2026-09-21.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-20.html"
+      "path": "ko/news/analysis/2026-09-21.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-20.html"
+      "path": "id/news/analysis/2026-09-21.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-20.html"
+      "path": "hi/news/analysis/2026-09-21.html"
     }
   ]
 }
