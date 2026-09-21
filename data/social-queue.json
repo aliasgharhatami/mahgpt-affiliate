@@ -1,246 +1,111 @@
 {
   "version": 1,
-  "queue_date": "2026-09-20",
-  "created_at": "2026-09-20T09:49:24.562Z",
-  "source_feed_updated_at": "2026-09-20T09:49:21.653Z",
+  "queue_date": "2026-09-21",
+  "created_at": "2026-09-21T06:51:42.436Z",
+  "source_feed_updated_at": "2026-09-21T06:51:42.346Z",
   "items": [
     {
-      "story_id": "https://www.techradar.com/pro/the-test-isnt-whether-ai-can-do-something-its-whether-it-can-make-the-process-measurably-better-we-hear-why-businesses-need-to-be-more-selective-about-where-theyre-using-ai",
-      "source_url": "https://www.techradar.com/pro/the-test-isnt-whether-ai-can-do-something-its-whether-it-can-make-the-process-measurably-better-we-hear-why-businesses-need-to-be-more-selective-about-where-theyre-using-ai",
-      "headline": "'The test isn’t whether AI can do something. It’s whether it can make the process measurably better': We hear why businesses need to be more selective about where they’re using AI",
-      "summary": "Does every business process really need AI?",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/478v6VqTvvCMsByCNXZP8Q-920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/478v6VqTvvCMsByCNXZP8Q-920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 920,
-        "height": 545,
-        "aspectRatio": 1.688073394495413,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-test-isnt-whether-ai-can-do-something-its-whether-it-can-make-the-process-measurably-b",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T05:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-20T09:49:53.640Z",
-        "message_id": 429,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-20T09:51:35.146Z",
-        "message_id": "18014849678943603",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-techradar-com-pro-the-test-isnt-whether-ai-can-do-something-its-whethe-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-20T09:51:43.748Z",
-        "message_id": "18046545338813442",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.creativebloq.com/ai/ai-art/a-creative-studio-built-an-ai-slop-monster-as-a-promise-never-to-make-one-again",
-      "source_url": "https://www.creativebloq.com/ai/ai-art/a-creative-studio-built-an-ai-slop-monster-as-a-promise-never-to-make-one-again",
-      "headline": "A creative studio built an \"AI slop monster\" sculpture as a promise never to make one again",
-      "summary": "This ‘CHAIMERA’ is coming to the British Art Fair this week.",
+      "story_id": "https://www.creativebloq.com/entertainment/gaming/everyone-has-a-hundred-bad-games-in-them-and-we-did-them-really-quickly-adam-vian-on-the-creation-and-evolution-of-detective-grimoire",
+      "source_url": "https://www.creativebloq.com/entertainment/gaming/everyone-has-a-hundred-bad-games-in-them-and-we-did-them-really-quickly-adam-vian-on-the-creation-and-evolution-of-detective-grimoire",
+      "headline": "\"Everyone has a hundred bad games in them, and we did them really quickly\": Adam Vian on the creation and evolution of Detective Grimoire",
+      "summary": "The creative director of SFB Games tells us about developing the studio’s style from Adobe Flash games to The Mermaid Mask.",
       "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/bBDiKYLdzf5qWRYuvmsr37-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/bBDiKYLdzf5qWRYuvmsr37-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ZrXPpYp9mb7wC3HtD42Ndb-1478-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZrXPpYp9mb7wC3HtD42Ndb-1478-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1478,
+        "height": 924,
+        "aspectRatio": 1.5995670995670996,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-creative-studio-built-an-ai-slop-monster-sculpture-as-a-promise-never-to-make-one-again",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T07:20:00.000Z",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=everyone-has-a-hundred-bad-games-in-them-and-we-did-them-really-quickly-adam-vian-on-the-c",
+      "detected_partner": "adobe",
+      "product_url": "https://www.adobe.com/products/firefly.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-09-21T05:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-09-20T12:05:31.894Z",
-        "message_id": 430,
+        "published_at": "2026-09-21T06:51:51.602Z",
+        "message_id": 437,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-20T11:42:33.604Z",
-        "message_id": "18433383004176018",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-creativebloq-com-ai-ai-art-a-creative-studio-built-an-ai-slop-monster--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-creativebloq-com-entertainment-gaming-everyone-has-a-hundred-bad-games-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-20T11:42:41.394Z",
-        "message_id": "17986574688063451",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.creativebloq.com/ai/ai-slop-was-a-great-phrase-but-now-ai-is-getting-better-at-video-we-need-a-new-one",
-      "source_url": "https://www.creativebloq.com/ai/ai-slop-was-a-great-phrase-but-now-ai-is-getting-better-at-video-we-need-a-new-one",
-      "headline": "\"AI slop\" was a great phrase, but now AI is getting better at video, we need a new one",
-      "summary": "A term that once made instant sense is starting to fall short.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6XCmd6UQyCL6cA9sEknETJ-1500-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/6XCmd6UQyCL6cA9sEknETJ-1500-80.jpg",
+      "story_id": "https://www.techradar.com/pro/quote-of-the-day-by-figure-ai-founder-and-ceo-brett-adcock-were-building-a-new-species-here-an-audacious-vision-to-replace-manual-labor-with-humanoid-ai",
+      "source_url": "https://www.techradar.com/pro/quote-of-the-day-by-figure-ai-founder-and-ceo-brett-adcock-were-building-a-new-species-here-an-audacious-vision-to-replace-manual-labor-with-humanoid-ai",
+      "headline": "Quote of the day by Figure AI founder and CEO Brett Adcock: 'We're building a new species here'",
+      "summary": "Physical AI is coming in the form of humanoid robots, but are we ready?",
+      "source_name": "an audacious vision to replace manual labor with humanoid AI",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/NNzrzUBR5QxNFHioGTWcoM-1024-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/NNzrzUBR5QxNFHioGTWcoM-1024-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1500,
-        "height": 844,
-        "aspectRatio": 1.7772511848341233,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-slop-was-a-great-phrase-but-now-ai-is-getting-better-at-video-we-need-a-new-one",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=quote-of-the-day-by-figure-ai-founder-and-ceo-brett-adcock-were-building-a-new-species-her",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-21T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-20T14:43:00.479Z",
-        "message_id": 431,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-20T14:43:32.521Z",
-        "message_id": "17985698649111617",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-creativebloq-com-ai-ai-slop-was-a-great-phrase-but-now-ai-is-getting-b-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-techradar-com-pro-quote-of-the-day-by-figure-ai-founder-and-ceo-brett--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-20T14:43:40.360Z",
-        "message_id": "17922953967429777",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "headline": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazin",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=metas-muse-is-creepy-but-maybe-not-for-the-reasons-you-think",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-20T16:08:08.896Z",
-        "message_id": 432,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-20T17:58:13.704Z",
-        "message_id": "18111618368037146",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-20/Meta-s-Muse-is-creepy-but-maybe-not-for-the-reasons-you-think-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-theverge-com-ai-artificial-intelligence-997833-meta-muse-creepy-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-20T17:58:22.565Z",
-        "message_id": "18215740555354147",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "source_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "headline": "Trump says it&#8217;s time to rebrand AI with a new name",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "source_name": "and he&#8217;s also creating an AI Force",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
+      "story_id": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source_url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "headline": "Is the AI industry really ready to slow down?",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
       "image_validation": {
         "valid": true,
         "width": 1200,
@@ -250,54 +115,90 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trump-says-it-and-8217-s-time-to-rebrand-ai-with-a-new-name",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=is-the-ai-industry-really-ready-to-slow-down",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-21T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-20T18:13:05.522Z",
-        "message_id": 433,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-20T20:37:30.845Z",
-        "message_id": "18221209294337287",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-20/https-techcrunch-com-2026-09-19-trump-suggests-rebranding-ai-with-a-new-name-say-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-21/https-techcrunch-com-2026-09-20-is-the-ai-industry-really-ready-to-slow-down--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-20T20:37:39.720Z",
-        "message_id": "18094324220135949",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/",
-      "source_url": "https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/",
-      "headline": "Now Trump says he's creating an AI Force",
-      "summary": "The president said he will soon announce an &#34;AI czar&#34; to run this newly made-up agency.",
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "headline": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
+      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [&#8230;]",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=no-one-is-surprised-that-nvidia-and-8217-s-jensen-huang-thinks-ai-fears-are-overblown",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-21T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-21/No-one-is-surprised-that-Nvidia-8217-s-Jensen-Huang-thinks-AI-fears-are-overblow-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-theverge-com-ai-artificial-intelligence-997936-nvidia-jensen-huang-ai--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2255727/how-to-use-chatgpt-make-stickers-imessage-whatsapp/",
+      "source_url": "https://www.engadget.com/2255727/how-to-use-chatgpt-make-stickers-imessage-whatsapp/",
+      "headline": "How to use ChatGPT to make stickers for iMessage and WhatsApp",
+      "summary": "The default sticker options in iMessage and WhatsApp are cool but maybe a little limited. Now, with help from ChatGPT's AI tool, things have got a bit more fun.",
       "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/now-trump-says-hes-creating-an-ai-force/l-intro-1789845347.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/now-trump-says-hes-creating-an-ai-force/l-intro-1789845347.jpg",
+      "original_image_url": "https://www.engadget.com/img/gallery/how-to-use-chatgpt-to-make-stickers-for-imessage-and-whatsapp/l-intro-1789124859.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/how-to-use-chatgpt-to-make-stickers-for-imessage-and-whatsapp/l-intro-1789124859.jpg",
       "image_validation": {
         "valid": true,
         "width": 1600,
@@ -307,130 +208,106 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=now-trump-says-hes-creating-an-ai-force",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-use-chatgpt-to-make-stickers-for-imessage-and-whatsapp",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-21T13:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-20T21:15:32.853Z",
-        "message_id": 434,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-20T22:42:38.833Z",
-        "message_id": "17998048649816808",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-engadget-com-2263237-now-trump-says-hes-creating-an-ai-force--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-engadget-com-2255727-how-to-use-chatgpt-make-stickers-imessage-whatsap-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-20T22:42:47.495Z",
-        "message_id": "17898792141666701",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/",
-      "source_url": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/",
-      "headline": "Anthropic picks Accenture for third-party AI safety evaluations",
-      "summary": "This move represents the first step in the CEO's plan to slow down AI development.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/l-intro-1789841893.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/l-intro-1789841893.jpg",
+      "story_id": "https://www.techradar.com/pro/an-ai-agent-tried-to-guess-what-wine-i-was-drinking-based-on-my-description-and-the-results-were-mixed-to-say-the-least",
+      "source_url": "https://www.techradar.com/pro/an-ai-agent-tried-to-guess-what-wine-i-was-drinking-based-on-my-description-and-the-results-were-mixed-to-say-the-least",
+      "headline": "An AI agent tried to guess what wine I was drinking based on my description",
+      "summary": "Salesforce's tAIster AI agent tried hard, but isn't a certified wine snob just yet.",
+      "source_name": "and the results were mixed to say the least",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/khZ47WbhYuy4ALY98nEZX9-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/khZ47WbhYuy4ALY98nEZX9-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
+        "width": 2560,
+        "height": 1444,
+        "aspectRatio": 1.7728531855955678,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-picks-accenture-for-third-party-ai-safety-evaluations",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=an-ai-agent-tried-to-guess-what-wine-i-was-drinking-based-on-my-description",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T17:20:00.000Z",
+      "scheduled_publish_at": "2026-09-21T15:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-20T23:22:19.243Z",
-        "message_id": 435,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-21T00:31:17.963Z",
-        "message_id": "17907790257490254",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-engadget-com-2263235-anthropic-picks-accenture-for-third-party-ai-safe-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-techradar-com-pro-an-ai-agent-tried-to-guess-what-wine-i-was-drinking--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "failed",
-        "attempted_at": "2026-09-21T00:31:21.688Z",
-        "classification": "instagram-api-error",
-        "message": "The requested resource does not exist"
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "source_url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "headline": "Google’s Gemini is the latest AI model to hack other companies",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "headline": "Trump now says he wants to form an ‘AI Force’",
+      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any w",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334825/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334825/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 683,
-        "aspectRatio": 1.499267935578331,
-        "instagramCompatible": true
+        "width": 1200,
+        "height": 627,
+        "aspectRatio": 1.9138755980861244,
+        "instagramCompatible": false
       },
       "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=googles-gemini-is-the-latest-ai-model-to-hack-other-companies",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trump-now-says-he-wants-to-form-an-ai-force",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-21T17:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-21T01:09:38.647Z",
-        "message_id": 436,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -442,38 +319,39 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-20/https-techcrunch-com-2026-09-19-googles-gemini-is-the-latest-ai-model-to-hack-ot-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-21/Trump-now-says-he-wants-to-form-an-AI-Force--instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-theverge-com-ai-artificial-intelligence-997867-trump-ai-force-ai-czar-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/masters-of-miniature-delivers-minuscule-upgradable-ryzen-ai-laptop-mouse-has-a-12-2-inch-screen-weighs-981g-but-aint-on-sale-outside-japan",
-      "source_url": "https://www.techradar.com/pro/masters-of-miniature-delivers-minuscule-upgradable-ryzen-ai-laptop-mouse-has-a-12-2-inch-screen-weighs-981g-but-aint-on-sale-outside-japan",
-      "headline": "Masters of Miniature delivers minuscule upgradable Ryzen AI laptop — Mouse has a 12.2-inch screen, weighs 981g, but ain't on sale outside Japan",
-      "summary": "Mouse's X2 combines a 981 g chassis, 12.2-inch display, Ryzen AI processors, expandable RAM, and a 60 Wh battery capacity.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ZGBtv8NVG5fGiQrdQUoBci-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ZGBtv8NVG5fGiQrdQUoBci-1920-80.jpg",
+      "story_id": "https://www.techradar.com/pro/a-huge-amount-of-employees-are-being-encouraged-to-use-ai-at-work-but-most-still-dont-know-why",
+      "source_url": "https://www.techradar.com/pro/a-huge-amount-of-employees-are-being-encouraged-to-use-ai-at-work-but-most-still-dont-know-why",
+      "headline": "A huge amount of employees are being encouraged to use AI at work",
+      "summary": "Nearly all employees are being encouraged to use AI in the workplace.",
+      "source_name": "but most still don’t know why",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
+        "width": 2560,
+        "height": 1440,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=masters-of-miniature-delivers-minuscule-upgradable-ryzen-ai-laptop-mouse-has-a-12-2-inch-s",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-huge-amount-of-employees-are-being-encouraged-to-use-ai-at-work",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-21T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -489,7 +367,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-techradar-com-pro-masters-of-miniature-delivers-minuscule-upgradable-r-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-techradar-com-pro-a-huge-amount-of-employees-are-being-encouraged-to-u-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -499,27 +377,27 @@
       }
     },
     {
-      "story_id": "https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/",
-      "source_url": "https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/",
-      "headline": "California governor wants to implement a kill switch for frontier AI models",
-      "summary": "Newsom's executive order calls for an expert panel to develop new AI safety measures.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/l-intro-1789836840.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/l-intro-1789836840.jpg",
+      "story_id": "https://www.techradar.com/computing/virtual-reality-augmented-reality/7-things-to-expect-at-meta-connect-2026-from-camera-less-smart-glasses-to-meta-ray-ban-glasses-updates",
+      "source_url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/7-things-to-expect-at-meta-connect-2026-from-camera-less-smart-glasses-to-meta-ray-ban-glasses-updates",
+      "headline": "7 things to expect at Meta Connect 2026 —from camera-less smart glasses to Meta Ray-ban glasses updates",
+      "summary": "Meta Connect 2026 kicks off soon and we're likely to see new smart glasses, AI improvements, and price hikes.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Vc9eDPgEyWGPEmhd2V9RLP-1371-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Vc9eDPgEyWGPEmhd2V9RLP-1371-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
+        "width": 1371,
+        "height": 771,
+        "aspectRatio": 1.7782101167315174,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=7-things-to-expect-at-meta-connect-2026-from-camera-less-smart-glasses-to-meta-ray-ban-gla",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-20T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-21T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -535,12 +413,59 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-20/https-www-engadget-com-2263218-california-governor-wants-to-implement-a-kill-swi-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-techradar-com-computing-virtual-reality-augmented-reality-7-things-to--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "source_url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "headline": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=humans-not-rogue-ai-are-still-the-biggest-cybersecurity-risk-to-energy-systems",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-21T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-21/Humans-not-rogue-AI-are-still-the-biggest-cybersecurity-risk-to-energy-systems-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-theverge-com-science-997834-ai-cyberattack-energy-critical-infrastruct-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     }

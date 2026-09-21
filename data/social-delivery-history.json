@@ -3417,6 +3417,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/entertainment/gaming/everyone-has-a-hundred-bad-games-in-them-and-we-did-them-really-quickly-adam-vian-on-the-creation-and-evolution-of-detective-grimoire": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-21T06:51:51.602Z",
+        "message_id": 437,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
