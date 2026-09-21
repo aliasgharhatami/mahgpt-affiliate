@@ -12,6 +12,7 @@ on:
       - 'scripts/social-queue-readiness.mjs'
       - 'scripts/validate-social-cadence.mjs'
       - 'scripts/validate-affiliate-links.mjs'
+      - 'scripts/validate-higgsfield-pages.mjs'
       - '.github/workflows/social-delivery.yml'
       - '.github/workflows/publish-social-queue.yml'
       - '.github/workflows/test-instagram-publisher.yml'
@@ -48,8 +49,10 @@ jobs:
           node --check scripts/social-queue-readiness.mjs
           node --check scripts/validate-social-cadence.mjs
           node --check scripts/validate-affiliate-links.mjs
+          node --check scripts/validate-higgsfield-pages.mjs
           node scripts/validate-social-cadence.mjs
           node scripts/validate-affiliate-links.mjs
+          node scripts/validate-higgsfield-pages.mjs
       - name: Generate daily analysis pages for validation
         run: |
           node scripts/daily-analysis.mjs

@@ -6,6 +6,8 @@ on:
       - 'partners/**'
       - 'config/locales.json'
       - 'scripts/generate-multilingual.mjs'
+      - 'scripts/generate-higgsfield-pages.mjs'
+      - 'scripts/validate-higgsfield-pages.mjs'
       - 'scripts/validate-multilingual.mjs'
       - 'scripts/generate-sitemaps.mjs'
       - 'scripts/validate-hreflang-sitemaps.mjs'
@@ -25,6 +27,7 @@ jobs:
       - uses: actions/setup-node@v4
         with: {node-version: 20}
       - run: node scripts/generate-multilingual.mjs
+      - run: node scripts/validate-higgsfield-pages.mjs
       - run: node scripts/validate-multilingual.mjs
       - run: node scripts/generate-sitemaps.mjs
       - run: node scripts/validate-hreflang-sitemaps.mjs
