@@ -3502,6 +3502,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/where-should-ai-agents-stop-and-human-judgement-begin": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-21T21:06:13.602Z",
+        "message_id": 442,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
