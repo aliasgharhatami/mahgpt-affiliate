@@ -3451,6 +3451,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-21T13:43:45.285Z",
+        "message_id": 439,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
