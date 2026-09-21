@@ -3400,6 +3400,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-21T01:09:38.647Z",
+        "message_id": 436,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
