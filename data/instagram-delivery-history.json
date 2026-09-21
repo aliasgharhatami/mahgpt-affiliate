@@ -2146,6 +2146,20 @@
         "message_id": "18123632506862458",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-21T17:03:33.146Z",
+        "message_id": "18133140181735119",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-21T17:03:41.984Z",
+        "message_id": "18110742140157317",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
