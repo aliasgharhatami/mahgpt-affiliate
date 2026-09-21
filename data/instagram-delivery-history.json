@@ -2160,6 +2160,20 @@
         "message_id": "18110742140157317",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-21T21:04:18.115Z",
+        "message_id": "18025896740887688",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-21T21:04:28.081Z",
+        "message_id": "18231228928325973",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
