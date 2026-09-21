@@ -3485,6 +3485,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/security/googles-gemini-hacked-three-companies-during-irregular-ai-capture-the-flag-testing-agents-broke-containment-and-guessed-passwords-to-hack-computer-systems": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-21T18:55:42.116Z",
+        "message_id": 441,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
