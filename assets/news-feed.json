@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T06:51:42.346Z",
+  "updatedAt": "2026-09-21T10:44:44.928Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "\"Everyone has a hundred bad games in them, and we did them really quickly\": Adam Vian on the creation and evolution of Detective Grimoire",
-      "summary": "The creative director of SFB Games tells us about developing the studio’s style from Adobe Flash games to The Mermaid Mask.",
+      "title": "Affinity 3.3 shows that Canva is serious about taking on Adobe",
+      "summary": "The latest update to the free Creative Cloud alternative packs in a blend tool, RAW overhaul and scripting studio.",
       "guide": "/partners/adobe.html",
-      "source": "https://www.creativebloq.com/entertainment/gaming/everyone-has-a-hundred-bad-games-in-them-and-we-did-them-really-quickly-adam-vian-on-the-creation-and-evolution-of-detective-grimoire",
-      "publishedAt": "2026-09-20T13:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZrXPpYp9mb7wC3HtD42Ndb-1478-80.jpg"
+      "source": "https://www.creativebloq.com/design/design-software/affinity-3-3-shows-that-canva-is-serious-about-taking-on-adobe",
+      "publishedAt": "2026-09-21T08:06:25.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/gYstVjtvdqs2zKpkzxJevm-1280-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Quote of the day by Figure AI founder and CEO Brett Adcock: 'We're building a new species here' — an audacious vision to replace manual labor with humanoid AI",
-      "summary": "Physical AI is coming in the form of humanoid robots, but are we ready?",
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/quote-of-the-day-by-figure-ai-founder-and-ceo-brett-adcock-were-building-a-new-species-here-an-audacious-vision-to-replace-manual-labor-with-humanoid-ai",
-      "publishedAt": "2026-09-20T22:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/NNzrzUBR5QxNFHioGTWcoM-1024-80.jpg"
+      "source": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "publishedAt": "2026-09-21T10:34:43.000Z",
+      "image": "https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/191:100/w_1280,c_limit/092126-Bensen%20China.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Is the AI industry really ready to slow down?",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic ",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "publishedAt": "2026-09-20T18:56:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "publishedAt": "2026-09-21T10:18:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
-      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [&#8230;]",
+      "title": "Google’s Gemini hacked three companies during Irregular AI ‘capture-the-flag’ testing — agents broke containment and guessed passwords to hack computer systems",
+      "summary": "Google says AI agents broke out of a testing environment and hacked three third-party companies.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "publishedAt": "2026-09-20T18:50:18.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.techradar.com/pro/security/googles-gemini-hacked-three-companies-during-irregular-ai-capture-the-flag-testing-agents-broke-containment-and-guessed-passwords-to-hack-computer-systems",
+      "publishedAt": "2026-09-21T10:07:24.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/apMew975VRgc48QvTAYAsg-1200-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How to use ChatGPT to make stickers for iMessage and WhatsApp",
-      "summary": "The default sticker options in iMessage and WhatsApp are cool but maybe a little limited. Now, with help from ChatGPT's AI tool, things have got a bit more fun.",
+      "title": "Where should AI agents stop and human judgement begin?",
+      "summary": "As AI gains execution power, advertisers must define limits and accountability.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2255727/how-to-use-chatgpt-make-stickers-imessage-whatsapp/",
-      "publishedAt": "2026-09-20T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-chatgpt-to-make-stickers-for-imessage-and-whatsapp/l-intro-1789124859.jpg"
+      "source": "https://www.techradar.com/pro/where-should-ai-agents-stop-and-human-judgement-begin",
+      "publishedAt": "2026-09-21T10:01:24.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "An AI agent tried to guess what wine I was drinking based on my description — and the results were mixed to say the least",
-      "summary": "Salesforce's tAIster AI agent tried hard, but isn't a certified wine snob just yet.",
+      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" Accordin",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/an-ai-agent-tried-to-guess-what-wine-i-was-drinking-based-on-my-description-and-the-results-were-mixed-to-say-the-least",
-      "publishedAt": "2026-09-20T16:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/khZ47WbhYuy4ALY98nEZX9-2560-80.jpg"
+      "source": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "publishedAt": "2026-09-21T09:21:47.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Amazon_Prime_Illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any w",
+      "title": "Forget Pixar: Laika is the animation house of the future",
+      "summary": "Its focus on stop-motion is what we all need in the AI era.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "publishedAt": "2026-09-20T15:39:22.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334825/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+      "source": "https://www.creativebloq.com/art/animation/forget-pixar-laika-is-the-animation-house-of-the-future",
+      "publishedAt": "2026-09-21T09:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JFL7Lbn3BqEAnUrRqjMCiR-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "A huge amount of employees are being encouraged to use AI at work - but most still don’t know why",
-      "summary": "Nearly all employees are being encouraged to use AI in the workplace.",
+      "title": "AI isn’t only for enterprises; it’s time for SMBs to cash in",
+      "summary": "If corporate behemoths and tech specialists are finding it difficult, how can SMBs keep up?",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/a-huge-amount-of-employees-are-being-encouraged-to-use-ai-at-work-but-most-still-dont-know-why",
-      "publishedAt": "2026-09-20T15:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/ai-isnt-only-for-enterprises-its-time-for-smbs-to-cash-in",
+      "publishedAt": "2026-09-21T08:57:57.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "7 things to expect at Meta Connect 2026 —from camera-less smart glasses to Meta Ray-ban glasses updates",
-      "summary": "Meta Connect 2026 kicks off soon and we're likely to see new smart glasses, AI improvements, and price hikes.",
+      "title": "AI has crossed a cybersecurity redline – now what?",
+      "summary": "As AI systems grow more autonomous, organizations must rethink cybersecurity, governance and resilience.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/computing/virtual-reality-augmented-reality/7-things-to-expect-at-meta-connect-2026-from-camera-less-smart-glasses-to-meta-ray-ban-glasses-updates",
-      "publishedAt": "2026-09-20T14:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Vc9eDPgEyWGPEmhd2V9RLP-1371-80.jpg"
+      "source": "https://www.techradar.com/pro/ai-has-crossed-a-cybersecurity-redline-now-what",
+      "publishedAt": "2026-09-21T08:15:54.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
     },
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive ",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-      "publishedAt": "2026-09-20T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Get a lifetime PDF editor for Mac for $79.99 — An Acrobat alternative for less",
+      "summary": "Macworld TL;DR: PDF Expert edits, signs, and converts PDFs on Mac without a subscription — PDF Expert Premium Plan is on sale for $79.99 (reg. $139.99). Adobe Acrobat charges a recurring monthly or annual fee just to edit, sign, or convert a PDF, and that bill keeps arriving whether you open the app",
+      "guide": "/partners/adobe.html",
+      "source": "https://www.macworld.com/article/3239273/get-a-lifetime-pdf-editor-for-mac-for-79-99-an-acrobat-alternative-for-less.html",
+      "publishedAt": "2026-09-21T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3239273-0-44563800-1789977655-PDF-Expert-1.jpg?quality=50&strip=all&w=1024"
     }
   ]
 }
