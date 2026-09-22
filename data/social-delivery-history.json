@@ -3587,6 +3587,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-22T11:57:46.007Z",
+        "message_id": 447,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
