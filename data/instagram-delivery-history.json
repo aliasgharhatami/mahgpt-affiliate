@@ -2230,6 +2230,20 @@
         "message_id": "18224745028336730",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/dont-count-the-savings-until-you-know-what-the-ai-actually-costs": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-22T18:06:02.942Z",
+        "message_id": "18133236154641115",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-22T18:06:10.365Z",
+        "message_id": "18103547450213669",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
