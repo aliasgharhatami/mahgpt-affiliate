@@ -2272,6 +2272,20 @@
         "message_id": "17963432123978920",
         "media_kind": "story-fallback"
       }
+    },
+    "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-22T23:42:22.588Z",
+        "message_id": "18340258849281945",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-22T23:42:31.280Z",
+        "message_id": "18110045176880090",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
