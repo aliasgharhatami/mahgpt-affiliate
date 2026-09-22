@@ -2174,6 +2174,20 @@
         "message_id": "18231228928325973",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/security/googles-gemini-hacked-three-companies-during-irregular-ai-capture-the-flag-testing-agents-broke-containment-and-guessed-passwords-to-hack-computer-systems": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-22T00:06:55.751Z",
+        "message_id": "17902711614355030",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-22T00:07:04.418Z",
+        "message_id": "18417812812152883",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
