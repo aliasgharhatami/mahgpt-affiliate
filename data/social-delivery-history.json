@@ -3655,6 +3655,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-22T22:23:47.889Z",
+        "message_id": 451,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
