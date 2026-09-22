@@ -3638,6 +3638,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/hackers-are-hiding-malware-on-blockchains-that-are-nearly-impossible-to-take-down-and-unrestricted-ai-models-have-pushed-these-attacks-up-440": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-22T19:08:58.558Z",
+        "message_id": 450,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
