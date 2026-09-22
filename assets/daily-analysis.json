@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T10:44:55.045Z",
-  "analysis_date": "2026-09-21",
+  "generated_at": "2026-09-22T09:58:23.123Z",
+  "analysis_date": "2026-09-22",
   "stories": [
     {
-      "title": "Affinity 3.3 shows that Canva is serious about taking on Adobe",
-      "source": "https://www.creativebloq.com/design/design-software/affinity-3-3-shows-that-canva-is-serious-about-taking-on-adobe",
-      "mahgpt_url": "/news/story.html?id=affinity-3-3-shows-that-canva-is-serious-about-taking-on-adobe"
+      "title": "Our favourite free graphics suite gets supercharged as Canva's Affinity gets a flurry of upgrades in a bid to rival Adobe",
+      "source": "https://www.techradar.com/pro/our-favourite-free-graphics-suite-gets-supercharged-as-canvas-affinity-gets-a-flurry-of-upgrades-in-a-bid-to-rival-adobe",
+      "mahgpt_url": "/news/story.html?id=our-favourite-free-graphics-suite-gets-supercharged-as-canvas-affinity-gets-a-flurry-of-up"
     },
     {
-      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-      "source": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-      "mahgpt_url": "/news/story.html?id=us-and-china-discuss-alerting-each-other-to-ai-national-security-threats"
+      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+      "source": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+      "mahgpt_url": "/news/story.html?id=a-new-chatbot-wants-to-unlock-the-secrets-in-tattered-ancient-greek-records"
     },
     {
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "mahgpt_url": "/news/story.html?id=un-says-ai-safeguards-cant-wait-for-certainty"
+      "title": "How to Use AI With Your Privacy Intact",
+      "source": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+      "mahgpt_url": "/news/story.html?id=how-to-use-ai-with-your-privacy-intact"
     },
     {
-      "title": "Google’s Gemini hacked three companies during Irregular AI ‘capture-the-flag’ testing — agents broke containment and guessed passwords to hack computer systems",
-      "source": "https://www.techradar.com/pro/security/googles-gemini-hacked-three-companies-during-irregular-ai-capture-the-flag-testing-agents-broke-containment-and-guessed-passwords-to-hack-computer-systems",
-      "mahgpt_url": "/news/story.html?id=googles-gemini-hacked-three-companies-during-irregular-ai-capture-the-flag-testing-agents-"
+      "title": "Don't count the savings until you know what the AI actually costs",
+      "source": "https://www.techradar.com/pro/dont-count-the-savings-until-you-know-what-the-ai-actually-costs",
+      "mahgpt_url": "/news/story.html?id=dont-count-the-savings-until-you-know-what-the-ai-actually-costs"
     },
     {
-      "title": "Where should AI agents stop and human judgement begin?",
-      "source": "https://www.techradar.com/pro/where-should-ai-agents-stop-and-human-judgement-begin",
-      "mahgpt_url": "/news/story.html?id=where-should-ai-agents-stop-and-human-judgement-begin"
+      "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
+      "source": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "mahgpt_url": "/news/story.html?id=the-man-who-built-apple-and-8217-s-stores-doesn-and-8217-t-buy-silicon-valley-and-8217-s-b"
     },
     {
-      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-      "source": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "mahgpt_url": "/news/story.html?id=amazon-doesnt-trust-metas-muse-ai-agent"
+      "title": "Hackers are hiding malware on blockchains that are nearly impossible to take down, and unrestricted AI models have pushed these attacks up 440%",
+      "source": "https://www.techradar.com/pro/hackers-are-hiding-malware-on-blockchains-that-are-nearly-impossible-to-take-down-and-unrestricted-ai-models-have-pushed-these-attacks-up-440",
+      "mahgpt_url": "/news/story.html?id=hackers-are-hiding-malware-on-blockchains-that-are-nearly-impossible-to-take-down-and-unre"
     },
     {
-      "title": "Forget Pixar: Laika is the animation house of the future",
-      "source": "https://www.creativebloq.com/art/animation/forget-pixar-laika-is-the-animation-house-of-the-future",
-      "mahgpt_url": "/news/story.html?id=forget-pixar-laika-is-the-animation-house-of-the-future"
+      "title": "Muse, Meta&#039;s extraordinarily privileged AI assistant, has a serious 0-day",
+      "source": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "mahgpt_url": "/news/story.html?id=muse-meta-and-039-s-extraordinarily-privileged-ai-assistant-has-a-serious-0-day"
     },
     {
-      "title": "AI isn’t only for enterprises; it’s time for SMBs to cash in",
-      "source": "https://www.techradar.com/pro/ai-isnt-only-for-enterprises-its-time-for-smbs-to-cash-in",
-      "mahgpt_url": "/news/story.html?id=ai-isnt-only-for-enterprises-its-time-for-smbs-to-cash-in"
+      "title": "Huawei Ascend 960 SuperPoD aims to surpass Nvidia AI hardware in China — 960E with over 4,000 NPUs and an upgraded UnifiedBus Interconnect aims for 10 trillion parameters",
+      "source": "https://www.techradar.com/pro/huawei-ascend-960-superpod-aims-to-surpass-nvidia-ai-hardware-in-china-960e-with-over-4-000-npus-and-an-upgraded-unifiedbus-interconnect-aims-for-10-trillion-parameters",
+      "mahgpt_url": "/news/story.html?id=huawei-ascend-960-superpod-aims-to-surpass-nvidia-ai-hardware-in-china-960e-with-over-4-00"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-21.html"
+      "path": "news/analysis/2026-09-22.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-21.html"
+      "path": "es/news/analysis/2026-09-22.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-21.html"
+      "path": "de/news/analysis/2026-09-22.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-21.html"
+      "path": "fr/news/analysis/2026-09-22.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-21.html"
+      "path": "pt-BR/news/analysis/2026-09-22.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-21.html"
+      "path": "ar/news/analysis/2026-09-22.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-21.html"
+      "path": "fa/news/analysis/2026-09-22.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-21.html"
+      "path": "tr/news/analysis/2026-09-22.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-21.html"
+      "path": "it/news/analysis/2026-09-22.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-21.html"
+      "path": "ja/news/analysis/2026-09-22.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-21.html"
+      "path": "ko/news/analysis/2026-09-22.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-21.html"
+      "path": "id/news/analysis/2026-09-22.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-21.html"
+      "path": "hi/news/analysis/2026-09-22.html"
     }
   ]
 }
