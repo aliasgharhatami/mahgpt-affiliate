@@ -3604,6 +3604,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/dont-count-the-savings-until-you-know-what-the-ai-actually-costs": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-22T15:32:07.132Z",
+        "message_id": 448,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
