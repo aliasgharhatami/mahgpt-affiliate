@@ -1,344 +1,17 @@
 {
   "version": 1,
-  "queue_date": "2026-09-21",
-  "created_at": "2026-09-21T10:44:48.451Z",
-  "source_feed_updated_at": "2026-09-21T10:44:44.928Z",
+  "queue_date": "2026-09-22",
+  "created_at": "2026-09-22T06:17:40.023Z",
+  "source_feed_updated_at": "2026-09-22T06:17:39.939Z",
   "items": [
     {
-      "story_id": "https://www.creativebloq.com/design/design-software/affinity-3-3-shows-that-canva-is-serious-about-taking-on-adobe",
-      "source_url": "https://www.creativebloq.com/design/design-software/affinity-3-3-shows-that-canva-is-serious-about-taking-on-adobe",
-      "headline": "Affinity 3.3 shows that Canva is serious about taking on Adobe",
-      "summary": "The latest update to the free Creative Cloud alternative packs in a blend tool, RAW overhaul and scripting studio.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/gYstVjtvdqs2zKpkzxJevm-1280-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/gYstVjtvdqs2zKpkzxJevm-1280-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=affinity-3-3-shows-that-canva-is-serious-about-taking-on-adobe",
-      "detected_partner": "adobe",
-      "product_url": "https://www.adobe.com/products/firefly.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-21T05:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-21T10:45:24.957Z",
-        "message_id": 438,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-21T10:49:26.638Z",
-        "message_id": "17948277816328496",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-creativebloq-com-design-design-software-affinity-3-3-shows-that-canva--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-21T10:49:36.797Z",
-        "message_id": "18123632506862458",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-      "source_url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-      "headline": "US and China Discuss Alerting Each Other to AI National Security Threats",
-      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/191:100/w_1280,c_limit/092126-Bensen%20China.jpg",
-      "image_url": "https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/191:100/w_1280,c_limit/092126-Bensen%20China.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=us-and-china-discuss-alerting-each-other-to-ai-national-security-threats",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-21T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-21T13:43:45.285Z",
-        "message_id": 439,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-21T17:03:33.146Z",
-        "message_id": "18133140181735119",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-21/US-and-China-Discuss-Alerting-Each-Other-to-AI-National-Security-Threats-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-wired-com-story-us-and-china-discuss-alerting-each-other-to-ai-nationa-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-21T17:03:41.984Z",
-        "message_id": "18110742140157317",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "headline": "UN says AI safeguards can’t wait for certainty",
-      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=un-says-ai-safeguards-cant-wait-for-certainty",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-21T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-21T17:05:10.732Z",
-        "message_id": 440,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-21T21:04:18.115Z",
-        "message_id": "18025896740887688",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-21/UN-says-AI-safeguards-can-t-wait-for-certainty-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-theverge-com-ai-artificial-intelligence-998090-un-ai-panel-hugging-fac-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-21T21:04:28.081Z",
-        "message_id": "18231228928325973",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/security/googles-gemini-hacked-three-companies-during-irregular-ai-capture-the-flag-testing-agents-broke-containment-and-guessed-passwords-to-hack-computer-systems",
-      "source_url": "https://www.techradar.com/pro/security/googles-gemini-hacked-three-companies-during-irregular-ai-capture-the-flag-testing-agents-broke-containment-and-guessed-passwords-to-hack-computer-systems",
-      "headline": "Google’s Gemini hacked three companies during Irregular AI ‘capture-the-flag’ testing — agents broke containment and guessed passwords to hack computer systems",
-      "summary": "Google says AI agents broke out of a testing environment and hacked three third-party companies.",
+      "story_id": "https://www.techradar.com/pro/our-favourite-free-graphics-suite-gets-supercharged-as-canvas-affinity-gets-a-flurry-of-upgrades-in-a-bid-to-rival-adobe",
+      "source_url": "https://www.techradar.com/pro/our-favourite-free-graphics-suite-gets-supercharged-as-canvas-affinity-gets-a-flurry-of-upgrades-in-a-bid-to-rival-adobe",
+      "headline": "Our favourite free graphics suite gets supercharged as Canva's Affinity gets a flurry of upgrades in a bid to rival Adobe",
+      "summary": "Canva expands Affinity with photography, design, file compatibility, and automation upgrades while connecting it more closely with Cavalry and ProSuite.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/apMew975VRgc48QvTAYAsg-1200-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/apMew975VRgc48QvTAYAsg-1200-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 676,
-        "aspectRatio": 1.7751479289940828,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=googles-gemini-hacked-three-companies-during-irregular-ai-capture-the-flag-testing-agents-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-21T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-21T18:55:42.116Z",
-        "message_id": 441,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-22T00:06:55.751Z",
-        "message_id": "17902711614355030",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-techradar-com-pro-security-googles-gemini-hacked-three-companies-durin-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-22T00:07:04.418Z",
-        "message_id": "18417812812152883",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/where-should-ai-agents-stop-and-human-judgement-begin",
-      "source_url": "https://www.techradar.com/pro/where-should-ai-agents-stop-and-human-judgement-begin",
-      "headline": "Where should AI agents stop and human judgement begin?",
-      "summary": "As AI gains execution power, advertisers must define limits and accountability.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=where-should-ai-agents-stop-and-human-judgement-begin",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-21T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-21T21:06:13.602Z",
-        "message_id": 442,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-techradar-com-pro-where-should-ai-agents-stop-and-human-judgement-begi-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "source_url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "headline": "Amazon doesn’t trust Meta’s Muse AI agent",
-      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" Accordin",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Amazon_Prime_Illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Amazon_Prime_Illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=amazon-doesnt-trust-metas-muse-ai-agent",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-21T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-21T22:30:51.356Z",
-        "message_id": 443,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-21/Amazon-doesn-t-trust-Meta-s-Muse-AI-agent-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-theverge-com-tech-998078-amazon-blocks-meta-muse-ai-agent-shopping-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.creativebloq.com/art/animation/forget-pixar-laika-is-the-animation-house-of-the-future",
-      "source_url": "https://www.creativebloq.com/art/animation/forget-pixar-laika-is-the-animation-house-of-the-future",
-      "headline": "Forget Pixar: Laika is the animation house of the future",
-      "summary": "Its focus on stop-motion is what we all need in the AI era.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/JFL7Lbn3BqEAnUrRqjMCiR-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/JFL7Lbn3BqEAnUrRqjMCiR-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Ta6vA4HsU3qm3PQ27MAHXe-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Ta6vA4HsU3qm3PQ27MAHXe-1920-80.png",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -348,15 +21,15 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=forget-pixar-laika-is-the-animation-house-of-the-future",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-21T17:20:00.000Z",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=our-favourite-free-graphics-suite-gets-supercharged-as-canvas-affinity-gets-a-flurry-of-up",
+      "detected_partner": "adobe",
+      "product_url": "https://www.adobe.com/products/firefly.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-09-22T05:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-09-22T00:08:51.088Z",
-        "message_id": 444,
+        "published_at": "2026-09-22T06:17:48.575Z",
+        "message_id": 445,
         "delivery": "photo"
       },
       "linkedin": {
@@ -370,7 +43,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-creativebloq-com-art-animation-forget-pixar-laika-is-the-animation-hou-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-22/https-www-techradar-com-pro-our-favourite-free-graphics-suite-gets-supercharged--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -380,13 +53,59 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/ai-isnt-only-for-enterprises-its-time-for-smbs-to-cash-in",
-      "source_url": "https://www.techradar.com/pro/ai-isnt-only-for-enterprises-its-time-for-smbs-to-cash-in",
-      "headline": "AI isn’t only for enterprises; it’s time for SMBs to cash in",
-      "summary": "If corporate behemoths and tech specialists are finding it difficult, how can SMBs keep up?",
+      "story_id": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source_url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "headline": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
+      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 683,
+        "aspectRatio": 1.499267935578331,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-man-who-built-apple-and-8217-s-stores-doesn-and-8217-t-buy-silicon-valley-and-8217-s-b",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-22T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-22/https-techcrunch-com-2026-09-21-the-man-who-built-apples-stores-doesnt-buy-silic-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/hackers-are-hiding-malware-on-blockchains-that-are-nearly-impossible-to-take-down-and-unrestricted-ai-models-have-pushed-these-attacks-up-440",
+      "source_url": "https://www.techradar.com/pro/hackers-are-hiding-malware-on-blockchains-that-are-nearly-impossible-to-take-down-and-unrestricted-ai-models-have-pushed-these-attacks-up-440",
+      "headline": "Hackers are hiding malware on blockchains that are nearly impossible to take down, and unrestricted AI models have pushed these attacks up 440%",
+      "summary": "Hackers are hiding malware instructions across public blockchains, while AI makes the technique easier to deploy and harder for defenders to disrupt.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/kDLU9By5uaPPbwrbfEaZFJ-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kDLU9By5uaPPbwrbfEaZFJ-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
@@ -396,11 +115,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-isnt-only-for-enterprises-its-time-for-smbs-to-cash-in",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hackers-are-hiding-malware-on-blockchains-that-are-nearly-impossible-to-take-down-and-unre",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-21T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-22T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -416,7 +135,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-techradar-com-pro-ai-isnt-only-for-enterprises-its-time-for-smbs-to-ca-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-22/https-www-techradar-com-pro-hackers-are-hiding-malware-on-blockchains-that-are-n-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -426,27 +145,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/ai-has-crossed-a-cybersecurity-redline-now-what",
-      "source_url": "https://www.techradar.com/pro/ai-has-crossed-a-cybersecurity-redline-now-what",
-      "headline": "AI has crossed a cybersecurity redline – now what?",
-      "summary": "As AI systems grow more autonomous, organizations must rethink cybersecurity, governance and resilience.",
-      "source_name": "now what?",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
+      "story_id": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "source_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "headline": "Muse, Meta&#039;s extraordinarily privileged AI assistant, has a serious 0-day",
+      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "source_name": "Arstechnica",
+      "original_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2000,
-        "height": 1125,
+        "width": 1152,
+        "height": 648,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-has-crossed-a-cybersecurity-redline-now-what",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=muse-meta-and-039-s-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-21T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-22T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -462,7 +181,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-techradar-com-pro-ai-has-crossed-a-cybersecurity-redline-now-what-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-22/https-arstechnica-com-security-2026-09-muse-metas-extraordinarily-privileged-ai--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -472,27 +191,27 @@
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3239273/get-a-lifetime-pdf-editor-for-mac-for-79-99-an-acrobat-alternative-for-less.html",
-      "source_url": "https://www.macworld.com/article/3239273/get-a-lifetime-pdf-editor-for-mac-for-79-99-an-acrobat-alternative-for-less.html",
-      "headline": "Get a lifetime PDF editor for Mac for $79.99",
-      "summary": "Macworld TL;DR: PDF Expert edits, signs, and converts PDFs on Mac without a subscription — PDF Expert Premium Plan is on sale for $79.99 (reg. $139.99). Adobe Acrobat charges a recurring monthly or annual fee just to edit, sign, or convert a PDF, and that bill keeps arriving whether you open the app",
-      "source_name": "An Acrobat alternative for less",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3239273-0-44563800-1789977655-PDF-Expert-1.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3239273-0-44563800-1789977655-PDF-Expert-1.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://www.techradar.com/pro/huawei-ascend-960-superpod-aims-to-surpass-nvidia-ai-hardware-in-china-960e-with-over-4-000-npus-and-an-upgraded-unifiedbus-interconnect-aims-for-10-trillion-parameters",
+      "source_url": "https://www.techradar.com/pro/huawei-ascend-960-superpod-aims-to-surpass-nvidia-ai-hardware-in-china-960e-with-over-4-000-npus-and-an-upgraded-unifiedbus-interconnect-aims-for-10-trillion-parameters",
+      "headline": "Huawei Ascend 960 SuperPoD aims to surpass Nvidia AI hardware in China — 960E with over 4,000 NPUs and an upgraded UnifiedBus Interconnect aims for 10 trillion parameters",
+      "summary": "Huawei’s Ascend 960 roadmap combines massive processor counts, UnifiedBus and optical links to support increasingly demanding AI workloads.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/WGzyGL2psLBnzWYh9cEtpH-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WGzyGL2psLBnzWYh9cEtpH-1920-80.png",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=get-a-lifetime-pdf-editor-for-mac-for-79-99",
-      "detected_partner": "adobe",
-      "product_url": "https://www.adobe.com/products/firefly.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-21T23:20:00.000Z",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=huawei-ascend-960-superpod-aims-to-surpass-nvidia-ai-hardware-in-china-960e-with-over-4-00",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-22T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -508,7 +227,238 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-21/https-www-macworld-com-article-3239273-get-a-lifetime-pdf-editor-for-mac-for-79--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-22/https-www-techradar-com-pro-huawei-ascend-960-superpod-aims-to-surpass-nvidia-ai-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/this-nato-backed-drone-ai-picked-its-own-target-and-struck-it-but-relied-on-a-human-drawn-map-to-do-so",
+      "source_url": "https://www.techradar.com/pro/this-nato-backed-drone-ai-picked-its-own-target-and-struck-it-but-relied-on-a-human-drawn-map-to-do-so",
+      "headline": "This NATO-backed drone AI picked its own target and struck it, but relied on a human-drawn map to do so",
+      "summary": "Humans assigned the drone with its mission, but no one has explained whether it can be stopped if its links are jammed.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-nato-backed-drone-ai-picked-its-own-target-and-struck-it-but-relied-on-a-human-drawn-",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-22T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-22/https-www-techradar-com-pro-this-nato-backed-drone-ai-picked-its-own-target-and--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/671123/should-i-install-macos-beta-latest-version.html",
+      "source_url": "https://www.macworld.com/article/671123/should-i-install-macos-beta-latest-version.html",
+      "headline": "Latest macOS beta: What’s new and should you install it?",
+      "summary": "Macworld Apple released macOS 27 Golden Gate on September 14, 2026, but development hasn’t stopped. Just two days later on September 16, Apple issued the first developer beta of macOS 27.2, beginning testing of the operating system’s next major point update. Yes, that’s macOS 27.2, not macOS 27.1. T",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/671123-0-29284100-1790023081-Apple-Developers-SDK-How-to-become-an-Apple-developer.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/671123-0-29284100-1790023081-Apple-Developers-SDK-How-to-become-an-Apple-developer.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 640,
+        "aspectRatio": 1.6,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=latest-macos-beta-whats-new-and-should-you-install-it",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-22T17:20:00.000Z",
+      "telegram": {
+        "status": "skipped_duplicate",
+        "published_at": "2026-08-25T17:47:39.173Z"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-22/https-www-macworld-com-article-671123-should-i-install-macos-beta-latest-version-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "headline": "California tightens rules on AI data center energy and water use",
+      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data cen",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&strip=all&crop=0%2C10.022372800543%2C100%2C79.955254398914&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&strip=all&crop=0%2C10.022372800543%2C100%2C79.955254398914&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 620,
+        "aspectRatio": 1.935483870967742,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=california-tightens-rules-on-ai-data-center-energy-and-water-use",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-22T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-22/California-tightens-rules-on-AI-data-center-energy-and-water-use-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-22/https-www-theverge-com-ai-artificial-intelligence-998453-california-ai-data-cent-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source_url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "headline": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 900,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-22T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-22/https-techcrunch-com-2026-09-21-openai-forms-math-advisory-group-as-its-ai-resol-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "source_url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "headline": "Meta&#8217;s Muse is outpacing ChatGPT’s early mobile launch",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 683,
+        "aspectRatio": 1.499267935578331,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-and-8217-s-muse-is-outpacing-chatgpts-early-mobile-launch",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-22T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-22/https-techcrunch-com-2026-09-21-metas-muse-is-outpacing-chatgpts-early-mobile-la-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T10:44:44.928Z",
+  "updatedAt": "2026-09-22T06:17:39.939Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "Affinity 3.3 shows that Canva is serious about taking on Adobe",
-      "summary": "The latest update to the free Creative Cloud alternative packs in a blend tool, RAW overhaul and scripting studio.",
+      "title": "Our favourite free graphics suite gets supercharged as Canva's Affinity gets a flurry of upgrades in a bid to rival Adobe",
+      "summary": "Canva expands Affinity with photography, design, file compatibility, and automation upgrades while connecting it more closely with Cavalry and ProSuite.",
       "guide": "/partners/adobe.html",
-      "source": "https://www.creativebloq.com/design/design-software/affinity-3-3-shows-that-canva-is-serious-about-taking-on-adobe",
-      "publishedAt": "2026-09-21T08:06:25.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gYstVjtvdqs2zKpkzxJevm-1280-80.jpg"
+      "source": "https://www.techradar.com/pro/our-favourite-free-graphics-suite-gets-supercharged-as-canvas-affinity-gets-a-flurry-of-upgrades-in-a-bid-to-rival-adobe",
+      "publishedAt": "2026-09-21T15:03:51.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ta6vA4HsU3qm3PQ27MAHXe-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+      "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
+      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-      "publishedAt": "2026-09-21T10:34:43.000Z",
-      "image": "https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/191:100/w_1280,c_limit/092126-Bensen%20China.jpg"
+      "source": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "publishedAt": "2026-09-21T23:44:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic ",
+      "title": "Hackers are hiding malware on blockchains that are nearly impossible to take down, and unrestricted AI models have pushed these attacks up 440%",
+      "summary": "Hackers are hiding malware instructions across public blockchains, while AI makes the technique easier to deploy and harder for defenders to disrupt.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "publishedAt": "2026-09-21T10:18:06.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.techradar.com/pro/hackers-are-hiding-malware-on-blockchains-that-are-nearly-impossible-to-take-down-and-unrestricted-ai-models-have-pushed-these-attacks-up-440",
+      "publishedAt": "2026-09-21T22:40:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kDLU9By5uaPPbwrbfEaZFJ-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Google’s Gemini hacked three companies during Irregular AI ‘capture-the-flag’ testing — agents broke containment and guessed passwords to hack computer systems",
-      "summary": "Google says AI agents broke out of a testing environment and hacked three third-party companies.",
+      "title": "Muse, Meta&#039;s extraordinarily privileged AI assistant, has a serious 0-day",
+      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/security/googles-gemini-hacked-three-companies-during-irregular-ai-capture-the-flag-testing-agents-broke-containment-and-guessed-passwords-to-hack-computer-systems",
-      "publishedAt": "2026-09-21T10:07:24.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/apMew975VRgc48QvTAYAsg-1200-80.jpg"
+      "source": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "publishedAt": "2026-09-21T22:24:38.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Where should AI agents stop and human judgement begin?",
-      "summary": "As AI gains execution power, advertisers must define limits and accountability.",
+      "title": "Huawei Ascend 960 SuperPoD aims to surpass Nvidia AI hardware in China — 960E with over 4,000 NPUs and an upgraded UnifiedBus Interconnect aims for 10 trillion parameters",
+      "summary": "Huawei’s Ascend 960 roadmap combines massive processor counts, UnifiedBus and optical links to support increasingly demanding AI workloads.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/where-should-ai-agents-stop-and-human-judgement-begin",
-      "publishedAt": "2026-09-21T10:01:24.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/huawei-ascend-960-superpod-aims-to-surpass-nvidia-ai-hardware-in-china-960e-with-over-4-000-npus-and-an-upgraded-unifiedbus-interconnect-aims-for-10-trillion-parameters",
+      "publishedAt": "2026-09-21T22:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/WGzyGL2psLBnzWYh9cEtpH-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" Accordin",
+      "title": "This NATO-backed drone AI picked its own target and struck it, but relied on a human-drawn map to do so",
+      "summary": "Humans assigned the drone with its mission, but no one has explained whether it can be stopped if its links are jammed.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "publishedAt": "2026-09-21T09:21:47.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Amazon_Prime_Illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.techradar.com/pro/this-nato-backed-drone-ai-picked-its-own-target-and-struck-it-but-relied-on-a-human-drawn-map-to-do-so",
+      "publishedAt": "2026-09-21T21:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Forget Pixar: Laika is the animation house of the future",
-      "summary": "Its focus on stop-motion is what we all need in the AI era.",
+      "title": "Latest macOS beta: What’s new and should you install it?",
+      "summary": "Macworld Apple released macOS 27 Golden Gate on September 14, 2026, but development hasn’t stopped. Just two days later on September 16, Apple issued the first developer beta of macOS 27.2, beginning testing of the operating system’s next major point update. Yes, that’s macOS 27.2, not macOS 27.1. T",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/art/animation/forget-pixar-laika-is-the-animation-house-of-the-future",
-      "publishedAt": "2026-09-21T09:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/JFL7Lbn3BqEAnUrRqjMCiR-1920-80.jpg"
+      "source": "https://www.macworld.com/article/671123/should-i-install-macos-beta-latest-version.html",
+      "publishedAt": "2026-09-21T20:37:28.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/671123-0-29284100-1790023081-Apple-Developers-SDK-How-to-become-an-Apple-developer.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI isn’t only for enterprises; it’s time for SMBs to cash in",
-      "summary": "If corporate behemoths and tech specialists are finding it difficult, how can SMBs keep up?",
+      "title": "California tightens rules on AI data center energy and water use",
+      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data cen",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ai-isnt-only-for-enterprises-its-time-for-smbs-to-cash-in",
-      "publishedAt": "2026-09-21T08:57:57.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "publishedAt": "2026-09-21T20:29:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&strip=all&crop=0%2C10.022372800543%2C100%2C79.955254398914&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI has crossed a cybersecurity redline – now what?",
-      "summary": "As AI systems grow more autonomous, organizations must rethink cybersecurity, governance and resilience.",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ai-has-crossed-a-cybersecurity-redline-now-what",
-      "publishedAt": "2026-09-21T08:15:54.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
+      "source": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "publishedAt": "2026-09-21T20:15:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900"
     },
     {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Get a lifetime PDF editor for Mac for $79.99 — An Acrobat alternative for less",
-      "summary": "Macworld TL;DR: PDF Expert edits, signs, and converts PDFs on Mac without a subscription — PDF Expert Premium Plan is on sale for $79.99 (reg. $139.99). Adobe Acrobat charges a recurring monthly or annual fee just to edit, sign, or convert a PDF, and that bill keeps arriving whether you open the app",
-      "guide": "/partners/adobe.html",
-      "source": "https://www.macworld.com/article/3239273/get-a-lifetime-pdf-editor-for-mac-for-79-99-an-acrobat-alternative-for-less.html",
-      "publishedAt": "2026-09-21T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3239273-0-44563800-1789977655-PDF-Expert-1.jpg?quality=50&strip=all&w=1024"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Meta&#8217;s Muse is outpacing ChatGPT’s early mobile launch",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "publishedAt": "2026-09-21T19:19:21.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024"
     }
   ]
 }

@@ -3553,6 +3553,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/our-favourite-free-graphics-suite-gets-supercharged-as-canvas-affinity-gets-a-flurry-of-upgrades-in-a-bid-to-rival-adobe": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-22T06:17:48.575Z",
+        "message_id": 445,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
