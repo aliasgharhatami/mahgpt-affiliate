@@ -2188,6 +2188,20 @@
         "message_id": "18417812812152883",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/our-favourite-free-graphics-suite-gets-supercharged-as-canvas-affinity-gets-a-flurry-of-upgrades-in-a-bid-to-rival-adobe": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-22T09:38:41.774Z",
+        "message_id": "17869237449644963",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-22T09:38:49.408Z",
+        "message_id": "17947789023303749",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
