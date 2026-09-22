@@ -2202,6 +2202,20 @@
         "message_id": "17947789023303749",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-22T14:11:28.470Z",
+        "message_id": "17920855602431327",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-22T14:11:36.611Z",
+        "message_id": "18121237477905407",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
