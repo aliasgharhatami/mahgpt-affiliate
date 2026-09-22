@@ -3536,6 +3536,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/art/animation/forget-pixar-laika-is-the-animation-house-of-the-future": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-22T00:08:51.088Z",
+        "message_id": 444,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
