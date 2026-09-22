@@ -2216,6 +2216,20 @@
         "message_id": "18121237477905407",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-22T15:32:42.169Z",
+        "message_id": "17910278577538079",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-22T15:32:54.045Z",
+        "message_id": "18224745028336730",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
