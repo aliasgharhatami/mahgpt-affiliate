@@ -3570,6 +3570,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-22T09:58:49.863Z",
+        "message_id": 446,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
