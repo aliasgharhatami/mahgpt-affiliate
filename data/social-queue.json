@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-09-23",
-  "created_at": "2026-09-23T06:26:07.476Z",
-  "source_feed_updated_at": "2026-09-23T06:26:07.379Z",
+  "created_at": "2026-09-23T09:59:47.917Z",
+  "source_feed_updated_at": "2026-09-23T09:59:44.807Z",
   "items": [
     {
       "story_id": "https://www.techradar.com/pro/ive-gone-hands-on-with-adobe-premieres-new-free-android-app-heres-what-its-like-to-use-and-why-free-comes-with-a-catch",
@@ -27,10 +27,8 @@
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-09-23T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-23T06:26:14.866Z",
-        "message_id": 453,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-23T06:26:14.866Z"
       },
       "linkedin": {
         "status": "pending"
@@ -38,8 +36,7 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-23T07:22:24.757Z",
-        "message_id": "17966242215075889",
-        "media_kind": "source"
+        "message_id": "17966242215075889"
       },
       "x": {
         "status": "pending"
@@ -53,12 +50,190 @@
         "repairs": [
           "image-rejected"
         ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/ai-floods-security-teams-with-findings-the-advantage-is-in-what-happens-next",
+      "source_url": "https://www.techradar.com/pro/ai-floods-security-teams-with-findings-the-advantage-is-in-what-happens-next",
+      "headline": "AI floods security teams with findings. The advantage is in what happens next",
+      "summary": "AI is accelerating vulnerability discovery, but organizations must strengthen validation, prioritization and remediation to reduce risk.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2000,
+        "height": 1125,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-23T07:22:35.478Z",
-        "message_id": "18098648147232656",
-        "media_kind": "story-fallback"
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-floods-security-teams-with-findings-the-advantage-is-in-what-happens-next",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-23T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-23/https-www-techradar-com-pro-ai-floods-security-teams-with-findings-the-advantage-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/why-ai-agent-governance-must-start-with-enterprise-data",
+      "source_url": "https://www.techradar.com/pro/why-ai-agent-governance-must-start-with-enterprise-data",
+      "headline": "Why AI agent governance must start with enterprise data",
+      "summary": "What happens when AI meets poor data governance and the potential repercussions for organizations.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-ai-agent-governance-must-start-with-enterprise-data",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-23T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-23/https-www-techradar-com-pro-why-ai-agent-governance-must-start-with-enterprise-d-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/security/uk-small-businesses-are-facing-greater-ai-security-threats-than-ever-and-are-sadly-woefully-unprepapred",
+      "source_url": "https://www.techradar.com/pro/security/uk-small-businesses-are-facing-greater-ai-security-threats-than-ever-and-are-sadly-woefully-unprepapred",
+      "headline": "UK small businesses are facing greater AI security threats than ever",
+      "summary": "Half (49%) of UK SMBs have experienced an incident in the past year, ESET finds.",
+      "source_name": "and are sadly woefully unprepapred",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/nR8ppqg5ArMpGqG3vJ8vuC-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/nR8ppqg5ArMpGqG3vJ8vuC-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=uk-small-businesses-are-facing-greater-ai-security-threats-than-ever",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-23T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-23/https-www-techradar-com-pro-security-uk-small-businesses-are-facing-greater-ai-s-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+      "source_url": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+      "headline": "AI Agents Are Becoming a New Malware Distribution Channel",
+      "summary": "By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding Roughly 7,600 fake GitHub repositories, 6,600 fraudulent profiles and more than 14 million downloads: that is the scale of FakeGit, a malware campaign documented by Island in July 2026. Over 800 reposi",
+      "source_name": "Artificialintelligence News",
+      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/zulfugar-karimov-nBClEqKKVM-unsplash-scaled.jpg",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/zulfugar-karimov-nBClEqKKVM-unsplash-scaled.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1707,
+        "aspectRatio": 1.4997070884592854,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-agents-are-becoming-a-new-malware-distribution-channel",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-23T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-23/https-www-artificialintelligence-news-com-news-ai-agents-are-becoming-a-new-malw-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
       }
     },
     {
@@ -82,7 +257,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-23T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -128,7 +303,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-23T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -174,7 +349,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-23T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -221,7 +396,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-23T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -267,192 +442,6 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-techcrunch-com-2026-09-22-snorkel-ai-triples-valuation-to-3-5b-as-demand-f-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "headline": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. A",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=rabbits-new-ai-agent-doesnt-need-an-r1-to-run",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-23/Rabbit-s-new-AI-agent-doesn-t-need-an-R1-to-run-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-www-theverge-com-ai-artificial-intelligence-999094-rabbit-ai-agent-os3-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "source_url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "headline": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/assets_2026_09_1789671614_Snapdragon-8-Elite-Extreme-Gen-6-and-Snapdragon-8-Elite-Gen-6-Image-2-Embargo-Sep-22-10am-HT-1pm-PT.jpg?resize=1200,675",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/assets_2026_09_1789671614_Snapdragon-8-Elite-Extreme-Gen-6-and-Snapdragon-8-Elite-Gen-6-Image-2-Embargo-Sep-22-10am-HT-1pm-PT.jpg?resize=1200,675",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 675,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-techcrunch-com-2026-09-22-qualcomm-launches-two-new-smartphone-chips-with--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-      "source_url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-      "headline": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-      "summary": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extre",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=qualcomms-snapdragon-8-elite-gen-6-comes-in-an-extreme-version-too",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-23/Qualcomm-s-Snapdragon-8-Elite-Gen-6-comes-in-an-Extreme-version-too-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-www-theverge-com-gadgets-998842-qualcomm-snapdragon-8-elite-extreme-gen-6-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "source_url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "headline": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-      "source_name": "Arstechnica",
-      "original_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1152,
-        "height": 648,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-disrupts-ai-assisted-platform-that-compromised-12-000-accounts",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
       "scheduled_publish_at": "2026-09-23T23:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -469,7 +458,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-arstechnica-com-security-2026-09-microsoft-disrupts-ai-assisted-platform-t-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-23/https-techcrunch-com-2026-09-22-snorkel-ai-triples-valuation-to-3-5b-as-demand-f-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

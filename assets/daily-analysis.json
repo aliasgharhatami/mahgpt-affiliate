@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T09:58:23.123Z",
-  "analysis_date": "2026-09-22",
+  "generated_at": "2026-09-23T09:59:57.263Z",
+  "analysis_date": "2026-09-23",
   "stories": [
     {
-      "title": "Our favourite free graphics suite gets supercharged as Canva's Affinity gets a flurry of upgrades in a bid to rival Adobe",
-      "source": "https://www.techradar.com/pro/our-favourite-free-graphics-suite-gets-supercharged-as-canvas-affinity-gets-a-flurry-of-upgrades-in-a-bid-to-rival-adobe",
-      "mahgpt_url": "/news/story.html?id=our-favourite-free-graphics-suite-gets-supercharged-as-canvas-affinity-gets-a-flurry-of-up"
+      "title": "Adobe Premiere comes to Android — here’s what 'free' gets you",
+      "source": "https://www.techradar.com/pro/ive-gone-hands-on-with-adobe-premieres-new-free-android-app-heres-what-its-like-to-use-and-why-free-comes-with-a-catch",
+      "mahgpt_url": "/news/story.html?id=adobe-premiere-comes-to-android-heres-what-free-gets-you"
     },
     {
-      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
-      "source": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
-      "mahgpt_url": "/news/story.html?id=a-new-chatbot-wants-to-unlock-the-secrets-in-tattered-ancient-greek-records"
+      "title": "AI floods security teams with findings. The advantage is in what happens next",
+      "source": "https://www.techradar.com/pro/ai-floods-security-teams-with-findings-the-advantage-is-in-what-happens-next",
+      "mahgpt_url": "/news/story.html?id=ai-floods-security-teams-with-findings-the-advantage-is-in-what-happens-next"
     },
     {
-      "title": "How to Use AI With Your Privacy Intact",
-      "source": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
-      "mahgpt_url": "/news/story.html?id=how-to-use-ai-with-your-privacy-intact"
+      "title": "Why AI agent governance must start with enterprise data",
+      "source": "https://www.techradar.com/pro/why-ai-agent-governance-must-start-with-enterprise-data",
+      "mahgpt_url": "/news/story.html?id=why-ai-agent-governance-must-start-with-enterprise-data"
     },
     {
-      "title": "Don't count the savings until you know what the AI actually costs",
-      "source": "https://www.techradar.com/pro/dont-count-the-savings-until-you-know-what-the-ai-actually-costs",
-      "mahgpt_url": "/news/story.html?id=dont-count-the-savings-until-you-know-what-the-ai-actually-costs"
+      "title": "UK small businesses are facing greater AI security threats than ever — and are sadly woefully unprepapred",
+      "source": "https://www.techradar.com/pro/security/uk-small-businesses-are-facing-greater-ai-security-threats-than-ever-and-are-sadly-woefully-unprepapred",
+      "mahgpt_url": "/news/story.html?id=uk-small-businesses-are-facing-greater-ai-security-threats-than-ever-and-are-sadly-woefull"
     },
     {
-      "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
-      "source": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "mahgpt_url": "/news/story.html?id=the-man-who-built-apple-and-8217-s-stores-doesn-and-8217-t-buy-silicon-valley-and-8217-s-b"
+      "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+      "source": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+      "mahgpt_url": "/news/story.html?id=ai-agents-are-becoming-a-new-malware-distribution-channel"
     },
     {
-      "title": "Hackers are hiding malware on blockchains that are nearly impossible to take down, and unrestricted AI models have pushed these attacks up 440%",
-      "source": "https://www.techradar.com/pro/hackers-are-hiding-malware-on-blockchains-that-are-nearly-impossible-to-take-down-and-unrestricted-ai-models-have-pushed-these-attacks-up-440",
-      "mahgpt_url": "/news/story.html?id=hackers-are-hiding-malware-on-blockchains-that-are-nearly-impossible-to-take-down-and-unre"
+      "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
+      "source": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "mahgpt_url": "/news/story.html?id=and-8216-we-and-8217-re-already-fighting-yesterday-and-8217-s-battle-and-8217-greece-and-8"
     },
     {
-      "title": "Muse, Meta&#039;s extraordinarily privileged AI assistant, has a serious 0-day",
-      "source": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "mahgpt_url": "/news/story.html?id=muse-meta-and-039-s-extraordinarily-privileged-ai-assistant-has-a-serious-0-day"
+      "title": "AI is wiping out whole degrees in China — translation, photography, illustration and fashion design are going, while prompt engineering is the new job appearing in film",
+      "source": "https://www.techradar.com/pro/ai-is-wiping-out-whole-degrees-in-china-translation-photography-illustration-and-fashion-design-are-going-while-prompt-engineering-is-the-new-job-appearing-in-film",
+      "mahgpt_url": "/news/story.html?id=ai-is-wiping-out-whole-degrees-in-china-translation-photography-illustration-and-fashion-d"
     },
     {
-      "title": "Huawei Ascend 960 SuperPoD aims to surpass Nvidia AI hardware in China — 960E with over 4,000 NPUs and an upgraded UnifiedBus Interconnect aims for 10 trillion parameters",
-      "source": "https://www.techradar.com/pro/huawei-ascend-960-superpod-aims-to-surpass-nvidia-ai-hardware-in-china-960e-with-over-4-000-npus-and-an-upgraded-unifiedbus-interconnect-aims-for-10-trillion-parameters",
-      "mahgpt_url": "/news/story.html?id=huawei-ascend-960-superpod-aims-to-surpass-nvidia-ai-hardware-in-china-960e-with-over-4-00"
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "mahgpt_url": "/news/story.html?id=openai-wants-to-consult-elite-mathematicians-about-how-to-not-fumble-again"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-22.html"
+      "path": "news/analysis/2026-09-23.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-22.html"
+      "path": "es/news/analysis/2026-09-23.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-22.html"
+      "path": "de/news/analysis/2026-09-23.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-22.html"
+      "path": "fr/news/analysis/2026-09-23.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-22.html"
+      "path": "pt-BR/news/analysis/2026-09-23.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-22.html"
+      "path": "ar/news/analysis/2026-09-23.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-22.html"
+      "path": "fa/news/analysis/2026-09-23.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-22.html"
+      "path": "tr/news/analysis/2026-09-23.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-22.html"
+      "path": "it/news/analysis/2026-09-23.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-22.html"
+      "path": "ja/news/analysis/2026-09-23.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-22.html"
+      "path": "ko/news/analysis/2026-09-23.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-22.html"
+      "path": "id/news/analysis/2026-09-23.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-22.html"
+      "path": "hi/news/analysis/2026-09-23.html"
     }
   ]
 }
