@@ -3757,6 +3757,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-23T16:47:23.774Z",
+        "message_id": 457,
+        "delivery": "message"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
