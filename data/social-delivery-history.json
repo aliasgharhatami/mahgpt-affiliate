@@ -3723,6 +3723,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/why-ai-agent-governance-must-start-with-enterprise-data": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-23T11:59:58.195Z",
+        "message_id": 455,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
