@@ -2356,6 +2356,20 @@
         "message_id": "18110460812150319",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-23T17:43:41.886Z",
+        "message_id": "17890903506613446",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-23T17:43:50.650Z",
+        "message_id": "18177127888434940",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
