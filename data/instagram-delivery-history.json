@@ -2286,6 +2286,20 @@
         "message_id": "18110045176880090",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/huawei-ascend-960-superpod-aims-to-surpass-nvidia-ai-hardware-in-china-960e-with-over-4-000-npus-and-an-upgraded-unifiedbus-interconnect-aims-for-10-trillion-parameters": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-23T01:45:52.707Z",
+        "message_id": "18163377934488281",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-23T01:46:01.558Z",
+        "message_id": "18179018638430634",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
