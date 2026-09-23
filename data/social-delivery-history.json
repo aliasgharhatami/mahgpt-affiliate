@@ -3740,6 +3740,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/security/uk-small-businesses-are-facing-greater-ai-security-threats-than-ever-and-are-sadly-woefully-unprepapred": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-23T15:27:50.519Z",
+        "message_id": 456,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
