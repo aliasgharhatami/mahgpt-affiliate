@@ -2384,6 +2384,20 @@
         "message_id": "18125743684847956",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/ai-is-wiping-out-whole-degrees-in-china-translation-photography-illustration-and-fashion-design-are-going-while-prompt-engineering-is-the-new-job-appearing-in-film": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-23T20:41:57.761Z",
+        "message_id": "17910099948500989",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-23T20:42:06.044Z",
+        "message_id": "18409881088080236",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
