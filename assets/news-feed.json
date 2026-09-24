@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T09:59:44.807Z",
+  "updatedAt": "2026-09-24T06:13:25.120Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Adobe Premiere comes to Android — here’s what 'free' gets you",
-      "summary": "Finally, Adobe Premiere comes to Android - I spent an hour with the video editing app to see if it lives up to the promise of 'effortless editing' for creators.",
-      "guide": "/partners/adobe.html",
-      "source": "https://www.techradar.com/pro/ive-gone-hands-on-with-adobe-premieres-new-free-android-app-heres-what-its-like-to-use-and-why-free-comes-with-a-catch",
-      "publishedAt": "2026-09-22T16:35:53.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7pwd6wdxpB7hwH2F4QzEYU-1920-80.png"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Everything new coming to Meta&#8217;s AI agent Muse",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "publishedAt": "2026-09-24T01:13:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI floods security teams with findings. The advantage is in what happens next",
-      "summary": "AI is accelerating vulnerability discovery, but organizations must strengthen validation, prioritization and remediation to reduce risk.",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ai-floods-security-teams-with-findings-the-advantage-is-in-what-happens-next",
-      "publishedAt": "2026-09-23T09:28:21.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
+      "source": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "publishedAt": "2026-09-24T00:46:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why AI agent governance must start with enterprise data",
-      "summary": "What happens when AI meets poor data governance and the potential repercussions for organizations.",
+      "title": "Meta just announced an AI Tamagotchi — this is Muse Charm",
+      "summary": "Mark Zuckerberg closed out Meta Connect 2026 with one more thing, the Muse Charm, which puts the ever-popular personalized AI assistant in the palm of your hand.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/why-ai-agent-governance-must-start-with-enterprise-data",
-      "publishedAt": "2026-09-23T08:46:35.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg"
+      "source": "https://www.techradar.com/ai-platforms-assistants/meta-just-announced-an-ai-tamagotchi-this-is-muse-charm",
+      "publishedAt": "2026-09-24T00:39:30.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ytSxpvJT2zeMKtmSfB8sZZ-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "UK small businesses are facing greater AI security threats than ever — and are sadly woefully unprepapred",
-      "summary": "Half (49%) of UK SMBs have experienced an incident in the past year, ESET finds.",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little l",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/security/uk-small-businesses-are-facing-greater-ai-security-threats-than-ever-and-are-sadly-woefully-unprepapred",
-      "publishedAt": "2026-09-23T08:46:05.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/nR8ppqg5ArMpGqG3vJ8vuC-1920-80.jpg"
+      "source": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "publishedAt": "2026-09-24T00:15:20.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-d4d3d179-80e9-4873-9d38-24ac84737e8d.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI Agents Are Becoming a New Malware Distribution Channel",
-      "summary": "By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding Roughly 7,600 fake GitHub repositories, 6,600 fraudulent profiles and more than 14 million downloads: that is the scale of FakeGit, a malware campaign documented by Island in July 2026. Over 800 reposi",
+      "title": "Meta put Muse in a Tamagotchi like 'Charm' device",
+      "summary": "Meta's Muse Charm is a Tamagotchi-like device with Muse AI.",
       "guide": "/news/index.html",
-      "source": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
-      "publishedAt": "2026-09-23T07:44:17.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/zulfugar-karimov-nBClEqKKVM-unsplash-scaled.jpg"
+      "source": "https://www.engadget.com/2267229/meta-put-muse-in-a-tamagotchi-like-charm-device/",
+      "publishedAt": "2026-09-24T00:05:03.000Z",
+      "image": "https://www.engadget.com/img/gallery/meta-put-muse-in-a-tamagotchi-like-charm-device/l-intro-1790220070.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
-      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "title": "Meta will stop training its AI on 'visual data' from its smart glasses — if you opt out",
+      "summary": "Somewhere, a contractor just breathed a sigh of relief.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "publishedAt": "2026-09-23T04:59:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Mitsotakis_c8978d.jpg?resize=1200,800"
+      "source": "https://www.engadget.com/2267227/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/",
+      "publishedAt": "2026-09-24T00:00:44.000Z",
+      "image": "https://www.engadget.com/img/gallery/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/l-intro-1790199534.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI is wiping out whole degrees in China — translation, photography, illustration and fashion design are going, while prompt engineering is the new job appearing in film",
-      "summary": "Chinese universities are cutting or restructuring creative programmes as AI changes employment needs, while new technology-focused courses and film roles emerge.",
+      "title": "Meta Connect 2026: The 7 biggest announcements",
+      "summary": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart glass",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ai-is-wiping-out-whole-degrees-in-china-translation-photography-illustration-and-fashion-design-are-going-while-prompt-engineering-is-the-new-job-appearing-in-film",
-      "publishedAt": "2026-09-23T01:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg"
+      "source": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
+      "publishedAt": "2026-09-24T00:00:33.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Meta-Glasses_1.jpg?quality=90&strip=all&crop=0%2C3.4882312507002%2C100%2C93.0235374986&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI compa",
+      "title": "Meta introduces camera-free AI glasses",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "publishedAt": "2026-09-23T00:17:17.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&strip=all&crop=0%2C10.735367145048%2C100%2C78.529265709904&w=1200"
+      "source": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "publishedAt": "2026-09-23T23:39:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "title": "Meta's Muse AI agent is coming to its AI glasses",
+      "summary": "Have your virtual assistant book a flight while you're jogging.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "publishedAt": "2026-09-22T23:21:49.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657380116_66c449690d_k.jpg?resize=1200,800"
+      "source": "https://www.engadget.com/2267210/meta-muse-ai-agent-smart-glasses/",
+      "publishedAt": "2026-09-23T23:28:12.000Z",
+      "image": "https://www.engadget.com/img/gallery/metas-muse-ai-agent-is-coming-to-its-ai-glasses/l-intro-1790196844.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Mus",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "publishedAt": "2026-09-22T21:56:43.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686"
+      "source": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "publishedAt": "2026-09-23T23:19:42.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
     }
   ]
 }

@@ -1,293 +1,65 @@
 {
   "version": 1,
-  "queue_date": "2026-09-23",
-  "created_at": "2026-09-23T09:59:47.917Z",
-  "source_feed_updated_at": "2026-09-23T09:59:44.807Z",
+  "queue_date": "2026-09-24",
+  "created_at": "2026-09-24T06:13:25.214Z",
+  "source_feed_updated_at": "2026-09-24T06:13:25.120Z",
   "items": [
     {
-      "story_id": "https://www.techradar.com/pro/ive-gone-hands-on-with-adobe-premieres-new-free-android-app-heres-what-its-like-to-use-and-why-free-comes-with-a-catch",
-      "source_url": "https://www.techradar.com/pro/ive-gone-hands-on-with-adobe-premieres-new-free-android-app-heres-what-its-like-to-use-and-why-free-comes-with-a-catch",
-      "headline": "Adobe Premiere comes to Android",
-      "summary": "Finally, Adobe Premiere comes to Android - I spent an hour with the video editing app to see if it lives up to the promise of 'effortless editing' for creators.",
-      "source_name": "here’s what 'free' gets you",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/7pwd6wdxpB7hwH2F4QzEYU-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/7pwd6wdxpB7hwH2F4QzEYU-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=adobe-premiere-comes-to-android",
-      "detected_partner": "adobe",
-      "product_url": "https://www.adobe.com/products/firefly.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-23T05:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-23T06:26:14.866Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-23T07:22:24.757Z",
-        "message_id": "17966242215075889"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-www-techradar-com-pro-ive-gone-hands-on-with-adobe-premieres-new-free-andr-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/ai-floods-security-teams-with-findings-the-advantage-is-in-what-happens-next",
-      "source_url": "https://www.techradar.com/pro/ai-floods-security-teams-with-findings-the-advantage-is-in-what-happens-next",
-      "headline": "AI floods security teams with findings. The advantage is in what happens next",
-      "summary": "AI is accelerating vulnerability discovery, but organizations must strengthen validation, prioritization and remediation to reduce risk.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2000,
-        "height": 1125,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-floods-security-teams-with-findings-the-advantage-is-in-what-happens-next",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-23T10:00:28.951Z",
-        "message_id": 454,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-23T10:04:43.619Z",
-        "message_id": "18337324843275058",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-www-techradar-com-pro-ai-floods-security-teams-with-findings-the-advantage-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-23T10:04:52.060Z",
-        "message_id": "18124858477886202",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/why-ai-agent-governance-must-start-with-enterprise-data",
-      "source_url": "https://www.techradar.com/pro/why-ai-agent-governance-must-start-with-enterprise-data",
-      "headline": "Why AI agent governance must start with enterprise data",
-      "summary": "What happens when AI meets poor data governance and the potential repercussions for organizations.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-ai-agent-governance-must-start-with-enterprise-data",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-23T11:59:58.195Z",
-        "message_id": 455,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-23T12:54:21.579Z",
-        "message_id": "18133593778733044",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-www-techradar-com-pro-why-ai-agent-governance-must-start-with-enterprise-d-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-23T12:54:29.449Z",
-        "message_id": "18127941058692573",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/security/uk-small-businesses-are-facing-greater-ai-security-threats-than-ever-and-are-sadly-woefully-unprepapred",
-      "source_url": "https://www.techradar.com/pro/security/uk-small-businesses-are-facing-greater-ai-security-threats-than-ever-and-are-sadly-woefully-unprepapred",
-      "headline": "UK small businesses are facing greater AI security threats than ever",
-      "summary": "Half (49%) of UK SMBs have experienced an incident in the past year, ESET finds.",
-      "source_name": "and are sadly woefully unprepapred",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/nR8ppqg5ArMpGqG3vJ8vuC-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/nR8ppqg5ArMpGqG3vJ8vuC-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=uk-small-businesses-are-facing-greater-ai-security-threats-than-ever",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-23T15:27:50.519Z",
-        "message_id": 456,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-23T15:28:41.774Z",
-        "message_id": "17930206239403324",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-www-techradar-com-pro-security-uk-small-businesses-are-facing-greater-ai-s-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-23T15:28:51.658Z",
-        "message_id": "18110460812150319",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
-      "source_url": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
-      "headline": "AI Agents Are Becoming a New Malware Distribution Channel",
-      "summary": "By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding Roughly 7,600 fake GitHub repositories, 6,600 fraudulent profiles and more than 14 million downloads: that is the scale of FakeGit, a malware campaign documented by Island in July 2026. Over 800 reposi",
-      "source_name": "Artificialintelligence News",
-      "original_image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/zulfugar-karimov-nBClEqKKVM-unsplash-scaled.jpg",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/zulfugar-karimov-nBClEqKKVM-unsplash-scaled.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1707,
-        "aspectRatio": 1.4997070884592854,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-agents-are-becoming-a-new-malware-distribution-channel",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-23T16:47:23.774Z",
-        "message_id": 457,
-        "delivery": "message"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-23T17:43:41.886Z",
-        "message_id": "17890903506613446",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-www-artificialintelligence-news-com-news-ai-agents-are-becoming-a-new-malw-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-23T17:43:50.650Z",
-        "message_id": "18177127888434940",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "source_url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "headline": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
-      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "story_id": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source_url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "headline": "Everything new coming to Meta&#8217;s AI agent Muse",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
       "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Mitsotakis_c8978d.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Mitsotakis_c8978d.jpg?resize=1200,800",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 799,
+        "aspectRatio": 1.5018773466833542,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=everything-new-coming-to-meta-and-8217-s-ai-agent-muse",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-24T05:20:00.000Z",
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-24T06:13:30.289Z",
+        "message_id": 462,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-24/https-techcrunch-com-2026-09-23-everything-new-coming-to-metas-ai-agent-muse--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "source_url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "headline": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
       "image_validation": {
         "valid": true,
         "width": 1200,
@@ -297,240 +69,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=and-8216-we-and-8217-re-already-fighting-yesterday-and-8217-s-battle-and-8217-greece-and-8",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-23T19:11:51.736Z",
-        "message_id": 458,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-23T19:13:36.751Z",
-        "message_id": "18112039310127492",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-techcrunch-com-2026-09-22-were-already-fighting-yesterdays-battle-greeces--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-23T19:13:44.361Z",
-        "message_id": "18125743684847956",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/ai-is-wiping-out-whole-degrees-in-china-translation-photography-illustration-and-fashion-design-are-going-while-prompt-engineering-is-the-new-job-appearing-in-film",
-      "source_url": "https://www.techradar.com/pro/ai-is-wiping-out-whole-degrees-in-china-translation-photography-illustration-and-fashion-design-are-going-while-prompt-engineering-is-the-new-job-appearing-in-film",
-      "headline": "AI is wiping out whole degrees in China — translation, photography, illustration and fashion design are going, while prompt engineering is the new job appearing in film",
-      "summary": "Chinese universities are cutting or restructuring creative programmes as AI changes employment needs, while new technology-focused courses and film roles emerge.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-is-wiping-out-whole-degrees-in-china-translation-photography-illustration-and-fashion-d",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-23T22:26:25.776Z",
-        "message_id": 459,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-23T20:41:57.761Z",
-        "message_id": "17910099948500989",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-www-techradar-com-pro-ai-is-wiping-out-whole-degrees-in-china-translation--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-23T20:42:06.044Z",
-        "message_id": "18409881088080236",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "headline": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI compa",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&strip=all&crop=0%2C10.735367145048%2C100%2C78.529265709904&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&strip=all&crop=0%2C10.735367145048%2C100%2C78.529265709904&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-wants-to-consult-elite-mathematicians-about-how-to-not-fumble-again",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-23T23:44:34.721Z",
-        "message_id": 460,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-23T22:27:05.321Z",
-        "message_id": "17992381131105576",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-23/OpenAI-wants-to-consult-elite-mathematicians-about-how-to-not-fumble-again-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-www-theverge-com-ai-artificial-intelligence-999167-openai-elite-mathematic-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-23T22:27:15.507Z",
-        "message_id": "18119432668939823",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "source_url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "headline": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/54657380116_66c449690d_k.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/54657380116_66c449690d_k.jpg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-bo",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T21:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-24T01:14:44.559Z",
-        "message_id": 461,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-23T23:46:40.698Z",
-        "message_id": "18428966566150774",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-techcrunch-com-2026-09-22-techcrunch-founder-summits-agenda-revealed-unloc-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-23T23:46:50.441Z",
-        "message_id": "18429182419196356",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "source_url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "headline": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 686,
-        "aspectRatio": 1.749271137026239,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-23T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-24T07:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -539,29 +82,391 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-24T01:24:28.758Z",
-        "message_id": "17879269308629046",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-23/https-techcrunch-com-2026-09-22-snorkel-ai-triples-valuation-to-3-5b-as-demand-f-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-24/https-techcrunch-com-2026-09-23-meta-made-a-tamagotchi-like-wearable-for-its-mus-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/meta-just-announced-an-ai-tamagotchi-this-is-muse-charm",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/meta-just-announced-an-ai-tamagotchi-this-is-muse-charm",
+      "headline": "Meta just announced an AI Tamagotchi",
+      "summary": "Mark Zuckerberg closed out Meta Connect 2026 with one more thing, the Muse Charm, which puts the ever-popular personalized AI assistant in the palm of your hand.",
+      "source_name": "this is Muse Charm",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ytSxpvJT2zeMKtmSfB8sZZ-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ytSxpvJT2zeMKtmSfB8sZZ-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1439,
+        "aspectRatio": 1.7790132036136206,
+        "instagramCompatible": true
       },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-24T01:24:36.698Z",
-        "message_id": "17995032590829800",
-        "media_kind": "story-fallback"
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-just-announced-an-ai-tamagotchi",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-24T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-24/https-www-techradar-com-ai-platforms-assistants-meta-just-announced-an-ai-tamago-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "source_url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "headline": "Meta is making a standalone Muse AI gadget",
+      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little l",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-d4d3d179-80e9-4873-9d38-24ac84737e8d.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-d4d3d179-80e9-4873-9d38-24ac84737e8d.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 623,
+        "aspectRatio": 1.926163723916533,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-is-making-a-standalone-muse-ai-gadget",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-24T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-24/Meta-is-making-a-standalone-Muse-AI-gadget-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-24/https-www-theverge-com-tech-999750-muse-charm-meta-ai-hardware-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2267229/meta-put-muse-in-a-tamagotchi-like-charm-device/",
+      "source_url": "https://www.engadget.com/2267229/meta-put-muse-in-a-tamagotchi-like-charm-device/",
+      "headline": "Meta put Muse in a Tamagotchi like 'Charm' device",
+      "summary": "Meta's Muse Charm is a Tamagotchi-like device with Muse AI.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/meta-put-muse-in-a-tamagotchi-like-charm-device/l-intro-1790220070.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/meta-put-muse-in-a-tamagotchi-like-charm-device/l-intro-1790220070.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 900,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-put-muse-in-a-tamagotchi-like-charm-device",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-24T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-24/https-www-engadget-com-2267229-meta-put-muse-in-a-tamagotchi-like-charm-device--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2267227/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/",
+      "source_url": "https://www.engadget.com/2267227/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/",
+      "headline": "Meta will stop training its AI on 'visual data' from its smart glasses",
+      "summary": "Somewhere, a contractor just breathed a sigh of relief.",
+      "source_name": "if you opt out",
+      "original_image_url": "https://www.engadget.com/img/gallery/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/l-intro-1790199534.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/l-intro-1790199534.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-24T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-24/https-www-engadget-com-2267227-meta-will-stop-training-its-ai-on-visual-data-fro-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
+      "source_url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
+      "headline": "Meta Connect 2026: The 7 biggest announcements",
+      "summary": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart glass",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Meta-Glasses_1.jpg?quality=90&strip=all&crop=0%2C3.4882312507002%2C100%2C93.0235374986&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Meta-Glasses_1.jpg?quality=90&strip=all&crop=0%2C3.4882312507002%2C100%2C93.0235374986&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 628,
+        "aspectRatio": 1.910828025477707,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-connect-2026-the-7-biggest-announcements",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-24T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-24/Meta-Connect-2026-The-7-biggest-announcements-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-24/https-www-theverge-com-tech-999593-meta-connect-2026-everything-announced-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "source_url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "headline": "Meta introduces camera-free AI glasses",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 635,
+        "aspectRatio": 1.889763779527559,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-introduces-camera-free-ai-glasses",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-24T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-24/https-techcrunch-com-2026-09-23-meta-introduces-camera-free-ai-glasses--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2267210/meta-muse-ai-agent-smart-glasses/",
+      "source_url": "https://www.engadget.com/2267210/meta-muse-ai-agent-smart-glasses/",
+      "headline": "Meta's Muse AI agent is coming to its AI glasses",
+      "summary": "Have your virtual assistant book a flight while you're jogging.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/metas-muse-ai-agent-is-coming-to-its-ai-glasses/l-intro-1790196844.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/metas-muse-ai-agent-is-coming-to-its-ai-glasses/l-intro-1790196844.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=metas-muse-ai-agent-is-coming-to-its-ai-glasses",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-24T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-24/https-www-engadget-com-2267210-meta-muse-ai-agent-smart-glasses--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "source_url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "headline": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Mus",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 627,
+        "aspectRatio": 1.9138755980861244,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-24T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-24/Meta-is-making-Muse-more-powerful-and-will-let-you-video-chat-with-it-too-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-24/https-www-theverge-com-tech-999454-meta-muse-ai-agent-video-chat-connect-2026-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
       }
     }
   ]
