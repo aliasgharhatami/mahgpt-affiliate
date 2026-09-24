@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T09:59:57.263Z",
-  "analysis_date": "2026-09-23",
+  "generated_at": "2026-09-24T10:02:16.071Z",
+  "analysis_date": "2026-09-24",
   "stories": [
     {
-      "title": "Adobe Premiere comes to Android — here’s what 'free' gets you",
-      "source": "https://www.techradar.com/pro/ive-gone-hands-on-with-adobe-premieres-new-free-android-app-heres-what-its-like-to-use-and-why-free-comes-with-a-catch",
-      "mahgpt_url": "/news/story.html?id=adobe-premiere-comes-to-android-heres-what-free-gets-you"
+      "title": "Governance gaps that can undermine your AI ROI",
+      "source": "https://www.techradar.com/pro/governance-gaps-that-can-undermine-your-ai-roi",
+      "mahgpt_url": "/news/story.html?id=governance-gaps-that-can-undermine-your-ai-roi"
     },
     {
-      "title": "AI floods security teams with findings. The advantage is in what happens next",
-      "source": "https://www.techradar.com/pro/ai-floods-security-teams-with-findings-the-advantage-is-in-what-happens-next",
-      "mahgpt_url": "/news/story.html?id=ai-floods-security-teams-with-findings-the-advantage-is-in-what-happens-next"
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "source": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "mahgpt_url": "/news/story.html?id=gemini-4-is-almost-ready-says-new-google-deepmind-chief"
     },
     {
-      "title": "Why AI agent governance must start with enterprise data",
-      "source": "https://www.techradar.com/pro/why-ai-agent-governance-must-start-with-enterprise-data",
-      "mahgpt_url": "/news/story.html?id=why-ai-agent-governance-must-start-with-enterprise-data"
+      "title": "Enterprise AI has a memory problem, but businesses have the answer",
+      "source": "https://www.techradar.com/pro/enterprise-ai-has-a-memory-problem-but-businesses-have-the-answer",
+      "mahgpt_url": "/news/story.html?id=enterprise-ai-has-a-memory-problem-but-businesses-have-the-answer"
     },
     {
-      "title": "UK small businesses are facing greater AI security threats than ever — and are sadly woefully unprepapred",
-      "source": "https://www.techradar.com/pro/security/uk-small-businesses-are-facing-greater-ai-security-threats-than-ever-and-are-sadly-woefully-unprepapred",
-      "mahgpt_url": "/news/story.html?id=uk-small-businesses-are-facing-greater-ai-security-threats-than-ever-and-are-sadly-woefull"
+      "title": "Claude, Gemini & GPT are all included in this $99.99 lifetime AI toolbox",
+      "source": "https://www.macworld.com/article/3240487/claude-gemini-gpt-are-all-included-in-this-99-99-lifetime-ai-toolbox.html",
+      "mahgpt_url": "/news/story.html?id=claude-gemini-and-gpt-are-all-included-in-this-99-99-lifetime-ai-toolbox"
     },
     {
-      "title": "AI Agents Are Becoming a New Malware Distribution Channel",
-      "source": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
-      "mahgpt_url": "/news/story.html?id=ai-agents-are-becoming-a-new-malware-distribution-channel"
+      "title": "Everything new coming to Meta&#8217;s AI agent Muse",
+      "source": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "mahgpt_url": "/news/story.html?id=everything-new-coming-to-meta-and-8217-s-ai-agent-muse"
     },
     {
-      "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
-      "source": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "mahgpt_url": "/news/story.html?id=and-8216-we-and-8217-re-already-fighting-yesterday-and-8217-s-battle-and-8217-greece-and-8"
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "source": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "mahgpt_url": "/news/story.html?id=meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent"
     },
     {
-      "title": "AI is wiping out whole degrees in China — translation, photography, illustration and fashion design are going, while prompt engineering is the new job appearing in film",
-      "source": "https://www.techradar.com/pro/ai-is-wiping-out-whole-degrees-in-china-translation-photography-illustration-and-fashion-design-are-going-while-prompt-engineering-is-the-new-job-appearing-in-film",
-      "mahgpt_url": "/news/story.html?id=ai-is-wiping-out-whole-degrees-in-china-translation-photography-illustration-and-fashion-d"
+      "title": "Meta just announced an AI Tamagotchi — this is Muse Charm",
+      "source": "https://www.techradar.com/ai-platforms-assistants/meta-just-announced-an-ai-tamagotchi-this-is-muse-charm",
+      "mahgpt_url": "/news/story.html?id=meta-just-announced-an-ai-tamagotchi-this-is-muse-charm"
     },
     {
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "mahgpt_url": "/news/story.html?id=openai-wants-to-consult-elite-mathematicians-about-how-to-not-fumble-again"
+      "title": "Meta is making a standalone Muse AI gadget",
+      "source": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "mahgpt_url": "/news/story.html?id=meta-is-making-a-standalone-muse-ai-gadget"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-23.html"
+      "path": "news/analysis/2026-09-24.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-23.html"
+      "path": "es/news/analysis/2026-09-24.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-23.html"
+      "path": "de/news/analysis/2026-09-24.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-23.html"
+      "path": "fr/news/analysis/2026-09-24.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-23.html"
+      "path": "pt-BR/news/analysis/2026-09-24.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-23.html"
+      "path": "ar/news/analysis/2026-09-24.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-23.html"
+      "path": "fa/news/analysis/2026-09-24.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-23.html"
+      "path": "tr/news/analysis/2026-09-24.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-23.html"
+      "path": "it/news/analysis/2026-09-24.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-23.html"
+      "path": "ja/news/analysis/2026-09-24.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-23.html"
+      "path": "ko/news/analysis/2026-09-24.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-23.html"
+      "path": "id/news/analysis/2026-09-24.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-23.html"
+      "path": "hi/news/analysis/2026-09-24.html"
     }
   ]
 }
