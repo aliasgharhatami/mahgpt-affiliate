@@ -5,7 +5,6 @@ function json(data, status = 200) {
   });
 }
 
-const DURATIONS = new Set([10, 20, 30]);
 const RESOLUTIONS = new Set(['480p', '720p', '1080p']);
 const RATIOS = new Set(['16:9', '4:3', '1:1', '3:4', '9:16', '21:9', 'adaptive']);
 
@@ -62,7 +61,9 @@ export async function onRequestPost({ request, env }) {
 
     if (!prompt) return json({ error: 'Prompt is required.' }, 400);
     if (prompt.length > 30000) return json({ error: 'Prompt cannot exceed 30,000 characters.' }, 400);
-    if (!DURATIONS.has(duration)) return json({ error: 'Duration must be 10, 20 or 30 seconds.' }, 400);
+    if (!Number.isInteger(duration) || duration < 5 || duration > 30) {
+      return json({ error: 'Duration must be a whole number from 5 to 30 seconds.' }, 400);
+    }
     if (!RESOLUTIONS.has(resolution)) return json({ error: 'Resolution must be 480p, 720p or 1080p.' }, 400);
     if (!RATIOS.has(aspectRatio)) return json({ error: 'Unsupported aspect ratio.' }, 400);
     if (mode === 'reference' && images.length === 0 && videos.length === 0) {
