@@ -2426,6 +2426,20 @@
         "message_id": "18429182419196356",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-24T01:24:28.758Z",
+        "message_id": "17879269308629046",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-24T01:24:36.698Z",
+        "message_id": "17995032590829800",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
