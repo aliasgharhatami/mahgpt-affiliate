@@ -3893,6 +3893,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/enterprise-ai-has-a-memory-problem-but-businesses-have-the-answer": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-24T15:49:56.103Z",
+        "message_id": 465,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
