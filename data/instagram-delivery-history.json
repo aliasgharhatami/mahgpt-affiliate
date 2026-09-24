@@ -2524,6 +2524,20 @@
         "message_id": "18116751787760764",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/meta-just-announced-an-ai-tamagotchi-this-is-muse-charm": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-24T23:28:30.252Z",
+        "message_id": "17966583150160848",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-24T23:28:38.854Z",
+        "message_id": "18162844270496441",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
