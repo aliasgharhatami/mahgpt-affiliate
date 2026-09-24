@@ -2454,6 +2454,20 @@
         "message_id": "18347345650270101",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/governance-gaps-that-can-undermine-your-ai-roi": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-24T10:09:10.135Z",
+        "message_id": "17952392019036850",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-24T10:09:19.412Z",
+        "message_id": "17946451134342222",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
