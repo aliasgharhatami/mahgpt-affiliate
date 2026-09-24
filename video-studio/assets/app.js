@@ -405,7 +405,10 @@ function selectedValue(group) {
 }
 
 function readSettings() {
-  state.duration = Number(selectedValue('duration'));
+  const duration = Number($('#durationRange')?.value ?? state.duration);
+  state.duration = Math.min(30, Math.max(5, Math.round(duration)));
+  const durationValue = $('#durationValue');
+  if (durationValue) durationValue.textContent = `${state.duration}s`;
   state.resolution = selectedValue('resolution');
   state.audio = selectedValue('audio') === 'true';
   state.aspectRatio = $('#aspectRatio').value;
@@ -1126,6 +1129,7 @@ $$('.segmented').forEach(group => group.addEventListener('click', e => {
   readSettings();
 }));
 
+$('#durationRange')?.addEventListener('input', readSettings);
 $('#aspectRatio').addEventListener('change', readSettings);
 $('#prompt').addEventListener('input', updateCharCount);
 $('#imageInput').addEventListener('change', async e => {
