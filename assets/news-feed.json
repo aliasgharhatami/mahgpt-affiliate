@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T06:13:25.120Z",
+  "updatedAt": "2026-09-24T10:02:02.297Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -15,6 +15,50 @@
     "https://feeds.arstechnica.com/arstechnica/technology-lab"
   ],
   "items": [
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Governance gaps that can undermine your AI ROI",
+      "summary": "UK firms are scaling AI investment faster than they can govern, measure, or explain its returns.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/governance-gaps-that-can-undermine-your-ai-roi",
+      "publishedAt": "2026-09-24T09:57:32.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently i",
+      "guide": "/news/index.html",
+      "source": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "publishedAt": "2026-09-24T09:04:18.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Enterprise AI has a memory problem, but businesses have the answer",
+      "summary": "What if the secret to better AI memory isn’t better models, but better business knowledge?",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/enterprise-ai-has-a-memory-problem-but-businesses-have-the-answer",
+      "publishedAt": "2026-09-24T08:21:05.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Claude, Gemini & GPT are all included in this $99.99 lifetime AI toolbox",
+      "summary": "Macworld TL;DR: Get 1min.AI Advanced Business Plan for life for just $99.99 (reg. $540), including access to AI models from OpenAI, Anthropic, Google AI, Meta AI, Mistral AI, and Cohere. AI tools are multiplying faster than browser tabs during a research session. 1min.AI Advanced Business Plan is cu",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3240487/claude-gemini-gpt-are-all-included-in-this-99-99-lifetime-ai-toolbox.html",
+      "publishedAt": "2026-09-24T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3240487-0-53404000-1790236893-1minAI_9888a6.jpg?quality=50&strip=all&w=1024"
+    },
     {
       "tool": "ai-news",
       "toolName": "AI News",
@@ -80,50 +124,6 @@
       "source": "https://www.engadget.com/2267227/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/",
       "publishedAt": "2026-09-24T00:00:44.000Z",
       "image": "https://www.engadget.com/img/gallery/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/l-intro-1790199534.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta Connect 2026: The 7 biggest announcements",
-      "summary": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart glass",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
-      "publishedAt": "2026-09-24T00:00:33.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Meta-Glasses_1.jpg?quality=90&strip=all&crop=0%2C3.4882312507002%2C100%2C93.0235374986&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta introduces camera-free AI glasses",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "publishedAt": "2026-09-23T23:39:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta's Muse AI agent is coming to its AI glasses",
-      "summary": "Have your virtual assistant book a flight while you're jogging.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2267210/meta-muse-ai-agent-smart-glasses/",
-      "publishedAt": "2026-09-23T23:28:12.000Z",
-      "image": "https://www.engadget.com/img/gallery/metas-muse-ai-agent-is-coming-to-its-ai-glasses/l-intro-1790196844.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Mus",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "publishedAt": "2026-09-23T23:19:42.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
     }
   ]
 }
