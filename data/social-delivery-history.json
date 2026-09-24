@@ -3910,6 +3910,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3240487/claude-gemini-gpt-are-all-included-in-this-99-99-lifetime-ai-toolbox.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-24T20:10:56.953Z",
+        "message_id": 466,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
