@@ -2496,6 +2496,20 @@
         "message_id": "18175628215431940",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3240487/claude-gemini-gpt-are-all-included-in-this-99-99-lifetime-ai-toolbox.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-24T17:10:55.893Z",
+        "message_id": "18128263933825788",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-24T17:11:02.337Z",
+        "message_id": "18285583561293409",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
