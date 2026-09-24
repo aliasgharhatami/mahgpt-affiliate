@@ -6,7 +6,7 @@
   <meta name="robots" content="noindex,nofollow,noarchive" />
   <title>MahGPT Video Studio</title>
   <meta name="description" content="Private MahGPT AI video generation studio." />
-  <link rel="stylesheet" href="/assets/styles.css" />
+  <link rel="stylesheet" href="/assets/styles.css?v=20260924-3" />
 </head>
 <body>
   <div class="noise" aria-hidden="true"></div>
@@ -82,7 +82,11 @@
           <fieldset class="duration-fieldset">
             <div class="duration-legend-row">
               <legend>Duration</legend>
-              <output id="durationValue" for="durationRange">20s</output>
+              <div class="duration-readout">
+                <output id="durationValue" for="durationRange durationNumber">20s</output>
+                <label class="sr-only" for="durationNumber">Duration in seconds</label>
+                <input id="durationNumber" class="duration-number" type="number" min="5" max="30" step="1" value="20" inputmode="numeric" aria-label="Duration in seconds">
+              </div>
             </div>
             <input id="durationRange" class="duration-range" type="range" min="5" max="30" step="1" value="20" aria-label="Video duration in seconds">
             <div class="duration-scale" aria-hidden="true"><span>5s</span><span>30s</span></div>
@@ -216,6 +220,6 @@
     <span>Seedance 2.5 via KIE.AI</span>
   </footer>
 
-  <script src="/assets/app.js" defer></script>
+  <script src="/assets/app.js?v=20260924-3" defer></script>
 </body>
 </html>
