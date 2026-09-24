@@ -3859,6 +3859,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/governance-gaps-that-can-undermine-your-ai-roi": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-24T10:02:45.234Z",
+        "message_id": 463,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
