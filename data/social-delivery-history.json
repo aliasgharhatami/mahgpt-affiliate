@@ -3876,6 +3876,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-24T11:56:00.643Z",
+        "message_id": 464,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
