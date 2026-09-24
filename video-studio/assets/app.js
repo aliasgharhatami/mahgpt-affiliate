@@ -404,11 +404,22 @@ function selectedValue(group) {
   return $(`.segmented[data-group="${group}"] .selected`)?.dataset.value;
 }
 
+function syncDurationUI(value) {
+  const slider = $('#durationRange');
+  const number = $('#durationNumber');
+  const output = $('#durationValue');
+  const parsed = Number(value ?? slider?.value ?? state.duration);
+  const duration = Math.min(30, Math.max(5, Math.round(Number.isFinite(parsed) ? parsed : 20)));
+
+  state.duration = duration;
+  if (slider && Number(slider.value) !== duration) slider.value = String(duration);
+  if (number && Number(number.value) !== duration) number.value = String(duration);
+  if (output) output.textContent = `${duration}s`;
+  return duration;
+}
+
 function readSettings() {
-  const duration = Number($('#durationRange')?.value ?? state.duration);
-  state.duration = Math.min(30, Math.max(5, Math.round(duration)));
-  const durationValue = $('#durationValue');
-  if (durationValue) durationValue.textContent = `${state.duration}s`;
+  syncDurationUI();
   state.resolution = selectedValue('resolution');
   state.audio = selectedValue('audio') === 'true';
   state.aspectRatio = $('#aspectRatio').value;
@@ -1129,7 +1140,14 @@ $$('.segmented').forEach(group => group.addEventListener('click', e => {
   readSettings();
 }));
 
-$('#durationRange')?.addEventListener('input', readSettings);
+const durationRange = $('#durationRange');
+const durationNumber = $('#durationNumber');
+
+durationRange?.addEventListener('input', e => syncDurationUI(e.target.value));
+durationRange?.addEventListener('change', e => syncDurationUI(e.target.value));
+durationNumber?.addEventListener('input', e => syncDurationUI(e.target.value));
+durationNumber?.addEventListener('change', e => syncDurationUI(e.target.value));
+
 $('#aspectRatio').addEventListener('change', readSettings);
 $('#prompt').addEventListener('input', updateCharCount);
 $('#imageInput').addEventListener('change', async e => {
