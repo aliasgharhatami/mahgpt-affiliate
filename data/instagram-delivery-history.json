@@ -2468,6 +2468,20 @@
         "message_id": "17946451134342222",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-24T12:07:53.978Z",
+        "message_id": "17960069970234010",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-24T12:08:02.962Z",
+        "message_id": "18090098702449966",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
