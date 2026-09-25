@@ -2622,6 +2622,20 @@
         "message_id": "18128868757792131",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/why-making-ai-too-easy-to-use-is-a-risk-for-your-business": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-25T20:32:15.247Z",
+        "message_id": "18069814655786738",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-25T20:32:24.294Z",
+        "message_id": "18009760964966997",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
