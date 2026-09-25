@@ -3995,6 +3995,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/design/canva-adds-1000-new-monotype-fonts-for-global-creatives": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-25T12:17:43.406Z",
+        "message_id": 471,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
