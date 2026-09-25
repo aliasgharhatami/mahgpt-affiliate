@@ -2580,6 +2580,20 @@
         "message_id": "18137043604559050",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/design/canva-adds-1000-new-monotype-fonts-for-global-creatives": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-25T12:46:12.301Z",
+        "message_id": "17908953204509542",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-25T12:46:20.032Z",
+        "message_id": "18136661626714480",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
