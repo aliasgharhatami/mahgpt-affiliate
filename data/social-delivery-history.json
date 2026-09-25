@@ -4063,6 +4063,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-25T23:36:33.362Z",
+        "message_id": 475,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
