@@ -4012,6 +4012,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/vpn/vpn-privacy-security/i-tried-protons-ai-paper-trail-tool-and-i-couldnt-believe-how-much-data-chatbots-know-about-me": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-25T15:50:27.588Z",
+        "message_id": 472,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
