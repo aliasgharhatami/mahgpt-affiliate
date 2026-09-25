@@ -3961,6 +3961,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/adobe-made-premiere-entirely-free-on-android-to-compete-with-canva-and-its-a-smart-way-to-evade-its-hefty-subscription-fees": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-25T06:39:55.756Z",
+        "message_id": 469,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

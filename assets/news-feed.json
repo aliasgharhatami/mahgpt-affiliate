@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T10:02:02.297Z",
+  "updatedAt": "2026-09-25T06:39:49.410Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Governance gaps that can undermine your AI ROI",
-      "summary": "UK firms are scaling AI investment faster than they can govern, measure, or explain its returns.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/governance-gaps-that-can-undermine-your-ai-roi",
-      "publishedAt": "2026-09-24T09:57:32.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg"
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Adobe made Premiere entirely free on Android to compete with Canva — and it's a smart way to evade its hefty subscription fees",
+      "summary": "Adobe releases free version of its top-tier video editing tool on Android, but you’ll still need to pay for AI credits for its generative features.",
+      "guide": "/partners/adobe.html",
+      "source": "https://www.techradar.com/pro/adobe-made-premiere-entirely-free-on-android-to-compete-with-canva-and-its-a-smart-way-to-evade-its-hefty-subscription-fees",
+      "publishedAt": "2026-09-24T15:10:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rmafiALpKHkF6xdgkPhMr6-2100-80.png"
+    },
+    {
+      "tool": "elevenlabs",
+      "toolName": "ElevenLabs",
+      "category": "Partner watch",
+      "title": "ElevenLabs&#8217; CEO on margins, IPO timing, and telling customers they&#8217;re talking to a bot",
+      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+      "guide": "/partners/elevenlabs.html",
+      "source": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "publishedAt": "2026-09-24T16:35:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/Mati-Staniszewski_SXSW.jpg?resize=1200,799"
+    },
+    {
+      "tool": "canva",
+      "toolName": "Canva AI",
+      "category": "Partner watch",
+      "title": "Canva adds 1000+ new Monotype fonts for global creatives",
+      "summary": "It’s not just about language support; it’s about choice.",
+      "guide": "/partners/canva.html",
+      "source": "https://www.creativebloq.com/design/canva-adds-1000-new-monotype-fonts-for-global-creatives",
+      "publishedAt": "2026-09-24T14:14:14.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/BxXJfwkY5E7XYkxQvMBi89-2000-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently i",
+      "title": "No, that Apple Games advert isn't AI, and the brilliant BTS video proves it",
+      "summary": "The hand-made stop-motion animation involved painstaking craftsmanship.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-      "publishedAt": "2026-09-24T09:04:18.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.creativebloq.com/design/advertising/no-that-apple-games-advert-isnt-ai-and-the-stunning-bts-video-proves-it",
+      "publishedAt": "2026-09-25T06:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/GvDSxUsrz5ffvGb69PyfFm-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Enterprise AI has a memory problem, but businesses have the answer",
-      "summary": "What if the secret to better AI memory isn’t better models, but better business knowledge?",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/enterprise-ai-has-a-memory-problem-but-businesses-have-the-answer",
-      "publishedAt": "2026-09-24T08:21:05.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "publishedAt": "2026-09-25T05:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Claude, Gemini & GPT are all included in this $99.99 lifetime AI toolbox",
-      "summary": "Macworld TL;DR: Get 1min.AI Advanced Business Plan for life for just $99.99 (reg. $540), including access to AI models from OpenAI, Anthropic, Google AI, Meta AI, Mistral AI, and Cohere. AI tools are multiplying faster than browser tabs during a research session. 1min.AI Advanced Business Plan is cu",
+      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3240487/claude-gemini-gpt-are-all-included-in-this-99-99-lifetime-ai-toolbox.html",
-      "publishedAt": "2026-09-24T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3240487-0-53404000-1790236893-1minAI_9888a6.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "publishedAt": "2026-09-25T01:25:53.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/lcimg_d86deab3_6099_437b_b86a_4f36ef6f8ffb.webp?quality=90&strip=all&crop=0%2C11.003978190411%2C100%2C77.992043619178&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Everything new coming to Meta&#8217;s AI agent Muse",
-      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "title": "Thunderobot just launched a laptop that uses a special RAM-like SSD to boost AI performance — AI Master M7000 packs Ryzen AI Max+ 395 with 64GB RAM, runs 120B MoE models",
+      "summary": "Thunderobot's M7000 combines AMD's Ryzen AI Max+ 395, 64GB memory, and SSD caching to run unusually large local AI models.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "publishedAt": "2026-09-24T01:13:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799"
+      "source": "https://www.techradar.com/pro/thunderobot-just-launched-a-laptop-that-uses-a-special-ram-like-ssd-to-boost-ai-performance-ai-master-m7000-packs-ryzen-ai-max-395-with-64gb-ram-runs-120b-moe-models",
+      "publishedAt": "2026-09-25T01:25:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UNFSe789eQk2aDW7hmhxdL-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "title": "China publishes 'landmark paper' on AI-to-AI technique that kicks human 'bottleneck' out of the loop and replaces us with an AI 'modem' — C2C brainwave direct connection achieves 150% boost in inference speed",
+      "summary": "Tsinghua researchers developed C2C, allowing AI models to exchange internal information directly while reportedly improving collaborative inference speed and accuracy.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "publishedAt": "2026-09-24T00:46:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
+      "source": "https://www.techradar.com/pro/china-publishes-landmark-paper-on-ai-to-ai-technique-that-kicks-human-bottleneck-out-of-the-loop-and-replaces-us-with-an-ai-modem-c2c-brainwave-direct-connection-achieves-150-boost-in-inference-speed",
+      "publishedAt": "2026-09-25T00:15:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk-2121-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Meta just announced an AI Tamagotchi — this is Muse Charm",
-      "summary": "Mark Zuckerberg closed out Meta Connect 2026 with one more thing, the Muse Charm, which puts the ever-popular personalized AI assistant in the palm of your hand.",
+      "title": "Ray-Ban Meta Gen 3 vs. Ray-Ban Meta Gen 2: How these AI glasses compare",
+      "summary": "Meta's newest smart glasses are an iterative, expensive update.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/meta-just-announced-an-ai-tamagotchi-this-is-muse-charm",
-      "publishedAt": "2026-09-24T00:39:30.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ytSxpvJT2zeMKtmSfB8sZZ-2560-80.jpg"
+      "source": "https://www.engadget.com/2268392/ray-ban-meta-gen-3-vs-gen-2-ai-glasses-comparison/",
+      "publishedAt": "2026-09-24T21:56:17.000Z",
+      "image": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-vs-ray-ban-meta-gen-2-how-these-ai-glasses-compare/l-intro-1790286501.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Meta is making a standalone Muse AI gadget",
-      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little l",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. A",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-      "publishedAt": "2026-09-24T00:15:20.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-d4d3d179-80e9-4873-9d38-24ac84737e8d.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta put Muse in a Tamagotchi like 'Charm' device",
-      "summary": "Meta's Muse Charm is a Tamagotchi-like device with Muse AI.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2267229/meta-put-muse-in-a-tamagotchi-like-charm-device/",
-      "publishedAt": "2026-09-24T00:05:03.000Z",
-      "image": "https://www.engadget.com/img/gallery/meta-put-muse-in-a-tamagotchi-like-charm-device/l-intro-1790220070.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta will stop training its AI on 'visual data' from its smart glasses — if you opt out",
-      "summary": "Somewhere, a contractor just breathed a sigh of relief.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2267227/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/",
-      "publishedAt": "2026-09-24T00:00:44.000Z",
-      "image": "https://www.engadget.com/img/gallery/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/l-intro-1790199534.jpg"
+      "source": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "publishedAt": "2026-09-24T19:59:26.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&strip=all&crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&w=1200"
     }
   ]
 }
