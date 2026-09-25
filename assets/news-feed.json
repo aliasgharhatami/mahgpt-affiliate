@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T06:39:49.410Z",
+  "updatedAt": "2026-09-25T10:12:19.802Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -52,78 +52,78 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "No, that Apple Games advert isn't AI, and the brilliant BTS video proves it",
-      "summary": "The hand-made stop-motion animation involved painstaking craftsmanship.",
+      "title": "I tried Proton's AI Paper Trail tool — and I couldn't believe how much data chatbots know about me",
+      "summary": "As chatbots gets increasingy engrained in our day-to-day lives, we are pushed to share our most personal data without even realising the risk. I took Proton's test to truly understand what's at stake.",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/design/advertising/no-that-apple-games-advert-isnt-ai-and-the-stunning-bts-video-proves-it",
-      "publishedAt": "2026-09-25T06:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/GvDSxUsrz5ffvGb69PyfFm-1920-80.jpg"
+      "source": "https://www.techradar.com/vpn/vpn-privacy-security/i-tried-protons-ai-paper-trail-tool-and-i-couldnt-believe-how-much-data-chatbots-know-about-me",
+      "publishedAt": "2026-09-25T09:59:43.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/xC7FzLf3hXjFJatMTPaz6M-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "title": "What the end of tokenmaxxing means for AI ROI",
+      "summary": "Adoption of generative AI has introduced a new consumption model and businesses have to adapt.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "publishedAt": "2026-09-25T05:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200"
+      "source": "https://www.techradar.com/pro/what-the-end-of-tokenmaxxing-means-for-ai-roi",
+      "publishedAt": "2026-09-25T08:49:30.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-      "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's",
+      "title": "Why making AI too easy to use is a risk for your business",
+      "summary": "AI can boost efficiency at work, but it may also weaken the experimentation and critical thinking that drive innovation.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-      "publishedAt": "2026-09-25T01:25:53.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/lcimg_d86deab3_6099_437b_b86a_4f36ef6f8ffb.webp?quality=90&strip=all&crop=0%2C11.003978190411%2C100%2C77.992043619178&w=1200"
+      "source": "https://www.techradar.com/pro/why-making-ai-too-easy-to-use-is-a-risk-for-your-business",
+      "publishedAt": "2026-09-25T08:44:49.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Thunderobot just launched a laptop that uses a special RAM-like SSD to boost AI performance — AI Master M7000 packs Ryzen AI Max+ 395 with 64GB RAM, runs 120B MoE models",
-      "summary": "Thunderobot's M7000 combines AMD's Ryzen AI Max+ 395, 64GB memory, and SSD caching to run unusually large local AI models.",
+      "title": "The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle",
+      "summary": "GPU utilisation shows compute activity, not whether capacity is actually available. A GPU can report low utilisation while remaining fully allocated to one workload. This post explains why workloads queue beside idle-looking GPUs, how allocation, memory, placement, and application bottlenecks contri",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/thunderobot-just-launched-a-laptop-that-uses-a-special-ram-like-ssd-to-boost-ai-performance-ai-master-m7000-packs-ryzen-ai-max-395-with-64gb-ram-runs-120b-moe-models",
-      "publishedAt": "2026-09-25T01:25:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/UNFSe789eQk2aDW7hmhxdL-1920-80.png"
+      "source": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
+      "publishedAt": "2026-09-25T08:03:06.000Z",
+      "image": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "China publishes 'landmark paper' on AI-to-AI technique that kicks human 'bottleneck' out of the loop and replaces us with an AI 'modem' — C2C brainwave direct connection achieves 150% boost in inference speed",
-      "summary": "Tsinghua researchers developed C2C, allowing AI models to exchange internal information directly while reportedly improving collaborative inference speed and accuracy.",
+      "title": "Get Microsoft’s latest coding tools and a full training bootcamp on sale for $44.97",
+      "summary": "Macworld TL;DR: A lifetime license to Visual Studio Pro 2026 plus 16 coding courses is on sale for $44.97 (reg. $1,999.99) through October 4. Learning to code usually means paying for a professional IDE and then hunting down separate tutorials to actually use it. Buy each piece on its own, and you’l",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/china-publishes-landmark-paper-on-ai-to-ai-technique-that-kicks-human-bottleneck-out-of-the-loop-and-replaces-us-with-an-ai-modem-c2c-brainwave-direct-connection-achieves-150-boost-in-inference-speed",
-      "publishedAt": "2026-09-25T00:15:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk-2121-80.jpg"
+      "source": "https://www.macworld.com/article/3242406/get-microsofts-latest-coding-tools-and-a-full-training-bootcamp-on-sale-for-44-97.html",
+      "publishedAt": "2026-09-25T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3242406-0-57792200-1790323255-Visual-Stud-2026-Prem-Learn-1.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Ray-Ban Meta Gen 3 vs. Ray-Ban Meta Gen 2: How these AI glasses compare",
-      "summary": "Meta's newest smart glasses are an iterative, expensive update.",
+      "title": "How to Add AI to Legacy Software Without Rebuilding It",
+      "summary": "Most companies running legacy software assume that adding artificial intelligence means starting over, and that assumption stops many projects before they begin. Rewriting a system that has supported the business for 15 years is expensive, risky, and rarely necessary. In most cases, AI can sit on to",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2268392/ray-ban-meta-gen-3-vs-gen-2-ai-glasses-comparison/",
-      "publishedAt": "2026-09-24T21:56:17.000Z",
-      "image": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-vs-ray-ban-meta-gen-2-how-these-ai-glasses-compare/l-intro-1790286501.jpg"
+      "source": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
+      "publishedAt": "2026-09-25T07:43:32.000Z",
+      "image": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. A",
+      "title": "7 AI-Powered Document Fraud Detection Tools for Enterprise Onboarding",
+      "summary": "Key Takeaways Enterprise onboarding runs on documents. A new customer uploads a passport, a new merchant sends a business registration, a borrower attaches three months of bank statements, and a supplier provides a tax filing. Each document is accepted on the assumption that it is what it claims to ",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "publishedAt": "2026-09-24T19:59:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&strip=all&crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&w=1200"
+      "source": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/",
+      "publishedAt": "2026-09-25T07:12:31.000Z",
+      "image": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/"
     }
   ]
 }
