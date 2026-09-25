@@ -3944,6 +3944,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/meta-just-announced-an-ai-tamagotchi-this-is-muse-charm": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-25T01:36:11.634Z",
+        "message_id": 468,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
