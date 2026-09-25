@@ -2552,6 +2552,20 @@
         "message_id": "18091620899180886",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/adobe-made-premiere-entirely-free-on-android-to-compete-with-canva-and-its-a-smart-way-to-evade-its-hefty-subscription-fees": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-25T07:08:36.138Z",
+        "message_id": "18174155218450988",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-25T07:08:43.271Z",
+        "message_id": "17949052713301499",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
