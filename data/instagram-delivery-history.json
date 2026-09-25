@@ -2594,6 +2594,20 @@
         "message_id": "18136661626714480",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/vpn/vpn-privacy-security/i-tried-protons-ai-paper-trail-tool-and-i-couldnt-believe-how-much-data-chatbots-know-about-me": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-25T15:51:02.520Z",
+        "message_id": "18335798605275480",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-25T15:51:12.189Z",
+        "message_id": "18116679938281232",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
