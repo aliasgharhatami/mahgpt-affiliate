@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-09-25",
-  "created_at": "2026-09-25T06:39:49.484Z",
-  "source_feed_updated_at": "2026-09-25T06:39:49.410Z",
+  "created_at": "2026-09-25T10:12:24.139Z",
+  "source_feed_updated_at": "2026-09-25T10:12:19.802Z",
   "items": [
     {
       "story_id": "https://www.techradar.com/pro/adobe-made-premiere-entirely-free-on-android-to-compete-with-canva-and-its-a-smart-way-to-evade-its-hefty-subscription-fees",
@@ -27,10 +27,8 @@
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-09-25T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-25T06:39:55.756Z",
-        "message_id": 469,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-25T06:39:55.756Z"
       },
       "linkedin": {
         "status": "pending"
@@ -38,8 +36,7 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-25T07:08:36.138Z",
-        "message_id": "18174155218450988",
-        "media_kind": "fallback-card"
+        "message_id": "18174155218450988"
       },
       "x": {
         "status": "pending"
@@ -54,12 +51,6 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-25T07:08:43.271Z",
-        "message_id": "17949052713301499",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -156,13 +147,13 @@
       }
     },
     {
-      "story_id": "https://www.creativebloq.com/design/advertising/no-that-apple-games-advert-isnt-ai-and-the-stunning-bts-video-proves-it",
-      "source_url": "https://www.creativebloq.com/design/advertising/no-that-apple-games-advert-isnt-ai-and-the-stunning-bts-video-proves-it",
-      "headline": "No, that Apple Games advert isn't AI, and the brilliant BTS video proves it",
-      "summary": "The hand-made stop-motion animation involved painstaking craftsmanship.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/GvDSxUsrz5ffvGb69PyfFm-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/GvDSxUsrz5ffvGb69PyfFm-1920-80.jpg",
+      "story_id": "https://www.techradar.com/vpn/vpn-privacy-security/i-tried-protons-ai-paper-trail-tool-and-i-couldnt-believe-how-much-data-chatbots-know-about-me",
+      "source_url": "https://www.techradar.com/vpn/vpn-privacy-security/i-tried-protons-ai-paper-trail-tool-and-i-couldnt-believe-how-much-data-chatbots-know-about-me",
+      "headline": "I tried Proton's AI Paper Trail tool",
+      "summary": "As chatbots gets increasingy engrained in our day-to-day lives, we are pushed to share our most personal data without even realising the risk. I took Proton's test to truly understand what's at stake.",
+      "source_name": "and I couldn't believe how much data chatbots know about me",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/xC7FzLf3hXjFJatMTPaz6M-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xC7FzLf3hXjFJatMTPaz6M-1920-80.png",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -172,7 +163,7 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=no-that-apple-games-advert-isnt-ai-and-the-brilliant-bts-video-proves-it",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-tried-protons-ai-paper-trail-tool",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -192,7 +183,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-creativebloq-com-design-advertising-no-that-apple-games-advert-isnt-ai-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-techradar-com-vpn-vpn-privacy-security-i-tried-protons-ai-paper-trail--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -202,23 +193,23 @@
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "source_url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "headline": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+      "story_id": "https://www.techradar.com/pro/what-the-end-of-tokenmaxxing-means-for-ai-roi",
+      "source_url": "https://www.techradar.com/pro/what-the-end-of-tokenmaxxing-means-for-ai-roi",
+      "headline": "What the end of tokenmaxxing means for AI ROI",
+      "summary": "Adoption of generative AI has introduced a new consumption model and businesses have to adapt.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 750,
-        "aspectRatio": 1.6,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=what-the-end-of-tokenmaxxing-means-for-ai-roi",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -238,7 +229,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-techcrunch-com-2026-09-24-lightspeed-targets-250m-for-new-india-fund-focus-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-techradar-com-pro-what-the-end-of-tokenmaxxing-means-for-ai-roi-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -248,23 +239,23 @@
       }
     },
     {
-      "story_id": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-      "source_url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-      "headline": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-      "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/lcimg_d86deab3_6099_437b_b86a_4f36ef6f8ffb.webp?quality=90&strip=all&crop=0%2C11.003978190411%2C100%2C77.992043619178&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/lcimg_d86deab3_6099_437b_b86a_4f36ef6f8ffb.webp?quality=90&strip=all&crop=0%2C11.003978190411%2C100%2C77.992043619178&w=1200",
+      "story_id": "https://www.techradar.com/pro/why-making-ai-too-easy-to-use-is-a-risk-for-your-business",
+      "source_url": "https://www.techradar.com/pro/why-making-ai-too-easy-to-use-is-a-risk-for-your-business",
+      "headline": "Why making AI too easy to use is a risk for your business",
+      "summary": "AI can boost efficiency at work, but it may also weaken the experimentation and critical thinking that drive innovation.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 620,
-        "aspectRatio": 1.935483870967742,
-        "instagramCompatible": false
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-making-ai-too-easy-to-use-is-a-risk-for-your-business",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -283,35 +274,31 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-25/Microsoft-is-killing-off-the-Copilot-Plus-PC-brand-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-theverge-com-tech-1000495-microsoft-is-killing-off-the-copilot-plus-pc-story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-techradar-com-pro-why-making-ai-too-easy-to-use-is-a-risk-for-your-bus-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
+          "image-rejected"
         ]
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/thunderobot-just-launched-a-laptop-that-uses-a-special-ram-like-ssd-to-boost-ai-performance-ai-master-m7000-packs-ryzen-ai-max-395-with-64gb-ram-runs-120b-moe-models",
-      "source_url": "https://www.techradar.com/pro/thunderobot-just-launched-a-laptop-that-uses-a-special-ram-like-ssd-to-boost-ai-performance-ai-master-m7000-packs-ryzen-ai-max-395-with-64gb-ram-runs-120b-moe-models",
-      "headline": "Thunderobot just launched a laptop that uses a special RAM-like SSD to boost AI performance — AI Master M7000 packs Ryzen AI Max+ 395 with 64GB RAM, runs 120B MoE models",
-      "summary": "Thunderobot's M7000 combines AMD's Ryzen AI Max+ 395, 64GB memory, and SSD caching to run unusually large local AI models.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/UNFSe789eQk2aDW7hmhxdL-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/UNFSe789eQk2aDW7hmhxdL-1920-80.png",
+      "story_id": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
+      "source_url": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
+      "headline": "The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle",
+      "summary": "GPU utilisation shows compute activity, not whether capacity is actually available. A GPU can report low utilisation while remaining fully allocated to one workload. This post explains why workloads queue beside idle-looking GPUs, how allocation, memory, placement, and application bottlenecks contri",
+      "source_name": "Artificialintelligence News",
+      "original_image_url": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
+      "image_url": "",
       "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
+        "valid": false,
+        "reason": "not-an-image"
       },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=thunderobot-just-launched-a-laptop-that-uses-a-special-ram-like-ssd-to-boost-ai-performanc",
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -329,35 +316,36 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-techradar-com-pro-thunderobot-just-launched-a-laptop-that-uses-a-speci-story.png",
+      "fallback_image_landscape": "assets/social-cards/2026-09-25/The-GPU-Shortage-Inside-Your-Own-Infrastructure-Why-AI-Workloads-Queue-While-Cap-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-25/The-GPU-Shortage-Inside-Your-Own-Infrastructure-Why-AI-Workloads-Queue-While-Cap-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-artificialintelligence-news-com-news-the-gpu-shortage-inside-your-own--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-missing-source"
         ]
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/china-publishes-landmark-paper-on-ai-to-ai-technique-that-kicks-human-bottleneck-out-of-the-loop-and-replaces-us-with-an-ai-modem-c2c-brainwave-direct-connection-achieves-150-boost-in-inference-speed",
-      "source_url": "https://www.techradar.com/pro/china-publishes-landmark-paper-on-ai-to-ai-technique-that-kicks-human-bottleneck-out-of-the-loop-and-replaces-us-with-an-ai-modem-c2c-brainwave-direct-connection-achieves-150-boost-in-inference-speed",
-      "headline": "China publishes 'landmark paper' on AI-to-AI technique that kicks human 'bottleneck' out of the loop and replaces us with an AI 'modem'",
-      "summary": "Tsinghua researchers developed C2C, allowing AI models to exchange internal information directly while reportedly improving collaborative inference speed and accuracy.",
-      "source_name": "C2C brainwave direct connection achieves 150% boost in inference speed",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk-2121-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk-2121-80.jpg",
+      "story_id": "https://www.macworld.com/article/3242406/get-microsofts-latest-coding-tools-and-a-full-training-bootcamp-on-sale-for-44-97.html",
+      "source_url": "https://www.macworld.com/article/3242406/get-microsofts-latest-coding-tools-and-a-full-training-bootcamp-on-sale-for-44-97.html",
+      "headline": "Get Microsoft’s latest coding tools and a full training bootcamp on sale for $44.97",
+      "summary": "Macworld TL;DR: A lifetime license to Visual Studio Pro 2026 plus 16 coding courses is on sale for $44.97 (reg. $1,999.99) through October 4. Learning to code usually means paying for a professional IDE and then hunting down separate tutorials to actually use it. Buy each piece on its own, and you’l",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3242406-0-57792200-1790323255-Visual-Stud-2026-Prem-Learn-1.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3242406-0-57792200-1790323255-Visual-Stud-2026-Prem-Learn-1.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 2121,
-        "height": 1193,
-        "aspectRatio": 1.7778709136630344,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=china-publishes-landmark-paper-on-ai-to-ai-technique-that-kicks-human-bottleneck-out-of-th",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=get-microsofts-latest-coding-tools-and-a-full-training-bootcamp-on-sale-for-44-97",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -377,7 +365,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-techradar-com-pro-china-publishes-landmark-paper-on-ai-to-ai-technique-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-macworld-com-article-3242406-get-microsofts-latest-coding-tools-and-a--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -387,23 +375,20 @@
       }
     },
     {
-      "story_id": "https://www.engadget.com/2268392/ray-ban-meta-gen-3-vs-gen-2-ai-glasses-comparison/",
-      "source_url": "https://www.engadget.com/2268392/ray-ban-meta-gen-3-vs-gen-2-ai-glasses-comparison/",
-      "headline": "Ray-Ban Meta Gen 3 vs. Ray-Ban Meta Gen 2: How these AI glasses compare",
-      "summary": "Meta's newest smart glasses are an iterative, expensive update.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-vs-ray-ban-meta-gen-2-how-these-ai-glasses-compare/l-intro-1790286501.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-vs-ray-ban-meta-gen-2-how-these-ai-glasses-compare/l-intro-1790286501.jpg",
+      "story_id": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
+      "source_url": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
+      "headline": "How to Add AI to Legacy Software Without Rebuilding It",
+      "summary": "Most companies running legacy software assume that adding artificial intelligence means starting over, and that assumption stops many projects before they begin. Rewriting a system that has supported the business for 15 years is expensive, risky, and rarely necessary. In most cases, AI can sit on to",
+      "source_name": "Artificialintelligence News",
+      "original_image_url": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
+      "image_url": "",
       "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
+        "valid": false,
+        "reason": "not-an-image"
       },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ray-ban-meta-gen-3-vs-ray-ban-meta-gen-2-how-these-ai-glasses-compare",
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-add-ai-to-legacy-software-without-rebuilding-it",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -421,29 +406,33 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-engadget-com-2268392-ray-ban-meta-gen-3-vs-gen-2-ai-glasses-comparison-story.png",
+      "fallback_image_landscape": "assets/social-cards/2026-09-25/How-to-Add-AI-to-Legacy-Software-Without-Rebuilding-It-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-25/How-to-Add-AI-to-Legacy-Software-Without-Rebuilding-It-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-artificialintelligence-news-com-news-how-to-add-ai-to-legacy-software--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-missing-source"
         ]
       }
     },
     {
-      "story_id": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "source_url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "headline": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. A",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&strip=all&crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&w=1200",
+      "story_id": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/",
+      "source_url": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/",
+      "headline": "7 AI-Powered Document Fraud Detection Tools for Enterprise Onboarding",
+      "summary": "Key Takeaways Enterprise onboarding runs on documents. A new customer uploads a passport, a new merchant sends a business registration, a borrower attaches three months of bank statements, and a supplier provides a tax filing. Each document is accepted on the assumption that it is what it claims to",
+      "source_name": "Artificialintelligence News",
+      "original_image_url": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/",
       "image_url": "",
-      "image_validation": null,
+      "image_validation": {
+        "valid": false,
+        "reason": "not-an-image"
+      },
       "image_mode": "fallback_card",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=gemini-3-8-live-with-live-avatar-gives-google-and-8217-s-ai-a-face",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -461,9 +450,9 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-09-25/Gemini-3-8-Live-with-Live-Avatar-gives-Google-8217-s-AI-a-face-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-09-25/Gemini-3-8-Live-with-Live-Avatar-gives-Google-8217-s-AI-a-face-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-theverge-com-tech-1000328-google-gemini-ai-live-avatar-face-story.png",
+      "fallback_image_landscape": "assets/social-cards/2026-09-25/7-AI-Powered-Document-Fraud-Detection-Tools-for-Enterprise-Onboarding-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-25/7-AI-Powered-Document-Fraud-Detection-Tools-for-Enterprise-Onboarding-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-artificialintelligence-news-com-news-7-ai-powered-document-fraud-detec-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
