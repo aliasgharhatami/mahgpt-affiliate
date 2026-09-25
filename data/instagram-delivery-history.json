@@ -2538,6 +2538,20 @@
         "message_id": "18162844270496441",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-25T01:48:52.525Z",
+        "message_id": "17882752914624703",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-25T01:49:02.834Z",
+        "message_id": "18091620899180886",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
