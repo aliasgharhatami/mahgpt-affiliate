@@ -2636,6 +2636,20 @@
         "message_id": "18009760964966997",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-25T23:57:11.919Z",
+        "message_id": "18133047754676897",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-25T23:57:25.672Z",
+        "message_id": "18129025147753701",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
