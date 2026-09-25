@@ -4046,6 +4046,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/why-making-ai-too-easy-to-use-is-a-risk-for-your-business": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-25T20:31:08.820Z",
+        "message_id": 474,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
