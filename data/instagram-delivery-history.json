@@ -2706,6 +2706,20 @@
         "message_id": "18448946359133841",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-you-can-only-use-it-on-apple-m-series-macs-for-now": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-26T20:08:41.872Z",
+        "message_id": "17974528424936949",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-26T20:08:49.041Z",
+        "message_id": "17921052255224619",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
