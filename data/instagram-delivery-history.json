@@ -2664,6 +2664,20 @@
         "message_id": "18051312299805341",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-26T13:48:52.631Z",
+        "message_id": "18127185394819610",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-26T13:49:02.838Z",
+        "message_id": "18208490119368004",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
