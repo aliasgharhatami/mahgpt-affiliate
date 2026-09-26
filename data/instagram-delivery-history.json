@@ -2678,6 +2678,20 @@
         "message_id": "18208490119368004",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/the-ai-bubble-could-burst-without-killing-chatgpt-but-you-might-not-like-what-happens-next": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-26T15:06:08.027Z",
+        "message_id": "18642671095058075",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-26T15:06:17.104Z",
+        "message_id": "18142728904594570",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
