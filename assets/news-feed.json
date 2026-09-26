@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T07:43:59.678Z",
+  "updatedAt": "2026-09-26T09:52:51.881Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,6 +16,17 @@
   ],
   "items": [
     {
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Adobe Max 2026's lineup tells us a lot about the company's AI priorities right now",
+      "summary": "It's selling AI hard, but not necessary to you.",
+      "guide": "/partners/adobe.html",
+      "source": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
+      "publishedAt": "2026-09-26T08:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/yKBFcArtA44UhYWZb4eXtL-1120-80.jpg"
+    },
+    {
       "tool": "canva",
       "toolName": "Canva AI",
       "category": "Partner watch",
@@ -25,6 +36,28 @@
       "source": "https://www.creativebloq.com/design/canva-adds-1000-new-monotype-fonts-for-global-creatives",
       "publishedAt": "2026-09-24T14:14:14.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/BxXJfwkY5E7XYkxQvMBi89-2000-80.png"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "The AI bubble could burst without killing ChatGPT",
+      "summary": "If the AI bubble bursts, what actually happens to ChatGPT? Here are 5 things we’d expect.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/ai-platforms-assistants/the-ai-bubble-could-burst-without-killing-chatgpt-but-you-might-not-like-what-happens-next",
+      "publishedAt": "2026-09-26T09:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qXyeucxbRWLsfXGNVMupnH-1920-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "This $30 AI storage cleanup app saves you from buying more cloud space",
+      "summary": "Macworld TL;DR: Cleaner Kit for iOS is an AI-powered cleanup app for photos, videos, contacts, and email, and a lifetime Premium Plan subscription is on sale for $29.99 (reg. $104.97). An iPhone fills up fast with duplicate photos, blurry screenshots, and old emails nobody needs anymore. Cleaner Kit",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3243736/this-30-ai-storage-cleanup-app-saves-you-from-buying-more-cloud-space.html",
+      "publishedAt": "2026-09-26T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3243736-0-07122000-1790409652-Cleaner-Kit.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
@@ -91,39 +124,6 @@
       "source": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/",
       "publishedAt": "2026-09-25T20:35:15.000Z",
       "image": "https://www.engadget.com/img/gallery/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/l-intro-1790368080.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Alibaba wants to expand data center capacity past 20 GW by 2032, says its new V900 AI chip can scale to 500,000-card clusters, but will 'China's most powerful AI chip' be enough to displace Nvidia GPUs?",
-      "summary": "Alibaba remains tight-lipped about the details as it aims to challenge Huawei and last-generation Nvidia chips in domestic markets.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/alibaba-wants-to-expand-data-center-capacity-past-20-gw-by-2032-says-its-new-v900-ai-chip-can-scale-to-500-000-card-clusters-but-will-chinas-most-powerful-ai-chip-be-enough-to-displace-nvidia-gpus",
-      "publishedAt": "2026-09-25T19:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/kagcdECJvssqcoMEjRdTfB-1920-80.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "publishedAt": "2026-09-25T18:33:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "publishedAt": "2026-09-25T18:22:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
     }
   ]
 }
