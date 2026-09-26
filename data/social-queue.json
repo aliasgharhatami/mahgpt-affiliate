@@ -1,115 +1,9 @@
 {
   "version": 1,
-  "queue_date": "2026-09-25",
-  "created_at": "2026-09-25T10:12:24.139Z",
-  "source_feed_updated_at": "2026-09-25T10:12:19.802Z",
+  "queue_date": "2026-09-26",
+  "created_at": "2026-09-26T07:43:59.772Z",
+  "source_feed_updated_at": "2026-09-26T07:43:59.678Z",
   "items": [
-    {
-      "story_id": "https://www.techradar.com/pro/adobe-made-premiere-entirely-free-on-android-to-compete-with-canva-and-its-a-smart-way-to-evade-its-hefty-subscription-fees",
-      "source_url": "https://www.techradar.com/pro/adobe-made-premiere-entirely-free-on-android-to-compete-with-canva-and-its-a-smart-way-to-evade-its-hefty-subscription-fees",
-      "headline": "Adobe made Premiere entirely free on Android to compete with Canva",
-      "summary": "Adobe releases free version of its top-tier video editing tool on Android, but you’ll still need to pay for AI credits for its generative features.",
-      "source_name": "and it's a smart way to evade its hefty subscription fees",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rmafiALpKHkF6xdgkPhMr6-2100-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/rmafiALpKHkF6xdgkPhMr6-2100-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 2100,
-        "height": 900,
-        "aspectRatio": 2.3333333333333335,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=adobe-made-premiere-entirely-free-on-android-to-compete-with-canva",
-      "detected_partner": "adobe",
-      "product_url": "https://www.adobe.com/products/firefly.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-25T05:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-25T06:39:55.756Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-25T07:08:36.138Z",
-        "message_id": "18174155218450988"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-25/Adobe-made-Premiere-entirely-free-on-Android-to-compete-with-Canva-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-techradar-com-pro-adobe-made-premiere-entirely-free-on-android-to-comp-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "source_url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "headline": "ElevenLabs&#8217; CEO on margins, IPO timing, and telling customers they&#8217;re talking to a bot",
-      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/07/Mati-Staniszewski_SXSW.jpg?resize=1200,799",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/Mati-Staniszewski_SXSW.jpg?resize=1200,799",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 799,
-        "aspectRatio": 1.5018773466833542,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=elevenlabs-and-8217-ceo-on-margins-ipo-timing-and-telling-customers-they-and-8217-re-talki",
-      "detected_partner": "elevenlabs",
-      "product_url": "/go/elevenlabs.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-25T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-25T10:13:02.572Z",
-        "message_id": 470,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-25T10:16:19.021Z",
-        "message_id": "18114579526994856",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-techcrunch-com-2026-09-24-twenty-minutes-with-the-ceo-of-elevenlabs-now-re-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-25T10:16:27.813Z",
-        "message_id": "18137043604559050",
-        "media_kind": "story-fallback"
-      }
-    },
     {
       "story_id": "https://www.creativebloq.com/design/canva-adds-1000-new-monotype-fonts-for-global-creatives",
       "source_url": "https://www.creativebloq.com/design/canva-adds-1000-new-monotype-fonts-for-global-creatives",
@@ -131,12 +25,10 @@
       "detected_partner": "canva",
       "product_url": "/go/canva.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-25T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-26T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-25T12:17:43.406Z",
-        "message_id": 471,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-25T12:17:43.406Z"
       },
       "linkedin": {
         "status": "pending"
@@ -144,15 +36,14 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-25T12:46:12.301Z",
-        "message_id": "17908953204509542",
-        "media_kind": "fallback-card"
+        "message_id": "17908953204509542"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-25/Canva-adds-1000-new-Monotype-fonts-for-global-creatives-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-creativebloq-com-design-canva-adds-1000-new-monotype-fonts-for-global--story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-26/Canva-adds-1000-new-Monotype-fonts-for-global-creatives-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-creativebloq-com-design-canva-adds-1000-new-monotype-fonts-for-global--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -160,22 +51,16 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-25T12:46:20.032Z",
-        "message_id": "18136661626714480",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/vpn/vpn-privacy-security/i-tried-protons-ai-paper-trail-tool-and-i-couldnt-believe-how-much-data-chatbots-know-about-me",
-      "source_url": "https://www.techradar.com/vpn/vpn-privacy-security/i-tried-protons-ai-paper-trail-tool-and-i-couldnt-believe-how-much-data-chatbots-know-about-me",
-      "headline": "I tried Proton's AI Paper Trail tool",
-      "summary": "As chatbots gets increasingy engrained in our day-to-day lives, we are pushed to share our most personal data without even realising the risk. I took Proton's test to truly understand what's at stake.",
-      "source_name": "and I couldn't believe how much data chatbots know about me",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/xC7FzLf3hXjFJatMTPaz6M-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/xC7FzLf3hXjFJatMTPaz6M-1920-80.png",
+      "story_id": "https://www.techradar.com/pro/apple-mac-studio-m5-ultra-review-roundup",
+      "source_url": "https://www.techradar.com/pro/apple-mac-studio-m5-ultra-review-roundup",
+      "headline": "I analyzed 10 Apple Mac Studio M5 Ultra reviews",
+      "summary": "I studied every review for Apple's new Mac Studio M5 Ultra to see if its CPU, local AI, and raw graphics rendering power are actually worth the price.",
+      "source_name": "here's absolutely everything you need to know in 3 minutes",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Rw3hh4WnYgWwq3Vwt4jScC-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Rw3hh4WnYgWwq3Vwt4jScC-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -185,237 +70,59 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-tried-protons-ai-paper-trail-tool",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-analyzed-10-apple-mac-studio-m5-ultra-reviews",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-25T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-26T07:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-09-25T15:50:27.588Z",
-        "message_id": 472,
+        "published_at": "2026-09-26T07:44:07.089Z",
+        "message_id": 476,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-25T15:51:02.520Z",
-        "message_id": "18335798605275480",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-techradar-com-vpn-vpn-privacy-security-i-tried-protons-ai-paper-trail--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-techradar-com-pro-apple-mac-studio-m5-ultra-review-roundup-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-25T15:51:12.189Z",
-        "message_id": "18116679938281232",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/what-the-end-of-tokenmaxxing-means-for-ai-roi",
-      "source_url": "https://www.techradar.com/pro/what-the-end-of-tokenmaxxing-means-for-ai-roi",
-      "headline": "What the end of tokenmaxxing means for AI ROI",
-      "summary": "Adoption of generative AI has introduced a new consumption model and businesses have to adapt.",
+      "story_id": "https://www.techradar.com/pro/bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-you-can-only-use-it-on-apple-m-series-macs-for-now",
+      "source_url": "https://www.techradar.com/pro/bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-you-can-only-use-it-on-apple-m-series-macs-for-now",
+      "headline": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now",
+      "summary": "Bitdefender launches free macOS beta tool that hides AI agents' IP addresses during each temporary browsing task.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/2BaNK5XKNiUsUgc3MA8WBC-970-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2BaNK5XKNiUsUgc3MA8WBC-970-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
+        "width": 970,
+        "height": 545,
+        "aspectRatio": 1.7798165137614679,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=what-the-end-of-tokenmaxxing-means-for-ai-roi",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-y",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-25T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-25T17:27:33.417Z",
-        "message_id": 473,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-25T17:46:31.291Z",
-        "message_id": "18432474721181969",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-techradar-com-pro-what-the-end-of-tokenmaxxing-means-for-ai-roi-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-25T17:46:40.025Z",
-        "message_id": "18128868757792131",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/why-making-ai-too-easy-to-use-is-a-risk-for-your-business",
-      "source_url": "https://www.techradar.com/pro/why-making-ai-too-easy-to-use-is-a-risk-for-your-business",
-      "headline": "Why making AI too easy to use is a risk for your business",
-      "summary": "AI can boost efficiency at work, but it may also weaken the experimentation and critical thinking that drive innovation.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-making-ai-too-easy-to-use-is-a-risk-for-your-business",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-25T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-25T20:31:08.820Z",
-        "message_id": 474,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-25T20:32:15.247Z",
-        "message_id": "18069814655786738",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-techradar-com-pro-why-making-ai-too-easy-to-use-is-a-risk-for-your-bus-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-25T20:32:24.294Z",
-        "message_id": "18009760964966997",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
-      "source_url": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
-      "headline": "The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle",
-      "summary": "GPU utilisation shows compute activity, not whether capacity is actually available. A GPU can report low utilisation while remaining fully allocated to one workload. This post explains why workloads queue beside idle-looking GPUs, how allocation, memory, placement, and application bottlenecks contri",
-      "source_name": "Artificialintelligence News",
-      "original_image_url": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
-      "image_url": "",
-      "image_validation": {
-        "valid": false,
-        "reason": "not-an-image"
-      },
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-25T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-25T23:36:33.362Z",
-        "message_id": 475,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-25T23:57:11.919Z",
-        "message_id": "18133047754676897",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "assets/social-cards/2026-09-25/The-GPU-Shortage-Inside-Your-Own-Infrastructure-Why-AI-Workloads-Queue-While-Cap-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-09-25/The-GPU-Shortage-Inside-Your-Own-Infrastructure-Why-AI-Workloads-Queue-While-Cap-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-artificialintelligence-news-com-news-the-gpu-shortage-inside-your-own--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-missing-source"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-25T23:57:25.672Z",
-        "message_id": "18129025147753701",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3242406/get-microsofts-latest-coding-tools-and-a-full-training-bootcamp-on-sale-for-44-97.html",
-      "source_url": "https://www.macworld.com/article/3242406/get-microsofts-latest-coding-tools-and-a-full-training-bootcamp-on-sale-for-44-97.html",
-      "headline": "Get Microsoft’s latest coding tools and a full training bootcamp on sale for $44.97",
-      "summary": "Macworld TL;DR: A lifetime license to Visual Studio Pro 2026 plus 16 coding courses is on sale for $44.97 (reg. $1,999.99) through October 4. Learning to code usually means paying for a professional IDE and then hunting down separate tutorials to actually use it. Buy each piece on its own, and you’l",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3242406-0-57792200-1790323255-Visual-Stud-2026-Prem-Learn-1.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3242406-0-57792200-1790323255-Visual-Stud-2026-Prem-Learn-1.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=get-microsofts-latest-coding-tools-and-a-full-training-bootcamp-on-sale-for-44-97",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-25T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-26T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -431,7 +138,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-macworld-com-article-3242406-get-microsofts-latest-coding-tools-and-a--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-techradar-com-pro-bitdefender-first-to-launch-free-temporary-vpn-for-a-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -441,24 +148,27 @@
       }
     },
     {
-      "story_id": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
-      "source_url": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
-      "headline": "How to Add AI to Legacy Software Without Rebuilding It",
-      "summary": "Most companies running legacy software assume that adding artificial intelligence means starting over, and that assumption stops many projects before they begin. Rewriting a system that has supported the business for 15 years is expensive, risky, and rarely necessary. In most cases, AI can sit on to",
-      "source_name": "Artificialintelligence News",
-      "original_image_url": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
-      "image_url": "",
+      "story_id": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "source_url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675",
       "image_validation": {
-        "valid": false,
-        "reason": "not-an-image"
+        "valid": true,
+        "width": 1200,
+        "height": 675,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-add-ai-to-legacy-software-without-rebuilding-it",
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-25T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-26T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -472,9 +182,49 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-09-25/How-to-Add-AI-to-Legacy-Software-Without-Rebuilding-It-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-09-25/How-to-Add-AI-to-Legacy-Software-Without-Rebuilding-It-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-artificialintelligence-news-com-news-how-to-add-ai-to-legacy-software--story.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-26/https-techcrunch-com-2026-09-25-crusoe-abandons-1-25b-plan-to-use-boom-turbines--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source_url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "image_url": "",
+      "image_validation": null,
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab-and-8217-s-k",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-26T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "assets/social-cards/2026-09-26/Unsecured-OpenAI-agents-posted-53-user-images-on-the-internet-without-the-lab-82-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-26/Unsecured-OpenAI-agents-posted-53-user-images-on-the-internet-without-the-lab-82-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-26/https-techcrunch-com-2026-09-25-unsecured-openai-agents-posted-53-user-images-on-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -485,24 +235,27 @@
       }
     },
     {
-      "story_id": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/",
-      "source_url": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/",
-      "headline": "7 AI-Powered Document Fraud Detection Tools for Enterprise Onboarding",
-      "summary": "Key Takeaways Enterprise onboarding runs on documents. A new customer uploads a passport, a new merchant sends a business registration, a borrower attaches three months of bank statements, and a supplier provides a tax filing. Each document is accepted on the assumption that it is what it claims to",
-      "source_name": "Artificialintelligence News",
-      "original_image_url": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/",
-      "image_url": "",
+      "story_id": "https://www.techradar.com/pro/hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-can-handle-up-to-300b-parameters",
+      "source_url": "https://www.techradar.com/pro/hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-can-handle-up-to-300b-parameters",
+      "headline": "HP debuts $7,449 Ryzen AI Max+ PRO 495 laptop — ZBook Ultra G3a has 192GB RAM, 512GB SSD, and can handle up to 300B parameters",
+      "summary": "HP’s ZBook Ultra G3a combines 192GB memory, AMD processing, integrated Radeon graphics, and substantial power for demanding local AI workloads.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ijC94rNmL2FwguaHekSkML-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ijC94rNmL2FwguaHekSkML-1920-80.png",
       "image_validation": {
-        "valid": false,
-        "reason": "not-an-image"
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding",
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hp-debuts-7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-ca",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-25T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-26T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -516,9 +269,190 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-09-25/7-AI-Powered-Document-Fraud-Detection-Tools-for-Enterprise-Onboarding-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-09-25/7-AI-Powered-Document-Fraud-Detection-Tools-for-Enterprise-Onboarding-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-25/https-www-artificialintelligence-news-com-news-7-ai-powered-document-fraud-detec-story.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-techradar-com-pro-hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/",
+      "source_url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/",
+      "headline": "How to stop Meta training its AI models on your smart glasses' visual data",
+      "summary": "The setting affects whether workers can review photos and videos from your glasses.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/l-intro-1790368080.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/l-intro-1790368080.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-26T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-engadget-com-2269454-how-to-stop-meta-training-its-ai-models-on-your-s-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/alibaba-wants-to-expand-data-center-capacity-past-20-gw-by-2032-says-its-new-v900-ai-chip-can-scale-to-500-000-card-clusters-but-will-chinas-most-powerful-ai-chip-be-enough-to-displace-nvidia-gpus",
+      "source_url": "https://www.techradar.com/pro/alibaba-wants-to-expand-data-center-capacity-past-20-gw-by-2032-says-its-new-v900-ai-chip-can-scale-to-500-000-card-clusters-but-will-chinas-most-powerful-ai-chip-be-enough-to-displace-nvidia-gpus",
+      "headline": "Alibaba wants to expand data center capacity past 20 GW by 2032, says its new V900 AI chip can scale to 500,000-card clusters, but will 'China's most powerful AI chip' be enough to displace Nvidia GPUs?",
+      "summary": "Alibaba remains tight-lipped about the details as it aims to challenge Huawei and last-generation Nvidia chips in domestic markets.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/kagcdECJvssqcoMEjRdTfB-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kagcdECJvssqcoMEjRdTfB-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=alibaba-wants-to-expand-data-center-capacity-past-20-gw-by-2032-says-its-new-v900-ai-chip-",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-26T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-techradar-com-pro-alibaba-wants-to-expand-data-center-capacity-past-20-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "source_url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "headline": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ahead-of-us-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-financing",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-26T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-26/https-techcrunch-com-2026-09-25-ahead-of-u-s-ipo-british-ai-neocloud-nscale-secu-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "source_url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "headline": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "image_url": "",
+      "image_validation": {
+        "valid": false,
+        "reason": "image-request-failed"
+      },
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-26T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "assets/social-cards/2026-09-26/Meta-s-Muse-just-stole-the-AI-spotlight-from-OpenAI-and-Anthropic-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-26/Meta-s-Muse-just-stole-the-AI-spotlight-from-OpenAI-and-Anthropic-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-26/https-techcrunch-com-podcast-metas-muse-just-stole-the-ai-spotlight-from-openai--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

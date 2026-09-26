@@ -4080,6 +4080,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/apple-mac-studio-m5-ultra-review-roundup": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-26T07:44:07.089Z",
+        "message_id": 476,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

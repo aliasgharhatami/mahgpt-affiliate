@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T10:12:19.802Z",
+  "updatedAt": "2026-09-26T07:43:59.678Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,28 +16,6 @@
   ],
   "items": [
     {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Adobe made Premiere entirely free on Android to compete with Canva — and it's a smart way to evade its hefty subscription fees",
-      "summary": "Adobe releases free version of its top-tier video editing tool on Android, but you’ll still need to pay for AI credits for its generative features.",
-      "guide": "/partners/adobe.html",
-      "source": "https://www.techradar.com/pro/adobe-made-premiere-entirely-free-on-android-to-compete-with-canva-and-its-a-smart-way-to-evade-its-hefty-subscription-fees",
-      "publishedAt": "2026-09-24T15:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rmafiALpKHkF6xdgkPhMr6-2100-80.png"
-    },
-    {
-      "tool": "elevenlabs",
-      "toolName": "ElevenLabs",
-      "category": "Partner watch",
-      "title": "ElevenLabs&#8217; CEO on margins, IPO timing, and telling customers they&#8217;re talking to a bot",
-      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
-      "guide": "/partners/elevenlabs.html",
-      "source": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "publishedAt": "2026-09-24T16:35:13.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/Mati-Staniszewski_SXSW.jpg?resize=1200,799"
-    },
-    {
       "tool": "canva",
       "toolName": "Canva AI",
       "category": "Partner watch",
@@ -52,78 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "I tried Proton's AI Paper Trail tool — and I couldn't believe how much data chatbots know about me",
-      "summary": "As chatbots gets increasingy engrained in our day-to-day lives, we are pushed to share our most personal data without even realising the risk. I took Proton's test to truly understand what's at stake.",
+      "title": "I analyzed 10 Apple Mac Studio M5 Ultra reviews — here's absolutely everything you need to know in 3 minutes",
+      "summary": "I studied every review for Apple's new Mac Studio M5 Ultra to see if its CPU, local AI, and raw graphics rendering power are actually worth the price.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/vpn/vpn-privacy-security/i-tried-protons-ai-paper-trail-tool-and-i-couldnt-believe-how-much-data-chatbots-know-about-me",
-      "publishedAt": "2026-09-25T09:59:43.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/xC7FzLf3hXjFJatMTPaz6M-1920-80.png"
+      "source": "https://www.techradar.com/pro/apple-mac-studio-m5-ultra-review-roundup",
+      "publishedAt": "2026-09-26T07:10:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Rw3hh4WnYgWwq3Vwt4jScC-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "What the end of tokenmaxxing means for AI ROI",
-      "summary": "Adoption of generative AI has introduced a new consumption model and businesses have to adapt.",
+      "title": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now",
+      "summary": "Bitdefender launches free macOS beta tool that hides AI agents' IP addresses during each temporary browsing task.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/what-the-end-of-tokenmaxxing-means-for-ai-roi",
-      "publishedAt": "2026-09-25T08:49:30.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-you-can-only-use-it-on-apple-m-series-macs-for-now",
+      "publishedAt": "2026-09-25T23:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/2BaNK5XKNiUsUgc3MA8WBC-970-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why making AI too easy to use is a risk for your business",
-      "summary": "AI can boost efficiency at work, but it may also weaken the experimentation and critical thinking that drive innovation.",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/why-making-ai-too-easy-to-use-is-a-risk-for-your-business",
-      "publishedAt": "2026-09-25T08:44:49.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "publishedAt": "2026-09-25T23:11:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle",
-      "summary": "GPU utilisation shows compute activity, not whether capacity is actually available. A GPU can report low utilisation while remaining fully allocated to one workload. This post explains why workloads queue beside idle-looking GPUs, how allocation, memory, placement, and application bottlenecks contri",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
       "guide": "/news/index.html",
-      "source": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
-      "publishedAt": "2026-09-25T08:03:06.000Z",
-      "image": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/"
+      "source": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "publishedAt": "2026-09-25T22:20:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Get Microsoft’s latest coding tools and a full training bootcamp on sale for $44.97",
-      "summary": "Macworld TL;DR: A lifetime license to Visual Studio Pro 2026 plus 16 coding courses is on sale for $44.97 (reg. $1,999.99) through October 4. Learning to code usually means paying for a professional IDE and then hunting down separate tutorials to actually use it. Buy each piece on its own, and you’l",
+      "title": "HP debuts $7,449 Ryzen AI Max+ PRO 495 laptop — ZBook Ultra G3a has 192GB RAM, 512GB SSD, and can handle up to 300B parameters",
+      "summary": "HP’s ZBook Ultra G3a combines 192GB memory, AMD processing, integrated Radeon graphics, and substantial power for demanding local AI workloads.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3242406/get-microsofts-latest-coding-tools-and-a-full-training-bootcamp-on-sale-for-44-97.html",
-      "publishedAt": "2026-09-25T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3242406-0-57792200-1790323255-Visual-Stud-2026-Prem-Learn-1.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-can-handle-up-to-300b-parameters",
+      "publishedAt": "2026-09-25T21:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ijC94rNmL2FwguaHekSkML-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How to Add AI to Legacy Software Without Rebuilding It",
-      "summary": "Most companies running legacy software assume that adding artificial intelligence means starting over, and that assumption stops many projects before they begin. Rewriting a system that has supported the business for 15 years is expensive, risky, and rarely necessary. In most cases, AI can sit on to",
+      "title": "How to stop Meta training its AI models on your smart glasses' visual data",
+      "summary": "The setting affects whether workers can review photos and videos from your glasses.",
       "guide": "/news/index.html",
-      "source": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
-      "publishedAt": "2026-09-25T07:43:32.000Z",
-      "image": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/"
+      "source": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/",
+      "publishedAt": "2026-09-25T20:35:15.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/l-intro-1790368080.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "7 AI-Powered Document Fraud Detection Tools for Enterprise Onboarding",
-      "summary": "Key Takeaways Enterprise onboarding runs on documents. A new customer uploads a passport, a new merchant sends a business registration, a borrower attaches three months of bank statements, and a supplier provides a tax filing. Each document is accepted on the assumption that it is what it claims to ",
+      "title": "Alibaba wants to expand data center capacity past 20 GW by 2032, says its new V900 AI chip can scale to 500,000-card clusters, but will 'China's most powerful AI chip' be enough to displace Nvidia GPUs?",
+      "summary": "Alibaba remains tight-lipped about the details as it aims to challenge Huawei and last-generation Nvidia chips in domestic markets.",
       "guide": "/news/index.html",
-      "source": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/",
-      "publishedAt": "2026-09-25T07:12:31.000Z",
-      "image": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/"
+      "source": "https://www.techradar.com/pro/alibaba-wants-to-expand-data-center-capacity-past-20-gw-by-2032-says-its-new-v900-ai-chip-can-scale-to-500-000-card-clusters-but-will-chinas-most-powerful-ai-chip-be-enough-to-displace-nvidia-gpus",
+      "publishedAt": "2026-09-25T19:10:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kagcdECJvssqcoMEjRdTfB-1920-80.png"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "publishedAt": "2026-09-25T18:33:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "publishedAt": "2026-09-25T18:22:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
     }
   ]
 }
