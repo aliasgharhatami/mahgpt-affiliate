@@ -1,9 +1,55 @@
 {
   "version": 1,
   "queue_date": "2026-09-26",
-  "created_at": "2026-09-26T07:43:59.772Z",
-  "source_feed_updated_at": "2026-09-26T07:43:59.678Z",
+  "created_at": "2026-09-26T09:52:55.317Z",
+  "source_feed_updated_at": "2026-09-26T09:52:51.881Z",
   "items": [
+    {
+      "story_id": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
+      "source_url": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
+      "headline": "Adobe Max 2026's lineup tells us a lot about the company's AI priorities right now",
+      "summary": "It's selling AI hard, but not necessary to you.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/yKBFcArtA44UhYWZb4eXtL-1120-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/yKBFcArtA44UhYWZb4eXtL-1120-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1120,
+        "height": 630,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
+      "detected_partner": "adobe",
+      "product_url": "https://www.adobe.com/products/firefly.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-09-26T05:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-creativebloq-com-design-design-software-adobe-max-2026s-lineup-tells-u-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
     {
       "story_id": "https://www.creativebloq.com/design/canva-adds-1000-new-monotype-fonts-for-global-creatives",
       "source_url": "https://www.creativebloq.com/design/canva-adds-1000-new-monotype-fonts-for-global-creatives",
@@ -25,7 +71,7 @@
       "detected_partner": "canva",
       "product_url": "/go/canva.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-26T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-26T07:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-09-25T12:17:43.406Z"
@@ -54,6 +100,98 @@
       }
     },
     {
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/the-ai-bubble-could-burst-without-killing-chatgpt-but-you-might-not-like-what-happens-next",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/the-ai-bubble-could-burst-without-killing-chatgpt-but-you-might-not-like-what-happens-next",
+      "headline": "The AI bubble could burst without killing ChatGPT",
+      "summary": "If the AI bubble bursts, what actually happens to ChatGPT? Here are 5 things we’d expect.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qXyeucxbRWLsfXGNVMupnH-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qXyeucxbRWLsfXGNVMupnH-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-bubble-could-burst-without-killing-chatgpt",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-26T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-techradar-com-ai-platforms-assistants-the-ai-bubble-could-burst-withou-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3243736/this-30-ai-storage-cleanup-app-saves-you-from-buying-more-cloud-space.html",
+      "source_url": "https://www.macworld.com/article/3243736/this-30-ai-storage-cleanup-app-saves-you-from-buying-more-cloud-space.html",
+      "headline": "This $30 AI storage cleanup app saves you from buying more cloud space",
+      "summary": "Macworld TL;DR: Cleaner Kit for iOS is an AI-powered cleanup app for photos, videos, contacts, and email, and a lifetime Premium Plan subscription is on sale for $29.99 (reg. $104.97). An iPhone fills up fast with duplicate photos, blurry screenshots, and old emails nobody needs anymore. Cleaner Kit",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3243736-0-07122000-1790409652-Cleaner-Kit.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3243736-0-07122000-1790409652-Cleaner-Kit.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-30-ai-storage-cleanup-app-saves-you-from-buying-more-cloud-space",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-26T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-macworld-com-article-3243736-this-30-ai-storage-cleanup-app-saves-you--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
       "story_id": "https://www.techradar.com/pro/apple-mac-studio-m5-ultra-review-roundup",
       "source_url": "https://www.techradar.com/pro/apple-mac-studio-m5-ultra-review-roundup",
       "headline": "I analyzed 10 Apple Mac Studio M5 Ultra reviews",
@@ -74,12 +212,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-26T13:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-26T07:44:07.089Z",
-        "message_id": 476,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-26T07:44:07.089Z"
       },
       "linkedin": {
         "status": "pending"
@@ -87,8 +223,7 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-26T09:21:18.173Z",
-        "message_id": "18098672069262678",
-        "media_kind": "source"
+        "message_id": "18098672069262678"
       },
       "x": {
         "status": "pending"
@@ -102,12 +237,6 @@
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-26T09:21:27.109Z",
-        "message_id": "18051312299805341",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -131,7 +260,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-26T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -177,7 +306,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-26T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -217,7 +346,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-26T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -264,7 +393,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-26T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -310,7 +439,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T17:20:00.000Z",
+      "scheduled_publish_at": "2026-09-26T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -332,142 +461,6 @@
         "warnings": [],
         "repairs": [
           "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/alibaba-wants-to-expand-data-center-capacity-past-20-gw-by-2032-says-its-new-v900-ai-chip-can-scale-to-500-000-card-clusters-but-will-chinas-most-powerful-ai-chip-be-enough-to-displace-nvidia-gpus",
-      "source_url": "https://www.techradar.com/pro/alibaba-wants-to-expand-data-center-capacity-past-20-gw-by-2032-says-its-new-v900-ai-chip-can-scale-to-500-000-card-clusters-but-will-chinas-most-powerful-ai-chip-be-enough-to-displace-nvidia-gpus",
-      "headline": "Alibaba wants to expand data center capacity past 20 GW by 2032, says its new V900 AI chip can scale to 500,000-card clusters, but will 'China's most powerful AI chip' be enough to displace Nvidia GPUs?",
-      "summary": "Alibaba remains tight-lipped about the details as it aims to challenge Huawei and last-generation Nvidia chips in domestic markets.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/kagcdECJvssqcoMEjRdTfB-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/kagcdECJvssqcoMEjRdTfB-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=alibaba-wants-to-expand-data-center-capacity-past-20-gw-by-2032-says-its-new-v900-ai-chip-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-techradar-com-pro-alibaba-wants-to-expand-data-center-capacity-past-20-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "source_url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "headline": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ahead-of-us-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-financing",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-26/https-techcrunch-com-2026-09-25-ahead-of-u-s-ipo-british-ai-neocloud-nscale-secu-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "source_url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "headline": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-      "image_url": "",
-      "image_validation": {
-        "valid": false,
-        "reason": "image-request-failed"
-      },
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T23:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "assets/social-cards/2026-09-26/Meta-s-Muse-just-stole-the-AI-spotlight-from-OpenAI-and-Anthropic-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-09-26/Meta-s-Muse-just-stole-the-AI-spotlight-from-OpenAI-and-Anthropic-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-26/https-techcrunch-com-podcast-metas-muse-just-stole-the-ai-spotlight-from-openai--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-missing-source"
         ]
       }
     }

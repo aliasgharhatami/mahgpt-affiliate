@@ -1,17 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T10:12:32.869Z",
-  "analysis_date": "2026-09-25",
+  "generated_at": "2026-09-26T09:52:59.236Z",
+  "analysis_date": "2026-09-26",
   "stories": [
     {
-      "title": "Adobe made Premiere entirely free on Android to compete with Canva — and it's a smart way to evade its hefty subscription fees",
-      "source": "https://www.techradar.com/pro/adobe-made-premiere-entirely-free-on-android-to-compete-with-canva-and-its-a-smart-way-to-evade-its-hefty-subscription-fees",
-      "mahgpt_url": "/news/story.html?id=adobe-made-premiere-entirely-free-on-android-to-compete-with-canva-and-its-a-smart-way-to-"
-    },
-    {
-      "title": "ElevenLabs&#8217; CEO on margins, IPO timing, and telling customers they&#8217;re talking to a bot",
-      "source": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "mahgpt_url": "/news/story.html?id=elevenlabs-and-8217-ceo-on-margins-ipo-timing-and-telling-customers-they-and-8217-re-talki"
+      "title": "Adobe Max 2026's lineup tells us a lot about the company's AI priorities right now",
+      "source": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
+      "mahgpt_url": "/news/story.html?id=adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now"
     },
     {
       "title": "Canva adds 1000+ new Monotype fonts for global creatives",
@@ -19,83 +14,88 @@
       "mahgpt_url": "/news/story.html?id=canva-adds-1000-new-monotype-fonts-for-global-creatives"
     },
     {
-      "title": "I tried Proton's AI Paper Trail tool — and I couldn't believe how much data chatbots know about me",
-      "source": "https://www.techradar.com/vpn/vpn-privacy-security/i-tried-protons-ai-paper-trail-tool-and-i-couldnt-believe-how-much-data-chatbots-know-about-me",
-      "mahgpt_url": "/news/story.html?id=i-tried-protons-ai-paper-trail-tool-and-i-couldnt-believe-how-much-data-chatbots-know-abou"
+      "title": "The AI bubble could burst without killing ChatGPT",
+      "source": "https://www.techradar.com/ai-platforms-assistants/the-ai-bubble-could-burst-without-killing-chatgpt-but-you-might-not-like-what-happens-next",
+      "mahgpt_url": "/news/story.html?id=the-ai-bubble-could-burst-without-killing-chatgpt"
     },
     {
-      "title": "What the end of tokenmaxxing means for AI ROI",
-      "source": "https://www.techradar.com/pro/what-the-end-of-tokenmaxxing-means-for-ai-roi",
-      "mahgpt_url": "/news/story.html?id=what-the-end-of-tokenmaxxing-means-for-ai-roi"
+      "title": "This $30 AI storage cleanup app saves you from buying more cloud space",
+      "source": "https://www.macworld.com/article/3243736/this-30-ai-storage-cleanup-app-saves-you-from-buying-more-cloud-space.html",
+      "mahgpt_url": "/news/story.html?id=this-30-ai-storage-cleanup-app-saves-you-from-buying-more-cloud-space"
     },
     {
-      "title": "Why making AI too easy to use is a risk for your business",
-      "source": "https://www.techradar.com/pro/why-making-ai-too-easy-to-use-is-a-risk-for-your-business",
-      "mahgpt_url": "/news/story.html?id=why-making-ai-too-easy-to-use-is-a-risk-for-your-business"
+      "title": "I analyzed 10 Apple Mac Studio M5 Ultra reviews — here's absolutely everything you need to know in 3 minutes",
+      "source": "https://www.techradar.com/pro/apple-mac-studio-m5-ultra-review-roundup",
+      "mahgpt_url": "/news/story.html?id=i-analyzed-10-apple-mac-studio-m5-ultra-reviews-heres-absolutely-everything-you-need-to-kn"
     },
     {
-      "title": "The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle",
-      "source": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
-      "mahgpt_url": "/news/story.html?id=the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits"
+      "title": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now",
+      "source": "https://www.techradar.com/pro/bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-you-can-only-use-it-on-apple-m-series-macs-for-now",
+      "mahgpt_url": "/news/story.html?id=bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-y"
     },
     {
-      "title": "Get Microsoft’s latest coding tools and a full training bootcamp on sale for $44.97",
-      "source": "https://www.macworld.com/article/3242406/get-microsofts-latest-coding-tools-and-a-full-training-bootcamp-on-sale-for-44-97.html",
-      "mahgpt_url": "/news/story.html?id=get-microsofts-latest-coding-tools-and-a-full-training-bootcamp-on-sale-for-44-97"
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "source": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "mahgpt_url": "/news/story.html?id=crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers"
+    },
+    {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
+      "source": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "mahgpt_url": "/news/story.html?id=unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab-and-8217-s-k"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-25.html"
+      "path": "news/analysis/2026-09-26.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-25.html"
+      "path": "es/news/analysis/2026-09-26.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-25.html"
+      "path": "de/news/analysis/2026-09-26.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-25.html"
+      "path": "fr/news/analysis/2026-09-26.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-25.html"
+      "path": "pt-BR/news/analysis/2026-09-26.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-25.html"
+      "path": "ar/news/analysis/2026-09-26.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-25.html"
+      "path": "fa/news/analysis/2026-09-26.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-25.html"
+      "path": "tr/news/analysis/2026-09-26.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-25.html"
+      "path": "it/news/analysis/2026-09-26.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-25.html"
+      "path": "ja/news/analysis/2026-09-26.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-25.html"
+      "path": "ko/news/analysis/2026-09-26.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-25.html"
+      "path": "id/news/analysis/2026-09-26.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-25.html"
+      "path": "hi/news/analysis/2026-09-26.html"
     }
   ]
 }
