@@ -2790,6 +2790,20 @@
         "message_id": "18115190788958029",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-27T17:12:04.977Z",
+        "message_id": "17895521652411615",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-27T17:12:14.955Z",
+        "message_id": "18366762364245309",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
