@@ -2734,6 +2734,20 @@
         "message_id": "18193055206398207",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-27T01:05:44.455Z",
+        "message_id": "18098349104378840",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-27T01:05:55.237Z",
+        "message_id": "18134820694642648",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
