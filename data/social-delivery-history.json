@@ -4233,6 +4233,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3244667/through-october-4-you-can-get-these-20-ai-models-for-life-for-just-55.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-27T15:40:30.539Z",
+        "message_id": 485,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
