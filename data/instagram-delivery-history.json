@@ -2762,6 +2762,20 @@
         "message_id": "18182337181420584",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3244667/through-october-4-you-can-get-these-20-ai-models-for-life-for-just-55.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-27T12:27:56.404Z",
+        "message_id": "18134032081661755",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-27T12:28:04.714Z",
+        "message_id": "17921312214447178",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
