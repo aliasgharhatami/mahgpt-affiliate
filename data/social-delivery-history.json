@@ -4284,6 +4284,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/google-is-launching-its-ai-chips-into-space-project-suncatcher-mvp-sports-four-tpus-and-will-be-delivered-by-a-spacex-rocket": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-27T23:55:58.479Z",
+        "message_id": 488,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
