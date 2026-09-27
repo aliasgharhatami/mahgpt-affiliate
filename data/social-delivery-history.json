@@ -4250,6 +4250,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/over-half-of-uk-firms-say-an-ai-agent-has-gone-rogue-on-them-and-affected-their-business-or-their-customers": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-27T19:37:42.830Z",
+        "message_id": 486,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
