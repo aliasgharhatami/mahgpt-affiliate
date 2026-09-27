@@ -357,7 +357,10 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "pending"
+        "status": "published",
+        "published_at": "2026-09-27T20:09:25.841Z",
+        "message_id": "18371238025243136",
+        "media_kind": "source"
       },
       "x": {
         "status": "pending"
@@ -371,6 +374,12 @@
         "repairs": [
           "image-rejected"
         ]
+      },
+      "instagram_story": {
+        "status": "failed",
+        "attempted_at": "2026-09-27T20:09:30.245Z",
+        "classification": "instagram-api-error",
+        "message": "Media ID is not available"
       }
     },
     {
