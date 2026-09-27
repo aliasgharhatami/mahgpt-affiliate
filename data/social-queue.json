@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-09-26",
-  "created_at": "2026-09-26T09:52:55.317Z",
-  "source_feed_updated_at": "2026-09-26T09:52:51.881Z",
+  "queue_date": "2026-09-27",
+  "created_at": "2026-09-27T05:50:10.903Z",
+  "source_feed_updated_at": "2026-09-27T05:50:10.826Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
@@ -25,12 +25,10 @@
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-26T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-27T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-26T09:53:27.476Z",
-        "message_id": 477,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-26T09:53:27.476Z"
       },
       "linkedin": {
         "status": "pending"
@@ -38,27 +36,20 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-26T13:48:52.631Z",
-        "message_id": "18127185394819610",
-        "media_kind": "source"
+        "message_id": "18127185394819610"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-creativebloq-com-design-design-software-adobe-max-2026s-lineup-tells-u-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-creativebloq-com-design-design-software-adobe-max-2026s-lineup-tells-u-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-26T13:49:02.838Z",
-        "message_id": "18208490119368004",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -82,7 +73,7 @@
       "detected_partner": "canva",
       "product_url": "/go/canva.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-26T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-27T07:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-09-25T12:17:43.406Z"
@@ -99,8 +90,8 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-26/Canva-adds-1000-new-Monotype-fonts-for-global-creatives-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-creativebloq-com-design-canva-adds-1000-new-monotype-fonts-for-global--story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-27/Canva-adds-1000-new-Monotype-fonts-for-global-creatives-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-creativebloq-com-design-canva-adds-1000-new-monotype-fonts-for-global--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -111,403 +102,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/the-ai-bubble-could-burst-without-killing-chatgpt-but-you-might-not-like-what-happens-next",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/the-ai-bubble-could-burst-without-killing-chatgpt-but-you-might-not-like-what-happens-next",
-      "headline": "The AI bubble could burst without killing ChatGPT",
-      "summary": "If the AI bubble bursts, what actually happens to ChatGPT? Here are 5 things we’d expect.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qXyeucxbRWLsfXGNVMupnH-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/qXyeucxbRWLsfXGNVMupnH-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-bubble-could-burst-without-killing-chatgpt",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-26T12:30:00.138Z",
-        "message_id": 478,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-26T15:06:08.027Z",
-        "message_id": "18642671095058075",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-techradar-com-ai-platforms-assistants-the-ai-bubble-could-burst-withou-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-26T15:06:17.104Z",
-        "message_id": "18142728904594570",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3243736/this-30-ai-storage-cleanup-app-saves-you-from-buying-more-cloud-space.html",
-      "source_url": "https://www.macworld.com/article/3243736/this-30-ai-storage-cleanup-app-saves-you-from-buying-more-cloud-space.html",
-      "headline": "This $30 AI storage cleanup app saves you from buying more cloud space",
-      "summary": "Macworld TL;DR: Cleaner Kit for iOS is an AI-powered cleanup app for photos, videos, contacts, and email, and a lifetime Premium Plan subscription is on sale for $29.99 (reg. $104.97). An iPhone fills up fast with duplicate photos, blurry screenshots, and old emails nobody needs anymore. Cleaner Kit",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3243736-0-07122000-1790409652-Cleaner-Kit.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3243736-0-07122000-1790409652-Cleaner-Kit.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-30-ai-storage-cleanup-app-saves-you-from-buying-more-cloud-space",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-26T14:59:09.170Z",
-        "message_id": 479,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-26T17:37:19.979Z",
-        "message_id": "18216611341348653",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-macworld-com-article-3243736-this-30-ai-storage-cleanup-app-saves-you--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-26T17:37:29.100Z",
-        "message_id": "18448946359133841",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/apple-mac-studio-m5-ultra-review-roundup",
-      "source_url": "https://www.techradar.com/pro/apple-mac-studio-m5-ultra-review-roundup",
-      "headline": "I analyzed 10 Apple Mac Studio M5 Ultra reviews",
-      "summary": "I studied every review for Apple's new Mac Studio M5 Ultra to see if its CPU, local AI, and raw graphics rendering power are actually worth the price.",
-      "source_name": "here's absolutely everything you need to know in 3 minutes",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Rw3hh4WnYgWwq3Vwt4jScC-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Rw3hh4WnYgWwq3Vwt4jScC-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-analyzed-10-apple-mac-studio-m5-ultra-reviews",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T13:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-26T07:44:07.089Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-26T09:21:18.173Z",
-        "message_id": "18098672069262678"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-techradar-com-pro-apple-mac-studio-m5-ultra-review-roundup-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-you-can-only-use-it-on-apple-m-series-macs-for-now",
-      "source_url": "https://www.techradar.com/pro/bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-you-can-only-use-it-on-apple-m-series-macs-for-now",
-      "headline": "Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now",
-      "summary": "Bitdefender launches free macOS beta tool that hides AI agents' IP addresses during each temporary browsing task.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/2BaNK5XKNiUsUgc3MA8WBC-970-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/2BaNK5XKNiUsUgc3MA8WBC-970-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 970,
-        "height": 545,
-        "aspectRatio": 1.7798165137614679,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-y",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-26T16:42:53.558Z",
-        "message_id": 480,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-26T20:08:41.872Z",
-        "message_id": "17974528424936949",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-techradar-com-pro-bitdefender-first-to-launch-free-temporary-vpn-for-a-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-26T20:08:49.041Z",
-        "message_id": "17921052255224619",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "source_url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "story_id": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "headline": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
       "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 675,
-        "aspectRatio": 1.7777777777777777,
+        "height": 800,
+        "aspectRatio": 1.5,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-26T18:37:44.686Z",
-        "message_id": 481,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-26T21:59:22.982Z",
-        "message_id": "18092948063161680",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-26/https-techcrunch-com-2026-09-25-crusoe-abandons-1-25b-plan-to-use-boom-turbines--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-26T21:59:32.223Z",
-        "message_id": "18193055206398207",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "source_url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab-and-8217-s-k",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-26T21:58:29.182Z",
-        "message_id": 482,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-27T01:05:44.455Z",
-        "message_id": "18098349104378840",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "assets/social-cards/2026-09-26/Unsecured-OpenAI-agents-posted-53-user-images-on-the-internet-without-the-lab-82-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-09-26/Unsecured-OpenAI-agents-posted-53-user-images-on-the-internet-without-the-lab-82-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-26/https-techcrunch-com-2026-09-25-unsecured-openai-agents-posted-53-user-images-on-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-missing-source"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-27T01:05:55.237Z",
-        "message_id": "18134820694642648",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-can-handle-up-to-300b-parameters",
-      "source_url": "https://www.techradar.com/pro/hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-can-handle-up-to-300b-parameters",
-      "headline": "HP debuts $7,449 Ryzen AI Max+ PRO 495 laptop — ZBook Ultra G3a has 192GB RAM, 512GB SSD, and can handle up to 300B parameters",
-      "summary": "HP’s ZBook Ultra G3a combines 192GB memory, AMD processing, integrated Radeon graphics, and substantial power for demanding local AI workloads.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ijC94rNmL2FwguaHekSkML-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ijC94rNmL2FwguaHekSkML-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hp-debuts-7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-ca",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T21:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-27T00:38:15.441Z",
-        "message_id": 483,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-techradar-com-pro-hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/",
-      "source_url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/",
-      "headline": "How to stop Meta training its AI models on your smart glasses' visual data",
-      "summary": "The setting affects whether workers can review photos and videos from your glasses.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/l-intro-1790368080.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/l-intro-1790368080.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-26T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-27T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -523,7 +138,331 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-26/https-www-engadget-com-2269454-how-to-stop-meta-training-its-ai-models-on-your-s-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-techcrunch-com-2026-09-26-google-tests-buying-from-walmart-owned-flipkart--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/google-is-launching-its-ai-chips-into-space-project-suncatcher-mvp-sports-four-tpus-and-will-be-delivered-by-a-spacex-rocket",
+      "source_url": "https://www.techradar.com/pro/google-is-launching-its-ai-chips-into-space-project-suncatcher-mvp-sports-four-tpus-and-will-be-delivered-by-a-spacex-rocket",
+      "headline": "Google is launching its AI chips into space — Project Suncatcher MVP sports four TPUs and will be delivered by a SpaceX rocket",
+      "summary": "Google will launch an experimental satellite carrying four TPUs to test whether AI hardware can withstand space before scaling orbital infrastructure.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/kBCxRcESAsdcnfozAAUAoN-1440-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kBCxRcESAsdcnfozAAUAoN-1440-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1440,
+        "height": 810,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-is-launching-its-ai-chips-into-space-project-suncatcher-mvp-sports-four-tpus-and-wi",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-27T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-techradar-com-pro-google-is-launching-its-ai-chips-into-space-project--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source_url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "headline": "Insurers claim AI is already increasing healthcare costs",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 612,
+        "aspectRatio": 1.9607843137254901,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=insurers-claim-ai-is-already-increasing-healthcare-costs",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-27T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-27/Insurers-claim-AI-is-already-increasing-healthcare-costs-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-techcrunch-com-2026-09-26-insurers-claim-ai-is-already-increasing-healthca-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/pixelmob-portable-ai-workstation-review",
+      "source_url": "https://www.techradar.com/pro/pixelmob-portable-ai-workstation-review",
+      "headline": "PixelMob Portable AI Workstation review",
+      "summary": "The PixelMob is a portable workstation for photographers, videographers and creators with storage, AI file management, editing, monitoring and tethered shooting.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/QUyEw7s5CxSF7ZJRTR8tnX-1200-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QUyEw7s5CxSF7ZJRTR8tnX-1200-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 675,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=pixelmob-portable-ai-workstation-review",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-27T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-techradar-com-pro-pixelmob-portable-ai-workstation-review-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/hospital-ai-use-is-causing-medical-bills-to-soar-with-blue-cross-estimating-usd1-billion-in-extra-insurance-costs",
+      "source_url": "https://www.techradar.com/pro/hospital-ai-use-is-causing-medical-bills-to-soar-with-blue-cross-estimating-usd1-billion-in-extra-insurance-costs",
+      "headline": "Hospital AI use is causing medical bills to soar, with Blue Cross estimating $1 billion in extra insurance costs",
+      "summary": "Hospital AI tools are diagnosing more ailments, pushing insurance payouts higher, but insurers are fighting back.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/UmHF7DXtKcHFx3arFJ9Ewh-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UmHF7DXtKcHFx3arFJ9Ewh-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hospital-ai-use-is-causing-medical-bills-to-soar-with-blue-cross-estimating-1-billion-in-e",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-27T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-techradar-com-pro-hospital-ai-use-is-causing-medical-bills-to-soar-wit-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "source_url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "headline": "I created an interactive digital avatar of myself",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "source_name": "and you can talk to it",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 667,
+        "aspectRatio": 1.7991004497751124,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-created-an-interactive-digital-avatar-of-myself",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-27T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-techcrunch-com-2026-09-26-i-created-an-interactive-digital-avatar-of-mysel-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "source_url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it [&#8230;]",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=can-cloudflare-ceo-matthew-prince-save-the-web-from-ai",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-27T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-27/Can-Cloudflare-CEO-Matthew-Prince-save-the-web-from-AI--instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-theverge-com-podcast-1000344-cloudflare-matthew-prince-google-zero-ai--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/computing/cpu/nvidia-rtx-spark-vs-apple-m6",
+      "source_url": "https://www.techradar.com/computing/cpu/nvidia-rtx-spark-vs-apple-m6",
+      "headline": "Nvidia RTX Spark vs Apple M6: which chip is better for creating, gaming, and AI?",
+      "summary": "Nvidia RTX Spark and the Apple M6 are set to go head-to-head among creatives and developers, but which platform will be the best for your needs?",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/q7Q3z2TuLLm4vQNkXTkDaj-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/q7Q3z2TuLLm4vQNkXTkDaj-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nvidia-rtx-spark-vs-apple-m6-which-chip-is-better-for-creating-gaming-and-ai",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-27T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-techradar-com-computing-cpu-nvidia-rtx-spark-vs-apple-m6-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
