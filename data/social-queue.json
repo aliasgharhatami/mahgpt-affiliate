@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-09-27",
-  "created_at": "2026-09-27T05:50:10.903Z",
-  "source_feed_updated_at": "2026-09-27T05:50:10.826Z",
+  "created_at": "2026-09-27T10:34:10.090Z",
+  "source_feed_updated_at": "2026-09-27T10:34:06.667Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
@@ -102,6 +102,144 @@
       }
     },
     {
+      "story_id": "https://www.creativebloq.com/design/we-have-the-kind-of-stuff-ai-wishes-it-could-make-why-trust-is-more-important-than-ever-for-the-nasa-brand",
+      "source_url": "https://www.creativebloq.com/design/we-have-the-kind-of-stuff-ai-wishes-it-could-make-why-trust-is-more-important-than-ever-for-the-nasa-brand",
+      "headline": "\"We have the kind of stuff AI wishes it could make\": Why trust is more important than ever for the NASA brand",
+      "summary": "We talk to NASA creative director David Rager about the space agency's branding.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/7U2hdcGUCJhHVqMbZdHGg6-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7U2hdcGUCJhHVqMbZdHGg6-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=we-have-the-kind-of-stuff-ai-wishes-it-could-make-why-trust-is-more-important-than-ever-fo",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-27T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-creativebloq-com-design-we-have-the-kind-of-stuff-ai-wishes-it-could-m-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3244667/through-october-4-you-can-get-these-20-ai-models-for-life-for-just-55.html",
+      "source_url": "https://www.macworld.com/article/3244667/through-october-4-you-can-get-these-20-ai-models-for-life-for-just-55.html",
+      "headline": "Through October 4, you can get these 20+ AI models for life for just $55",
+      "summary": "Macworld TL;DR: ChatPlayground AI gives you 20+ popular AI models, and a lifetime subscription is only $55 through October 4. Most people who use AI end up paying for two or three chatbots at once. Most AI subscriptions are about $20 per month, so the cost adds up really fast, but that’s also not yo",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3244667-0-55194700-1790496085-ChatPlayground_c83171.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3244667-0-55194700-1790496085-ChatPlayground_c83171.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=through-october-4-you-can-get-these-20-ai-models-for-life-for-just-55",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-27T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-macworld-com-article-3244667-through-october-4-you-can-get-these-20-ai-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/over-half-of-uk-firms-say-an-ai-agent-has-gone-rogue-on-them-and-affected-their-business-or-their-customers",
+      "source_url": "https://www.techradar.com/pro/over-half-of-uk-firms-say-an-ai-agent-has-gone-rogue-on-them-and-affected-their-business-or-their-customers",
+      "headline": "Over half of UK firms say an AI agent has gone rogue on them",
+      "summary": "Businesses are struggling to effectively control their AI agents, with over half of British companies admitting to at least one breach of business policy by an automated system.",
+      "source_name": "and affected their business or their customers",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qKKtmFjSZtfjvQ9BGRm6zU-2560-80.jpeg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qKKtmFjSZtfjvQ9BGRm6zU-2560-80.jpeg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=over-half-of-uk-firms-say-an-ai-agent-has-gone-rogue-on-them",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-27T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-techradar-com-pro-over-half-of-uk-firms-say-an-ai-agent-has-gone-rogue-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
       "story_id": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
       "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
       "headline": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -122,7 +260,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-27T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -168,7 +306,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-27T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -214,7 +352,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T13:20:00.000Z",
+      "scheduled_publish_at": "2026-09-27T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -261,7 +399,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-27T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -307,145 +445,6 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-techradar-com-pro-hospital-ai-use-is-causing-medical-bills-to-soar-wit-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "source_url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "headline": "I created an interactive digital avatar of myself",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "source_name": "and you can talk to it",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 667,
-        "aspectRatio": 1.7991004497751124,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-created-an-interactive-digital-avatar-of-myself",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-techcrunch-com-2026-09-26-i-created-an-interactive-digital-avatar-of-mysel-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "source_url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it [&#8230;]",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=can-cloudflare-ceo-matthew-prince-save-the-web-from-ai",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-27/Can-Cloudflare-CEO-Matthew-Prince-save-the-web-from-AI--instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-theverge-com-podcast-1000344-cloudflare-matthew-prince-google-zero-ai--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/computing/cpu/nvidia-rtx-spark-vs-apple-m6",
-      "source_url": "https://www.techradar.com/computing/cpu/nvidia-rtx-spark-vs-apple-m6",
-      "headline": "Nvidia RTX Spark vs Apple M6: which chip is better for creating, gaming, and AI?",
-      "summary": "Nvidia RTX Spark and the Apple M6 are set to go head-to-head among creatives and developers, but which platform will be the best for your needs?",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/q7Q3z2TuLLm4vQNkXTkDaj-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/q7Q3z2TuLLm4vQNkXTkDaj-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nvidia-rtx-spark-vs-apple-m6-which-chip-is-better-for-creating-gaming-and-ai",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
       "scheduled_publish_at": "2026-09-27T23:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -462,7 +461,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-techradar-com-computing-cpu-nvidia-rtx-spark-vs-apple-m6-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-techradar-com-pro-hospital-ai-use-is-causing-medical-bills-to-soar-wit-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
