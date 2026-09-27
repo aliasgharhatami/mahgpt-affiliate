@@ -4199,6 +4199,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-can-handle-up-to-300b-parameters": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-27T00:38:15.441Z",
+        "message_id": 483,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
