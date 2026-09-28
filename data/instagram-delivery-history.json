@@ -2860,6 +2860,20 @@
         "message_id": "18007924110004064",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-28T11:46:53.743Z",
+        "message_id": "18118724516319260",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-28T11:47:01.752Z",
+        "message_id": "18491537296103891",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
