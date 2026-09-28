@@ -4318,6 +4318,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-28T11:42:54.049Z",
+        "message_id": 490,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
