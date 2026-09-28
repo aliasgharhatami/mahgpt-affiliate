@@ -4335,6 +4335,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-28T15:29:55.604Z",
+        "message_id": 491,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
