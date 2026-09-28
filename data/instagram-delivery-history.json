@@ -2846,6 +2846,20 @@
         "classification": "instagram-api-error",
         "message": "The image format is not supported."
       }
+    },
+    "https://www.techradar.com/pro/quote-of-the-day-by-legendary-computer-scientist-geoffrey-hinton-if-we-dont-figure-out-how-to-make-it-safe-theres-a-real-possibility-it-could-destroy-us-a-stark-alarm-on-the-existential-risks-of-ai": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-28T07:39:06.726Z",
+        "message_id": "18089489645222765",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-28T07:39:16.650Z",
+        "message_id": "18007924110004064",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
