@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-09-28",
-  "created_at": "2026-09-28T07:01:27.917Z",
-  "source_feed_updated_at": "2026-09-28T07:01:27.821Z",
+  "created_at": "2026-09-28T11:42:19.013Z",
+  "source_feed_updated_at": "2026-09-28T11:42:15.051Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
@@ -53,23 +53,23 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/quote-of-the-day-by-legendary-computer-scientist-geoffrey-hinton-if-we-dont-figure-out-how-to-make-it-safe-theres-a-real-possibility-it-could-destroy-us-a-stark-alarm-on-the-existential-risks-of-ai",
-      "source_url": "https://www.techradar.com/pro/quote-of-the-day-by-legendary-computer-scientist-geoffrey-hinton-if-we-dont-figure-out-how-to-make-it-safe-theres-a-real-possibility-it-could-destroy-us-a-stark-alarm-on-the-existential-risks-of-ai",
-      "headline": "Quote of the day by Geoffrey Hinton: \"If we don't figure out how to make it safe, there's a real possibility it could destroy us\"",
-      "summary": "Many consider the risks of AI to be the stuff of sci-fi nightmares, but scientists can't entirely rule out a doomsday scenario",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ACbxGEYbVdvFqWgH6Azu7k-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ACbxGEYbVdvFqWgH6Azu7k-1920-80.jpg",
+      "story_id": "https://www.engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents/",
+      "source_url": "https://www.engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents/",
+      "headline": "The US government plans to use AI to help redact documents",
+      "summary": "AI use for FOIA requests might result in even more information being withheld.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/the-us-government-plans-to-use-ai-to-help-redact-documents/l-intro-1790594639.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/the-us-government-plans-to-use-ai-to-help-redact-documents/l-intro-1790594639.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=quote-of-the-day-by-geoffrey-hinton-if-we-dont-figure-out-how-to-make-it-safe-theres-a-rea",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-us-government-plans-to-use-ai-to-help-redact-documents",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -82,49 +82,40 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-28T07:39:06.726Z",
-        "message_id": "18089489645222765",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-quote-of-the-day-by-legendary-computer-scientist-geo-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-engadget-com-2270348-the-us-government-plans-to-use-ai-to-help-redact--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-28T07:39:16.650Z",
-        "message_id": "18007924110004064",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-      "headline": "Engram is a sampler that turns broken AI hallucinations into music",
-      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, a",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=3.0945578231293%2C0%2C93.810884353741%2C100&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=3.0945578231293%2C0%2C93.810884353741%2C100&w=1200",
+      "story_id": "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design",
+      "source_url": "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design",
+      "headline": "Viral AI animation sparks controversy over familiar character design",
+      "summary": "Artificial intelligence struggles with originality once again.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/zxY6jnnHDgAvHyFjMJYiSY-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zxY6jnnHDgAvHyFjMJYiSY-1920-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1198,
-        "height": 633,
-        "aspectRatio": 1.8925750394944707,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=viral-ai-animation-sparks-controversy-over-familiar-character-design",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -144,7 +135,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-theverge-com-ai-artificial-intelligence-1001193-engram-sampler-ai-hall-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-creativebloq-com-art-animation-viral-ai-animation-sparks-controversy-o-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -154,23 +145,23 @@
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "source_url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "headline": "Can Muse overcome Meta’s trust issues?",
-      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+      "story_id": "https://www.techradar.com/pro/how-ai-is-reshaping-domain-strategy-and-digital-trust",
+      "source_url": "https://www.techradar.com/pro/how-ai-is-reshaping-domain-strategy-and-digital-trust",
+      "headline": "How AI is reshaping domain strategy and digital trust",
+      "summary": "AI is making online impersonation easier, pushing businesses to rethink domains as essential brand and trust assets.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 799,
-        "aspectRatio": 1.5018773466833542,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=can-muse-overcome-metas-trust-issues",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-ai-is-reshaping-domain-strategy-and-digital-trust",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -190,7 +181,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-techcrunch-com-2026-09-27-can-muse-overcome-metas-trust-issues--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-how-ai-is-reshaping-domain-strategy-and-digital-trus-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -200,23 +191,23 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
-      "source_url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
-      "headline": "An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
-      "summary": "ASUS's ET900N G3 workstation delivers data center-level AI performance, running dozens of agents at once for roughly $120,000.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/SscwojFNxXvpqPJ9d2ohmj-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/SscwojFNxXvpqPJ9d2ohmj-1920-80.png",
+      "story_id": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
+      "source_url": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
+      "headline": "Every new Apple product coming in 2026 & 2027",
+      "summary": "Macworld It’s been a huge year for Apple, with a wave of new products arriving during the first nine months of 2026. The year began with the MacBook Neo and iPhone 17e in March, followed by the new Mac mini and Mac Studio in August. September brought another major batch of launches at Apple’s “Surpr",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/671090-0-46028700-1790592176-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/671090-0-46028700-1790592176-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-re",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=every-new-apple-product-coming-in-2026-and-2027",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -236,7 +227,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-macworld-com-article-671090-new-apple-products-iphone-ipad-mac-watch-h-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -246,23 +237,23 @@
       }
     },
     {
-      "story_id": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/",
-      "source_url": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/",
-      "headline": "Bill Gates says it's 'completely irresponsible' for AI to not have safeguards",
-      "summary": "The Microsoft co-founder said that the more present danger is bad actors with access to AI tools.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/bill-gates-says-its-completely-irresponsible-for-ai-to-not-have-safeguards/l-intro-1790535130.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/bill-gates-says-its-completely-irresponsible-for-ai-to-not-have-safeguards/l-intro-1790535130.jpg",
+      "story_id": "https://www.techradar.com/pro/social-media-is-becoming-cybercriminals-most-powerful-attack-vector",
+      "source_url": "https://www.techradar.com/pro/social-media-is-becoming-cybercriminals-most-powerful-attack-vector",
+      "headline": "Social media is becoming cybercriminals’ most powerful attack vector",
+      "summary": "Cybercriminals are exploiting trusted brands online, while AI makes impersonation faster and harder to detect.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=bill-gates-says-its-completely-irresponsible-for-ai-to-not-have-safeguards",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=social-media-is-becoming-cybercriminals-most-powerful-attack-vector",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -282,7 +273,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-engadget-com-2270166-bill-gates-says-that-its-completely-irresponsible-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-social-media-is-becoming-cybercriminals-most-powerfu-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -292,23 +283,23 @@
       }
     },
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "headline": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government s",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0%2C10.736911387474%2C100%2C78.526177225052&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0%2C10.736911387474%2C100%2C78.526177225052&w=1200",
+      "story_id": "https://www.techradar.com/pro/are-your-bosses-holding-back-ai-knowledge-from-you-new-study-suggests-top-heavy-balance-in-many-firms-is-hurting-workers",
+      "source_url": "https://www.techradar.com/pro/are-your-bosses-holding-back-ai-knowledge-from-you-new-study-suggests-top-heavy-balance-in-many-firms-is-hurting-workers",
+      "headline": "Are your bosses holding back AI knowledge from you? New study suggests top-heavy balance in many firms is hurting workers",
+      "summary": "Business leaders are using AI for decision-making, but knowledge workers are barely using it to create documents.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/isoopje9LKofpDmB78HMLV-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/isoopje9LKofpDmB78HMLV-2000-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
+        "width": 2000,
+        "height": 1124,
+        "aspectRatio": 1.7793594306049823,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-agents-tried-to-bruteforce-a-un-website",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=are-your-bosses-holding-back-ai-knowledge-from-you-new-study-suggests-top-heavy-balance-in",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -327,35 +318,34 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-28/OpenAI-agents-tried-to-bruteforce-a-UN-website-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-theverge-com-ai-artificial-intelligence-1001178-openai-agents-brutefor-story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-are-your-bosses-holding-back-ai-knowledge-from-you-n-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
+          "image-rejected"
         ]
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/security/i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds-then-apologized-for-doing-so",
-      "source_url": "https://www.techradar.com/pro/security/i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds-then-apologized-for-doing-so",
-      "headline": "'I broke something': A Claude Code AI agent deleted 48,000 files in just over 100 seconds",
-      "summary": "A developer had an AI agent run 11 tasks. One messed up dearly.",
-      "source_name": "then apologized for doing so",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/MZeWJhJjT34M4nQvMMX7fg-1376-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/MZeWJhJjT34M4nQvMMX7fg-1376-80.jpg",
+      "story_id": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+      "source_url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+      "headline": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+      "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6ab67a543b15d40264a17301/191:100/w_1280,c_limit/092526-AI%20Coworker.jpg",
+      "image_url": "https://media.wired.com/photos/6ab67a543b15d40264a17301/191:100/w_1280,c_limit/092526-AI%20Coworker.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1376,
-        "height": 768,
-        "aspectRatio": 1.7916666666666667,
-        "instagramCompatible": true
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
       },
       "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -374,34 +364,35 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-security-i-broke-something-a-claude-code-ai-agent-de-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-28/AI-Agents-Are-About-to-Flood-the-Workforce-No-One-s-Ready-for-It-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-wired-com-story-ai-agents-are-about-to-flood-the-workforce-no-ones-rea-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "source_url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "headline": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
-      "summary": "the company or product is highlighted in a current technology report.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
+      "story_id": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+      "source_url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+      "headline": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+      "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6ab66fcabccfe76e77e84940/191:100/w_1280,c_limit/092526-Math%20Art%20AI.jpg",
+      "image_url": "https://media.wired.com/photos/6ab66fcabccfe76e77e84940/191:100/w_1280,c_limit/092526-Math%20Art%20AI.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 603,
-        "aspectRatio": 1.9900497512437811,
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
         "instagramCompatible": false
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-and-8217-s-dario-amodei-gets-the-snl-treatment",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=solving-maths-greatest-problems-was-an-art-form-then-came-ai",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -420,8 +411,8 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-28/Anthropic-8217-s-Dario-Amodei-gets-the-SNL-treatment-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-techcrunch-com-2026-09-27-anthropics-dario-amodei-gets-the-snl-treatment--story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-28/Solving-Math-s-Greatest-Problems-Was-an-Art-Form-Then-Came-AI-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-wired-com-story-solving-maths-greatest-problems-was-an-art-form-until--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -432,23 +423,23 @@
       }
     },
     {
-      "story_id": "https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/",
-      "source_url": "https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/",
-      "headline": "How to use Spotify's Running Mode on iOS and Android",
-      "summary": "Maximize your stride with Spotify's AI-powered running features.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/how-to-use-spotify-running-mode-ios-android-guide/l-intro-1790266956.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/how-to-use-spotify-running-mode-ios-android-guide/l-intro-1790266956.jpg",
+      "story_id": "https://www.techradar.com/pro/localization-is-the-missing-test-for-voice-ai",
+      "source_url": "https://www.techradar.com/pro/localization-is-the-missing-test-for-voice-ai",
+      "headline": "Localization is the missing test for voice AI",
+      "summary": "Gartner predicts that by 2028, 70% of customer journeys will begin with a conversational AI interface.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 900,
+        "width": 2560,
+        "height": 1440,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-use-spotifys-running-mode-on-ios-and-android",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=localization-is-the-missing-test-for-voice-ai",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -468,7 +459,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-engadget-com-2267524-how-to-use-spotify-running-mode-ios-android-guide-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-localization-is-the-missing-test-for-voice-ai-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
