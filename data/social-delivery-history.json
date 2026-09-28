@@ -4352,6 +4352,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/how-ai-is-reshaping-domain-strategy-and-digital-trust": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-28T20:08:16.946Z",
+        "message_id": 492,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
