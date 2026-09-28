@@ -474,7 +474,10 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "pending"
+        "status": "published",
+        "published_at": "2026-09-28T01:39:38.701Z",
+        "message_id": "18194630638393586",
+        "media_kind": "source"
       },
       "x": {
         "status": "pending"
@@ -488,6 +491,12 @@
         "repairs": [
           "image-rejected"
         ]
+      },
+      "instagram_story": {
+        "status": "failed",
+        "attempted_at": "2026-09-28T01:40:09.040Z",
+        "classification": "instagram-api-error",
+        "message": "The image format is not supported."
       }
     },
     {
