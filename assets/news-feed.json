@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T07:01:27.821Z",
+  "updatedAt": "2026-09-28T11:42:15.051Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Quote of the day by Geoffrey Hinton: \"If we don't figure out how to make it safe, there's a real possibility it could destroy us\"",
-      "summary": "Many consider the risks of AI to be the stuff of sci-fi nightmares, but scientists can't entirely rule out a doomsday scenario",
+      "title": "The US government plans to use AI to help redact documents",
+      "summary": "AI use for FOIA requests might result in even more information being withheld.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/quote-of-the-day-by-legendary-computer-scientist-geoffrey-hinton-if-we-dont-figure-out-how-to-make-it-safe-theres-a-real-possibility-it-could-destroy-us-a-stark-alarm-on-the-existential-risks-of-ai",
-      "publishedAt": "2026-09-27T22:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ACbxGEYbVdvFqWgH6Azu7k-1920-80.jpg"
+      "source": "https://www.engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents/",
+      "publishedAt": "2026-09-28T11:25:54.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-us-government-plans-to-use-ai-to-help-redact-documents/l-intro-1790594639.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Engram is a sampler that turns broken AI hallucinations into music",
-      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, a",
+      "title": "Viral AI animation sparks controversy over familiar character design",
+      "summary": "Artificial intelligence struggles with originality once again.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-      "publishedAt": "2026-09-27T20:46:36.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=3.0945578231293%2C0%2C93.810884353741%2C100&w=1200"
+      "source": "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design",
+      "publishedAt": "2026-09-28T11:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zxY6jnnHDgAvHyFjMJYiSY-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "title": "How AI is reshaping domain strategy and digital trust",
+      "summary": "AI is making online impersonation easier, pushing businesses to rethink domains as essential brand and trust assets.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "publishedAt": "2026-09-27T19:57:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799"
+      "source": "https://www.techradar.com/pro/how-ai-is-reshaping-domain-strategy-and-digital-trust",
+      "publishedAt": "2026-09-28T10:42:39.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
-      "summary": "ASUS's ET900N G3 workstation delivers data center-level AI performance, running dozens of agents at once for roughly $120,000.",
+      "title": "Every new Apple product coming in 2026 & 2027",
+      "summary": "Macworld It’s been a huge year for Apple, with a wave of new products arriving during the first nine months of 2026. The year began with the MacBook Neo and iPhone 17e in March, followed by the new Mac mini and Mac Studio in August. September brought another major batch of launches at Apple’s “Surpr",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
-      "publishedAt": "2026-09-27T19:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/SscwojFNxXvpqPJ9d2ohmj-1920-80.png"
+      "source": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
+      "publishedAt": "2026-09-28T10:34:10.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/671090-0-46028700-1790592176-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Bill Gates says it's 'completely irresponsible' for AI to not have safeguards",
-      "summary": "The Microsoft co-founder said that the more present danger is bad actors with access to AI tools.",
+      "title": "Social media is becoming cybercriminals’ most powerful attack vector",
+      "summary": "Cybercriminals are exploiting trusted brands online, while AI makes impersonation faster and harder to detect.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/",
-      "publishedAt": "2026-09-27T19:12:29.000Z",
-      "image": "https://www.engadget.com/img/gallery/bill-gates-says-its-completely-irresponsible-for-ai-to-not-have-safeguards/l-intro-1790535130.jpg"
+      "source": "https://www.techradar.com/pro/social-media-is-becoming-cybercriminals-most-powerful-attack-vector",
+      "publishedAt": "2026-09-28T10:26:02.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government s",
+      "title": "Are your bosses holding back AI knowledge from you? New study suggests top-heavy balance in many firms is hurting workers",
+      "summary": "Business leaders are using AI for decision-making, but knowledge workers are barely using it to create documents.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "publishedAt": "2026-09-27T17:21:07.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0%2C10.736911387474%2C100%2C78.526177225052&w=1200"
+      "source": "https://www.techradar.com/pro/are-your-bosses-holding-back-ai-knowledge-from-you-new-study-suggests-top-heavy-balance-in-many-firms-is-hurting-workers",
+      "publishedAt": "2026-09-28T10:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/isoopje9LKofpDmB78HMLV-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'I broke something': A Claude Code AI agent deleted 48,000 files in just over 100 seconds — then apologized for doing so",
-      "summary": "A developer had an AI agent run 11 tasks. One messed up dearly.",
+      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+      "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/security/i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds-then-apologized-for-doing-so",
-      "publishedAt": "2026-09-27T17:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/MZeWJhJjT34M4nQvMMX7fg-1376-80.jpg"
+      "source": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+      "publishedAt": "2026-09-28T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ab67a543b15d40264a17301/191:100/w_1280,c_limit/092526-AI%20Coworker.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
-      "summary": "\"AI is the devil and I its maker.\"",
+      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+      "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "publishedAt": "2026-09-27T16:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603"
+      "source": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+      "publishedAt": "2026-09-28T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ab66fcabccfe76e77e84940/191:100/w_1280,c_limit/092526-Math%20Art%20AI.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How to use Spotify's Running Mode on iOS and Android",
-      "summary": "Maximize your stride with Spotify's AI-powered running features.",
+      "title": "Localization is the missing test for voice AI",
+      "summary": "Gartner predicts that by 2028, 70% of customer journeys will begin with a conversational AI interface.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/",
-      "publishedAt": "2026-09-27T15:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-spotify-running-mode-ios-android-guide/l-intro-1790266956.jpg"
+      "source": "https://www.techradar.com/pro/localization-is-the-missing-test-for-voice-ai",
+      "publishedAt": "2026-09-28T09:08:17.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg"
     }
   ]
 }
