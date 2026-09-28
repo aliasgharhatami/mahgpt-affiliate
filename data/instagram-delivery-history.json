@@ -2888,6 +2888,20 @@
         "message_id": "18120925330878322",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/how-ai-is-reshaping-domain-strategy-and-digital-trust": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-28T20:09:21.012Z",
+        "message_id": "18035876516656992",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-28T20:09:33.273Z",
+        "message_id": "18116843350952065",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
