@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-09-27",
-  "created_at": "2026-09-27T10:34:10.090Z",
-  "source_feed_updated_at": "2026-09-27T10:34:06.667Z",
+  "queue_date": "2026-09-28",
+  "created_at": "2026-09-28T07:01:27.917Z",
+  "source_feed_updated_at": "2026-09-28T07:01:27.821Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
@@ -25,7 +25,7 @@
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-27T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-28T05:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-09-26T09:53:27.476Z"
@@ -43,7 +43,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-creativebloq-com-design-design-software-adobe-max-2026s-lineup-tells-u-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-creativebloq-com-design-design-software-adobe-max-2026s-lineup-tells-u-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -53,62 +53,13 @@
       }
     },
     {
-      "story_id": "https://www.creativebloq.com/design/canva-adds-1000-new-monotype-fonts-for-global-creatives",
-      "source_url": "https://www.creativebloq.com/design/canva-adds-1000-new-monotype-fonts-for-global-creatives",
-      "headline": "Canva adds 1000+ new Monotype fonts for global creatives",
-      "summary": "It’s not just about language support; it’s about choice.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/BxXJfwkY5E7XYkxQvMBi89-2000-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/BxXJfwkY5E7XYkxQvMBi89-2000-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 2000,
-        "height": 1000,
-        "aspectRatio": 2,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=canva-adds-1000-new-monotype-fonts-for-global-creatives",
-      "detected_partner": "canva",
-      "product_url": "/go/canva.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-27T07:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-25T12:17:43.406Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-25T12:46:12.301Z",
-        "message_id": "17908953204509542"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-27/Canva-adds-1000-new-Monotype-fonts-for-global-creatives-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-creativebloq-com-design-canva-adds-1000-new-monotype-fonts-for-global--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.creativebloq.com/design/we-have-the-kind-of-stuff-ai-wishes-it-could-make-why-trust-is-more-important-than-ever-for-the-nasa-brand",
-      "source_url": "https://www.creativebloq.com/design/we-have-the-kind-of-stuff-ai-wishes-it-could-make-why-trust-is-more-important-than-ever-for-the-nasa-brand",
-      "headline": "\"We have the kind of stuff AI wishes it could make\": Why trust is more important than ever for the NASA brand",
-      "summary": "We talk to NASA creative director David Rager about the space agency's branding.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/7U2hdcGUCJhHVqMbZdHGg6-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/7U2hdcGUCJhHVqMbZdHGg6-1920-80.jpg",
+      "story_id": "https://www.techradar.com/pro/quote-of-the-day-by-legendary-computer-scientist-geoffrey-hinton-if-we-dont-figure-out-how-to-make-it-safe-theres-a-real-possibility-it-could-destroy-us-a-stark-alarm-on-the-existential-risks-of-ai",
+      "source_url": "https://www.techradar.com/pro/quote-of-the-day-by-legendary-computer-scientist-geoffrey-hinton-if-we-dont-figure-out-how-to-make-it-safe-theres-a-real-possibility-it-could-destroy-us-a-stark-alarm-on-the-existential-risks-of-ai",
+      "headline": "Quote of the day by Geoffrey Hinton: \"If we don't figure out how to make it safe, there's a real possibility it could destroy us\"",
+      "summary": "Many consider the risks of AI to be the stuff of sci-fi nightmares, but scientists can't entirely rule out a doomsday scenario",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ACbxGEYbVdvFqWgH6Azu7k-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ACbxGEYbVdvFqWgH6Azu7k-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -118,317 +69,257 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=we-have-the-kind-of-stuff-ai-wishes-it-could-make-why-trust-is-more-important-than-ever-fo",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=quote-of-the-day-by-geoffrey-hinton-if-we-dont-figure-out-how-to-make-it-safe-theres-a-rea",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T09:20:00.000Z",
+      "scheduled_publish_at": "2026-09-28T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-27T10:34:42.966Z",
-        "message_id": 484,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-27T10:36:18.204Z",
-        "message_id": "18134075452656795",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-creativebloq-com-design-we-have-the-kind-of-stuff-ai-wishes-it-could-m-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-quote-of-the-day-by-legendary-computer-scientist-geo-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-27T10:36:27.697Z",
-        "message_id": "18182337181420584",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3244667/through-october-4-you-can-get-these-20-ai-models-for-life-for-just-55.html",
-      "source_url": "https://www.macworld.com/article/3244667/through-october-4-you-can-get-these-20-ai-models-for-life-for-just-55.html",
-      "headline": "Through October 4, you can get these 20+ AI models for life for just $55",
-      "summary": "Macworld TL;DR: ChatPlayground AI gives you 20+ popular AI models, and a lifetime subscription is only $55 through October 4. Most people who use AI end up paying for two or three chatbots at once. Most AI subscriptions are about $20 per month, so the cost adds up really fast, but that’s also not yo",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3244667-0-55194700-1790496085-ChatPlayground_c83171.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3244667-0-55194700-1790496085-ChatPlayground_c83171.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "headline": "Engram is a sampler that turns broken AI hallucinations into music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, a",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=3.0945578231293%2C0%2C93.810884353741%2C100&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=3.0945578231293%2C0%2C93.810884353741%2C100&w=1200",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
+        "width": 1198,
+        "height": 633,
+        "aspectRatio": 1.8925750394944707,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=through-october-4-you-can-get-these-20-ai-models-for-life-for-just-55",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T11:20:00.000Z",
+      "scheduled_publish_at": "2026-09-28T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-27T15:40:30.539Z",
-        "message_id": 485,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-27T12:27:56.404Z",
-        "message_id": "18134032081661755",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-macworld-com-article-3244667-through-october-4-you-can-get-these-20-ai-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-theverge-com-ai-artificial-intelligence-1001193-engram-sampler-ai-hall-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-27T12:28:04.714Z",
-        "message_id": "17921312214447178",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/over-half-of-uk-firms-say-an-ai-agent-has-gone-rogue-on-them-and-affected-their-business-or-their-customers",
-      "source_url": "https://www.techradar.com/pro/over-half-of-uk-firms-say-an-ai-agent-has-gone-rogue-on-them-and-affected-their-business-or-their-customers",
-      "headline": "Over half of UK firms say an AI agent has gone rogue on them",
-      "summary": "Businesses are struggling to effectively control their AI agents, with over half of British companies admitting to at least one breach of business policy by an automated system.",
-      "source_name": "and affected their business or their customers",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qKKtmFjSZtfjvQ9BGRm6zU-2560-80.jpeg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/qKKtmFjSZtfjvQ9BGRm6zU-2560-80.jpeg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=over-half-of-uk-firms-say-an-ai-agent-has-gone-rogue-on-them",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-27T19:37:42.830Z",
-        "message_id": 486,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-27T15:41:15.900Z",
-        "message_id": "18107521369919906",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-techradar-com-pro-over-half-of-uk-firms-say-an-ai-agent-has-gone-rogue-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-27T15:41:23.156Z",
-        "message_id": "18115190788958029",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "headline": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "story_id": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source_url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "headline": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
       "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
+        "height": 799,
+        "aspectRatio": 1.5018773466833542,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=can-muse-overcome-metas-trust-issues",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-28T11:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-27T22:34:51.849Z",
-        "message_id": 487,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-27T17:12:04.977Z",
-        "message_id": "17895521652411615",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-techcrunch-com-2026-09-26-google-tests-buying-from-walmart-owned-flipkart--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-techcrunch-com-2026-09-27-can-muse-overcome-metas-trust-issues--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-27T17:12:14.955Z",
-        "message_id": "18366762364245309",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/google-is-launching-its-ai-chips-into-space-project-suncatcher-mvp-sports-four-tpus-and-will-be-delivered-by-a-spacex-rocket",
-      "source_url": "https://www.techradar.com/pro/google-is-launching-its-ai-chips-into-space-project-suncatcher-mvp-sports-four-tpus-and-will-be-delivered-by-a-spacex-rocket",
-      "headline": "Google is launching its AI chips into space — Project Suncatcher MVP sports four TPUs and will be delivered by a SpaceX rocket",
-      "summary": "Google will launch an experimental satellite carrying four TPUs to test whether AI hardware can withstand space before scaling orbital infrastructure.",
+      "story_id": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+      "source_url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+      "headline": "An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
+      "summary": "ASUS's ET900N G3 workstation delivers data center-level AI performance, running dozens of agents at once for roughly $120,000.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/kBCxRcESAsdcnfozAAUAoN-1440-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/kBCxRcESAsdcnfozAAUAoN-1440-80.png",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/SscwojFNxXvpqPJ9d2ohmj-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/SscwojFNxXvpqPJ9d2ohmj-1920-80.png",
       "image_validation": {
         "valid": true,
-        "width": 1440,
-        "height": 810,
+        "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-is-launching-its-ai-chips-into-space-project-suncatcher-mvp-sports-four-tpus-and-wi",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-re",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T17:20:00.000Z",
+      "scheduled_publish_at": "2026-09-28T13:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-27T23:55:58.479Z",
-        "message_id": 488,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-27T20:09:25.841Z",
-        "message_id": "18371238025243136",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-techradar-com-pro-google-is-launching-its-ai-chips-into-space-project--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "failed",
-        "attempted_at": "2026-09-27T20:09:30.245Z",
-        "classification": "instagram-api-error",
-        "message": "Media ID is not available"
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "source_url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "headline": "Insurers claim AI is already increasing healthcare costs",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+      "story_id": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/",
+      "source_url": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/",
+      "headline": "Bill Gates says it's 'completely irresponsible' for AI to not have safeguards",
+      "summary": "The Microsoft co-founder said that the more present danger is bad actors with access to AI tools.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/bill-gates-says-its-completely-irresponsible-for-ai-to-not-have-safeguards/l-intro-1790535130.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/bill-gates-says-its-completely-irresponsible-for-ai-to-not-have-safeguards/l-intro-1790535130.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=bill-gates-says-its-completely-irresponsible-for-ai-to-not-have-safeguards",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-28T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-engadget-com-2270166-bill-gates-says-that-its-completely-irresponsible-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "headline": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government s",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0%2C10.736911387474%2C100%2C78.526177225052&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0%2C10.736911387474%2C100%2C78.526177225052&w=1200",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 612,
-        "aspectRatio": 1.9607843137254901,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
         "instagramCompatible": false
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=insurers-claim-ai-is-already-increasing-healthcare-costs",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-agents-tried-to-bruteforce-a-un-website",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-28T17:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-28T01:13:15.603Z",
-        "message_id": 489,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-27T23:03:06.543Z",
-        "message_id": "17932603851400492",
-        "media_kind": "fallback-card"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-27/Insurers-claim-AI-is-already-increasing-healthcare-costs-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-techcrunch-com-2026-09-26-insurers-claim-ai-is-already-increasing-healthca-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-09-28/OpenAI-agents-tried-to-bruteforce-a-UN-website-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-theverge-com-ai-artificial-intelligence-1001178-openai-agents-brutefor-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -436,36 +327,30 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-27T23:03:15.590Z",
-        "message_id": "17921206041220875",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/pixelmob-portable-ai-workstation-review",
-      "source_url": "https://www.techradar.com/pro/pixelmob-portable-ai-workstation-review",
-      "headline": "PixelMob Portable AI Workstation review",
-      "summary": "The PixelMob is a portable workstation for photographers, videographers and creators with storage, AI file management, editing, monitoring and tethered shooting.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/QUyEw7s5CxSF7ZJRTR8tnX-1200-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/QUyEw7s5CxSF7ZJRTR8tnX-1200-80.jpg",
+      "story_id": "https://www.techradar.com/pro/security/i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds-then-apologized-for-doing-so",
+      "source_url": "https://www.techradar.com/pro/security/i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds-then-apologized-for-doing-so",
+      "headline": "'I broke something': A Claude Code AI agent deleted 48,000 files in just over 100 seconds",
+      "summary": "A developer had an AI agent run 11 tasks. One messed up dearly.",
+      "source_name": "then apologized for doing so",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/MZeWJhJjT34M4nQvMMX7fg-1376-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MZeWJhJjT34M4nQvMMX7fg-1376-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 675,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1376,
+        "height": 768,
+        "aspectRatio": 1.7916666666666667,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=pixelmob-portable-ai-workstation-review",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-28T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -474,53 +359,91 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-28T01:39:38.701Z",
-        "message_id": "18194630638393586",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-techradar-com-pro-pixelmob-portable-ai-workstation-review-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-security-i-broke-something-a-claude-code-ai-agent-de-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "failed",
-        "attempted_at": "2026-09-28T01:40:09.040Z",
-        "classification": "instagram-api-error",
-        "message": "The image format is not supported."
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/hospital-ai-use-is-causing-medical-bills-to-soar-with-blue-cross-estimating-usd1-billion-in-extra-insurance-costs",
-      "source_url": "https://www.techradar.com/pro/hospital-ai-use-is-causing-medical-bills-to-soar-with-blue-cross-estimating-usd1-billion-in-extra-insurance-costs",
-      "headline": "Hospital AI use is causing medical bills to soar, with Blue Cross estimating $1 billion in extra insurance costs",
-      "summary": "Hospital AI tools are diagnosing more ailments, pushing insurance payouts higher, but insurers are fighting back.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/UmHF7DXtKcHFx3arFJ9Ewh-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/UmHF7DXtKcHFx3arFJ9Ewh-2560-80.jpg",
+      "story_id": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source_url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "headline": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
+      "summary": "the company or product is highlighted in a current technology report.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
+        "width": 1200,
+        "height": 603,
+        "aspectRatio": 1.9900497512437811,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-and-8217-s-dario-amodei-gets-the-snl-treatment",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-28T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-28/Anthropic-8217-s-Dario-Amodei-gets-the-SNL-treatment-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-techcrunch-com-2026-09-27-anthropics-dario-amodei-gets-the-snl-treatment--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/",
+      "source_url": "https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/",
+      "headline": "How to use Spotify's Running Mode on iOS and Android",
+      "summary": "Maximize your stride with Spotify's AI-powered running features.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/how-to-use-spotify-running-mode-ios-android-guide/l-intro-1790266956.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/how-to-use-spotify-running-mode-ios-android-guide/l-intro-1790266956.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 900,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hospital-ai-use-is-causing-medical-bills-to-soar-with-blue-cross-estimating-1-billion-in-e",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-use-spotifys-running-mode-on-ios-and-android",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-27T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-28T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -536,7 +459,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-27/https-www-techradar-com-pro-hospital-ai-use-is-causing-medical-bills-to-soar-wit-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-engadget-com-2267524-how-to-use-spotify-running-mode-ios-android-guide-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

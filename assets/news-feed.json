@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T10:34:06.667Z",
+  "updatedAt": "2026-09-28T07:01:27.821Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -27,103 +27,103 @@
       "image": "https://cdn.mos.cms.futurecdn.net/yKBFcArtA44UhYWZb4eXtL-1120-80.jpg"
     },
     {
-      "tool": "canva",
-      "toolName": "Canva AI",
-      "category": "Partner watch",
-      "title": "Canva adds 1000+ new Monotype fonts for global creatives",
-      "summary": "It’s not just about language support; it’s about choice.",
-      "guide": "/partners/canva.html",
-      "source": "https://www.creativebloq.com/design/canva-adds-1000-new-monotype-fonts-for-global-creatives",
-      "publishedAt": "2026-09-24T14:14:14.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/BxXJfwkY5E7XYkxQvMBi89-2000-80.png"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Quote of the day by Geoffrey Hinton: \"If we don't figure out how to make it safe, there's a real possibility it could destroy us\"",
+      "summary": "Many consider the risks of AI to be the stuff of sci-fi nightmares, but scientists can't entirely rule out a doomsday scenario",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/quote-of-the-day-by-legendary-computer-scientist-geoffrey-hinton-if-we-dont-figure-out-how-to-make-it-safe-theres-a-real-possibility-it-could-destroy-us-a-stark-alarm-on-the-existential-risks-of-ai",
+      "publishedAt": "2026-09-27T22:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ACbxGEYbVdvFqWgH6Azu7k-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "\"We have the kind of stuff AI wishes it could make\": Why trust is more important than ever for the NASA brand",
-      "summary": "We talk to NASA creative director David Rager about the space agency's branding.",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, a",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/design/we-have-the-kind-of-stuff-ai-wishes-it-could-make-why-trust-is-more-important-than-ever-for-the-nasa-brand",
-      "publishedAt": "2026-09-27T09:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7U2hdcGUCJhHVqMbZdHGg6-1920-80.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "publishedAt": "2026-09-27T20:46:36.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=3.0945578231293%2C0%2C93.810884353741%2C100&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Through October 4, you can get these 20+ AI models for life for just $55",
-      "summary": "Macworld TL;DR: ChatPlayground AI gives you 20+ popular AI models, and a lifetime subscription is only $55 through October 4. Most people who use AI end up paying for two or three chatbots at once. Most AI subscriptions are about $20 per month, so the cost adds up really fast, but that’s also not yo",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3244667/through-october-4-you-can-get-these-20-ai-models-for-life-for-just-55.html",
-      "publishedAt": "2026-09-27T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3244667-0-55194700-1790496085-ChatPlayground_c83171.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "publishedAt": "2026-09-27T19:57:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Over half of UK firms say an AI agent has gone rogue on them — and affected their business or their customers",
-      "summary": "Businesses are struggling to effectively control their AI agents, with over half of British companies admitting to at least one breach of business policy by an automated system.",
+      "title": "An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
+      "summary": "ASUS's ET900N G3 workstation delivers data center-level AI performance, running dozens of agents at once for roughly $120,000.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/over-half-of-uk-firms-say-an-ai-agent-has-gone-rogue-on-them-and-affected-their-business-or-their-customers",
-      "publishedAt": "2026-09-27T06:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qKKtmFjSZtfjvQ9BGRm6zU-2560-80.jpeg"
+      "source": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+      "publishedAt": "2026-09-27T19:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/SscwojFNxXvpqPJ9d2ohmj-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "title": "Bill Gates says it's 'completely irresponsible' for AI to not have safeguards",
+      "summary": "The Microsoft co-founder said that the more present danger is bad actors with access to AI tools.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "publishedAt": "2026-09-27T01:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800"
+      "source": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/",
+      "publishedAt": "2026-09-27T19:12:29.000Z",
+      "image": "https://www.engadget.com/img/gallery/bill-gates-says-its-completely-irresponsible-for-ai-to-not-have-safeguards/l-intro-1790535130.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Google is launching its AI chips into space — Project Suncatcher MVP sports four TPUs and will be delivered by a SpaceX rocket",
-      "summary": "Google will launch an experimental satellite carrying four TPUs to test whether AI hardware can withstand space before scaling orbital infrastructure.",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government s",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/google-is-launching-its-ai-chips-into-space-project-suncatcher-mvp-sports-four-tpus-and-will-be-delivered-by-a-spacex-rocket",
-      "publishedAt": "2026-09-27T00:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/kBCxRcESAsdcnfozAAUAoN-1440-80.png"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "publishedAt": "2026-09-27T17:21:07.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0%2C10.736911387474%2C100%2C78.526177225052&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "title": "'I broke something': A Claude Code AI agent deleted 48,000 files in just over 100 seconds — then apologized for doing so",
+      "summary": "A developer had an AI agent run 11 tasks. One messed up dearly.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "publishedAt": "2026-09-26T21:02:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612"
+      "source": "https://www.techradar.com/pro/security/i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds-then-apologized-for-doing-so",
+      "publishedAt": "2026-09-27T17:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MZeWJhJjT34M4nQvMMX7fg-1376-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "PixelMob Portable AI Workstation review",
-      "summary": "The PixelMob is a portable workstation for photographers, videographers and creators with storage, AI file management, editing, monitoring and tethered shooting.",
+      "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/pixelmob-portable-ai-workstation-review",
-      "publishedAt": "2026-09-26T16:25:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/QUyEw7s5CxSF7ZJRTR8tnX-1200-80.jpg"
+      "source": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "publishedAt": "2026-09-27T16:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Hospital AI use is causing medical bills to soar, with Blue Cross estimating $1 billion in extra insurance costs",
-      "summary": "Hospital AI tools are diagnosing more ailments, pushing insurance payouts higher, but insurers are fighting back.",
+      "title": "How to use Spotify's Running Mode on iOS and Android",
+      "summary": "Maximize your stride with Spotify's AI-powered running features.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/hospital-ai-use-is-causing-medical-bills-to-soar-with-blue-cross-estimating-usd1-billion-in-extra-insurance-costs",
-      "publishedAt": "2026-09-26T15:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/UmHF7DXtKcHFx3arFJ9Ewh-2560-80.jpg"
+      "source": "https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/",
+      "publishedAt": "2026-09-27T15:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-spotify-running-mode-ios-android-guide/l-intro-1790266956.jpg"
     }
   ]
 }
