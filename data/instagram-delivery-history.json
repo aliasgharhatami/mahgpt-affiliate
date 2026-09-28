@@ -2874,6 +2874,20 @@
         "message_id": "18491537296103891",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-28T15:59:04.665Z",
+        "message_id": "18070670156733395",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-28T15:59:14.369Z",
+        "message_id": "18120925330878322",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
