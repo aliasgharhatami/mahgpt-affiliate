@@ -4403,6 +4403,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/organizations-must-rethink-skills-to-realize-ai-roi": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-29T13:55:20.357Z",
+        "message_id": 495,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
