@@ -4454,6 +4454,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/1659017/ios-versions-list.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-29T21:31:34.928Z",
+        "message_id": 498,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
