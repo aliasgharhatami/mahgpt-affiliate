@@ -4369,6 +4369,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-29T01:01:32.187Z",
+        "message_id": 493,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
