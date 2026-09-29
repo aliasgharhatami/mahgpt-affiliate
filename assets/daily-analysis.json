@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T11:42:25.331Z",
-  "analysis_date": "2026-09-28",
+  "generated_at": "2026-09-29T11:23:03.753Z",
+  "analysis_date": "2026-09-29",
   "stories": [
     {
-      "title": "Adobe Max 2026's lineup tells us a lot about the company's AI priorities right now",
-      "source": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
-      "mahgpt_url": "/news/story.html?id=adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now"
+      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+      "source": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+      "mahgpt_url": "/news/story.html?id=timnit-gebru-believes-there-is-no-existential-threat-from-ai"
     },
     {
-      "title": "The US government plans to use AI to help redact documents",
-      "source": "https://www.engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents/",
-      "mahgpt_url": "/news/story.html?id=the-us-government-plans-to-use-ai-to-help-redact-documents"
+      "title": "Organizations must rethink skills to realize AI ROI",
+      "source": "https://www.techradar.com/pro/organizations-must-rethink-skills-to-realize-ai-roi",
+      "mahgpt_url": "/news/story.html?id=organizations-must-rethink-skills-to-realize-ai-roi"
     },
     {
-      "title": "Viral AI animation sparks controversy over familiar character design",
-      "source": "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design",
-      "mahgpt_url": "/news/story.html?id=viral-ai-animation-sparks-controversy-over-familiar-character-design"
+      "title": "Anthropic lost $8 billion last year and said its AI could destroy humanity",
+      "source": "https://www.engadget.com/2271659/anthropic-lost-8-billion-says-it-could-destroy-humanity/",
+      "mahgpt_url": "/news/story.html?id=anthropic-lost-8-billion-last-year-and-said-its-ai-could-destroy-humanity"
     },
     {
-      "title": "How AI is reshaping domain strategy and digital trust",
-      "source": "https://www.techradar.com/pro/how-ai-is-reshaping-domain-strategy-and-digital-trust",
-      "mahgpt_url": "/news/story.html?id=how-ai-is-reshaping-domain-strategy-and-digital-trust"
+      "title": "The regulatory readiness problem hiding in plain sight",
+      "source": "https://www.techradar.com/pro/the-regulatory-readiness-problem-hiding-in-plain-sight",
+      "mahgpt_url": "/news/story.html?id=the-regulatory-readiness-problem-hiding-in-plain-sight"
     },
     {
-      "title": "Every new Apple product coming in 2026 & 2027",
-      "source": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
-      "mahgpt_url": "/news/story.html?id=every-new-apple-product-coming-in-2026-and-2027"
+      "title": "iOS versions: Explore every iOS version from day one to today",
+      "source": "https://www.macworld.com/article/1659017/ios-versions-list.html",
+      "mahgpt_url": "/news/story.html?id=ios-versions-explore-every-ios-version-from-day-one-to-today"
     },
     {
-      "title": "Social media is becoming cybercriminals’ most powerful attack vector",
-      "source": "https://www.techradar.com/pro/social-media-is-becoming-cybercriminals-most-powerful-attack-vector",
-      "mahgpt_url": "/news/story.html?id=social-media-is-becoming-cybercriminals-most-powerful-attack-vector"
+      "title": "2026 iPad mini: Release date, OLED display, A20 Pro, price and latest rumors",
+      "source": "https://www.macworld.com/article/3060022/2026-ipad-mini-design-display-features-specs-release-date.html",
+      "mahgpt_url": "/news/story.html?id=2026-ipad-mini-release-date-oled-display-a20-pro-price-and-latest-rumors"
     },
     {
-      "title": "Are your bosses holding back AI knowledge from you? New study suggests top-heavy balance in many firms is hurting workers",
-      "source": "https://www.techradar.com/pro/are-your-bosses-holding-back-ai-knowledge-from-you-new-study-suggests-top-heavy-balance-in-many-firms-is-hurting-workers",
-      "mahgpt_url": "/news/story.html?id=are-your-bosses-holding-back-ai-knowledge-from-you-new-study-suggests-top-heavy-balance-in"
+      "title": "iOS 27: What’s new, what’s in the latest beta and what’s coming next",
+      "source": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
+      "mahgpt_url": "/news/story.html?id=ios-27-whats-new-whats-in-the-latest-beta-and-whats-coming-next"
     },
     {
-      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-      "source": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "mahgpt_url": "/news/story.html?id=ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it"
+      "title": "The AI advantage is moving beyond the model",
+      "source": "https://www.techradar.com/pro/the-ai-advantage-is-moving-beyond-the-model",
+      "mahgpt_url": "/news/story.html?id=the-ai-advantage-is-moving-beyond-the-model"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-09-28.html"
+      "path": "news/analysis/2026-09-29.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-09-28.html"
+      "path": "es/news/analysis/2026-09-29.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-09-28.html"
+      "path": "de/news/analysis/2026-09-29.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-09-28.html"
+      "path": "fr/news/analysis/2026-09-29.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-09-28.html"
+      "path": "pt-BR/news/analysis/2026-09-29.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-09-28.html"
+      "path": "ar/news/analysis/2026-09-29.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-09-28.html"
+      "path": "fa/news/analysis/2026-09-29.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-09-28.html"
+      "path": "tr/news/analysis/2026-09-29.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-09-28.html"
+      "path": "it/news/analysis/2026-09-29.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-09-28.html"
+      "path": "ja/news/analysis/2026-09-29.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-09-28.html"
+      "path": "ko/news/analysis/2026-09-29.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-09-28.html"
+      "path": "id/news/analysis/2026-09-29.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-09-28.html"
+      "path": "hi/news/analysis/2026-09-29.html"
     }
   ]
 }

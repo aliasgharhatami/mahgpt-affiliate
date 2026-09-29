@@ -1,49 +1,370 @@
 {
   "version": 1,
   "queue_date": "2026-09-29",
-  "created_at": "2026-09-29T06:56:52.247Z",
-  "source_feed_updated_at": "2026-09-29T06:56:52.085Z",
+  "created_at": "2026-09-29T11:22:56.385Z",
+  "source_feed_updated_at": "2026-09-29T11:22:52.050Z",
   "items": [
     {
-      "story_id": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
-      "source_url": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
-      "headline": "Adobe Max 2026's lineup tells us a lot about the company's AI priorities right now",
-      "summary": "It's selling AI hard, but not necessary to you.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/yKBFcArtA44UhYWZb4eXtL-1120-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/yKBFcArtA44UhYWZb4eXtL-1120-80.jpg",
+      "story_id": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+      "source_url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+      "headline": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+      "summary": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6ab58bd8630fd3fdf523eab4/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Timnit-Gebru-2266305419-Business.jpg",
+      "image_url": "https://media.wired.com/photos/6ab58bd8630fd3fdf523eab4/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Timnit-Gebru-2266305419-Business.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1120,
-        "height": 630,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
       },
       "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
-      "detected_partner": "adobe",
-      "product_url": "https://www.adobe.com/products/firefly.html",
-      "affiliate_status": "none",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=timnit-gebru-believes-there-is-no-existential-threat-from-ai",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
       "scheduled_publish_at": "2026-09-29T05:20:00.000Z",
       "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-26T09:53:27.476Z"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-26T13:48:52.631Z",
-        "message_id": "18127185394819610"
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-29/Timnit-Gebru-Believes-There-Is-No-Existential-Threat-From-AI-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-wired-com-story-the-big-interview-podcast-timnit-gebru--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/organizations-must-rethink-skills-to-realize-ai-roi",
+      "source_url": "https://www.techradar.com/pro/organizations-must-rethink-skills-to-realize-ai-roi",
+      "headline": "Organizations must rethink skills to realize AI ROI",
+      "summary": "As AI reshapes roles, Tungsten's Adam Field explains why job descriptions and skills need a rethink.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=organizations-must-rethink-skills-to-realize-ai-roi",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-29T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-creativebloq-com-design-design-software-adobe-max-2026s-lineup-tells-u-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-pro-organizations-must-rethink-skills-to-realize-ai-roi-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2271659/anthropic-lost-8-billion-says-it-could-destroy-humanity/",
+      "source_url": "https://www.engadget.com/2271659/anthropic-lost-8-billion-says-it-could-destroy-humanity/",
+      "headline": "Anthropic lost $8 billion last year and said its AI could destroy humanity",
+      "summary": "Despite a $2 trillion valuation ahead of its IPO, Anthropic hasn't been a money-spinning operation so far.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/anthropic-lost-8-billion-last-year-and-said-its-ai-could-destroy-humanity/l-intro-1790675754.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/anthropic-lost-8-billion-last-year-and-said-its-ai-could-destroy-humanity/l-intro-1790675754.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-lost-8-billion-last-year-and-said-its-ai-could-destroy-humanity",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-29T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-engadget-com-2271659-anthropic-lost-8-billion-says-it-could-destroy-hu-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/the-regulatory-readiness-problem-hiding-in-plain-sight",
+      "source_url": "https://www.techradar.com/pro/the-regulatory-readiness-problem-hiding-in-plain-sight",
+      "headline": "The regulatory readiness problem hiding in plain sight",
+      "summary": "Organizations must connect AI risk, review and evidence to demonstrate effective regulatory oversight.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-regulatory-readiness-problem-hiding-in-plain-sight",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-29T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-pro-the-regulatory-readiness-problem-hiding-in-plain-sig-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/1659017/ios-versions-list.html",
+      "source_url": "https://www.macworld.com/article/1659017/ios-versions-list.html",
+      "headline": "iOS versions: Explore every iOS version from day one to today",
+      "summary": "Macworld Since the launch of the original iPhone in 2007, Apple has released dozens of versions of iOS, introducing new features, design changes, performance improvements, security updates and more. From the early days of iPhone OS through landmark releases such as iOS 7, iOS 14 and the current iOS",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/1659017-0-36006000-1790674510-All-the-iOS-versions-.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/1659017-0-36006000-1790674510-All-the-iOS-versions-.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ios-versions-explore-every-ios-version-from-day-one-to-today",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-29T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-macworld-com-article-1659017-ios-versions-list-html-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3060022/2026-ipad-mini-design-display-features-specs-release-date.html",
+      "source_url": "https://www.macworld.com/article/3060022/2026-ipad-mini-design-display-features-specs-release-date.html",
+      "headline": "2026 iPad mini: Release date, OLED display, A20 Pro, price and latest rumors",
+      "summary": "Macworld For those who need a premium small-screen tablet, the iPad mini is a popular choice. But should you buy one now, or should you wait to see what Apple has in store for the next model? Most buyers should wait – the next model is expected to bring meaningful upgrades. However, Apple isn’t expe",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3060022-0-18826200-1790672490-apple_ipad_mini_2021_review_12.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3060022-0-18826200-1790672490-apple_ipad_mini_2021_review_12.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 576,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=2026-ipad-mini-release-date-oled-display-a20-pro-price-and-latest-rumors",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-29T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-macworld-com-article-3060022-2026-ipad-mini-design-display-features-sp-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
+      "source_url": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
+      "headline": "iOS 27: What’s new, what’s in the latest beta and what’s coming next",
+      "summary": "Macworld Apple unveiled iOS 27 at WWDC on June 8, 2026, with the public release following on September 14. But more features are on the way, and the latest beta offers a preview of what’s coming next. iOS 27 mainly focuses on three key areas: Siri AI, a rebuilt assistant with its own dedicated app;",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/2986799-0-09412400-1790671840-ios-27-.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/2986799-0-09412400-1790671840-ios-27-.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 576,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ios-27-whats-new-whats-in-the-latest-beta-and-whats-coming-next",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-29T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-macworld-com-article-2986799-ios-27-features-compatiblity-siri-ai-upda-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/the-ai-advantage-is-moving-beyond-the-model",
+      "source_url": "https://www.techradar.com/pro/the-ai-advantage-is-moving-beyond-the-model",
+      "headline": "The AI advantage is moving beyond the model",
+      "summary": "Why the future of enterprise AI will be won not by the model, but by the ecosystem surrounding it.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-advantage-is-moving-beyond-the-model",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-29T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-pro-the-ai-advantage-is-moving-beyond-the-model-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -73,7 +394,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-29T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -84,8 +405,7 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-29T07:26:45.527Z",
-        "message_id": "18044832401821262",
-        "media_kind": "source"
+        "message_id": "18044832401821262"
       },
       "x": {
         "status": "pending"
@@ -99,12 +419,6 @@
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-29T07:26:55.924Z",
-        "message_id": "17983947600115717",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -128,329 +442,6 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T09:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-pro-microsoft-unveils-new-copilot-which-promises-to-help-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "source_url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "headline": "OpenAI reportedly ditches model over safety concerns",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-reportedly-ditches-model-over-safety-concerns",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T11:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-techcrunch-com-2026-09-28-openai-reportedly-ditches-model-over-safety-conc-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "source_url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "headline": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commerci",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 623,
-        "aspectRatio": 1.926163723916533,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=amd-is-acquiring-ai-company-world-labs-in-a-deal-worth-more-than-8-billion",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T13:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-29/AMD-is-acquiring-AI-company-World-Labs-in-a-deal-worth-more-than-8-billion-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-theverge-com-tech-1001749-amd-world-labs-ai-acquisition-deal-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "source_url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "headline": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 831,
-        "aspectRatio": 1.444043321299639,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-techcrunch-com-2026-09-28-source-inference-provider-modal-labs-closing-in--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "source_url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "headline": "Shopify opens checkout to browser-based AI agents",
-      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=shopify-opens-checkout-to-browser-based-ai-agents",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-techcrunch-com-2026-09-28-shopify-opens-checkout-to-browser-based-ai-agent-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "source_url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "headline": "The AI boom took over Climate Week and not everyone is happy about it",
-      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1126706015.jpg?resize=1200,856",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1126706015.jpg?resize=1200,856",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 856,
-        "aspectRatio": 1.4018691588785046,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-techcrunch-com-2026-09-28-the-ai-boom-took-over-climate-week-and-not-every-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/europe-and-uae-plan-usd1-billion-orbital-data-center-with-50-connected-computers-and-a-central-llm-store-that-allows-users-to-select-what-open-source-model-to-use-on-data-collected-by-satellite-sensors",
-      "source_url": "https://www.techradar.com/pro/europe-and-uae-plan-usd1-billion-orbital-data-center-with-50-connected-computers-and-a-central-llm-store-that-allows-users-to-select-what-open-source-model-to-use-on-data-collected-by-satellite-sensors",
-      "headline": "Europe and UAE plan $1 billion orbital data center with 50 connected \"computers\" and a central \"LLM store\" that allows users to select what open source model to use on data collected by satellite sensors",
-      "summary": "A UAE-financed, France-anchored consortium plans to launch 50 AI-equipped Earth observation satellites and build an in-orbit model marketplace.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/U8EMRgNDt3a9Cv8iNUaaNE-1920-80.jpeg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/U8EMRgNDt3a9Cv8iNUaaNE-1920-80.jpeg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=europe-and-uae-plan-1-billion-orbital-data-center-with-50-connected-computers-and-a-centra",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-pro-europe-and-uae-plan-usd1-billion-orbital-data-center-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
-      "source_url": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
-      "headline": "Anker unveils Eufy S4 video doorbell with VR viewing and AI tracking",
-      "summary": "With 180-degree viewing field, AI tracking, and subject framing, there's nothing the Eufy S4 video doorbell can't do.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/wwC6ffF39gHuESyvznR274-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/wwC6ffF39gHuESyvznR274-2000-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2000,
-        "height": 1125,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anker-unveils-eufy-s4-video-doorbell-with-vr-viewing-and-ai-tracking",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
       "scheduled_publish_at": "2026-09-29T23:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -467,7 +458,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-home-home-security-ankers-launches-worlds-first-video-do-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-pro-microsoft-unveils-new-copilot-which-promises-to-help-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
