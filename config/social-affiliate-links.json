@@ -15,8 +15,10 @@
     "redirectPath": "/go/descript.html"
   },
   "invideo": {
-    "status": "none",
-    "officialUrl": "https://invideo.io/"
+    "status": "active",
+    "officialUrl": "https://invideo.io/",
+    "affiliateUrl": "https://invideo.sjv.io/c/7652874/883681/12258",
+    "redirectPath": "/go/invideo.html"
   },
   "hostinger": {
     "status": "none",
