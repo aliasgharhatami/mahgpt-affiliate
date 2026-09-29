@@ -2930,6 +2930,20 @@
         "message_id": "18114080699043092",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-29T07:26:45.527Z",
+        "message_id": "18044832401821262",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-29T07:26:55.924Z",
+        "message_id": "17983947600115717",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
