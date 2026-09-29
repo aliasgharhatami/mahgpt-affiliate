@@ -4386,6 +4386,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-29T11:23:34.688Z",
+        "message_id": 494,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
