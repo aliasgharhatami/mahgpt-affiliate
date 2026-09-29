@@ -3000,6 +3000,20 @@
         "message_id": "18153912175522506",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/1659017/ios-versions-list.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-29T21:32:08.771Z",
+        "message_id": "18166850719475789",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-29T21:32:18.738Z",
+        "message_id": "17873366298593828",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
