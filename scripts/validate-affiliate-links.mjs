@@ -59,6 +59,9 @@ for (const page of invideoPages) {
   }
   expect(/class="affiliate-brand"[^>]+href="\/go\/invideo\.html"/.test(html), `${page} must link in-body InVideo mentions through the protected route.`);
   expect(/id="invideo-v4-[^"]+"/.test(html), `${page} is missing the localized InVideo v4.0 feature section.`);
+  if (/<article class="wrap main">/.test(html)) {
+    expect(html.indexOf('class="affiliate-details"') > html.indexOf('<article class="wrap main">'), `${page} must place affiliate details in the article body, not the hero grid.`);
+  }
 }
 
 console.log("Affiliate link guard passed: Descript, SOUNDRAW, Pictory and InVideo redirects are intact across all supported locales.");

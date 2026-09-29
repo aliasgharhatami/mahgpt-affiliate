@@ -142,7 +142,12 @@ for (const locale of locales) {
   if (!html.includes('id="invideo-affiliate-styles"')) {
     html = html.replace("</head>", `<style id="invideo-affiliate-styles">.affiliate-brand{color:#3157c8!important;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px}.affiliate-details{margin:36px 0;padding:28px;border:1px solid #ded8f3;border-radius:10px;background:#f8f6ff}.affiliate-details h2{margin-top:0}.affiliate-details li{margin:.55em 0}.affiliate-cta{display:inline-block;background:#6547e8;color:#fff!important;padding:12px 18px;border-radius:6px;text-decoration:none;font-weight:800}.affiliate-disclosure{font-size:.86em;color:#697187}.official-source{font-size:.86em}.english-guide{display:inline-block;margin-inline-start:14px;color:#5d35d5;font-weight:700}</style></head>`);
   }
-  if (!html.includes(`id="invideo-v4-${locale}"`)) html = html.replace("</main>", `${details(locale)}</main>`);
+  html = html.replace(/<section class="affiliate-details"[\s\S]*?<\/section>/, "");
+  if (locale !== "en" && html.includes('<article class="wrap main">')) {
+    html = html.replace("</article>", `${details(locale)}</article>`);
+  } else {
+    html = html.replace("</main>", `${details(locale)}</main>`);
+  }
   html = linkBrandMentions(html);
 
   await writeFile(file, html);
