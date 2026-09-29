@@ -6,6 +6,7 @@ on:
       - 'partners/**'
       - 'config/locales.json'
       - 'scripts/generate-multilingual.mjs'
+      - 'scripts/activate-invideo-affiliate.mjs'
       - 'scripts/generate-higgsfield-pages.mjs'
       - 'scripts/validate-higgsfield-pages.mjs'
       - 'scripts/validate-multilingual.mjs'
