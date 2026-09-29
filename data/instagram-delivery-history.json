@@ -2944,6 +2944,20 @@
         "message_id": "17983947600115717",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-29T11:33:33.044Z",
+        "message_id": "18126211745504377",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-29T11:33:43.589Z",
+        "message_id": "18132942478673027",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
