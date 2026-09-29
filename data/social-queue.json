@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-09-28",
-  "created_at": "2026-09-28T11:42:19.013Z",
-  "source_feed_updated_at": "2026-09-28T11:42:15.051Z",
+  "queue_date": "2026-09-29",
+  "created_at": "2026-09-29T06:56:52.247Z",
+  "source_feed_updated_at": "2026-09-29T06:56:52.085Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
@@ -25,7 +25,7 @@
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-09-28T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-29T05:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-09-26T09:53:27.476Z"
@@ -43,7 +43,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-creativebloq-com-design-design-software-adobe-max-2026s-lineup-tells-u-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-creativebloq-com-design-design-software-adobe-max-2026s-lineup-tells-u-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -53,70 +53,336 @@
       }
     },
     {
-      "story_id": "https://www.engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents/",
-      "source_url": "https://www.engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents/",
-      "headline": "The US government plans to use AI to help redact documents",
-      "summary": "AI use for FOIA requests might result in even more information being withheld.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/the-us-government-plans-to-use-ai-to-help-redact-documents/l-intro-1790594639.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/the-us-government-plans-to-use-ai-to-help-redact-documents/l-intro-1790594639.jpg",
+      "story_id": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "source_url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "headline": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
+        "width": 1200,
+        "height": 675,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-us-government-plans-to-use-ai-to-help-redact-documents",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-and-8217-s-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-28T07:20:00.000Z",
+      "scheduled_publish_at": "2026-09-29T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-28T11:42:54.049Z",
-        "message_id": 490,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-28T11:46:53.743Z",
-        "message_id": "18118724516319260",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-engadget-com-2270348-the-us-government-plans-to-use-ai-to-help-redact--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-techcrunch-com-2026-09-28-anthropics-prospectus-details-losses-growth-and--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-28T11:47:01.752Z",
-        "message_id": "18491537296103891",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design",
-      "source_url": "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design",
-      "headline": "Viral AI animation sparks controversy over familiar character design",
-      "summary": "Artificial intelligence struggles with originality once again.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/zxY6jnnHDgAvHyFjMJYiSY-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/zxY6jnnHDgAvHyFjMJYiSY-1920-80.jpg",
+      "story_id": "https://www.techradar.com/pro/microsoft-unveils-new-copilot-which-promises-to-help-you-achieve-everything-you-ever-wanted-at-home-and-at-work",
+      "source_url": "https://www.techradar.com/pro/microsoft-unveils-new-copilot-which-promises-to-help-you-achieve-everything-you-ever-wanted-at-home-and-at-work",
+      "headline": "Microsoft says the 'new Copilot' promises to help you achieve everything you ever wanted at home and at work",
+      "summary": "Microsoft is rebuilding Copilot around delegated work, software creation and persistent AI agents, while introducing usage-based pricing for advanced capabilities.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/WbGpNcppHBJL6bUeoiazkG-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WbGpNcppHBJL6bUeoiazkG-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-says-the-new-copilot-promises-to-help-you-achieve-everything-you-ever-wanted-at-",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-29T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-pro-microsoft-unveils-new-copilot-which-promises-to-help-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "source_url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "headline": "OpenAI reportedly ditches model over safety concerns",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-reportedly-ditches-model-over-safety-concerns",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-29T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-techcrunch-com-2026-09-28-openai-reportedly-ditches-model-over-safety-conc-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "source_url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "headline": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commerci",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 623,
+        "aspectRatio": 1.926163723916533,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=amd-is-acquiring-ai-company-world-labs-in-a-deal-worth-more-than-8-billion",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-29T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-29/AMD-is-acquiring-AI-company-World-Labs-in-a-deal-worth-more-than-8-billion-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-theverge-com-tech-1001749-amd-world-labs-ai-acquisition-deal-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "source_url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "headline": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 831,
+        "aspectRatio": 1.444043321299639,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-29T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-techcrunch-com-2026-09-28-source-inference-provider-modal-labs-closing-in--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "source_url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "headline": "Shopify opens checkout to browser-based AI agents",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=shopify-opens-checkout-to-browser-based-ai-agents",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-29T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-techcrunch-com-2026-09-28-shopify-opens-checkout-to-browser-based-ai-agent-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "source_url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "headline": "The AI boom took over Climate Week and not everyone is happy about it",
+      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1126706015.jpg?resize=1200,856",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1126706015.jpg?resize=1200,856",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 856,
+        "aspectRatio": 1.4018691588785046,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-29T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-techcrunch-com-2026-09-28-the-ai-boom-took-over-climate-week-and-not-every-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/europe-and-uae-plan-usd1-billion-orbital-data-center-with-50-connected-computers-and-a-central-llm-store-that-allows-users-to-select-what-open-source-model-to-use-on-data-collected-by-satellite-sensors",
+      "source_url": "https://www.techradar.com/pro/europe-and-uae-plan-usd1-billion-orbital-data-center-with-50-connected-computers-and-a-central-llm-store-that-allows-users-to-select-what-open-source-model-to-use-on-data-collected-by-satellite-sensors",
+      "headline": "Europe and UAE plan $1 billion orbital data center with 50 connected \"computers\" and a central \"LLM store\" that allows users to select what open source model to use on data collected by satellite sensors",
+      "summary": "A UAE-financed, France-anchored consortium plans to launch 50 AI-equipped Earth observation satellites and build an in-orbit model marketplace.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/U8EMRgNDt3a9Cv8iNUaaNE-1920-80.jpeg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/U8EMRgNDt3a9Cv8iNUaaNE-1920-80.jpeg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -126,182 +392,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=viral-ai-animation-sparks-controversy-over-familiar-character-design",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=europe-and-uae-plan-1-billion-orbital-data-center-with-50-connected-computers-and-a-centra",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-28T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-28T15:29:55.604Z",
-        "message_id": 491,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-28T15:59:04.665Z",
-        "message_id": "18070670156733395",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-creativebloq-com-art-animation-viral-ai-animation-sparks-controversy-o-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-28T15:59:14.369Z",
-        "message_id": "18120925330878322",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/how-ai-is-reshaping-domain-strategy-and-digital-trust",
-      "source_url": "https://www.techradar.com/pro/how-ai-is-reshaping-domain-strategy-and-digital-trust",
-      "headline": "How AI is reshaping domain strategy and digital trust",
-      "summary": "AI is making online impersonation easier, pushing businesses to rethink domains as essential brand and trust assets.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-ai-is-reshaping-domain-strategy-and-digital-trust",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-28T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-28T20:08:16.946Z",
-        "message_id": 492,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-28T20:09:21.012Z",
-        "message_id": "18035876516656992",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-how-ai-is-reshaping-domain-strategy-and-digital-trus-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-28T20:09:33.273Z",
-        "message_id": "18116843350952065",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
-      "source_url": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
-      "headline": "Every new Apple product coming in 2026 & 2027",
-      "summary": "Macworld It’s been a huge year for Apple, with a wave of new products arriving during the first nine months of 2026. The year began with the MacBook Neo and iPhone 17e in March, followed by the new Mac mini and Mac Studio in August. September brought another major batch of launches at Apple’s “Surpr",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/671090-0-46028700-1790592176-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/671090-0-46028700-1790592176-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=every-new-apple-product-coming-in-2026-and-2027",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-28T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-29T01:01:32.187Z",
-        "message_id": 493,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-28T21:48:36.513Z",
-        "message_id": "18116621722889985",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-macworld-com-article-671090-new-apple-products-iphone-ipad-mac-watch-h-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-28T21:48:44.984Z",
-        "message_id": "17897760387670961",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/social-media-is-becoming-cybercriminals-most-powerful-attack-vector",
-      "source_url": "https://www.techradar.com/pro/social-media-is-becoming-cybercriminals-most-powerful-attack-vector",
-      "headline": "Social media is becoming cybercriminals’ most powerful attack vector",
-      "summary": "Cybercriminals are exploiting trusted brands online, while AI makes impersonation faster and harder to detect.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=social-media-is-becoming-cybercriminals-most-powerful-attack-vector",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-28T15:20:00.000Z",
+      "scheduled_publish_at": "2026-09-29T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -310,193 +405,44 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-29T01:03:05.059Z",
-        "message_id": "18097971290425542",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-social-media-is-becoming-cybercriminals-most-powerfu-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-pro-europe-and-uae-plan-usd1-billion-orbital-data-center-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-29T01:03:16.634Z",
-        "message_id": "18114080699043092",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/are-your-bosses-holding-back-ai-knowledge-from-you-new-study-suggests-top-heavy-balance-in-many-firms-is-hurting-workers",
-      "source_url": "https://www.techradar.com/pro/are-your-bosses-holding-back-ai-knowledge-from-you-new-study-suggests-top-heavy-balance-in-many-firms-is-hurting-workers",
-      "headline": "Are your bosses holding back AI knowledge from you? New study suggests top-heavy balance in many firms is hurting workers",
-      "summary": "Business leaders are using AI for decision-making, but knowledge workers are barely using it to create documents.",
+      "story_id": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
+      "source_url": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
+      "headline": "Anker unveils Eufy S4 video doorbell with VR viewing and AI tracking",
+      "summary": "With 180-degree viewing field, AI tracking, and subject framing, there's nothing the Eufy S4 video doorbell can't do.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/isoopje9LKofpDmB78HMLV-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/isoopje9LKofpDmB78HMLV-2000-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/wwC6ffF39gHuESyvznR274-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wwC6ffF39gHuESyvznR274-2000-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2000,
-        "height": 1124,
-        "aspectRatio": 1.7793594306049823,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=are-your-bosses-holding-back-ai-knowledge-from-you-new-study-suggests-top-heavy-balance-in",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-28T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-are-your-bosses-holding-back-ai-knowledge-from-you-n-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "source_url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "headline": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-      "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6ab67a543b15d40264a17301/191:100/w_1280,c_limit/092526-AI%20Coworker.jpg",
-      "image_url": "https://media.wired.com/photos/6ab67a543b15d40264a17301/191:100/w_1280,c_limit/092526-AI%20Coworker.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-28T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-28/AI-Agents-Are-About-to-Flood-the-Workforce-No-One-s-Ready-for-It-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-wired-com-story-ai-agents-are-about-to-flood-the-workforce-no-ones-rea-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-      "source_url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-      "headline": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-      "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6ab66fcabccfe76e77e84940/191:100/w_1280,c_limit/092526-Math%20Art%20AI.jpg",
-      "image_url": "https://media.wired.com/photos/6ab66fcabccfe76e77e84940/191:100/w_1280,c_limit/092526-Math%20Art%20AI.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=solving-maths-greatest-problems-was-an-art-form-then-came-ai",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-28T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-28/Solving-Math-s-Greatest-Problems-Was-an-Art-Form-Then-Came-AI-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-wired-com-story-solving-maths-greatest-problems-was-an-art-form-until--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/localization-is-the-missing-test-for-voice-ai",
-      "source_url": "https://www.techradar.com/pro/localization-is-the-missing-test-for-voice-ai",
-      "headline": "Localization is the missing test for voice AI",
-      "summary": "Gartner predicts that by 2028, 70% of customer journeys will begin with a conversational AI interface.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
+        "height": 1125,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=localization-is-the-missing-test-for-voice-ai",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anker-unveils-eufy-s4-video-doorbell-with-vr-viewing-and-ai-tracking",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-28T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-29T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -512,7 +458,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-28/https-www-techradar-com-pro-localization-is-the-missing-test-for-voice-ai-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-home-home-security-ankers-launches-worlds-first-video-do-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

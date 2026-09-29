@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T11:42:15.051Z",
+  "updatedAt": "2026-09-29T06:56:52.085Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The US government plans to use AI to help redact documents",
-      "summary": "AI use for FOIA requests might result in even more information being withheld.",
+      "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents/",
-      "publishedAt": "2026-09-28T11:25:54.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-us-government-plans-to-use-ai-to-help-redact-documents/l-intro-1790594639.jpg"
+      "source": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "publishedAt": "2026-09-29T05:13:43.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Viral AI animation sparks controversy over familiar character design",
-      "summary": "Artificial intelligence struggles with originality once again.",
+      "title": "Microsoft says the 'new Copilot' promises to help you achieve everything you ever wanted at home and at work",
+      "summary": "Microsoft is rebuilding Copilot around delegated work, software creation and persistent AI agents, while introducing usage-based pricing for advanced capabilities.",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design",
-      "publishedAt": "2026-09-28T11:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/zxY6jnnHDgAvHyFjMJYiSY-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/microsoft-unveils-new-copilot-which-promises-to-help-you-achieve-everything-you-ever-wanted-at-home-and-at-work",
+      "publishedAt": "2026-09-29T02:25:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/WbGpNcppHBJL6bUeoiazkG-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How AI is reshaping domain strategy and digital trust",
-      "summary": "AI is making online impersonation easier, pushing businesses to rethink domains as essential brand and trust assets.",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/how-ai-is-reshaping-domain-strategy-and-digital-trust",
-      "publishedAt": "2026-09-28T10:42:39.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "publishedAt": "2026-09-28T23:39:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Every new Apple product coming in 2026 & 2027",
-      "summary": "Macworld It’s been a huge year for Apple, with a wave of new products arriving during the first nine months of 2026. The year began with the MacBook Neo and iPhone 17e in March, followed by the new Mac mini and Mac Studio in August. September brought another major batch of launches at Apple’s “Surpr",
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commerci",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
-      "publishedAt": "2026-09-28T10:34:10.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/09/671090-0-46028700-1790592176-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "publishedAt": "2026-09-28T21:31:35.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Social media is becoming cybercriminals’ most powerful attack vector",
-      "summary": "Cybercriminals are exploiting trusted brands online, while AI makes impersonation faster and harder to detect.",
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/social-media-is-becoming-cybercriminals-most-powerful-attack-vector",
-      "publishedAt": "2026-09-28T10:26:02.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "publishedAt": "2026-09-28T21:29:18.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Are your bosses holding back AI knowledge from you? New study suggests top-heavy balance in many firms is hurting workers",
-      "summary": "Business leaders are using AI for decision-making, but knowledge workers are barely using it to create documents.",
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/are-your-bosses-holding-back-ai-knowledge-from-you-new-study-suggests-top-heavy-balance-in-many-firms-is-hurting-workers",
-      "publishedAt": "2026-09-28T10:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/isoopje9LKofpDmB78HMLV-2000-80.jpg"
+      "source": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "publishedAt": "2026-09-28T19:33:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-      "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "publishedAt": "2026-09-28T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ab67a543b15d40264a17301/191:100/w_1280,c_limit/092526-AI%20Coworker.jpg"
+      "source": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "publishedAt": "2026-09-28T19:21:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1126706015.jpg?resize=1200,856"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-      "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
+      "title": "Europe and UAE plan $1 billion orbital data center with 50 connected \"computers\" and a central \"LLM store\" that allows users to select what open source model to use on data collected by satellite sensors",
+      "summary": "A UAE-financed, France-anchored consortium plans to launch 50 AI-equipped Earth observation satellites and build an in-orbit model marketplace.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-      "publishedAt": "2026-09-28T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6ab66fcabccfe76e77e84940/191:100/w_1280,c_limit/092526-Math%20Art%20AI.jpg"
+      "source": "https://www.techradar.com/pro/europe-and-uae-plan-usd1-billion-orbital-data-center-with-50-connected-computers-and-a-central-llm-store-that-allows-users-to-select-what-open-source-model-to-use-on-data-collected-by-satellite-sensors",
+      "publishedAt": "2026-09-28T19:15:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/U8EMRgNDt3a9Cv8iNUaaNE-1920-80.jpeg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Localization is the missing test for voice AI",
-      "summary": "Gartner predicts that by 2028, 70% of customer journeys will begin with a conversational AI interface.",
+      "title": "Anker unveils Eufy S4 video doorbell with VR viewing and AI tracking",
+      "summary": "With 180-degree viewing field, AI tracking, and subject framing, there's nothing the Eufy S4 video doorbell can't do.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/localization-is-the-missing-test-for-voice-ai",
-      "publishedAt": "2026-09-28T09:08:17.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg"
+      "source": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/wwC6ffF39gHuESyvznR274-2000-80.jpg"
     }
   ]
 }
