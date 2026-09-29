@@ -4420,6 +4420,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2271659/anthropic-lost-8-billion-says-it-could-destroy-humanity/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-29T16:59:51.187Z",
+        "message_id": 496,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
