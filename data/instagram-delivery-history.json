@@ -3014,6 +3014,20 @@
         "message_id": "17873366298593828",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3060022/2026-ipad-mini-design-display-features-specs-release-date.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-29T23:01:13.554Z",
+        "message_id": "18101674277367031",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-29T23:01:23.836Z",
+        "message_id": "18135686311728294",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
