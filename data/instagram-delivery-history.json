@@ -3028,6 +3028,20 @@
         "message_id": "18135686311728294",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-30T00:45:25.639Z",
+        "message_id": "18120967990897080",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-30T00:45:37.561Z",
+        "message_id": "18112663652124053",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
