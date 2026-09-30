@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T08:35:49.614Z",
+  "updatedAt": "2026-09-30T11:11:18.402Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,6 +30,83 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
+      "title": "Where to draw the line on AI: Lessons from digital forensics",
+      "summary": "What digital forensics teaches us about where to draw the line on AI.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/where-to-draw-the-line-on-ai-lessons-from-digital-forensics",
+      "publishedAt": "2026-09-30T10:58:04.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Siri may know a lot more, but it’s still not smart",
+      "summary": "Macworld After years of complaints about its limitations and poor overall performance, Siri finally received its long-overdue AI-centric overhaul with iOS 27. The virtual assistant now has a large language model (LLM) foundation, allowing it to comprehend natural speech and discuss a wider range of ",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3246839/siri-may-know-a-lot-more-but-its-still-not-smart.html",
+      "publishedAt": "2026-09-30T10:30:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3246839-0-99406300-1790764233-Siri-app-on-iOS-27.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "When is Apple’s next event? Dates, rumors, and what to expect",
+      "summary": "Macworld Apple’s September event may not have been Apple’s final event of 2026 – another launch could be coming in October. Apple typically has four main event windows each year: a spring event, WWDC in June, the iPhone event in September , and sometimes a further event in October. The company rarel",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
+      "publishedAt": "2026-09-30T10:00:33.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/672537-0-92443200-1790762624-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Apple under Ternus: More products, more often, with a ‘leaner’ staff",
+      "summary": "Macworld Stop me if you’ve heard this one before: Tech company’s new CEO thinks the company can do more with fewer people! That’s the gist of a new report from Mark Gurman at Bloomberg about the internal changes Apple is now going through after its first few weeks under new CEO John Ternus. For inve",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3246808/apple-under-ternus-more-products-more-often-with-a-leaner-staff.html",
+      "publishedAt": "2026-09-30T10:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3246808-0-92372800-1790762464-john-ternus-scary-fast-event.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Banks need to rethink resilience for the speed of an AI attack",
+      "summary": "Banks must rethink resilience as AI makes cyberattacks faster, smarter and harder to contain.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/banks-need-to-rethink-resilience-for-the-speed-of-an-ai-attack",
+      "publishedAt": "2026-09-30T09:58:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "The US government's new AI chatbot gives Minecraft's end poem a bureaucratic twist",
+      "summary": "The new America.gov chatbot will write you a remixed version of Minecraft's end poem, then deny ever doing it.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2272978/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/",
+      "publishedAt": "2026-09-30T09:48:35.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/l-intro-1790761643.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "From cloud adoption to cloud maturity: The new imperative for enterprise AI",
+      "summary": "Cloud adoption isn’t enough. AI success depends on modernization, governance, security and cloud maturity.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/from-cloud-adoption-to-cloud-maturity-the-new-imperative-for-enterprise-ai",
+      "publishedAt": "2026-09-30T08:43:45.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pSreeHEMSHqVQg2TgPqbUL-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
       "title": "Photoshop's controversial new AI tool is dividing opinion",
       "summary": "Does Relight transform photo retouching.... or turn people into video game characters?",
       "guide": "/news/index.html",
@@ -47,83 +124,6 @@
       "source": "https://www.techradar.com/pro/cheap-smartphones-could-soon-be-a-thing-of-the-past-as-ai-boom-snaps-up-chips-more-than-230-million-devices-a-year-could-be-gone-by-the-end-of-the-decade",
       "publishedAt": "2026-09-30T01:20:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/4jiRxTMTQK7HQQExXmQmnG-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Japan desperately wants 10 million AI robots by 2040 to save its economy — by which time its human population is expected to drop by almost 11 million",
-      "summary": "Japan plans for millions of AI robots to address labor shortages, while companies test humanoids and insurers prepare for emerging risks.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/japan-desperately-wants-10-million-ai-robots-by-2040-to-save-its-economy-its-population-is-expected-to-go-down-by-almost-11-million-by-then",
-      "publishedAt": "2026-09-30T00:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Lh4WHKcidrwHHEMBy3dfGZ-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and w",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-      "publishedAt": "2026-09-30T00:19:13.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "The AI industry wants models to assist in legal battles, but will they help?",
-      "summary": "After lawyers were fined for submitting AI filings packed with fictitious case law, AI companies are releasing new tools to ensure that doesn't happen again.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2271692/ai-industry-want-use-models-legal-battle-law-assistance/",
-      "publishedAt": "2026-09-29T23:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-ai-industry-wants-models-to-assist-in-legal-battles-but-will-they-help/l-intro-1790678828.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is t",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-      "publishedAt": "2026-09-29T22:25:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Dots&#8217; launch",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "publishedAt": "2026-09-29T22:20:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Russia unveils underwater swarm drones for oil and gas exploration — USC could control groups of 'up to 1,000 devices' for ship repair and more",
-      "summary": "Russia's USC has unveiled underwater robots for offshore response, vessel inspection, repair, logistics, hydrographic surveys, and AI-assisted maritime operations.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/russia-unveils-underwater-swarm-drones-for-oil-and-gas-exploration-usc-could-control-groups-of-up-to-1-000-devices-for-ship-repair-and-more",
-      "publishedAt": "2026-09-29T22:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/z3V5UnqaytQYtTiguJx2Z6-1902-80.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
-      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "publishedAt": "2026-09-29T21:49:09.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     }
   ]
 }
