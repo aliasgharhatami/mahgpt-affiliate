@@ -3084,6 +3084,20 @@
         "message_id": "18026875400919382",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/672537/when-is-apples-next-event.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-30T20:12:46.275Z",
+        "message_id": "18032367620673142",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-30T20:12:56.877Z",
+        "message_id": "18144510163585000",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
