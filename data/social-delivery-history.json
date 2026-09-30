@@ -4607,6 +4607,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/banks-need-to-rethink-resilience-for-the-speed-of-an-ai-attack": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-30T23:56:29.746Z",
+        "message_id": 507,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
