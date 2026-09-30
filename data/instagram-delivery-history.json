@@ -3042,6 +3042,20 @@
         "message_id": "18112663652124053",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/668700/best-mac-monitors-displays.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-30T11:13:17.947Z",
+        "message_id": "18105369671213256",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-30T11:13:29.408Z",
+        "message_id": "17906677374331622",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
