@@ -3070,6 +3070,20 @@
         "message_id": "18151990042570106",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3246839/siri-may-know-a-lot-more-but-its-still-not-smart.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-30T16:51:19.532Z",
+        "message_id": "18393838579202782",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-30T16:51:28.904Z",
+        "message_id": "18026875400919382",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
