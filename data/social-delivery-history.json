@@ -4556,6 +4556,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3246839/siri-may-know-a-lot-more-but-its-still-not-smart.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-30T16:50:19.150Z",
+        "message_id": 504,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
