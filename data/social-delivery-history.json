@@ -4505,6 +4505,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/668700/best-mac-monitors-displays.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-30T08:35:55.967Z",
+        "message_id": 501,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

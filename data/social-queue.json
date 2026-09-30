@@ -1,52 +1,233 @@
 {
   "version": 1,
-  "queue_date": "2026-09-29",
-  "created_at": "2026-09-29T11:22:56.385Z",
-  "source_feed_updated_at": "2026-09-29T11:22:52.050Z",
+  "queue_date": "2026-09-30",
+  "created_at": "2026-09-30T08:35:49.712Z",
+  "source_feed_updated_at": "2026-09-30T08:35:49.614Z",
   "items": [
     {
-      "story_id": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-      "source_url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-      "headline": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-      "summary": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6ab58bd8630fd3fdf523eab4/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Timnit-Gebru-2266305419-Business.jpg",
-      "image_url": "https://media.wired.com/photos/6ab58bd8630fd3fdf523eab4/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Timnit-Gebru-2266305419-Business.jpg",
+      "story_id": "https://www.macworld.com/article/668700/best-mac-monitors-displays.html",
+      "source_url": "https://www.macworld.com/article/668700/best-mac-monitors-displays.html",
+      "headline": "Best Mac monitors 2026: The Mac compatible displays we recommend",
+      "summary": "Macworld The monitor might be the second-most important part of your Mac’s setup after the Mac, of course–you can’t use any desktop computer without one and even the 16-inch screen on the MacBook Pro feels cramped if you are having a particularly productive morning. Spread your work out by plugging",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/668700-0-45658800-1790694194-Best-Displays.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/668700-0-45658800-1790694194-Best-Displays.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
+        "width": 1024,
+        "height": 713,
+        "aspectRatio": 1.4361851332398317,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=timnit-gebru-believes-there-is-no-existential-threat-from-ai",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=best-mac-monitors-2026-the-mac-compatible-displays-we-recommend",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T05:20:00.000Z",
+      "scheduled_publish_at": "2026-09-30T05:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-09-29T11:23:34.688Z",
-        "message_id": 494,
+        "published_at": "2026-09-30T08:35:55.967Z",
+        "message_id": 501,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-29T11:33:33.044Z",
-        "message_id": "18126211745504377",
-        "media_kind": "fallback-card"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-09-29/Timnit-Gebru-Believes-There-Is-No-Existential-Threat-From-AI-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-wired-com-story-the-big-interview-podcast-timnit-gebru--story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-macworld-com-article-668700-best-mac-monitors-displays-html-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.creativebloq.com/design/graphic-design/photoshops-newest-ai-tool-is-immediately-dividing-opinion",
+      "source_url": "https://www.creativebloq.com/design/graphic-design/photoshops-newest-ai-tool-is-immediately-dividing-opinion",
+      "headline": "Photoshop's controversial new AI tool is dividing opinion",
+      "summary": "Does Relight transform photo retouching.... or turn people into video game characters?",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/naMDw2juYUcAcYp2AbFJGU-1440-80.webp",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/naMDw2juYUcAcYp2AbFJGU-1440-80.webp",
+      "image_validation": {
+        "valid": true,
+        "width": 1440,
+        "height": 774,
+        "aspectRatio": 1.8604651162790697,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=photoshops-controversial-new-ai-tool-is-dividing-opinion",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-30T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-creativebloq-com-design-graphic-design-photoshops-newest-ai-tool-is-im-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/cheap-smartphones-could-soon-be-a-thing-of-the-past-as-ai-boom-snaps-up-chips-more-than-230-million-devices-a-year-could-be-gone-by-the-end-of-the-decade",
+      "source_url": "https://www.techradar.com/pro/cheap-smartphones-could-soon-be-a-thing-of-the-past-as-ai-boom-snaps-up-chips-more-than-230-million-devices-a-year-could-be-gone-by-the-end-of-the-decade",
+      "headline": "Cheap smartphones could soon be a thing of the past, as AI boom snaps up chips — more than 230 million devices a year could be gone by the end of the decade",
+      "summary": "Phones are likely to be more expensive in the future, as rising memory and chipset costs look set to consign budget smartphones to history",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4jiRxTMTQK7HQQExXmQmnG-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4jiRxTMTQK7HQQExXmQmnG-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=cheap-smartphones-could-soon-be-a-thing-of-the-past-as-ai-boom-snaps-up-chips-more-than-23",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-30T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-techradar-com-pro-cheap-smartphones-could-soon-be-a-thing-of-the-past--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/japan-desperately-wants-10-million-ai-robots-by-2040-to-save-its-economy-its-population-is-expected-to-go-down-by-almost-11-million-by-then",
+      "source_url": "https://www.techradar.com/pro/japan-desperately-wants-10-million-ai-robots-by-2040-to-save-its-economy-its-population-is-expected-to-go-down-by-almost-11-million-by-then",
+      "headline": "Japan desperately wants 10 million AI robots by 2040 to save its economy — by which time its human population is expected to drop by almost 11 million",
+      "summary": "Japan plans for millions of AI robots to address labor shortages, while companies test humanoids and insurers prepare for emerging risks.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Lh4WHKcidrwHHEMBy3dfGZ-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Lh4WHKcidrwHHEMBy3dfGZ-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=japan-desperately-wants-10-million-ai-robots-by-2040-to-save-its-economy-by-which-time-its",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-30T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-techradar-com-pro-japan-desperately-wants-10-million-ai-robots-by-2040-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "headline": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and w",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=sam-altman-says-openai-wont-go-public-until-its-models-are-safe",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-30T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-30/Sam-Altman-says-OpenAI-won-t-go-public-until-its-models-are-safe-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-theverge-com-ai-artificial-intelligence-1002505-sam-altman-openai-ipo--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -54,79 +235,16 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-29T11:33:43.589Z",
-        "message_id": "18132942478673027",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/organizations-must-rethink-skills-to-realize-ai-roi",
-      "source_url": "https://www.techradar.com/pro/organizations-must-rethink-skills-to-realize-ai-roi",
-      "headline": "Organizations must rethink skills to realize AI ROI",
-      "summary": "As AI reshapes roles, Tungsten's Adam Field explains why job descriptions and skills need a rethink.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=organizations-must-rethink-skills-to-realize-ai-roi",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-29T13:55:20.357Z",
-        "message_id": 495,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-29T14:15:16.430Z",
-        "message_id": "17958859770229315",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-pro-organizations-must-rethink-skills-to-realize-ai-roi-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-29T14:15:23.440Z",
-        "message_id": "18491012173110550",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2271659/anthropic-lost-8-billion-says-it-could-destroy-humanity/",
-      "source_url": "https://www.engadget.com/2271659/anthropic-lost-8-billion-says-it-could-destroy-humanity/",
-      "headline": "Anthropic lost $8 billion last year and said its AI could destroy humanity",
-      "summary": "Despite a $2 trillion valuation ahead of its IPO, Anthropic hasn't been a money-spinning operation so far.",
+      "story_id": "https://www.engadget.com/2271692/ai-industry-want-use-models-legal-battle-law-assistance/",
+      "source_url": "https://www.engadget.com/2271692/ai-industry-want-use-models-legal-battle-law-assistance/",
+      "headline": "The AI industry wants models to assist in legal battles, but will they help?",
+      "summary": "After lawyers were fined for submitting AI filings packed with fictitious case law, AI companies are releasing new tools to ensure that doesn't happen again.",
       "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/anthropic-lost-8-billion-last-year-and-said-its-ai-could-destroy-humanity/l-intro-1790675754.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/anthropic-lost-8-billion-last-year-and-said-its-ai-could-destroy-humanity/l-intro-1790675754.jpg",
+      "original_image_url": "https://www.engadget.com/img/gallery/the-ai-industry-wants-models-to-assist-in-legal-battles-but-will-they-help/l-intro-1790678828.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/the-ai-industry-wants-models-to-assist-in-legal-battles-but-will-they-help/l-intro-1790678828.jpg",
       "image_validation": {
         "valid": true,
         "width": 1600,
@@ -136,296 +254,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-lost-8-billion-last-year-and-said-its-ai-could-destroy-humanity",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-industry-wants-models-to-assist-in-legal-battles-but-will-they-help",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-29T16:59:51.187Z",
-        "message_id": 496,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-29T17:00:57.091Z",
-        "message_id": "18118394684487080",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-engadget-com-2271659-anthropic-lost-8-billion-says-it-could-destroy-hu-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-29T17:01:05.534Z",
-        "message_id": "18132318058708491",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/the-regulatory-readiness-problem-hiding-in-plain-sight",
-      "source_url": "https://www.techradar.com/pro/the-regulatory-readiness-problem-hiding-in-plain-sight",
-      "headline": "The regulatory readiness problem hiding in plain sight",
-      "summary": "Organizations must connect AI risk, review and evidence to demonstrate effective regulatory oversight.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-regulatory-readiness-problem-hiding-in-plain-sight",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-29T18:39:48.174Z",
-        "message_id": 497,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-29T18:41:16.689Z",
-        "message_id": "17958330327250216",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-pro-the-regulatory-readiness-problem-hiding-in-plain-sig-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-29T18:41:25.155Z",
-        "message_id": "18153912175522506",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/1659017/ios-versions-list.html",
-      "source_url": "https://www.macworld.com/article/1659017/ios-versions-list.html",
-      "headline": "iOS versions: Explore every iOS version from day one to today",
-      "summary": "Macworld Since the launch of the original iPhone in 2007, Apple has released dozens of versions of iOS, introducing new features, design changes, performance improvements, security updates and more. From the early days of iPhone OS through landmark releases such as iOS 7, iOS 14 and the current iOS",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/1659017-0-36006000-1790674510-All-the-iOS-versions-.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/1659017-0-36006000-1790674510-All-the-iOS-versions-.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ios-versions-explore-every-ios-version-from-day-one-to-today",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-29T21:31:34.928Z",
-        "message_id": 498,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-29T21:32:08.771Z",
-        "message_id": "18166850719475789",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-macworld-com-article-1659017-ios-versions-list-html-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-29T21:32:18.738Z",
-        "message_id": "17873366298593828",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3060022/2026-ipad-mini-design-display-features-specs-release-date.html",
-      "source_url": "https://www.macworld.com/article/3060022/2026-ipad-mini-design-display-features-specs-release-date.html",
-      "headline": "2026 iPad mini: Release date, OLED display, A20 Pro, price and latest rumors",
-      "summary": "Macworld For those who need a premium small-screen tablet, the iPad mini is a popular choice. But should you buy one now, or should you wait to see what Apple has in store for the next model? Most buyers should wait – the next model is expected to bring meaningful upgrades. However, Apple isn’t expe",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3060022-0-18826200-1790672490-apple_ipad_mini_2021_review_12.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3060022-0-18826200-1790672490-apple_ipad_mini_2021_review_12.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 576,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=2026-ipad-mini-release-date-oled-display-a20-pro-price-and-latest-rumors",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-29T22:59:18.094Z",
-        "message_id": 499,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-29T23:01:13.554Z",
-        "message_id": "18101674277367031",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-macworld-com-article-3060022-2026-ipad-mini-design-display-features-sp-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-29T23:01:23.836Z",
-        "message_id": "18135686311728294",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
-      "source_url": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
-      "headline": "iOS 27: What’s new, what’s in the latest beta and what’s coming next",
-      "summary": "Macworld Apple unveiled iOS 27 at WWDC on June 8, 2026, with the public release following on September 14. But more features are on the way, and the latest beta offers a preview of what’s coming next. iOS 27 mainly focuses on three key areas: Siri AI, a rebuilt assistant with its own dedicated app;",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/2986799-0-09412400-1790671840-ios-27-.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/2986799-0-09412400-1790671840-ios-27-.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 576,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ios-27-whats-new-whats-in-the-latest-beta-and-whats-coming-next",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-30T00:44:26.703Z",
-        "message_id": 500,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-30T00:45:25.639Z",
-        "message_id": "18120967990897080",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-macworld-com-article-2986799-ios-27-features-compatiblity-siri-ai-upda-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-30T00:45:37.561Z",
-        "message_id": "18112663652124053",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/the-ai-advantage-is-moving-beyond-the-model",
-      "source_url": "https://www.techradar.com/pro/the-ai-advantage-is-moving-beyond-the-model",
-      "headline": "The AI advantage is moving beyond the model",
-      "summary": "Why the future of enterprise AI will be won not by the model, but by the ecosystem surrounding it.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-advantage-is-moving-beyond-the-model",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T19:20:00.000Z",
+      "scheduled_publish_at": "2026-09-30T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -441,7 +274,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-pro-the-ai-advantage-is-moving-beyond-the-model-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-engadget-com-2271692-ai-industry-want-use-models-legal-battle-law-assi-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -451,27 +284,27 @@
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "source_url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "headline": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675",
+      "story_id": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "source_url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "headline": "Trump orders US government to call AI ‘Super Intelligence’",
+      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is t",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 675,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
       },
       "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-and-8217-s-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trump-orders-us-government-to-call-ai-super-intelligence",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T21:20:00.000Z",
+      "scheduled_publish_at": "2026-09-30T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -480,16 +313,61 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-29T07:26:45.527Z",
-        "message_id": "18044832401821262"
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-30/Trump-orders-US-government-to-call-AI-Super-Intelligence--instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-theverge-com-policy-1002468-trump-ai-superintelligence-executive-order-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "source_url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "headline": "The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Dots&#8217; launch",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 826,
+        "aspectRatio": 1.4527845036319613,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-internet-is-convinced-elon-musk-and-8217-s-xai-trolled-openai-and-8217-s-and-8216-dots",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-30T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-techcrunch-com-2026-09-28-anthropics-prospectus-details-losses-growth-and--story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-30/https-techcrunch-com-2026-09-29-the-internet-is-convinced-elon-musks-xai-trolled-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -499,27 +377,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/microsoft-unveils-new-copilot-which-promises-to-help-you-achieve-everything-you-ever-wanted-at-home-and-at-work",
-      "source_url": "https://www.techradar.com/pro/microsoft-unveils-new-copilot-which-promises-to-help-you-achieve-everything-you-ever-wanted-at-home-and-at-work",
-      "headline": "Microsoft says the 'new Copilot' promises to help you achieve everything you ever wanted at home and at work",
-      "summary": "Microsoft is rebuilding Copilot around delegated work, software creation and persistent AI agents, while introducing usage-based pricing for advanced capabilities.",
+      "story_id": "https://www.techradar.com/pro/russia-unveils-underwater-swarm-drones-for-oil-and-gas-exploration-usc-could-control-groups-of-up-to-1-000-devices-for-ship-repair-and-more",
+      "source_url": "https://www.techradar.com/pro/russia-unveils-underwater-swarm-drones-for-oil-and-gas-exploration-usc-could-control-groups-of-up-to-1-000-devices-for-ship-repair-and-more",
+      "headline": "Russia unveils underwater swarm drones for oil and gas exploration — USC could control groups of 'up to 1,000 devices' for ship repair and more",
+      "summary": "Russia's USC has unveiled underwater robots for offshore response, vessel inspection, repair, logistics, hydrographic surveys, and AI-assisted maritime operations.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/WbGpNcppHBJL6bUeoiazkG-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/WbGpNcppHBJL6bUeoiazkG-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/z3V5UnqaytQYtTiguJx2Z6-1902-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/z3V5UnqaytQYtTiguJx2Z6-1902-80.png",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1902,
+        "height": 1080,
+        "aspectRatio": 1.761111111111111,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-says-the-new-copilot-promises-to-help-you-achieve-everything-you-ever-wanted-at-",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=russia-unveils-underwater-swarm-drones-for-oil-and-gas-exploration-usc-could-control-group",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-29T23:20:00.000Z",
+      "scheduled_publish_at": "2026-09-30T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -535,12 +413,59 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-29/https-www-techradar-com-pro-microsoft-unveils-new-copilot-which-promises-to-help-story.png",
+      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-techradar-com-pro-russia-unveils-underwater-swarm-drones-for-oil-and-g-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "source_url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "headline": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=elon-musk-and-8217-s-ai-powered-grokipedia-is-updating-again",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-09-30T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-09-30/Elon-Musk-8217-s-AI-powered-Grokipedia-is-updating-again-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-theverge-com-tech-1002448-elon-musk-grokipedia-ai-updating-again-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     }
