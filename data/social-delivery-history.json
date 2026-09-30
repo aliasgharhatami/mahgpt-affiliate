@@ -4590,6 +4590,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3246808/apple-under-ternus-more-products-more-often-with-a-leaner-staff.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-30T21:31:49.096Z",
+        "message_id": 506,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
