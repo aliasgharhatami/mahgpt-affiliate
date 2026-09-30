@@ -3098,6 +3098,20 @@
         "message_id": "18144510163585000",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3246808/apple-under-ternus-more-products-more-often-with-a-leaner-staff.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-30T21:32:25.772Z",
+        "message_id": "18139213318719567",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-09-30T21:32:34.225Z",
+        "message_id": "17934340419391852",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
