@@ -4573,6 +4573,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/672537/when-is-apples-next-event.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-30T20:14:01.646Z",
+        "message_id": 505,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
