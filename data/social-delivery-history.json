@@ -4488,6 +4488,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-30T00:44:26.703Z",
+        "message_id": 500,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
