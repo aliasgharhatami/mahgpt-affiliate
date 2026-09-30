@@ -4539,6 +4539,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/where-to-draw-the-line-on-ai-lessons-from-digital-forensics": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-09-30T15:21:34.185Z",
+        "message_id": 503,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
