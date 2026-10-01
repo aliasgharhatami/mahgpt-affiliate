@@ -3154,6 +3154,20 @@
         "message_id": "18128530813695068",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/ai-agents-are-ready-to-act-but-do-they-understand-your-business": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-01T18:56:14.744Z",
+        "message_id": "17996212952830651",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-01T18:56:24.631Z",
+        "message_id": "17897690289603744",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
