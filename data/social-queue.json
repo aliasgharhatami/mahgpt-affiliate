@@ -1,72 +1,109 @@
 {
   "version": 1,
-  "queue_date": "2026-09-30",
-  "created_at": "2026-09-30T11:11:22.052Z",
-  "source_feed_updated_at": "2026-09-30T11:11:18.402Z",
+  "queue_date": "2026-10-01",
+  "created_at": "2026-10-01T11:37:56.220Z",
+  "source_feed_updated_at": "2026-10-01T11:37:52.548Z",
   "items": [
     {
-      "story_id": "https://www.macworld.com/article/668700/best-mac-monitors-displays.html",
-      "source_url": "https://www.macworld.com/article/668700/best-mac-monitors-displays.html",
-      "headline": "Best Mac monitors 2026: The Mac compatible displays we recommend",
-      "summary": "Macworld The monitor might be the second-most important part of your Mac’s setup after the Mac, of course–you can’t use any desktop computer without one and even the 16-inch screen on the MacBook Pro feels cramped if you are having a particularly productive morning. Spread your work out by plugging",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/668700-0-45658800-1790694194-Best-Displays.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/668700-0-45658800-1790694194-Best-Displays.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "source_url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "headline": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 713,
-        "aspectRatio": 1.4361851332398317,
+        "width": 1200,
+        "height": 669,
+        "aspectRatio": 1.7937219730941705,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=best-mac-monitors-2026-the-mac-compatible-displays-we-recommend",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-30T05:20:00.000Z",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
+      "detected_partner": "elevenlabs",
+      "product_url": "/go/elevenlabs.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-10-01T05:20:00.000Z",
       "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-30T08:35:55.967Z"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-30T11:13:17.947Z",
-        "message_id": "18105369671213256",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-macworld-com-article-668700-best-mac-monitors-displays-html-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-01/https-techcrunch-com-2026-09-30-ai-voice-startup-elevenlabs-doubles-valuation-to-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-30T11:13:29.408Z",
-        "message_id": "17906677374331622",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/where-to-draw-the-line-on-ai-lessons-from-digital-forensics",
-      "source_url": "https://www.techradar.com/pro/where-to-draw-the-line-on-ai-lessons-from-digital-forensics",
-      "headline": "Where to draw the line on AI: Lessons from digital forensics",
-      "summary": "What digital forensics teaches us about where to draw the line on AI.",
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/there-is-nothing-like-human-hollywood-is-betting-big-on-ai-movies-just-as-audiences-are-turning-against-them-and-looking-for-films-made-by-real-people",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/there-is-nothing-like-human-hollywood-is-betting-big-on-ai-movies-just-as-audiences-are-turning-against-them-and-looking-for-films-made-by-real-people",
+      "headline": "Hollywood is betting big on AI movies",
+      "summary": "Hollywood is taking AI films seriously, and even Tom Cruise things they are coming, but AI seems to be turning the audience off.",
+      "source_name": "just as audiences turn against them",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Pfa6E4aPtoCLedbYjyemrM-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Pfa6E4aPtoCLedbYjyemrM-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hollywood-is-betting-big-on-ai-movies",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-01T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-techradar-com-ai-platforms-assistants-there-is-nothing-like-human-holl-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/ai-agents-are-ready-to-act-but-do-they-understand-your-business",
+      "source_url": "https://www.techradar.com/pro/ai-agents-are-ready-to-act-but-do-they-understand-your-business",
+      "headline": "AI agents are ready to act, but do they understand your business?",
+      "summary": "How businesses can give AI agents context without handing over control.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
@@ -76,54 +113,43 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=where-to-draw-the-line-on-ai-lessons-from-digital-forensics",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-agents-are-ready-to-act-but-do-they-understand-your-business",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-30T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-01T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-30T15:21:34.185Z",
-        "message_id": 503,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-30T15:19:58.846Z",
-        "message_id": "18111835445589717",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-techradar-com-pro-where-to-draw-the-line-on-ai-lessons-from-digital-fo-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-techradar-com-pro-ai-agents-are-ready-to-act-but-do-they-understand-yo-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-30T15:20:07.547Z",
-        "message_id": "18151990042570106",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3246839/siri-may-know-a-lot-more-but-its-still-not-smart.html",
-      "source_url": "https://www.macworld.com/article/3246839/siri-may-know-a-lot-more-but-its-still-not-smart.html",
-      "headline": "Siri may know a lot more, but it’s still not smart",
-      "summary": "Macworld After years of complaints about its limitations and poor overall performance, Siri finally received its long-overdue AI-centric overhaul with iOS 27. The virtual assistant now has a large language model (LLM) foundation, allowing it to comprehend natural speech and discuss a wider range of",
+      "story_id": "https://www.macworld.com/article/676817/new-homepod-mini-screen-rumours-release-date.html",
+      "source_url": "https://www.macworld.com/article/676817/new-homepod-mini-screen-rumours-release-date.html",
+      "headline": "New HomePod rumors: HomePod mini 2, HomePad and touchscreen HomePod",
+      "summary": "Macworld Apple’s HomePod lineup could be about to undergo its biggest expansion since the original HomePod launched. Apple is reportedly preparing a new HomePod mini and smart home display for October 13, with another full-size HomePod expected further down the line, as it builds a new generation o",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3246839-0-99406300-1790764233-Siri-app-on-iOS-27.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3246839-0-99406300-1790764233-Siri-app-on-iOS-27.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/676817-0-78651200-1790851937-New-HomePod-Rumors.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/676817-0-78651200-1790851937-New-HomePod-Rumors.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
@@ -133,54 +159,181 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=siri-may-know-a-lot-more-but-its-still-not-smart",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=new-homepod-rumors-homepod-mini-2-homepad-and-touchscreen-homepod",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-30T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-01T11:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-30T16:50:19.150Z",
-        "message_id": 504,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-09-30T16:51:19.532Z",
-        "message_id": "18393838579202782",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-macworld-com-article-3246839-siri-may-know-a-lot-more-but-its-still-no-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-macworld-com-article-676817-new-homepod-mini-screen-rumours-release-da-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3248150/apples-home-hub-isnt-what-you-think-it-is.html",
+      "source_url": "https://www.macworld.com/article/3248150/apples-home-hub-isnt-what-you-think-it-is.html",
+      "headline": "Apple’s home hub isn’t what you think it is",
+      "summary": "Macworld Apple may be less than two weeks away from releasing an all-new product in a new device category: a smart home hub. The device is said to be the start of a big push into the smart home category, which Apple has really only dabbled with so far. Bloomberg’s Mark Gurman says Apple is finally",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3248150-0-84383200-1790850621-homepad-to-scale.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3248150-0-84383200-1790850621-homepad-to-scale.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
       },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-30T16:51:28.904Z",
-        "message_id": "18026875400919382",
-        "media_kind": "story-fallback"
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apples-home-hub-isnt-what-you-think-it-is",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-01T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-macworld-com-article-3248150-apples-home-hub-isnt-what-you-think-it-is-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/dont-follow-the-herd-on-ai-cost-optimization-control-compute-this-way",
+      "source_url": "https://www.techradar.com/pro/dont-follow-the-herd-on-ai-cost-optimization-control-compute-this-way",
+      "headline": "Don’t follow the herd on AI cost optimization",
+      "summary": "AI cost optimization starts by reducing unnecessary compute, not chasing lower-cost models.",
+      "source_name": "control compute this way",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=dont-follow-the-herd-on-ai-cost-optimization",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-01T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-techradar-com-pro-dont-follow-the-herd-on-ai-cost-optimization-control-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/the-real-prize-isnt-just-doing-more-work-its-redesigning-work-new-report-claims-ai-is-being-used-more-in-the-office-but-its-creating-more-work-for-many",
+      "source_url": "https://www.techradar.com/pro/the-real-prize-isnt-just-doing-more-work-its-redesigning-work-new-report-claims-ai-is-being-used-more-in-the-office-but-its-creating-more-work-for-many",
+      "headline": "'The real prize isn’t just doing more work; it’s redesigning work': New report claims AI is being used more in the office, but it's creating more work for many",
+      "summary": "Workers say AI is making their jobs more complex, but PwC argues we need to fundamentally redesign work for this new era.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mR2722QpcTxgKEAa8Ne5sL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mR2722QpcTxgKEAa8Ne5sL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-real-prize-isnt-just-doing-more-work-its-redesigning-work-new-report-claims-ai-is-bein",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-01T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-techradar-com-pro-the-real-prize-isnt-just-doing-more-work-its-redesig-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
       }
     },
     {
       "story_id": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
       "source_url": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
       "headline": "When is Apple’s next event? Dates, rumors, and what to expect",
-      "summary": "Macworld Apple’s September event may not have been Apple’s final event of 2026 – another launch could be coming in October. Apple typically has four main event windows each year: a spring event, WWDC in June, the iPhone event in September, and sometimes a further event in October. The company rarel",
+      "summary": "Macworld Apple’s September event may not have been Apple’s final event of 2026 – another launch could be coming on October 13. Apple typically has four main event windows each year: a spring event, WWDC in June, the iPhone event in September, and sometimes a further event in October. The company ra",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/672537-0-92443200-1790762624-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/672537-0-92443200-1790762624-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-46880800-1790847032-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-46880800-1790847032-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
@@ -194,12 +347,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-30T11:20:00.000Z",
+      "scheduled_publish_at": "2026-10-01T19:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-09-30T20:14:01.646Z",
-        "message_id": 505,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-30T20:14:01.646Z"
       },
       "linkedin": {
         "status": "pending"
@@ -207,181 +358,14 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-09-30T20:12:46.275Z",
-        "message_id": "18032367620673142",
-        "media_kind": "source"
+        "message_id": "18032367620673142"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-macworld-com-article-672537-when-is-apples-next-event-html-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-30T20:12:56.877Z",
-        "message_id": "18144510163585000",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3246808/apple-under-ternus-more-products-more-often-with-a-leaner-staff.html",
-      "source_url": "https://www.macworld.com/article/3246808/apple-under-ternus-more-products-more-often-with-a-leaner-staff.html",
-      "headline": "Apple under Ternus: More products, more often, with a ‘leaner’ staff",
-      "summary": "Macworld Stop me if you’ve heard this one before: Tech company’s new CEO thinks the company can do more with fewer people! That’s the gist of a new report from Mark Gurman at Bloomberg about the internal changes Apple is now going through after its first few weeks under new CEO John Ternus. For inve",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3246808-0-92372800-1790762464-john-ternus-scary-fast-event.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/09/3246808-0-92372800-1790762464-john-ternus-scary-fast-event.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-under-ternus-more-products-more-often-with-a-leaner-staff",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-30T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-30T21:31:49.096Z",
-        "message_id": 506,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-30T21:32:25.772Z",
-        "message_id": "18139213318719567",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-macworld-com-article-3246808-apple-under-ternus-more-products-more-oft-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-30T21:32:34.225Z",
-        "message_id": "17934340419391852",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/banks-need-to-rethink-resilience-for-the-speed-of-an-ai-attack",
-      "source_url": "https://www.techradar.com/pro/banks-need-to-rethink-resilience-for-the-speed-of-an-ai-attack",
-      "headline": "Banks need to rethink resilience for the speed of an AI attack",
-      "summary": "Banks must rethink resilience as AI makes cyberattacks faster, smarter and harder to contain.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2000,
-        "height": 1125,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=banks-need-to-rethink-resilience-for-the-speed-of-an-ai-attack",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-30T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-30T23:56:29.746Z",
-        "message_id": 507,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-30T23:52:52.698Z",
-        "message_id": "18101956169577556",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-techradar-com-pro-banks-need-to-rethink-resilience-for-the-speed-of-an-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-09-30T23:53:03.392Z",
-        "message_id": "17893398855674201",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2272978/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/",
-      "source_url": "https://www.engadget.com/2272978/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/",
-      "headline": "The US government's new AI chatbot gives Minecraft's end poem a bureaucratic twist",
-      "summary": "The new America.gov chatbot will write you a remixed version of Minecraft's end poem, then deny ever doing it.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/l-intro-1790761643.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/l-intro-1790761643.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 898,
-        "aspectRatio": 1.78173719376392,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-30T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-engadget-com-2272978-the-us-governments-new-ai-chatbot-gives-minecraft-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-macworld-com-article-672537-when-is-apples-next-event-html-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -391,107 +375,13 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/from-cloud-adoption-to-cloud-maturity-the-new-imperative-for-enterprise-ai",
-      "source_url": "https://www.techradar.com/pro/from-cloud-adoption-to-cloud-maturity-the-new-imperative-for-enterprise-ai",
-      "headline": "From cloud adoption to cloud maturity: The new imperative for enterprise AI",
-      "summary": "Cloud adoption isn’t enough. AI success depends on modernization, governance, security and cloud maturity.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/pSreeHEMSHqVQg2TgPqbUL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/pSreeHEMSHqVQg2TgPqbUL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=from-cloud-adoption-to-cloud-maturity-the-new-imperative-for-enterprise-ai",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-30T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-techradar-com-pro-from-cloud-adoption-to-cloud-maturity-the-new-impera-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.creativebloq.com/design/graphic-design/photoshops-newest-ai-tool-is-immediately-dividing-opinion",
-      "source_url": "https://www.creativebloq.com/design/graphic-design/photoshops-newest-ai-tool-is-immediately-dividing-opinion",
-      "headline": "Photoshop's controversial new AI tool is dividing opinion",
-      "summary": "Does Relight transform photo retouching.... or turn people into video game characters?",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/naMDw2juYUcAcYp2AbFJGU-1440-80.webp",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/naMDw2juYUcAcYp2AbFJGU-1440-80.webp",
-      "image_validation": {
-        "valid": true,
-        "width": 1440,
-        "height": 774,
-        "aspectRatio": 1.8604651162790697,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=photoshops-controversial-new-ai-tool-is-dividing-opinion",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-30T21:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-09-30T11:11:42.147Z",
-        "message_id": 502,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-creativebloq-com-design-graphic-design-photoshops-newest-ai-tool-is-im-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/cheap-smartphones-could-soon-be-a-thing-of-the-past-as-ai-boom-snaps-up-chips-more-than-230-million-devices-a-year-could-be-gone-by-the-end-of-the-decade",
-      "source_url": "https://www.techradar.com/pro/cheap-smartphones-could-soon-be-a-thing-of-the-past-as-ai-boom-snaps-up-chips-more-than-230-million-devices-a-year-could-be-gone-by-the-end-of-the-decade",
-      "headline": "Cheap smartphones could soon be a thing of the past, as AI boom snaps up chips — more than 230 million devices a year could be gone by the end of the decade",
-      "summary": "Phones are likely to be more expensive in the future, as rising memory and chipset costs look set to consign budget smartphones to history",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4jiRxTMTQK7HQQExXmQmnG-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4jiRxTMTQK7HQQExXmQmnG-1920-80.jpg",
+      "story_id": "https://www.techradar.com/pro/bt-business-wants-to-help-uk-smbs-get-on-board-with-ai-including-a-new-ai-receptionist",
+      "source_url": "https://www.techradar.com/pro/bt-business-wants-to-help-uk-smbs-get-on-board-with-ai-including-a-new-ai-receptionist",
+      "headline": "BT Business wants to help UK SMBs get on board with AI",
+      "summary": "BT Business unveils a host of new AI tools to help supercharge British SMBs.",
+      "source_name": "including a new AI receptionist",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/2iH4kSL6LCJbxYBpQT5iiM-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2iH4kSL6LCJbxYBpQT5iiM-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -501,11 +391,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=cheap-smartphones-could-soon-be-a-thing-of-the-past-as-ai-boom-snaps-up-chips-more-than-23",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=bt-business-wants-to-help-uk-smbs-get-on-board-with-ai",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-09-30T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-01T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -521,7 +411,53 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-09-30/https-www-techradar-com-pro-cheap-smartphones-could-soon-be-a-thing-of-the-past--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-techradar-com-pro-bt-business-wants-to-help-uk-smbs-get-on-board-with--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3245833/one-platform-gives-you-access-to-gpt-gemini-claude-and-more-for-life-for-just-100.html",
+      "source_url": "https://www.macworld.com/article/3245833/one-platform-gives-you-access-to-gpt-gemini-claude-and-more-for-life-for-just-100.html",
+      "headline": "One platform gives you access to GPT, Gemini, Claude, and more for life for just $100",
+      "summary": "Macworld TL;DR: 1min.AI gives you lifetime access to GPT, Claude, Gemini, and more for a one-time payment of $99.99 (reg. $540). ChatGPT Plus costs $20 a month, and that only gets you OpenAI’s models. 1min.AI puts GPT, Claude, Gemini, and other AI models in one app for writing, images, audio, and vi",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3245833-0-71774100-1790841639-1minAI_de6158.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3245833-0-71774100-1790841639-1minAI_de6158.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=one-platform-gives-you-access-to-gpt-gemini-claude-and-more-for-life-for-just-100",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-01T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-macworld-com-article-3245833-one-platform-gives-you-access-to-gpt-gemi-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
