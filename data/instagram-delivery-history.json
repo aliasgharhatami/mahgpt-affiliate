@@ -3140,6 +3140,20 @@
         "message_id": "18151423021533661",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/there-is-nothing-like-human-hollywood-is-betting-big-on-ai-movies-just-as-audiences-are-turning-against-them-and-looking-for-films-made-by-real-people": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-01T17:22:44.666Z",
+        "message_id": "17915653038265023",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-01T17:22:52.318Z",
+        "message_id": "18128530813695068",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
