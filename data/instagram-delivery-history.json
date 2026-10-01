@@ -3168,6 +3168,20 @@
         "message_id": "17897690289603744",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/676817/new-homepod-mini-screen-rumours-release-date.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-01T21:55:22.824Z",
+        "message_id": "17932181328409988",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-01T21:55:31.846Z",
+        "message_id": "18108278338921569",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
