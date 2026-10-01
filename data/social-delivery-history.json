@@ -4692,6 +4692,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3248150/apples-home-hub-isnt-what-you-think-it-is.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-01T23:23:44.744Z",
+        "message_id": 512,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
