@@ -4675,6 +4675,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/676817/new-homepod-mini-screen-rumours-release-date.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-01T22:00:44.009Z",
+        "message_id": 511,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
