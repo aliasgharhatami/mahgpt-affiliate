@@ -4658,6 +4658,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/ai-agents-are-ready-to-act-but-do-they-understand-your-business": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-01T18:54:57.738Z",
+        "message_id": 510,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
