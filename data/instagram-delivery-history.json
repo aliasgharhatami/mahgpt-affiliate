@@ -3126,6 +3126,20 @@
         "message_id": "17893398855674201",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-01T11:40:34.982Z",
+        "message_id": "18083013881326999",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-01T11:40:42.983Z",
+        "message_id": "18151423021533661",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
