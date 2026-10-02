@@ -3266,6 +3266,20 @@
         "message_id": "17953646559037020",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/vpn/vpn-services/meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshark-warns": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-02T21:21:21.560Z",
+        "message_id": "18007225328783679",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-02T21:21:29.990Z",
+        "message_id": "17922325530425842",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
