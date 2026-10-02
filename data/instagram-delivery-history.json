@@ -3196,6 +3196,20 @@
         "message_id": "18094206506553757",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/dont-follow-the-herd-on-ai-cost-optimization-control-compute-this-way": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-02T01:17:48.316Z",
+        "message_id": "18089214410673469",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-02T01:17:57.712Z",
+        "message_id": "17915905800462377",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
