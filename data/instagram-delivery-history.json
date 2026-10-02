@@ -3210,6 +3210,20 @@
         "message_id": "17915905800462377",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-02T11:10:06.637Z",
+        "message_id": "18067956104775975",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-02T11:10:16.454Z",
+        "message_id": "17915871138460076",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
