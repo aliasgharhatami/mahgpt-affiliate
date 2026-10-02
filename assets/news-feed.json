@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T11:37:52.548Z",
+  "updatedAt": "2026-10-02T07:33:07.580Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Hollywood is betting big on AI movies — just as audiences turn against them",
-      "summary": "Hollywood is taking AI films seriously, and even Tom Cruise things they are coming, but AI seems to be turning the audience off.",
+      "title": "AI chatbots are slowly choking humanity as research shows a 'vicious cycle' could cause global knowledge collapse",
+      "summary": "Researchers find AI chatbots are delivering the same answers repeatedly, providing a narrower selection of information than a traditional search engine, potentially reducing diversity of opinion, perspectives, and choice",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/there-is-nothing-like-human-hollywood-is-betting-big-on-ai-movies-just-as-audiences-are-turning-against-them-and-looking-for-films-made-by-real-people",
-      "publishedAt": "2026-10-01T11:23:23.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Pfa6E4aPtoCLedbYjyemrM-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-global-knowledge-collapse",
+      "publishedAt": "2026-10-02T01:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ecs8hG3w6bXM2Fmbrm4rgd-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI agents are ready to act, but do they understand your business?",
-      "summary": "How businesses can give AI agents context without handing over control.",
+      "title": "Whatever AI Safety Is, It’s Not This",
+      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ai-agents-are-ready-to-act-but-do-they-understand-your-business",
-      "publishedAt": "2026-10-01T10:52:43.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg"
+      "source": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+      "publishedAt": "2026-10-01T22:10:42.000Z",
+      "image": "https://media.wired.com/photos/6abd667878587a545496ec2f/191:100/w_1280,c_limit/Model-Behavior-Trump-AI-Business.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "New HomePod rumors: HomePod mini 2, HomePad and touchscreen HomePod",
-      "summary": "Macworld Apple’s HomePod lineup could be about to undergo its biggest expansion since the original HomePod launched. Apple is reportedly preparing a new HomePod mini and smart home display for October 13 , with another full-size HomePod expected further down the line, as it builds a new generation o",
+      "title": "OpenAI fires three employees who allegedly shared info with an external AI safety group",
+      "summary": "You can't make this stuff up.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/676817/new-homepod-mini-screen-rumours-release-date.html",
-      "publishedAt": "2026-10-01T10:52:06.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/676817-0-78651200-1790851937-New-HomePod-Rumors.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/",
+      "publishedAt": "2026-10-01T22:05:43.000Z",
+      "image": "https://www.engadget.com/img/gallery/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/l-intro-1790891007.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple’s home hub isn’t what you think it is",
-      "summary": "Macworld Apple may be less than two weeks away from releasing an all-new product in a new device category: a smart home hub . The device is said to be the start of a big push into the smart home category, which Apple has really only dabbled with so far. Bloomberg’s Mark Gurman says Apple is finally ",
+      "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture Venezuela&#8217;s president",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3248150/apples-home-hub-isnt-what-you-think-it-is.html",
-      "publishedAt": "2026-10-01T10:30:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3248150-0-84383200-1790850621-homepad-to-scale.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "publishedAt": "2026-10-01T21:08:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Don’t follow the herd on AI cost optimization – control compute this way",
-      "summary": "AI cost optimization starts by reducing unnecessary compute, not chasing lower-cost models.",
+      "title": "Oura partners with Xella Health to combine your smart ring data with AI-powered biomarker testing",
+      "summary": "Oura has a new partner integration, and this time it’s a women's health platform that combines lab testing with telehealth care, dubbed Xella Health.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/dont-follow-the-herd-on-ai-cost-optimization-control-compute-this-way",
-      "publishedAt": "2026-10-01T10:12:55.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg"
+      "source": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
+      "publishedAt": "2026-10-01T20:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'The real prize isn’t just doing more work; it’s redesigning work': New report claims AI is being used more in the office, but it's creating more work for many",
-      "summary": "Workers say AI is making their jobs more complex, but PwC argues we need to fundamentally redesign work for this new era.",
+      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-real-prize-isnt-just-doing-more-work-its-redesigning-work-new-report-claims-ai-is-being-used-more-in-the-office-but-its-creating-more-work-for-many",
-      "publishedAt": "2026-10-01T10:04:02.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mR2722QpcTxgKEAa8Ne5sL-2560-80.jpg"
+      "source": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+      "publishedAt": "2026-10-01T19:58:31.000Z",
+      "image": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/191:100/w_1280,c_limit/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "When is Apple’s next event? Dates, rumors, and what to expect",
-      "summary": "Macworld Apple’s September event may not have been Apple’s final event of 2026 – another launch could be coming on October 13. Apple typically has four main event windows each year: a spring event, WWDC in June, the iPhone event in September , and sometimes a further event in October. The company ra",
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroun",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
-      "publishedAt": "2026-10-01T09:16:06.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-46880800-1790847032-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "publishedAt": "2026-10-01T19:47:51.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "BT Business wants to help UK SMBs get on board with AI — including a new AI receptionist",
-      "summary": "BT Business unveils a host of new AI tools to help supercharge British SMBs.",
+      "title": "Judge dismisses lawsuits claiming Google's AI Overviews siphon web traffic",
+      "summary": "Google may have a monopoly in search, but neither lawsuit made a compelling case the company was leveraging it.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/bt-business-wants-to-help-uk-smbs-get-on-board-with-ai-including-a-new-ai-receptionist",
-      "publishedAt": "2026-10-01T08:58:03.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/2iH4kSL6LCJbxYBpQT5iiM-1920-80.jpg"
+      "source": "https://www.engadget.com/2275023/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/",
+      "publishedAt": "2026-10-01T19:20:32.000Z",
+      "image": "https://www.engadget.com/img/gallery/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/l-intro-1790882295.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "One platform gives you access to GPT, Gemini, Claude, and more for life for just $100",
-      "summary": "Macworld TL;DR: 1min.AI gives you lifetime access to GPT, Claude, Gemini, and more for a one-time payment of $99.99 (reg. $540). ChatGPT Plus costs $20 a month, and that only gets you OpenAI’s models. 1min.AI puts GPT, Claude, Gemini, and other AI models in one app for writing, images, audio, and vi",
+      "title": "California Governor Gavin Newsom signs 'No Robo Bosses Act' — so an AI can no longer fire you on its own",
+      "summary": "New California bill requires humans to verify and provide proof for automated decisions to discipline or fire workers.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3245833/one-platform-gives-you-access-to-gpt-gemini-claude-and-more-for-life-for-just-100.html",
-      "publishedAt": "2026-10-01T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3245833-0-71774100-1790841639-1minAI_de6158.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/california-governor-gavin-newsom-signs-no-robo-bosses-act-so-an-ai-can-no-longer-fire-you-on-its-own",
+      "publishedAt": "2026-10-01T18:10:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/BpzQKZwrp6AdwJbD44GdkL-1920-80.jpg"
     }
   ]
 }

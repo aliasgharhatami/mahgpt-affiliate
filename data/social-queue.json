@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-10-01",
-  "created_at": "2026-10-01T11:37:56.220Z",
-  "source_feed_updated_at": "2026-10-01T11:37:52.548Z",
+  "queue_date": "2026-10-02",
+  "created_at": "2026-10-02T07:33:07.719Z",
+  "source_feed_updated_at": "2026-10-02T07:33:07.580Z",
   "items": [
     {
       "story_id": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
@@ -25,12 +25,10 @@
       "detected_partner": "elevenlabs",
       "product_url": "/go/elevenlabs.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-01T05:20:00.000Z",
+      "scheduled_publish_at": "2026-10-02T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-01T11:38:30.956Z",
-        "message_id": 508,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-01T11:38:30.956Z"
       },
       "linkedin": {
         "status": "pending"
@@ -38,336 +36,415 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-10-01T11:40:34.982Z",
-        "message_id": "18083013881326999",
-        "media_kind": "source"
+        "message_id": "18083013881326999"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-01/https-techcrunch-com-2026-09-30-ai-voice-startup-elevenlabs-doubles-valuation-to-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-techcrunch-com-2026-09-30-ai-voice-startup-elevenlabs-doubles-valuation-to-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-01T11:40:42.983Z",
-        "message_id": "18151423021533661",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/there-is-nothing-like-human-hollywood-is-betting-big-on-ai-movies-just-as-audiences-are-turning-against-them-and-looking-for-films-made-by-real-people",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/there-is-nothing-like-human-hollywood-is-betting-big-on-ai-movies-just-as-audiences-are-turning-against-them-and-looking-for-films-made-by-real-people",
-      "headline": "Hollywood is betting big on AI movies",
-      "summary": "Hollywood is taking AI films seriously, and even Tom Cruise things they are coming, but AI seems to be turning the audience off.",
-      "source_name": "just as audiences turn against them",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Pfa6E4aPtoCLedbYjyemrM-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Pfa6E4aPtoCLedbYjyemrM-1920-80.jpg",
+      "story_id": "https://www.techradar.com/pro/ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-global-knowledge-collapse",
+      "source_url": "https://www.techradar.com/pro/ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-global-knowledge-collapse",
+      "headline": "AI chatbots are slowly choking humanity as research shows a 'vicious cycle' could cause global knowledge collapse",
+      "summary": "Researchers find AI chatbots are delivering the same answers repeatedly, providing a narrower selection of information than a traditional search engine, potentially reducing diversity of opinion, perspectives, and choice",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Ecs8hG3w6bXM2Fmbrm4rgd-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Ecs8hG3w6bXM2Fmbrm4rgd-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-glob",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T07:20:00.000Z",
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-02T07:33:13.158Z",
+        "message_id": 514,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-pro-ai-chatbots-are-slowly-choking-humanity-as-research--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+      "source_url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+      "headline": "Whatever AI Safety Is, It’s Not This",
+      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6abd667878587a545496ec2f/191:100/w_1280,c_limit/Model-Behavior-Trump-AI-Business.jpg",
+      "image_url": "https://media.wired.com/photos/6abd667878587a545496ec2f/191:100/w_1280,c_limit/Model-Behavior-Trump-AI-Business.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1146,
+        "height": 600,
+        "aspectRatio": 1.91,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=whatever-ai-safety-is-its-not-this",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-wired-com-story-whatever-ai-safety-looks-like-its-not-this--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/",
+      "source_url": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/",
+      "headline": "OpenAI fires three employees who allegedly shared info with an external AI safety group",
+      "summary": "the company or product is highlighted in a current technology report.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/l-intro-1790891007.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/l-intro-1790891007.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-engadget-com-2275278-openai-fires-three-employees-who-allegedly-shared-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "source_url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "headline": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture Venezuela&#8217;s president",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 683,
+        "aspectRatio": 1.499267935578331,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=musk-and-8217-s-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuela-and-8217-",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-techcrunch-com-2026-10-01-musks-ai-chatbot-grok-reportedly-encouraged-trum-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
+      "source_url": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
+      "headline": "Oura partners with Xella Health to combine your smart ring data with AI-powered biomarker testing",
+      "summary": "Oura has a new partner integration, and this time it’s a women's health platform that combines lab testing with telehealth care, dubbed Xella Health.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2000,
+        "height": 1125,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=oura-partners-with-xella-health-to-combine-your-smart-ring-data-with-ai-powered-biomarker-",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-health-fitness-oura-rings-get-ai-powered-biomarker-upgra-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+      "source_url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+      "headline": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/191:100/w_1280,c_limit/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg",
+      "image_url": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/191:100/w_1280,c_limit/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1146,
+        "height": 600,
+        "aspectRatio": 1.91,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trumps-morally-binding-ai-accord-the-rise-of-ai-agents-and-extremists-on-the-ballot",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-wired-com-story-uncanny-valley-podcast-trumps-pinky-swear-ai-safety-ac-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "headline": "Google’s new Guided Vision feature can help you read the fine print",
+      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroun",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=googles-new-guided-vision-feature-can-help-you-read-the-fine-print",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-02/Google-s-new-Guided-Vision-feature-can-help-you-read-the-fine-print-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-theverge-com-ai-artificial-intelligence-1003756-google-gemini-live-gui-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2275023/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/",
+      "source_url": "https://www.engadget.com/2275023/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/",
+      "headline": "Judge dismisses lawsuits claiming Google's AI Overviews siphon web traffic",
+      "summary": "Google may have a monopoly in search, but neither lawsuit made a compelling case the company was leveraging it.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/l-intro-1790882295.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/l-intro-1790882295.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-engadget-com-2275023-judge-dismisses-lawsuits-claiming-googles-ai-over-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/california-governor-gavin-newsom-signs-no-robo-bosses-act-so-an-ai-can-no-longer-fire-you-on-its-own",
+      "source_url": "https://www.techradar.com/pro/california-governor-gavin-newsom-signs-no-robo-bosses-act-so-an-ai-can-no-longer-fire-you-on-its-own",
+      "headline": "California Governor Gavin Newsom signs 'No Robo Bosses Act'",
+      "summary": "New California bill requires humans to verify and provide proof for automated decisions to discipline or fire workers.",
+      "source_name": "so an AI can no longer fire you on its own",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/BpzQKZwrp6AdwJbD44GdkL-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BpzQKZwrp6AdwJbD44GdkL-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "height": 1079,
+        "aspectRatio": 1.7794253938832252,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hollywood-is-betting-big-on-ai-movies",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=california-governor-gavin-newsom-signs-no-robo-bosses-act",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-01T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-01T17:30:52.658Z",
-        "message_id": 509,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-01T17:22:44.666Z",
-        "message_id": "17915653038265023",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-techradar-com-ai-platforms-assistants-there-is-nothing-like-human-holl-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-01T17:22:52.318Z",
-        "message_id": "18128530813695068",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/ai-agents-are-ready-to-act-but-do-they-understand-your-business",
-      "source_url": "https://www.techradar.com/pro/ai-agents-are-ready-to-act-but-do-they-understand-your-business",
-      "headline": "AI agents are ready to act, but do they understand your business?",
-      "summary": "How businesses can give AI agents context without handing over control.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-agents-are-ready-to-act-but-do-they-understand-your-business",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-01T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-01T18:54:57.738Z",
-        "message_id": 510,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-01T18:56:14.744Z",
-        "message_id": "17996212952830651",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-techradar-com-pro-ai-agents-are-ready-to-act-but-do-they-understand-yo-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-01T18:56:24.631Z",
-        "message_id": "17897690289603744",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/676817/new-homepod-mini-screen-rumours-release-date.html",
-      "source_url": "https://www.macworld.com/article/676817/new-homepod-mini-screen-rumours-release-date.html",
-      "headline": "New HomePod rumors: HomePod mini 2, HomePad and touchscreen HomePod",
-      "summary": "Macworld Apple’s HomePod lineup could be about to undergo its biggest expansion since the original HomePod launched. Apple is reportedly preparing a new HomePod mini and smart home display for October 13, with another full-size HomePod expected further down the line, as it builds a new generation o",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/676817-0-78651200-1790851937-New-HomePod-Rumors.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/676817-0-78651200-1790851937-New-HomePod-Rumors.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=new-homepod-rumors-homepod-mini-2-homepad-and-touchscreen-homepod",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-01T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-01T22:00:44.009Z",
-        "message_id": 511,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-01T21:55:22.824Z",
-        "message_id": "17932181328409988",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-macworld-com-article-676817-new-homepod-mini-screen-rumours-release-da-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-01T21:55:31.846Z",
-        "message_id": "18108278338921569",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3248150/apples-home-hub-isnt-what-you-think-it-is.html",
-      "source_url": "https://www.macworld.com/article/3248150/apples-home-hub-isnt-what-you-think-it-is.html",
-      "headline": "Apple’s home hub isn’t what you think it is",
-      "summary": "Macworld Apple may be less than two weeks away from releasing an all-new product in a new device category: a smart home hub. The device is said to be the start of a big push into the smart home category, which Apple has really only dabbled with so far. Bloomberg’s Mark Gurman says Apple is finally",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3248150-0-84383200-1790850621-homepad-to-scale.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3248150-0-84383200-1790850621-homepad-to-scale.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apples-home-hub-isnt-what-you-think-it-is",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-01T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-01T23:23:44.744Z",
-        "message_id": 512,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-01T23:15:14.226Z",
-        "message_id": "18430547077148236",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-macworld-com-article-3248150-apples-home-hub-isnt-what-you-think-it-is-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-01T23:15:23.559Z",
-        "message_id": "18094206506553757",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/dont-follow-the-herd-on-ai-cost-optimization-control-compute-this-way",
-      "source_url": "https://www.techradar.com/pro/dont-follow-the-herd-on-ai-cost-optimization-control-compute-this-way",
-      "headline": "Don’t follow the herd on AI cost optimization",
-      "summary": "AI cost optimization starts by reducing unnecessary compute, not chasing lower-cost models.",
-      "source_name": "control compute this way",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=dont-follow-the-herd-on-ai-cost-optimization",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-01T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-02T01:42:05.665Z",
-        "message_id": 513,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-02T01:17:48.316Z",
-        "message_id": "18089214410673469",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-techradar-com-pro-dont-follow-the-herd-on-ai-cost-optimization-control-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-02T01:17:57.712Z",
-        "message_id": "17915905800462377",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/the-real-prize-isnt-just-doing-more-work-its-redesigning-work-new-report-claims-ai-is-being-used-more-in-the-office-but-its-creating-more-work-for-many",
-      "source_url": "https://www.techradar.com/pro/the-real-prize-isnt-just-doing-more-work-its-redesigning-work-new-report-claims-ai-is-being-used-more-in-the-office-but-its-creating-more-work-for-many",
-      "headline": "'The real prize isn’t just doing more work; it’s redesigning work': New report claims AI is being used more in the office, but it's creating more work for many",
-      "summary": "Workers say AI is making their jobs more complex, but PwC argues we need to fundamentally redesign work for this new era.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mR2722QpcTxgKEAa8Ne5sL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/mR2722QpcTxgKEAa8Ne5sL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-real-prize-isnt-just-doing-more-work-its-redesigning-work-new-report-claims-ai-is-bein",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-01T17:20:00.000Z",
+      "scheduled_publish_at": "2026-10-02T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -383,147 +460,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-techradar-com-pro-the-real-prize-isnt-just-doing-more-work-its-redesig-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
-      "source_url": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
-      "headline": "When is Apple’s next event? Dates, rumors, and what to expect",
-      "summary": "Macworld Apple’s September event may not have been Apple’s final event of 2026 – another launch could be coming on October 13. Apple typically has four main event windows each year: a spring event, WWDC in June, the iPhone event in September, and sometimes a further event in October. The company ra",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-46880800-1790847032-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-46880800-1790847032-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=when-is-apples-next-event-dates-rumors-and-what-to-expect",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-01T19:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-30T20:14:01.646Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-30T20:12:46.275Z",
-        "message_id": "18032367620673142"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-macworld-com-article-672537-when-is-apples-next-event-html-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/bt-business-wants-to-help-uk-smbs-get-on-board-with-ai-including-a-new-ai-receptionist",
-      "source_url": "https://www.techradar.com/pro/bt-business-wants-to-help-uk-smbs-get-on-board-with-ai-including-a-new-ai-receptionist",
-      "headline": "BT Business wants to help UK SMBs get on board with AI",
-      "summary": "BT Business unveils a host of new AI tools to help supercharge British SMBs.",
-      "source_name": "including a new AI receptionist",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/2iH4kSL6LCJbxYBpQT5iiM-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/2iH4kSL6LCJbxYBpQT5iiM-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=bt-business-wants-to-help-uk-smbs-get-on-board-with-ai",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-01T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-techradar-com-pro-bt-business-wants-to-help-uk-smbs-get-on-board-with--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3245833/one-platform-gives-you-access-to-gpt-gemini-claude-and-more-for-life-for-just-100.html",
-      "source_url": "https://www.macworld.com/article/3245833/one-platform-gives-you-access-to-gpt-gemini-claude-and-more-for-life-for-just-100.html",
-      "headline": "One platform gives you access to GPT, Gemini, Claude, and more for life for just $100",
-      "summary": "Macworld TL;DR: 1min.AI gives you lifetime access to GPT, Claude, Gemini, and more for a one-time payment of $99.99 (reg. $540). ChatGPT Plus costs $20 a month, and that only gets you OpenAI’s models. 1min.AI puts GPT, Claude, Gemini, and other AI models in one app for writing, images, audio, and vi",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3245833-0-71774100-1790841639-1minAI_de6158.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3245833-0-71774100-1790841639-1minAI_de6158.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=one-platform-gives-you-access-to-gpt-gemini-claude-and-more-for-life-for-just-100",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-01T23:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-01/https-www-macworld-com-article-3245833-one-platform-gives-you-access-to-gpt-gemi-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-pro-california-governor-gavin-newsom-signs-no-robo-bosse-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
