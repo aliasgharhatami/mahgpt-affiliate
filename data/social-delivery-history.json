@@ -4828,6 +4828,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-02T23:10:23.877Z",
+        "message_id": 520,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
