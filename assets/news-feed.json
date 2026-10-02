@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T07:33:07.580Z",
+  "updatedAt": "2026-10-02T11:07:06.411Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
+      "title": "Shopify unlocks ‘big picture’ design control with new conversational AI tool",
+      "summary": "It just got easier to manage your brand and design consistency",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool",
+      "publishedAt": "2026-10-02T10:47:25.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/2N28MYfoarWw4QbozaUFvj-1376-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Financial Services’ next AI risk is the workflow nobody can explain",
+      "summary": "Financial services is moving from AI that answers questions to AI that takes action – and that shift changes what accountability means.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/financial-services-next-ai-risk-is-the-workflow-nobody-can-explain",
+      "publishedAt": "2026-10-02T10:40:49.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Apple’s September was huge. October could be even bigger",
+      "summary": "Macworld The big September Apple event is over and the new iPhones have been announced, which usuall means a little quiet. Not this year. While the iPhone 18 Pro and Pro Max, shipped last month, the star of the show, the iPhone Duo hasn’t even gone up for pre-order yet. But that’s not all—there’s a ",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3245800/apples-september-was-huge-october-could-be-even-bigger.html",
+      "publishedAt": "2026-10-02T10:30:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3245800-0-55182300-1790937029-iphone-duo-october.png?w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "New YouGov polls find Brits really don't like — or trust — AI companies",
+      "summary": "AI companies are perceived as being worse than Big Tech, but they're not quite as unpopular as social media companies.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/new-yougov-polls-find-brits-really-dont-like-or-trust-ai-companies",
+      "publishedAt": "2026-10-02T10:03:12.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Meta Muse has already broken a record: it beats all competitors in data collection, Surfshark warns",
+      "summary": "Surfshark’s latest research found that Meta's newly launched AI agent is already leading the rankings as the most data-hungry chatbot.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/vpn/vpn-services/meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshark-warns",
+      "publishedAt": "2026-10-02T09:47:06.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7JHgomMZui7pUWLxTnysHM-1920-80.png"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "publishedAt": "2026-10-02T09:45:00.000Z",
+      "image": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/191:100/w_1280,c_limit/GettyImages-2278945913.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "AI music maker Suno now generates spoken words",
+      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music t",
+      "guide": "/news/index.html",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "publishedAt": "2026-10-02T09:42:19.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Stop renting access to Word and Excel with a one-time Office 2024 license for $113",
+      "summary": "Macworld TL;DR: Get Microsoft Office 2024 Home for Mac or PC for $112.97 (MSRP $149.99) through October 4, with lifetime access to Word, Excel, and PowerPoint. If you only need the core Office apps, you don’t necessarily have to sign up for Microsoft 365 and keep paying for access. Microsoft Office ",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3249425/stop-renting-access-to-word-and-excel-with-a-one-time-office-2024-license-for-113.html",
+      "publishedAt": "2026-10-02T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3249425-0-90078600-1790928083-mso-2024-x-win-11-pro.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
       "title": "AI chatbots are slowly choking humanity as research shows a 'vicious cycle' could cause global knowledge collapse",
       "summary": "Researchers find AI chatbots are delivering the same answers repeatedly, providing a narrower selection of information than a traditional search engine, potentially reducing diversity of opinion, perspectives, and choice",
       "guide": "/news/index.html",
       "source": "https://www.techradar.com/pro/ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-global-knowledge-collapse",
       "publishedAt": "2026-10-02T01:05:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/Ecs8hG3w6bXM2Fmbrm4rgd-2560-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Whatever AI Safety Is, It’s Not This",
-      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
-      "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-      "publishedAt": "2026-10-01T22:10:42.000Z",
-      "image": "https://media.wired.com/photos/6abd667878587a545496ec2f/191:100/w_1280,c_limit/Model-Behavior-Trump-AI-Business.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "OpenAI fires three employees who allegedly shared info with an external AI safety group",
-      "summary": "You can't make this stuff up.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/",
-      "publishedAt": "2026-10-01T22:05:43.000Z",
-      "image": "https://www.engadget.com/img/gallery/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/l-intro-1790891007.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture Venezuela&#8217;s president",
-      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "publishedAt": "2026-10-01T21:08:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Oura partners with Xella Health to combine your smart ring data with AI-powered biomarker testing",
-      "summary": "Oura has a new partner integration, and this time it’s a women's health platform that combines lab testing with telehealth care, dubbed Xella Health.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
-      "publishedAt": "2026-10-01T20:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-      "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "publishedAt": "2026-10-01T19:58:31.000Z",
-      "image": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/191:100/w_1280,c_limit/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroun",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "publishedAt": "2026-10-01T19:47:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Judge dismisses lawsuits claiming Google's AI Overviews siphon web traffic",
-      "summary": "Google may have a monopoly in search, but neither lawsuit made a compelling case the company was leveraging it.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2275023/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/",
-      "publishedAt": "2026-10-01T19:20:32.000Z",
-      "image": "https://www.engadget.com/img/gallery/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/l-intro-1790882295.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "California Governor Gavin Newsom signs 'No Robo Bosses Act' — so an AI can no longer fire you on its own",
-      "summary": "New California bill requires humans to verify and provide proof for automated decisions to discipline or fire workers.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/california-governor-gavin-newsom-signs-no-robo-bosses-act-so-an-ai-can-no-longer-fire-you-on-its-own",
-      "publishedAt": "2026-10-01T18:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/BpzQKZwrp6AdwJbD44GdkL-1920-80.jpg"
     }
   ]
 }
