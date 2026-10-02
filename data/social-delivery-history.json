@@ -4777,6 +4777,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3245800/apples-september-was-huge-october-could-be-even-bigger.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-02T16:39:59.743Z",
+        "message_id": 517,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
