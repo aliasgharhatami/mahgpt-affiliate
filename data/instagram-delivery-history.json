@@ -3252,6 +3252,20 @@
         "message_id": "18094817939440661",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/new-yougov-polls-find-brits-really-dont-like-or-trust-ai-companies": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-02T19:10:08.250Z",
+        "message_id": "17923952772431449",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-02T19:10:18.352Z",
+        "message_id": "17953646559037020",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
