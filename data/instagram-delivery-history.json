@@ -3224,6 +3224,20 @@
         "message_id": "17915871138460076",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/financial-services-next-ai-risk-is-the-workflow-nobody-can-explain": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-02T14:00:35.656Z",
+        "message_id": "18117784258915014",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-02T14:00:47.705Z",
+        "message_id": "17916137145453460",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
