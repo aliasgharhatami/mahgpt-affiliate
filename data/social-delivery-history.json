@@ -4709,6 +4709,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/dont-follow-the-herd-on-ai-cost-optimization-control-compute-this-way": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-02T01:42:05.665Z",
+        "message_id": 513,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
