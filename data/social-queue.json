@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-10-02",
-  "created_at": "2026-10-02T07:33:07.719Z",
-  "source_feed_updated_at": "2026-10-02T07:33:07.580Z",
+  "created_at": "2026-10-02T11:07:11.064Z",
+  "source_feed_updated_at": "2026-10-02T11:07:06.411Z",
   "items": [
     {
       "story_id": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
@@ -53,6 +53,376 @@
       }
     },
     {
+      "story_id": "https://www.techradar.com/pro/shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool",
+      "source_url": "https://www.techradar.com/pro/shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool",
+      "headline": "Shopify unlocks ‘big picture’ design control with new conversational AI tool",
+      "summary": "It just got easier to manage your brand and design consistency",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/2N28MYfoarWw4QbozaUFvj-1376-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2N28MYfoarWw4QbozaUFvj-1376-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1376,
+        "height": 768,
+        "aspectRatio": 1.7916666666666667,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-pro-shopify-unlocks-big-picture-design-control-with-new--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/financial-services-next-ai-risk-is-the-workflow-nobody-can-explain",
+      "source_url": "https://www.techradar.com/pro/financial-services-next-ai-risk-is-the-workflow-nobody-can-explain",
+      "headline": "Financial Services’ next AI risk is the workflow nobody can explain",
+      "summary": "Financial services is moving from AI that answers questions to AI that takes action – and that shift changes what accountability means.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=financial-services-next-ai-risk-is-the-workflow-nobody-can-explain",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-pro-financial-services-next-ai-risk-is-the-workflow-nobo-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3245800/apples-september-was-huge-october-could-be-even-bigger.html",
+      "source_url": "https://www.macworld.com/article/3245800/apples-september-was-huge-october-could-be-even-bigger.html",
+      "headline": "Apple’s September was huge. October could be even bigger",
+      "summary": "Macworld The big September Apple event is over and the new iPhones have been announced, which usuall means a little quiet. Not this year. While the iPhone 18 Pro and Pro Max, shipped last month, the star of the show, the iPhone Duo hasn’t even gone up for pre-order yet. But that’s not all—there’s a",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3245800-0-55182300-1790937029-iphone-duo-october.png?w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3245800-0-55182300-1790937029-iphone-duo-october.png?w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apples-september-was-huge-october-could-be-even-bigger",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-macworld-com-article-3245800-apples-september-was-huge-october-could-b-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/new-yougov-polls-find-brits-really-dont-like-or-trust-ai-companies",
+      "source_url": "https://www.techradar.com/pro/new-yougov-polls-find-brits-really-dont-like-or-trust-ai-companies",
+      "headline": "New YouGov polls find Brits really don't like — or trust",
+      "summary": "AI companies are perceived as being worse than Big Tech, but they're not quite as unpopular as social media companies.",
+      "source_name": "AI companies",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=new-yougov-polls-find-brits-really-dont-like",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-pro-new-yougov-polls-find-brits-really-dont-like-or-trus-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/vpn/vpn-services/meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshark-warns",
+      "source_url": "https://www.techradar.com/vpn/vpn-services/meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshark-warns",
+      "headline": "Meta Muse has already broken a record: it beats all competitors in data collection, Surfshark warns",
+      "summary": "Surfshark’s latest research found that Meta's newly launched AI agent is already leading the rankings as the most data-hungry chatbot.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/7JHgomMZui7pUWLxTnysHM-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7JHgomMZui7pUWLxTnysHM-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshar",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-vpn-vpn-services-meta-muse-has-already-broken-a-record-i-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "source_url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "headline": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/191:100/w_1280,c_limit/GettyImages-2278945913.jpg",
+      "image_url": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/191:100/w_1280,c_limit/GettyImages-2278945913.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-02/A-Flaw-in-ChatGPT-s-Mac-App-Could-Have-Let-Hackers-Grab-Sensitive-Data-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-wired-com-story-a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "headline": "AI music maker Suno now generates spoken words",
+      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music t",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-music-maker-suno-now-generates-spoken-words",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-02/AI-music-maker-Suno-now-generates-spoken-words-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-theverge-com-ai-artificial-intelligence-1003925-suno-speech-ai-voice-f-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3249425/stop-renting-access-to-word-and-excel-with-a-one-time-office-2024-license-for-113.html",
+      "source_url": "https://www.macworld.com/article/3249425/stop-renting-access-to-word-and-excel-with-a-one-time-office-2024-license-for-113.html",
+      "headline": "Stop renting access to Word and Excel with a one-time Office 2024 license for $113",
+      "summary": "Macworld TL;DR: Get Microsoft Office 2024 Home for Mac or PC for $112.97 (MSRP $149.99) through October 4, with lifetime access to Word, Excel, and PowerPoint. If you only need the core Office apps, you don’t necessarily have to sign up for Microsoft 365 and keep paying for access. Microsoft Office",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3249425-0-90078600-1790928083-mso-2024-x-win-11-pro.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3249425-0-90078600-1790928083-mso-2024-x-win-11-pro.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=stop-renting-access-to-word-and-excel-with-a-one-time-office-2024-license-for-113",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-02T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-macworld-com-article-3249425-stop-renting-access-to-word-and-excel-wit-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
       "story_id": "https://www.techradar.com/pro/ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-global-knowledge-collapse",
       "source_url": "https://www.techradar.com/pro/ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-global-knowledge-collapse",
       "headline": "AI chatbots are slowly choking humanity as research shows a 'vicious cycle' could cause global knowledge collapse",
@@ -73,12 +443,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-02T23:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-02T07:33:13.158Z",
-        "message_id": 514,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-02T07:33:13.158Z"
       },
       "linkedin": {
         "status": "pending"
@@ -92,375 +460,6 @@
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
       "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-pro-ai-chatbots-are-slowly-choking-humanity-as-research--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-      "source_url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-      "headline": "Whatever AI Safety Is, It’s Not This",
-      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6abd667878587a545496ec2f/191:100/w_1280,c_limit/Model-Behavior-Trump-AI-Business.jpg",
-      "image_url": "https://media.wired.com/photos/6abd667878587a545496ec2f/191:100/w_1280,c_limit/Model-Behavior-Trump-AI-Business.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1146,
-        "height": 600,
-        "aspectRatio": 1.91,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=whatever-ai-safety-is-its-not-this",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T09:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-wired-com-story-whatever-ai-safety-looks-like-its-not-this--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/",
-      "source_url": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/",
-      "headline": "OpenAI fires three employees who allegedly shared info with an external AI safety group",
-      "summary": "the company or product is highlighted in a current technology report.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/l-intro-1790891007.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/l-intro-1790891007.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T11:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-engadget-com-2275278-openai-fires-three-employees-who-allegedly-shared-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "source_url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "headline": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture Venezuela&#8217;s president",
-      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 683,
-        "aspectRatio": 1.499267935578331,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=musk-and-8217-s-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuela-and-8217-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T13:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-techcrunch-com-2026-10-01-musks-ai-chatbot-grok-reportedly-encouraged-trum-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
-      "source_url": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
-      "headline": "Oura partners with Xella Health to combine your smart ring data with AI-powered biomarker testing",
-      "summary": "Oura has a new partner integration, and this time it’s a women's health platform that combines lab testing with telehealth care, dubbed Xella Health.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2000,
-        "height": 1125,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=oura-partners-with-xella-health-to-combine-your-smart-ring-data-with-ai-powered-biomarker-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-health-fitness-oura-rings-get-ai-powered-biomarker-upgra-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "source_url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "headline": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/191:100/w_1280,c_limit/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg",
-      "image_url": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/191:100/w_1280,c_limit/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1146,
-        "height": 600,
-        "aspectRatio": 1.91,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trumps-morally-binding-ai-accord-the-rise-of-ai-agents-and-extremists-on-the-ballot",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-wired-com-story-uncanny-valley-podcast-trumps-pinky-swear-ai-safety-ac-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "headline": "Google’s new Guided Vision feature can help you read the fine print",
-      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroun",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=googles-new-guided-vision-feature-can-help-you-read-the-fine-print",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-02/Google-s-new-Guided-Vision-feature-can-help-you-read-the-fine-print-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-theverge-com-ai-artificial-intelligence-1003756-google-gemini-live-gui-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2275023/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/",
-      "source_url": "https://www.engadget.com/2275023/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/",
-      "headline": "Judge dismisses lawsuits claiming Google's AI Overviews siphon web traffic",
-      "summary": "Google may have a monopoly in search, but neither lawsuit made a compelling case the company was leveraging it.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/l-intro-1790882295.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/l-intro-1790882295.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-engadget-com-2275023-judge-dismisses-lawsuits-claiming-googles-ai-over-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/california-governor-gavin-newsom-signs-no-robo-bosses-act-so-an-ai-can-no-longer-fire-you-on-its-own",
-      "source_url": "https://www.techradar.com/pro/california-governor-gavin-newsom-signs-no-robo-bosses-act-so-an-ai-can-no-longer-fire-you-on-its-own",
-      "headline": "California Governor Gavin Newsom signs 'No Robo Bosses Act'",
-      "summary": "New California bill requires humans to verify and provide proof for automated decisions to discipline or fire workers.",
-      "source_name": "so an AI can no longer fire you on its own",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/BpzQKZwrp6AdwJbD44GdkL-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/BpzQKZwrp6AdwJbD44GdkL-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1079,
-        "aspectRatio": 1.7794253938832252,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=california-governor-gavin-newsom-signs-no-robo-bosses-act",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T23:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-pro-california-governor-gavin-newsom-signs-no-robo-bosse-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

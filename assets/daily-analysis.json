@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T11:38:02.388Z",
-  "analysis_date": "2026-10-01",
+  "generated_at": "2026-10-02T11:07:17.335Z",
+  "analysis_date": "2026-10-02",
   "stories": [
     {
       "title": "AI voice startup ElevenLabs doubles valuation to $22B",
@@ -9,93 +9,93 @@
       "mahgpt_url": "/news/story.html?id=ai-voice-startup-elevenlabs-doubles-valuation-to-22b"
     },
     {
-      "title": "Hollywood is betting big on AI movies — just as audiences turn against them",
-      "source": "https://www.techradar.com/ai-platforms-assistants/there-is-nothing-like-human-hollywood-is-betting-big-on-ai-movies-just-as-audiences-are-turning-against-them-and-looking-for-films-made-by-real-people",
-      "mahgpt_url": "/news/story.html?id=hollywood-is-betting-big-on-ai-movies-just-as-audiences-turn-against-them"
+      "title": "Shopify unlocks ‘big picture’ design control with new conversational AI tool",
+      "source": "https://www.techradar.com/pro/shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool",
+      "mahgpt_url": "/news/story.html?id=shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool"
     },
     {
-      "title": "AI agents are ready to act, but do they understand your business?",
-      "source": "https://www.techradar.com/pro/ai-agents-are-ready-to-act-but-do-they-understand-your-business",
-      "mahgpt_url": "/news/story.html?id=ai-agents-are-ready-to-act-but-do-they-understand-your-business"
+      "title": "Financial Services’ next AI risk is the workflow nobody can explain",
+      "source": "https://www.techradar.com/pro/financial-services-next-ai-risk-is-the-workflow-nobody-can-explain",
+      "mahgpt_url": "/news/story.html?id=financial-services-next-ai-risk-is-the-workflow-nobody-can-explain"
     },
     {
-      "title": "New HomePod rumors: HomePod mini 2, HomePad and touchscreen HomePod",
-      "source": "https://www.macworld.com/article/676817/new-homepod-mini-screen-rumours-release-date.html",
-      "mahgpt_url": "/news/story.html?id=new-homepod-rumors-homepod-mini-2-homepad-and-touchscreen-homepod"
+      "title": "Apple’s September was huge. October could be even bigger",
+      "source": "https://www.macworld.com/article/3245800/apples-september-was-huge-october-could-be-even-bigger.html",
+      "mahgpt_url": "/news/story.html?id=apples-september-was-huge-october-could-be-even-bigger"
     },
     {
-      "title": "Apple’s home hub isn’t what you think it is",
-      "source": "https://www.macworld.com/article/3248150/apples-home-hub-isnt-what-you-think-it-is.html",
-      "mahgpt_url": "/news/story.html?id=apples-home-hub-isnt-what-you-think-it-is"
+      "title": "New YouGov polls find Brits really don't like — or trust — AI companies",
+      "source": "https://www.techradar.com/pro/new-yougov-polls-find-brits-really-dont-like-or-trust-ai-companies",
+      "mahgpt_url": "/news/story.html?id=new-yougov-polls-find-brits-really-dont-like-or-trust-ai-companies"
     },
     {
-      "title": "Don’t follow the herd on AI cost optimization – control compute this way",
-      "source": "https://www.techradar.com/pro/dont-follow-the-herd-on-ai-cost-optimization-control-compute-this-way",
-      "mahgpt_url": "/news/story.html?id=dont-follow-the-herd-on-ai-cost-optimization-control-compute-this-way"
+      "title": "Meta Muse has already broken a record: it beats all competitors in data collection, Surfshark warns",
+      "source": "https://www.techradar.com/vpn/vpn-services/meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshark-warns",
+      "mahgpt_url": "/news/story.html?id=meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshar"
     },
     {
-      "title": "'The real prize isn’t just doing more work; it’s redesigning work': New report claims AI is being used more in the office, but it's creating more work for many",
-      "source": "https://www.techradar.com/pro/the-real-prize-isnt-just-doing-more-work-its-redesigning-work-new-report-claims-ai-is-being-used-more-in-the-office-but-its-creating-more-work-for-many",
-      "mahgpt_url": "/news/story.html?id=the-real-prize-isnt-just-doing-more-work-its-redesigning-work-new-report-claims-ai-is-bein"
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "source": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "mahgpt_url": "/news/story.html?id=a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data"
     },
     {
-      "title": "When is Apple’s next event? Dates, rumors, and what to expect",
-      "source": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
-      "mahgpt_url": "/news/story.html?id=when-is-apples-next-event-dates-rumors-and-what-to-expect"
+      "title": "AI music maker Suno now generates spoken words",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "mahgpt_url": "/news/story.html?id=ai-music-maker-suno-now-generates-spoken-words"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-01.html"
+      "path": "news/analysis/2026-10-02.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-01.html"
+      "path": "es/news/analysis/2026-10-02.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-01.html"
+      "path": "de/news/analysis/2026-10-02.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-01.html"
+      "path": "fr/news/analysis/2026-10-02.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-01.html"
+      "path": "pt-BR/news/analysis/2026-10-02.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-01.html"
+      "path": "ar/news/analysis/2026-10-02.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-01.html"
+      "path": "fa/news/analysis/2026-10-02.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-01.html"
+      "path": "tr/news/analysis/2026-10-02.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-01.html"
+      "path": "it/news/analysis/2026-10-02.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-01.html"
+      "path": "ja/news/analysis/2026-10-02.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-01.html"
+      "path": "ko/news/analysis/2026-10-02.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-01.html"
+      "path": "id/news/analysis/2026-10-02.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-01.html"
+      "path": "hi/news/analysis/2026-10-02.html"
     }
   ]
 }
