@@ -4811,6 +4811,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/vpn/vpn-services/meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshark-warns": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-02T21:20:34.988Z",
+        "message_id": 519,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
