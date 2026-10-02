@@ -3238,6 +3238,20 @@
         "message_id": "17916137145453460",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3245800/apples-september-was-huge-october-could-be-even-bigger.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-02T16:41:12.212Z",
+        "message_id": "17912341248532904",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-02T16:41:21.995Z",
+        "message_id": "18094817939440661",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
