@@ -4743,6 +4743,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-02T11:07:46.686Z",
+        "message_id": 515,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
