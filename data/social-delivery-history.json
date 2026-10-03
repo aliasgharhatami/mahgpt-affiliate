@@ -4913,6 +4913,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/televisions/tvs-are-finally-being-hit-hard-by-the-ai-fueled-memory-crisis-for-the-first-time-the-cost-of-the-processors-is-higher-than-the-display-panels-in-some-models": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-03T13:17:14.090Z",
+        "message_id": 525,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
