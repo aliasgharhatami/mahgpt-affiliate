@@ -4862,6 +4862,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3249425/stop-renting-access-to-word-and-excel-with-a-one-time-office-2024-license-for-113.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-03T01:59:10.214Z",
+        "message_id": 522,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
