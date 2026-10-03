@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T11:07:17.335Z",
-  "analysis_date": "2026-10-02",
+  "generated_at": "2026-10-03T10:25:33.560Z",
+  "analysis_date": "2026-10-03",
   "stories": [
     {
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "source": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "mahgpt_url": "/news/story.html?id=ai-voice-startup-elevenlabs-doubles-valuation-to-22b"
+      "title": "GPT, Claude, and Gemini in one browser tab for $39.99, for life",
+      "source": "https://www.macworld.com/article/3249650/gpt-claude-and-gemini-in-one-browser-tab-for-39-99-for-life.html",
+      "mahgpt_url": "/news/story.html?id=gpt-claude-and-gemini-in-one-browser-tab-for-39-99-for-life"
     },
     {
-      "title": "Shopify unlocks ‘big picture’ design control with new conversational AI tool",
-      "source": "https://www.techradar.com/pro/shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool",
-      "mahgpt_url": "/news/story.html?id=shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool"
+      "title": "Your boss might be bluffing about how much AI knowledge they really have",
+      "source": "https://www.techradar.com/pro/your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have",
+      "mahgpt_url": "/news/story.html?id=your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have"
     },
     {
-      "title": "Financial Services’ next AI risk is the workflow nobody can explain",
-      "source": "https://www.techradar.com/pro/financial-services-next-ai-risk-is-the-workflow-nobody-can-explain",
-      "mahgpt_url": "/news/story.html?id=financial-services-next-ai-risk-is-the-workflow-nobody-can-explain"
+      "title": "The component cost crisis is hitting TVs hard now, as chip prices rise higher than panel costs",
+      "source": "https://www.techradar.com/televisions/tvs-are-finally-being-hit-hard-by-the-ai-fueled-memory-crisis-for-the-first-time-the-cost-of-the-processors-is-higher-than-the-display-panels-in-some-models",
+      "mahgpt_url": "/news/story.html?id=the-component-cost-crisis-is-hitting-tvs-hard-now-as-chip-prices-rise-higher-than-panel-co"
     },
     {
-      "title": "Apple’s September was huge. October could be even bigger",
-      "source": "https://www.macworld.com/article/3245800/apples-september-was-huge-october-could-be-even-bigger.html",
-      "mahgpt_url": "/news/story.html?id=apples-september-was-huge-october-could-be-even-bigger"
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "source": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "mahgpt_url": "/news/story.html?id=apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents"
     },
     {
-      "title": "New YouGov polls find Brits really don't like — or trust — AI companies",
-      "source": "https://www.techradar.com/pro/new-yougov-polls-find-brits-really-dont-like-or-trust-ai-companies",
-      "mahgpt_url": "/news/story.html?id=new-yougov-polls-find-brits-really-dont-like-or-trust-ai-companies"
+      "title": "Minisforum's AMD Ryzen AI Max+ PRO 495 workstation will cost more than $9,200, but you can get it for under $7,400 on preorder for a limited time",
+      "source": "https://www.techradar.com/pro/minisforums-amd-ryzen-ai-max-pro-495-workstation-will-cost-more-than-usd9-200-but-you-can-get-it-for-under-usd7-400-on-preorder-for-a-limited-time",
+      "mahgpt_url": "/news/story.html?id=minisforums-amd-ryzen-ai-max-pro-495-workstation-will-cost-more-than-9-200-but-you-can-get"
     },
     {
-      "title": "Meta Muse has already broken a record: it beats all competitors in data collection, Surfshark warns",
-      "source": "https://www.techradar.com/vpn/vpn-services/meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshark-warns",
-      "mahgpt_url": "/news/story.html?id=meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshar"
+      "title": "Ukraine drone chief targeted by $20 million Russian bounty warns 'humanity is losing control' as AI becomes a 'digital panopticon'",
+      "source": "https://www.techradar.com/pro/ukraine-drone-chief-targeted-by-usd20-million-russian-bounty-warns-humanity-is-losing-control-as-ai-becomes-a-digital-panopticon",
+      "mahgpt_url": "/news/story.html?id=ukraine-drone-chief-targeted-by-20-million-russian-bounty-warns-humanity-is-losing-control"
     },
     {
-      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "source": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "mahgpt_url": "/news/story.html?id=a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data"
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "source": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "mahgpt_url": "/news/story.html?id=sean-parker-is-rebuilding-stability-ai-around-music"
     },
     {
-      "title": "AI music maker Suno now generates spoken words",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "mahgpt_url": "/news/story.html?id=ai-music-maker-suno-now-generates-spoken-words"
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "source": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "mahgpt_url": "/news/story.html?id=meta-open-sources-code-to-let-you-make-muse-ai-gadgets"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-02.html"
+      "path": "news/analysis/2026-10-03.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-02.html"
+      "path": "es/news/analysis/2026-10-03.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-02.html"
+      "path": "de/news/analysis/2026-10-03.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-02.html"
+      "path": "fr/news/analysis/2026-10-03.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-02.html"
+      "path": "pt-BR/news/analysis/2026-10-03.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-02.html"
+      "path": "ar/news/analysis/2026-10-03.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-02.html"
+      "path": "fa/news/analysis/2026-10-03.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-02.html"
+      "path": "tr/news/analysis/2026-10-03.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-02.html"
+      "path": "it/news/analysis/2026-10-03.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-02.html"
+      "path": "ja/news/analysis/2026-10-03.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-02.html"
+      "path": "ko/news/analysis/2026-10-03.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-02.html"
+      "path": "id/news/analysis/2026-10-03.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-02.html"
+      "path": "hi/news/analysis/2026-10-03.html"
     }
   ]
 }
