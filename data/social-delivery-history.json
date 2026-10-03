@@ -4845,6 +4845,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-03T00:42:24.284Z",
+        "message_id": 521,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
