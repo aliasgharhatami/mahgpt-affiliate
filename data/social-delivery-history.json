@@ -4947,6 +4947,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/minisforums-amd-ryzen-ai-max-pro-495-workstation-will-cost-more-than-usd9-200-but-you-can-get-it-for-under-usd7-400-on-preorder-for-a-limited-time": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-03T17:31:12.237Z",
+        "message_id": 527,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
