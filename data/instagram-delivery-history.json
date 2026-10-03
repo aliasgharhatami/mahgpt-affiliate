@@ -3308,6 +3308,20 @@
         "message_id": "17903611566565924",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3249650/gpt-claude-and-gemini-in-one-browser-tab-for-39-99-for-life.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-03T10:28:19.585Z",
+        "message_id": "18082296518350265",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-03T10:28:30.544Z",
+        "message_id": "17900645229378272",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
