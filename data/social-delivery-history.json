@@ -4930,6 +4930,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-03T15:09:19.734Z",
+        "message_id": 526,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
