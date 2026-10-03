@@ -3322,6 +3322,20 @@
         "message_id": "17900645229378272",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-03T12:44:30.850Z",
+        "message_id": "17993316768020538",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-03T12:44:41.165Z",
+        "message_id": "18145322032537862",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
