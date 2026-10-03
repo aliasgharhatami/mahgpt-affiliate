@@ -4896,6 +4896,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3249650/gpt-claude-and-gemini-in-one-browser-tab-for-39-99-for-life.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-03T10:26:05.301Z",
+        "message_id": 524,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
