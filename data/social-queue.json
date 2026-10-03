@@ -1,122 +1,65 @@
 {
   "version": 1,
-  "queue_date": "2026-10-02",
-  "created_at": "2026-10-02T11:07:11.064Z",
-  "source_feed_updated_at": "2026-10-02T11:07:06.411Z",
+  "queue_date": "2026-10-03",
+  "created_at": "2026-10-03T07:58:33.920Z",
+  "source_feed_updated_at": "2026-10-03T07:58:33.826Z",
   "items": [
     {
-      "story_id": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "source_url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "headline": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 669,
-        "aspectRatio": 1.7937219730941705,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
-      "detected_partner": "elevenlabs",
-      "product_url": "/go/elevenlabs.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-02T05:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-01T11:38:30.956Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-01T11:40:34.982Z",
-        "message_id": "18083013881326999"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-techcrunch-com-2026-09-30-ai-voice-startup-elevenlabs-doubles-valuation-to-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool",
-      "source_url": "https://www.techradar.com/pro/shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool",
-      "headline": "Shopify unlocks ‘big picture’ design control with new conversational AI tool",
-      "summary": "It just got easier to manage your brand and design consistency",
+      "story_id": "https://www.techradar.com/pro/your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have",
+      "source_url": "https://www.techradar.com/pro/your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have",
+      "headline": "Your boss might be bluffing about how much AI knowledge they really have",
+      "summary": "23% of bosses could be lying about their AI skills, and yet nearly half say they value AI skills more than formal qualifications.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/2N28MYfoarWw4QbozaUFvj-1376-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/2N28MYfoarWw4QbozaUFvj-1376-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1350-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1350-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1376,
-        "height": 768,
-        "aspectRatio": 1.7916666666666667,
+        "width": 1350,
+        "height": 759,
+        "aspectRatio": 1.7786561264822134,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-03T05:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-10-02T11:07:46.686Z",
-        "message_id": 515,
+        "published_at": "2026-10-03T07:58:41.797Z",
+        "message_id": 523,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-02T11:10:06.637Z",
-        "message_id": "18067956104775975",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-pro-shopify-unlocks-big-picture-design-control-with-new--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-techradar-com-pro-your-boss-might-be-bluffing-about-how-much-ai-knowle-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-02T11:10:16.454Z",
-        "message_id": "17915871138460076",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/financial-services-next-ai-risk-is-the-workflow-nobody-can-explain",
-      "source_url": "https://www.techradar.com/pro/financial-services-next-ai-risk-is-the-workflow-nobody-can-explain",
-      "headline": "Financial Services’ next AI risk is the workflow nobody can explain",
-      "summary": "Financial services is moving from AI that answers questions to AI that takes action – and that shift changes what accountability means.",
+      "story_id": "https://www.techradar.com/televisions/tvs-are-finally-being-hit-hard-by-the-ai-fueled-memory-crisis-for-the-first-time-the-cost-of-the-processors-is-higher-than-the-display-panels-in-some-models",
+      "source_url": "https://www.techradar.com/televisions/tvs-are-finally-being-hit-hard-by-the-ai-fueled-memory-crisis-for-the-first-time-the-cost-of-the-processors-is-higher-than-the-display-panels-in-some-models",
+      "headline": "The component cost crisis is hitting TVs hard now, as chip prices rise higher than panel costs",
+      "summary": "The ongoing AI-driven component crisis is making itself felt in the TV industry, with prices of memory and even Wi-Fi modules rocketing",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/2RFoR3japMLwE8DDAwcorR-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2RFoR3japMLwE8DDAwcorR-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
@@ -126,168 +69,89 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=financial-services-next-ai-risk-is-the-workflow-nobody-can-explain",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-component-cost-crisis-is-hitting-tvs-hard-now-as-chip-prices-rise-higher-than-panel-co",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-03T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-02T14:09:45.971Z",
-        "message_id": 516,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-02T14:00:35.656Z",
-        "message_id": "18117784258915014",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-pro-financial-services-next-ai-risk-is-the-workflow-nobo-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-techradar-com-televisions-tvs-are-finally-being-hit-hard-by-the-ai-fue-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-02T14:00:47.705Z",
-        "message_id": "17916137145453460",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3245800/apples-september-was-huge-october-could-be-even-bigger.html",
-      "source_url": "https://www.macworld.com/article/3245800/apples-september-was-huge-october-could-be-even-bigger.html",
-      "headline": "Apple’s September was huge. October could be even bigger",
-      "summary": "Macworld The big September Apple event is over and the new iPhones have been announced, which usuall means a little quiet. Not this year. While the iPhone 18 Pro and Pro Max, shipped last month, the star of the show, the iPhone Duo hasn’t even gone up for pre-order yet. But that’s not all—there’s a",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3245800-0-55182300-1790937029-iphone-duo-october.png?w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3245800-0-55182300-1790937029-iphone-duo-october.png?w=1024",
+      "story_id": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "headline": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "source_name": "Arstechnica",
+      "original_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apples-september-was-huge-october-could-be-even-bigger",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-02T16:39:59.743Z",
-        "message_id": 517,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-02T16:41:12.212Z",
-        "message_id": "17912341248532904",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-macworld-com-article-3245800-apples-september-was-huge-october-could-b-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-02T16:41:21.995Z",
-        "message_id": "18094817939440661",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/new-yougov-polls-find-brits-really-dont-like-or-trust-ai-companies",
-      "source_url": "https://www.techradar.com/pro/new-yougov-polls-find-brits-really-dont-like-or-trust-ai-companies",
-      "headline": "New YouGov polls find Brits really don't like — or trust",
-      "summary": "AI companies are perceived as being worse than Big Tech, but they're not quite as unpopular as social media companies.",
-      "source_name": "AI companies",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
+        "width": 1152,
+        "height": 648,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=new-yougov-polls-find-brits-really-dont-like",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T13:20:00.000Z",
+      "scheduled_publish_at": "2026-10-03T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-02T19:20:44.337Z",
-        "message_id": 518,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-02T19:10:08.250Z",
-        "message_id": "17923952772431449",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-pro-new-yougov-polls-find-brits-really-dont-like-or-trus-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-03/https-arstechnica-com-security-2026-10-apple-changes-full-disk-access-permission-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-02T19:10:18.352Z",
-        "message_id": "17953646559037020",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/vpn/vpn-services/meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshark-warns",
-      "source_url": "https://www.techradar.com/vpn/vpn-services/meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshark-warns",
-      "headline": "Meta Muse has already broken a record: it beats all competitors in data collection, Surfshark warns",
-      "summary": "Surfshark’s latest research found that Meta's newly launched AI agent is already leading the rankings as the most data-hungry chatbot.",
+      "story_id": "https://www.techradar.com/pro/minisforums-amd-ryzen-ai-max-pro-495-workstation-will-cost-more-than-usd9-200-but-you-can-get-it-for-under-usd7-400-on-preorder-for-a-limited-time",
+      "source_url": "https://www.techradar.com/pro/minisforums-amd-ryzen-ai-max-pro-495-workstation-will-cost-more-than-usd9-200-but-you-can-get-it-for-under-usd7-400-on-preorder-for-a-limited-time",
+      "headline": "Minisforum's AMD Ryzen AI Max+ PRO 495 workstation will cost more than $9,200, but you can get it for under $7,400 on preorder for a limited time",
+      "summary": "Minisforum’s MS-S1 MAX-P495 combines AMD’s Ryzen AI Max+ PRO 495, 192GB memory, 2TB storage and extensive expansion options.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/7JHgomMZui7pUWLxTnysHM-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/7JHgomMZui7pUWLxTnysHM-1920-80.png",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/c8UiE3b8S3ZSeXqcyWAqzg-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/c8UiE3b8S3ZSeXqcyWAqzg-1920-80.png",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -297,89 +161,165 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshar",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=minisforums-amd-ryzen-ai-max-pro-495-workstation-will-cost-more-than-9-200-but-you-can-get",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T15:20:00.000Z",
+      "scheduled_publish_at": "2026-10-03T11:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-02T21:20:34.988Z",
-        "message_id": 519,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-02T21:21:21.560Z",
-        "message_id": "18007225328783679",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-vpn-vpn-services-meta-muse-has-already-broken-a-record-i-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-techradar-com-pro-minisforums-amd-ryzen-ai-max-pro-495-workstation-wil-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-02T21:21:29.990Z",
-        "message_id": "17922325530425842",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "source_url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "headline": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/191:100/w_1280,c_limit/GettyImages-2278945913.jpg",
-      "image_url": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/191:100/w_1280,c_limit/GettyImages-2278945913.jpg",
+      "story_id": "https://www.techradar.com/pro/ukraine-drone-chief-targeted-by-usd20-million-russian-bounty-warns-humanity-is-losing-control-as-ai-becomes-a-digital-panopticon",
+      "source_url": "https://www.techradar.com/pro/ukraine-drone-chief-targeted-by-usd20-million-russian-bounty-warns-humanity-is-losing-control-as-ai-becomes-a-digital-panopticon",
+      "headline": "Ukraine drone chief targeted by $20 million Russian bounty warns 'humanity is losing control' as AI becomes a 'digital panopticon'",
+      "summary": "Ukraine's drone chief says humanity is \"losing control\" of AI weapons, calling it a panopticon even as drones continue to get increasingly 'smarter' on the front line",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ-1920-80.png",
       "image_validation": {
         "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ukraine-drone-chief-targeted-by-20-million-russian-bounty-warns-humanity-is-losing-control",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T17:20:00.000Z",
+      "scheduled_publish_at": "2026-10-03T13:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-02T23:10:23.877Z",
-        "message_id": 520,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-02T22:57:57.004Z",
-        "message_id": "18028410404691017",
-        "media_kind": "fallback-card"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-02/A-Flaw-in-ChatGPT-s-Mac-App-Could-Have-Let-Hackers-Grab-Sensitive-Data-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-wired-com-story-a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-techradar-com-pro-ukraine-drone-chief-targeted-by-usd20-million-russia-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source_url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "headline": "Sean Parker is rebuilding Stability AI around music",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 787,
+        "aspectRatio": 1.301143583227446,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=sean-parker-is-rebuilding-stability-ai-around-music",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-03T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-03/https-techcrunch-com-2026-10-02-sean-parker-is-rebuilding-stability-ai-around-mu-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source_url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "headline": "Meta open sources code to let you make Muse AI gadgets",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 627,
+        "aspectRatio": 1.9138755980861244,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-open-sources-code-to-let-you-make-muse-ai-gadgets",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-03T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-03/Meta-open-sources-code-to-let-you-make-Muse-AI-gadgets-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-theverge-com-tech-1004330-meta-muse-ai-gadgets-home-link-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -387,22 +327,16 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-02T22:58:05.482Z",
-        "message_id": "18226873918335804",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "headline": "AI music maker Suno now generates spoken words",
-      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music t",
+      "story_id": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "source_url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "headline": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do",
       "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_validation": {
         "valid": true,
         "width": 1200,
@@ -412,32 +346,27 @@
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-music-maker-suno-now-generates-spoken-words",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-will-limit-mac-disk-access-as-ai-agents-substantially-increase-risk",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T19:20:00.000Z",
+      "scheduled_publish_at": "2026-10-03T19:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-03T00:42:24.284Z",
-        "message_id": 521,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-03T00:43:37.647Z",
-        "message_id": "18079795091707690",
-        "media_kind": "fallback-card"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-02/AI-music-maker-Suno-now-generates-spoken-words-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-theverge-com-ai-artificial-intelligence-1003925-suno-speech-ai-voice-f-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-03/Apple-will-limit-Mac-disk-access-as-AI-agents-substantially-increase-risk-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-theverge-com-tech-1004295-apple-limit-mac-disk-access-ai-agents-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -445,70 +374,16 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-03T00:43:45.852Z",
-        "message_id": "17903611566565924",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3249425/stop-renting-access-to-word-and-excel-with-a-one-time-office-2024-license-for-113.html",
-      "source_url": "https://www.macworld.com/article/3249425/stop-renting-access-to-word-and-excel-with-a-one-time-office-2024-license-for-113.html",
-      "headline": "Stop renting access to Word and Excel with a one-time Office 2024 license for $113",
-      "summary": "Macworld TL;DR: Get Microsoft Office 2024 Home for Mac or PC for $112.97 (MSRP $149.99) through October 4, with lifetime access to Word, Excel, and PowerPoint. If you only need the core Office apps, you don’t necessarily have to sign up for Microsoft 365 and keep paying for access. Microsoft Office",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3249425-0-90078600-1790928083-mso-2024-x-win-11-pro.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3249425-0-90078600-1790928083-mso-2024-x-win-11-pro.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=stop-renting-access-to-word-and-excel-with-a-one-time-office-2024-license-for-113",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T21:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-03T01:59:10.214Z",
-        "message_id": 522,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-macworld-com-article-3249425-stop-renting-access-to-word-and-excel-wit-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-global-knowledge-collapse",
-      "source_url": "https://www.techradar.com/pro/ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-global-knowledge-collapse",
-      "headline": "AI chatbots are slowly choking humanity as research shows a 'vicious cycle' could cause global knowledge collapse",
-      "summary": "Researchers find AI chatbots are delivering the same answers repeatedly, providing a narrower selection of information than a traditional search engine, potentially reducing diversity of opinion, perspectives, and choice",
+      "story_id": "https://www.techradar.com/pro/openai-blackstone-softbank-form-us-data-center-lobbying-group-american-infrastructure-alliances-first-job-is-stop-states-from-blocking-ai-data-center",
+      "source_url": "https://www.techradar.com/pro/openai-blackstone-softbank-form-us-data-center-lobbying-group-american-infrastructure-alliances-first-job-is-stop-states-from-blocking-ai-data-center",
+      "headline": "OpenAI, Blackstone, Softbank form US data center lobbying group —American Infrastructure Alliance's first job is stop states from blocking AI data center",
+      "summary": "The American Infrastructure Alliance is a collaboration between unions and influential technology and investment companies, and aims to push through data center plans, overcoming local opposition",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Ecs8hG3w6bXM2Fmbrm4rgd-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Ecs8hG3w6bXM2Fmbrm4rgd-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/BVv9araKjU9yQTXMWQhR9F-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BVv9araKjU9yQTXMWQhR9F-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
@@ -518,14 +393,14 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-glob",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-blackstone-softbank-form-us-data-center-lobbying-group-american-infrastructure-alli",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-02T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-03T21:20:00.000Z",
       "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-02T07:33:13.158Z"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -538,7 +413,53 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-02/https-www-techradar-com-pro-ai-chatbots-are-slowly-choking-humanity-as-research--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-techradar-com-pro-openai-blackstone-softbank-form-us-data-center-lobby-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2276186/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/",
+      "source_url": "https://www.engadget.com/2276186/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/",
+      "headline": "Apple sounds the alarm on AI agents and 'Full Disk Access'",
+      "summary": "There's an increasingly high cost to convenience.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/l-intro-1790968835.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/l-intro-1790968835.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-sounds-the-alarm-on-ai-agents-and-full-disk-access",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-03T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-engadget-com-2276186-apple-sounds-the-alarm-on-ai-agents-and-full-disk-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

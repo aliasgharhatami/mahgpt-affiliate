@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T11:07:06.411Z",
+  "updatedAt": "2026-10-03T07:58:33.826Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "elevenlabs",
-      "toolName": "ElevenLabs",
-      "category": "Partner watch",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "guide": "/partners/elevenlabs.html",
-      "source": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "publishedAt": "2026-09-30T18:23:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Your boss might be bluffing about how much AI knowledge they really have",
+      "summary": "23% of bosses could be lying about their AI skills, and yet nearly half say they value AI skills more than formal qualifications.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have",
+      "publishedAt": "2026-10-03T06:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1350-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Shopify unlocks ‘big picture’ design control with new conversational AI tool",
-      "summary": "It just got easier to manage your brand and design consistency",
+      "title": "The component cost crisis is hitting TVs hard now, as chip prices rise higher than panel costs",
+      "summary": "The ongoing AI-driven component crisis is making itself felt in the TV industry, with prices of memory and even Wi-Fi modules rocketing",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool",
-      "publishedAt": "2026-10-02T10:47:25.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/2N28MYfoarWw4QbozaUFvj-1376-80.jpg"
+      "source": "https://www.techradar.com/televisions/tvs-are-finally-being-hit-hard-by-the-ai-fueled-memory-crisis-for-the-first-time-the-cost-of-the-processors-is-higher-than-the-display-panels-in-some-models",
+      "publishedAt": "2026-10-03T01:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/2RFoR3japMLwE8DDAwcorR-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Financial Services’ next AI risk is the workflow nobody can explain",
-      "summary": "Financial services is moving from AI that answers questions to AI that takes action – and that shift changes what accountability means.",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/financial-services-next-ai-risk-is-the-workflow-nobody-can-explain",
-      "publishedAt": "2026-10-02T10:40:49.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg"
+      "source": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "publishedAt": "2026-10-02T23:03:16.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple’s September was huge. October could be even bigger",
-      "summary": "Macworld The big September Apple event is over and the new iPhones have been announced, which usuall means a little quiet. Not this year. While the iPhone 18 Pro and Pro Max, shipped last month, the star of the show, the iPhone Duo hasn’t even gone up for pre-order yet. But that’s not all—there’s a ",
+      "title": "Minisforum's AMD Ryzen AI Max+ PRO 495 workstation will cost more than $9,200, but you can get it for under $7,400 on preorder for a limited time",
+      "summary": "Minisforum’s MS-S1 MAX-P495 combines AMD’s Ryzen AI Max+ PRO 495, 192GB memory, 2TB storage and extensive expansion options.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3245800/apples-september-was-huge-october-could-be-even-bigger.html",
-      "publishedAt": "2026-10-02T10:30:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3245800-0-55182300-1790937029-iphone-duo-october.png?w=1024"
+      "source": "https://www.techradar.com/pro/minisforums-amd-ryzen-ai-max-pro-495-workstation-will-cost-more-than-usd9-200-but-you-can-get-it-for-under-usd7-400-on-preorder-for-a-limited-time",
+      "publishedAt": "2026-10-02T22:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/c8UiE3b8S3ZSeXqcyWAqzg-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "New YouGov polls find Brits really don't like — or trust — AI companies",
-      "summary": "AI companies are perceived as being worse than Big Tech, but they're not quite as unpopular as social media companies.",
+      "title": "Ukraine drone chief targeted by $20 million Russian bounty warns 'humanity is losing control' as AI becomes a 'digital panopticon'",
+      "summary": "Ukraine's drone chief says humanity is \"losing control\" of AI weapons, calling it a panopticon even as drones continue to get increasingly 'smarter' on the front line",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/new-yougov-polls-find-brits-really-dont-like-or-trust-ai-companies",
-      "publishedAt": "2026-10-02T10:03:12.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/ukraine-drone-chief-targeted-by-usd20-million-russian-bounty-warns-humanity-is-losing-control-as-ai-becomes-a-digital-panopticon",
+      "publishedAt": "2026-10-02T21:10:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Meta Muse has already broken a record: it beats all competitors in data collection, Surfshark warns",
-      "summary": "Surfshark’s latest research found that Meta's newly launched AI agent is already leading the rankings as the most data-hungry chatbot.",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/vpn/vpn-services/meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshark-warns",
-      "publishedAt": "2026-10-02T09:47:06.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7JHgomMZui7pUWLxTnysHM-1920-80.png"
+      "source": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "publishedAt": "2026-10-02T21:09:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "publishedAt": "2026-10-02T09:45:00.000Z",
-      "image": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/191:100/w_1280,c_limit/GettyImages-2278945913.jpg"
+      "source": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "publishedAt": "2026-10-02T21:08:37.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI music maker Suno now generates spoken words",
-      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music t",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "publishedAt": "2026-10-02T09:42:19.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "publishedAt": "2026-10-02T20:08:40.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Stop renting access to Word and Excel with a one-time Office 2024 license for $113",
-      "summary": "Macworld TL;DR: Get Microsoft Office 2024 Home for Mac or PC for $112.97 (MSRP $149.99) through October 4, with lifetime access to Word, Excel, and PowerPoint. If you only need the core Office apps, you don’t necessarily have to sign up for Microsoft 365 and keep paying for access. Microsoft Office ",
+      "title": "OpenAI, Blackstone, Softbank form US data center lobbying group —American Infrastructure Alliance's first job is stop states from blocking AI data center",
+      "summary": "The American Infrastructure Alliance is a collaboration between unions and influential technology and investment companies, and aims to push through data center plans, overcoming local opposition",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3249425/stop-renting-access-to-word-and-excel-with-a-one-time-office-2024-license-for-113.html",
-      "publishedAt": "2026-10-02T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3249425-0-90078600-1790928083-mso-2024-x-win-11-pro.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/openai-blackstone-softbank-form-us-data-center-lobbying-group-american-infrastructure-alliances-first-job-is-stop-states-from-blocking-ai-data-center",
+      "publishedAt": "2026-10-02T20:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/BVv9araKjU9yQTXMWQhR9F-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI chatbots are slowly choking humanity as research shows a 'vicious cycle' could cause global knowledge collapse",
-      "summary": "Researchers find AI chatbots are delivering the same answers repeatedly, providing a narrower selection of information than a traditional search engine, potentially reducing diversity of opinion, perspectives, and choice",
+      "title": "Apple sounds the alarm on AI agents and 'Full Disk Access'",
+      "summary": "There's an increasingly high cost to convenience.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-global-knowledge-collapse",
-      "publishedAt": "2026-10-02T01:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ecs8hG3w6bXM2Fmbrm4rgd-2560-80.jpg"
+      "source": "https://www.engadget.com/2276186/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/",
+      "publishedAt": "2026-10-02T19:22:06.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/l-intro-1790968835.jpg"
     }
   ]
 }

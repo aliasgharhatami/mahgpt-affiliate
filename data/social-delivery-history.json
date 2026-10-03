@@ -4879,6 +4879,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-03T07:58:41.797Z",
+        "message_id": 523,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
