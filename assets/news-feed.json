@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T07:58:33.826Z",
+  "updatedAt": "2026-10-03T10:25:22.046Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -15,6 +15,17 @@
     "https://feeds.arstechnica.com/arstechnica/technology-lab"
   ],
   "items": [
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "GPT, Claude, and Gemini in one browser tab for $39.99, for life",
+      "summary": "Macworld TL;DR: The AskAnyModel AI Pro Plan puts more than 50 AI models into one workspace, including GPT, Claude, Gemini, and Grok, as a lifetime subscription for $39.99 (reg. $499). Paying separately for ChatGPT, Claude, and Gemini adds up quickly. You still end up pasting the same prompt into thr",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3249650/gpt-claude-and-gemini-in-one-browser-tab-for-39-99-for-life.html",
+      "publishedAt": "2026-10-03T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3249650-0-34234800-1791014452-AskAnyModel.jpg?quality=50&strip=all&w=1024"
+    },
     {
       "tool": "ai-news",
       "toolName": "AI News",
@@ -113,17 +124,6 @@
       "source": "https://www.techradar.com/pro/openai-blackstone-softbank-form-us-data-center-lobbying-group-american-infrastructure-alliances-first-job-is-stop-states-from-blocking-ai-data-center",
       "publishedAt": "2026-10-02T20:05:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/BVv9araKjU9yQTXMWQhR9F-2560-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Apple sounds the alarm on AI agents and 'Full Disk Access'",
-      "summary": "There's an increasingly high cost to convenience.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2276186/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/",
-      "publishedAt": "2026-10-02T19:22:06.000Z",
-      "image": "https://www.engadget.com/img/gallery/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/l-intro-1790968835.jpg"
     }
   ]
 }
