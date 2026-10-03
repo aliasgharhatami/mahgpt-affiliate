@@ -3378,6 +3378,20 @@
         "message_id": "17975595473935287",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/ukraine-drone-chief-targeted-by-usd20-million-russian-bounty-warns-humanity-is-losing-control-as-ai-becomes-a-digital-panopticon": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-03T22:11:11.899Z",
+        "message_id": "18030400565885767",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-03T22:11:22.241Z",
+        "message_id": "18411750763095754",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
