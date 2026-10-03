@@ -4998,6 +4998,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-03T22:09:18.172Z",
+        "message_id": 530,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
