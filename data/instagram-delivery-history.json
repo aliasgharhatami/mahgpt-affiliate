@@ -3294,6 +3294,20 @@
         "message_id": "18226873918335804",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-03T00:43:37.647Z",
+        "message_id": "18079795091707690",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-03T00:43:45.852Z",
+        "message_id": "17903611566565924",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
