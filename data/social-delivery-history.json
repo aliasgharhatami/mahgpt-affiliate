@@ -5117,6 +5117,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/games/1004418/capcom-ai-game-development": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-04T21:48:35.884Z",
+        "message_id": 537,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
