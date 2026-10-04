@@ -5100,6 +5100,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-04T20:12:10.111Z",
+        "message_id": 536,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
