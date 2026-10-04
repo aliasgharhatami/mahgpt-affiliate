@@ -3448,6 +3448,20 @@
         "message_id": "18039161714647593",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/quote-of-the-day-by-arc-prize-co-founder-francois-chollet-openai-basically-set-back-progress-to-agi-by-five-to-10-years-critiquing-the-industrys-overindulgence-in-large-language-models": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-04T17:51:45.213Z",
+        "message_id": "17974760415137042",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-04T17:51:53.626Z",
+        "message_id": "17949233274054206",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
