@@ -5049,6 +5049,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-04T14:41:18.209Z",
+        "message_id": 533,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
