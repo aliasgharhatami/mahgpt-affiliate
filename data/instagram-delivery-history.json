@@ -3420,6 +3420,20 @@
         "classification": "instagram-api-error",
         "message": "media URL is not an image: text/html; charset=utf-8"
       }
+    },
+    "https://www.macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-04T13:42:20.320Z",
+        "message_id": "17912615556282730",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-04T13:42:31.181Z",
+        "message_id": "18315652360304632",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
