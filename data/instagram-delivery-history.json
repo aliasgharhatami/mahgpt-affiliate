@@ -3462,6 +3462,20 @@
         "message_id": "17949233274054206",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-04T20:13:53.191Z",
+        "message_id": "18193961320395905",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-04T20:14:02.277Z",
+        "message_id": "18492201451107656",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
