@@ -3476,6 +3476,20 @@
         "message_id": "18492201451107656",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-04T23:50:19.566Z",
+        "message_id": "18072966419581235",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-04T23:50:33.176Z",
+        "message_id": "17961759588221679",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
