@@ -3392,6 +3392,20 @@
         "message_id": "18411750763095754",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-04T01:52:18.109Z",
+        "message_id": "17945731272353793",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-04T01:52:26.553Z",
+        "message_id": "18388306996224627",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
