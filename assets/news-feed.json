@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T08:50:30.125Z",
+  "updatedAt": "2026-10-04T11:07:48.768Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,12 +19,12 @@
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "Free Premiere on Android is exactly the direction Adobe should be taking",
-      "summary": "Adobe's free video editor for Android isn't perfect, but it's the kind of generous move that could win creatives back.",
+      "title": "Adobe's AI text-to-3D world concept is a glimpse of where Firefly could go next",
+      "summary": "Ambitious AI patents suggest that Adobe's thinking beyond 2D.",
       "guide": "/partners/adobe.html",
-      "source": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
-      "publishedAt": "2026-10-04T08:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb-2000-80.jpg"
+      "source": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
+      "publishedAt": "2026-10-04T09:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -36,6 +36,17 @@
       "source": "https://www.macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html",
       "publishedAt": "2026-10-04T08:00:00.000Z",
       "image": "https://www.macworld.com/wp-content/uploads/2026/10/3249793-0-08792700-1791100833-Claude.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Free Premiere on Android is exactly the direction Adobe should be taking",
+      "summary": "Adobe's free video editor for Android isn't perfect, but it's the kind of generous move that could win creatives back.",
+      "guide": "/partners/adobe.html",
+      "source": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
+      "publishedAt": "2026-10-04T08:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb-2000-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -113,17 +124,6 @@
       "source": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
       "publishedAt": "2026-10-03T15:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "All the AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "publishedAt": "2026-10-03T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
     }
   ]
 }
