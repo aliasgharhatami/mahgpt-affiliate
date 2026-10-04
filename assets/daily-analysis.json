@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T10:25:33.560Z",
-  "analysis_date": "2026-10-03",
+  "generated_at": "2026-10-04T11:07:58.773Z",
+  "analysis_date": "2026-10-04",
   "stories": [
     {
-      "title": "GPT, Claude, and Gemini in one browser tab for $39.99, for life",
-      "source": "https://www.macworld.com/article/3249650/gpt-claude-and-gemini-in-one-browser-tab-for-39-99-for-life.html",
-      "mahgpt_url": "/news/story.html?id=gpt-claude-and-gemini-in-one-browser-tab-for-39-99-for-life"
+      "title": "Adobe's AI text-to-3D world concept is a glimpse of where Firefly could go next",
+      "source": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
+      "mahgpt_url": "/news/story.html?id=adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next"
     },
     {
-      "title": "Your boss might be bluffing about how much AI knowledge they really have",
-      "source": "https://www.techradar.com/pro/your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have",
-      "mahgpt_url": "/news/story.html?id=your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have"
+      "title": "Learn Claude Code and Cowork — Just $15 during Deal Days",
+      "source": "https://www.macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html",
+      "mahgpt_url": "/news/story.html?id=learn-claude-code-and-cowork-just-15-during-deal-days"
     },
     {
-      "title": "The component cost crisis is hitting TVs hard now, as chip prices rise higher than panel costs",
-      "source": "https://www.techradar.com/televisions/tvs-are-finally-being-hit-hard-by-the-ai-fueled-memory-crisis-for-the-first-time-the-cost-of-the-processors-is-higher-than-the-display-panels-in-some-models",
-      "mahgpt_url": "/news/story.html?id=the-component-cost-crisis-is-hitting-tvs-hard-now-as-chip-prices-rise-higher-than-panel-co"
+      "title": "Free Premiere on Android is exactly the direction Adobe should be taking",
+      "source": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
+      "mahgpt_url": "/news/story.html?id=free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking"
     },
     {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "source": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "mahgpt_url": "/news/story.html?id=apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents"
+      "title": "Quote of the day by ARC Prize co-founder François Chollet: \"OpenAI basically set back progress to AGI by five to 10 years\"",
+      "source": "https://www.techradar.com/pro/quote-of-the-day-by-arc-prize-co-founder-francois-chollet-openai-basically-set-back-progress-to-agi-by-five-to-10-years-critiquing-the-industrys-overindulgence-in-large-language-models",
+      "mahgpt_url": "/news/story.html?id=quote-of-the-day-by-arc-prize-co-founder-fran-ois-chollet-openai-basically-set-back-progre"
     },
     {
-      "title": "Minisforum's AMD Ryzen AI Max+ PRO 495 workstation will cost more than $9,200, but you can get it for under $7,400 on preorder for a limited time",
-      "source": "https://www.techradar.com/pro/minisforums-amd-ryzen-ai-max-pro-495-workstation-will-cost-more-than-usd9-200-but-you-can-get-it-for-under-usd7-400-on-preorder-for-a-limited-time",
-      "mahgpt_url": "/news/story.html?id=minisforums-amd-ryzen-ai-max-pro-495-workstation-will-cost-more-than-9-200-but-you-can-get"
+      "title": "Capcom plans to use AI to speed up the game development process",
+      "source": "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/",
+      "mahgpt_url": "/news/story.html?id=capcom-plans-to-use-ai-to-speed-up-the-game-development-process"
     },
     {
-      "title": "Ukraine drone chief targeted by $20 million Russian bounty warns 'humanity is losing control' as AI becomes a 'digital panopticon'",
-      "source": "https://www.techradar.com/pro/ukraine-drone-chief-targeted-by-usd20-million-russian-bounty-warns-humanity-is-losing-control-as-ai-becomes-a-digital-panopticon",
-      "mahgpt_url": "/news/story.html?id=ukraine-drone-chief-targeted-by-20-million-russian-bounty-warns-humanity-is-losing-control"
+      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "source": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "mahgpt_url": "/news/story.html?id=the-nvidia-shield-tv-is-7-years-old-it-just-got-a-100-price-hike"
     },
     {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "source": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "mahgpt_url": "/news/story.html?id=sean-parker-is-rebuilding-stability-ai-around-music"
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "source": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "mahgpt_url": "/news/story.html?id=capcom-is-preparing-for-a-future-where-we-create-games-together-with-ai"
     },
     {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "source": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "mahgpt_url": "/news/story.html?id=meta-open-sources-code-to-let-you-make-muse-ai-gadgets"
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "source": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "mahgpt_url": "/news/story.html?id=openai-safety-employee-resigns-claiming-the-companys-culture-is-broken"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-03.html"
+      "path": "news/analysis/2026-10-04.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-03.html"
+      "path": "es/news/analysis/2026-10-04.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-03.html"
+      "path": "de/news/analysis/2026-10-04.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-03.html"
+      "path": "fr/news/analysis/2026-10-04.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-03.html"
+      "path": "pt-BR/news/analysis/2026-10-04.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-03.html"
+      "path": "ar/news/analysis/2026-10-04.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-03.html"
+      "path": "fa/news/analysis/2026-10-04.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-03.html"
+      "path": "tr/news/analysis/2026-10-04.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-03.html"
+      "path": "it/news/analysis/2026-10-04.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-03.html"
+      "path": "ja/news/analysis/2026-10-04.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-03.html"
+      "path": "ko/news/analysis/2026-10-04.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-03.html"
+      "path": "id/news/analysis/2026-10-04.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-03.html"
+      "path": "hi/news/analysis/2026-10-04.html"
     }
   ]
 }
