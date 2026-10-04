@@ -5032,6 +5032,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-04T11:08:24.629Z",
+        "message_id": 532,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
