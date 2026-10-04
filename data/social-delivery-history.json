@@ -5134,6 +5134,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-04T23:58:06.371Z",
+        "message_id": 538,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
