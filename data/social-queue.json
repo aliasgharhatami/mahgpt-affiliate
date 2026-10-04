@@ -1,17 +1,65 @@
 {
   "version": 1,
-  "queue_date": "2026-10-03",
-  "created_at": "2026-10-03T10:25:26.448Z",
-  "source_feed_updated_at": "2026-10-03T10:25:22.046Z",
+  "queue_date": "2026-10-04",
+  "created_at": "2026-10-04T08:50:30.219Z",
+  "source_feed_updated_at": "2026-10-04T08:50:30.125Z",
   "items": [
     {
-      "story_id": "https://www.macworld.com/article/3249650/gpt-claude-and-gemini-in-one-browser-tab-for-39-99-for-life.html",
-      "source_url": "https://www.macworld.com/article/3249650/gpt-claude-and-gemini-in-one-browser-tab-for-39-99-for-life.html",
-      "headline": "GPT, Claude, and Gemini in one browser tab for $39.99, for life",
-      "summary": "Macworld TL;DR: The AskAnyModel AI Pro Plan puts more than 50 AI models into one workspace, including GPT, Claude, Gemini, and Grok, as a lifetime subscription for $39.99 (reg. $499). Paying separately for ChatGPT, Claude, and Gemini adds up quickly. You still end up pasting the same prompt into thr",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3249650-0-34234800-1791014452-AskAnyModel.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3249650-0-34234800-1791014452-AskAnyModel.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
+      "source_url": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
+      "headline": "Free Premiere on Android is exactly the direction Adobe should be taking",
+      "summary": "Adobe's free video editor for Android isn't perfect, but it's the kind of generous move that could win creatives back.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb-2000-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2000,
+        "height": 1125,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
+      "detected_partner": "adobe",
+      "product_url": "https://www.adobe.com/products/firefly.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-10-04T05:20:00.000Z",
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-04T08:50:39.109Z",
+        "message_id": 531,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-creativebloq-com-photography-video-editing-software-free-premiere-on-a-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html",
+      "source_url": "https://www.macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html",
+      "headline": "Learn Claude Code and Cowork — Just $15 during Deal Days",
+      "summary": "Macworld TL;DR: Learn to use Claude for coding and automation with lifetime access to the Claude AI Professional E-Degree, now $14.97 (reg. $159). Most people use Claude only for quick questions, then close the tab without ever trying the built-in coding and automation tools. Figuring those out on y",
+      "source_name": "Just $15 during Deal Days",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3249793-0-08792700-1791100833-Claude.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3249793-0-08792700-1791100833-Claude.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
@@ -21,109 +69,43 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=gpt-claude-and-gemini-in-one-browser-tab-for-39-99-for-life",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=learn-claude-code-and-cowork-just-15-during-deal-days",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-03T05:20:00.000Z",
+      "scheduled_publish_at": "2026-10-04T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-03T10:26:05.301Z",
-        "message_id": 524,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-03T10:28:19.585Z",
-        "message_id": "18082296518350265",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-macworld-com-article-3249650-gpt-claude-and-gemini-in-one-browser-tab--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-macworld-com-article-3249793-learn-claude-code-and-cowork-just-15-duri-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-03T10:28:30.544Z",
-        "message_id": "17900645229378272",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have",
-      "source_url": "https://www.techradar.com/pro/your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have",
-      "headline": "Your boss might be bluffing about how much AI knowledge they really have",
-      "summary": "23% of bosses could be lying about their AI skills, and yet nearly half say they value AI skills more than formal qualifications.",
+      "story_id": "https://www.techradar.com/pro/quote-of-the-day-by-arc-prize-co-founder-francois-chollet-openai-basically-set-back-progress-to-agi-by-five-to-10-years-critiquing-the-industrys-overindulgence-in-large-language-models",
+      "source_url": "https://www.techradar.com/pro/quote-of-the-day-by-arc-prize-co-founder-francois-chollet-openai-basically-set-back-progress-to-agi-by-five-to-10-years-critiquing-the-industrys-overindulgence-in-large-language-models",
+      "headline": "Quote of the day by ARC Prize co-founder François Chollet: \"OpenAI basically set back progress to AGI by five to 10 years\"",
+      "summary": "AI models are becoming more and more advanced, but that doesn't mean the underlying architecture will lead us to human-like intelligence",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1350-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1350-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1350,
-        "height": 759,
-        "aspectRatio": 1.7786561264822134,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-03T07:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-03T07:58:41.797Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-03T12:44:30.850Z",
-        "message_id": "17993316768020538",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-techradar-com-pro-your-boss-might-be-bluffing-about-how-much-ai-knowle-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-03T12:44:41.165Z",
-        "message_id": "18145322032537862",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/televisions/tvs-are-finally-being-hit-hard-by-the-ai-fueled-memory-crisis-for-the-first-time-the-cost-of-the-processors-is-higher-than-the-display-panels-in-some-models",
-      "source_url": "https://www.techradar.com/televisions/tvs-are-finally-being-hit-hard-by-the-ai-fueled-memory-crisis-for-the-first-time-the-cost-of-the-processors-is-higher-than-the-display-panels-in-some-models",
-      "headline": "The component cost crisis is hitting TVs hard now, as chip prices rise higher than panel costs",
-      "summary": "The ongoing AI-driven component crisis is making itself felt in the TV industry, with prices of memory and even Wi-Fi modules rocketing",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/2RFoR3japMLwE8DDAwcorR-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/2RFoR3japMLwE8DDAwcorR-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
@@ -133,282 +115,135 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-component-cost-crisis-is-hitting-tvs-hard-now-as-chip-prices-rise-higher-than-panel-co",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=quote-of-the-day-by-arc-prize-co-founder-fran-ois-chollet-openai-basically-set-back-progre",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-03T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-04T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-03T13:17:14.090Z",
-        "message_id": 525,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-03T15:09:52.060Z",
-        "message_id": "18473326240115279",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-techradar-com-televisions-tvs-are-finally-being-hit-hard-by-the-ai-fue-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-techradar-com-pro-quote-of-the-day-by-arc-prize-co-founder-francois-ch-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-03T15:10:00.747Z",
-        "message_id": "18211418902361826",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "source_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "headline": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-      "source_name": "Arstechnica",
-      "original_image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "story_id": "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/",
+      "source_url": "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/",
+      "headline": "Capcom plans to use AI to speed up the game development process",
+      "summary": "The company previously said it won't use AI-generated content in its games.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/l-intro-1791051900.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/l-intro-1791051900.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1152,
-        "height": 648,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=capcom-plans-to-use-ai-to-speed-up-the-game-development-process",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-03T11:20:00.000Z",
+      "scheduled_publish_at": "2026-10-04T11:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-03T15:09:19.734Z",
-        "message_id": 526,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-03T16:46:33.016Z",
-        "message_id": "18012612086966687",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-03/https-arstechnica-com-security-2026-10-apple-changes-full-disk-access-permission-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-engadget-com-2276597-capcom-plans-to-use-ai-to-speed-up-the-game-devel-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-03T16:46:42.037Z",
-        "message_id": "17977139226129545",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/minisforums-amd-ryzen-ai-max-pro-495-workstation-will-cost-more-than-usd9-200-but-you-can-get-it-for-under-usd7-400-on-preorder-for-a-limited-time",
-      "source_url": "https://www.techradar.com/pro/minisforums-amd-ryzen-ai-max-pro-495-workstation-will-cost-more-than-usd9-200-but-you-can-get-it-for-under-usd7-400-on-preorder-for-a-limited-time",
-      "headline": "Minisforum's AMD Ryzen AI Max+ PRO 495 workstation will cost more than $9,200, but you can get it for under $7,400 on preorder for a limited time",
-      "summary": "Minisforum’s MS-S1 MAX-P495 combines AMD’s Ryzen AI Max+ PRO 495, 192GB memory, 2TB storage and extensive expansion options.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/c8UiE3b8S3ZSeXqcyWAqzg-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/c8UiE3b8S3ZSeXqcyWAqzg-1920-80.png",
+      "story_id": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "source_url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "headline": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/191:100/w_1280,c_limit/GettyImages-474968764.jpg",
+      "image_url": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/191:100/w_1280,c_limit/GettyImages-474968764.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 955,
+        "height": 500,
+        "aspectRatio": 1.91,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=minisforums-amd-ryzen-ai-max-pro-495-workstation-will-cost-more-than-9-200-but-you-can-get",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-nvidia-shield-tv-is-7-years-old-it-just-got-a-100-price-hike",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-03T13:20:00.000Z",
+      "scheduled_publish_at": "2026-10-04T13:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-03T17:31:12.237Z",
-        "message_id": 527,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-03T18:49:36.432Z",
-        "message_id": "18012951707966817",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-techradar-com-pro-minisforums-amd-ryzen-ai-max-pro-495-workstation-wil-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-wired-com-story-7-year-old-tv-now-100-dollars-more-expensive-thank-ai--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-03T18:49:44.549Z",
-        "message_id": "17975595473935287",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/ukraine-drone-chief-targeted-by-usd20-million-russian-bounty-warns-humanity-is-losing-control-as-ai-becomes-a-digital-panopticon",
-      "source_url": "https://www.techradar.com/pro/ukraine-drone-chief-targeted-by-usd20-million-russian-bounty-warns-humanity-is-losing-control-as-ai-becomes-a-digital-panopticon",
-      "headline": "Ukraine drone chief targeted by $20 million Russian bounty warns 'humanity is losing control' as AI becomes a 'digital panopticon'",
-      "summary": "Ukraine's drone chief says humanity is \"losing control\" of AI weapons, calling it a panopticon even as drones continue to get increasingly 'smarter' on the front line",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ukraine-drone-chief-targeted-by-20-million-russian-bounty-warns-humanity-is-losing-control",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-03T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-03T18:48:34.273Z",
-        "message_id": 528,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-03T22:11:11.899Z",
-        "message_id": "18030400565885767",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-techradar-com-pro-ukraine-drone-chief-targeted-by-usd20-million-russia-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-03T22:11:22.241Z",
-        "message_id": "18411750763095754",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source_url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "headline": "Sean Parker is rebuilding Stability AI around music",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 787,
-        "aspectRatio": 1.301143583227446,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=sean-parker-is-rebuilding-stability-ai-around-music",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-03T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-03T20:13:11.920Z",
-        "message_id": 529,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-04T01:52:18.109Z",
-        "message_id": "17945731272353793",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-03/https-techcrunch-com-2026-10-02-sean-parker-is-rebuilding-stability-ai-around-mu-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-04T01:52:26.553Z",
-        "message_id": "18388306996224627",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "source_url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "headline": "Meta open sources code to let you make Muse AI gadgets",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
+      "story_id": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source_url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "headline": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the",
       "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "image_validation": {
         "valid": true,
         "width": 1200,
@@ -418,60 +253,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-open-sources-code-to-let-you-make-muse-ai-gadgets",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=capcom-is-preparing-for-a-future-where-we-create-games-together-with-ai",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-03T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-03T22:09:18.172Z",
-        "message_id": 530,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-03/Meta-open-sources-code-to-let-you-make-Muse-AI-gadgets-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-theverge-com-tech-1004330-meta-muse-ai-gadgets-home-link-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "source_url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "headline": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-will-limit-mac-disk-access-as-ai-agents-substantially-increase-risk",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-03T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-04T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -486,8 +272,8 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-03/Apple-will-limit-Mac-disk-access-as-AI-agents-substantially-increase-risk-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-theverge-com-tech-1004295-apple-limit-mac-disk-access-ai-agents-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-04/Capcom-is-preparing-for-a-future-where-we-create-games-together-with-AI--instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-theverge-com-games-1004418-capcom-ai-game-development-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -498,27 +284,68 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/openai-blackstone-softbank-form-us-data-center-lobbying-group-american-infrastructure-alliances-first-job-is-stop-states-from-blocking-ai-data-center",
-      "source_url": "https://www.techradar.com/pro/openai-blackstone-softbank-form-us-data-center-lobbying-group-american-infrastructure-alliances-first-job-is-stop-states-from-blocking-ai-data-center",
-      "headline": "OpenAI, Blackstone, Softbank form US data center lobbying group —American Infrastructure Alliance's first job is stop states from blocking AI data center",
-      "summary": "The American Infrastructure Alliance is a collaboration between unions and influential technology and investment companies, and aims to push through data center plans, overcoming local opposition",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/BVv9araKjU9yQTXMWQhR9F-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/BVv9araKjU9yQTXMWQhR9F-2560-80.jpg",
+      "story_id": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "headline": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "image_url": "",
+      "image_validation": null,
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-04T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "assets/social-cards/2026-10-04/OpenAI-safety-employee-resigns-claiming-the-company-s-culture-is-broken--landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-04/OpenAI-safety-employee-resigns-claiming-the-company-s-culture-is-broken--instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-04/https-techcrunch-com-2026-10-03-openai-safety-employee-resigns-claiming-the-comp-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-missing-source"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/",
+      "source_url": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/",
+      "headline": "Former OpenAI employee says AI should be regulated like nuclear power plants",
+      "summary": "The company's former safety lead said frontier AI model releases should have \"layers of redundancy and careful, time-consuming planning.\"",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/l-intro-1791044463.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/l-intro-1791044463.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-blackstone-softbank-form-us-data-center-lobbying-group-american-infrastructure-alli",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-03T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-04T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -534,7 +361,100 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-03/https-www-techradar-com-pro-openai-blackstone-softbank-form-us-data-center-lobby-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-engadget-com-2276577-former-openai-employee-says-ai-should-be-regulate-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "source_url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "headline": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the cur",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=splice-ceo-kakul-srivastava-thinks-ai-emails-are-killing-conversations",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-04T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-04/Splice-CEO-Kakul-Srivastava-thinks-AI-emails-are-killing-conversations-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-theverge-com-entertainment-1004162-splice-ceo-kakul-srivastava-ai-inte-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source_url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "headline": "All the AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 813,
+        "aspectRatio": 1.4760147601476015,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=all-the-ai-agents-that-can-live-in-your-text-messages",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-04T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-04/https-techcrunch-com-2026-10-03-all-the-ai-agents-that-can-live-in-your-text-mes-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

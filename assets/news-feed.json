@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T10:25:22.046Z",
+  "updatedAt": "2026-10-04T08:50:30.125Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "GPT, Claude, and Gemini in one browser tab for $39.99, for life",
-      "summary": "Macworld TL;DR: The AskAnyModel AI Pro Plan puts more than 50 AI models into one workspace, including GPT, Claude, Gemini, and Grok, as a lifetime subscription for $39.99 (reg. $499). Paying separately for ChatGPT, Claude, and Gemini adds up quickly. You still end up pasting the same prompt into thr",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3249650/gpt-claude-and-gemini-in-one-browser-tab-for-39-99-for-life.html",
-      "publishedAt": "2026-10-03T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3249650-0-34234800-1791014452-AskAnyModel.jpg?quality=50&strip=all&w=1024"
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Free Premiere on Android is exactly the direction Adobe should be taking",
+      "summary": "Adobe's free video editor for Android isn't perfect, but it's the kind of generous move that could win creatives back.",
+      "guide": "/partners/adobe.html",
+      "source": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
+      "publishedAt": "2026-10-04T08:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Your boss might be bluffing about how much AI knowledge they really have",
-      "summary": "23% of bosses could be lying about their AI skills, and yet nearly half say they value AI skills more than formal qualifications.",
+      "title": "Learn Claude Code and Cowork — Just $15 during Deal Days",
+      "summary": "Macworld TL;DR: Learn to use Claude for coding and automation with lifetime access to the Claude AI Professional E-Degree, now $14.97 (reg. $159). Most people use Claude only for quick questions, then close the tab without ever trying the built-in coding and automation tools. Figuring those out on y",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/your-boss-might-be-bluffing-about-how-much-ai-knowledge-they-really-have",
-      "publishedAt": "2026-10-03T06:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1350-80.jpg"
+      "source": "https://www.macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html",
+      "publishedAt": "2026-10-04T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3249793-0-08792700-1791100833-Claude.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The component cost crisis is hitting TVs hard now, as chip prices rise higher than panel costs",
-      "summary": "The ongoing AI-driven component crisis is making itself felt in the TV industry, with prices of memory and even Wi-Fi modules rocketing",
+      "title": "Quote of the day by ARC Prize co-founder François Chollet: \"OpenAI basically set back progress to AGI by five to 10 years\"",
+      "summary": "AI models are becoming more and more advanced, but that doesn't mean the underlying architecture will lead us to human-like intelligence",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/televisions/tvs-are-finally-being-hit-hard-by-the-ai-fueled-memory-crisis-for-the-first-time-the-cost-of-the-processors-is-higher-than-the-display-panels-in-some-models",
-      "publishedAt": "2026-10-03T01:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/2RFoR3japMLwE8DDAwcorR-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/quote-of-the-day-by-arc-prize-co-founder-francois-chollet-openai-basically-set-back-progress-to-agi-by-five-to-10-years-critiquing-the-industrys-overindulgence-in-large-language-models",
+      "publishedAt": "2026-10-03T22:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "title": "Capcom plans to use AI to speed up the game development process",
+      "summary": "The company previously said it won't use AI-generated content in its games.",
       "guide": "/news/index.html",
-      "source": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "publishedAt": "2026-10-02T23:03:16.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
+      "source": "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/",
+      "publishedAt": "2026-10-03T18:27:15.000Z",
+      "image": "https://www.engadget.com/img/gallery/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/l-intro-1791051900.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Minisforum's AMD Ryzen AI Max+ PRO 495 workstation will cost more than $9,200, but you can get it for under $7,400 on preorder for a limited time",
-      "summary": "Minisforum’s MS-S1 MAX-P495 combines AMD’s Ryzen AI Max+ PRO 495, 192GB memory, 2TB storage and extensive expansion options.",
+      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/minisforums-amd-ryzen-ai-max-pro-495-workstation-will-cost-more-than-usd9-200-but-you-can-get-it-for-under-usd7-400-on-preorder-for-a-limited-time",
-      "publishedAt": "2026-10-02T22:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/c8UiE3b8S3ZSeXqcyWAqzg-1920-80.png"
+      "source": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "publishedAt": "2026-10-03T18:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/191:100/w_1280,c_limit/GettyImages-474968764.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Ukraine drone chief targeted by $20 million Russian bounty warns 'humanity is losing control' as AI becomes a 'digital panopticon'",
-      "summary": "Ukraine's drone chief says humanity is \"losing control\" of AI weapons, calling it a panopticon even as drones continue to get increasingly 'smarter' on the front line",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ukraine-drone-chief-targeted-by-usd20-million-russian-bounty-warns-humanity-is-losing-control-as-ai-becomes-a-digital-panopticon",
-      "publishedAt": "2026-10-02T21:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ-1920-80.png"
+      "source": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "publishedAt": "2026-10-03T16:49:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "publishedAt": "2026-10-02T21:09:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
+      "source": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "publishedAt": "2026-10-03T16:30:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
+      "title": "Former OpenAI employee says AI should be regulated like nuclear power plants",
+      "summary": "The company's former safety lead said frontier AI model releases should have \"layers of redundancy and careful, time-consuming planning.\"",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "publishedAt": "2026-10-02T21:08:37.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+      "source": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/",
+      "publishedAt": "2026-10-03T16:25:15.000Z",
+      "image": "https://www.engadget.com/img/gallery/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/l-intro-1791044463.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the cur",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "publishedAt": "2026-10-02T20:08:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "publishedAt": "2026-10-03T15:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI, Blackstone, Softbank form US data center lobbying group —American Infrastructure Alliance's first job is stop states from blocking AI data center",
-      "summary": "The American Infrastructure Alliance is a collaboration between unions and influential technology and investment companies, and aims to push through data center plans, overcoming local opposition",
+      "title": "All the AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/openai-blackstone-softbank-form-us-data-center-lobbying-group-american-infrastructure-alliances-first-job-is-stop-states-from-blocking-ai-data-center",
-      "publishedAt": "2026-10-02T20:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/BVv9araKjU9yQTXMWQhR9F-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-10-03T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
     }
   ]
 }
