@@ -3434,6 +3434,20 @@
         "message_id": "18315652360304632",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-04T15:49:52.061Z",
+        "message_id": "18110349050174401",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-04T15:50:00.015Z",
+        "message_id": "18039161714647593",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
