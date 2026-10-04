@@ -3406,6 +3406,20 @@
         "message_id": "18388306996224627",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-04T11:09:38.308Z",
+        "message_id": "17908400355558490",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "failed",
+        "attempted_at": "2026-10-04T11:09:38.419Z",
+        "classification": "instagram-api-error",
+        "message": "media URL is not an image: text/html; charset=utf-8"
+      }
     }
   }
 }
