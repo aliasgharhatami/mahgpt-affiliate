@@ -5185,6 +5185,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-05T21:12:43.405Z",
+        "message_id": 541,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
