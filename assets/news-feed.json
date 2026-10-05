@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T11:07:48.768Z",
+  "updatedAt": "2026-10-05T06:15:49.396Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Learn Claude Code and Cowork — Just $15 during Deal Days",
-      "summary": "Macworld TL;DR: Learn to use Claude for coding and automation with lifetime access to the Claude AI Professional E-Degree, now $14.97 (reg. $159). Most people use Claude only for quick questions, then close the tab without ever trying the built-in coding and automation tools. Figuring those out on y",
+      "title": "‘A meaningful risk’: Oracle’s massive 1.3 GW Wisconsin AI campus faces severe power delays as grid review restarts — pushing customer delivery past 2027",
+      "summary": "Regulators withdrew their completeness finding on ATC's application after 564 changes were filed, delaying grid power to Oracle's Wisconsin AI campus.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html",
-      "publishedAt": "2026-10-04T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3249793-0-08792700-1791100833-Claude.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Free Premiere on Android is exactly the direction Adobe should be taking",
-      "summary": "Adobe's free video editor for Android isn't perfect, but it's the kind of generous move that could win creatives back.",
-      "guide": "/partners/adobe.html",
-      "source": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
-      "publishedAt": "2026-10-04T08:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb-2000-80.jpg"
+      "source": "https://www.techradar.com/pro/a-meaningful-risk-oracles-massive-1-3-gw-wisconsin-ai-campus-faces-severe-power-delays-as-grid-review-restarts-pushing-customer-delivery-past-2027",
+      "publishedAt": "2026-10-04T22:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/fvSuoQXyuYpY9Y7Tgk4e2a-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Quote of the day by ARC Prize co-founder François Chollet: \"OpenAI basically set back progress to AGI by five to 10 years\"",
-      "summary": "AI models are becoming more and more advanced, but that doesn't mean the underlying architecture will lead us to human-like intelligence",
+      "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/quote-of-the-day-by-arc-prize-co-founder-francois-chollet-openai-basically-set-back-progress-to-agi-by-five-to-10-years-critiquing-the-industrys-overindulgence-in-large-language-models",
-      "publishedAt": "2026-10-03T22:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "publishedAt": "2026-10-04T20:31:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Capcom plans to use AI to speed up the game development process",
-      "summary": "The company previously said it won't use AI-generated content in its games.",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/",
-      "publishedAt": "2026-10-03T18:27:15.000Z",
-      "image": "https://www.engadget.com/img/gallery/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/l-intro-1791051900.jpg"
+      "source": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "publishedAt": "2026-10-04T20:08:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "title": "Generate $6 trillion in annual revenue or face a major collapse — AI data center costs are doubling every 12 months",
+      "summary": "Regulators withdrew their completeness finding on ATC's application after 564 changes were filed, delaying grid power to Oracle's Wisconsin AI campus.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-      "publishedAt": "2026-10-03T18:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/191:100/w_1280,c_limit/GettyImages-474968764.jpg"
+      "source": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+      "publishedAt": "2026-10-04T18:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ETt2Pe3AtJk2ynHY4vkd68-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the",
+      "title": "Trump announces an AI czar for his newly created 'Super Intelligence Force'",
+      "summary": "That's really what it's called and there's actually someone in charge of it.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "publishedAt": "2026-10-03T16:49:10.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+      "source": "https://www.engadget.com/2276762/trump-announces-an-ai-czar-for-his-newly-created-super-intelligence-force/",
+      "publishedAt": "2026-10-04T16:29:26.000Z",
+      "image": "https://www.engadget.com/img/gallery/trump-announced-an-ai-czar-for-his-newly-created-super-intelligence-force/l-intro-1791131077.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularl",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "publishedAt": "2026-10-03T16:30:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "publishedAt": "2026-10-04T16:16:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Former OpenAI employee says AI should be regulated like nuclear power plants",
-      "summary": "The company's former safety lead said frontier AI model releases should have \"layers of redundancy and careful, time-consuming planning.\"",
+      "title": "How to disable or restrict your iPhone's Apple Intelligence features",
+      "summary": "You have a lot of control over AI on your iPhone.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/",
-      "publishedAt": "2026-10-03T16:25:15.000Z",
-      "image": "https://www.engadget.com/img/gallery/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/l-intro-1791044463.jpg"
+      "source": "https://www.engadget.com/2274326/how-to-disable-restrict-iphone-apple-intelligence-features/",
+      "publishedAt": "2026-10-04T16:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-disable-or-restrict-your-iphones-apple-intelligence-features/l-intro-1790858757.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the cur",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off ag",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "publishedAt": "2026-10-03T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "publishedAt": "2026-10-04T15:21:59.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "publishedAt": "2026-10-04T15:15:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024"
     }
   ]
 }

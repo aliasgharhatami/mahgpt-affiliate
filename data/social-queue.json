@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-10-04",
-  "created_at": "2026-10-04T11:07:51.869Z",
-  "source_feed_updated_at": "2026-10-04T11:07:48.768Z",
+  "queue_date": "2026-10-05",
+  "created_at": "2026-10-05T06:15:49.470Z",
+  "source_feed_updated_at": "2026-10-05T06:15:49.396Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
@@ -25,12 +25,10 @@
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-04T05:20:00.000Z",
+      "scheduled_publish_at": "2026-10-05T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-04T11:08:24.629Z",
-        "message_id": 532,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-04T11:08:24.629Z"
       },
       "linkedin": {
         "status": "pending"
@@ -38,426 +36,44 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-10-04T11:09:38.308Z",
-        "message_id": "17908400355558490",
-        "media_kind": "source"
+        "message_id": "17908400355558490"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-creativebloq-com-design-graphic-design-adobes-ai-text-to-3d-world-conc-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-creativebloq-com-design-graphic-design-adobes-ai-text-to-3d-world-conc-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "failed",
-        "attempted_at": "2026-10-04T11:09:38.419Z",
-        "classification": "instagram-api-error",
-        "message": "media URL is not an image: text/html; charset=utf-8"
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html",
-      "source_url": "https://www.macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html",
-      "headline": "Learn Claude Code and Cowork — Just $15 during Deal Days",
-      "summary": "Macworld TL;DR: Learn to use Claude for coding and automation with lifetime access to the Claude AI Professional E-Degree, now $14.97 (reg. $159). Most people use Claude only for quick questions, then close the tab without ever trying the built-in coding and automation tools. Figuring those out on y",
-      "source_name": "Just $15 during Deal Days",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3249793-0-08792700-1791100833-Claude.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3249793-0-08792700-1791100833-Claude.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://www.techradar.com/pro/a-meaningful-risk-oracles-massive-1-3-gw-wisconsin-ai-campus-faces-severe-power-delays-as-grid-review-restarts-pushing-customer-delivery-past-2027",
+      "source_url": "https://www.techradar.com/pro/a-meaningful-risk-oracles-massive-1-3-gw-wisconsin-ai-campus-faces-severe-power-delays-as-grid-review-restarts-pushing-customer-delivery-past-2027",
+      "headline": "‘A meaningful risk’: Oracle’s massive 1.3 GW Wisconsin AI campus faces severe power delays as grid review restarts",
+      "summary": "Regulators withdrew their completeness finding on ATC's application after 564 changes were filed, delaying grid power to Oracle's Wisconsin AI campus.",
+      "source_name": "pushing customer delivery past 2027",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/fvSuoQXyuYpY9Y7Tgk4e2a-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fvSuoQXyuYpY9Y7Tgk4e2a-1920-80.png",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=learn-claude-code-and-cowork-just-15-during-deal-days",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-04T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-04T14:41:18.209Z",
-        "message_id": 533,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-04T13:42:20.320Z",
-        "message_id": "17912615556282730",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-macworld-com-article-3249793-learn-claude-code-and-cowork-just-15-duri-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-04T13:42:31.181Z",
-        "message_id": "18315652360304632",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
-      "source_url": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
-      "headline": "Free Premiere on Android is exactly the direction Adobe should be taking",
-      "summary": "Adobe's free video editor for Android isn't perfect, but it's the kind of generous move that could win creatives back.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb-2000-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2000,
-        "height": 1125,
+        "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
-      "detected_partner": "adobe",
-      "product_url": "https://www.adobe.com/products/firefly.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-04T09:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-04T08:50:39.109Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-04T15:49:52.061Z",
-        "message_id": "18110349050174401",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-creativebloq-com-photography-video-editing-software-free-premiere-on-a-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-04T15:50:00.015Z",
-        "message_id": "18039161714647593",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/quote-of-the-day-by-arc-prize-co-founder-francois-chollet-openai-basically-set-back-progress-to-agi-by-five-to-10-years-critiquing-the-industrys-overindulgence-in-large-language-models",
-      "source_url": "https://www.techradar.com/pro/quote-of-the-day-by-arc-prize-co-founder-francois-chollet-openai-basically-set-back-progress-to-agi-by-five-to-10-years-critiquing-the-industrys-overindulgence-in-large-language-models",
-      "headline": "Quote of the day by ARC Prize co-founder François Chollet: \"OpenAI basically set back progress to AGI by five to 10 years\"",
-      "summary": "AI models are becoming more and more advanced, but that doesn't mean the underlying architecture will lead us to human-like intelligence",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=quote-of-the-day-by-arc-prize-co-founder-fran-ois-chollet-openai-basically-set-back-progre",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-meaningful-risk-oracles-massive-1-3-gw-wisconsin-ai-campus-faces-severe-power-delays-as-",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-04T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-04T15:57:45.342Z",
-        "message_id": 534,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-04T17:51:45.213Z",
-        "message_id": "17974760415137042",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-techradar-com-pro-quote-of-the-day-by-arc-prize-co-founder-francois-ch-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-04T17:51:53.626Z",
-        "message_id": "17949233274054206",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/",
-      "source_url": "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/",
-      "headline": "Capcom plans to use AI to speed up the game development process",
-      "summary": "The company previously said it won't use AI-generated content in its games.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/l-intro-1791051900.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/l-intro-1791051900.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=capcom-plans-to-use-ai-to-speed-up-the-game-development-process",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-04T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-04T18:24:09.831Z",
-        "message_id": 535,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-04T20:13:53.191Z",
-        "message_id": "18193961320395905",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-engadget-com-2276597-capcom-plans-to-use-ai-to-speed-up-the-game-devel-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-04T20:14:02.277Z",
-        "message_id": "18492201451107656",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-      "source_url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-      "headline": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/191:100/w_1280,c_limit/GettyImages-474968764.jpg",
-      "image_url": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/191:100/w_1280,c_limit/GettyImages-474968764.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 955,
-        "height": 500,
-        "aspectRatio": 1.91,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-nvidia-shield-tv-is-7-years-old-it-just-got-a-100-price-hike",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-04T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-04T20:12:10.111Z",
-        "message_id": 536,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-04T23:50:19.566Z",
-        "message_id": "18072966419581235",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-wired-com-story-7-year-old-tv-now-100-dollars-more-expensive-thank-ai--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-04T23:50:33.176Z",
-        "message_id": "17961759588221679",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "source_url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "headline": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 627,
-        "aspectRatio": 1.9138755980861244,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=capcom-is-preparing-for-a-future-where-we-create-games-together-with-ai",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-04T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-04T21:48:35.884Z",
-        "message_id": 537,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-04/Capcom-is-preparing-for-a-future-where-we-create-games-together-with-AI--instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-theverge-com-games-1004418-capcom-ai-game-development-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "headline": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-04T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-04T23:58:06.371Z",
-        "message_id": 538,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "assets/social-cards/2026-10-04/OpenAI-safety-employee-resigns-claiming-the-company-s-culture-is-broken--landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-10-04/OpenAI-safety-employee-resigns-claiming-the-company-s-culture-is-broken--instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-04/https-techcrunch-com-2026-10-03-openai-safety-employee-resigns-claiming-the-comp-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-missing-source"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/",
-      "source_url": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/",
-      "headline": "Former OpenAI employee says AI should be regulated like nuclear power plants",
-      "summary": "The company's former safety lead said frontier AI model releases should have \"layers of redundancy and careful, time-consuming planning.\"",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/l-intro-1791044463.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/l-intro-1791044463.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-04T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-05T07:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -473,7 +89,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-engadget-com-2276577-former-openai-employee-says-ai-should-be-regulate-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-techradar-com-pro-a-meaningful-risk-oracles-massive-1-3-gw-wisconsin-a-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -483,13 +99,197 @@
       }
     },
     {
-      "story_id": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "source_url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "headline": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the cur",
+      "story_id": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source_url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "headline": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 863,
+        "aspectRatio": 1.3904982618771726,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-froze-its-open-source-bug-bounty-program-due-to-a-and-8216-significant-rise-and-821",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-techcrunch-com-2026-10-04-google-froze-its-open-source-bug-bounty-program--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source_url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "headline": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-techcrunch-com-2026-10-04-can-super-intelligence-and-a-non-binding-safety--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+      "source_url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+      "headline": "Generate $6 trillion in annual revenue or face a major collapse",
+      "summary": "Regulators withdrew their completeness finding on ATC's application after 564 changes were filed, delaying grid power to Oracle's Wisconsin AI campus.",
+      "source_name": "AI data center costs are doubling every 12 months",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ETt2Pe3AtJk2ynHY4vkd68-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ETt2Pe3AtJk2ynHY4vkd68-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=generate-6-trillion-in-annual-revenue-or-face-a-major-collapse",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-techradar-com-pro-generate-usd6-trillion-in-annual-revenue-or-face-a-m-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2276762/trump-announces-an-ai-czar-for-his-newly-created-super-intelligence-force/",
+      "source_url": "https://www.engadget.com/2276762/trump-announces-an-ai-czar-for-his-newly-created-super-intelligence-force/",
+      "headline": "Trump announces an AI czar for his newly created 'Super Intelligence Force'",
+      "summary": "That's really what it's called and there's actually someone in charge of it.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/trump-announced-an-ai-czar-for-his-newly-created-super-intelligence-force/l-intro-1791131077.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/trump-announced-an-ai-czar-for-his-newly-created-super-intelligence-force/l-intro-1791131077.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trump-announces-an-ai-czar-for-his-newly-created-super-intelligence-force",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-engadget-com-2276762-trump-announces-an-ai-czar-for-his-newly-created--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "headline": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularl",
       "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
       "image_validation": {
         "valid": true,
         "width": 1200,
@@ -499,11 +299,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=splice-ceo-kakul-srivastava-thinks-ai-emails-are-killing-conversations",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=njs-former-lt-gov-is-using-ai-to-say-hes-innocent-of-sexual-harassment",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-04T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-05T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -518,14 +318,153 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-04/Splice-CEO-Kakul-Srivastava-thinks-AI-emails-are-killing-conversations-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-04/https-www-theverge-com-entertainment-1004162-splice-ceo-kakul-srivastava-ai-inte-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-05/NJ-s-former-Lt-Gov-is-using-AI-to-say-he-s-innocent-of-sexual-harassment-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-theverge-com-ai-artificial-intelligence-1004549-well-if-ai-said-it-it--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2274326/how-to-disable-restrict-iphone-apple-intelligence-features/",
+      "source_url": "https://www.engadget.com/2274326/how-to-disable-restrict-iphone-apple-intelligence-features/",
+      "headline": "How to disable or restrict your iPhone's Apple Intelligence features",
+      "summary": "You have a lot of control over AI on your iPhone.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/how-to-disable-or-restrict-your-iphones-apple-intelligence-features/l-intro-1790858757.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/how-to-disable-or-restrict-your-iphones-apple-intelligence-features/l-intro-1790858757.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-disable-or-restrict-your-iphones-apple-intelligence-features",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-engadget-com-2274326-how-to-disable-restrict-iphone-apple-intelligence-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "headline": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off ag",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
+      "image_validation": {
+        "valid": true,
+        "width": 704,
+        "height": 365,
+        "aspectRatio": 1.9287671232876713,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=an-ai-couldnt-beat-humans-at-starcraft-so-it-decided-to-cheat",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-05/An-AI-couldn-t-beat-humans-at-StarCraft-so-it-decided-to-cheat-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-theverge-com-ai-artificial-intelligence-1004543-openai-gpt-cheat-starc-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "source_url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "headline": "Trump unveils his new Super Intelligence Force",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 683,
+        "aspectRatio": 1.499267935578331,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trump-unveils-his-new-super-intelligence-force",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-techcrunch-com-2026-10-04-trump-unveils-his-new-super-intelligence-force--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
         ]
       }
     }
