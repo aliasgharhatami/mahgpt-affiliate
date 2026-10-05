@@ -5151,6 +5151,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/how-mid-market-companies-can-capitalize-on-their-ai-advantage": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-05T12:18:28.571Z",
+        "message_id": 539,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
