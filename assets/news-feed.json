@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T06:15:49.396Z",
+  "updatedAt": "2026-10-05T12:17:39.778Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,6 +30,83 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
+      "title": "How mid-market companies can capitalize on their AI advantage",
+      "summary": "Three barriers are keeping mid-market businesses stuck in AI pilot purgatory and how to overcome them.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/how-mid-market-companies-can-capitalize-on-their-ai-advantage",
+      "publishedAt": "2026-10-05T11:01:23.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Apple’s next big thing may be even riskier than the iPhone Duo",
+      "summary": "Macworld This time next week, the Apple world could look very different. We may have received (and doubtless be obsessing over the artwork and tagline of) invitations to an event on October 13, when reputable sources say the company will unveil its next big thing . Or, based on other clues, namely t",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3245361/apples-imminent-new-device-is-even-riskier-than-the-iphone-duo.html",
+      "publishedAt": "2026-10-05T10:30:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3245361-0-05988900-1791202210-3191178686_x_980.jpg?quality=50&strip=all&w=980"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Our minds aren’t equipped to handle AI",
+      "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing",
+      "guide": "/news/index.html",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "OpenAI sent an oddly casual apology after its AI accessed Australian government systems",
+      "summary": "OpenAI’s breezy email about an AI agent accessing a government system looks even stranger as the full scale of the incident, and the delay in disclosing it, become clear.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/ai-platforms-assistants/openai-sends-staggeringly-casual-email-to-australian-government-wishing-it-the-best-after-ai-agents-hack-its-health-insurance-website",
+      "publishedAt": "2026-10-05T09:57:55.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/PnmNd8HFBHVjfxzYJpPNQi-1920-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Why agentic AI demands a new approach to enterprise security",
+      "summary": "Autonomous AI agents are transforming enterprise workflows, creating new security risks around data, intent, access and accountability.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/why-agentic-ai-demands-a-new-approach-to-enterprise-security",
+      "publishedAt": "2026-10-05T09:54:08.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Who's really behind the login? AI agents are forcing a rethink",
+      "summary": "As AI agents act on our behalf, businesses must rethink identity, authority and trust.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/whos-really-behind-the-login-ai-agents-are-forcing-a-rethink",
+      "publishedAt": "2026-10-05T09:20:17.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "iPhone 18 Pro & Max Guide: Everything you need to know about the new iPhones",
+      "summary": "Macworld The iPhone 18 Pro and iPhone 18 Pro Max are now on sale. They retain the 6.3-inch and 6.9-inch screen sizes and aluminum unibody design introduced with the previous generation, but Apple has made substantial changes to the cameras, processor, cooling, battery life and connectivity. The bigg",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/2953687/iphone-18-pro-max-2026-release-date-design-specs-price.html",
+      "publishedAt": "2026-10-05T09:08:05.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2953687-0-99732000-1791191549-Apple-Watch-Series-12-review-hero1.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
       "title": "‘A meaningful risk’: Oracle’s massive 1.3 GW Wisconsin AI campus faces severe power delays as grid review restarts — pushing customer delivery past 2027",
       "summary": "Regulators withdrew their completeness finding on ATC's application after 564 changes were filed, delaying grid power to Oracle's Wisconsin AI campus.",
       "guide": "/news/index.html",
@@ -47,83 +124,6 @@
       "source": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
       "publishedAt": "2026-10-04T20:31:07.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "publishedAt": "2026-10-04T20:08:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Generate $6 trillion in annual revenue or face a major collapse — AI data center costs are doubling every 12 months",
-      "summary": "Regulators withdrew their completeness finding on ATC's application after 564 changes were filed, delaying grid power to Oracle's Wisconsin AI campus.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-      "publishedAt": "2026-10-04T18:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ETt2Pe3AtJk2ynHY4vkd68-1920-80.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Trump announces an AI czar for his newly created 'Super Intelligence Force'",
-      "summary": "That's really what it's called and there's actually someone in charge of it.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2276762/trump-announces-an-ai-czar-for-his-newly-created-super-intelligence-force/",
-      "publishedAt": "2026-10-04T16:29:26.000Z",
-      "image": "https://www.engadget.com/img/gallery/trump-announced-an-ai-czar-for-his-newly-created-super-intelligence-force/l-intro-1791131077.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularl",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-      "publishedAt": "2026-10-04T16:16:04.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "How to disable or restrict your iPhone's Apple Intelligence features",
-      "summary": "You have a lot of control over AI on your iPhone.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2274326/how-to-disable-restrict-iphone-apple-intelligence-features/",
-      "publishedAt": "2026-10-04T16:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-disable-or-restrict-your-iphones-apple-intelligence-features/l-intro-1790858757.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off ag",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "publishedAt": "2026-10-04T15:21:59.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Trump unveils his new Super Intelligence Force",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "publishedAt": "2026-10-04T15:15:10.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024"
     }
   ]
 }
