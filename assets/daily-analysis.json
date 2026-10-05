@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T11:07:58.773Z",
-  "analysis_date": "2026-10-04",
+  "generated_at": "2026-10-05T12:17:48.435Z",
+  "analysis_date": "2026-10-05",
   "stories": [
     {
       "title": "Adobe's AI text-to-3D world concept is a glimpse of where Firefly could go next",
@@ -9,93 +9,93 @@
       "mahgpt_url": "/news/story.html?id=adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next"
     },
     {
-      "title": "Learn Claude Code and Cowork — Just $15 during Deal Days",
-      "source": "https://www.macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html",
-      "mahgpt_url": "/news/story.html?id=learn-claude-code-and-cowork-just-15-during-deal-days"
+      "title": "How mid-market companies can capitalize on their AI advantage",
+      "source": "https://www.techradar.com/pro/how-mid-market-companies-can-capitalize-on-their-ai-advantage",
+      "mahgpt_url": "/news/story.html?id=how-mid-market-companies-can-capitalize-on-their-ai-advantage"
     },
     {
-      "title": "Free Premiere on Android is exactly the direction Adobe should be taking",
-      "source": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
-      "mahgpt_url": "/news/story.html?id=free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking"
+      "title": "Apple’s next big thing may be even riskier than the iPhone Duo",
+      "source": "https://www.macworld.com/article/3245361/apples-imminent-new-device-is-even-riskier-than-the-iphone-duo.html",
+      "mahgpt_url": "/news/story.html?id=apples-next-big-thing-may-be-even-riskier-than-the-iphone-duo"
     },
     {
-      "title": "Quote of the day by ARC Prize co-founder François Chollet: \"OpenAI basically set back progress to AGI by five to 10 years\"",
-      "source": "https://www.techradar.com/pro/quote-of-the-day-by-arc-prize-co-founder-francois-chollet-openai-basically-set-back-progress-to-agi-by-five-to-10-years-critiquing-the-industrys-overindulgence-in-large-language-models",
-      "mahgpt_url": "/news/story.html?id=quote-of-the-day-by-arc-prize-co-founder-fran-ois-chollet-openai-basically-set-back-progre"
+      "title": "Our minds aren’t equipped to handle AI",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "mahgpt_url": "/news/story.html?id=our-minds-arent-equipped-to-handle-ai"
     },
     {
-      "title": "Capcom plans to use AI to speed up the game development process",
-      "source": "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/",
-      "mahgpt_url": "/news/story.html?id=capcom-plans-to-use-ai-to-speed-up-the-game-development-process"
+      "title": "OpenAI sent an oddly casual apology after its AI accessed Australian government systems",
+      "source": "https://www.techradar.com/ai-platforms-assistants/openai-sends-staggeringly-casual-email-to-australian-government-wishing-it-the-best-after-ai-agents-hack-its-health-insurance-website",
+      "mahgpt_url": "/news/story.html?id=openai-sent-an-oddly-casual-apology-after-its-ai-accessed-australian-government-systems"
     },
     {
-      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "source": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-      "mahgpt_url": "/news/story.html?id=the-nvidia-shield-tv-is-7-years-old-it-just-got-a-100-price-hike"
+      "title": "Why agentic AI demands a new approach to enterprise security",
+      "source": "https://www.techradar.com/pro/why-agentic-ai-demands-a-new-approach-to-enterprise-security",
+      "mahgpt_url": "/news/story.html?id=why-agentic-ai-demands-a-new-approach-to-enterprise-security"
     },
     {
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "source": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "mahgpt_url": "/news/story.html?id=capcom-is-preparing-for-a-future-where-we-create-games-together-with-ai"
+      "title": "Who's really behind the login? AI agents are forcing a rethink",
+      "source": "https://www.techradar.com/pro/whos-really-behind-the-login-ai-agents-are-forcing-a-rethink",
+      "mahgpt_url": "/news/story.html?id=whos-really-behind-the-login-ai-agents-are-forcing-a-rethink"
     },
     {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "source": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "mahgpt_url": "/news/story.html?id=openai-safety-employee-resigns-claiming-the-companys-culture-is-broken"
+      "title": "iPhone 18 Pro & Max Guide: Everything you need to know about the new iPhones",
+      "source": "https://www.macworld.com/article/2953687/iphone-18-pro-max-2026-release-date-design-specs-price.html",
+      "mahgpt_url": "/news/story.html?id=iphone-18-pro-and-max-guide-everything-you-need-to-know-about-the-new-iphones"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-04.html"
+      "path": "news/analysis/2026-10-05.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-04.html"
+      "path": "es/news/analysis/2026-10-05.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-04.html"
+      "path": "de/news/analysis/2026-10-05.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-04.html"
+      "path": "fr/news/analysis/2026-10-05.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-04.html"
+      "path": "pt-BR/news/analysis/2026-10-05.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-04.html"
+      "path": "ar/news/analysis/2026-10-05.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-04.html"
+      "path": "fa/news/analysis/2026-10-05.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-04.html"
+      "path": "tr/news/analysis/2026-10-05.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-04.html"
+      "path": "it/news/analysis/2026-10-05.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-04.html"
+      "path": "ja/news/analysis/2026-10-05.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-04.html"
+      "path": "ko/news/analysis/2026-10-05.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-04.html"
+      "path": "id/news/analysis/2026-10-05.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-04.html"
+      "path": "hi/news/analysis/2026-10-05.html"
     }
   ]
 }

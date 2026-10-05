@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-10-05",
-  "created_at": "2026-10-05T06:15:49.470Z",
-  "source_feed_updated_at": "2026-10-05T06:15:49.396Z",
+  "created_at": "2026-10-05T12:17:43.308Z",
+  "source_feed_updated_at": "2026-10-05T12:17:39.778Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
@@ -53,6 +53,329 @@
       }
     },
     {
+      "story_id": "https://www.techradar.com/pro/how-mid-market-companies-can-capitalize-on-their-ai-advantage",
+      "source_url": "https://www.techradar.com/pro/how-mid-market-companies-can-capitalize-on-their-ai-advantage",
+      "headline": "How mid-market companies can capitalize on their AI advantage",
+      "summary": "Three barriers are keeping mid-market businesses stuck in AI pilot purgatory and how to overcome them.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-mid-market-companies-can-capitalize-on-their-ai-advantage",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-techradar-com-pro-how-mid-market-companies-can-capitalize-on-their-ai--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3245361/apples-imminent-new-device-is-even-riskier-than-the-iphone-duo.html",
+      "source_url": "https://www.macworld.com/article/3245361/apples-imminent-new-device-is-even-riskier-than-the-iphone-duo.html",
+      "headline": "Apple’s next big thing may be even riskier than the iPhone Duo",
+      "summary": "Macworld This time next week, the Apple world could look very different. We may have received (and doubtless be obsessing over the artwork and tagline of) invitations to an event on October 13, when reputable sources say the company will unveil its next big thing. Or, based on other clues, namely t",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3245361-0-05988900-1791202210-3191178686_x_980.jpg?quality=50&strip=all&w=980",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3245361-0-05988900-1791202210-3191178686_x_980.jpg?quality=50&strip=all&w=980",
+      "image_validation": {
+        "valid": true,
+        "width": 980,
+        "height": 551,
+        "aspectRatio": 1.778584392014519,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apples-next-big-thing-may-be-even-riskier-than-the-iphone-duo",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-macworld-com-article-3245361-apples-imminent-new-device-is-even-riskie-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "headline": "Our minds aren’t equipped to handle AI",
+      "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=our-minds-arent-equipped-to-handle-ai",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-05/Our-minds-aren-t-equipped-to-handle-AI-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-theverge-com-ai-artificial-intelligence-1003794-ai-education-computati-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/openai-sends-staggeringly-casual-email-to-australian-government-wishing-it-the-best-after-ai-agents-hack-its-health-insurance-website",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/openai-sends-staggeringly-casual-email-to-australian-government-wishing-it-the-best-after-ai-agents-hack-its-health-insurance-website",
+      "headline": "OpenAI sent an oddly casual apology after its AI accessed Australian government systems",
+      "summary": "OpenAI’s breezy email about an AI agent accessing a government system looks even stranger as the full scale of the incident, and the delay in disclosing it, become clear.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/PnmNd8HFBHVjfxzYJpPNQi-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/PnmNd8HFBHVjfxzYJpPNQi-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-sent-an-oddly-casual-apology-after-its-ai-accessed-australian-government-systems",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-techradar-com-ai-platforms-assistants-openai-sends-staggeringly-casual-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/why-agentic-ai-demands-a-new-approach-to-enterprise-security",
+      "source_url": "https://www.techradar.com/pro/why-agentic-ai-demands-a-new-approach-to-enterprise-security",
+      "headline": "Why agentic AI demands a new approach to enterprise security",
+      "summary": "Autonomous AI agents are transforming enterprise workflows, creating new security risks around data, intent, access and accountability.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2000,
+        "height": 1125,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-agentic-ai-demands-a-new-approach-to-enterprise-security",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-techradar-com-pro-why-agentic-ai-demands-a-new-approach-to-enterprise--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/whos-really-behind-the-login-ai-agents-are-forcing-a-rethink",
+      "source_url": "https://www.techradar.com/pro/whos-really-behind-the-login-ai-agents-are-forcing-a-rethink",
+      "headline": "Who's really behind the login? AI agents are forcing a rethink",
+      "summary": "As AI agents act on our behalf, businesses must rethink identity, authority and trust.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=whos-really-behind-the-login-ai-agents-are-forcing-a-rethink",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-techradar-com-pro-whos-really-behind-the-login-ai-agents-are-forcing-a-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/2953687/iphone-18-pro-max-2026-release-date-design-specs-price.html",
+      "source_url": "https://www.macworld.com/article/2953687/iphone-18-pro-max-2026-release-date-design-specs-price.html",
+      "headline": "iPhone 18 Pro & Max Guide: Everything you need to know about the new iPhones",
+      "summary": "Macworld The iPhone 18 Pro and iPhone 18 Pro Max are now on sale. They retain the 6.3-inch and 6.9-inch screen sizes and aluminum unibody design introduced with the previous generation, but Apple has made substantial changes to the cameras, processor, cooling, battery life and connectivity. The bigg",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2953687-0-99732000-1791191549-Apple-Watch-Series-12-review-hero1.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2953687-0-99732000-1791191549-Apple-Watch-Series-12-review-hero1.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 576,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=iphone-18-pro-and-max-guide-everything-you-need-to-know-about-the-new-iphones",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-05T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-macworld-com-article-2953687-iphone-18-pro-max-2026-release-date-desig-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
       "story_id": "https://www.techradar.com/pro/a-meaningful-risk-oracles-massive-1-3-gw-wisconsin-ai-campus-faces-severe-power-delays-as-grid-review-restarts-pushing-customer-delivery-past-2027",
       "source_url": "https://www.techradar.com/pro/a-meaningful-risk-oracles-massive-1-3-gw-wisconsin-ai-campus-faces-severe-power-delays-as-grid-review-restarts-pushing-customer-delivery-past-2027",
       "headline": "‘A meaningful risk’: Oracle’s massive 1.3 GW Wisconsin AI campus faces severe power delays as grid review restarts",
@@ -73,7 +396,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-05T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -84,8 +407,7 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-10-05T11:30:43.118Z",
-        "message_id": "17897891529609271",
-        "media_kind": "source"
+        "message_id": "17897891529609271"
       },
       "x": {
         "status": "pending"
@@ -99,12 +421,6 @@
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-05T11:30:52.137Z",
-        "message_id": "18136396801628726",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -128,330 +444,6 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T09:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-techcrunch-com-2026-10-04-google-froze-its-open-source-bug-bounty-program--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "source_url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "headline": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T11:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-techcrunch-com-2026-10-04-can-super-intelligence-and-a-non-binding-safety--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-      "source_url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-      "headline": "Generate $6 trillion in annual revenue or face a major collapse",
-      "summary": "Regulators withdrew their completeness finding on ATC's application after 564 changes were filed, delaying grid power to Oracle's Wisconsin AI campus.",
-      "source_name": "AI data center costs are doubling every 12 months",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ETt2Pe3AtJk2ynHY4vkd68-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ETt2Pe3AtJk2ynHY4vkd68-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=generate-6-trillion-in-annual-revenue-or-face-a-major-collapse",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T13:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-techradar-com-pro-generate-usd6-trillion-in-annual-revenue-or-face-a-m-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2276762/trump-announces-an-ai-czar-for-his-newly-created-super-intelligence-force/",
-      "source_url": "https://www.engadget.com/2276762/trump-announces-an-ai-czar-for-his-newly-created-super-intelligence-force/",
-      "headline": "Trump announces an AI czar for his newly created 'Super Intelligence Force'",
-      "summary": "That's really what it's called and there's actually someone in charge of it.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/trump-announced-an-ai-czar-for-his-newly-created-super-intelligence-force/l-intro-1791131077.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/trump-announced-an-ai-czar-for-his-newly-created-super-intelligence-force/l-intro-1791131077.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trump-announces-an-ai-czar-for-his-newly-created-super-intelligence-force",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-engadget-com-2276762-trump-announces-an-ai-czar-for-his-newly-created--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-      "headline": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularl",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=njs-former-lt-gov-is-using-ai-to-say-hes-innocent-of-sexual-harassment",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-05/NJ-s-former-Lt-Gov-is-using-AI-to-say-he-s-innocent-of-sexual-harassment-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-theverge-com-ai-artificial-intelligence-1004549-well-if-ai-said-it-it--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2274326/how-to-disable-restrict-iphone-apple-intelligence-features/",
-      "source_url": "https://www.engadget.com/2274326/how-to-disable-restrict-iphone-apple-intelligence-features/",
-      "headline": "How to disable or restrict your iPhone's Apple Intelligence features",
-      "summary": "You have a lot of control over AI on your iPhone.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/how-to-disable-or-restrict-your-iphones-apple-intelligence-features/l-intro-1790858757.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/how-to-disable-or-restrict-your-iphones-apple-intelligence-features/l-intro-1790858757.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-disable-or-restrict-your-iphones-apple-intelligence-features",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-engadget-com-2274326-how-to-disable-restrict-iphone-apple-intelligence-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "headline": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off ag",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
-      "image_validation": {
-        "valid": true,
-        "width": 704,
-        "height": 365,
-        "aspectRatio": 1.9287671232876713,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=an-ai-couldnt-beat-humans-at-starcraft-so-it-decided-to-cheat",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-05/An-AI-couldn-t-beat-humans-at-StarCraft-so-it-decided-to-cheat-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-theverge-com-ai-artificial-intelligence-1004543-openai-gpt-cheat-starc-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "source_url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "headline": "Trump unveils his new Super Intelligence Force",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 683,
-        "aspectRatio": 1.499267935578331,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trump-unveils-his-new-super-intelligence-force",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
       "scheduled_publish_at": "2026-10-05T23:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -468,7 +460,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-techcrunch-com-2026-10-04-trump-unveils-his-new-super-intelligence-force--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-05/https-techcrunch-com-2026-10-04-google-froze-its-open-source-bug-bounty-program--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
