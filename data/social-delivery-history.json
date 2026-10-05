@@ -5168,6 +5168,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3245361/apples-imminent-new-device-is-even-riskier-than-the-iphone-duo.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-05T15:09:27.584Z",
+        "message_id": 540,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
