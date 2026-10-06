@@ -5304,6 +5304,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/when-identity-isnt-human-securing-the-agentic-enterprise": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-06T23:05:40.147Z",
+        "message_id": 548,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
