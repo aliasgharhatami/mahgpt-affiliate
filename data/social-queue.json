@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-10-05",
-  "created_at": "2026-10-05T12:17:43.308Z",
-  "source_feed_updated_at": "2026-10-05T12:17:39.778Z",
+  "queue_date": "2026-10-06",
+  "created_at": "2026-10-06T09:16:08.046Z",
+  "source_feed_updated_at": "2026-10-06T09:16:07.953Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
@@ -25,7 +25,7 @@
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-05T05:20:00.000Z",
+      "scheduled_publish_at": "2026-10-06T05:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-10-04T11:08:24.629Z"
@@ -43,7 +43,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-creativebloq-com-design-graphic-design-adobes-ai-text-to-3d-world-conc-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-06/https-www-creativebloq-com-design-graphic-design-adobes-ai-text-to-3d-world-conc-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -53,13 +53,61 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/how-mid-market-companies-can-capitalize-on-their-ai-advantage",
-      "source_url": "https://www.techradar.com/pro/how-mid-market-companies-can-capitalize-on-their-ai-advantage",
-      "headline": "How mid-market companies can capitalize on their AI advantage",
-      "summary": "Three barriers are keeping mid-market businesses stuck in AI pilot purgatory and how to overcome them.",
+      "story_id": "https://www.creativebloq.com/design/product-design/this-handmade-cuddly-toy-emits-the-piercing-wail-of-an-ai-data-centre",
+      "source_url": "https://www.creativebloq.com/design/product-design/this-handmade-cuddly-toy-emits-the-piercing-wail-of-an-ai-data-centre",
+      "headline": "This cuddly toy emits the piercing wail of an AI data centre",
+      "summary": "Beezy is an adorable handmade toy with a hidden message.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/bnVoowqunquXqwuEsffEaT-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bnVoowqunquXqwuEsffEaT-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-cuddly-toy-emits-the-piercing-wail-of-an-ai-data-centre",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-06T07:20:00.000Z",
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-06T09:16:17.289Z",
+        "message_id": 543,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-06/https-www-creativebloq-com-design-product-design-this-handmade-cuddly-toy-emits--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/computing/google-ai-data-center-project-accused-of-destroying-300-hectares-of-finnish-forest-as-critics-brand-microsofts-nature-inspired-designs-for-20-facilities-as-lipstick-on-a-pig",
+      "source_url": "https://www.techradar.com/computing/google-ai-data-center-project-accused-of-destroying-300-hectares-of-finnish-forest-as-critics-brand-microsofts-nature-inspired-designs-for-20-facilities-as-lipstick-on-a-pig",
+      "headline": "Google and Microsoft hit by fresh criticism of their AI data center plans",
+      "summary": "Big Tech firms are destroying the environment in a quest for further AI gains, critics claim.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/SDj9iGeTf2hdogWtK4UFWM-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/SDj9iGeTf2hdogWtK4UFWM-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
@@ -69,130 +117,147 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-mid-market-companies-can-capitalize-on-their-ai-advantage",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-and-microsoft-hit-by-fresh-criticism-of-their-ai-data-center-plans",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-06T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-05T12:18:28.571Z",
-        "message_id": 539,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-05T21:24:09.691Z",
-        "message_id": "18466682599185319",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-techradar-com-pro-how-mid-market-companies-can-capitalize-on-their-ai--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-06/https-www-techradar-com-computing-google-ai-data-center-project-accused-of-destr-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-05T21:24:20.357Z",
-        "message_id": "18216992053356063",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3245361/apples-imminent-new-device-is-even-riskier-than-the-iphone-duo.html",
-      "source_url": "https://www.macworld.com/article/3245361/apples-imminent-new-device-is-even-riskier-than-the-iphone-duo.html",
-      "headline": "Apple’s next big thing may be even riskier than the iPhone Duo",
-      "summary": "Macworld This time next week, the Apple world could look very different. We may have received (and doubtless be obsessing over the artwork and tagline of) invitations to an event on October 13, when reputable sources say the company will unveil its next big thing. Or, based on other clues, namely t",
+      "story_id": "https://www.macworld.com/article/671123/should-i-install-macos-beta-latest-version.html",
+      "source_url": "https://www.macworld.com/article/671123/should-i-install-macos-beta-latest-version.html",
+      "headline": "Latest macOS beta: What’s new and should you install it?",
+      "summary": "Macworld Apple released macOS 27 Golden Gate on September 14, 2026, but development hasn’t stopped. Just two days later on September 16, Apple issued the first developer beta of macOS 27.2, beginning testing of the operating system’s next major point update. Yes, that’s macOS 27.2, not macOS 27.1. T",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3245361-0-05988900-1791202210-3191178686_x_980.jpg?quality=50&strip=all&w=980",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3245361-0-05988900-1791202210-3191178686_x_980.jpg?quality=50&strip=all&w=980",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/671123-0-63313500-1791244443-Apple-Developers-SDK-How-to-become-an-Apple-developer.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/671123-0-63313500-1791244443-Apple-Developers-SDK-How-to-become-an-Apple-developer.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 980,
-        "height": 551,
-        "aspectRatio": 1.778584392014519,
+        "width": 1024,
+        "height": 640,
+        "aspectRatio": 1.6,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apples-next-big-thing-may-be-even-riskier-than-the-iphone-duo",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=latest-macos-beta-whats-new-and-should-you-install-it",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-06T11:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-05T15:09:27.584Z",
-        "message_id": 540,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-08-25T17:47:39.173Z"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-06T00:59:17.334Z",
-        "message_id": "17958541392219270",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-macworld-com-article-3245361-apples-imminent-new-device-is-even-riskie-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-06/https-www-macworld-com-article-671123-should-i-install-macos-beta-latest-version-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-06T00:59:27.442Z",
-        "message_id": "18125227568511840",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-      "headline": "Our minds aren’t equipped to handle AI",
-      "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing",
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "headline": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late",
       "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
+      "image_url": "",
+      "image_validation": null,
+      "image_mode": "fallback_card",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=our-minds-arent-equipped-to-handle-ai",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=gemini-call-for-me-might-tell-your-mom-you-and-8217-re-running-late",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T11:20:00.000Z",
+      "scheduled_publish_at": "2026-10-06T13:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-05T21:12:43.405Z",
-        "message_id": 541,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "assets/social-cards/2026-10-06/Gemini-Call-for-Me-might-tell-your-mom-you-8217-re-running-late-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-06/Gemini-Call-for-Me-might-tell-your-mom-you-8217-re-running-late-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-06/https-www-theverge-com-ai-artificial-intelligence-1005177-google-gemini-call-for-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-missing-source"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-usd140b-plan-to-build-up-to-4gw-of-ai-data-centers-across-japan-and-asia",
+      "source_url": "https://www.techradar.com/pro/the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-usd140b-plan-to-build-up-to-4gw-of-ai-data-centers-across-japan-and-asia",
+      "headline": "‘The keyword is speed to power’: Dell, Apollo, and Jera launch a $140 billion plan to build up to 4GW of AI data centers across Japan and Asia",
+      "summary": "Dell, Apollo and Jera plan up to 4GW of AI data centres and gas power infrastructure across Japan within five years.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ETt2Pe3AtJk2ynHY4vkd68-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ETt2Pe3AtJk2ynHY4vkd68-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-140-billion-plan-to-build-up-t",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-06T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -204,8 +269,146 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-05/Our-minds-aren-t-equipped-to-handle-AI-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-theverge-com-ai-artificial-intelligence-1003794-ai-education-computati-story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-06/https-www-techradar-com-pro-the-keyword-is-speed-to-power-dell-apollo-and-jera-l-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/nearly-40-000-phishing-attacks-hit-us-financial-firms-in-h1-2026-automated-ai-agents-and-a-new-seychelles-bulletproof-host-fuel-aggressive-new-campaigns",
+      "source_url": "https://www.techradar.com/pro/nearly-40-000-phishing-attacks-hit-us-financial-firms-in-h1-2026-automated-ai-agents-and-a-new-seychelles-bulletproof-host-fuel-aggressive-new-campaigns",
+      "headline": "Nearly 40,000 phishing attacks hit US financial firms in H1 2026 — automated AI agents and a new Seychelles bulletproof host fuel aggressive new campaigns",
+      "summary": "US financial services faced nearly 40,000 phishing URLs in just six months as free hosting, AI tools, and Omegatech expanded attackers' infrastructure options.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/CT482eMSRL8PagRtuBVYNd-2000-80.jpeg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CT482eMSRL8PagRtuBVYNd-2000-80.jpeg",
+      "image_validation": {
+        "valid": true,
+        "width": 2000,
+        "height": 1125,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nearly-40-000-phishing-attacks-hit-us-financial-firms-in-h1-2026-automated-ai-agents-and-a",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-06T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-06/https-www-techradar-com-pro-nearly-40-000-phishing-attacks-hit-us-financial-firm-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source_url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "headline": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-will-start-watermarking-chatgpt-and-8217-s-text-in-the-eu",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-06T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-06/https-techcrunch-com-2026-10-05-openai-will-start-watermarking-chatgpts-text-in--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "headline": "This startup is issuing AI-generated acne prescriptions",
+      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloom",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&strip=all&crop=0%2C5.420521028312%2C100%2C89.158957943376&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&strip=all&crop=0%2C5.420521028312%2C100%2C89.158957943376&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1199,
+        "height": 627,
+        "aspectRatio": 1.912280701754386,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-startup-is-issuing-ai-generated-acne-prescriptions",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-06T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-06/This-startup-is-issuing-AI-generated-acne-prescriptions-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-06/https-www-theverge-com-ai-artificial-intelligence-1005075-nolla-health-acne-ai-p-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -216,75 +419,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/openai-sends-staggeringly-casual-email-to-australian-government-wishing-it-the-best-after-ai-agents-hack-its-health-insurance-website",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/openai-sends-staggeringly-casual-email-to-australian-government-wishing-it-the-best-after-ai-agents-hack-its-health-insurance-website",
-      "headline": "OpenAI sent an oddly casual apology after its AI accessed Australian government systems",
-      "summary": "OpenAI’s breezy email about an AI agent accessing a government system looks even stranger as the full scale of the incident, and the delay in disclosing it, become clear.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/PnmNd8HFBHVjfxzYJpPNQi-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/PnmNd8HFBHVjfxzYJpPNQi-1920-80.jpg",
+      "story_id": "https://www.engadget.com/2278051/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/",
+      "source_url": "https://www.engadget.com/2278051/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/",
+      "headline": "Wikimedia links OpenAI agents to an outage and unauthorized activity",
+      "summary": "Wikimedia says it's &#34;deeply concerned about the impact of 'rogue' AI agents on platforms like ours.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/l-intro-1791230037.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/l-intro-1791230037.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-sent-an-oddly-casual-apology-after-its-ai-accessed-australian-government-systems",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-06T01:46:30.663Z",
-        "message_id": 542,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-techradar-com-ai-platforms-assistants-openai-sends-staggeringly-casual-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/why-agentic-ai-demands-a-new-approach-to-enterprise-security",
-      "source_url": "https://www.techradar.com/pro/why-agentic-ai-demands-a-new-approach-to-enterprise-security",
-      "headline": "Why agentic AI demands a new approach to enterprise security",
-      "summary": "Autonomous AI agents are transforming enterprise workflows, creating new security risks around data, intent, access and accountability.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2000,
-        "height": 1125,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-agentic-ai-demands-a-new-approach-to-enterprise-security",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T15:20:00.000Z",
+      "scheduled_publish_at": "2026-10-06T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -300,193 +455,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-techradar-com-pro-why-agentic-ai-demands-a-new-approach-to-enterprise--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/whos-really-behind-the-login-ai-agents-are-forcing-a-rethink",
-      "source_url": "https://www.techradar.com/pro/whos-really-behind-the-login-ai-agents-are-forcing-a-rethink",
-      "headline": "Who's really behind the login? AI agents are forcing a rethink",
-      "summary": "As AI agents act on our behalf, businesses must rethink identity, authority and trust.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=whos-really-behind-the-login-ai-agents-are-forcing-a-rethink",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-techradar-com-pro-whos-really-behind-the-login-ai-agents-are-forcing-a-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/2953687/iphone-18-pro-max-2026-release-date-design-specs-price.html",
-      "source_url": "https://www.macworld.com/article/2953687/iphone-18-pro-max-2026-release-date-design-specs-price.html",
-      "headline": "iPhone 18 Pro & Max Guide: Everything you need to know about the new iPhones",
-      "summary": "Macworld The iPhone 18 Pro and iPhone 18 Pro Max are now on sale. They retain the 6.3-inch and 6.9-inch screen sizes and aluminum unibody design introduced with the previous generation, but Apple has made substantial changes to the cameras, processor, cooling, battery life and connectivity. The bigg",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2953687-0-99732000-1791191549-Apple-Watch-Series-12-review-hero1.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2953687-0-99732000-1791191549-Apple-Watch-Series-12-review-hero1.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 576,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=iphone-18-pro-and-max-guide-everything-you-need-to-know-about-the-new-iphones",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-macworld-com-article-2953687-iphone-18-pro-max-2026-release-date-desig-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/a-meaningful-risk-oracles-massive-1-3-gw-wisconsin-ai-campus-faces-severe-power-delays-as-grid-review-restarts-pushing-customer-delivery-past-2027",
-      "source_url": "https://www.techradar.com/pro/a-meaningful-risk-oracles-massive-1-3-gw-wisconsin-ai-campus-faces-severe-power-delays-as-grid-review-restarts-pushing-customer-delivery-past-2027",
-      "headline": "‘A meaningful risk’: Oracle’s massive 1.3 GW Wisconsin AI campus faces severe power delays as grid review restarts",
-      "summary": "Regulators withdrew their completeness finding on ATC's application after 564 changes were filed, delaying grid power to Oracle's Wisconsin AI campus.",
-      "source_name": "pushing customer delivery past 2027",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/fvSuoQXyuYpY9Y7Tgk4e2a-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/fvSuoQXyuYpY9Y7Tgk4e2a-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-meaningful-risk-oracles-massive-1-3-gw-wisconsin-ai-campus-faces-severe-power-delays-as-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-05T11:30:43.118Z",
-        "message_id": "17897891529609271"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-www-techradar-com-pro-a-meaningful-risk-oracles-massive-1-3-gw-wisconsin-a-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "source_url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "headline": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 863,
-        "aspectRatio": 1.3904982618771726,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-froze-its-open-source-bug-bounty-program-due-to-a-and-8216-significant-rise-and-821",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-05T23:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-05/https-techcrunch-com-2026-10-04-google-froze-its-open-source-bug-bounty-program--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-06/https-www-engadget-com-2278051-wikimedia-links-openai-agents-to-an-outage-and-un-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

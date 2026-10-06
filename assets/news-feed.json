@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T12:17:39.778Z",
+  "updatedAt": "2026-10-06T09:16:07.953Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How mid-market companies can capitalize on their AI advantage",
-      "summary": "Three barriers are keeping mid-market businesses stuck in AI pilot purgatory and how to overcome them.",
+      "title": "This cuddly toy emits the piercing wail of an AI data centre",
+      "summary": "Beezy is an adorable handmade toy with a hidden message.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/how-mid-market-companies-can-capitalize-on-their-ai-advantage",
-      "publishedAt": "2026-10-05T11:01:23.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-2560-80.jpg"
+      "source": "https://www.creativebloq.com/design/product-design/this-handmade-cuddly-toy-emits-the-piercing-wail-of-an-ai-data-centre",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/bnVoowqunquXqwuEsffEaT-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple’s next big thing may be even riskier than the iPhone Duo",
-      "summary": "Macworld This time next week, the Apple world could look very different. We may have received (and doubtless be obsessing over the artwork and tagline of) invitations to an event on October 13, when reputable sources say the company will unveil its next big thing . Or, based on other clues, namely t",
+      "title": "Google and Microsoft hit by fresh criticism of their AI data center plans",
+      "summary": "Big Tech firms are destroying the environment in a quest for further AI gains, critics claim.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3245361/apples-imminent-new-device-is-even-riskier-than-the-iphone-duo.html",
-      "publishedAt": "2026-10-05T10:30:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3245361-0-05988900-1791202210-3191178686_x_980.jpg?quality=50&strip=all&w=980"
+      "source": "https://www.techradar.com/computing/google-ai-data-center-project-accused-of-destroying-300-hectares-of-finnish-forest-as-critics-brand-microsofts-nature-inspired-designs-for-20-facilities-as-lipstick-on-a-pig",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/SDj9iGeTf2hdogWtK4UFWM-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Our minds aren’t equipped to handle AI",
-      "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing",
+      "title": "Latest macOS beta: What’s new and should you install it?",
+      "summary": "Macworld Apple released macOS 27 Golden Gate on September 14, 2026, but development hasn’t stopped. Just two days later on September 16, Apple issued the first developer beta of macOS 27.2, beginning testing of the operating system’s next major point update. Yes, that’s macOS 27.2, not macOS 27.1. T",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-      "publishedAt": "2026-10-05T10:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.macworld.com/article/671123/should-i-install-macos-beta-latest-version.html",
+      "publishedAt": "2026-10-05T23:53:45.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/671123-0-63313500-1791244443-Apple-Developers-SDK-How-to-become-an-Apple-developer.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI sent an oddly casual apology after its AI accessed Australian government systems",
-      "summary": "OpenAI’s breezy email about an AI agent accessing a government system looks even stranger as the full scale of the incident, and the delay in disclosing it, become clear.",
+      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/openai-sends-staggeringly-casual-email-to-australian-government-wishing-it-the-best-after-ai-agents-hack-its-health-insurance-website",
-      "publishedAt": "2026-10-05T09:57:55.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PnmNd8HFBHVjfxzYJpPNQi-1920-80.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "publishedAt": "2026-10-05T23:09:55.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why agentic AI demands a new approach to enterprise security",
-      "summary": "Autonomous AI agents are transforming enterprise workflows, creating new security risks around data, intent, access and accountability.",
+      "title": "‘The keyword is speed to power’: Dell, Apollo, and Jera launch a $140 billion plan to build up to 4GW of AI data centers across Japan and Asia",
+      "summary": "Dell, Apollo and Jera plan up to 4GW of AI data centres and gas power infrastructure across Japan within five years.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/why-agentic-ai-demands-a-new-approach-to-enterprise-security",
-      "publishedAt": "2026-10-05T09:54:08.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-2000-80.jpg"
+      "source": "https://www.techradar.com/pro/the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-usd140b-plan-to-build-up-to-4gw-of-ai-data-centers-across-japan-and-asia",
+      "publishedAt": "2026-10-05T22:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ETt2Pe3AtJk2ynHY4vkd68-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Who's really behind the login? AI agents are forcing a rethink",
-      "summary": "As AI agents act on our behalf, businesses must rethink identity, authority and trust.",
+      "title": "Nearly 40,000 phishing attacks hit US financial firms in H1 2026 — automated AI agents and a new Seychelles bulletproof host fuel aggressive new campaigns",
+      "summary": "US financial services faced nearly 40,000 phishing URLs in just six months as free hosting, AI tools, and Omegatech expanded attackers' infrastructure options.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/whos-really-behind-the-login-ai-agents-are-forcing-a-rethink",
-      "publishedAt": "2026-10-05T09:20:17.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/nearly-40-000-phishing-attacks-hit-us-financial-firms-in-h1-2026-automated-ai-agents-and-a-new-seychelles-bulletproof-host-fuel-aggressive-new-campaigns",
+      "publishedAt": "2026-10-05T21:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/CT482eMSRL8PagRtuBVYNd-2000-80.jpeg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "iPhone 18 Pro & Max Guide: Everything you need to know about the new iPhones",
-      "summary": "Macworld The iPhone 18 Pro and iPhone 18 Pro Max are now on sale. They retain the 6.3-inch and 6.9-inch screen sizes and aluminum unibody design introduced with the previous generation, but Apple has made substantial changes to the cameras, processor, cooling, battery life and connectivity. The bigg",
+      "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/2953687/iphone-18-pro-max-2026-release-date-design-specs-price.html",
-      "publishedAt": "2026-10-05T09:08:05.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2953687-0-99732000-1791191549-Apple-Watch-Series-12-review-hero1.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "publishedAt": "2026-10-05T20:36:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "‘A meaningful risk’: Oracle’s massive 1.3 GW Wisconsin AI campus faces severe power delays as grid review restarts — pushing customer delivery past 2027",
-      "summary": "Regulators withdrew their completeness finding on ATC's application after 564 changes were filed, delaying grid power to Oracle's Wisconsin AI campus.",
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloom",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/a-meaningful-risk-oracles-massive-1-3-gw-wisconsin-ai-campus-faces-severe-power-delays-as-grid-review-restarts-pushing-customer-delivery-past-2027",
-      "publishedAt": "2026-10-04T22:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/fvSuoQXyuYpY9Y7Tgk4e2a-1920-80.png"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "publishedAt": "2026-10-05T20:14:57.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&strip=all&crop=0%2C5.420521028312%2C100%2C89.158957943376&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "title": "Wikimedia links OpenAI agents to an outage and unauthorized activity",
+      "summary": "Wikimedia says it's &#34;deeply concerned about the impact of 'rogue' AI agents on platforms like ours.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "publishedAt": "2026-10-04T20:31:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863"
+      "source": "https://www.engadget.com/2278051/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/",
+      "publishedAt": "2026-10-05T19:55:11.000Z",
+      "image": "https://www.engadget.com/img/gallery/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/l-intro-1791230037.jpg"
     }
   ]
 }

@@ -5219,6 +5219,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/design/product-design/this-handmade-cuddly-toy-emits-the-piercing-wail-of-an-ai-data-centre": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-06T09:16:17.289Z",
+        "message_id": 543,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
