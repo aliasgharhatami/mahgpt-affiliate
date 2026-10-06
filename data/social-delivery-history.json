@@ -5287,6 +5287,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/the-hidden-cost-of-ai-agents-is-memory": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-06T20:59:45.051Z",
+        "message_id": 547,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
