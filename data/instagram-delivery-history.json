@@ -3560,6 +3560,20 @@
         "message_id": "18422377561157526",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3249459/apple-watch-series-12-review.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-06T18:56:23.535Z",
+        "message_id": "18011880677760986",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "failed",
+        "attempted_at": "2026-10-06T18:56:29.035Z",
+        "classification": "instagram-api-error",
+        "message": "The requested resource does not exist"
+      }
     }
   }
 }
