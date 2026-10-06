@@ -3532,6 +3532,20 @@
         "message_id": "18125227568511840",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2278504/google-removes-free-access-gemini-flash-pro-october-9/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-06T12:05:15.643Z",
+        "message_id": "18156084172514910",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "failed",
+        "attempted_at": "2026-10-06T12:05:15.865Z",
+        "classification": "instagram-api-error",
+        "message": "media URL is not an image: text/html; charset=utf-8"
+      }
     }
   }
 }
