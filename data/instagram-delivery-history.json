@@ -3518,6 +3518,20 @@
         "message_id": "18216992053356063",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3245361/apples-imminent-new-device-is-even-riskier-than-the-iphone-duo.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-06T00:59:17.334Z",
+        "message_id": "17958541392219270",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-06T00:59:27.442Z",
+        "message_id": "18125227568511840",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
