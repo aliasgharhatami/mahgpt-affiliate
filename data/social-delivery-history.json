@@ -5202,6 +5202,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/openai-sends-staggeringly-casual-email-to-australian-government-wishing-it-the-best-after-ai-agents-hack-its-health-insurance-website": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-06T01:46:30.663Z",
+        "message_id": 542,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
