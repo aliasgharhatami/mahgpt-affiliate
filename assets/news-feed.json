@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T09:16:07.953Z",
+  "updatedAt": "2026-10-06T12:02:48.330Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "This cuddly toy emits the piercing wail of an AI data centre",
-      "summary": "Beezy is an adorable handmade toy with a hidden message.",
+      "title": "Google removes free access to Gemini Flash and Pro on October 9",
+      "summary": "Free Gemini users are losing access to Google's Flash and Pro AI models.",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/design/product-design/this-handmade-cuddly-toy-emits-the-piercing-wail-of-an-ai-data-centre",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/bnVoowqunquXqwuEsffEaT-1920-80.jpg"
+      "source": "https://www.engadget.com/2278504/google-removes-free-access-gemini-flash-pro-october-9/",
+      "publishedAt": "2026-10-06T11:22:53.000Z",
+      "image": "https://www.engadget.com/img/gallery/google-removes-free-access-to-gemini-flash-and-pro-on-october-9/l-intro-1791285503.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Google and Microsoft hit by fresh criticism of their AI data center plans",
-      "summary": "Big Tech firms are destroying the environment in a quest for further AI gains, critics claim.",
+      "title": "Best MacBook Prime Day Deals October 2026: Save on MacBook Air, Pro, Neo & Mac mini",
+      "summary": "Macworld Best Mac deals at Amazon U.S. MacBook Neo (256GB) : $690 ($9 off, MSRP $699) 13-inch M5 MacBook Air (512GB/16GB) : $1,099 ($200 off, MSRP $1,299) 15-inch M5 MacBook Air (512GB/16GB) : $1,299 ($200 off, MSRP $1,499) 14-inch M5 MacBook Pro (1TB/16GB) : $1,839 ($160 off, MSRP $3,099) 16-inch M",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/computing/google-ai-data-center-project-accused-of-destroying-300-hectares-of-finnish-forest-as-critics-brand-microsofts-nature-inspired-designs-for-20-facilities-as-lipstick-on-a-pig",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/SDj9iGeTf2hdogWtK4UFWM-2560-80.jpg"
+      "source": "https://www.macworld.com/article/2385468/best-macbook-mac-prime-day-deals-2026-october-6.html",
+      "publishedAt": "2026-10-06T11:14:40.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2385468-0-91130300-1791285316-Prime-Day-Mac-MacBook-Deals.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Latest macOS beta: What’s new and should you install it?",
-      "summary": "Macworld Apple released macOS 27 Golden Gate on September 14, 2026, but development hasn’t stopped. Just two days later on September 16, Apple issued the first developer beta of macOS 27.2, beginning testing of the operating system’s next major point update. Yes, that’s macOS 27.2, not macOS 27.1. T",
+      "title": "Apple Watch Series 12 review: Frustratingly inconsistent",
+      "summary": "Macworld At a glance Expert's Rating Pros Attractive, comfortable design New health sensor system Readiness app Generally strong battery life Minimal price rises Cons Minor issues with build quality Several features missing at launch Felt slightly unresponsive at times Occasional involuntary resets ",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/671123/should-i-install-macos-beta-latest-version.html",
-      "publishedAt": "2026-10-05T23:53:45.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/671123-0-63313500-1791244443-Apple-Developers-SDK-How-to-become-an-Apple-developer.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.macworld.com/article/3249459/apple-watch-series-12-review.html",
+      "publishedAt": "2026-10-06T11:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3249459-0-10312800-1791285945-Apple-Watch-Series-12-review-hero5.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late",
+      "title": "The hidden cost of AI agents is memory",
+      "summary": "AI agent's leave a memory trail and it's driving up enterprise costs.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "publishedAt": "2026-10-05T23:09:55.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200"
+      "source": "https://www.techradar.com/pro/the-hidden-cost-of-ai-agents-is-memory",
+      "publishedAt": "2026-10-06T10:55:30.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "‘The keyword is speed to power’: Dell, Apollo, and Jera launch a $140 billion plan to build up to 4GW of AI data centers across Japan and Asia",
-      "summary": "Dell, Apollo and Jera plan up to 4GW of AI data centres and gas power infrastructure across Japan within five years.",
+      "title": "When identity isn’t human: securing the agentic enterprise",
+      "summary": "Organizations can secure AI agents through continuous identity, governance and runtime control.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-usd140b-plan-to-build-up-to-4gw-of-ai-data-centers-across-japan-and-asia",
-      "publishedAt": "2026-10-05T22:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ETt2Pe3AtJk2ynHY4vkd68-1920-80.png"
+      "source": "https://www.techradar.com/pro/when-identity-isnt-human-securing-the-agentic-enterprise",
+      "publishedAt": "2026-10-06T10:48:29.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Nearly 40,000 phishing attacks hit US financial firms in H1 2026 — automated AI agents and a new Seychelles bulletproof host fuel aggressive new campaigns",
-      "summary": "US financial services faced nearly 40,000 phishing URLs in just six months as free hosting, AI tools, and Omegatech expanded attackers' infrastructure options.",
+      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/nearly-40-000-phishing-attacks-hit-us-financial-firms-in-h1-2026-automated-ai-agents-and-a-new-seychelles-bulletproof-host-fuel-aggressive-new-campaigns",
-      "publishedAt": "2026-10-05T21:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/CT482eMSRL8PagRtuBVYNd-2000-80.jpeg"
+      "source": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+      "publishedAt": "2026-10-06T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ac390393e484daf0cf6af34/191:100/w_1280,c_limit/100516-Big%20Interview%20K%20Roose%20Solo.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "title": "John Ternus is already doing it all",
+      "summary": "Macworld John Ternus has now been CEO of Apple for over a month, so it’s time to rate his legacy. Okay, that’s probably unfair. Let’s give the guy at least a quarter. But since we’re on the subject, what can we glean from what Ternus has done so far that will indicate what kind of CEO he’ll be? Admi",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "publishedAt": "2026-10-05T20:36:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+      "source": "https://www.macworld.com/article/3252249/ternus-ing-this-car-around.html",
+      "publishedAt": "2026-10-06T10:30:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3252249-0-65942700-1791282634-iPhone-2025-Keynote-John-Ternus.png?w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "This startup is issuing AI-generated acne prescriptions",
-      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloom",
+      "title": "Why governance and visibility are the real defense against AI sovereignty risks",
+      "summary": "Why visibility matters when the AI switch can be flipped without warning.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-      "publishedAt": "2026-10-05T20:14:57.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&strip=all&crop=0%2C5.420521028312%2C100%2C89.158957943376&w=1200"
+      "source": "https://www.techradar.com/pro/why-governance-and-visibility-are-the-real-defense-against-ai-sovereignty-risks",
+      "publishedAt": "2026-10-06T10:25:53.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MuH6FdnCJqsnobznT3LSEM-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Wikimedia links OpenAI agents to an outage and unauthorized activity",
-      "summary": "Wikimedia says it's &#34;deeply concerned about the impact of 'rogue' AI agents on platforms like ours.",
+      "title": "Touchscreen MacBook Pro rumours: Release date, OLED, specs and latest leaks",
+      "summary": "Macworld The touchscreen MacBook Pro has been the subject of speculation ever since Bloomberg’s Mark Gurman first reported in 2023 that Apple was exploring the idea. At the time, the claim seemed hard to believe given Apple’s long-standing opposition to touchscreen laptops. Three years later, howeve",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2278051/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/",
-      "publishedAt": "2026-10-05T19:55:11.000Z",
-      "image": "https://www.engadget.com/img/gallery/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/l-intro-1791230037.jpg"
+      "source": "https://www.macworld.com/article/2931833/touchscreen-macbook-pro-m6-design-processor-specs-release.html",
+      "publishedAt": "2026-10-06T10:02:09.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2931833-0-77535000-1791280945-IMG_3980.jpeg?quality=50&strip=all&w=1024"
     }
   ]
 }
