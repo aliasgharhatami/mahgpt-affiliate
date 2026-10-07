@@ -5321,6 +5321,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-07T00:35:44.124Z",
+        "message_id": 549,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
