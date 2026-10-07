@@ -36,7 +36,10 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "pending"
+        "status": "published",
+        "published_at": "2026-10-07T11:51:07.285Z",
+        "message_id": "17922881730430526",
+        "media_kind": "source"
       },
       "x": {
         "status": "pending"
@@ -50,6 +53,12 @@
         "repairs": [
           "image-rejected"
         ]
+      },
+      "instagram_story": {
+        "status": "failed",
+        "attempted_at": "2026-10-07T11:51:07.443Z",
+        "classification": "instagram-api-error",
+        "message": "media URL is not an image: text/html; charset=utf-8"
       }
     },
     {
