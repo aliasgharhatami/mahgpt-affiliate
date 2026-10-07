@@ -3616,6 +3616,20 @@
         "classification": "instagram-api-error",
         "message": "media URL is not an image: text/html; charset=utf-8"
       }
+    },
+    "https://www.techradar.com/pro/the-ai-escape-is-a-red-herring-the-problem-is-we-cant-tell-a-good-sandbox-from-a-bad-one": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-07T16:47:16.594Z",
+        "message_id": "18109345514069666",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-07T16:47:25.739Z",
+        "message_id": "18075816341449898",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
