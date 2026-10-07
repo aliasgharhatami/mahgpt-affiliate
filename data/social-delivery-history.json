@@ -5389,6 +5389,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3252009/m6-deep-dive-a-brilliant-2nm-design-held-back-by-bandwidth.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-07T19:22:13.223Z",
+        "message_id": 553,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
