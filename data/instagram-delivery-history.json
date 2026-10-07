@@ -3588,6 +3588,20 @@
         "message_id": "18187175299416103",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/u-s-could-be-writing-its-own-losing-ticket-amazon-warns-against-100-ai-data-center-bans-as-it-pledges-usd1b-to-defuse-ai-backlash": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-07T09:17:57.352Z",
+        "message_id": "18105962171356997",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-07T09:18:05.514Z",
+        "message_id": "17888288379474603",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
