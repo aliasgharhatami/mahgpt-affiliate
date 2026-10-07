@@ -5355,6 +5355,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/computing/gpu/amd-ceo-vows-to-substantially-increase-chip-supply-in-2027-but-this-isnt-good-news-for-the-price-of-laptops-or-consoles": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-07T11:48:44.222Z",
+        "message_id": 551,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
