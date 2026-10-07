@@ -5406,6 +5406,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/many-developers-are-using-ai-just-to-show-off-to-their-boss-as-most-fear-theyll-lose-their-job-if-they-dont-use-it": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-07T23:46:04.064Z",
+        "message_id": 554,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
