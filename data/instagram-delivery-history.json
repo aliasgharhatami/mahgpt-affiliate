@@ -3658,6 +3658,20 @@
         "message_id": "18123569827907871",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/ai-agents-dont-create-new-risk-they-inherit-it": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-07T23:47:53.247Z",
+        "message_id": "18639400240007467",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-07T23:48:01.294Z",
+        "message_id": "18433963630194271",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
