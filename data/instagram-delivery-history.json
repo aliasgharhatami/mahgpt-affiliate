@@ -3644,6 +3644,20 @@
         "message_id": "18094838600368460",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/many-developers-are-using-ai-just-to-show-off-to-their-boss-as-most-fear-theyll-lose-their-job-if-they-dont-use-it": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-07T21:46:56.019Z",
+        "message_id": "18101995766243440",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-07T21:47:03.023Z",
+        "message_id": "18123569827907871",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
