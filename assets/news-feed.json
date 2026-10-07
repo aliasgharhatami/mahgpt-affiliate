@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T12:02:48.330Z",
+  "updatedAt": "2026-10-07T06:31:49.722Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Adobe's AI text-to-3D world concept is a glimpse of where Firefly could go next",
-      "summary": "Ambitious AI patents suggest that Adobe's thinking beyond 2D.",
-      "guide": "/partners/adobe.html",
-      "source": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
-      "publishedAt": "2026-10-04T09:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "\"US could be writing its own losing ticket\": Amazon warns against 100+ AI data center bans as it pledges $1 billion to defuse AI backlash",
+      "summary": "Facing over 100 proposed moratoriums, Amazon offers $1 billion to host communities and expands Maryland nuclear power.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/u-s-could-be-writing-its-own-losing-ticket-amazon-warns-against-100-ai-data-center-bans-as-it-pledges-usd1b-to-defuse-ai-backlash",
+      "publishedAt": "2026-10-07T01:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MvLY6DdCg7iXz9bLAAhLKA-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Google removes free access to Gemini Flash and Pro on October 9",
-      "summary": "Free Gemini users are losing access to Google's Flash and Pro AI models.",
+      "title": "Massive 1.5 million sq ft data center campus planned for West Texas — bringing the state's total regional AI investment to $12 billion",
+      "summary": "Crusoe plans two $4.8 billion Jayton data centers, expanding its West Texas infrastructure alongside major projects in Childress and Abilene.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2278504/google-removes-free-access-gemini-flash-pro-october-9/",
-      "publishedAt": "2026-10-06T11:22:53.000Z",
-      "image": "https://www.engadget.com/img/gallery/google-removes-free-access-to-gemini-flash-and-pro-on-october-9/l-intro-1791285503.jpg"
+      "source": "https://www.techradar.com/pro/massive-1-5-million-sq-ft-data-center-campus-planned-for-west-texas-bringing-total-regional-ai-investment-to-usd12-billion",
+      "publishedAt": "2026-10-07T00:10:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ETt2Pe3AtJk2ynHY4vkd68-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Best MacBook Prime Day Deals October 2026: Save on MacBook Air, Pro, Neo & Mac mini",
-      "summary": "Macworld Best Mac deals at Amazon U.S. MacBook Neo (256GB) : $690 ($9 off, MSRP $699) 13-inch M5 MacBook Air (512GB/16GB) : $1,099 ($200 off, MSRP $1,299) 15-inch M5 MacBook Air (512GB/16GB) : $1,299 ($200 off, MSRP $1,499) 14-inch M5 MacBook Pro (1TB/16GB) : $1,839 ($160 off, MSRP $3,099) 16-inch M",
+      "title": "AWS warns 100 proposed data center bans could hurt America for generations",
+      "summary": "Amazon is warning against efforts to slow America’s enormous AI data center boom as communities demand more control over the costs and consequences of the buildout.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/2385468/best-macbook-mac-prime-day-deals-2026-october-6.html",
-      "publishedAt": "2026-10-06T11:14:40.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2385468-0-91130300-1791285316-Prime-Day-Mac-MacBook-Deals.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/ai-platforms-assistants/aws-says-100-proposed-ai-data-center-bans-will-cause-damage-that-lasts-generations-as-us-races-towards-usd10-3-trillion-buildout-that-will-eclipse-dot-com-boom",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DVNj95wm6iCTawpcXb5LqR-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple Watch Series 12 review: Frustratingly inconsistent",
-      "summary": "Macworld At a glance Expert's Rating Pros Attractive, comfortable design New health sensor system Readiness app Generally strong battery life Minimal price rises Cons Minor issues with build quality Several features missing at launch Felt slightly unresponsive at times Occasional involuntary resets ",
+      "title": "How AI decision models could change content moderation",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3249459/apple-watch-series-12-review.html",
-      "publishedAt": "2026-10-06T11:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3249459-0-10312800-1791285945-Apple-Watch-Series-12-review-hero5.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "publishedAt": "2026-10-06T20:35:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The hidden cost of AI agents is memory",
-      "summary": "AI agent's leave a memory trail and it's driving up enterprise costs.",
+      "title": "Slowly going down? Buy a 128GB Ryzen AI Max+ 395 Mini PC with 1TB SSD for $3,299 — Chinese startup releases AI workstation with 4 SSD slots, 10G LAN, WiFi-7",
+      "summary": "Want to run local LLMs but can’t stretch to an Nvidia DGX Spark? Have a look at this mini PC. It's the cheapest 128GB machine based on the Ryzen AI Max+ 395.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-hidden-cost-of-ai-agents-is-memory",
-      "publishedAt": "2026-10-06T10:55:30.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/slowly-going-down-buy-a-128gb-ryzen-ai-max-395-mini-pc-with-1tb-ssd-for-usd3-299-chinese-startup-releases-ai-workstation-with-4-ssd-slots-10g-lan-wifi-7",
+      "publishedAt": "2026-10-06T20:03:55.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/B3AJFjnJySMbtHNpqvWD68-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "When identity isn’t human: securing the agentic enterprise",
-      "summary": "Organizations can secure AI agents through continuous identity, governance and runtime control.",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/when-identity-isnt-human-securing-the-agentic-enterprise",
-      "publishedAt": "2026-10-06T10:48:29.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "publishedAt": "2026-10-06T20:00:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-      "publishedAt": "2026-10-06T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6ac390393e484daf0cf6af34/191:100/w_1280,c_limit/100516-Big%20Interview%20K%20Roose%20Solo.jpg"
+      "source": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "publishedAt": "2026-10-06T19:56:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "John Ternus is already doing it all",
-      "summary": "Macworld John Ternus has now been CEO of Apple for over a month, so it’s time to rate his legacy. Okay, that’s probably unfair. Let’s give the guy at least a quarter. But since we’re on the subject, what can we glean from what Ternus has done so far that will indicate what kind of CEO he’ll be? Admi",
+      "title": "The Apple Watch SE 3 drops back to its all-time-low for Prime Day",
+      "summary": "Macworld Prime Day is here, and for the first time in months, we’re actually getting proper discounts on Apple gear. One of the best we’ve seen is the Apple Watch SE 3, which is finally down to $199 again , a savings of $50 off its MSRP, and the first time we’ve seen it drop this low this low in for",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3252249/ternus-ing-this-car-around.html",
-      "publishedAt": "2026-10-06T10:30:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3252249-0-65942700-1791282634-iPhone-2025-Keynote-John-Ternus.png?w=1024"
+      "source": "https://www.macworld.com/article/3253809/the-apple-watch-se-3-drops-back-to-its-all-time-low-for-prime-day.html",
+      "publishedAt": "2026-10-06T19:11:33.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3253809-0-62938200-1791313901-Apple-Watch-SE-3-review-6.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why governance and visibility are the real defense against AI sovereignty risks",
-      "summary": "Why visibility matters when the AI switch can be flipped without warning.",
+      "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+      "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/why-governance-and-visibility-are-the-real-defense-against-ai-sovereignty-risks",
-      "publishedAt": "2026-10-06T10:25:53.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/MuH6FdnCJqsnobznT3LSEM-2560-80.jpg"
+      "source": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+      "publishedAt": "2026-10-06T18:45:39.000Z",
+      "image": "https://media.wired.com/photos/6abeb0c6be4bdb85e3b4d7e4/191:100/w_1280,c_limit/Artificial-NYFF-Screening-Culture.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Touchscreen MacBook Pro rumours: Release date, OLED, specs and latest leaks",
-      "summary": "Macworld The touchscreen MacBook Pro has been the subject of speculation ever since Bloomberg’s Mark Gurman first reported in 2023 that Apple was exploring the idea. At the time, the claim seemed hard to believe given Apple’s long-standing opposition to touchscreen laptops. Three years later, howeve",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/2931833/touchscreen-macbook-pro-m6-design-processor-specs-release.html",
-      "publishedAt": "2026-10-06T10:02:09.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2931833-0-77535000-1791280945-IMG_3980.jpeg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "publishedAt": "2026-10-06T18:22:45.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Hark-Panels.png?resize=1200,675"
     }
   ]
 }
