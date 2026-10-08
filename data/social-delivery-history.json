@@ -5491,6 +5491,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/this-is-a-shocking-revelation-amazon-accused-of-deploying-orwellian-ai-powered-union-activity-surveillance-system-at-sites-in-canada-the-uk-and-around-the-world": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-08T19:18:16.259Z",
+        "message_id": 559,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
