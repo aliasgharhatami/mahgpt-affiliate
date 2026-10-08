@@ -3714,6 +3714,20 @@
         "message_id": "17895883938674415",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3255224/surface-ultra-is-microsofts-best-effort-to-catch-up-to-apple.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-08T15:31:03.178Z",
+        "message_id": "18107177249578929",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-08T15:31:12.809Z",
+        "message_id": "18118426615993048",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
