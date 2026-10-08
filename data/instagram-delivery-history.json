@@ -3672,6 +3672,20 @@
         "message_id": "18433963630194271",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/libreoffice-says-it-will-not-add-ai-features-to-document-editor-for-the-foreseeable-future": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-08T01:03:47.359Z",
+        "message_id": "17965914345008709",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-08T01:03:55.825Z",
+        "message_id": "18076001408724485",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
