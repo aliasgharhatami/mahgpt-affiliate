@@ -3742,6 +3742,20 @@
         "message_id": "17912698323286942",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3253965/apple-smart-home-launch-4-big-announcements-to-watch-for.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-08T20:49:49.890Z",
+        "message_id": "18094332746653105",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-08T20:49:57.149Z",
+        "message_id": "18126486070884192",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
