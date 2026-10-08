@@ -5440,6 +5440,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/hard-drives-were-supposed-to-lose-the-storage-war-but-ai-demand-is-now-pushing-their-biggest-suppliers-years-ahead": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-08T06:07:10.137Z",
+        "message_id": 556,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T11:48:06.375Z",
+  "updatedAt": "2026-10-08T06:07:02.623Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AMD to 'substantially increase' chip supply in 2027 — but not for consumers",
-      "summary": "AMD is upping chip production levels next year — but this is for AI, so it won't help consumers with the RAM crisis.",
+      "title": "Hard drives were supposed to lose the storage war — but AI demand is now pushing their biggest suppliers years ahead",
+      "summary": "Toshiba is expanding HDD production as AI drives demand for higher-capacity storage across data centers and cloud infrastructure.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/computing/gpu/amd-ceo-vows-to-substantially-increase-chip-supply-in-2027-but-this-isnt-good-news-for-the-price-of-laptops-or-consoles",
-      "publishedAt": "2026-10-07T11:09:43.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/jkup3TaJ8TSEFiVpLQLXz8-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/hard-drives-were-supposed-to-lose-the-storage-war-but-ai-demand-is-now-pushing-their-biggest-suppliers-years-ahead",
+      "publishedAt": "2026-10-08T00:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/gFkrkJLkQWoxLzpif9fmCn-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The AI escape is a red herring. The real problem is we can't tell a good sandbox from a bad one",
-      "summary": "Not all sandboxes are equal. A new taxonomy finally lets you score the difference.",
+      "title": "Moving beyond chips and screens: Samsung joins Nvidia and KKR in a massive $1 billion data center infrastructure deal",
+      "summary": "Samsung and five affiliates invest $1 billion in KKR's Helix, pairing chips, cooling, construction, computing, and batteries for AI infrastructure.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-ai-escape-is-a-red-herring-the-problem-is-we-cant-tell-a-good-sandbox-from-a-bad-one",
-      "publishedAt": "2026-10-07T10:33:39.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/moving-beyond-chips-and-screens-samsung-joins-nvidia-and-kkr-in-a-massive-usd1b-data-center-infrastructure-deal",
+      "publishedAt": "2026-10-07T21:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/et5EaAHiH97kwo2LpYxLRD-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "M6 deep dive: A brilliant 2nm design held back by bandwidth",
-      "summary": "Macworld Our own review of the new Mac mini analyzed the performance and value of the M5 Pro version, but that chip has been around since the spring. Far more interesting is the M6, a new-generation processor made on TSMC’s 2nm process and sporting some interesting architectural changes. Our German ",
+      "title": "Trump's 'Super Intelligence' AI rebrand is running ahead of the technology",
+      "summary": "Washington is launching a new AI oversight task force while Elon Musk embraces its “Super Intelligence” branding for no real reason.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3252009/m6-deep-dive-a-brilliant-2nm-design-held-back-by-bandwidth.html",
-      "publishedAt": "2026-10-07T10:30:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3252009-0-85060400-1791369033-mac-mini-M6.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/ai-platforms-assistants/elon-musk-is-renaming-spacexai-to-match-trumps-new-super-intelligence-force-but-critics-say-the-white-house-body-isnt-the-answer",
+      "publishedAt": "2026-10-07T21:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/hXmsibVpvjYL4zKbHHxsa8-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Many developers are using AI just to show off to their boss — as most fear they'll lose their job if they don't use it",
-      "summary": "Half of developers working in businesses whichhave adopted AI say they’re only using it to impress managers, and using it is having an impact on confidence.",
+      "title": "Could you stop a rogue AI from escaping? Take our sci-fi security test",
+      "summary": "OpenAI and Anthropic have huge teams working on this stuff. You’ve got six questions and your cybersecurity instincts. Could you keep a rogue AI contained?",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/many-developers-are-using-ai-just-to-show-off-to-their-boss-as-most-fear-theyll-lose-their-job-if-they-dont-use-it",
-      "publishedAt": "2026-10-07T10:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/zSfrNTFSfhWvkF79T2Nwsa-1920-80.jpg"
+      "source": "https://www.techradar.com/ai-platforms-assistants/imagine-ai-agents-like-meta-muse-and-openais-dots-are-on-the-loose-could-you-stop-them",
+      "publishedAt": "2026-10-07T21:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Eioi7SRhyZYmRYG23viU9d-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI agents don’t create new risk. They inherit it",
-      "summary": "AI agents aren't creating new cyber threats, they're exposing and accelerating existing security weaknesses.",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ai-agents-dont-create-new-risk-they-inherit-it",
-      "publishedAt": "2026-10-07T09:59:22.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "publishedAt": "2026-10-07T20:48:45.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "LibreOffice says it 'will not add' AI features to document editor for the foreseeable future",
-      "summary": "While users can choose their own AI extensions, LibreOffice says no current add-ons meet its stringent principles.",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/libreoffice-says-it-will-not-add-ai-features-to-document-editor-for-the-foreseeable-future",
-      "publishedAt": "2026-10-07T09:35:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/74bCfXo7xqUDoyhw6z3GmM-1280-80.jpg"
+      "source": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "publishedAt": "2026-10-07T20:22:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Best MacBook Prime Day Deals October 2026: Save on MacBook Air, Pro, Neo & Mac mini",
-      "summary": "Macworld Best Mac deals at Amazon U.S. MacBook Neo (512GB) : $790 ($90 off, MSRP $799) 13-inch M5 MacBook Air (512GB/16GB) : $1,099 ($200 off, MSRP $1,299) 15-inch M5 MacBook Air (512GB/16GB) : $1,299 ($200 off, MSRP $1,499) 16-inch M5 Pro MacBook Pro (2TB/24GB ): $2,749 ($250 off, MSRP $2,999) 16-i",
+      "title": "Huawei and DeepSeek release open source AI tools in a bid to lower Nvidia exposure — but will programmers make the switch?",
+      "summary": "DeepSeek's two new repositories already have hundreds of GitHub stars between them.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/2385468/best-macbook-mac-prime-day-deals-2026-october-7.html",
-      "publishedAt": "2026-10-07T09:31:28.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2385468-0-61860300-1791365501-Prime-Day-Mac-MacBook-Deals.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/huawei-and-deepseek-release-open-source-ai-tools-in-a-bid-to-lower-nvidia-exposure-but-will-programmers-make-the-switch",
+      "publishedAt": "2026-10-07T19:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/FMwRmCw7wxB7F6AQgqzqnX-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'Working with AI isn't single player any more — it's multiplayer': Atlassian CEO Mike Cannon-Brookes lays out what your business needs in the agentic AI age, and why agents won't replace your human workers anytime soon",
-      "summary": "Atlassian CEO Mike Cannon-Brookes explains how its platform can be your company's central nervous system.",
+      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/working-with-ai-isnt-single-player-any-more-its-multiplayer-atlassian-ceo-mike-cannon-brookes-lays-out-what-your-business-needs-in-the-agentic-ai-age-and-why-agents-wont-replace-your-human-workers-anytime-soon",
-      "publishedAt": "2026-10-07T09:26:51.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/AFdMKCMLVe8ABA5W86dF5N-1920-80.jpg"
+      "source": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "publishedAt": "2026-10-07T18:45:00.000Z",
+      "image": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/191:100/w_1280,c_limit/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The next phase of the AI era: why building R&D talent is now a make-or-break investment",
-      "summary": "AI may accelerate innovation, but people remain the foundation of R&D success.",
+      "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-next-phase-of-the-ai-era-why-building-r-and-d-talent-is-now-a-make-or-break-investment",
-      "publishedAt": "2026-10-07T08:57:57.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/DVffQnnibMWmNpx2Wfb5Se-1920-80.jpg"
+      "source": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "publishedAt": "2026-10-07T18:30:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Britain's NEET crisis and the factory retirement cliff are the same problem in disguise",
-      "summary": "AI can preserve retiring workers’ expertise while helping young people gain skills, confidence and access to manufacturing careers.",
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/britains-neet-crisis-and-the-factory-retirement-cliff-are-the-same-problem-in-disguise",
-      "publishedAt": "2026-10-07T08:54:58.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "publishedAt": "2026-10-07T18:15:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024"
     }
   ]
 }

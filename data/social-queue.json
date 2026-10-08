@@ -1,449 +1,65 @@
 {
   "version": 1,
-  "queue_date": "2026-10-07",
-  "created_at": "2026-10-07T11:48:10.079Z",
-  "source_feed_updated_at": "2026-10-07T11:48:06.375Z",
+  "queue_date": "2026-10-08",
+  "created_at": "2026-10-08T06:07:02.717Z",
+  "source_feed_updated_at": "2026-10-08T06:07:02.623Z",
   "items": [
     {
-      "story_id": "https://www.techradar.com/computing/gpu/amd-ceo-vows-to-substantially-increase-chip-supply-in-2027-but-this-isnt-good-news-for-the-price-of-laptops-or-consoles",
-      "source_url": "https://www.techradar.com/computing/gpu/amd-ceo-vows-to-substantially-increase-chip-supply-in-2027-but-this-isnt-good-news-for-the-price-of-laptops-or-consoles",
-      "headline": "AMD to 'substantially increase' chip supply in 2027",
-      "summary": "AMD is upping chip production levels next year — but this is for AI, so it won't help consumers with the RAM crisis.",
-      "source_name": "but not for consumers",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/jkup3TaJ8TSEFiVpLQLXz8-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/jkup3TaJ8TSEFiVpLQLXz8-2560-80.jpg",
+      "story_id": "https://www.techradar.com/pro/hard-drives-were-supposed-to-lose-the-storage-war-but-ai-demand-is-now-pushing-their-biggest-suppliers-years-ahead",
+      "source_url": "https://www.techradar.com/pro/hard-drives-were-supposed-to-lose-the-storage-war-but-ai-demand-is-now-pushing-their-biggest-suppliers-years-ahead",
+      "headline": "Hard drives were supposed to lose the storage war",
+      "summary": "Toshiba is expanding HDD production as AI drives demand for higher-capacity storage across data centers and cloud infrastructure.",
+      "source_name": "but AI demand is now pushing their biggest suppliers years ahead",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/gFkrkJLkQWoxLzpif9fmCn-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/gFkrkJLkQWoxLzpif9fmCn-2000-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1709,
-        "aspectRatio": 1.4979520187244002,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=amd-to-substantially-increase-chip-supply-in-2027",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-07T05:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-07T11:48:44.222Z",
-        "message_id": 551,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-07T11:51:07.285Z",
-        "message_id": "17922881730430526",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-07/https-www-techradar-com-computing-gpu-amd-ceo-vows-to-substantially-increase-chi-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "failed",
-        "attempted_at": "2026-10-07T11:51:07.443Z",
-        "classification": "instagram-api-error",
-        "message": "media URL is not an image: text/html; charset=utf-8"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/the-ai-escape-is-a-red-herring-the-problem-is-we-cant-tell-a-good-sandbox-from-a-bad-one",
-      "source_url": "https://www.techradar.com/pro/the-ai-escape-is-a-red-herring-the-problem-is-we-cant-tell-a-good-sandbox-from-a-bad-one",
-      "headline": "The AI escape is a red herring. The real problem is we can't tell a good sandbox from a bad one",
-      "summary": "Not all sandboxes are equal. A new taxonomy finally lets you score the difference.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
+        "width": 2000,
+        "height": 1125,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-escape-is-a-red-herring-the-real-problem-is-we-cant-tell-a-good-sandbox-from-a-bad-",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hard-drives-were-supposed-to-lose-the-storage-war",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-07T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-08T05:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-10-07T13:58:16.451Z",
-        "message_id": 552,
+        "published_at": "2026-10-08T06:07:10.137Z",
+        "message_id": 556,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-07T16:47:16.594Z",
-        "message_id": "18109345514069666",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-07/https-www-techradar-com-pro-the-ai-escape-is-a-red-herring-the-problem-is-we-can-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-techradar-com-pro-hard-drives-were-supposed-to-lose-the-storage-war-bu-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-07T16:47:25.739Z",
-        "message_id": "18075816341449898",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3252009/m6-deep-dive-a-brilliant-2nm-design-held-back-by-bandwidth.html",
-      "source_url": "https://www.macworld.com/article/3252009/m6-deep-dive-a-brilliant-2nm-design-held-back-by-bandwidth.html",
-      "headline": "M6 deep dive: A brilliant 2nm design held back by bandwidth",
-      "summary": "Macworld Our own review of the new Mac mini analyzed the performance and value of the M5 Pro version, but that chip has been around since the spring. Far more interesting is the M6, a new-generation processor made on TSMC’s 2nm process and sporting some interesting architectural changes. Our German",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3252009-0-85060400-1791369033-mac-mini-M6.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3252009-0-85060400-1791369033-mac-mini-M6.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=m6-deep-dive-a-brilliant-2nm-design-held-back-by-bandwidth",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-07T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-07T19:22:13.223Z",
-        "message_id": 553,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-07T19:23:31.668Z",
-        "message_id": "17960174187235427",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-07/https-www-macworld-com-article-3252009-m6-deep-dive-a-brilliant-2nm-design-held--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-07T19:23:40.926Z",
-        "message_id": "18094838600368460",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/many-developers-are-using-ai-just-to-show-off-to-their-boss-as-most-fear-theyll-lose-their-job-if-they-dont-use-it",
-      "source_url": "https://www.techradar.com/pro/many-developers-are-using-ai-just-to-show-off-to-their-boss-as-most-fear-theyll-lose-their-job-if-they-dont-use-it",
-      "headline": "Many developers are using AI just to show off to their boss",
-      "summary": "Half of developers working in businesses whichhave adopted AI say they’re only using it to impress managers, and using it is having an impact on confidence.",
-      "source_name": "as most fear they'll lose their job if they don't use it",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/zSfrNTFSfhWvkF79T2Nwsa-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/zSfrNTFSfhWvkF79T2Nwsa-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1281,
-        "aspectRatio": 1.4988290398126465,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=many-developers-are-using-ai-just-to-show-off-to-their-boss",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-07T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-07T23:46:04.064Z",
-        "message_id": 554,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-07T21:46:56.019Z",
-        "message_id": "18101995766243440",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-07/https-www-techradar-com-pro-many-developers-are-using-ai-just-to-show-off-to-the-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-07T21:47:03.023Z",
-        "message_id": "18123569827907871",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/ai-agents-dont-create-new-risk-they-inherit-it",
-      "source_url": "https://www.techradar.com/pro/ai-agents-dont-create-new-risk-they-inherit-it",
-      "headline": "AI agents don’t create new risk. They inherit it",
-      "summary": "AI agents aren't creating new cyber threats, they're exposing and accelerating existing security weaknesses.",
+      "story_id": "https://www.techradar.com/pro/moving-beyond-chips-and-screens-samsung-joins-nvidia-and-kkr-in-a-massive-usd1b-data-center-infrastructure-deal",
+      "source_url": "https://www.techradar.com/pro/moving-beyond-chips-and-screens-samsung-joins-nvidia-and-kkr-in-a-massive-usd1b-data-center-infrastructure-deal",
+      "headline": "Moving beyond chips and screens: Samsung joins Nvidia and KKR in a massive $1 billion data center infrastructure deal",
+      "summary": "Samsung and five affiliates invest $1 billion in KKR's Helix, pairing chips, cooling, construction, computing, and batteries for AI infrastructure.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-agents-dont-create-new-risk-they-inherit-it",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-07T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-08T01:02:25.704Z",
-        "message_id": 555,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-07T23:47:53.247Z",
-        "message_id": "18639400240007467",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-07/https-www-techradar-com-pro-ai-agents-dont-create-new-risk-they-inherit-it-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-07T23:48:01.294Z",
-        "message_id": "18433963630194271",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/libreoffice-says-it-will-not-add-ai-features-to-document-editor-for-the-foreseeable-future",
-      "source_url": "https://www.techradar.com/pro/libreoffice-says-it-will-not-add-ai-features-to-document-editor-for-the-foreseeable-future",
-      "headline": "LibreOffice says it 'will not add' AI features to document editor for the foreseeable future",
-      "summary": "While users can choose their own AI extensions, LibreOffice says no current add-ons meet its stringent principles.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/74bCfXo7xqUDoyhw6z3GmM-1280-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/74bCfXo7xqUDoyhw6z3GmM-1280-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 720,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=libreoffice-says-it-will-not-add-ai-features-to-document-editor-for-the-foreseeable-future",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-07T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-08T01:03:47.359Z",
-        "message_id": "17965914345008709",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-07/https-www-techradar-com-pro-libreoffice-says-it-will-not-add-ai-features-to-docu-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-08T01:03:55.825Z",
-        "message_id": "18076001408724485",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/2385468/best-macbook-mac-prime-day-deals-2026-october-7.html",
-      "source_url": "https://www.macworld.com/article/2385468/best-macbook-mac-prime-day-deals-2026-october-7.html",
-      "headline": "Best MacBook Prime Day Deals October 2026: Save on MacBook Air, Pro, Neo & Mac mini",
-      "summary": "Macworld Best Mac deals at Amazon U.S. MacBook Neo (512GB) : $790 ($90 off, MSRP $799) 13-inch M5 MacBook Air (512GB/16GB) : $1,099 ($200 off, MSRP $1,299) 15-inch M5 MacBook Air (512GB/16GB) : $1,299 ($200 off, MSRP $1,499) 16-inch M5 Pro MacBook Pro (2TB/24GB ): $2,749 ($250 off, MSRP $2,999) 16-i",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2385468-0-61860300-1791365501-Prime-Day-Mac-MacBook-Deals.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2385468-0-61860300-1791365501-Prime-Day-Mac-MacBook-Deals.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=best-macbook-prime-day-deals-october-2026-save-on-macbook-air-pro-neo-and-mac-mini",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-07T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-07/https-www-macworld-com-article-2385468-best-macbook-mac-prime-day-deals-2026-oct-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/working-with-ai-isnt-single-player-any-more-its-multiplayer-atlassian-ceo-mike-cannon-brookes-lays-out-what-your-business-needs-in-the-agentic-ai-age-and-why-agents-wont-replace-your-human-workers-anytime-soon",
-      "source_url": "https://www.techradar.com/pro/working-with-ai-isnt-single-player-any-more-its-multiplayer-atlassian-ceo-mike-cannon-brookes-lays-out-what-your-business-needs-in-the-agentic-ai-age-and-why-agents-wont-replace-your-human-workers-anytime-soon",
-      "headline": "'Working with AI isn't single player any more — it's multiplayer': Atlassian CEO Mike Cannon-Brookes lays out what your business needs in the agentic AI age, and why agents won't replace your human workers anytime soon",
-      "summary": "Atlassian CEO Mike Cannon-Brookes explains how its platform can be your company's central nervous system.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/AFdMKCMLVe8ABA5W86dF5N-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/AFdMKCMLVe8ABA5W86dF5N-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1078,
-        "aspectRatio": 1.7810760667903525,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=working-with-ai-isnt-single-player-any-more-its-multiplayer-atlassian-ceo-mike-cannon-broo",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-07T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-07/https-www-techradar-com-pro-working-with-ai-isnt-single-player-any-more-its-mult-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/the-next-phase-of-the-ai-era-why-building-r-and-d-talent-is-now-a-make-or-break-investment",
-      "source_url": "https://www.techradar.com/pro/the-next-phase-of-the-ai-era-why-building-r-and-d-talent-is-now-a-make-or-break-investment",
-      "headline": "The next phase of the AI era: why building R&D talent is now a make-or-break investment",
-      "summary": "AI may accelerate innovation, but people remain the foundation of R&D success.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/DVffQnnibMWmNpx2Wfb5Se-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/DVffQnnibMWmNpx2Wfb5Se-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/et5EaAHiH97kwo2LpYxLRD-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/et5EaAHiH97kwo2LpYxLRD-1920-80.png",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -453,11 +69,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-next-phase-of-the-ai-era-why-building-r-and-d-talent-is-now-a-make-or-break-investment",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=moving-beyond-chips-and-screens-samsung-joins-nvidia-and-kkr-in-a-massive-1-billion-data-c",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-07T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-08T07:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -473,7 +89,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-07/https-www-techradar-com-pro-the-next-phase-of-the-ai-era-why-building-r-and-d-ta-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-techradar-com-pro-moving-beyond-chips-and-screens-samsung-joins-nvidia-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -483,27 +99,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/britains-neet-crisis-and-the-factory-retirement-cliff-are-the-same-problem-in-disguise",
-      "source_url": "https://www.techradar.com/pro/britains-neet-crisis-and-the-factory-retirement-cliff-are-the-same-problem-in-disguise",
-      "headline": "Britain's NEET crisis and the factory retirement cliff are the same problem in disguise",
-      "summary": "AI can preserve retiring workers’ expertise while helping young people gain skills, confidence and access to manufacturing careers.",
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/elon-musk-is-renaming-spacexai-to-match-trumps-new-super-intelligence-force-but-critics-say-the-white-house-body-isnt-the-answer",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/elon-musk-is-renaming-spacexai-to-match-trumps-new-super-intelligence-force-but-critics-say-the-white-house-body-isnt-the-answer",
+      "headline": "Trump's 'Super Intelligence' AI rebrand is running ahead of the technology",
+      "summary": "Washington is launching a new AI oversight task force while Elon Musk embraces its “Super Intelligence” branding for no real reason.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/hXmsibVpvjYL4zKbHHxsa8-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/hXmsibVpvjYL4zKbHHxsa8-1920-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
+        "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=britains-neet-crisis-and-the-factory-retirement-cliff-are-the-same-problem-in-disguise",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trumps-super-intelligence-ai-rebrand-is-running-ahead-of-the-technology",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-07T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-08T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -519,7 +135,329 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-07/https-www-techradar-com-pro-britains-neet-crisis-and-the-factory-retirement-clif-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-techradar-com-ai-platforms-assistants-elon-musk-is-renaming-spacexai-t-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/imagine-ai-agents-like-meta-muse-and-openais-dots-are-on-the-loose-could-you-stop-them",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/imagine-ai-agents-like-meta-muse-and-openais-dots-are-on-the-loose-could-you-stop-them",
+      "headline": "Could you stop a rogue AI from escaping? Take our sci-fi security test",
+      "summary": "OpenAI and Anthropic have huge teams working on this stuff. You’ve got six questions and your cybersecurity instincts. Could you keep a rogue AI contained?",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Eioi7SRhyZYmRYG23viU9d-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Eioi7SRhyZYmRYG23viU9d-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=could-you-stop-a-rogue-ai-from-escaping-take-our-sci-fi-security-test",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-08T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-techradar-com-ai-platforms-assistants-imagine-ai-agents-like-meta-muse-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source_url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "headline": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+      "image_validation": {
+        "valid": true,
+        "width": 900,
+        "height": 714,
+        "aspectRatio": 1.2605042016806722,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-08T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-08/https-techcrunch-com-2026-10-07-nous-research-confirms-it-hit-1-5b-valuation-lau-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source_url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "headline": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 677,
+        "aspectRatio": 1.7725258493353029,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-08T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-08/https-techcrunch-com-2026-10-07-microsoft-releases-new-nvidia-chip-ai-pcs-with-r-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/huawei-and-deepseek-release-open-source-ai-tools-in-a-bid-to-lower-nvidia-exposure-but-will-programmers-make-the-switch",
+      "source_url": "https://www.techradar.com/pro/huawei-and-deepseek-release-open-source-ai-tools-in-a-bid-to-lower-nvidia-exposure-but-will-programmers-make-the-switch",
+      "headline": "Huawei and DeepSeek release open source AI tools in a bid to lower Nvidia exposure — but will programmers make the switch?",
+      "summary": "DeepSeek's two new repositories already have hundreds of GitHub stars between them.",
+      "source_name": "but will programmers make the switch?",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/FMwRmCw7wxB7F6AQgqzqnX-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FMwRmCw7wxB7F6AQgqzqnX-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=huawei-and-deepseek-release-open-source-ai-tools-in-a-bid-to-lower-nvidia-exposure-but-wil",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-08T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-techradar-com-pro-huawei-and-deepseek-release-open-source-ai-tools-in--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "source_url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "headline": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/191:100/w_1280,c_limit/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg",
+      "image_url": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/191:100/w_1280,c_limit/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1233,
+        "height": 646,
+        "aspectRatio": 1.9086687306501549,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=these-researchers-made-ai-drive-a-toyota-corolla-to-get-in-n-out",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-08T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-wired-com-story-ai-is-driving-cars-now-oh-boy--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "source_url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "headline": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 683,
+        "aspectRatio": 1.499267935578331,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-and-8217-s-muse-launches-on-ipad-just-a-month-after-its-mobile-debut",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-08T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-08/https-techcrunch-com-2026-10-07-metas-muse-launches-on-ipad-just-a-month-after-i-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "source_url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "headline": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 683,
+        "aspectRatio": 1.499267935578331,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-08T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-08/https-techcrunch-com-2026-10-07-chatgpt-for-teens-keeps-teens-talking-even-durin-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
