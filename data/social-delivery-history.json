@@ -5474,6 +5474,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3255224/surface-ultra-is-microsofts-best-effort-to-catch-up-to-apple.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-08T13:32:04.398Z",
+        "message_id": 558,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
