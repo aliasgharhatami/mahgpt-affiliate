@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T11:48:14.123Z",
-  "analysis_date": "2026-10-07",
+  "generated_at": "2026-10-08T12:02:54.694Z",
+  "analysis_date": "2026-10-08",
   "stories": [
     {
-      "title": "AMD to 'substantially increase' chip supply in 2027 — but not for consumers",
-      "source": "https://www.techradar.com/computing/gpu/amd-ceo-vows-to-substantially-increase-chip-supply-in-2027-but-this-isnt-good-news-for-the-price-of-laptops-or-consoles",
-      "mahgpt_url": "/news/story.html?id=amd-to-substantially-increase-chip-supply-in-2027-but-not-for-consumers"
+      "title": "When is Apple’s next event? Dates, rumors, and what to expect",
+      "source": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
+      "mahgpt_url": "/news/story.html?id=when-is-apples-next-event-dates-rumors-and-what-to-expect"
     },
     {
-      "title": "The AI escape is a red herring. The real problem is we can't tell a good sandbox from a bad one",
-      "source": "https://www.techradar.com/pro/the-ai-escape-is-a-red-herring-the-problem-is-we-cant-tell-a-good-sandbox-from-a-bad-one",
-      "mahgpt_url": "/news/story.html?id=the-ai-escape-is-a-red-herring-the-real-problem-is-we-cant-tell-a-good-sandbox-from-a-bad-"
+      "title": "I recommend Anycubic's Photon P1 Max for big resin prints, and it's on sale",
+      "source": "https://www.techradar.com/pro/anycubics-photon-p1-max-is-my-recommended-resin-3d-printer-for-creators-who-want-to-produce-bigger-models-and-its-on-sale-now",
+      "mahgpt_url": "/news/story.html?id=i-recommend-anycubics-photon-p1-max-for-big-resin-prints-and-its-on-sale"
     },
     {
-      "title": "M6 deep dive: A brilliant 2nm design held back by bandwidth",
-      "source": "https://www.macworld.com/article/3252009/m6-deep-dive-a-brilliant-2nm-design-held-back-by-bandwidth.html",
-      "mahgpt_url": "/news/story.html?id=m6-deep-dive-a-brilliant-2nm-design-held-back-by-bandwidth"
+      "title": "Surface Ultra is Microsoft’s best effort to catch up to Apple",
+      "source": "https://www.macworld.com/article/3255224/surface-ultra-is-microsofts-best-effort-to-catch-up-to-apple.html",
+      "mahgpt_url": "/news/story.html?id=surface-ultra-is-microsofts-best-effort-to-catch-up-to-apple"
     },
     {
-      "title": "Many developers are using AI just to show off to their boss — as most fear they'll lose their job if they don't use it",
-      "source": "https://www.techradar.com/pro/many-developers-are-using-ai-just-to-show-off-to-their-boss-as-most-fear-theyll-lose-their-job-if-they-dont-use-it",
-      "mahgpt_url": "/news/story.html?id=many-developers-are-using-ai-just-to-show-off-to-their-boss-as-most-fear-theyll-lose-their"
+      "title": "'This is a shocking revelation': Amazon accused of deploying 'Orwellian' AI-powered union activity surveillance system at sites in Canada, the UK, and around the world",
+      "source": "https://www.techradar.com/pro/this-is-a-shocking-revelation-amazon-accused-of-deploying-orwellian-ai-powered-union-activity-surveillance-system-at-sites-in-canada-the-uk-and-around-the-world",
+      "mahgpt_url": "/news/story.html?id=this-is-a-shocking-revelation-amazon-accused-of-deploying-orwellian-ai-powered-union-activ"
     },
     {
-      "title": "AI agents don’t create new risk. They inherit it",
-      "source": "https://www.techradar.com/pro/ai-agents-dont-create-new-risk-they-inherit-it",
-      "mahgpt_url": "/news/story.html?id=ai-agents-dont-create-new-risk-they-inherit-it"
+      "title": "Apple’s smart home: 4 big announcements coming soon",
+      "source": "https://www.macworld.com/article/3253965/apple-smart-home-launch-4-big-announcements-to-watch-for.html",
+      "mahgpt_url": "/news/story.html?id=apples-smart-home-4-big-announcements-coming-soon"
     },
     {
-      "title": "LibreOffice says it 'will not add' AI features to document editor for the foreseeable future",
-      "source": "https://www.techradar.com/pro/libreoffice-says-it-will-not-add-ai-features-to-document-editor-for-the-foreseeable-future",
-      "mahgpt_url": "/news/story.html?id=libreoffice-says-it-will-not-add-ai-features-to-document-editor-for-the-foreseeable-future"
+      "title": "Apple Watch Series 12 & Ultra 4: Everything you need to know about the 2026 Apple Watches",
+      "source": "https://www.macworld.com/article/3177024/apple-watch-2026-release-date-ultra-series-12-design-features-specs.html",
+      "mahgpt_url": "/news/story.html?id=apple-watch-series-12-and-ultra-4-everything-you-need-to-know-about-the-2026-apple-watches"
     },
     {
-      "title": "Best MacBook Prime Day Deals October 2026: Save on MacBook Air, Pro, Neo & Mac mini",
-      "source": "https://www.macworld.com/article/2385468/best-macbook-mac-prime-day-deals-2026-october-7.html",
-      "mahgpt_url": "/news/story.html?id=best-macbook-prime-day-deals-october-2026-save-on-macbook-air-pro-neo-and-mac-mini"
+      "title": "The most dangerous attacker of the past year looked completely ordinary",
+      "source": "https://www.techradar.com/pro/the-most-dangerous-attacker-of-the-past-year-looked-completely-ordinary",
+      "mahgpt_url": "/news/story.html?id=the-most-dangerous-attacker-of-the-past-year-looked-completely-ordinary"
     },
     {
-      "title": "'Working with AI isn't single player any more — it's multiplayer': Atlassian CEO Mike Cannon-Brookes lays out what your business needs in the agentic AI age, and why agents won't replace your human workers anytime soon",
-      "source": "https://www.techradar.com/pro/working-with-ai-isnt-single-player-any-more-its-multiplayer-atlassian-ceo-mike-cannon-brookes-lays-out-what-your-business-needs-in-the-agentic-ai-age-and-why-agents-wont-replace-your-human-workers-anytime-soon",
-      "mahgpt_url": "/news/story.html?id=working-with-ai-isnt-single-player-any-more-its-multiplayer-atlassian-ceo-mike-cannon-broo"
+      "title": "New report claims AI is helping create jobs in UK businesses, as workers can't get enough of it",
+      "source": "https://www.techradar.com/pro/new-report-claims-ai-is-helping-create-jobs-in-uk-businesses-as-workers-cant-get-enough-of-it",
+      "mahgpt_url": "/news/story.html?id=new-report-claims-ai-is-helping-create-jobs-in-uk-businesses-as-workers-cant-get-enough-of"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-07.html"
+      "path": "news/analysis/2026-10-08.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-07.html"
+      "path": "es/news/analysis/2026-10-08.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-07.html"
+      "path": "de/news/analysis/2026-10-08.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-07.html"
+      "path": "fr/news/analysis/2026-10-08.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-07.html"
+      "path": "pt-BR/news/analysis/2026-10-08.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-07.html"
+      "path": "ar/news/analysis/2026-10-08.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-07.html"
+      "path": "fa/news/analysis/2026-10-08.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-07.html"
+      "path": "tr/news/analysis/2026-10-08.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-07.html"
+      "path": "it/news/analysis/2026-10-08.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-07.html"
+      "path": "ja/news/analysis/2026-10-08.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-07.html"
+      "path": "ko/news/analysis/2026-10-08.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-07.html"
+      "path": "id/news/analysis/2026-10-08.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-07.html"
+      "path": "hi/news/analysis/2026-10-08.html"
     }
   ]
 }
