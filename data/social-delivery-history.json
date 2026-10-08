@@ -5508,6 +5508,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3253965/apple-smart-home-launch-4-big-announcements-to-watch-for.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-08T23:46:48.307Z",
+        "message_id": 560,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
