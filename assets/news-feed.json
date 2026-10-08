@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:07:02.623Z",
+  "updatedAt": "2026-10-08T12:02:45.556Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Hard drives were supposed to lose the storage war — but AI demand is now pushing their biggest suppliers years ahead",
-      "summary": "Toshiba is expanding HDD production as AI drives demand for higher-capacity storage across data centers and cloud infrastructure.",
+      "title": "When is Apple’s next event? Dates, rumors, and what to expect",
+      "summary": "Macworld Apple’s September event may not have been Apple’s final event of 2026 – another launch could be coming on October 13. Apple typically has four main event windows each year: a spring event, WWDC in June, the iPhone event in September , and sometimes a further event in October. The company ra",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/hard-drives-were-supposed-to-lose-the-storage-war-but-ai-demand-is-now-pushing-their-biggest-suppliers-years-ahead",
-      "publishedAt": "2026-10-08T00:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gFkrkJLkQWoxLzpif9fmCn-2000-80.jpg"
+      "source": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
+      "publishedAt": "2026-10-08T11:33:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-16716400-1791459195-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Moving beyond chips and screens: Samsung joins Nvidia and KKR in a massive $1 billion data center infrastructure deal",
-      "summary": "Samsung and five affiliates invest $1 billion in KKR's Helix, pairing chips, cooling, construction, computing, and batteries for AI infrastructure.",
+      "title": "I recommend Anycubic's Photon P1 Max for big resin prints, and it's on sale",
+      "summary": "The Anycubic Photon P1 Max 3D printer, with smart heating and AI monitoring, is my pick for large resin models if you're a maker, engineer, or small business.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/moving-beyond-chips-and-screens-samsung-joins-nvidia-and-kkr-in-a-massive-usd1b-data-center-infrastructure-deal",
-      "publishedAt": "2026-10-07T21:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/et5EaAHiH97kwo2LpYxLRD-1920-80.png"
+      "source": "https://www.techradar.com/pro/anycubics-photon-p1-max-is-my-recommended-resin-3d-printer-for-creators-who-want-to-produce-bigger-models-and-its-on-sale-now",
+      "publishedAt": "2026-10-08T11:10:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qCJf9GCSZmUVPMhvBhuh28-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Trump's 'Super Intelligence' AI rebrand is running ahead of the technology",
-      "summary": "Washington is launching a new AI oversight task force while Elon Musk embraces its “Super Intelligence” branding for no real reason.",
+      "title": "Surface Ultra is Microsoft’s best effort to catch up to Apple",
+      "summary": "Macworld On Wednesday, Microsoft introduced the Surface Laptop Ultra , the first laptop to ship with Nvidia’s new RTX Spark processor (there will be offerings from other companies like HP and Lenovo, too). At a glance, it seems pretty clear that they’re gunning for Apple. Up to 20 ARM-based CPU core",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/elon-musk-is-renaming-spacexai-to-match-trumps-new-super-intelligence-force-but-critics-say-the-white-house-body-isnt-the-answer",
-      "publishedAt": "2026-10-07T21:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/hXmsibVpvjYL4zKbHHxsa8-1920-80.jpg"
+      "source": "https://www.macworld.com/article/3255224/surface-ultra-is-microsofts-best-effort-to-catch-up-to-apple.html",
+      "publishedAt": "2026-10-08T11:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3255224-0-50826700-1791457253-Microsoft-Surface-Laptop-Ultra-at-Windows-and-Surface-Event-October-2026.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Could you stop a rogue AI from escaping? Take our sci-fi security test",
-      "summary": "OpenAI and Anthropic have huge teams working on this stuff. You’ve got six questions and your cybersecurity instincts. Could you keep a rogue AI contained?",
+      "title": "'This is a shocking revelation': Amazon accused of deploying 'Orwellian' AI-powered union activity surveillance system at sites in Canada, the UK, and around the world",
+      "summary": "Amazon used the Atlas union monitoring systems at sites around the world, including in the UK.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/imagine-ai-agents-like-meta-muse-and-openais-dots-are-on-the-loose-could-you-stop-them",
-      "publishedAt": "2026-10-07T21:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Eioi7SRhyZYmRYG23viU9d-1920-80.png"
+      "source": "https://www.techradar.com/pro/this-is-a-shocking-revelation-amazon-accused-of-deploying-orwellian-ai-powered-union-activity-surveillance-system-at-sites-in-canada-the-uk-and-around-the-world",
+      "publishedAt": "2026-10-08T10:32:49.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mrjoXCW38LgaW7wbrNz9G8-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "title": "Apple’s smart home: 4 big announcements coming soon",
+      "summary": "Macworld October is shaping up to be an exceptionally busy month at Apple Park. The company is readying the iPhone Duo , revamped Health app on iOS 27.2, touchscreen MacBook Pro , and overhauled iPad mini , which could all launch by the end of this month. That won’t be all. Apple is reportedly plann",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "publishedAt": "2026-10-07T20:48:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900"
+      "source": "https://www.macworld.com/article/3253965/apple-smart-home-launch-4-big-announcements-to-watch-for.html",
+      "publishedAt": "2026-10-08T10:30:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3253965-0-94344900-1791458045-HomePod-and-iPad-acting-as-HomePad.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "title": "Apple Watch Series 12 & Ultra 4: Everything you need to know about the 2026 Apple Watches",
+      "summary": "Macworld In September 2026 Apple unveiled the Apple Watch Series 12 and Apple Watch Ultra 4 , with both models focusing much more heavily on health monitoring, Apple Intelligence and battery efficiency than on physical redesigns. Series 12 remains Apple’s mainstream premium smartwatch, while Ultra 4",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "publishedAt": "2026-10-07T20:22:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+      "source": "https://www.macworld.com/article/3177024/apple-watch-2026-release-date-ultra-series-12-design-features-specs.html",
+      "publishedAt": "2026-10-08T10:10:58.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3177024-0-09170500-1791454554-Apple-Watch-Series-12-Apple-Watch-Ultra-4.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Huawei and DeepSeek release open source AI tools in a bid to lower Nvidia exposure — but will programmers make the switch?",
-      "summary": "DeepSeek's two new repositories already have hundreds of GitHub stars between them.",
+      "title": "The most dangerous attacker of the past year looked completely ordinary",
+      "summary": "AI is changing the threat landscape, making behavioral patterns more important than individual indicators.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/huawei-and-deepseek-release-open-source-ai-tools-in-a-bid-to-lower-nvidia-exposure-but-will-programmers-make-the-switch",
-      "publishedAt": "2026-10-07T19:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/FMwRmCw7wxB7F6AQgqzqnX-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/the-most-dangerous-attacker-of-the-past-year-looked-completely-ordinary",
+      "publishedAt": "2026-10-08T09:53:35.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+      "title": "New report claims AI is helping create jobs in UK businesses, as workers can't get enough of it",
+      "summary": "Three in five say AI has created jobs, one in five expect it to within two years, and just one in 10 believes the contrary.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-      "publishedAt": "2026-10-07T18:45:00.000Z",
-      "image": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/191:100/w_1280,c_limit/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg"
+      "source": "https://www.techradar.com/pro/new-report-claims-ai-is-helping-create-jobs-in-uk-businesses-as-workers-cant-get-enough-of-it",
+      "publishedAt": "2026-10-08T09:39:01.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/K5KxFpUj2kn4LSkv7oJXdi-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "title": "The real test for physical AI starts after the pilot",
+      "summary": "Why scaling physical AI requires more than investment, ambition and impressive pilot projects.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "publishedAt": "2026-10-07T18:30:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
+      "source": "https://www.techradar.com/pro/the-real-test-for-physical-ai-starts-after-the-pilot",
+      "publishedAt": "2026-10-08T09:11:05.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "title": "This indie game about AI doesn't use gen-AI but features a lot of content from real people and creators",
+      "summary": "How Salix Games maximised its skillset for minimum budget for AI-themed narrative thriller Limerence.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "publishedAt": "2026-10-07T18:15:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024"
+      "source": "https://www.creativebloq.com/3d/video-game-design/this-indie-game-about-ai-doesnt-use-gen-ai-but-features-a-lot-of-content-from-real-people-and-creators",
+      "publishedAt": "2026-10-08T09:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oEZpBLdJt8kUeiNDiHzamb-1407-80.png"
     }
   ]
 }
