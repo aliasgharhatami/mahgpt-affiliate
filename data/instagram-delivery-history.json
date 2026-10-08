@@ -3756,6 +3756,20 @@
         "message_id": "18126486070884192",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3177024/apple-watch-2026-release-date-ultra-series-12-design-features-specs.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-08T23:47:56.897Z",
+        "message_id": "18019352438734234",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-08T23:48:05.205Z",
+        "message_id": "17886456063491610",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
