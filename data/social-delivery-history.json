@@ -5423,6 +5423,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/ai-agents-dont-create-new-risk-they-inherit-it": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-08T01:02:25.704Z",
+        "message_id": 555,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
