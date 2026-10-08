@@ -3700,6 +3700,20 @@
         "message_id": "18112229051601263",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/anycubics-photon-p1-max-is-my-recommended-resin-3d-printer-for-creators-who-want-to-produce-bigger-models-and-its-on-sale-now": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-08T12:06:41.455Z",
+        "message_id": "18118669744754156",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-08T12:06:49.100Z",
+        "message_id": "17895883938674415",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
