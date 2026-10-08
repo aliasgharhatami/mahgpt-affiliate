@@ -3728,6 +3728,20 @@
         "message_id": "18118426615993048",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/this-is-a-shocking-revelation-amazon-accused-of-deploying-orwellian-ai-powered-union-activity-surveillance-system-at-sites-in-canada-the-uk-and-around-the-world": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-08T19:19:04.886Z",
+        "message_id": "18005596619791218",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-08T19:19:15.217Z",
+        "message_id": "17912698323286942",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
