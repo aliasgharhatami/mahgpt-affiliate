@@ -5457,6 +5457,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/anycubics-photon-p1-max-is-my-recommended-resin-3d-printer-for-creators-who-want-to-produce-bigger-models-and-its-on-sale-now": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-08T12:03:41.009Z",
+        "message_id": 557,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
