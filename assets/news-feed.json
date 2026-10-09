@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T12:02:45.556Z",
+  "updatedAt": "2026-10-09T11:54:21.441Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "When is Apple’s next event? Dates, rumors, and what to expect",
-      "summary": "Macworld Apple’s September event may not have been Apple’s final event of 2026 – another launch could be coming on October 13. Apple typically has four main event windows each year: a spring event, WWDC in June, the iPhone event in September , and sometimes a further event in October. The company ra",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
-      "publishedAt": "2026-10-08T11:33:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-16716400-1791459195-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024"
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "US suspends permanent residency program for Microsoft, Adobe and other tech companies",
+      "summary": "Seven companies have been accused of fraud regarding the H-1B worker visas.",
+      "guide": "/partners/adobe.html",
+      "source": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/",
+      "publishedAt": "2026-10-08T18:23:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/l-intro-1791483571.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "I recommend Anycubic's Photon P1 Max for big resin prints, and it's on sale",
-      "summary": "The Anycubic Photon P1 Max 3D printer, with smart heating and AI monitoring, is my pick for large resin models if you're a maker, engineer, or small business.",
+      "title": "Google AI turned my ideas into two playable games",
+      "summary": "I used Google Playground to create two games from descriptions alone, but the results showed why making something playable is very different from making a genuinely great game.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/anycubics-photon-p1-max-is-my-recommended-resin-3d-printer-for-creators-who-want-to-produce-bigger-models-and-its-on-sale-now",
-      "publishedAt": "2026-10-08T11:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qCJf9GCSZmUVPMhvBhuh28-2000-80.jpg"
+      "source": "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them",
+      "publishedAt": "2026-10-09T11:22:46.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/f8dhUBJfCoLFCvCeEvCvm6-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Surface Ultra is Microsoft’s best effort to catch up to Apple",
-      "summary": "Macworld On Wednesday, Microsoft introduced the Surface Laptop Ultra , the first laptop to ship with Nvidia’s new RTX Spark processor (there will be offerings from other companies like HP and Lenovo, too). At a glance, it seems pretty clear that they’re gunning for Apple. Up to 20 ARM-based CPU core",
+      "title": "In open source cybersecurity, AI is kind of a problem — but it can also be a solution",
+      "summary": "Approximately 66,000 unique entries are expected to emerge in 2026 , many boosted or even created by AI.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3255224/surface-ultra-is-microsofts-best-effort-to-catch-up-to-apple.html",
-      "publishedAt": "2026-10-08T11:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3255224-0-50826700-1791457253-Microsoft-Surface-Laptop-Ultra-at-Windows-and-Surface-Event-October-2026.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/security/in-open-source-cybersecurity-ai-is-kind-of-a-problem-but-it-can-also-be-a-solution",
+      "publishedAt": "2026-10-09T11:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/hsp2hXrMRpqTNDhd2ZFJof-970-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'This is a shocking revelation': Amazon accused of deploying 'Orwellian' AI-powered union activity surveillance system at sites in Canada, the UK, and around the world",
-      "summary": "Amazon used the Atlas union monitoring systems at sites around the world, including in the UK.",
+      "title": "6 iPhone 18 Pro photography tricks worth spending more to get",
+      "summary": "Macworld Apple has been actively marketing the iPhone’s camera capabilities for more than a decade. With every flagship launch, the company boasts about its smartphone’s latest photography and videography features—and even encourages users to share their snaps through the Shot on iPhone campaign. Th",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/this-is-a-shocking-revelation-amazon-accused-of-deploying-orwellian-ai-powered-union-activity-surveillance-system-at-sites-in-canada-the-uk-and-around-the-world",
-      "publishedAt": "2026-10-08T10:32:49.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mrjoXCW38LgaW7wbrNz9G8-2560-80.jpg"
+      "source": "https://www.macworld.com/article/3253955/6-iphone-18-pro-photography-tricks-worth-spending-a-little-more-to-get.html",
+      "publishedAt": "2026-10-09T10:45:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3253955-0-79912800-1791542717-iPhone-18-Pro-variable-aperture-lens.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple’s smart home: 4 big announcements coming soon",
-      "summary": "Macworld October is shaping up to be an exceptionally busy month at Apple Park. The company is readying the iPhone Duo , revamped Health app on iOS 27.2, touchscreen MacBook Pro , and overhauled iPad mini , which could all launch by the end of this month. That won’t be all. Apple is reportedly plann",
+      "title": "Rob Biddulph says human creativity is worth defending against AI",
+      "summary": "Rob Biddulph says the problem with AI art isn't quality — it's personality",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3253965/apple-smart-home-launch-4-big-announcements-to-watch-for.html",
-      "publishedAt": "2026-10-08T10:30:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3253965-0-94344900-1791458045-HomePod-and-iPad-acting-as-HomePad.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/ai-platforms-assistants/i-dont-think-this-is-a-fight-that-artists-can-afford-to-walk-away-from-award-winning-illustrator-rob-biddulph-says-human-creativity-is-worth-defending-against-ai",
+      "publishedAt": "2026-10-09T10:43:34.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vzMYoDB2bLxqRdBSWbQ4Y7-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple Watch Series 12 & Ultra 4: Everything you need to know about the 2026 Apple Watches",
-      "summary": "Macworld In September 2026 Apple unveiled the Apple Watch Series 12 and Apple Watch Ultra 4 , with both models focusing much more heavily on health monitoring, Apple Intelligence and battery efficiency than on physical redesigns. Series 12 remains Apple’s mainstream premium smartwatch, while Ultra 4",
+      "title": "Moving AI from pilot to production starts with the data",
+      "summary": "Turning AI projects from the pilot stage to delivering business value depends on having a strong data foundation.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3177024/apple-watch-2026-release-date-ultra-series-12-design-features-specs.html",
-      "publishedAt": "2026-10-08T10:10:58.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3177024-0-09170500-1791454554-Apple-Watch-Series-12-Apple-Watch-Ultra-4.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/moving-ai-from-pilot-to-production-starts-with-the-data",
+      "publishedAt": "2026-10-09T10:30:07.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YoQ7bF6XQjs33SMa72NcwK-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The most dangerous attacker of the past year looked completely ordinary",
-      "summary": "AI is changing the threat landscape, making behavioral patterns more important than individual indicators.",
+      "title": "Linux founder Linus Torvalds says AI is a “gateway drug” into programming — but cautions about using AI for “serious” work",
+      "summary": "Torvalds said AI can do “really good code” but warned against it when users are unsure what the end result should be.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-most-dangerous-attacker-of-the-past-year-looked-completely-ordinary",
-      "publishedAt": "2026-10-08T09:53:35.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/linux-founder-linus-torvalds-says-ai-is-a-gateway-drug-into-programming-but-cautions-about-using-ai-for-serious-work",
+      "publishedAt": "2026-10-09T10:30:04.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uHgmBeyfTbT9ue7FxeKEZ5-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "New report claims AI is helping create jobs in UK businesses, as workers can't get enough of it",
-      "summary": "Three in five say AI has created jobs, one in five expect it to within two years, and just one in 10 believes the contrary.",
+      "title": "Even ‘Law & Order’ Is Terrified of AI",
+      "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/new-report-claims-ai-is-helping-create-jobs-in-uk-businesses-as-workers-cant-get-enough-of-it",
-      "publishedAt": "2026-10-08T09:39:01.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/K5KxFpUj2kn4LSkv7oJXdi-1920-80.jpg"
+      "source": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+      "publishedAt": "2026-10-09T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ac6842a2962a868125e6095/191:100/w_1280,c_limit/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The real test for physical AI starts after the pilot",
-      "summary": "Why scaling physical AI requires more than investment, ambition and impressive pilot projects.",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita &#8288;Balesni were dismissed for violating \"clear policies on handli",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-real-test-for-physical-ai-starts-after-the-pilot",
-      "publishedAt": "2026-10-08T09:11:05.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "publishedAt": "2026-10-09T09:48:26.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "This indie game about AI doesn't use gen-AI but features a lot of content from real people and creators",
-      "summary": "How Salix Games maximised its skillset for minimum budget for AI-themed narrative thriller Limerence.",
+      "title": "'Nine out of ten people prefer our version of the internet over Google's' — Proton Founder Andy Yen on age verification, Big Tech, AI, and the future of digital privacy",
+      "summary": "From AI ethics and online age verification to taking on Big Tech, Proton is building a complete alternative to Google. TechRadar sat down with CEO Andy Yen to discuss AI, government surveillance, and the future of digital privacy.",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/3d/video-game-design/this-indie-game-about-ai-doesnt-use-gen-ai-but-features-a-lot-of-content-from-real-people-and-creators",
-      "publishedAt": "2026-10-08T09:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/oEZpBLdJt8kUeiNDiHzamb-1407-80.png"
+      "source": "https://www.techradar.com/vpn/vpn-privacy-security/nine-out-of-ten-people-prefer-our-version-of-the-internet-over-googles-proton-founder-andy-yen-on-age-verification-big-tech-ai-and-the-future-of-digital-privacy",
+      "publishedAt": "2026-10-09T08:22:11.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/fbpKgEUYyeXGbPKDVFvDzi-1920-80.png"
     }
   ]
 }
