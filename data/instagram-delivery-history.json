@@ -3812,6 +3812,20 @@
         "message_id": "17914776732523715",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3253955/6-iphone-18-pro-photography-tricks-worth-spending-a-little-more-to-get.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-09T23:19:12.824Z",
+        "message_id": "17957346741254908",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-09T23:19:23.768Z",
+        "message_id": "18374438209214787",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
