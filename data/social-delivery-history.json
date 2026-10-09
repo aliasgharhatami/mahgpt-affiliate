@@ -5559,6 +5559,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/security/in-open-source-cybersecurity-ai-is-kind-of-a-problem-but-it-can-also-be-a-solution": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-09T22:39:58.603Z",
+        "message_id": 563,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
