@@ -3770,6 +3770,20 @@
         "message_id": "17886456063491610",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-09T11:57:47.177Z",
+        "message_id": "18417296629155727",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-09T11:57:55.695Z",
+        "message_id": "18113171273276211",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
