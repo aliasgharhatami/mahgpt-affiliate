@@ -3784,6 +3784,20 @@
         "message_id": "18113171273276211",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-09T14:30:12.978Z",
+        "message_id": "18114953911840771",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-09T14:30:22.052Z",
+        "message_id": "17906200731595157",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
