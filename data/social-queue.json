@@ -1,362 +1,31 @@
 {
   "version": 1,
-  "queue_date": "2026-10-08",
-  "created_at": "2026-10-08T12:02:48.886Z",
-  "source_feed_updated_at": "2026-10-08T12:02:45.556Z",
+  "queue_date": "2026-10-09",
+  "created_at": "2026-10-09T11:54:26.012Z",
+  "source_feed_updated_at": "2026-10-09T11:54:21.441Z",
   "items": [
     {
-      "story_id": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
-      "source_url": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
-      "headline": "When is Apple’s next event? Dates, rumors, and what to expect",
-      "summary": "Macworld Apple’s September event may not have been Apple’s final event of 2026 – another launch could be coming on October 13. Apple typically has four main event windows each year: a spring event, WWDC in June, the iPhone event in September, and sometimes a further event in October. The company ra",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-16716400-1791459195-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-16716400-1791459195-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/",
+      "source_url": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/",
+      "headline": "US suspends permanent residency program for Microsoft, Adobe and other tech companies",
+      "summary": "Seven companies have been accused of fraud regarding the H-1B worker visas.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/l-intro-1791483571.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/l-intro-1791483571.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=when-is-apples-next-event-dates-rumors-and-what-to-expect",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-08T05:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-30T20:14:01.646Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-30T20:12:46.275Z",
-        "message_id": "18032367620673142"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-macworld-com-article-672537-when-is-apples-next-event-html-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/anycubics-photon-p1-max-is-my-recommended-resin-3d-printer-for-creators-who-want-to-produce-bigger-models-and-its-on-sale-now",
-      "source_url": "https://www.techradar.com/pro/anycubics-photon-p1-max-is-my-recommended-resin-3d-printer-for-creators-who-want-to-produce-bigger-models-and-its-on-sale-now",
-      "headline": "I recommend Anycubic's Photon P1 Max for big resin prints, and it's on sale",
-      "summary": "The Anycubic Photon P1 Max 3D printer, with smart heating and AI monitoring, is my pick for large resin models if you're a maker, engineer, or small business.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qCJf9GCSZmUVPMhvBhuh28-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/qCJf9GCSZmUVPMhvBhuh28-2000-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2000,
-        "height": 1125,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-recommend-anycubics-photon-p1-max-for-big-resin-prints-and-its-on-sale",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-08T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-08T12:03:41.009Z",
-        "message_id": 557,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-08T12:06:41.455Z",
-        "message_id": "18118669744754156",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-techradar-com-pro-anycubics-photon-p1-max-is-my-recommended-resin-3d-p-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-08T12:06:49.100Z",
-        "message_id": "17895883938674415",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3255224/surface-ultra-is-microsofts-best-effort-to-catch-up-to-apple.html",
-      "source_url": "https://www.macworld.com/article/3255224/surface-ultra-is-microsofts-best-effort-to-catch-up-to-apple.html",
-      "headline": "Surface Ultra is Microsoft’s best effort to catch up to Apple",
-      "summary": "Macworld On Wednesday, Microsoft introduced the Surface Laptop Ultra, the first laptop to ship with Nvidia’s new RTX Spark processor (there will be offerings from other companies like HP and Lenovo, too). At a glance, it seems pretty clear that they’re gunning for Apple. Up to 20 ARM-based CPU core",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3255224-0-50826700-1791457253-Microsoft-Surface-Laptop-Ultra-at-Windows-and-Surface-Event-October-2026.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3255224-0-50826700-1791457253-Microsoft-Surface-Laptop-Ultra-at-Windows-and-Surface-Event-October-2026.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 576,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=surface-ultra-is-microsofts-best-effort-to-catch-up-to-apple",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-08T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-08T13:32:04.398Z",
-        "message_id": 558,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-08T15:31:03.178Z",
-        "message_id": "18107177249578929",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-macworld-com-article-3255224-surface-ultra-is-microsofts-best-effort-t-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-08T15:31:12.809Z",
-        "message_id": "18118426615993048",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/this-is-a-shocking-revelation-amazon-accused-of-deploying-orwellian-ai-powered-union-activity-surveillance-system-at-sites-in-canada-the-uk-and-around-the-world",
-      "source_url": "https://www.techradar.com/pro/this-is-a-shocking-revelation-amazon-accused-of-deploying-orwellian-ai-powered-union-activity-surveillance-system-at-sites-in-canada-the-uk-and-around-the-world",
-      "headline": "'This is a shocking revelation': Amazon accused of deploying 'Orwellian' AI-powered union activity surveillance system at sites in Canada, the UK, and around the world",
-      "summary": "Amazon used the Atlas union monitoring systems at sites around the world, including in the UK.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mrjoXCW38LgaW7wbrNz9G8-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/mrjoXCW38LgaW7wbrNz9G8-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1438,
-        "aspectRatio": 1.7802503477051461,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-is-a-shocking-revelation-amazon-accused-of-deploying-orwellian-ai-powered-union-activ",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-08T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-08T19:18:16.259Z",
-        "message_id": 559,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-08T19:19:04.886Z",
-        "message_id": "18005596619791218",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-techradar-com-pro-this-is-a-shocking-revelation-amazon-accused-of-depl-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-08T19:19:15.217Z",
-        "message_id": "17912698323286942",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3253965/apple-smart-home-launch-4-big-announcements-to-watch-for.html",
-      "source_url": "https://www.macworld.com/article/3253965/apple-smart-home-launch-4-big-announcements-to-watch-for.html",
-      "headline": "Apple’s smart home: 4 big announcements coming soon",
-      "summary": "Macworld October is shaping up to be an exceptionally busy month at Apple Park. The company is readying the iPhone Duo, revamped Health app on iOS 27.2, touchscreen MacBook Pro, and overhauled iPad mini, which could all launch by the end of this month. That won’t be all. Apple is reportedly plann",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3253965-0-94344900-1791458045-HomePod-and-iPad-acting-as-HomePad.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3253965-0-94344900-1791458045-HomePod-and-iPad-acting-as-HomePad.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apples-smart-home-4-big-announcements-coming-soon",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-08T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-08T23:46:48.307Z",
-        "message_id": 560,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-08T20:49:49.890Z",
-        "message_id": "18094332746653105",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-macworld-com-article-3253965-apple-smart-home-launch-4-big-announcemen-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-08T20:49:57.149Z",
-        "message_id": "18126486070884192",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3177024/apple-watch-2026-release-date-ultra-series-12-design-features-specs.html",
-      "source_url": "https://www.macworld.com/article/3177024/apple-watch-2026-release-date-ultra-series-12-design-features-specs.html",
-      "headline": "Apple Watch Series 12 & Ultra 4: Everything you need to know about the 2026 Apple Watches",
-      "summary": "Macworld In September 2026 Apple unveiled the Apple Watch Series 12 and Apple Watch Ultra 4, with both models focusing much more heavily on health monitoring, Apple Intelligence and battery efficiency than on physical redesigns. Series 12 remains Apple’s mainstream premium smartwatch, while Ultra 4",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3177024-0-09170500-1791454554-Apple-Watch-Series-12-Apple-Watch-Ultra-4.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3177024-0-09170500-1791454554-Apple-Watch-Series-12-Apple-Watch-Ultra-4.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 575,
-        "aspectRatio": 1.7808695652173914,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-watch-series-12-and-ultra-4-everything-you-need-to-know-about-the-2026-apple-watches",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-08T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-08T23:47:56.897Z",
-        "message_id": "18019352438734234",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-macworld-com-article-3177024-apple-watch-2026-release-date-ultra-serie-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-08T23:48:05.205Z",
-        "message_id": "17886456063491610",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/the-most-dangerous-attacker-of-the-past-year-looked-completely-ordinary",
-      "source_url": "https://www.techradar.com/pro/the-most-dangerous-attacker-of-the-past-year-looked-completely-ordinary",
-      "headline": "The most dangerous attacker of the past year looked completely ordinary",
-      "summary": "AI is changing the threat landscape, making behavioral patterns more important than individual indicators.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-most-dangerous-attacker-of-the-past-year-looked-completely-ordinary",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-08T17:20:00.000Z",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies",
+      "detected_partner": "adobe",
+      "product_url": "https://www.adobe.com/products/firefly.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-10-09T05:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -372,7 +41,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-techradar-com-pro-the-most-dangerous-attacker-of-the-past-year-looked--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-engadget-com-2281503-us-suspends-permanent-residency-program-for-micro-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -382,13 +51,13 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/new-report-claims-ai-is-helping-create-jobs-in-uk-businesses-as-workers-cant-get-enough-of-it",
-      "source_url": "https://www.techradar.com/pro/new-report-claims-ai-is-helping-create-jobs-in-uk-businesses-as-workers-cant-get-enough-of-it",
-      "headline": "New report claims AI is helping create jobs in UK businesses, as workers can't get enough of it",
-      "summary": "Three in five say AI has created jobs, one in five expect it to within two years, and just one in 10 believes the contrary.",
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them",
+      "headline": "Google AI turned my ideas into two playable games",
+      "summary": "I used Google Playground to create two games from descriptions alone, but the results showed why making something playable is very different from making a genuinely great game.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/K5KxFpUj2kn4LSkv7oJXdi-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/K5KxFpUj2kn4LSkv7oJXdi-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/f8dhUBJfCoLFCvCeEvCvm6-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/f8dhUBJfCoLFCvCeEvCvm6-1920-80.png",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -398,11 +67,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=new-report-claims-ai-is-helping-create-jobs-in-uk-businesses-as-workers-cant-get-enough-of",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-ai-turned-my-ideas-into-two-playable-games",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-08T19:20:00.000Z",
+      "scheduled_publish_at": "2026-10-09T07:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -418,7 +87,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-techradar-com-pro-new-report-claims-ai-is-helping-create-jobs-in-uk-bu-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-techradar-com-ai-platforms-assistants-i-made-two-games-with-googles-ne-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -428,13 +97,151 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/the-real-test-for-physical-ai-starts-after-the-pilot",
-      "source_url": "https://www.techradar.com/pro/the-real-test-for-physical-ai-starts-after-the-pilot",
-      "headline": "The real test for physical AI starts after the pilot",
-      "summary": "Why scaling physical AI requires more than investment, ambition and impressive pilot projects.",
+      "story_id": "https://www.techradar.com/pro/security/in-open-source-cybersecurity-ai-is-kind-of-a-problem-but-it-can-also-be-a-solution",
+      "source_url": "https://www.techradar.com/pro/security/in-open-source-cybersecurity-ai-is-kind-of-a-problem-but-it-can-also-be-a-solution",
+      "headline": "In open source cybersecurity, AI is kind of a problem",
+      "summary": "Approximately 66,000 unique entries are expected to emerge in 2026, many boosted or even created by AI.",
+      "source_name": "but it can also be a solution",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/hsp2hXrMRpqTNDhd2ZFJof-970-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/hsp2hXrMRpqTNDhd2ZFJof-970-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 970,
+        "height": 545,
+        "aspectRatio": 1.7798165137614679,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=in-open-source-cybersecurity-ai-is-kind-of-a-problem",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-09T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-techradar-com-pro-security-in-open-source-cybersecurity-ai-is-kind-of--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3253955/6-iphone-18-pro-photography-tricks-worth-spending-a-little-more-to-get.html",
+      "source_url": "https://www.macworld.com/article/3253955/6-iphone-18-pro-photography-tricks-worth-spending-a-little-more-to-get.html",
+      "headline": "6 iPhone 18 Pro photography tricks worth spending more to get",
+      "summary": "Macworld Apple has been actively marketing the iPhone’s camera capabilities for more than a decade. With every flagship launch, the company boasts about its smartphone’s latest photography and videography features—and even encourages users to share their snaps through the Shot on iPhone campaign. Th",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3253955-0-79912800-1791542717-iPhone-18-Pro-variable-aperture-lens.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3253955-0-79912800-1791542717-iPhone-18-Pro-variable-aperture-lens.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=6-iphone-18-pro-photography-tricks-worth-spending-more-to-get",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-09T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-macworld-com-article-3253955-6-iphone-18-pro-photography-tricks-worth--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/i-dont-think-this-is-a-fight-that-artists-can-afford-to-walk-away-from-award-winning-illustrator-rob-biddulph-says-human-creativity-is-worth-defending-against-ai",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/i-dont-think-this-is-a-fight-that-artists-can-afford-to-walk-away-from-award-winning-illustrator-rob-biddulph-says-human-creativity-is-worth-defending-against-ai",
+      "headline": "Rob Biddulph says human creativity is worth defending against AI",
+      "summary": "Rob Biddulph says the problem with AI art isn't quality — it's personality",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/vzMYoDB2bLxqRdBSWbQ4Y7-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vzMYoDB2bLxqRdBSWbQ4Y7-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=rob-biddulph-says-human-creativity-is-worth-defending-against-ai",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-09T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-techradar-com-ai-platforms-assistants-i-dont-think-this-is-a-fight-tha-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/moving-ai-from-pilot-to-production-starts-with-the-data",
+      "source_url": "https://www.techradar.com/pro/moving-ai-from-pilot-to-production-starts-with-the-data",
+      "headline": "Moving AI from pilot to production starts with the data",
+      "summary": "Turning AI projects from the pilot stage to delivering business value depends on having a strong data foundation.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/YoQ7bF6XQjs33SMa72NcwK-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YoQ7bF6XQjs33SMa72NcwK-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
@@ -444,11 +251,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-real-test-for-physical-ai-starts-after-the-pilot",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=moving-ai-from-pilot-to-production-starts-with-the-data",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-08T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-09T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -464,7 +271,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-techradar-com-pro-the-real-test-for-physical-ai-starts-after-the-pilot-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-techradar-com-pro-moving-ai-from-pilot-to-production-starts-with-the-d-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -474,27 +281,27 @@
       }
     },
     {
-      "story_id": "https://www.creativebloq.com/3d/video-game-design/this-indie-game-about-ai-doesnt-use-gen-ai-but-features-a-lot-of-content-from-real-people-and-creators",
-      "source_url": "https://www.creativebloq.com/3d/video-game-design/this-indie-game-about-ai-doesnt-use-gen-ai-but-features-a-lot-of-content-from-real-people-and-creators",
-      "headline": "This indie game about AI doesn't use gen-AI but features a lot of content from real people and creators",
-      "summary": "How Salix Games maximised its skillset for minimum budget for AI-themed narrative thriller Limerence.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/oEZpBLdJt8kUeiNDiHzamb-1407-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/oEZpBLdJt8kUeiNDiHzamb-1407-80.png",
+      "story_id": "https://www.techradar.com/pro/linux-founder-linus-torvalds-says-ai-is-a-gateway-drug-into-programming-but-cautions-about-using-ai-for-serious-work",
+      "source_url": "https://www.techradar.com/pro/linux-founder-linus-torvalds-says-ai-is-a-gateway-drug-into-programming-but-cautions-about-using-ai-for-serious-work",
+      "headline": "Linux founder Linus Torvalds says AI is a “gateway drug” into programming",
+      "summary": "Torvalds said AI can do “really good code” but warned against it when users are unsure what the end result should be.",
+      "source_name": "but cautions about using AI for “serious” work",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/uHgmBeyfTbT9ue7FxeKEZ5-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uHgmBeyfTbT9ue7FxeKEZ5-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1407,
-        "height": 805,
-        "aspectRatio": 1.7478260869565216,
+        "width": 2560,
+        "height": 1928,
+        "aspectRatio": 1.3278008298755186,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-indie-game-about-ai-doesnt-use-gen-ai-but-features-a-lot-of-content-from-real-people-",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=linux-founder-linus-torvalds-says-ai-is-a-gateway-drug-into-programming",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-08T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-09T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -510,7 +317,146 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-08/https-www-creativebloq-com-3d-video-game-design-this-indie-game-about-ai-doesnt--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-techradar-com-pro-linux-founder-linus-torvalds-says-ai-is-a-gateway-dr-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+      "source_url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+      "headline": "Even ‘Law & Order’ Is Terrified of AI",
+      "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6ac6842a2962a868125e6095/191:100/w_1280,c_limit/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg",
+      "image_url": "https://media.wired.com/photos/6ac6842a2962a868125e6095/191:100/w_1280,c_limit/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 955,
+        "height": 500,
+        "aspectRatio": 1.91,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=even-law-and-order-is-terrified-of-ai",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-09T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-wired-com-story-even-law-and-order-is-terrified-of-ai--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita &#8288;Balesni were dismissed for violating \"clear policies on handli",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-doubles-down-on-decision-to-fire-three-ai-safety-researchers",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-09T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-09/OpenAI-doubles-down-on-decision-to-fire-three-AI-safety-researchers-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-theverge-com-ai-artificial-intelligence-1008604-openai-defends-decisio-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/vpn/vpn-privacy-security/nine-out-of-ten-people-prefer-our-version-of-the-internet-over-googles-proton-founder-andy-yen-on-age-verification-big-tech-ai-and-the-future-of-digital-privacy",
+      "source_url": "https://www.techradar.com/vpn/vpn-privacy-security/nine-out-of-ten-people-prefer-our-version-of-the-internet-over-googles-proton-founder-andy-yen-on-age-verification-big-tech-ai-and-the-future-of-digital-privacy",
+      "headline": "'Nine out of ten people prefer our version of the internet over Google's' — Proton Founder Andy Yen on age verification, Big Tech, AI, and the future of digital privacy",
+      "summary": "From AI ethics and online age verification to taking on Big Tech, Proton is building a complete alternative to Google. TechRadar sat down with CEO Andy Yen to discuss AI, government surveillance, and the future of digital privacy.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/fbpKgEUYyeXGbPKDVFvDzi-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fbpKgEUYyeXGbPKDVFvDzi-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nine-out-of-ten-people-prefer-our-version-of-the-internet-over-googles-proton-founder-andy",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-09T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-techradar-com-vpn-vpn-privacy-security-nine-out-of-ten-people-prefer-o-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

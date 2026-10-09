@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T12:02:54.694Z",
-  "analysis_date": "2026-10-08",
+  "generated_at": "2026-10-09T11:54:33.634Z",
+  "analysis_date": "2026-10-09",
   "stories": [
     {
-      "title": "When is Apple’s next event? Dates, rumors, and what to expect",
-      "source": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
-      "mahgpt_url": "/news/story.html?id=when-is-apples-next-event-dates-rumors-and-what-to-expect"
+      "title": "US suspends permanent residency program for Microsoft, Adobe and other tech companies",
+      "source": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/",
+      "mahgpt_url": "/news/story.html?id=us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies"
     },
     {
-      "title": "I recommend Anycubic's Photon P1 Max for big resin prints, and it's on sale",
-      "source": "https://www.techradar.com/pro/anycubics-photon-p1-max-is-my-recommended-resin-3d-printer-for-creators-who-want-to-produce-bigger-models-and-its-on-sale-now",
-      "mahgpt_url": "/news/story.html?id=i-recommend-anycubics-photon-p1-max-for-big-resin-prints-and-its-on-sale"
+      "title": "Google AI turned my ideas into two playable games",
+      "source": "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them",
+      "mahgpt_url": "/news/story.html?id=google-ai-turned-my-ideas-into-two-playable-games"
     },
     {
-      "title": "Surface Ultra is Microsoft’s best effort to catch up to Apple",
-      "source": "https://www.macworld.com/article/3255224/surface-ultra-is-microsofts-best-effort-to-catch-up-to-apple.html",
-      "mahgpt_url": "/news/story.html?id=surface-ultra-is-microsofts-best-effort-to-catch-up-to-apple"
+      "title": "In open source cybersecurity, AI is kind of a problem — but it can also be a solution",
+      "source": "https://www.techradar.com/pro/security/in-open-source-cybersecurity-ai-is-kind-of-a-problem-but-it-can-also-be-a-solution",
+      "mahgpt_url": "/news/story.html?id=in-open-source-cybersecurity-ai-is-kind-of-a-problem-but-it-can-also-be-a-solution"
     },
     {
-      "title": "'This is a shocking revelation': Amazon accused of deploying 'Orwellian' AI-powered union activity surveillance system at sites in Canada, the UK, and around the world",
-      "source": "https://www.techradar.com/pro/this-is-a-shocking-revelation-amazon-accused-of-deploying-orwellian-ai-powered-union-activity-surveillance-system-at-sites-in-canada-the-uk-and-around-the-world",
-      "mahgpt_url": "/news/story.html?id=this-is-a-shocking-revelation-amazon-accused-of-deploying-orwellian-ai-powered-union-activ"
+      "title": "6 iPhone 18 Pro photography tricks worth spending more to get",
+      "source": "https://www.macworld.com/article/3253955/6-iphone-18-pro-photography-tricks-worth-spending-a-little-more-to-get.html",
+      "mahgpt_url": "/news/story.html?id=6-iphone-18-pro-photography-tricks-worth-spending-more-to-get"
     },
     {
-      "title": "Apple’s smart home: 4 big announcements coming soon",
-      "source": "https://www.macworld.com/article/3253965/apple-smart-home-launch-4-big-announcements-to-watch-for.html",
-      "mahgpt_url": "/news/story.html?id=apples-smart-home-4-big-announcements-coming-soon"
+      "title": "Rob Biddulph says human creativity is worth defending against AI",
+      "source": "https://www.techradar.com/ai-platforms-assistants/i-dont-think-this-is-a-fight-that-artists-can-afford-to-walk-away-from-award-winning-illustrator-rob-biddulph-says-human-creativity-is-worth-defending-against-ai",
+      "mahgpt_url": "/news/story.html?id=rob-biddulph-says-human-creativity-is-worth-defending-against-ai"
     },
     {
-      "title": "Apple Watch Series 12 & Ultra 4: Everything you need to know about the 2026 Apple Watches",
-      "source": "https://www.macworld.com/article/3177024/apple-watch-2026-release-date-ultra-series-12-design-features-specs.html",
-      "mahgpt_url": "/news/story.html?id=apple-watch-series-12-and-ultra-4-everything-you-need-to-know-about-the-2026-apple-watches"
+      "title": "Moving AI from pilot to production starts with the data",
+      "source": "https://www.techradar.com/pro/moving-ai-from-pilot-to-production-starts-with-the-data",
+      "mahgpt_url": "/news/story.html?id=moving-ai-from-pilot-to-production-starts-with-the-data"
     },
     {
-      "title": "The most dangerous attacker of the past year looked completely ordinary",
-      "source": "https://www.techradar.com/pro/the-most-dangerous-attacker-of-the-past-year-looked-completely-ordinary",
-      "mahgpt_url": "/news/story.html?id=the-most-dangerous-attacker-of-the-past-year-looked-completely-ordinary"
+      "title": "Linux founder Linus Torvalds says AI is a “gateway drug” into programming — but cautions about using AI for “serious” work",
+      "source": "https://www.techradar.com/pro/linux-founder-linus-torvalds-says-ai-is-a-gateway-drug-into-programming-but-cautions-about-using-ai-for-serious-work",
+      "mahgpt_url": "/news/story.html?id=linux-founder-linus-torvalds-says-ai-is-a-gateway-drug-into-programming-but-cautions-about"
     },
     {
-      "title": "New report claims AI is helping create jobs in UK businesses, as workers can't get enough of it",
-      "source": "https://www.techradar.com/pro/new-report-claims-ai-is-helping-create-jobs-in-uk-businesses-as-workers-cant-get-enough-of-it",
-      "mahgpt_url": "/news/story.html?id=new-report-claims-ai-is-helping-create-jobs-in-uk-businesses-as-workers-cant-get-enough-of"
+      "title": "Even ‘Law & Order’ Is Terrified of AI",
+      "source": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+      "mahgpt_url": "/news/story.html?id=even-law-and-order-is-terrified-of-ai"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-08.html"
+      "path": "news/analysis/2026-10-09.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-08.html"
+      "path": "es/news/analysis/2026-10-09.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-08.html"
+      "path": "de/news/analysis/2026-10-09.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-08.html"
+      "path": "fr/news/analysis/2026-10-09.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-08.html"
+      "path": "pt-BR/news/analysis/2026-10-09.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-08.html"
+      "path": "ar/news/analysis/2026-10-09.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-08.html"
+      "path": "fa/news/analysis/2026-10-09.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-08.html"
+      "path": "tr/news/analysis/2026-10-09.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-08.html"
+      "path": "it/news/analysis/2026-10-09.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-08.html"
+      "path": "ja/news/analysis/2026-10-09.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-08.html"
+      "path": "ko/news/analysis/2026-10-09.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-08.html"
+      "path": "id/news/analysis/2026-10-09.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-08.html"
+      "path": "hi/news/analysis/2026-10-09.html"
     }
   ]
 }
