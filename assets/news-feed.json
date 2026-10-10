@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T08:14:19.735Z",
+  "updatedAt": "2026-10-10T11:11:23.117Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,12 +19,23 @@
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers to 'protect American jobs'",
-      "summary": "The Trump administration wants to protect American jobs, and that means suspending skilled worker programs for top US companies.",
+      "title": "Someone just rebuilt Adobe Creative Cloud with AI – then gave it away for free",
+      "summary": "But is that really a good thing?",
       "guide": "/partners/adobe.html",
-      "source": "https://www.techradar.com/pro/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers-to-protect-american-jobs",
-      "publishedAt": "2026-10-09T12:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/KxinhwRz2KvKpopserNiaB-2560-80.jpg"
+      "source": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
+      "publishedAt": "2026-10-08T16:19:44.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G-889-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "‘It's out of our hands anyway’: Atlassian CEO Mike Cannon-Brookes says there probably isn’t a need to pause AI development despite widespread warnings",
+      "summary": "Atlassian CEO urges caution on pausing AI development despite recent concerns.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/its-out-of-our-hands-anyway-atlassian-ceo-mike-cannon-brookes-says-there-probably-isnt-a-need-to-pause-ai-development-despite-widespread-warnings",
+      "publishedAt": "2026-10-10T10:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/KppAibgQjHPenA9uqREWZa-1948-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -113,17 +124,6 @@
       "source": "https://www.macworld.com/article/3253965/welcome-home-event-smart-home-hub-homepod-mini-apple-tv-4k.html",
       "publishedAt": "2026-10-09T19:48:16.000Z",
       "image": "https://www.macworld.com/wp-content/uploads/2026/10/3253965-0-06983200-1791575310-apple-logo-embroidered.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "publishedAt": "2026-10-09T19:36:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797"
     }
   ]
 }
