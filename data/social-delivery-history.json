@@ -5644,6 +5644,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-10T16:15:02.701Z",
+        "message_id": 568,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
