@@ -1,64 +1,99 @@
 {
   "version": 1,
   "queue_date": "2026-10-10",
-  "created_at": "2026-10-10T08:14:19.831Z",
-  "source_feed_updated_at": "2026-10-10T08:14:19.735Z",
+  "created_at": "2026-10-10T11:11:26.938Z",
+  "source_feed_updated_at": "2026-10-10T11:11:23.117Z",
   "items": [
     {
-      "story_id": "https://www.techradar.com/pro/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers-to-protect-american-jobs",
-      "source_url": "https://www.techradar.com/pro/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers-to-protect-american-jobs",
-      "headline": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers to 'protect American jobs'",
-      "summary": "The Trump administration wants to protect American jobs, and that means suspending skilled worker programs for top US companies.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/KxinhwRz2KvKpopserNiaB-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/KxinhwRz2KvKpopserNiaB-2560-80.jpg",
+      "story_id": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
+      "source_url": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
+      "headline": "Someone just rebuilt Adobe Creative Cloud with AI",
+      "summary": "adobe is highlighted in a current technology report.",
+      "source_name": "then gave it away for free",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G-889-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G-889-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1707,
-        "aspectRatio": 1.4997070884592854,
+        "width": 889,
+        "height": 500,
+        "aspectRatio": 1.778,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-wor",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=someone-just-rebuilt-adobe-creative-cloud-with-ai",
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-10-10T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-10T08:14:27.426Z",
-        "message_id": 565,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-10T09:26:30.275Z",
-        "message_id": "18129321869492542",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-10/https-www-techradar-com-pro-us-bars-microsoft-adobe-and-major-it-firms-from-gree-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-10/https-www-creativebloq-com-design-design-software-someone-just-rebuilt-adobe-cre-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/its-out-of-our-hands-anyway-atlassian-ceo-mike-cannon-brookes-says-there-probably-isnt-a-need-to-pause-ai-development-despite-widespread-warnings",
+      "source_url": "https://www.techradar.com/pro/its-out-of-our-hands-anyway-atlassian-ceo-mike-cannon-brookes-says-there-probably-isnt-a-need-to-pause-ai-development-despite-widespread-warnings",
+      "headline": "‘It's out of our hands anyway’: Atlassian CEO Mike Cannon-Brookes says there probably isn’t a need to pause AI development despite widespread warnings",
+      "summary": "Atlassian CEO urges caution on pausing AI development despite recent concerns.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/KppAibgQjHPenA9uqREWZa-1948-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KppAibgQjHPenA9uqREWZa-1948-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1948,
+        "height": 1096,
+        "aspectRatio": 1.7773722627737227,
+        "instagramCompatible": true
       },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-10T09:26:39.227Z",
-        "message_id": "18074367308727295",
-        "media_kind": "story-fallback"
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=its-out-of-our-hands-anyway-atlassian-ceo-mike-cannon-brookes-says-there-probably-isnt-a-n",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-10T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-10/https-www-techradar-com-pro-its-out-of-our-hands-anyway-atlassian-ceo-mike-canno-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
       }
     },
     {
@@ -82,7 +117,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-10T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-10T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -128,7 +163,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-10T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-10T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -175,7 +210,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-10T11:20:00.000Z",
+      "scheduled_publish_at": "2026-10-10T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -221,7 +256,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-10T13:20:00.000Z",
+      "scheduled_publish_at": "2026-10-10T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -267,7 +302,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-10T15:20:00.000Z",
+      "scheduled_publish_at": "2026-10-10T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -313,7 +348,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-10T17:20:00.000Z",
+      "scheduled_publish_at": "2026-10-10T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -359,7 +394,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-10T19:20:00.000Z",
+      "scheduled_publish_at": "2026-10-10T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -400,7 +435,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-10T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-10T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -423,52 +458,6 @@
         "repairs": [
           "image-rejected",
           "instagram-card-for-missing-source"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "source_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 797,
-        "aspectRatio": 1.5056461731493098,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-10T23:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-10/https-techcrunch-com-2026-10-09-an-anthropic-ai-model-sent-a-false-homicide-tip--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
         ]
       }
     }

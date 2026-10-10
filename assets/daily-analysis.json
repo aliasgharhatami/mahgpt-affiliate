@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T11:54:33.634Z",
-  "analysis_date": "2026-10-09",
+  "generated_at": "2026-10-10T11:11:32.675Z",
+  "analysis_date": "2026-10-10",
   "stories": [
     {
-      "title": "US suspends permanent residency program for Microsoft, Adobe and other tech companies",
-      "source": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/",
-      "mahgpt_url": "/news/story.html?id=us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies"
+      "title": "Someone just rebuilt Adobe Creative Cloud with AI – then gave it away for free",
+      "source": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
+      "mahgpt_url": "/news/story.html?id=someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free"
     },
     {
-      "title": "Google AI turned my ideas into two playable games",
-      "source": "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them",
-      "mahgpt_url": "/news/story.html?id=google-ai-turned-my-ideas-into-two-playable-games"
+      "title": "‘It's out of our hands anyway’: Atlassian CEO Mike Cannon-Brookes says there probably isn’t a need to pause AI development despite widespread warnings",
+      "source": "https://www.techradar.com/pro/its-out-of-our-hands-anyway-atlassian-ceo-mike-cannon-brookes-says-there-probably-isnt-a-need-to-pause-ai-development-despite-widespread-warnings",
+      "mahgpt_url": "/news/story.html?id=its-out-of-our-hands-anyway-atlassian-ceo-mike-cannon-brookes-says-there-probably-isnt-a-n"
     },
     {
-      "title": "In open source cybersecurity, AI is kind of a problem — but it can also be a solution",
-      "source": "https://www.techradar.com/pro/security/in-open-source-cybersecurity-ai-is-kind-of-a-problem-but-it-can-also-be-a-solution",
-      "mahgpt_url": "/news/story.html?id=in-open-source-cybersecurity-ai-is-kind-of-a-problem-but-it-can-also-be-a-solution"
+      "title": "Why ‘boring’ AI is Hollywood’s best bet",
+      "source": "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet",
+      "mahgpt_url": "/news/story.html?id=why-boring-ai-is-hollywoods-best-bet"
     },
     {
-      "title": "6 iPhone 18 Pro photography tricks worth spending more to get",
-      "source": "https://www.macworld.com/article/3253955/6-iphone-18-pro-photography-tricks-worth-spending-a-little-more-to-get.html",
-      "mahgpt_url": "/news/story.html?id=6-iphone-18-pro-photography-tricks-worth-spending-more-to-get"
+      "title": "My brief romance with an AI bird feeder",
+      "source": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+      "mahgpt_url": "/news/story.html?id=my-brief-romance-with-an-ai-bird-feeder"
     },
     {
-      "title": "Rob Biddulph says human creativity is worth defending against AI",
-      "source": "https://www.techradar.com/ai-platforms-assistants/i-dont-think-this-is-a-fight-that-artists-can-afford-to-walk-away-from-award-winning-illustrator-rob-biddulph-says-human-creativity-is-worth-defending-against-ai",
-      "mahgpt_url": "/news/story.html?id=rob-biddulph-says-human-creativity-is-worth-defending-against-ai"
+      "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+      "source": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "mahgpt_url": "/news/story.html?id=anthropic-can-and-8217-t-reliably-control-its-ai-agents-it-and-8217-s-cutting-off-its-inte"
     },
     {
-      "title": "Moving AI from pilot to production starts with the data",
-      "source": "https://www.techradar.com/pro/moving-ai-from-pilot-to-production-starts-with-the-data",
-      "mahgpt_url": "/news/story.html?id=moving-ai-from-pilot-to-production-starts-with-the-data"
+      "title": "AI price gouging might have indirectly hit HP's notebook output as supplier reportedly halted shipment",
+      "source": "https://www.techradar.com/pro/ai-price-gouging-might-have-indirectly-hit-hps-notebook-output-as-supplier-reportedly-halted-shipment",
+      "mahgpt_url": "/news/story.html?id=ai-price-gouging-might-have-indirectly-hit-hps-notebook-output-as-supplier-reportedly-halt"
     },
     {
-      "title": "Linux founder Linus Torvalds says AI is a “gateway drug” into programming — but cautions about using AI for “serious” work",
-      "source": "https://www.techradar.com/pro/linux-founder-linus-torvalds-says-ai-is-a-gateway-drug-into-programming-but-cautions-about-using-ai-for-serious-work",
-      "mahgpt_url": "/news/story.html?id=linux-founder-linus-torvalds-says-ai-is-a-gateway-drug-into-programming-but-cautions-about"
+      "title": "Man jailed for using 1,000 bots to fraudulently make $8m from his AI music",
+      "source": "https://www.techradar.com/audio/audio-streaming/man-jailed-after-fraudulently-making-usd8m-from-ai-music-using-1-000-bots-as-google-reveals-its-watermarked-240-000-years-worth-of-ai-audio",
+      "mahgpt_url": "/news/story.html?id=man-jailed-for-using-1-000-bots-to-fraudulently-make-8m-from-his-ai-music"
     },
     {
-      "title": "Even ‘Law & Order’ Is Terrified of AI",
-      "source": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-      "mahgpt_url": "/news/story.html?id=even-law-and-order-is-terrified-of-ai"
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "source": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "mahgpt_url": "/news/story.html?id=the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-09.html"
+      "path": "news/analysis/2026-10-10.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-09.html"
+      "path": "es/news/analysis/2026-10-10.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-09.html"
+      "path": "de/news/analysis/2026-10-10.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-09.html"
+      "path": "fr/news/analysis/2026-10-10.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-09.html"
+      "path": "pt-BR/news/analysis/2026-10-10.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-09.html"
+      "path": "ar/news/analysis/2026-10-10.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-09.html"
+      "path": "fa/news/analysis/2026-10-10.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-09.html"
+      "path": "tr/news/analysis/2026-10-10.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-09.html"
+      "path": "it/news/analysis/2026-10-10.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-09.html"
+      "path": "ja/news/analysis/2026-10-10.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-09.html"
+      "path": "ko/news/analysis/2026-10-10.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-09.html"
+      "path": "id/news/analysis/2026-10-10.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-09.html"
+      "path": "hi/news/analysis/2026-10-10.html"
     }
   ]
 }
