@@ -3840,6 +3840,20 @@
         "message_id": "18074367308727295",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-10T11:14:10.975Z",
+        "message_id": "17992384812022731",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-10T11:14:18.478Z",
+        "message_id": "17902988415605440",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
