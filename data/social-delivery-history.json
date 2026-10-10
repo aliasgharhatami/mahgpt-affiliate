@@ -5627,6 +5627,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/its-out-of-our-hands-anyway-atlassian-ceo-mike-cannon-brookes-says-there-probably-isnt-a-need-to-pause-ai-development-despite-widespread-warnings": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-10T14:30:55.784Z",
+        "message_id": 567,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
