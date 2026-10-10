@@ -1,74 +1,65 @@
 {
   "version": 1,
-  "queue_date": "2026-10-09",
-  "created_at": "2026-10-09T11:54:26.012Z",
-  "source_feed_updated_at": "2026-10-09T11:54:21.441Z",
+  "queue_date": "2026-10-10",
+  "created_at": "2026-10-10T08:14:19.831Z",
+  "source_feed_updated_at": "2026-10-10T08:14:19.735Z",
   "items": [
     {
-      "story_id": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/",
-      "source_url": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/",
-      "headline": "US suspends permanent residency program for Microsoft, Adobe and other tech companies",
-      "summary": "Seven companies have been accused of fraud regarding the H-1B worker visas.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/l-intro-1791483571.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/l-intro-1791483571.jpg",
+      "story_id": "https://www.techradar.com/pro/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers-to-protect-american-jobs",
+      "source_url": "https://www.techradar.com/pro/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers-to-protect-american-jobs",
+      "headline": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers to 'protect American jobs'",
+      "summary": "The Trump administration wants to protect American jobs, and that means suspending skilled worker programs for top US companies.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/KxinhwRz2KvKpopserNiaB-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KxinhwRz2KvKpopserNiaB-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
+        "width": 2560,
+        "height": 1707,
+        "aspectRatio": 1.4997070884592854,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-wor",
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-09T05:20:00.000Z",
+      "scheduled_publish_at": "2026-10-10T05:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-10-09T11:55:03.116Z",
-        "message_id": 561,
+        "published_at": "2026-10-10T08:14:27.426Z",
+        "message_id": 565,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-09T11:57:47.177Z",
-        "message_id": "18417296629155727",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-engadget-com-2281503-us-suspends-permanent-residency-program-for-micro-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-10/https-www-techradar-com-pro-us-bars-microsoft-adobe-and-major-it-firms-from-gree-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-09T11:57:55.695Z",
-        "message_id": "18113171273276211",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them",
-      "headline": "Google AI turned my ideas into two playable games",
-      "summary": "I used Google Playground to create two games from descriptions alone, but the results showed why making something playable is very different from making a genuinely great game.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/f8dhUBJfCoLFCvCeEvCvm6-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/f8dhUBJfCoLFCvCeEvCvm6-1920-80.png",
+      "story_id": "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet",
+      "source_url": "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet",
+      "headline": "Why ‘boring’ AI is Hollywood’s best bet",
+      "summary": "The technology could be the industry's secret weapon – just not how you'd expect.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -78,182 +69,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-ai-turned-my-ideas-into-two-playable-games",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-boring-ai-is-hollywoods-best-bet",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-09T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-09T18:07:50.008Z",
-        "message_id": 562,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-09T14:30:12.978Z",
-        "message_id": "18114953911840771",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-techradar-com-ai-platforms-assistants-i-made-two-games-with-googles-ne-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-09T14:30:22.052Z",
-        "message_id": "17906200731595157",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/security/in-open-source-cybersecurity-ai-is-kind-of-a-problem-but-it-can-also-be-a-solution",
-      "source_url": "https://www.techradar.com/pro/security/in-open-source-cybersecurity-ai-is-kind-of-a-problem-but-it-can-also-be-a-solution",
-      "headline": "In open source cybersecurity, AI is kind of a problem",
-      "summary": "Approximately 66,000 unique entries are expected to emerge in 2026, many boosted or even created by AI.",
-      "source_name": "but it can also be a solution",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/hsp2hXrMRpqTNDhd2ZFJof-970-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/hsp2hXrMRpqTNDhd2ZFJof-970-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 970,
-        "height": 545,
-        "aspectRatio": 1.7798165137614679,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=in-open-source-cybersecurity-ai-is-kind-of-a-problem",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-09T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-09T22:39:58.603Z",
-        "message_id": 563,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-09T18:51:46.935Z",
-        "message_id": "18108174001916960",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-techradar-com-pro-security-in-open-source-cybersecurity-ai-is-kind-of--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-09T18:51:57.058Z",
-        "message_id": "17914776732523715",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3253955/6-iphone-18-pro-photography-tricks-worth-spending-a-little-more-to-get.html",
-      "source_url": "https://www.macworld.com/article/3253955/6-iphone-18-pro-photography-tricks-worth-spending-a-little-more-to-get.html",
-      "headline": "6 iPhone 18 Pro photography tricks worth spending more to get",
-      "summary": "Macworld Apple has been actively marketing the iPhone’s camera capabilities for more than a decade. With every flagship launch, the company boasts about its smartphone’s latest photography and videography features—and even encourages users to share their snaps through the Shot on iPhone campaign. Th",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3253955-0-79912800-1791542717-iPhone-18-Pro-variable-aperture-lens.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3253955-0-79912800-1791542717-iPhone-18-Pro-variable-aperture-lens.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=6-iphone-18-pro-photography-tricks-worth-spending-more-to-get",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-09T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-10T01:55:44.660Z",
-        "message_id": 564,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-09T23:19:12.824Z",
-        "message_id": "17957346741254908",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-macworld-com-article-3253955-6-iphone-18-pro-photography-tricks-worth--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-09T23:19:23.768Z",
-        "message_id": "18374438209214787",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/i-dont-think-this-is-a-fight-that-artists-can-afford-to-walk-away-from-award-winning-illustrator-rob-biddulph-says-human-creativity-is-worth-defending-against-ai",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/i-dont-think-this-is-a-fight-that-artists-can-afford-to-walk-away-from-award-winning-illustrator-rob-biddulph-says-human-creativity-is-worth-defending-against-ai",
-      "headline": "Rob Biddulph says human creativity is worth defending against AI",
-      "summary": "Rob Biddulph says the problem with AI art isn't quality — it's personality",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/vzMYoDB2bLxqRdBSWbQ4Y7-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/vzMYoDB2bLxqRdBSWbQ4Y7-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=rob-biddulph-says-human-creativity-is-worth-defending-against-ai",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-09T13:20:00.000Z",
+      "scheduled_publish_at": "2026-10-10T07:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -269,7 +89,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-techradar-com-ai-platforms-assistants-i-dont-think-this-is-a-fight-tha-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-10/https-www-creativebloq-com-features-why-boring-ai-is-hollywoods-best-bet-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -279,165 +99,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/moving-ai-from-pilot-to-production-starts-with-the-data",
-      "source_url": "https://www.techradar.com/pro/moving-ai-from-pilot-to-production-starts-with-the-data",
-      "headline": "Moving AI from pilot to production starts with the data",
-      "summary": "Turning AI projects from the pilot stage to delivering business value depends on having a strong data foundation.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/YoQ7bF6XQjs33SMa72NcwK-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/YoQ7bF6XQjs33SMa72NcwK-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=moving-ai-from-pilot-to-production-starts-with-the-data",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-09T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-techradar-com-pro-moving-ai-from-pilot-to-production-starts-with-the-d-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/linux-founder-linus-torvalds-says-ai-is-a-gateway-drug-into-programming-but-cautions-about-using-ai-for-serious-work",
-      "source_url": "https://www.techradar.com/pro/linux-founder-linus-torvalds-says-ai-is-a-gateway-drug-into-programming-but-cautions-about-using-ai-for-serious-work",
-      "headline": "Linux founder Linus Torvalds says AI is a “gateway drug” into programming",
-      "summary": "Torvalds said AI can do “really good code” but warned against it when users are unsure what the end result should be.",
-      "source_name": "but cautions about using AI for “serious” work",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/uHgmBeyfTbT9ue7FxeKEZ5-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/uHgmBeyfTbT9ue7FxeKEZ5-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1928,
-        "aspectRatio": 1.3278008298755186,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=linux-founder-linus-torvalds-says-ai-is-a-gateway-drug-into-programming",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-09T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-techradar-com-pro-linux-founder-linus-torvalds-says-ai-is-a-gateway-dr-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-      "source_url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-      "headline": "Even ‘Law & Order’ Is Terrified of AI",
-      "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6ac6842a2962a868125e6095/191:100/w_1280,c_limit/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg",
-      "image_url": "https://media.wired.com/photos/6ac6842a2962a868125e6095/191:100/w_1280,c_limit/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 955,
-        "height": 500,
-        "aspectRatio": 1.91,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=even-law-and-order-is-terrified-of-ai",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-09T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-wired-com-story-even-law-and-order-is-terrified-of-ai--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita &#8288;Balesni were dismissed for violating \"clear policies on handli",
+      "story_id": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+      "source_url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+      "headline": "My brief romance with an AI bird feeder",
+      "summary": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read another. I chuckled, still wai",
       "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C15.091603314391%2C100%2C69.816793371218&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C15.091603314391%2C100%2C69.816793371218&w=1200",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
+        "height": 621,
+        "aspectRatio": 1.932367149758454,
         "instagramCompatible": false
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-doubles-down-on-decision-to-fire-three-ai-safety-researchers",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=my-brief-romance-with-an-ai-bird-feeder",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-09T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-10T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -452,8 +134,8 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-09/OpenAI-doubles-down-on-decision-to-fire-three-AI-safety-researchers-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-theverge-com-ai-artificial-intelligence-1008604-openai-defends-decisio-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-10/My-brief-romance-with-an-AI-bird-feeder-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-10/https-www-theverge-com-gadgets-1007674-smart-bird-feeders-attact-pests-too-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -464,27 +146,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/vpn/vpn-privacy-security/nine-out-of-ten-people-prefer-our-version-of-the-internet-over-googles-proton-founder-andy-yen-on-age-verification-big-tech-ai-and-the-future-of-digital-privacy",
-      "source_url": "https://www.techradar.com/vpn/vpn-privacy-security/nine-out-of-ten-people-prefer-our-version-of-the-internet-over-googles-proton-founder-andy-yen-on-age-verification-big-tech-ai-and-the-future-of-digital-privacy",
-      "headline": "'Nine out of ten people prefer our version of the internet over Google's' — Proton Founder Andy Yen on age verification, Big Tech, AI, and the future of digital privacy",
-      "summary": "From AI ethics and online age verification to taking on Big Tech, Proton is building a complete alternative to Google. TechRadar sat down with CEO Andy Yen to discuss AI, government surveillance, and the future of digital privacy.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/fbpKgEUYyeXGbPKDVFvDzi-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/fbpKgEUYyeXGbPKDVFvDzi-1920-80.png",
+      "story_id": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "headline": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1200,
+        "height": 842,
+        "aspectRatio": 1.4251781472684086,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nine-out-of-ten-people-prefer-our-version-of-the-internet-over-googles-proton-founder-andy",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-can-and-8217-t-reliably-control-its-ai-agents-it-and-8217-s-cutting-off-its-inte",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-09T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-10T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -500,7 +182,279 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-09/https-www-techradar-com-vpn-vpn-privacy-security-nine-out-of-ten-people-prefer-o-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-10/https-techcrunch-com-2026-10-09-anthropic-cant-reliably-control-its-ai-agents-it-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/ai-price-gouging-might-have-indirectly-hit-hps-notebook-output-as-supplier-reportedly-halted-shipment",
+      "source_url": "https://www.techradar.com/pro/ai-price-gouging-might-have-indirectly-hit-hps-notebook-output-as-supplier-reportedly-halted-shipment",
+      "headline": "AI price gouging might have indirectly hit HP's notebook output as supplier reportedly halted shipment",
+      "summary": "Quanta reportedly paused HP laptop production for a week in a price fight, betting its AI server boom could absorb the hit.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/N6gsqhZmPP4QpZScFiAJbe-1600-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/N6gsqhZmPP4QpZScFiAJbe-1600-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 900,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-price-gouging-might-have-indirectly-hit-hps-notebook-output-as-supplier-reportedly-halt",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-10T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-10/https-www-techradar-com-pro-ai-price-gouging-might-have-indirectly-hit-hps-noteb-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/audio/audio-streaming/man-jailed-after-fraudulently-making-usd8m-from-ai-music-using-1-000-bots-as-google-reveals-its-watermarked-240-000-years-worth-of-ai-audio",
+      "source_url": "https://www.techradar.com/audio/audio-streaming/man-jailed-after-fraudulently-making-usd8m-from-ai-music-using-1-000-bots-as-google-reveals-its-watermarked-240-000-years-worth-of-ai-audio",
+      "headline": "Man jailed for using 1,000 bots to fraudulently make $8m from his AI music",
+      "summary": "A man has been sentenced to prison for fraudulently making $8 million from streams of his AI music.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/hHnuFjdnhv4FTTTinaA7fP-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/hHnuFjdnhv4FTTTinaA7fP-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=man-jailed-for-using-1-000-bots-to-fraudulently-make-8m-from-his-ai-music",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-10T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-10/https-www-techradar-com-audio-audio-streaming-man-jailed-after-fraudulently-maki-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1174,
+        "height": 1200,
+        "aspectRatio": 0.9783333333333334,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-10T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-10/https-techcrunch-com-2026-10-09-the-maker-of-non-text-ai-model-jev-valued-at-7-5-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "headline": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigat",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropics-ai-gave-philadelphia-police-a-fake-tip-about-an-unsolved-homicide",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-10T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-10/Anthropic-s-AI-gave-Philadelphia-police-a-fake-tip-about-an-unsolved-homicide-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-10/https-www-theverge-com-ai-artificial-intelligence-1009090-anthropic-fake-homicid-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3253965/welcome-home-event-smart-home-hub-homepod-mini-apple-tv-4k.html",
+      "source_url": "https://www.macworld.com/article/3253965/welcome-home-event-smart-home-hub-homepod-mini-apple-tv-4k.html",
+      "headline": "Welcome Home: 4 big Apple announcements coming next week",
+      "summary": "Macworld October is shaping up to be an exceptionally busy month at Apple Park. Apple is readying the iPhone Duo, a revamped Health app in iOS 27.2, a touchscreen MacBook Pro, and an overhauled iPad mini, which are all expected to launch by the end of this month. But that won’t be all. Apple anno",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3253965-0-06983200-1791575310-apple-logo-embroidered.jpg?quality=50&strip=all&w=1024",
+      "image_url": "",
+      "image_validation": null,
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=welcome-home-4-big-apple-announcements-coming-next-week",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-10T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "assets/social-cards/2026-10-10/Welcome-Home-4-big-Apple-announcements-coming-next-week-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-10/Welcome-Home-4-big-Apple-announcements-coming-next-week-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-10/https-www-macworld-com-article-3253965-welcome-home-event-smart-home-hub-homepod-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-missing-source"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 797,
+        "aspectRatio": 1.5056461731493098,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-10T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-10/https-techcrunch-com-2026-10-09-an-anthropic-ai-model-sent-a-false-homicide-tip--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T11:54:21.441Z",
+  "updatedAt": "2026-10-10T08:14:19.735Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "US suspends permanent residency program for Microsoft, Adobe and other tech companies",
-      "summary": "Seven companies have been accused of fraud regarding the H-1B worker visas.",
+      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers to 'protect American jobs'",
+      "summary": "The Trump administration wants to protect American jobs, and that means suspending skilled worker programs for top US companies.",
       "guide": "/partners/adobe.html",
-      "source": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/",
-      "publishedAt": "2026-10-08T18:23:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/l-intro-1791483571.jpg"
+      "source": "https://www.techradar.com/pro/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers-to-protect-american-jobs",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/KxinhwRz2KvKpopserNiaB-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Google AI turned my ideas into two playable games",
-      "summary": "I used Google Playground to create two games from descriptions alone, but the results showed why making something playable is very different from making a genuinely great game.",
+      "title": "Why ‘boring’ AI is Hollywood’s best bet",
+      "summary": "The technology could be the industry's secret weapon – just not how you'd expect.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them",
-      "publishedAt": "2026-10-09T11:22:46.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/f8dhUBJfCoLFCvCeEvCvm6-1920-80.png"
+      "source": "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet",
+      "publishedAt": "2026-10-10T08:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "In open source cybersecurity, AI is kind of a problem — but it can also be a solution",
-      "summary": "Approximately 66,000 unique entries are expected to emerge in 2026 , many boosted or even created by AI.",
+      "title": "My brief romance with an AI bird feeder",
+      "summary": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read another. I chuckled, still wai",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/security/in-open-source-cybersecurity-ai-is-kind-of-a-problem-but-it-can-also-be-a-solution",
-      "publishedAt": "2026-10-09T11:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/hsp2hXrMRpqTNDhd2ZFJof-970-80.jpg"
+      "source": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+      "publishedAt": "2026-10-10T07:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C15.091603314391%2C100%2C69.816793371218&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "6 iPhone 18 Pro photography tricks worth spending more to get",
-      "summary": "Macworld Apple has been actively marketing the iPhone’s camera capabilities for more than a decade. With every flagship launch, the company boasts about its smartphone’s latest photography and videography features—and even encourages users to share their snaps through the Shot on iPhone campaign. Th",
+      "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3253955/6-iphone-18-pro-photography-tricks-worth-spending-a-little-more-to-get.html",
-      "publishedAt": "2026-10-09T10:45:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3253955-0-79912800-1791542717-iPhone-18-Pro-variable-aperture-lens.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "publishedAt": "2026-10-10T00:18:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Rob Biddulph says human creativity is worth defending against AI",
-      "summary": "Rob Biddulph says the problem with AI art isn't quality — it's personality",
+      "title": "AI price gouging might have indirectly hit HP's notebook output as supplier reportedly halted shipment",
+      "summary": "Quanta reportedly paused HP laptop production for a week in a price fight, betting its AI server boom could absorb the hit.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/i-dont-think-this-is-a-fight-that-artists-can-afford-to-walk-away-from-award-winning-illustrator-rob-biddulph-says-human-creativity-is-worth-defending-against-ai",
-      "publishedAt": "2026-10-09T10:43:34.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/vzMYoDB2bLxqRdBSWbQ4Y7-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/ai-price-gouging-might-have-indirectly-hit-hps-notebook-output-as-supplier-reportedly-halted-shipment",
+      "publishedAt": "2026-10-10T00:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/N6gsqhZmPP4QpZScFiAJbe-1600-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Moving AI from pilot to production starts with the data",
-      "summary": "Turning AI projects from the pilot stage to delivering business value depends on having a strong data foundation.",
+      "title": "Man jailed for using 1,000 bots to fraudulently make $8m from his AI music",
+      "summary": "A man has been sentenced to prison for fraudulently making $8 million from streams of his AI music.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/moving-ai-from-pilot-to-production-starts-with-the-data",
-      "publishedAt": "2026-10-09T10:30:07.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/YoQ7bF6XQjs33SMa72NcwK-2560-80.jpg"
+      "source": "https://www.techradar.com/audio/audio-streaming/man-jailed-after-fraudulently-making-usd8m-from-ai-music-using-1-000-bots-as-google-reveals-its-watermarked-240-000-years-worth-of-ai-audio",
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/hHnuFjdnhv4FTTTinaA7fP-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Linux founder Linus Torvalds says AI is a “gateway drug” into programming — but cautions about using AI for “serious” work",
-      "summary": "Torvalds said AI can do “really good code” but warned against it when users are unsure what the end result should be.",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/linux-founder-linus-torvalds-says-ai-is-a-gateway-drug-into-programming-but-cautions-about-using-ai-for-serious-work",
-      "publishedAt": "2026-10-09T10:30:04.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/uHgmBeyfTbT9ue7FxeKEZ5-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "publishedAt": "2026-10-09T21:41:29.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Even ‘Law & Order’ Is Terrified of AI",
-      "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigat",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-      "publishedAt": "2026-10-09T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ac6842a2962a868125e6095/191:100/w_1280,c_limit/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "publishedAt": "2026-10-09T21:15:38.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita &#8288;Balesni were dismissed for violating \"clear policies on handli",
+      "title": "Welcome Home: 4 big Apple announcements coming next week",
+      "summary": "Macworld October is shaping up to be an exceptionally busy month at Apple Park. Apple is readying the iPhone Duo , a revamped Health app in iOS 27.2, a touchscreen MacBook Pro , and an overhauled iPad mini , which are all expected to launch by the end of this month. But that won’t be all. Apple anno",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "publishedAt": "2026-10-09T09:48:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.macworld.com/article/3253965/welcome-home-event-smart-home-hub-homepod-mini-apple-tv-4k.html",
+      "publishedAt": "2026-10-09T19:48:16.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3253965-0-06983200-1791575310-apple-logo-embroidered.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'Nine out of ten people prefer our version of the internet over Google's' — Proton Founder Andy Yen on age verification, Big Tech, AI, and the future of digital privacy",
-      "summary": "From AI ethics and online age verification to taking on Big Tech, Proton is building a complete alternative to Google. TechRadar sat down with CEO Andy Yen to discuss AI, government surveillance, and the future of digital privacy.",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/vpn/vpn-privacy-security/nine-out-of-ten-people-prefer-our-version-of-the-internet-over-googles-proton-founder-andy-yen-on-age-verification-big-tech-ai-and-the-future-of-digital-privacy",
-      "publishedAt": "2026-10-09T08:22:11.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/fbpKgEUYyeXGbPKDVFvDzi-1920-80.png"
+      "source": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "publishedAt": "2026-10-09T19:36:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797"
     }
   ]
 }

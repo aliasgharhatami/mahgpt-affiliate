@@ -5593,6 +5593,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers-to-protect-american-jobs": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-10T08:14:27.426Z",
+        "message_id": 565,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
