@@ -3868,6 +3868,20 @@
         "message_id": "17902276347374807",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-10T19:32:51.742Z",
+        "message_id": "18135505243637649",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-10T19:33:01.856Z",
+        "message_id": "18153908371530032",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
