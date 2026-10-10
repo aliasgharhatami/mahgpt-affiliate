@@ -3826,6 +3826,20 @@
         "message_id": "18374438209214787",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers-to-protect-american-jobs": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-10T09:26:30.275Z",
+        "message_id": "18129321869492542",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-10T09:26:39.227Z",
+        "message_id": "18074367308727295",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
