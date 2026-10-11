@@ -3980,6 +3980,20 @@
         "message_id": "17984340093091373",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-implications-of-ai-agent-escapes-and-how-they-can-be-regulated": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-11T18:09:55.387Z",
+        "message_id": "18069307418762473",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-11T18:10:03.702Z",
+        "message_id": "18478783591117718",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
