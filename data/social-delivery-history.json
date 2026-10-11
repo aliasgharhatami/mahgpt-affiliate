@@ -5712,6 +5712,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/audio/audio-streaming/man-jailed-after-fraudulently-making-usd8m-from-ai-music-using-1-000-bots-as-google-reveals-its-watermarked-240-000-years-worth-of-ai-audio": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-11T00:15:25.859Z",
+        "message_id": 572,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
