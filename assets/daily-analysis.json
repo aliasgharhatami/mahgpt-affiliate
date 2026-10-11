@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T11:11:32.675Z",
-  "analysis_date": "2026-10-10",
+  "generated_at": "2026-10-11T11:24:59.751Z",
+  "analysis_date": "2026-10-11",
   "stories": [
     {
-      "title": "Someone just rebuilt Adobe Creative Cloud with AI – then gave it away for free",
-      "source": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
-      "mahgpt_url": "/news/story.html?id=someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free"
+      "title": "One dev is recreating 7 Adobe apps in Rust for free — so I tested it out",
+      "source": "https://www.techradar.com/pro/one-dev-is-recreating-7-adobe-apps-in-rust-for-free-so-i-tested-it-out",
+      "mahgpt_url": "/news/story.html?id=one-dev-is-recreating-7-adobe-apps-in-rust-for-free-so-i-tested-it-out"
     },
     {
-      "title": "‘It's out of our hands anyway’: Atlassian CEO Mike Cannon-Brookes says there probably isn’t a need to pause AI development despite widespread warnings",
-      "source": "https://www.techradar.com/pro/its-out-of-our-hands-anyway-atlassian-ceo-mike-cannon-brookes-says-there-probably-isnt-a-need-to-pause-ai-development-despite-widespread-warnings",
-      "mahgpt_url": "/news/story.html?id=its-out-of-our-hands-anyway-atlassian-ceo-mike-cannon-brookes-says-there-probably-isnt-a-n"
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "source": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "mahgpt_url": "/news/story.html?id=i-made-terrible-games-with-googles-ai-playground"
     },
     {
-      "title": "Why ‘boring’ AI is Hollywood’s best bet",
-      "source": "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet",
-      "mahgpt_url": "/news/story.html?id=why-boring-ai-is-hollywoods-best-bet"
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "mahgpt_url": "/news/story.html?id=learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating"
     },
     {
-      "title": "My brief romance with an AI bird feeder",
-      "source": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
-      "mahgpt_url": "/news/story.html?id=my-brief-romance-with-an-ai-bird-feeder"
+      "title": "'Things are here, things are real - it’s here and now': Snowflake tells us why ensuring trust and reliability could be the key to unlocking the potential of the AI agentic enterprise",
+      "source": "https://www.techradar.com/pro/things-are-here-things-are-real-its-here-and-now-snowflake-tells-us-why-ensuring-trust-and-reliability-could-be-the-key-to-unlocking-the-potential-of-the-ai-agentic-enterprise",
+      "mahgpt_url": "/news/story.html?id=things-are-here-things-are-real-its-here-and-now-snowflake-tells-us-why-ensuring-trust-and"
     },
     {
-      "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
-      "source": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "mahgpt_url": "/news/story.html?id=anthropic-can-and-8217-t-reliably-control-its-ai-agents-it-and-8217-s-cutting-off-its-inte"
+      "title": "‘Calling an AI agent “rogue” is a dangerous way of deflecting blame’: Tenable Field CTO on the implications of AI agent escapes and how they can be regulated",
+      "source": "https://www.techradar.com/pro/calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-implications-of-ai-agent-escapes-and-how-they-can-be-regulated",
+      "mahgpt_url": "/news/story.html?id=calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-"
     },
     {
-      "title": "AI price gouging might have indirectly hit HP's notebook output as supplier reportedly halted shipment",
-      "source": "https://www.techradar.com/pro/ai-price-gouging-might-have-indirectly-hit-hps-notebook-output-as-supplier-reportedly-halted-shipment",
-      "mahgpt_url": "/news/story.html?id=ai-price-gouging-might-have-indirectly-hit-hps-notebook-output-as-supplier-reportedly-halt"
+      "title": "Brits still aren't comfortable handing over too much control to AI",
+      "source": "https://www.techradar.com/pro/brits-still-arent-comfortable-handing-over-too-much-control-to-ai",
+      "mahgpt_url": "/news/story.html?id=brits-still-arent-comfortable-handing-over-too-much-control-to-ai"
     },
     {
-      "title": "Man jailed for using 1,000 bots to fraudulently make $8m from his AI music",
-      "source": "https://www.techradar.com/audio/audio-streaming/man-jailed-after-fraudulently-making-usd8m-from-ai-music-using-1-000-bots-as-google-reveals-its-watermarked-240-000-years-worth-of-ai-audio",
-      "mahgpt_url": "/news/story.html?id=man-jailed-for-using-1-000-bots-to-fraudulently-make-8m-from-his-ai-music"
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "mahgpt_url": "/news/story.html?id=satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
     },
     {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "source": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "mahgpt_url": "/news/story.html?id=the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch"
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "source": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "mahgpt_url": "/news/story.html?id=microsofts-satya-nadella-says-ai-models-need-an-emergency-brake"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-10.html"
+      "path": "news/analysis/2026-10-11.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-10.html"
+      "path": "es/news/analysis/2026-10-11.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-10.html"
+      "path": "de/news/analysis/2026-10-11.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-10.html"
+      "path": "fr/news/analysis/2026-10-11.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-10.html"
+      "path": "pt-BR/news/analysis/2026-10-11.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-10.html"
+      "path": "ar/news/analysis/2026-10-11.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-10.html"
+      "path": "fa/news/analysis/2026-10-11.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-10.html"
+      "path": "tr/news/analysis/2026-10-11.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-10.html"
+      "path": "it/news/analysis/2026-10-11.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-10.html"
+      "path": "ja/news/analysis/2026-10-11.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-10.html"
+      "path": "ko/news/analysis/2026-10-11.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-10.html"
+      "path": "id/news/analysis/2026-10-11.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-10.html"
+      "path": "hi/news/analysis/2026-10-11.html"
     }
   ]
 }

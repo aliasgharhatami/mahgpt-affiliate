@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-10-11",
-  "created_at": "2026-10-11T07:13:41.758Z",
-  "source_feed_updated_at": "2026-10-11T07:13:41.697Z",
+  "created_at": "2026-10-11T11:24:55.461Z",
+  "source_feed_updated_at": "2026-10-11T11:24:51.158Z",
   "items": [
     {
       "story_id": "https://www.techradar.com/pro/one-dev-is-recreating-7-adobe-apps-in-rust-for-free-so-i-tested-it-out",
@@ -27,10 +27,8 @@
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-10-11T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-11T07:13:47.206Z",
-        "message_id": 573,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-11T07:13:47.206Z"
       },
       "linkedin": {
         "status": "pending"
@@ -38,8 +36,7 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-10-11T07:51:37.175Z",
-        "message_id": "18023159627874547",
-        "media_kind": "source"
+        "message_id": "18023159627874547"
       },
       "x": {
         "status": "pending"
@@ -53,12 +50,189 @@
         "repairs": [
           "image-rejected"
         ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "source_url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "headline": "I Made Terrible Games With Google’s AI Playground",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "source_name": "Wired",
+      "original_image_url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "image_url": "",
+      "image_validation": {
+        "valid": false,
+        "reason": "not-an-image"
       },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-11T07:51:45.195Z",
-        "message_id": "18101834249336438",
-        "media_kind": "story-fallback"
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-made-terrible-games-with-googles-ai-playground",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-11T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "assets/social-cards/2026-10-11/I-Made-Terrible-Games-With-Google-s-AI-Playground-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-11/I-Made-Terrible-Games-With-Google-s-AI-Playground-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-wired-com-story-i-made-terrible-games-with-googles-ai-playground--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-missing-source"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#823",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-11T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-11/Learning-to-use-local-AI-is-exciting-overwhelming-and-frustrating-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-theverge-com-ai-artificial-intelligence-1008484-learning-local-ai-herm-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/things-are-here-things-are-real-its-here-and-now-snowflake-tells-us-why-ensuring-trust-and-reliability-could-be-the-key-to-unlocking-the-potential-of-the-ai-agentic-enterprise",
+      "source_url": "https://www.techradar.com/pro/things-are-here-things-are-real-its-here-and-now-snowflake-tells-us-why-ensuring-trust-and-reliability-could-be-the-key-to-unlocking-the-potential-of-the-ai-agentic-enterprise",
+      "headline": "'Things are here, things are real - it’s here and now': Snowflake tells us why ensuring trust and reliability could be the key to unlocking the potential of the AI agentic enterprise",
+      "summary": "Trust has never been more crucial than in the age of the agentic enterprise, Snowflake head tells us.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/HDzGQ5eczDYhuomAvwnEU4-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HDzGQ5eczDYhuomAvwnEU4-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=things-are-here-things-are-real-its-here-and-now-snowflake-tells-us-why-ensuring-trust-and",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-11T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-techradar-com-pro-things-are-here-things-are-real-its-here-and-now-sno-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-implications-of-ai-agent-escapes-and-how-they-can-be-regulated",
+      "source_url": "https://www.techradar.com/pro/calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-implications-of-ai-agent-escapes-and-how-they-can-be-regulated",
+      "headline": "‘Calling an AI agent “rogue” is a dangerous way of deflecting blame’: Tenable Field CTO on the implications of AI agent escapes and how they can be regulated",
+      "summary": "I spoke to Bernard Montel, EMEA Field CTO, Tenable, to learn more about how AI companies are deflecting blame by labelling AI agents as 'rogue' when they escape testing environments.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/2GxzxstGJJpm8aJiATXE26-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2GxzxstGJJpm8aJiATXE26-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1461,
+        "aspectRatio": 1.7522245037645447,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-11T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-techradar-com-pro-calling-an-ai-agent-rogue-is-a-dangerous-way-of-defl-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
       }
     },
     {
@@ -82,7 +256,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-11T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -128,7 +302,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-11T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -175,7 +349,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T11:20:00.000Z",
+      "scheduled_publish_at": "2026-10-11T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -221,7 +395,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T13:20:00.000Z",
+      "scheduled_publish_at": "2026-10-11T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -261,7 +435,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T15:20:00.000Z",
+      "scheduled_publish_at": "2026-10-11T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -284,191 +458,6 @@
         "repairs": [
           "image-rejected",
           "instagram-card-for-missing-source"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/",
-      "source_url": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/",
-      "headline": "Anthropic says its AI agents tried to break into government websites",
-      "summary": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/l-intro-1791654243.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/l-intro-1791654243.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-says-its-ai-agents-tried-to-break-into-government-websites",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-engadget-com-2283091-anthropic-says-its-ai-agents-tried-to-break-into--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.creativebloq.com/deals/the-pen-that-went-viral-with-those-anti-ai-ads-has-27-percent-off-right-now",
-      "source_url": "https://www.creativebloq.com/deals/the-pen-that-went-viral-with-those-anti-ai-ads-has-27-percent-off-right-now",
-      "headline": "The pen that went viral with those anti-AI ads has 30% off right now",
-      "summary": "Rediscover the focus and creativity that comes with handwriting with the iconic pen used by James Bond.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/zERNgzeQP5mLzRxaEwMqw9-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/zERNgzeQP5mLzRxaEwMqw9-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-pen-that-went-viral-with-those-anti-ai-ads-has-30-off-right-now",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-creativebloq-com-deals-the-pen-that-went-viral-with-those-anti-ai-ads--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/vpn/vpn-privacy-security/does-a-vpn-protect-your-privacy-when-using-chatgpt-or-claude-what-network-encryption-can-and-cant-hide-from-ai",
-      "source_url": "https://www.techradar.com/vpn/vpn-privacy-security/does-a-vpn-protect-your-privacy-when-using-chatgpt-or-claude-what-network-encryption-can-and-cant-hide-from-ai",
-      "headline": "Does a VPN protect your privacy when using ChatGPT or Claude? What network encryption can and can’t hide from AI",
-      "summary": "A VPN masks where you are – not what you share",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/zEFXeYTtHV8bCodc2TArfH-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/zEFXeYTtHV8bCodc2TArfH-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=does-a-vpn-protect-your-privacy-when-using-chatgpt-or-claude-what-network-encryption-can-a",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-techradar-com-vpn-vpn-privacy-security-does-a-vpn-protect-your-privacy-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "headline": "Anthropic is cutting off its internal evaluations from the internet",
-      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led t",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T23:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-11/Anthropic-is-cutting-off-its-internal-evaluations-from-the-internet-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-theverge-com-ai-artificial-intelligence-1009286-anthropic-is-cutting-o-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     }
