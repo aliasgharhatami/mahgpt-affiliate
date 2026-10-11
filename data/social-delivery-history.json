@@ -5831,6 +5831,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-11T22:44:51.769Z",
+        "message_id": 579,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
