@@ -5814,6 +5814,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/brits-still-arent-comfortable-handing-over-too-much-control-to-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-11T21:03:25.343Z",
+        "message_id": 578,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
