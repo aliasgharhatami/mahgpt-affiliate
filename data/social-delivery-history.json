@@ -5780,6 +5780,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/things-are-here-things-are-real-its-here-and-now-snowflake-tells-us-why-ensuring-trust-and-reliability-could-be-the-key-to-unlocking-the-potential-of-the-ai-agentic-enterprise": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-11T16:45:01.902Z",
+        "message_id": 576,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
