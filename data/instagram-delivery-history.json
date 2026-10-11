@@ -3910,6 +3910,20 @@
         "message_id": "18145460398569414",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/ai-price-gouging-might-have-indirectly-hit-hps-notebook-output-as-supplier-reportedly-halted-shipment": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-11T01:42:34.435Z",
+        "message_id": "18132581611739604",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-11T01:42:43.181Z",
+        "message_id": "18116126687015894",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
