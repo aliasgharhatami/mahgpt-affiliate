@@ -4008,6 +4008,20 @@
         "message_id": "18110521196616732",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-11T22:55:56.855Z",
+        "message_id": "17870891382646574",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "failed",
+        "attempted_at": "2026-10-11T22:56:00.947Z",
+        "classification": "instagram-api-error",
+        "message": "The requested resource does not exist"
+      }
     }
   }
 }
