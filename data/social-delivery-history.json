@@ -5746,6 +5746,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-11T11:25:36.107Z",
+        "message_id": 574,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
