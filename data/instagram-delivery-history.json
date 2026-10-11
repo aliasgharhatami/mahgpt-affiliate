@@ -3924,6 +3924,20 @@
         "message_id": "18116126687015894",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/one-dev-is-recreating-7-adobe-apps-in-rust-for-free-so-i-tested-it-out": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-11T07:51:37.175Z",
+        "message_id": "18023159627874547",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-11T07:51:45.195Z",
+        "message_id": "18101834249336438",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
