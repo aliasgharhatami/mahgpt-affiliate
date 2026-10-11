@@ -3896,6 +3896,20 @@
         "message_id": "17936993562388569",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-11T00:16:12.795Z",
+        "message_id": "18411316843093914",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-11T00:16:21.586Z",
+        "message_id": "18145460398569414",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
