@@ -5797,6 +5797,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-implications-of-ai-agent-escapes-and-how-they-can-be-regulated": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-11T18:06:48.195Z",
+        "message_id": 577,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
