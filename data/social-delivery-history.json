@@ -5729,6 +5729,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/one-dev-is-recreating-7-adobe-apps-in-rust-for-free-so-i-tested-it-out": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-11T07:13:47.206Z",
+        "message_id": 573,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

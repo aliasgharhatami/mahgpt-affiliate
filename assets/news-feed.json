@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T11:11:23.117Z",
+  "updatedAt": "2026-10-11T07:13:41.697Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "Someone just rebuilt Adobe Creative Cloud with AI – then gave it away for free",
-      "summary": "But is that really a good thing?",
+      "title": "One dev is recreating 7 Adobe apps in Rust for free — so I tested it out",
+      "summary": "Someone actually made versions of Adobe Creative Suite’s biggest apps, and offered them for free. But is it really like using Photoshop without paying for it?",
       "guide": "/partners/adobe.html",
-      "source": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
-      "publishedAt": "2026-10-08T16:19:44.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G-889-80.jpg"
+      "source": "https://www.techradar.com/pro/one-dev-is-recreating-7-adobe-apps-in-rust-for-free-so-i-tested-it-out",
+      "publishedAt": "2026-10-10T13:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/8fvksmEboiNq3J4VcYM2m7-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "‘It's out of our hands anyway’: Atlassian CEO Mike Cannon-Brookes says there probably isn’t a need to pause AI development despite widespread warnings",
-      "summary": "Atlassian CEO urges caution on pausing AI development despite recent concerns.",
+      "title": "Brits still aren't comfortable handing over too much control to AI",
+      "summary": "Brits fear the potential for AI to take over tasks completely, and have concerns about AI agents ignoring laws and morals.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/its-out-of-our-hands-anyway-atlassian-ceo-mike-cannon-brookes-says-there-probably-isnt-a-need-to-pause-ai-development-despite-widespread-warnings",
-      "publishedAt": "2026-10-10T10:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/KppAibgQjHPenA9uqREWZa-1948-80.jpg"
+      "source": "https://www.techradar.com/pro/brits-still-arent-comfortable-handing-over-too-much-control-to-ai",
+      "publishedAt": "2026-10-11T06:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4vzQRue5XzmxtzR8UYSdG8-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why ‘boring’ AI is Hollywood’s best bet",
-      "summary": "The technology could be the industry's secret weapon – just not how you'd expect.",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet",
-      "publishedAt": "2026-10-10T08:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "publishedAt": "2026-10-10T22:10:17.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "My brief romance with an AI bird feeder",
-      "summary": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read another. I chuckled, still wai",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
-      "publishedAt": "2026-10-10T07:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C15.091603314391%2C100%2C69.816793371218&w=1200"
+      "source": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "publishedAt": "2026-10-10T21:47:51.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "publishedAt": "2026-10-10T00:18:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842"
+      "source": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "publishedAt": "2026-10-10T19:50:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI price gouging might have indirectly hit HP's notebook output as supplier reportedly halted shipment",
-      "summary": "Quanta reportedly paused HP laptop production for a week in a price fight, betting its AI server boom could absorb the hit.",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an ",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ai-price-gouging-might-have-indirectly-hit-hps-notebook-output-as-supplier-reportedly-halted-shipment",
-      "publishedAt": "2026-10-10T00:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/N6gsqhZmPP4QpZScFiAJbe-1600-80.jpg"
+      "source": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "publishedAt": "2026-10-10T18:52:07.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Man jailed for using 1,000 bots to fraudulently make $8m from his AI music",
-      "summary": "A man has been sentenced to prison for fraudulently making $8 million from streams of his AI music.",
+      "title": "Anthropic says its AI agents tried to break into government websites",
+      "summary": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/audio/audio-streaming/man-jailed-after-fraudulently-making-usd8m-from-ai-music-using-1-000-bots-as-google-reveals-its-watermarked-240-000-years-worth-of-ai-audio",
-      "publishedAt": "2026-10-10T00:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/hHnuFjdnhv4FTTTinaA7fP-2560-80.jpg"
+      "source": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/",
+      "publishedAt": "2026-10-10T17:49:49.000Z",
+      "image": "https://www.engadget.com/img/gallery/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/l-intro-1791654243.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "title": "The pen that went viral with those anti-AI ads has 30% off right now",
+      "summary": "Rediscover the focus and creativity that comes with handwriting with the iconic pen used by James Bond.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "publishedAt": "2026-10-09T21:41:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200"
+      "source": "https://www.creativebloq.com/deals/the-pen-that-went-viral-with-those-anti-ai-ads-has-27-percent-off-right-now",
+      "publishedAt": "2026-10-10T15:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zERNgzeQP5mLzRxaEwMqw9-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigat",
+      "title": "Does a VPN protect your privacy when using ChatGPT or Claude? What network encryption can and can’t hide from AI",
+      "summary": "A VPN masks where you are – not what you share",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "publishedAt": "2026-10-09T21:15:38.000Z",
+      "source": "https://www.techradar.com/vpn/vpn-privacy-security/does-a-vpn-protect-your-privacy-when-using-chatgpt-or-claude-what-network-encryption-can-and-cant-hide-from-ai",
+      "publishedAt": "2026-10-10T14:59:52.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zEFXeYTtHV8bCodc2TArfH-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led t",
+      "guide": "/news/index.html",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "publishedAt": "2026-10-10T14:41:16.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Welcome Home: 4 big Apple announcements coming next week",
-      "summary": "Macworld October is shaping up to be an exceptionally busy month at Apple Park. Apple is readying the iPhone Duo , a revamped Health app in iOS 27.2, a touchscreen MacBook Pro , and an overhauled iPad mini , which are all expected to launch by the end of this month. But that won’t be all. Apple anno",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3253965/welcome-home-event-smart-home-hub-homepod-mini-apple-tv-4k.html",
-      "publishedAt": "2026-10-09T19:48:16.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3253965-0-06983200-1791575310-apple-logo-embroidered.jpg?quality=50&strip=all&w=1024"
     }
   ]
 }
