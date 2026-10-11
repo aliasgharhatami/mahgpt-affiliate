@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T07:13:41.697Z",
+  "updatedAt": "2026-10-11T11:24:51.158Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -25,6 +25,50 @@
       "source": "https://www.techradar.com/pro/one-dev-is-recreating-7-adobe-apps-in-rust-for-free-so-i-tested-it-out",
       "publishedAt": "2026-10-10T13:00:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/8fvksmEboiNq3J4VcYM2m7-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "publishedAt": "2026-10-11T11:00:00.000Z",
+      "image": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#823",
+      "guide": "/news/index.html",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "publishedAt": "2026-10-11T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "'Things are here, things are real - it’s here and now': Snowflake tells us why ensuring trust and reliability could be the key to unlocking the potential of the AI agentic enterprise",
+      "summary": "Trust has never been more crucial than in the age of the agentic enterprise, Snowflake head tells us.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/things-are-here-things-are-real-its-here-and-now-snowflake-tells-us-why-ensuring-trust-and-reliability-could-be-the-key-to-unlocking-the-potential-of-the-ai-agentic-enterprise",
+      "publishedAt": "2026-10-11T10:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/HDzGQ5eczDYhuomAvwnEU4-1920-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "‘Calling an AI agent “rogue” is a dangerous way of deflecting blame’: Tenable Field CTO on the implications of AI agent escapes and how they can be regulated",
+      "summary": "I spoke to Bernard Montel, EMEA Field CTO, Tenable, to learn more about how AI companies are deflecting blame by labelling AI agents as 'rogue' when they escape testing environments.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-implications-of-ai-agent-escapes-and-how-they-can-be-regulated",
+      "publishedAt": "2026-10-11T09:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/2GxzxstGJJpm8aJiATXE26-2560-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -80,50 +124,6 @@
       "source": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
       "publishedAt": "2026-10-10T18:52:07.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Anthropic says its AI agents tried to break into government websites",
-      "summary": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/",
-      "publishedAt": "2026-10-10T17:49:49.000Z",
-      "image": "https://www.engadget.com/img/gallery/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/l-intro-1791654243.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "The pen that went viral with those anti-AI ads has 30% off right now",
-      "summary": "Rediscover the focus and creativity that comes with handwriting with the iconic pen used by James Bond.",
-      "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/deals/the-pen-that-went-viral-with-those-anti-ai-ads-has-27-percent-off-right-now",
-      "publishedAt": "2026-10-10T15:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/zERNgzeQP5mLzRxaEwMqw9-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Does a VPN protect your privacy when using ChatGPT or Claude? What network encryption can and can’t hide from AI",
-      "summary": "A VPN masks where you are – not what you share",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/vpn/vpn-privacy-security/does-a-vpn-protect-your-privacy-when-using-chatgpt-or-claude-what-network-encryption-can-and-cant-hide-from-ai",
-      "publishedAt": "2026-10-10T14:59:52.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/zEFXeYTtHV8bCodc2TArfH-2560-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led t",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "publishedAt": "2026-10-10T14:41:16.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     }
   ]
 }
