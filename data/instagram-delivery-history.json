@@ -4036,6 +4036,20 @@
         "message_id": "18096411695438028",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-12T09:12:38.849Z",
+        "message_id": "18445486777127240",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-12T09:12:46.463Z",
+        "message_id": "18083818028694457",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
