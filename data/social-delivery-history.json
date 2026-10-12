@@ -5882,6 +5882,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/computing/office-suites/developer-who-vibe-coded-free-adobe-clones-reveals-apps-to-take-down-microsoft-office-next-and-says-there-is-no-reason-to-save-broken-software": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-12T13:11:20.623Z",
+        "message_id": 582,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
