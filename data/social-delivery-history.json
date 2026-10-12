@@ -5899,6 +5899,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-12T18:43:48.773Z",
+        "message_id": 583,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
