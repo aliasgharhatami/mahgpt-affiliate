@@ -1,49 +1,47 @@
 {
   "version": 1,
   "queue_date": "2026-10-12",
-  "created_at": "2026-10-12T08:48:26.785Z",
-  "source_feed_updated_at": "2026-10-12T08:48:26.705Z",
+  "created_at": "2026-10-12T13:10:41.677Z",
+  "source_feed_updated_at": "2026-10-12T13:10:37.629Z",
   "items": [
     {
-      "story_id": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
-      "source_url": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
-      "headline": "Someone just rebuilt Adobe Creative Cloud with AI",
-      "summary": "adobe is highlighted in a current technology report.",
-      "source_name": "then gave it away for free",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G-889-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G-889-80.jpg",
+      "story_id": "https://www.techradar.com/computing/office-suites/developer-who-vibe-coded-free-adobe-clones-reveals-apps-to-take-down-microsoft-office-next-and-says-there-is-no-reason-to-save-broken-software",
+      "source_url": "https://www.techradar.com/computing/office-suites/developer-who-vibe-coded-free-adobe-clones-reveals-apps-to-take-down-microsoft-office-next-and-says-there-is-no-reason-to-save-broken-software",
+      "headline": "Developer who vibe-coded free Adobe clones is taking down Microsoft Office",
+      "summary": "A 'game-changing' moment for the software industry? Vibe-coded clones of Word, Excel, and PowerPoint have popped up online.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Z3GSWDrEeXnDFDSGQz87Mg-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Z3GSWDrEeXnDFDSGQz87Mg-2000-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 889,
-        "height": 500,
-        "aspectRatio": 1.778,
+        "width": 2000,
+        "height": 1125,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=someone-just-rebuilt-adobe-creative-cloud-with-ai",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=developer-who-vibe-coded-free-adobe-clones-is-taking-down-microsoft-office",
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-10-12T05:20:00.000Z",
       "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-10T11:12:01.429Z"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-10T11:14:10.975Z",
-        "message_id": "17992384812022731"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-creativebloq-com-design-design-software-someone-just-rebuilt-adobe-cre-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-computing-office-suites-developer-who-vibe-coded-free-ad-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -53,80 +51,70 @@
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
-      "source_url": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
-      "headline": "Apple’s Welcome Home launch live blog: Last-minute rumors",
-      "summary": "Macworld On Tuesday at 9 am ET, Apple will launch a new crop of products as part of its Welcome Home launch. While we’re not expecting a proper keynote presentation to announce the new stuff, there should be a lot to see, with no fewer than three new products expected to arrive Tuesday morning. Her",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-85628700-1791792461-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-85628700-1791792461-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "source_url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "headline": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest rea",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
+        "width": 1200,
+        "height": 623,
+        "aspectRatio": 1.926163723916533,
+        "instagramCompatible": false
       },
       "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apples-welcome-home-launch-live-blog-last-minute-rumors",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsofts-new-ai-chip-makes-it-less-reliant-on-nvidias-gpus",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
       "scheduled_publish_at": "2026-10-12T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-12T08:48:33.428Z",
-        "message_id": 581,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-12T09:12:38.849Z",
-        "message_id": "18445486777127240",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-macworld-com-article-3257851-apples-welcome-home-launch-live-blog-last-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-12/Microsoft-s-new-AI-chip-makes-it-less-reliant-on-Nvidia-s-GPUs-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-theverge-com-news-1009465-microsoft-maia-300-chip-improvements-rollout-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-12T09:12:46.463Z",
-        "message_id": "18083818028694457",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison/",
-      "source_url": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison/",
-      "headline": "OpenAI Dot vs. Meta Muse: How do these AI agents compare?",
-      "summary": "Meta and OpenAI's new AI agents are in direct competition. Here's what each can do, what they cost and who has access.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/openai-dot-vs-meta-muse-how-do-these-ai-agents-compare/l-intro-1791476289.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/openai-dot-vs-meta-muse-how-do-these-ai-agents-compare/l-intro-1791476289.jpg",
+      "story_id": "https://www.techradar.com/pro/microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-copilot-and-cowork-much-better-at-last",
+      "source_url": "https://www.techradar.com/pro/microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-copilot-and-cowork-much-better-at-last",
+      "headline": "Microsoft unveils Maia 300, its most powerful AI chip yet",
+      "summary": "Maia 300 is designed for the next generation of AI workloads, offering greater efficiency and power.",
+      "source_name": "and it might make using Teams, Copilot and Cowork much better at last",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/8ydm6cbAA5GBz9y3joy9uH-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8ydm6cbAA5GBz9y3joy9uH-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 898,
-        "aspectRatio": 1.78173719376392,
+        "width": 2560,
+        "height": 1707,
+        "aspectRatio": 1.4997070884592854,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-dot-vs-meta-muse-how-do-these-ai-agents-compare",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -146,7 +134,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-engadget-com-2281289-openai-dot-vs-meta-muse-ai-agents-comparison--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-microsoft-unveils-maia-300-its-most-powerful-ai-chip-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -156,23 +144,23 @@
       }
     },
     {
-      "story_id": "https://www.engadget.com/2281213/spacexai-grok-free-features-2026/",
-      "source_url": "https://www.engadget.com/2281213/spacexai-grok-free-features-2026/",
-      "headline": "SpaceXAI's Grok: What's free in 2026 and what isn't?",
-      "summary": "As with most AI tools, Grok's free tier is pretty limited.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/spacexais-grok-whats-free-in-2026-and-what-isnt/l-intro-1791473893.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/spacexais-grok-whats-free-in-2026-and-what-isnt/l-intro-1791473893.jpg",
+      "story_id": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "source_url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=spacexais-grok-whats-free-in-2026-and-what-isnt",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -192,7 +180,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-engadget-com-2281213-spacexai-grok-free-features-2026--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-techcrunch-com-2026-10-12-former-plaud-exec-raises-26m-for-ai-app-that-lis-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -202,23 +190,23 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/microsoft-isnt-the-only-company-releasing-a-laptop-with-an-nvidia-rtx-spark-msi-reveals-new-16-inch-128gb-beast",
-      "source_url": "https://www.techradar.com/pro/microsoft-isnt-the-only-company-releasing-a-laptop-with-an-nvidia-rtx-spark-msi-reveals-new-16-inch-128gb-beast",
-      "headline": "Microsoft isn't the only company releasing a laptop with an Nvidia RTX Spark - MSI reveals new 16-inch, 128GB beast",
-      "summary": "MSI unveils Prestige N16 Flip AI+, a 16-inch RTX Spark convertible laptop offering up to 128 GB of RAM starting from $3,299.",
+      "story_id": "https://www.techradar.com/pro/employees-are-faking-using-ai-at-work-to-impress-their-bosses",
+      "source_url": "https://www.techradar.com/pro/employees-are-faking-using-ai-at-work-to-impress-their-bosses",
+      "headline": "Employees are faking using AI at work to impress their bosses",
+      "summary": "Half of workers have lied about their AI usage or expertise, with the biggest concern that they'll lose their jobs to it.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6jyULr5WpSu9nkrxAY392J-1376-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/6jyULr5WpSu9nkrxAY392J-1376-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1376,
-        "height": 768,
-        "aspectRatio": 1.7916666666666667,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-isnt-the-only-company-releasing-a-laptop-with-an-nvidia-rtx-spark-msi-reveals-ne",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=employees-are-faking-using-ai-at-work-to-impress-their-bosses",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -238,7 +226,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-microsoft-isnt-the-only-company-releasing-a-laptop-w-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-employees-are-faking-using-ai-at-work-to-impress-the-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -248,23 +236,23 @@
       }
     },
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "headline": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+      "story_id": "https://www.techradar.com/pro/the-growing-risk-of-saas-sprawl-requires-a-smarter-approach-to-integration",
+      "source_url": "https://www.techradar.com/pro/the-growing-risk-of-saas-sprawl-requires-a-smarter-approach-to-integration",
+      "headline": "The growing risk of SaaS sprawl requires a smarter approach to integration",
+      "summary": "How SaaS sprawl and AI agents are creating hidden security risks across enterprise environments.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-growing-risk-of-saas-sprawl-requires-a-smarter-approach-to-integration",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -283,55 +271,8 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-12/Silicon-Valley-is-falling-in-line-with-Trump-s-attempt-to-rename-AI-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-theverge-com-ai-artificial-intelligence-1009406-silicon-valley-is-fall-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth",
-      "source_url": "https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth",
-      "headline": "Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth",
-      "summary": "We take a deep dive into the electrical, thermal, and infrastructural bottlenecks affecting the next-generation computing revolution.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/PNHHupwLrzuujcF78JCsDN-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/PNHHupwLrzuujcF78JCsDN-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1707,
-        "aspectRatio": 1.4997070884592854,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-da",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-12T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-powering-the-ai-revolution-inside-the-grid-thermal-a-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-the-growing-risk-of-saas-sprawl-requires-a-smarter-a-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -341,23 +282,71 @@
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "source_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "headline": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=800,1200",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=800,1200",
+      "story_id": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
+      "source_url": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
+      "headline": "Every new Apple product coming in 2026 & 2027",
+      "summary": "Macworld It’s been a huge year for Apple, with a wave of new products arriving throughout 2026. The year began with the MacBook Neo and iPhone 17e in March, followed by the new Mac mini and Mac Studio in August. September brought another major wave of launches at Apple’s “Surprise and Shine” event,",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/671090-0-52838000-1791801256-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/671090-0-52838000-1791801256-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 800,
-        "height": 1200,
-        "aspectRatio": 0.6666666666666666,
-        "instagramCompatible": false
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=every-new-apple-product-coming-in-2026-and-2027",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-12T17:20:00.000Z",
+      "telegram": {
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-29T01:01:32.187Z"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-28T21:48:36.513Z",
+        "message_id": "18116621722889985"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-macworld-com-article-671090-new-apple-products-iphone-ipad-mac-watch-h-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/ceos-say-ai-is-helping-their-businesses-be-more-productive-even-if-theyre-not-always-sure-whats-going-on",
+      "source_url": "https://www.techradar.com/pro/ceos-say-ai-is-helping-their-businesses-be-more-productive-even-if-theyre-not-always-sure-whats-going-on",
+      "headline": "CEOs say AI is helping their businesses be more productive",
+      "summary": "CEOs agree that AI must be helping productivity somehow, but they're still searching for ROI metrics.",
+      "source_name": "even if they're not always sure what's going on",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1350-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1350-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1350,
+        "height": 759,
+        "aspectRatio": 1.7786561264822134,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ceos-say-ai-is-helping-their-businesses-be-more-productive",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -376,55 +365,8 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-12/Can-the-AI-industry-persuade-data-center-opponents-by-getting-rid-of-NDAs--instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-techcrunch-com-2026-10-11-can-the-ai-industry-persuade-data-center-opponen-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2281077/apple-home-ai-summaries-security-camera-prices/",
-      "source_url": "https://www.engadget.com/2281077/apple-home-ai-summaries-security-camera-prices/",
-      "headline": "Apple Home's new AI summaries for security cameras cost more than you'd think",
-      "summary": "If you have a lot of cameras in your home, get ready to pay for more expensive iCloud+ plans.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/apple-homes-new-ai-summaries-for-security-cameras-cost-more-than-youd-think/l-intro-1791469750.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/apple-homes-new-ai-summaries-for-security-cameras-cost-more-than-youd-think/l-intro-1791469750.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-homes-new-ai-summaries-for-security-cameras-cost-more-than-youd-think",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-12T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-engadget-com-2281077-apple-home-ai-summaries-security-camera-prices--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-ceos-say-ai-is-helping-their-businesses-be-more-prod-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -434,23 +376,71 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/unleashing-the-power-of-the-team-is-our-mission-atlassian-ai-heads-tell-us-why-context-and-collaboration-will-be-the-key-to-unlocking-business-success",
-      "source_url": "https://www.techradar.com/pro/unleashing-the-power-of-the-team-is-our-mission-atlassian-ai-heads-tell-us-why-context-and-collaboration-will-be-the-key-to-unlocking-business-success",
-      "headline": "“Unleashing the power of the team is our mission”: Atlassian AI heads tell us why context and collaboration will be the key to unlocking business success",
-      "summary": "Atlassian AI chiefs lay out their view of the future of collaboration across teams, powered (of course) by AI.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg",
+      "story_id": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
+      "source_url": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
+      "headline": "Apple event guide: October ‘experience’ is confirmed",
+      "summary": "Macworld Apple’s September event may not have been Apple’s final event of 2026. Apple has confirmed a special “Welcome home” Experience for Tuesday, October 13, 2026, at 9am ET (2pm BST). Selected journalists have been invited to attend the gathering in New York, suggesting Apple is preparing to int",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-14556100-1791799545-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-14556100-1791799545-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-event-guide-october-experience-is-confirmed",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-12T21:20:00.000Z",
+      "telegram": {
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-30T20:14:01.646Z"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-30T20:12:46.275Z",
+        "message_id": "18032367620673142"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-macworld-com-article-672537-when-is-apples-next-event-html-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/the-more-autonomous-ai-becomes-the-more-human-strategy-matters",
+      "source_url": "https://www.techradar.com/pro/the-more-autonomous-ai-becomes-the-more-human-strategy-matters",
+      "headline": "The more autonomous AI becomes, the more human strategy matters",
+      "summary": "The next phase of AI adoption requires human strategy at its core.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=unleashing-the-power-of-the-team-is-our-mission-atlassian-ai-heads-tell-us-why-context-and",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-more-autonomous-ai-becomes-the-more-human-strategy-matters",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -470,7 +460,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-unleashing-the-power-of-the-team-is-our-mission-atla-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-the-more-autonomous-ai-becomes-the-more-human-strate-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

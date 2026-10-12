@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T11:24:59.751Z",
-  "analysis_date": "2026-10-11",
+  "generated_at": "2026-10-12T13:10:47.923Z",
+  "analysis_date": "2026-10-12",
   "stories": [
     {
-      "title": "One dev is recreating 7 Adobe apps in Rust for free — so I tested it out",
-      "source": "https://www.techradar.com/pro/one-dev-is-recreating-7-adobe-apps-in-rust-for-free-so-i-tested-it-out",
-      "mahgpt_url": "/news/story.html?id=one-dev-is-recreating-7-adobe-apps-in-rust-for-free-so-i-tested-it-out"
+      "title": "Developer who vibe-coded free Adobe clones is taking down Microsoft Office",
+      "source": "https://www.techradar.com/computing/office-suites/developer-who-vibe-coded-free-adobe-clones-reveals-apps-to-take-down-microsoft-office-next-and-says-there-is-no-reason-to-save-broken-software",
+      "mahgpt_url": "/news/story.html?id=developer-who-vibe-coded-free-adobe-clones-is-taking-down-microsoft-office"
     },
     {
-      "title": "I Made Terrible Games With Google’s AI Playground",
-      "source": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-      "mahgpt_url": "/news/story.html?id=i-made-terrible-games-with-googles-ai-playground"
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "source": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "mahgpt_url": "/news/story.html?id=microsofts-new-ai-chip-makes-it-less-reliant-on-nvidias-gpus"
     },
     {
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "mahgpt_url": "/news/story.html?id=learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating"
+      "title": "Microsoft unveils Maia 300, its most powerful AI chip yet - and it might make using Teams, Copilot and Cowork much better at last",
+      "source": "https://www.techradar.com/pro/microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-copilot-and-cowork-much-better-at-last",
+      "mahgpt_url": "/news/story.html?id=microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-cop"
     },
     {
-      "title": "'Things are here, things are real - it’s here and now': Snowflake tells us why ensuring trust and reliability could be the key to unlocking the potential of the AI agentic enterprise",
-      "source": "https://www.techradar.com/pro/things-are-here-things-are-real-its-here-and-now-snowflake-tells-us-why-ensuring-trust-and-reliability-could-be-the-key-to-unlocking-the-potential-of-the-ai-agentic-enterprise",
-      "mahgpt_url": "/news/story.html?id=things-are-here-things-are-real-its-here-and-now-snowflake-tells-us-why-ensuring-trust-and"
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "source": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "mahgpt_url": "/news/story.html?id=former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background"
     },
     {
-      "title": "‘Calling an AI agent “rogue” is a dangerous way of deflecting blame’: Tenable Field CTO on the implications of AI agent escapes and how they can be regulated",
-      "source": "https://www.techradar.com/pro/calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-implications-of-ai-agent-escapes-and-how-they-can-be-regulated",
-      "mahgpt_url": "/news/story.html?id=calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-"
+      "title": "Employees are faking using AI at work to impress their bosses",
+      "source": "https://www.techradar.com/pro/employees-are-faking-using-ai-at-work-to-impress-their-bosses",
+      "mahgpt_url": "/news/story.html?id=employees-are-faking-using-ai-at-work-to-impress-their-bosses"
     },
     {
-      "title": "Brits still aren't comfortable handing over too much control to AI",
-      "source": "https://www.techradar.com/pro/brits-still-arent-comfortable-handing-over-too-much-control-to-ai",
-      "mahgpt_url": "/news/story.html?id=brits-still-arent-comfortable-handing-over-too-much-control-to-ai"
+      "title": "The growing risk of SaaS sprawl requires a smarter approach to integration",
+      "source": "https://www.techradar.com/pro/the-growing-risk-of-saas-sprawl-requires-a-smarter-approach-to-integration",
+      "mahgpt_url": "/news/story.html?id=the-growing-risk-of-saas-sprawl-requires-a-smarter-approach-to-integration"
     },
     {
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "mahgpt_url": "/news/story.html?id=satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+      "title": "Every new Apple product coming in 2026 & 2027",
+      "source": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
+      "mahgpt_url": "/news/story.html?id=every-new-apple-product-coming-in-2026-and-2027"
     },
     {
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "source": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "mahgpt_url": "/news/story.html?id=microsofts-satya-nadella-says-ai-models-need-an-emergency-brake"
+      "title": "CEOs say AI is helping their businesses be more productive — even if they're not always sure what's going on",
+      "source": "https://www.techradar.com/pro/ceos-say-ai-is-helping-their-businesses-be-more-productive-even-if-theyre-not-always-sure-whats-going-on",
+      "mahgpt_url": "/news/story.html?id=ceos-say-ai-is-helping-their-businesses-be-more-productive-even-if-theyre-not-always-sure-"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-11.html"
+      "path": "news/analysis/2026-10-12.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-11.html"
+      "path": "es/news/analysis/2026-10-12.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-11.html"
+      "path": "de/news/analysis/2026-10-12.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-11.html"
+      "path": "fr/news/analysis/2026-10-12.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-11.html"
+      "path": "pt-BR/news/analysis/2026-10-12.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-11.html"
+      "path": "ar/news/analysis/2026-10-12.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-11.html"
+      "path": "fa/news/analysis/2026-10-12.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-11.html"
+      "path": "tr/news/analysis/2026-10-12.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-11.html"
+      "path": "it/news/analysis/2026-10-12.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-11.html"
+      "path": "ja/news/analysis/2026-10-12.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-11.html"
+      "path": "ko/news/analysis/2026-10-12.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-11.html"
+      "path": "id/news/analysis/2026-10-12.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-11.html"
+      "path": "hi/news/analysis/2026-10-12.html"
     }
   ]
 }
