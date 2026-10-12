@@ -4022,6 +4022,20 @@
         "classification": "instagram-api-error",
         "message": "The requested resource does not exist"
       }
+    },
+    "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-12T00:43:29.256Z",
+        "message_id": "18129818869751109",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-12T00:43:37.692Z",
+        "message_id": "18096411695438028",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
