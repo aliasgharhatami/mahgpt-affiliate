@@ -5865,6 +5865,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-12T08:48:33.428Z",
+        "message_id": 581,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

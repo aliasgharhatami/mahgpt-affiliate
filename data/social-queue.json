@@ -1,49 +1,49 @@
 {
   "version": 1,
-  "queue_date": "2026-10-11",
-  "created_at": "2026-10-11T11:24:55.461Z",
-  "source_feed_updated_at": "2026-10-11T11:24:51.158Z",
+  "queue_date": "2026-10-12",
+  "created_at": "2026-10-12T08:48:26.785Z",
+  "source_feed_updated_at": "2026-10-12T08:48:26.705Z",
   "items": [
     {
-      "story_id": "https://www.techradar.com/pro/one-dev-is-recreating-7-adobe-apps-in-rust-for-free-so-i-tested-it-out",
-      "source_url": "https://www.techradar.com/pro/one-dev-is-recreating-7-adobe-apps-in-rust-for-free-so-i-tested-it-out",
-      "headline": "One dev is recreating 7 Adobe apps in Rust for free",
-      "summary": "Someone actually made versions of Adobe Creative Suite’s biggest apps, and offered them for free. But is it really like using Photoshop without paying for it?",
-      "source_name": "so I tested it out",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/8fvksmEboiNq3J4VcYM2m7-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/8fvksmEboiNq3J4VcYM2m7-2560-80.jpg",
+      "story_id": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
+      "source_url": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
+      "headline": "Someone just rebuilt Adobe Creative Cloud with AI",
+      "summary": "adobe is highlighted in a current technology report.",
+      "source_name": "then gave it away for free",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G-889-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G-889-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
+        "width": 889,
+        "height": 500,
+        "aspectRatio": 1.778,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=one-dev-is-recreating-7-adobe-apps-in-rust-for-free",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=someone-just-rebuilt-adobe-creative-cloud-with-ai",
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-11T05:20:00.000Z",
+      "scheduled_publish_at": "2026-10-12T05:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
-        "published_at": "2026-10-11T07:13:47.206Z"
+        "published_at": "2026-10-10T11:12:01.429Z"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
         "status": "published",
-        "published_at": "2026-10-11T07:51:37.175Z",
-        "message_id": "18023159627874547"
+        "published_at": "2026-10-10T11:14:10.975Z",
+        "message_id": "17992384812022731"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-techradar-com-pro-one-dev-is-recreating-7-adobe-apps-in-rust-for-free--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-creativebloq-com-design-design-software-someone-just-rebuilt-adobe-cre-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -53,68 +53,199 @@
       }
     },
     {
-      "story_id": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-      "source_url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-      "headline": "I Made Terrible Games With Google’s AI Playground",
-      "summary": "A long day’s haul in the video game slop mines.",
-      "source_name": "Wired",
-      "original_image_url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-      "image_url": "",
+      "story_id": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
+      "source_url": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
+      "headline": "Apple’s Welcome Home launch live blog: Last-minute rumors",
+      "summary": "Macworld On Tuesday at 9 am ET, Apple will launch a new crop of products as part of its Welcome Home launch. While we’re not expecting a proper keynote presentation to announce the new stuff, there should be a lot to see, with no fewer than three new products expected to arrive Tuesday morning. Her",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-85628700-1791792461-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-85628700-1791792461-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
-        "valid": false,
-        "reason": "not-an-image"
+        "valid": true,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
+        "instagramCompatible": true
       },
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-made-terrible-games-with-googles-ai-playground",
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apples-welcome-home-launch-live-blog-last-minute-rumors",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-12T07:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-10-11T11:25:36.107Z",
-        "message_id": 574,
+        "published_at": "2026-10-12T08:48:33.428Z",
+        "message_id": 581,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-11T11:27:55.169Z",
-        "message_id": "18040878407652807",
-        "media_kind": "fallback-card"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-10-11/I-Made-Terrible-Games-With-Google-s-AI-Playground-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-10-11/I-Made-Terrible-Games-With-Google-s-AI-Playground-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-wired-com-story-i-made-terrible-games-with-googles-ai-playground--story.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-macworld-com-article-3257851-apples-welcome-home-launch-live-blog-last-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected",
-          "instagram-card-for-missing-source"
+          "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-11T11:28:02.681Z",
-        "message_id": "18127255834881853",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#823",
+      "story_id": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison/",
+      "source_url": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison/",
+      "headline": "OpenAI Dot vs. Meta Muse: How do these AI agents compare?",
+      "summary": "Meta and OpenAI's new AI agents are in direct competition. Here's what each can do, what they cost and who has access.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/openai-dot-vs-meta-muse-how-do-these-ai-agents-compare/l-intro-1791476289.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/openai-dot-vs-meta-muse-how-do-these-ai-agents-compare/l-intro-1791476289.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 898,
+        "aspectRatio": 1.78173719376392,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-dot-vs-meta-muse-how-do-these-ai-agents-compare",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-12T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-engadget-com-2281289-openai-dot-vs-meta-muse-ai-agents-comparison--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2281213/spacexai-grok-free-features-2026/",
+      "source_url": "https://www.engadget.com/2281213/spacexai-grok-free-features-2026/",
+      "headline": "SpaceXAI's Grok: What's free in 2026 and what isn't?",
+      "summary": "As with most AI tools, Grok's free tier is pretty limited.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/spacexais-grok-whats-free-in-2026-and-what-isnt/l-intro-1791473893.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/spacexais-grok-whats-free-in-2026-and-what-isnt/l-intro-1791473893.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=spacexais-grok-whats-free-in-2026-and-what-isnt",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-12T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-engadget-com-2281213-spacexai-grok-free-features-2026--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/microsoft-isnt-the-only-company-releasing-a-laptop-with-an-nvidia-rtx-spark-msi-reveals-new-16-inch-128gb-beast",
+      "source_url": "https://www.techradar.com/pro/microsoft-isnt-the-only-company-releasing-a-laptop-with-an-nvidia-rtx-spark-msi-reveals-new-16-inch-128gb-beast",
+      "headline": "Microsoft isn't the only company releasing a laptop with an Nvidia RTX Spark - MSI reveals new 16-inch, 128GB beast",
+      "summary": "MSI unveils Prestige N16 Flip AI+, a 16-inch RTX Spark convertible laptop offering up to 128 GB of RAM starting from $3,299.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6jyULr5WpSu9nkrxAY392J-1376-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6jyULr5WpSu9nkrxAY392J-1376-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1376,
+        "height": 768,
+        "aspectRatio": 1.7916666666666667,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-isnt-the-only-company-releasing-a-laptop-with-an-nvidia-rtx-spark-msi-reveals-ne",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-12T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-microsoft-isnt-the-only-company-releasing-a-laptop-w-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "headline": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to",
       "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
       "image_validation": {
         "valid": true,
         "width": 1200,
@@ -124,32 +255,27 @@
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-12T15:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-11T14:07:41.257Z",
-        "message_id": 575,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-11T14:39:37.411Z",
-        "message_id": "17882728695524338",
-        "media_kind": "fallback-card"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-11/Learning-to-use-local-AI-is-exciting-overwhelming-and-frustrating-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-theverge-com-ai-artificial-intelligence-1008484-learning-local-ai-herm-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-12/Silicon-Valley-is-falling-in-line-with-Trump-s-attempt-to-rename-AI-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-theverge-com-ai-artificial-intelligence-1009406-silicon-valley-is-fall-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -157,228 +283,92 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-11T14:39:44.023Z",
-        "message_id": "18120326309315354",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/things-are-here-things-are-real-its-here-and-now-snowflake-tells-us-why-ensuring-trust-and-reliability-could-be-the-key-to-unlocking-the-potential-of-the-ai-agentic-enterprise",
-      "source_url": "https://www.techradar.com/pro/things-are-here-things-are-real-its-here-and-now-snowflake-tells-us-why-ensuring-trust-and-reliability-could-be-the-key-to-unlocking-the-potential-of-the-ai-agentic-enterprise",
-      "headline": "'Things are here, things are real - it’s here and now': Snowflake tells us why ensuring trust and reliability could be the key to unlocking the potential of the AI agentic enterprise",
-      "summary": "Trust has never been more crucial than in the age of the agentic enterprise, Snowflake head tells us.",
+      "story_id": "https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth",
+      "source_url": "https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth",
+      "headline": "Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth",
+      "summary": "We take a deep dive into the electrical, thermal, and infrastructural bottlenecks affecting the next-generation computing revolution.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/HDzGQ5eczDYhuomAvwnEU4-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/HDzGQ5eczDYhuomAvwnEU4-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=things-are-here-things-are-real-its-here-and-now-snowflake-tells-us-why-ensuring-trust-and",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-11T16:45:01.902Z",
-        "message_id": 576,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-11T16:46:18.804Z",
-        "message_id": "18020719043729055",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-techradar-com-pro-things-are-here-things-are-real-its-here-and-now-sno-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-11T16:46:28.501Z",
-        "message_id": "17984340093091373",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-implications-of-ai-agent-escapes-and-how-they-can-be-regulated",
-      "source_url": "https://www.techradar.com/pro/calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-implications-of-ai-agent-escapes-and-how-they-can-be-regulated",
-      "headline": "‘Calling an AI agent “rogue” is a dangerous way of deflecting blame’: Tenable Field CTO on the implications of AI agent escapes and how they can be regulated",
-      "summary": "I spoke to Bernard Montel, EMEA Field CTO, Tenable, to learn more about how AI companies are deflecting blame by labelling AI agents as 'rogue' when they escape testing environments.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/2GxzxstGJJpm8aJiATXE26-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/2GxzxstGJJpm8aJiATXE26-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/PNHHupwLrzuujcF78JCsDN-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/PNHHupwLrzuujcF78JCsDN-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
-        "height": 1461,
-        "aspectRatio": 1.7522245037645447,
+        "height": 1707,
+        "aspectRatio": 1.4997070884592854,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-da",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T13:20:00.000Z",
+      "scheduled_publish_at": "2026-10-12T17:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-11T18:06:48.195Z",
-        "message_id": 577,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-11T18:09:55.387Z",
-        "message_id": "18069307418762473",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-techradar-com-pro-calling-an-ai-agent-rogue-is-a-dangerous-way-of-defl-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-powering-the-ai-revolution-inside-the-grid-thermal-a-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-11T18:10:03.702Z",
-        "message_id": "18478783591117718",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/brits-still-arent-comfortable-handing-over-too-much-control-to-ai",
-      "source_url": "https://www.techradar.com/pro/brits-still-arent-comfortable-handing-over-too-much-control-to-ai",
-      "headline": "Brits still aren't comfortable handing over too much control to AI",
-      "summary": "Brits fear the potential for AI to take over tasks completely, and have concerns about AI agents ignoring laws and morals.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4vzQRue5XzmxtzR8UYSdG8-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4vzQRue5XzmxtzR8UYSdG8-1920-80.jpg",
+      "story_id": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "source_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "headline": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=800,1200",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=800,1200",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=brits-still-arent-comfortable-handing-over-too-much-control-to-ai",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-11T21:03:25.343Z",
-        "message_id": 578,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-11T21:04:04.294Z",
-        "message_id": "18101702282381865",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-techradar-com-pro-brits-still-arent-comfortable-handing-over-too-much--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-11T21:04:12.486Z",
-        "message_id": "18110521196616732",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "headline": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 627,
-        "aspectRatio": 1.9138755980861244,
+        "width": 800,
+        "height": 1200,
+        "aspectRatio": 0.6666666666666666,
         "instagramCompatible": false
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T17:20:00.000Z",
+      "scheduled_publish_at": "2026-10-12T19:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-11T22:44:51.769Z",
-        "message_id": 579,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-11T22:55:56.855Z",
-        "message_id": "17870891382646574",
-        "media_kind": "fallback-card"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-11/Satya-Nadella-says-we-should-assume-all-AI-models-are-compromised--instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-theverge-com-ai-artificial-intelligence-1009337-satya-nadella-says-we--story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-12/Can-the-AI-industry-persuade-data-center-opponents-by-getting-rid-of-NDAs--instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-techcrunch-com-2026-10-11-can-the-ai-industry-persuade-data-center-opponen-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -386,93 +376,30 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "failed",
-        "attempted_at": "2026-10-11T22:56:00.947Z",
-        "classification": "instagram-api-error",
-        "message": "The requested resource does not exist"
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "source_url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "headline": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
+      "story_id": "https://www.engadget.com/2281077/apple-home-ai-summaries-security-camera-prices/",
+      "source_url": "https://www.engadget.com/2281077/apple-home-ai-summaries-security-camera-prices/",
+      "headline": "Apple Home's new AI summaries for security cameras cost more than you'd think",
+      "summary": "If you have a lot of cameras in your home, get ready to pay for more expensive iCloud+ plans.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/apple-homes-new-ai-summaries-for-security-cameras-cost-more-than-youd-think/l-intro-1791469750.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/apple-homes-new-ai-summaries-for-security-cameras-cost-more-than-youd-think/l-intro-1791469750.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1000,
-        "height": 667,
-        "aspectRatio": 1.4992503748125936,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-homes-new-ai-summaries-for-security-cameras-cost-more-than-youd-think",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-12T00:42:54.092Z",
-        "message_id": 580,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-12T00:43:29.256Z",
-        "message_id": "18129818869751109",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-techcrunch-com-2026-10-10-microsofts-satya-nadella-says-ai-models-need-an--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-12T00:43:37.692Z",
-        "message_id": "18096411695438028",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "source_url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "headline": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 730,
-        "aspectRatio": 1.643835616438356,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-12T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -488,7 +415,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-techcrunch-com-2026-10-10-apple-discloses-deal-to-hire-team-and-license-te-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-engadget-com-2281077-apple-home-ai-summaries-security-camera-prices--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -498,21 +425,27 @@
       }
     },
     {
-      "story_id": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-      "source_url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-      "headline": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=distrokid-has-been-quietly-taking-down-songs-in-response-to-umg-lawsuit",
+      "story_id": "https://www.techradar.com/pro/unleashing-the-power-of-the-team-is-our-mission-atlassian-ai-heads-tell-us-why-context-and-collaboration-will-be-the-key-to-unlocking-business-success",
+      "source_url": "https://www.techradar.com/pro/unleashing-the-power-of-the-team-is-our-mission-atlassian-ai-heads-tell-us-why-context-and-collaboration-will-be-the-key-to-unlocking-business-success",
+      "headline": "“Unleashing the power of the team is our mission”: Atlassian AI heads tell us why context and collaboration will be the key to unlocking business success",
+      "summary": "Atlassian AI chiefs lay out their view of the future of collaboration across teams, powered (of course) by AI.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=unleashing-the-power-of-the-team-is-our-mission-atlassian-ai-heads-tell-us-why-context-and",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-11T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-12T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -526,15 +459,14 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-10-11/DistroKid-has-been-quietly-taking-down-songs-in-response-to-UMG-lawsuit-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-10-11/DistroKid-has-been-quietly-taking-down-songs-in-response-to-UMG-lawsuit-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-11/https-www-theverge-com-entertainment-1009309-distrokid-take-down-songs-umg-lawsu-story.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-unleashing-the-power-of-the-team-is-our-mission-atla-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected",
-          "instagram-card-for-missing-source"
+          "image-rejected"
         ]
       }
     }
