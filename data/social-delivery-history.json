@@ -5916,6 +5916,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-copilot-and-cowork-much-better-at-last": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-12T21:45:22.806Z",
+        "message_id": 584,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
