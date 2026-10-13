@@ -4106,6 +4106,20 @@
         "message_id": "17907789630332998",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-13T12:46:55.631Z",
+        "message_id": "18027843839874857",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-13T12:47:05.058Z",
+        "message_id": "18161473588495211",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
