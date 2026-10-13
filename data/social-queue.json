@@ -1,49 +1,93 @@
 {
   "version": 1,
   "queue_date": "2026-10-13",
-  "created_at": "2026-10-13T07:38:16.388Z",
-  "source_feed_updated_at": "2026-10-13T07:38:16.293Z",
+  "created_at": "2026-10-13T12:43:22.288Z",
+  "source_feed_updated_at": "2026-10-13T12:43:17.958Z",
   "items": [
     {
-      "story_id": "https://www.techradar.com/computing/office-suites/developer-who-vibe-coded-free-adobe-clones-reveals-apps-to-take-down-microsoft-office-next-and-says-there-is-no-reason-to-save-broken-software",
-      "source_url": "https://www.techradar.com/computing/office-suites/developer-who-vibe-coded-free-adobe-clones-reveals-apps-to-take-down-microsoft-office-next-and-says-there-is-no-reason-to-save-broken-software",
-      "headline": "Developer who vibe-coded free Adobe clones is taking down Microsoft Office",
-      "summary": "A 'game-changing' moment for the software industry? Vibe-coded clones of Word, Excel, and PowerPoint have popped up online.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Z3GSWDrEeXnDFDSGQz87Mg-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Z3GSWDrEeXnDFDSGQz87Mg-2000-80.jpg",
+      "story_id": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
+      "source_url": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
+      "headline": "I tried those free AI-coded Adobe Creative Cloud clones, and they have some big problems",
+      "summary": "ArtCraft isn't ready to replace Adobe's Photoshop and Premiere yet.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/GohVEZQ7wNAbxcMQvyv6ie-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/GohVEZQ7wNAbxcMQvyv6ie-1920-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2000,
-        "height": 1125,
+        "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=developer-who-vibe-coded-free-adobe-clones-is-taking-down-microsoft-office",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-10-13T05:20:00.000Z",
       "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-12T13:11:20.623Z"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-12T13:16:03.374Z",
-        "message_id": "18345646762250755"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-computing-office-suites-developer-who-vibe-coded-free-ad-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-creativebloq-com-news-i-tried-those-free-ai-coded-adobe-creative-cloud-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "source_url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "headline": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "summary": "The startup will sell some of its assets to Disney for $20 million.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 672,
+        "aspectRatio": 1.7857142857142858,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-13T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-techcrunch-com-2026-10-13-just-5-years-in-interactive-chatbot-platform-cha-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -55,11 +99,11 @@
     {
       "story_id": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
       "source_url": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
-      "headline": "Welcome Home live blog: Follow the latest rumors before Apple’s big announcement",
+      "headline": "Welcome Home live blog: HomeView hub, Apple TV 4K, HomePod mini, and more!",
       "summary": "Macworld Today (Tuesday, October 13) at 9 am ET, Apple will launch a new crop of products as part of its Welcome Home launch. While we’re not expecting a proper keynote presentation to announce the new stuff, there should be a lot to see, with no fewer than three new products expected to arrive thi",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-26749000-1791875518-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-26749000-1791875518-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-76845300-1791894979-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-76845300-1791894979-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
@@ -69,11 +113,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=welcome-home-live-blog-follow-the-latest-rumors-before-apples-big-announcement",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=welcome-home-live-blog-homeview-hub-apple-tv-4k-homepod-mini-and-more",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-13T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-13T09:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-10-12T08:48:33.428Z"
@@ -101,69 +145,23 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/i-tested-google-geminis-new-nano-banana-2-1-image-generator-against-chatgpt-and-i-was-surprised-how-close-they-are",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/i-tested-google-geminis-new-nano-banana-2-1-image-generator-against-chatgpt-and-i-was-surprised-how-close-they-are",
-      "headline": "I tested Nano Banana 2.1 against ChatGPT, and it was close",
-      "summary": "I tested Google's new Nano Banana 2.1 against ChatGPT and discovered that the two AI generators are now surprisingly evenly matched",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ZjTrNoGGLynCFuf7douwQ3-1921-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ZjTrNoGGLynCFuf7douwQ3-1921-80.png",
+      "story_id": "https://www.macworld.com/article/3203946/m6-macbook-pro-rumors-release-date-specs.html",
+      "source_url": "https://www.macworld.com/article/3203946/m6-macbook-pro-rumors-release-date-specs.html",
+      "headline": "M6 MacBook Pro: Everything we know about Apple’s next laptop",
+      "summary": "Macworld Apple offers the MacBook Pro with three different chip options. It starts with the entry-level M5 chip, which you can only get in the 14-inch MacBook Pro. Apple also offers higher end M5 Pro and M5 Max chips for the 14- and 16-inch MacBook Pro, as it has since the M1 arrived in 2020. Apple",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3203946-0-39866000-1791891668-14inch-m4-macbook-pro-right-angle.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3203946-0-39866000-1791891668-14inch-m4-macbook-pro-right-angle.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 1921,
-        "height": 1080,
-        "aspectRatio": 1.7787037037037037,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-tested-nano-banana-2-1-against-chatgpt-and-it-was-close",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-13T09:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-ai-platforms-assistants-i-tested-google-geminis-new-nano-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/sick-employees-are-costing-the-uk-economy-over-gbp241bn-every-year-and-things-may-only-get-worse-as-ai-takes-over",
-      "source_url": "https://www.techradar.com/pro/sick-employees-are-costing-the-uk-economy-over-gbp241bn-every-year-and-things-may-only-get-worse-as-ai-takes-over",
-      "headline": "Sick employees are costing the UK economy over £241bn every year",
-      "summary": "New research suggests a workforce in poor health has a significant cost – and is estimated to cost £241 billion a year for the UK alone.",
-      "source_name": "and things may only get worse as AI takes over",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/BTpEWDEJ3K4LZAsqcmyJUV-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/BTpEWDEJ3K4LZAsqcmyJUV-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=sick-employees-are-costing-the-uk-economy-over-241bn-every-year",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=m6-macbook-pro-everything-we-know-about-apples-next-laptop",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -183,7 +181,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-sick-employees-are-costing-the-uk-economy-over-gbp24-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-macworld-com-article-3203946-m6-macbook-pro-rumors-release-date-specs--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -193,22 +191,23 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/satya-nadella-wants-your-pc-to-become-an-infinite-software-factory-in-final-blow-to-the-app-store-concept-but-im-afraid-businesses-wont-bite-the-ai-apple",
-      "source_url": "https://www.techradar.com/pro/satya-nadella-wants-your-pc-to-become-an-infinite-software-factory-in-final-blow-to-the-app-store-concept-but-im-afraid-businesses-wont-bite-the-ai-apple",
-      "headline": "Microsoft CEO Satya Nadella wants your PC to become 'an infinite software factory' in final blow to the app store concept",
-      "summary": "Microsoft wants every employee building apps with Copilot, but with 93% of tech leaders worried about vibe-coded tools, I don't expect IT to just hand over the keys.",
-      "source_name": "but I'm afraid businesses won't bite the AI apple",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6bfb10cc526d296d87da9aa41e7ed3b3-420-80.jpg",
-      "image_url": "",
+      "story_id": "https://www.techradar.com/pro/microsofts-rtx-spark-surface-laptop-ultra-pre-orders-open-to-challenge-the-macbook-pro-in-local-ai",
+      "source_url": "https://www.techradar.com/pro/microsofts-rtx-spark-surface-laptop-ultra-pre-orders-open-to-challenge-the-macbook-pro-in-local-ai",
+      "headline": "Microsoft Surface Laptop Ultra RTX Spark pre-orders are now live",
+      "summary": "Nvidia RTX Spark laptop pre-orders are now live, with the Surface Laptop Ultra offering businesses serious local AI processing power.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rdH2giCzCAWn98zkkqKC8d-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rdH2giCzCAWn98zkkqKC8d-2000-80.jpg",
       "image_validation": {
-        "valid": false,
-        "reason": "image-too-small",
-        "width": 420,
-        "height": 236
+        "valid": true,
+        "width": 2000,
+        "height": 1125,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-ceo-satya-nadella-wants-your-pc-to-become-an-infinite-software-factory-in-final-",
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-surface-laptop-ultra-rtx-spark-pre-orders-are-now-live",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -226,36 +225,35 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-10-13/Microsoft-CEO-Satya-Nadella-wants-your-PC-to-become-an-infinite-software-factory-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-10-13/Microsoft-CEO-Satya-Nadella-wants-your-PC-to-become-an-infinite-software-factory-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-satya-nadella-wants-your-pc-to-become-an-infinite-so-story.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-microsofts-rtx-spark-surface-laptop-ultra-pre-orders-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected",
-          "instagram-card-for-missing-source"
+          "image-rejected"
         ]
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/kioxia-beats-its-own-world-record-with-the-fastest-ssd-ever-produced-new-pcie-6-0-gp1-tops-20m-iops-and-is-part-of-kioxias-plan-to-challenge-dram-in-ai-markets",
-      "source_url": "https://www.techradar.com/pro/kioxia-beats-its-own-world-record-with-the-fastest-ssd-ever-produced-new-pcie-6-0-gp1-tops-20m-iops-and-is-part-of-kioxias-plan-to-challenge-dram-in-ai-markets",
-      "headline": "Kioxia beats its own world record with the fastest SSD ever produced — new PCIe 6.0 GP1 tops 20M IOPS and is part of Kioxia's plan to challenge DRAM in AI markets",
-      "summary": "Kioxia wants to take on DRAM with flash storage, and its newest SSD brings random-read speeds above 20 million IOPS.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6iyyeuyrC4mt7HA73hyCyC-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/6iyyeuyrC4mt7HA73hyCyC-1920-80.jpg",
+      "story_id": "https://www.creativebloq.com/news/everyones-saying-the-same-thing-about-epics-ai-first-disney-game-and-its-not-good",
+      "source_url": "https://www.creativebloq.com/news/everyones-saying-the-same-thing-about-epics-ai-first-disney-game-and-its-not-good",
+      "headline": "Everyone's saying the same thing about Epic’s AI-first Disney game",
+      "summary": "Fans aren’t buying Epic’s promise of “MORE and BETTER stuff”.",
+      "source_name": "and it's not good",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/5gZXcRceMpeH4mSD2Rzvmk-1600-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5gZXcRceMpeH4mSD2Rzvmk-1600-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
+        "width": 1600,
+        "height": 900,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=kioxia-beats-its-own-world-record-with-the-fastest-ssd-ever-produced-new-pcie-6-0-gp1-tops",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=everyones-saying-the-same-thing-about-epics-ai-first-disney-game",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -275,7 +273,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-kioxia-beats-its-own-world-record-with-the-fastest-s-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-creativebloq-com-news-everyones-saying-the-same-thing-about-epics-ai-f-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -285,23 +283,23 @@
       }
     },
     {
-      "story_id": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
-      "source_url": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
-      "headline": "How to use Google Gemini to automate tasks",
-      "summary": "Spark is Google's AI tool that can perform tasks on your behalf.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/how-to-use-google-gemini-to-automate-tasks/l-intro-1791484788.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/how-to-use-google-gemini-to-automate-tasks/l-intro-1791484788.jpg",
+      "story_id": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "source_url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "headline": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+      "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/191:100/w_1280,c_limit/10122026_BE_Wikepidia_v2.jpg",
+      "image_url": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/191:100/w_1280,c_limit/10122026_BE_Wikepidia_v2.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
       },
       "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-use-google-gemini-to-automate-tasks",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=wikipedians-believed-ai-would-come-and-go-they-were-wrong",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -320,34 +318,35 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-engadget-com-2281539-how-to-use-google-gemini-automate-tasks--story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-13/Wikipedians-Believed-AI-Would-Come-and-Go-They-Were-Wrong-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-wired-com-story-book-excerpt-the-last-best-place-on-the-internet-wikip-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/quote-of-the-day-by-irobot-co-founder-rodney-brooks-the-world-is-its-own-best-model-laying-the-foundations-for-modern-physical-ai",
-      "source_url": "https://www.techradar.com/pro/quote-of-the-day-by-irobot-co-founder-rodney-brooks-the-world-is-its-own-best-model-laying-the-foundations-for-modern-physical-ai",
-      "headline": "Quote of the day by iRobot co-founder Rodney Brooks: \"The world is its own best model\"",
-      "summary": "The scientist challenged contemporary orthodoxy around robotics to lay the blueprint for the physical AI boom we expect in the coming years",
+      "story_id": "https://www.techradar.com/pro/mozilla-launches-firefox-enterprise-to-give-european-firms-more-choice-new-browser-gives-government-healthcare-and-finance-more-control-over-how-they-use-the-web-handle-sensitive-data-and-access-ai-tools",
+      "source_url": "https://www.techradar.com/pro/mozilla-launches-firefox-enterprise-to-give-european-firms-more-choice-new-browser-gives-government-healthcare-and-finance-more-control-over-how-they-use-the-web-handle-sensitive-data-and-access-ai-tools",
+      "headline": "Mozilla launches Firefox Enterprise to give European firms more choice — new browser gives government, healthcare and finance more control over how they use the web, handle sensitive data and access AI tools",
+      "summary": "Mozilla slates 'choice' because most browsers run on Chromium – Firefox Enterprise gives enterprises more control.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/YQmdL7AzBCKzxVASTQQ3Th-1574-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/YQmdL7AzBCKzxVASTQQ3Th-1574-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/3cU8HGQhTnBoVN2593Sxk4-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3cU8HGQhTnBoVN2593Sxk4-1920-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1574,
-        "height": 885,
-        "aspectRatio": 1.7785310734463278,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=quote-of-the-day-by-irobot-co-founder-rodney-brooks-the-world-is-its-own-best-model",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=mozilla-launches-firefox-enterprise-to-give-european-firms-more-choice-new-browser-gives-g",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -367,7 +366,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-quote-of-the-day-by-irobot-co-founder-rodney-brooks--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-mozilla-launches-firefox-enterprise-to-give-european-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -377,23 +376,23 @@
       }
     },
     {
-      "story_id": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
-      "source_url": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
-      "headline": "Epic reportedly delays its Disney video game so it can be made using more AI",
-      "summary": "Developers were apparently ordered to use AI for both code and asset creation.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/l-intro-1791837940.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/l-intro-1791837940.jpg",
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "headline": "Character.AI files for bankruptcy",
+      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
       },
       "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=character-ai-files-for-bankruptcy",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -412,34 +411,35 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-engadget-com-2284680-epic-reportedly-delays-its-disney-video-game-so-i-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-13/Character-AI-files-for-bankruptcy-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-theverge-com-ai-artificial-intelligence-1009802-character-ai-files-for-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
-      "source_url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
-      "headline": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
-      "summary": "Solutions or partial solutions to 372 outstanding math problems that have challenged human mathematicians for years have been published by OpenAI, leading to a call for AI developers to focus on human understanding",
+      "story_id": "https://www.techradar.com/pro/enterprise-it-infrastructure-isnt-built-for-ai-inference",
+      "source_url": "https://www.techradar.com/pro/enterprise-it-infrastructure-isnt-built-for-ai-inference",
+      "headline": "Enterprise IT infrastructure isn’t built for AI inference",
+      "summary": "Shift from AI training to real-time inference requires distributed, CPU-heavy infrastructure to handle agentic workloads.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/yydXo2zcn294B2Ko5EpaAW-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/yydXo2zcn294B2Ko5EpaAW-2000-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2000,
-        "height": 1125,
+        "width": 2560,
+        "height": 1440,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-c",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=enterprise-it-infrastructure-isnt-built-for-ai-inference",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -459,7 +459,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-has-openai-started-the-mathpocalypse-experts-say-ais-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-enterprise-it-infrastructure-isnt-built-for-ai-infer-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

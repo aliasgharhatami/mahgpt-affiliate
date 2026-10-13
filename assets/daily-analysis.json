@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T13:10:47.923Z",
-  "analysis_date": "2026-10-12",
+  "generated_at": "2026-10-13T12:43:28.661Z",
+  "analysis_date": "2026-10-13",
   "stories": [
     {
-      "title": "Developer who vibe-coded free Adobe clones is taking down Microsoft Office",
-      "source": "https://www.techradar.com/computing/office-suites/developer-who-vibe-coded-free-adobe-clones-reveals-apps-to-take-down-microsoft-office-next-and-says-there-is-no-reason-to-save-broken-software",
-      "mahgpt_url": "/news/story.html?id=developer-who-vibe-coded-free-adobe-clones-is-taking-down-microsoft-office"
+      "title": "I tried those free AI-coded Adobe Creative Cloud clones, and they have some big problems",
+      "source": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
+      "mahgpt_url": "/news/story.html?id=i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems"
     },
     {
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "source": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "mahgpt_url": "/news/story.html?id=microsofts-new-ai-chip-makes-it-less-reliant-on-nvidias-gpus"
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "source": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "mahgpt_url": "/news/story.html?id=just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy"
     },
     {
-      "title": "Microsoft unveils Maia 300, its most powerful AI chip yet - and it might make using Teams, Copilot and Cowork much better at last",
-      "source": "https://www.techradar.com/pro/microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-copilot-and-cowork-much-better-at-last",
-      "mahgpt_url": "/news/story.html?id=microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-cop"
+      "title": "Welcome Home live blog: HomeView hub, Apple TV 4K, HomePod mini, and more!",
+      "source": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
+      "mahgpt_url": "/news/story.html?id=welcome-home-live-blog-homeview-hub-apple-tv-4k-homepod-mini-and-more"
     },
     {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "source": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "mahgpt_url": "/news/story.html?id=former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background"
+      "title": "M6 MacBook Pro: Everything we know about Apple’s next laptop",
+      "source": "https://www.macworld.com/article/3203946/m6-macbook-pro-rumors-release-date-specs.html",
+      "mahgpt_url": "/news/story.html?id=m6-macbook-pro-everything-we-know-about-apples-next-laptop"
     },
     {
-      "title": "Employees are faking using AI at work to impress their bosses",
-      "source": "https://www.techradar.com/pro/employees-are-faking-using-ai-at-work-to-impress-their-bosses",
-      "mahgpt_url": "/news/story.html?id=employees-are-faking-using-ai-at-work-to-impress-their-bosses"
+      "title": "Microsoft Surface Laptop Ultra RTX Spark pre-orders are now live",
+      "source": "https://www.techradar.com/pro/microsofts-rtx-spark-surface-laptop-ultra-pre-orders-open-to-challenge-the-macbook-pro-in-local-ai",
+      "mahgpt_url": "/news/story.html?id=microsoft-surface-laptop-ultra-rtx-spark-pre-orders-are-now-live"
     },
     {
-      "title": "The growing risk of SaaS sprawl requires a smarter approach to integration",
-      "source": "https://www.techradar.com/pro/the-growing-risk-of-saas-sprawl-requires-a-smarter-approach-to-integration",
-      "mahgpt_url": "/news/story.html?id=the-growing-risk-of-saas-sprawl-requires-a-smarter-approach-to-integration"
+      "title": "Everyone's saying the same thing about Epic’s AI-first Disney game – and it's not good",
+      "source": "https://www.creativebloq.com/news/everyones-saying-the-same-thing-about-epics-ai-first-disney-game-and-its-not-good",
+      "mahgpt_url": "/news/story.html?id=everyones-saying-the-same-thing-about-epics-ai-first-disney-game-and-its-not-good"
     },
     {
-      "title": "Every new Apple product coming in 2026 & 2027",
-      "source": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
-      "mahgpt_url": "/news/story.html?id=every-new-apple-product-coming-in-2026-and-2027"
+      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+      "source": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "mahgpt_url": "/news/story.html?id=wikipedians-believed-ai-would-come-and-go-they-were-wrong"
     },
     {
-      "title": "CEOs say AI is helping their businesses be more productive — even if they're not always sure what's going on",
-      "source": "https://www.techradar.com/pro/ceos-say-ai-is-helping-their-businesses-be-more-productive-even-if-theyre-not-always-sure-whats-going-on",
-      "mahgpt_url": "/news/story.html?id=ceos-say-ai-is-helping-their-businesses-be-more-productive-even-if-theyre-not-always-sure-"
+      "title": "Mozilla launches Firefox Enterprise to give European firms more choice — new browser gives government, healthcare and finance more control over how they use the web, handle sensitive data and access AI tools",
+      "source": "https://www.techradar.com/pro/mozilla-launches-firefox-enterprise-to-give-european-firms-more-choice-new-browser-gives-government-healthcare-and-finance-more-control-over-how-they-use-the-web-handle-sensitive-data-and-access-ai-tools",
+      "mahgpt_url": "/news/story.html?id=mozilla-launches-firefox-enterprise-to-give-european-firms-more-choice-new-browser-gives-g"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-12.html"
+      "path": "news/analysis/2026-10-13.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-12.html"
+      "path": "es/news/analysis/2026-10-13.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-12.html"
+      "path": "de/news/analysis/2026-10-13.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-12.html"
+      "path": "fr/news/analysis/2026-10-13.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-12.html"
+      "path": "pt-BR/news/analysis/2026-10-13.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-12.html"
+      "path": "ar/news/analysis/2026-10-13.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-12.html"
+      "path": "fa/news/analysis/2026-10-13.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-12.html"
+      "path": "tr/news/analysis/2026-10-13.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-12.html"
+      "path": "it/news/analysis/2026-10-13.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-12.html"
+      "path": "ja/news/analysis/2026-10-13.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-12.html"
+      "path": "ko/news/analysis/2026-10-13.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-12.html"
+      "path": "id/news/analysis/2026-10-13.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-12.html"
+      "path": "hi/news/analysis/2026-10-13.html"
     }
   ]
 }
