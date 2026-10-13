@@ -4092,6 +4092,20 @@
         "message_id": "18092047166679177",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-13T01:21:42.213Z",
+        "message_id": "18048702263818945",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-13T01:21:51.692Z",
+        "message_id": "17907789630332998",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
