@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T13:10:37.629Z",
+  "updatedAt": "2026-10-13T07:38:16.293Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest rea",
+      "title": "Welcome Home live blog: Follow the latest rumors before Apple’s big announcement",
+      "summary": "Macworld Today (Tuesday, October 13) at 9 am ET, Apple will launch a new crop of products as part of its Welcome Home launch . While we’re not expecting a proper keynote presentation to announce the new stuff, there should be a lot to see, with no fewer than three new products expected to arrive thi",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "publishedAt": "2026-10-12T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
+      "publishedAt": "2026-10-13T07:10:09.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-26749000-1791875518-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Microsoft unveils Maia 300, its most powerful AI chip yet - and it might make using Teams, Copilot and Cowork much better at last",
-      "summary": "Maia 300 is designed for the next generation of AI workloads, offering greater efficiency and power.",
+      "title": "I tested Nano Banana 2.1 against ChatGPT, and it was close",
+      "summary": "I tested Google's new Nano Banana 2.1 against ChatGPT and discovered that the two AI generators are now surprisingly evenly matched",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-copilot-and-cowork-much-better-at-last",
-      "publishedAt": "2026-10-12T13:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/8ydm6cbAA5GBz9y3joy9uH-2560-80.jpg"
+      "source": "https://www.techradar.com/ai-platforms-assistants/i-tested-google-geminis-new-nano-banana-2-1-image-generator-against-chatgpt-and-i-was-surprised-how-close-they-are",
+      "publishedAt": "2026-10-13T06:58:56.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZjTrNoGGLynCFuf7douwQ3-1921-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "title": "Sick employees are costing the UK economy over £241bn every year — and things may only get worse as AI takes over",
+      "summary": "New research suggests a workforce in poor health has a significant cost – and is estimated to cost £241 billion a year for the UK alone.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "publishedAt": "2026-10-12T12:47:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800"
+      "source": "https://www.techradar.com/pro/sick-employees-are-costing-the-uk-economy-over-gbp241bn-every-year-and-things-may-only-get-worse-as-ai-takes-over",
+      "publishedAt": "2026-10-13T06:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/BTpEWDEJ3K4LZAsqcmyJUV-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Employees are faking using AI at work to impress their bosses",
-      "summary": "Half of workers have lied about their AI usage or expertise, with the biggest concern that they'll lose their jobs to it.",
+      "title": "Microsoft CEO Satya Nadella wants your PC to become 'an infinite software factory' in final blow to the app store concept — but I'm afraid businesses won't bite the AI apple",
+      "summary": "Microsoft wants every employee building apps with Copilot, but with 93% of tech leaders worried about vibe-coded tools, I don't expect IT to just hand over the keys.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/employees-are-faking-using-ai-at-work-to-impress-their-bosses",
-      "publishedAt": "2026-10-12T11:25:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/satya-nadella-wants-your-pc-to-become-an-infinite-software-factory-in-final-blow-to-the-app-store-concept-but-im-afraid-businesses-wont-bite-the-ai-apple",
+      "publishedAt": "2026-10-12T23:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6bfb10cc526d296d87da9aa41e7ed3b3-420-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The growing risk of SaaS sprawl requires a smarter approach to integration",
-      "summary": "How SaaS sprawl and AI agents are creating hidden security risks across enterprise environments.",
+      "title": "Kioxia beats its own world record with the fastest SSD ever produced — new PCIe 6.0 GP1 tops 20M IOPS and is part of Kioxia's plan to challenge DRAM in AI markets",
+      "summary": "Kioxia wants to take on DRAM with flash storage, and its newest SSD brings random-read speeds above 20 million IOPS.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-growing-risk-of-saas-sprawl-requires-a-smarter-approach-to-integration",
-      "publishedAt": "2026-10-12T11:09:26.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/kioxia-beats-its-own-world-record-with-the-fastest-ssd-ever-produced-new-pcie-6-0-gp1-tops-20m-iops-and-is-part-of-kioxias-plan-to-challenge-dram-in-ai-markets",
+      "publishedAt": "2026-10-12T22:50:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6iyyeuyrC4mt7HA73hyCyC-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Every new Apple product coming in 2026 & 2027",
-      "summary": "Macworld It’s been a huge year for Apple, with a wave of new products arriving throughout 2026. The year began with the MacBook Neo and iPhone 17e in March, followed by the new Mac mini and Mac Studio in August. September brought another major wave of launches at Apple’s “Surprise and Shine” event ,",
+      "title": "How to use Google Gemini to automate tasks",
+      "summary": "Spark is Google's AI tool that can perform tasks on your behalf.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
-      "publishedAt": "2026-10-12T10:34:03.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/671090-0-52838000-1791801256-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
+      "publishedAt": "2026-10-12T22:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-google-gemini-to-automate-tasks/l-intro-1791484788.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "CEOs say AI is helping their businesses be more productive — even if they're not always sure what's going on",
-      "summary": "CEOs agree that AI must be helping productivity somehow, but they're still searching for ROI metrics.",
+      "title": "Quote of the day by iRobot co-founder Rodney Brooks: \"The world is its own best model\"",
+      "summary": "The scientist challenged contemporary orthodoxy around robotics to lay the blueprint for the physical AI boom we expect in the coming years",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ceos-say-ai-is-helping-their-businesses-be-more-productive-even-if-theyre-not-always-sure-whats-going-on",
-      "publishedAt": "2026-10-12T10:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1350-80.jpg"
+      "source": "https://www.techradar.com/pro/quote-of-the-day-by-irobot-co-founder-rodney-brooks-the-world-is-its-own-best-model-laying-the-foundations-for-modern-physical-ai",
+      "publishedAt": "2026-10-12T22:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YQmdL7AzBCKzxVASTQQ3Th-1574-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple event guide: October ‘experience’ is confirmed",
-      "summary": "Macworld Apple’s September event may not have been Apple’s final event of 2026. Apple has confirmed a special “Welcome home” Experience for Tuesday, October 13, 2026, at 9am ET (2pm BST). Selected journalists have been invited to attend the gathering in New York, suggesting Apple is preparing to int",
+      "title": "Epic reportedly delays its Disney video game so it can be made using more AI",
+      "summary": "Developers were apparently ordered to use AI for both code and asset creation.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
-      "publishedAt": "2026-10-12T10:04:11.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-14556100-1791799545-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
+      "publishedAt": "2026-10-12T20:48:19.000Z",
+      "image": "https://www.engadget.com/img/gallery/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/l-intro-1791837940.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The more autonomous AI becomes, the more human strategy matters",
-      "summary": "The next phase of AI adoption requires human strategy at its core.",
+      "title": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
+      "summary": "Solutions or partial solutions to 372 outstanding math problems that have challenged human mathematicians for years have been published by OpenAI, leading to a call for AI developers to focus on human understanding",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-more-autonomous-ai-becomes-the-more-human-strategy-matters",
-      "publishedAt": "2026-10-12T09:54:34.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
+      "publishedAt": "2026-10-12T19:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/yydXo2zcn294B2Ko5EpaAW-2000-80.jpg"
     }
   ]
 }

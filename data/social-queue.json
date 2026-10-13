@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-10-12",
-  "created_at": "2026-10-12T13:10:41.677Z",
-  "source_feed_updated_at": "2026-10-12T13:10:37.629Z",
+  "queue_date": "2026-10-13",
+  "created_at": "2026-10-13T07:38:16.388Z",
+  "source_feed_updated_at": "2026-10-13T07:38:16.293Z",
   "items": [
     {
       "story_id": "https://www.techradar.com/computing/office-suites/developer-who-vibe-coded-free-adobe-clones-reveals-apps-to-take-down-microsoft-office-next-and-says-there-is-no-reason-to-save-broken-software",
@@ -25,12 +25,10 @@
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-12T05:20:00.000Z",
+      "scheduled_publish_at": "2026-10-13T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-12T13:11:20.623Z",
-        "message_id": 582,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-12T13:11:20.623Z"
       },
       "linkedin": {
         "status": "pending"
@@ -38,223 +36,92 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-10-12T13:16:03.374Z",
-        "message_id": "18345646762250755",
-        "media_kind": "source"
+        "message_id": "18345646762250755"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-computing-office-suites-developer-who-vibe-coded-free-ad-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-computing-office-suites-developer-who-vibe-coded-free-ad-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-12T13:16:12.936Z",
-        "message_id": "18115352501020621",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "source_url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "headline": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest rea",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "story_id": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
+      "source_url": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
+      "headline": "Welcome Home live blog: Follow the latest rumors before Apple’s big announcement",
+      "summary": "Macworld Today (Tuesday, October 13) at 9 am ET, Apple will launch a new crop of products as part of its Welcome Home launch. While we’re not expecting a proper keynote presentation to announce the new stuff, there should be a lot to see, with no fewer than three new products expected to arrive thi",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-26749000-1791875518-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-26749000-1791875518-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 623,
-        "aspectRatio": 1.926163723916533,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsofts-new-ai-chip-makes-it-less-reliant-on-nvidias-gpus",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-12T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-12T18:43:48.773Z",
-        "message_id": 583,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-12T19:05:08.915Z",
-        "message_id": "18399804820201351",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-12/Microsoft-s-new-AI-chip-makes-it-less-reliant-on-Nvidia-s-GPUs-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-theverge-com-news-1009465-microsoft-maia-300-chip-improvements-rollout-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-12T19:05:19.832Z",
-        "message_id": "17986610208080171",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-copilot-and-cowork-much-better-at-last",
-      "source_url": "https://www.techradar.com/pro/microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-copilot-and-cowork-much-better-at-last",
-      "headline": "Microsoft unveils Maia 300, its most powerful AI chip yet",
-      "summary": "Maia 300 is designed for the next generation of AI workloads, offering greater efficiency and power.",
-      "source_name": "and it might make using Teams, Copilot and Cowork much better at last",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/8ydm6cbAA5GBz9y3joy9uH-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/8ydm6cbAA5GBz9y3joy9uH-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1707,
-        "aspectRatio": 1.4997070884592854,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=welcome-home-live-blog-follow-the-latest-rumors-before-apples-big-announcement",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-12T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-13T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-12T21:45:22.806Z",
-        "message_id": 584,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-12T08:48:33.428Z"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
         "status": "published",
-        "published_at": "2026-10-12T21:46:36.829Z",
-        "message_id": "18411425200087195",
-        "media_kind": "source"
+        "published_at": "2026-10-12T09:12:38.849Z",
+        "message_id": "18445486777127240"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-microsoft-unveils-maia-300-its-most-powerful-ai-chip-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-macworld-com-article-3257851-apples-welcome-home-launch-live-blog-last-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-12T21:46:44.880Z",
-        "message_id": "18092047166679177",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "source_url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-12T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-13T00:59:51.315Z",
-        "message_id": 585,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-13T01:21:42.213Z",
-        "message_id": "18048702263818945",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-techcrunch-com-2026-10-12-former-plaud-exec-raises-26m-for-ai-app-that-lis-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-13T01:21:51.692Z",
-        "message_id": "17907789630332998",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/employees-are-faking-using-ai-at-work-to-impress-their-bosses",
-      "source_url": "https://www.techradar.com/pro/employees-are-faking-using-ai-at-work-to-impress-their-bosses",
-      "headline": "Employees are faking using AI at work to impress their bosses",
-      "summary": "Half of workers have lied about their AI usage or expertise, with the biggest concern that they'll lose their jobs to it.",
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/i-tested-google-geminis-new-nano-banana-2-1-image-generator-against-chatgpt-and-i-was-surprised-how-close-they-are",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/i-tested-google-geminis-new-nano-banana-2-1-image-generator-against-chatgpt-and-i-was-surprised-how-close-they-are",
+      "headline": "I tested Nano Banana 2.1 against ChatGPT, and it was close",
+      "summary": "I tested Google's new Nano Banana 2.1 against ChatGPT and discovered that the two AI generators are now surprisingly evenly matched",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ZjTrNoGGLynCFuf7douwQ3-1921-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZjTrNoGGLynCFuf7douwQ3-1921-80.png",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1921,
+        "height": 1080,
+        "aspectRatio": 1.7787037037037037,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=employees-are-faking-using-ai-at-work-to-impress-their-bosses",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-tested-nano-banana-2-1-against-chatgpt-and-it-was-close",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-12T13:20:00.000Z",
+      "scheduled_publish_at": "2026-10-13T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -270,7 +137,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-employees-are-faking-using-ai-at-work-to-impress-the-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-ai-platforms-assistants-i-tested-google-geminis-new-nano-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -280,13 +147,13 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/the-growing-risk-of-saas-sprawl-requires-a-smarter-approach-to-integration",
-      "source_url": "https://www.techradar.com/pro/the-growing-risk-of-saas-sprawl-requires-a-smarter-approach-to-integration",
-      "headline": "The growing risk of SaaS sprawl requires a smarter approach to integration",
-      "summary": "How SaaS sprawl and AI agents are creating hidden security risks across enterprise environments.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg",
+      "story_id": "https://www.techradar.com/pro/sick-employees-are-costing-the-uk-economy-over-gbp241bn-every-year-and-things-may-only-get-worse-as-ai-takes-over",
+      "source_url": "https://www.techradar.com/pro/sick-employees-are-costing-the-uk-economy-over-gbp241bn-every-year-and-things-may-only-get-worse-as-ai-takes-over",
+      "headline": "Sick employees are costing the UK economy over £241bn every year",
+      "summary": "New research suggests a workforce in poor health has a significant cost – and is estimated to cost £241 billion a year for the UK alone.",
+      "source_name": "and things may only get worse as AI takes over",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/BTpEWDEJ3K4LZAsqcmyJUV-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BTpEWDEJ3K4LZAsqcmyJUV-1920-80.png",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -296,11 +163,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-growing-risk-of-saas-sprawl-requires-a-smarter-approach-to-integration",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=sick-employees-are-costing-the-uk-economy-over-241bn-every-year",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-12T15:20:00.000Z",
+      "scheduled_publish_at": "2026-10-13T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -316,7 +183,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-the-growing-risk-of-saas-sprawl-requires-a-smarter-a-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-sick-employees-are-costing-the-uk-economy-over-gbp24-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -326,75 +193,26 @@
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
-      "source_url": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
-      "headline": "Every new Apple product coming in 2026 & 2027",
-      "summary": "Macworld It’s been a huge year for Apple, with a wave of new products arriving throughout 2026. The year began with the MacBook Neo and iPhone 17e in March, followed by the new Mac mini and Mac Studio in August. September brought another major wave of launches at Apple’s “Surprise and Shine” event,",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/671090-0-52838000-1791801256-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/671090-0-52838000-1791801256-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://www.techradar.com/pro/satya-nadella-wants-your-pc-to-become-an-infinite-software-factory-in-final-blow-to-the-app-store-concept-but-im-afraid-businesses-wont-bite-the-ai-apple",
+      "source_url": "https://www.techradar.com/pro/satya-nadella-wants-your-pc-to-become-an-infinite-software-factory-in-final-blow-to-the-app-store-concept-but-im-afraid-businesses-wont-bite-the-ai-apple",
+      "headline": "Microsoft CEO Satya Nadella wants your PC to become 'an infinite software factory' in final blow to the app store concept",
+      "summary": "Microsoft wants every employee building apps with Copilot, but with 93% of tech leaders worried about vibe-coded tools, I don't expect IT to just hand over the keys.",
+      "source_name": "but I'm afraid businesses won't bite the AI apple",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6bfb10cc526d296d87da9aa41e7ed3b3-420-80.jpg",
+      "image_url": "",
       "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
+        "valid": false,
+        "reason": "image-too-small",
+        "width": 420,
+        "height": 236
       },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=every-new-apple-product-coming-in-2026-and-2027",
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-ceo-satya-nadella-wants-your-pc-to-become-an-infinite-software-factory-in-final-",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-12T17:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-29T01:01:32.187Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-28T21:48:36.513Z",
-        "message_id": "18116621722889985"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-macworld-com-article-671090-new-apple-products-iphone-ipad-mac-watch-h-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/ceos-say-ai-is-helping-their-businesses-be-more-productive-even-if-theyre-not-always-sure-whats-going-on",
-      "source_url": "https://www.techradar.com/pro/ceos-say-ai-is-helping-their-businesses-be-more-productive-even-if-theyre-not-always-sure-whats-going-on",
-      "headline": "CEOs say AI is helping their businesses be more productive",
-      "summary": "CEOs agree that AI must be helping productivity somehow, but they're still searching for ROI metrics.",
-      "source_name": "even if they're not always sure what's going on",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1350-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1350-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1350,
-        "height": 759,
-        "aspectRatio": 1.7786561264822134,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ceos-say-ai-is-helping-their-businesses-be-more-productive",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-12T19:20:00.000Z",
+      "scheduled_publish_at": "2026-10-13T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -408,87 +226,40 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-ceos-say-ai-is-helping-their-businesses-be-more-prod-story.png",
+      "fallback_image_landscape": "assets/social-cards/2026-10-13/Microsoft-CEO-Satya-Nadella-wants-your-PC-to-become-an-infinite-software-factory-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-13/Microsoft-CEO-Satya-Nadella-wants-your-PC-to-become-an-infinite-software-factory-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-satya-nadella-wants-your-pc-to-become-an-infinite-so-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-missing-source"
         ]
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
-      "source_url": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
-      "headline": "Apple event guide: October ‘experience’ is confirmed",
-      "summary": "Macworld Apple’s September event may not have been Apple’s final event of 2026. Apple has confirmed a special “Welcome home” Experience for Tuesday, October 13, 2026, at 9am ET (2pm BST). Selected journalists have been invited to attend the gathering in New York, suggesting Apple is preparing to int",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-14556100-1791799545-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/672537-0-14556100-1791799545-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-event-guide-october-experience-is-confirmed",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-12T21:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-09-30T20:14:01.646Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-09-30T20:12:46.275Z",
-        "message_id": "18032367620673142"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-macworld-com-article-672537-when-is-apples-next-event-html-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/the-more-autonomous-ai-becomes-the-more-human-strategy-matters",
-      "source_url": "https://www.techradar.com/pro/the-more-autonomous-ai-becomes-the-more-human-strategy-matters",
-      "headline": "The more autonomous AI becomes, the more human strategy matters",
-      "summary": "The next phase of AI adoption requires human strategy at its core.",
+      "story_id": "https://www.techradar.com/pro/kioxia-beats-its-own-world-record-with-the-fastest-ssd-ever-produced-new-pcie-6-0-gp1-tops-20m-iops-and-is-part-of-kioxias-plan-to-challenge-dram-in-ai-markets",
+      "source_url": "https://www.techradar.com/pro/kioxia-beats-its-own-world-record-with-the-fastest-ssd-ever-produced-new-pcie-6-0-gp1-tops-20m-iops-and-is-part-of-kioxias-plan-to-challenge-dram-in-ai-markets",
+      "headline": "Kioxia beats its own world record with the fastest SSD ever produced — new PCIe 6.0 GP1 tops 20M IOPS and is part of Kioxia's plan to challenge DRAM in AI markets",
+      "summary": "Kioxia wants to take on DRAM with flash storage, and its newest SSD brings random-read speeds above 20 million IOPS.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6iyyeuyrC4mt7HA73hyCyC-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6iyyeuyrC4mt7HA73hyCyC-1920-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
+        "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-more-autonomous-ai-becomes-the-more-human-strategy-matters",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=kioxia-beats-its-own-world-record-with-the-fastest-ssd-ever-produced-new-pcie-6-0-gp1-tops",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-12T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-13T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -504,7 +275,191 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-12/https-www-techradar-com-pro-the-more-autonomous-ai-becomes-the-more-human-strate-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-kioxia-beats-its-own-world-record-with-the-fastest-s-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
+      "source_url": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
+      "headline": "How to use Google Gemini to automate tasks",
+      "summary": "Spark is Google's AI tool that can perform tasks on your behalf.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/how-to-use-google-gemini-to-automate-tasks/l-intro-1791484788.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/how-to-use-google-gemini-to-automate-tasks/l-intro-1791484788.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-use-google-gemini-to-automate-tasks",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-13T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-engadget-com-2281539-how-to-use-google-gemini-automate-tasks--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/quote-of-the-day-by-irobot-co-founder-rodney-brooks-the-world-is-its-own-best-model-laying-the-foundations-for-modern-physical-ai",
+      "source_url": "https://www.techradar.com/pro/quote-of-the-day-by-irobot-co-founder-rodney-brooks-the-world-is-its-own-best-model-laying-the-foundations-for-modern-physical-ai",
+      "headline": "Quote of the day by iRobot co-founder Rodney Brooks: \"The world is its own best model\"",
+      "summary": "The scientist challenged contemporary orthodoxy around robotics to lay the blueprint for the physical AI boom we expect in the coming years",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/YQmdL7AzBCKzxVASTQQ3Th-1574-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YQmdL7AzBCKzxVASTQQ3Th-1574-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1574,
+        "height": 885,
+        "aspectRatio": 1.7785310734463278,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=quote-of-the-day-by-irobot-co-founder-rodney-brooks-the-world-is-its-own-best-model",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-13T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-quote-of-the-day-by-irobot-co-founder-rodney-brooks--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
+      "source_url": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
+      "headline": "Epic reportedly delays its Disney video game so it can be made using more AI",
+      "summary": "Developers were apparently ordered to use AI for both code and asset creation.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/l-intro-1791837940.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/l-intro-1791837940.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-13T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-engadget-com-2284680-epic-reportedly-delays-its-disney-video-game-so-i-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
+      "source_url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
+      "headline": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
+      "summary": "Solutions or partial solutions to 372 outstanding math problems that have challenged human mathematicians for years have been published by OpenAI, leading to a call for AI developers to focus on human understanding",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/yydXo2zcn294B2Ko5EpaAW-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/yydXo2zcn294B2Ko5EpaAW-2000-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2000,
+        "height": 1125,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-c",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-13T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-has-openai-started-the-mathpocalypse-experts-say-ais-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
