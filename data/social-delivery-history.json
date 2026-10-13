@@ -5950,6 +5950,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-13T12:44:19.847Z",
+        "message_id": 586,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
