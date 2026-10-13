@@ -4120,6 +4120,20 @@
         "message_id": "18161473588495211",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-13T15:58:50.420Z",
+        "message_id": "18145452601576312",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-13T15:58:59.285Z",
+        "message_id": "18042621671832040",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
