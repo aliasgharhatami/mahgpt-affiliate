@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:38:16.293Z",
+  "updatedAt": "2026-10-13T12:43:17.958Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "Developer who vibe-coded free Adobe clones is taking down Microsoft Office",
-      "summary": "A 'game-changing' moment for the software industry? Vibe-coded clones of Word, Excel, and PowerPoint have popped up online.",
+      "title": "I tried those free AI-coded Adobe Creative Cloud clones, and they have some big problems",
+      "summary": "ArtCraft isn't ready to replace Adobe's Photoshop and Premiere yet.",
       "guide": "/partners/adobe.html",
-      "source": "https://www.techradar.com/computing/office-suites/developer-who-vibe-coded-free-adobe-clones-reveals-apps-to-take-down-microsoft-office-next-and-says-there-is-no-reason-to-save-broken-software",
-      "publishedAt": "2026-10-12T11:57:54.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Z3GSWDrEeXnDFDSGQz87Mg-2000-80.jpg"
+      "source": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
+      "publishedAt": "2026-10-13T08:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/GohVEZQ7wNAbxcMQvyv6ie-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Welcome Home live blog: Follow the latest rumors before Apple’s big announcement",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "summary": "The startup will sell some of its assets to Disney for $20 million.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "publishedAt": "2026-10-13T12:23:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Welcome Home live blog: HomeView hub, Apple TV 4K, HomePod mini, and more!",
       "summary": "Macworld Today (Tuesday, October 13) at 9 am ET, Apple will launch a new crop of products as part of its Welcome Home launch . While we’re not expecting a proper keynote presentation to announce the new stuff, there should be a lot to see, with no fewer than three new products expected to arrive thi",
       "guide": "/news/index.html",
       "source": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
-      "publishedAt": "2026-10-13T07:10:09.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-26749000-1791875518-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024"
+      "publishedAt": "2026-10-13T12:10:44.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-76845300-1791894979-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "I tested Nano Banana 2.1 against ChatGPT, and it was close",
-      "summary": "I tested Google's new Nano Banana 2.1 against ChatGPT and discovered that the two AI generators are now surprisingly evenly matched",
+      "title": "M6 MacBook Pro: Everything we know about Apple’s next laptop",
+      "summary": "Macworld Apple offers the MacBook Pro with three different chip options. It starts with the entry-level M5 chip, which you can only get in the 14-inch MacBook Pro. Apple also offers higher end M5 Pro and M5 Max chips for the 14- and 16-inch MacBook Pro, as it has since the M1 arrived in 2020. Apple ",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/i-tested-google-geminis-new-nano-banana-2-1-image-generator-against-chatgpt-and-i-was-surprised-how-close-they-are",
-      "publishedAt": "2026-10-13T06:58:56.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZjTrNoGGLynCFuf7douwQ3-1921-80.png"
+      "source": "https://www.macworld.com/article/3203946/m6-macbook-pro-rumors-release-date-specs.html",
+      "publishedAt": "2026-10-13T11:40:03.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3203946-0-39866000-1791891668-14inch-m4-macbook-pro-right-angle.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Sick employees are costing the UK economy over £241bn every year — and things may only get worse as AI takes over",
-      "summary": "New research suggests a workforce in poor health has a significant cost – and is estimated to cost £241 billion a year for the UK alone.",
+      "title": "Microsoft Surface Laptop Ultra RTX Spark pre-orders are now live",
+      "summary": "Nvidia RTX Spark laptop pre-orders are now live, with the Surface Laptop Ultra offering businesses serious local AI processing power.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/sick-employees-are-costing-the-uk-economy-over-gbp241bn-every-year-and-things-may-only-get-worse-as-ai-takes-over",
-      "publishedAt": "2026-10-13T06:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/BTpEWDEJ3K4LZAsqcmyJUV-1920-80.png"
+      "source": "https://www.techradar.com/pro/microsofts-rtx-spark-surface-laptop-ultra-pre-orders-open-to-challenge-the-macbook-pro-in-local-ai",
+      "publishedAt": "2026-10-13T11:18:53.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rdH2giCzCAWn98zkkqKC8d-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Microsoft CEO Satya Nadella wants your PC to become 'an infinite software factory' in final blow to the app store concept — but I'm afraid businesses won't bite the AI apple",
-      "summary": "Microsoft wants every employee building apps with Copilot, but with 93% of tech leaders worried about vibe-coded tools, I don't expect IT to just hand over the keys.",
+      "title": "Everyone's saying the same thing about Epic’s AI-first Disney game – and it's not good",
+      "summary": "Fans aren’t buying Epic’s promise of “MORE and BETTER stuff”.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/satya-nadella-wants-your-pc-to-become-an-infinite-software-factory-in-final-blow-to-the-app-store-concept-but-im-afraid-businesses-wont-bite-the-ai-apple",
-      "publishedAt": "2026-10-12T23:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6bfb10cc526d296d87da9aa41e7ed3b3-420-80.jpg"
+      "source": "https://www.creativebloq.com/news/everyones-saying-the-same-thing-about-epics-ai-first-disney-game-and-its-not-good",
+      "publishedAt": "2026-10-13T11:10:27.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5gZXcRceMpeH4mSD2Rzvmk-1600-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Kioxia beats its own world record with the fastest SSD ever produced — new PCIe 6.0 GP1 tops 20M IOPS and is part of Kioxia's plan to challenge DRAM in AI markets",
-      "summary": "Kioxia wants to take on DRAM with flash storage, and its newest SSD brings random-read speeds above 20 million IOPS.",
+      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+      "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/kioxia-beats-its-own-world-record-with-the-fastest-ssd-ever-produced-new-pcie-6-0-gp1-tops-20m-iops-and-is-part-of-kioxias-plan-to-challenge-dram-in-ai-markets",
-      "publishedAt": "2026-10-12T22:50:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6iyyeuyrC4mt7HA73hyCyC-1920-80.jpg"
+      "source": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "publishedAt": "2026-10-13T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/191:100/w_1280,c_limit/10122026_BE_Wikepidia_v2.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How to use Google Gemini to automate tasks",
-      "summary": "Spark is Google's AI tool that can perform tasks on your behalf.",
+      "title": "Mozilla launches Firefox Enterprise to give European firms more choice — new browser gives government, healthcare and finance more control over how they use the web, handle sensitive data and access AI tools",
+      "summary": "Mozilla slates 'choice' because most browsers run on Chromium – Firefox Enterprise gives enterprises more control.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
-      "publishedAt": "2026-10-12T22:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-google-gemini-to-automate-tasks/l-intro-1791484788.jpg"
+      "source": "https://www.techradar.com/pro/mozilla-launches-firefox-enterprise-to-give-european-firms-more-choice-new-browser-gives-government-healthcare-and-finance-more-control-over-how-they-use-the-web-handle-sensitive-data-and-access-ai-tools",
+      "publishedAt": "2026-10-13T10:59:04.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3cU8HGQhTnBoVN2593Sxk4-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Quote of the day by iRobot co-founder Rodney Brooks: \"The world is its own best model\"",
-      "summary": "The scientist challenged contemporary orthodoxy around robotics to lay the blueprint for the physical AI boom we expect in the coming years",
+      "title": "Character.AI files for bankruptcy",
+      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/quote-of-the-day-by-irobot-co-founder-rodney-brooks-the-world-is-its-own-best-model-laying-the-foundations-for-modern-physical-ai",
-      "publishedAt": "2026-10-12T22:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/YQmdL7AzBCKzxVASTQQ3Th-1574-80.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "publishedAt": "2026-10-13T10:32:23.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Epic reportedly delays its Disney video game so it can be made using more AI",
-      "summary": "Developers were apparently ordered to use AI for both code and asset creation.",
+      "title": "Enterprise IT infrastructure isn’t built for AI inference",
+      "summary": "Shift from AI training to real-time inference requires distributed, CPU-heavy infrastructure to handle agentic workloads.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
-      "publishedAt": "2026-10-12T20:48:19.000Z",
-      "image": "https://www.engadget.com/img/gallery/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/l-intro-1791837940.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
-      "summary": "Solutions or partial solutions to 372 outstanding math problems that have challenged human mathematicians for years have been published by OpenAI, leading to a call for AI developers to focus on human understanding",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
-      "publishedAt": "2026-10-12T19:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/yydXo2zcn294B2Ko5EpaAW-2000-80.jpg"
+      "source": "https://www.techradar.com/pro/enterprise-it-infrastructure-isnt-built-for-ai-inference",
+      "publishedAt": "2026-10-13T10:26:45.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg"
     }
   ]
 }
