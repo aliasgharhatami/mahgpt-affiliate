@@ -5984,6 +5984,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3203946/m6-macbook-pro-rumors-release-date-specs.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-13T19:53:08.071Z",
+        "message_id": 588,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
