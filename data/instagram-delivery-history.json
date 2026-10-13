@@ -4134,6 +4134,20 @@
         "message_id": "18042621671832040",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3203946/m6-macbook-pro-rumors-release-date-specs.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-13T19:54:02.435Z",
+        "message_id": "18090475154215180",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-13T19:54:09.990Z",
+        "message_id": "18146964577562451",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
