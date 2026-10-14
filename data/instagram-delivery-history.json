@@ -4190,6 +4190,20 @@
         "message_id": "18149978632552287",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-14T19:26:42.564Z",
+        "message_id": "18095325098406875",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-14T19:26:50.984Z",
+        "message_id": "18099188321408770",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
