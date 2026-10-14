@@ -6001,6 +6001,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/microsofts-rtx-spark-surface-laptop-ultra-pre-orders-open-to-challenge-the-macbook-pro-in-local-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-14T00:11:37.464Z",
+        "message_id": 589,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
