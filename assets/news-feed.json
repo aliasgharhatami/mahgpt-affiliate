@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T12:43:17.958Z",
+  "updatedAt": "2026-10-14T10:03:07.869Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -27,103 +27,103 @@
       "image": "https://cdn.mos.cms.futurecdn.net/GohVEZQ7wNAbxcMQvyv6ie-1920-80.jpg"
     },
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "summary": "The startup will sell some of its assets to Disney for $20 million.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "publishedAt": "2026-10-13T12:23:42.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672"
+      "tool": "hostinger",
+      "toolName": "Hostinger",
+      "category": "Partner watch",
+      "title": "Hostinger cut server response times by 35%– here's how to speed up your website even further",
+      "summary": "Mario Bañares Colastra, Head of Web Hosting at Hostinger, explains how they've sped up users' websites – and why it won't cost you anything",
+      "guide": "/partners/hostinger.html",
+      "source": "https://www.techradar.com/pro/hostinger-cut-server-response-times-by-35-percent-heres-how-to-speed-up-your-website-even-further",
+      "publishedAt": "2026-10-13T15:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/QPzNuVoKGp9mLqDeQL4snd-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Welcome Home live blog: HomeView hub, Apple TV 4K, HomePod mini, and more!",
-      "summary": "Macworld Today (Tuesday, October 13) at 9 am ET, Apple will launch a new crop of products as part of its Welcome Home launch . While we’re not expecting a proper keynote presentation to announce the new stuff, there should be a lot to see, with no fewer than three new products expected to arrive thi",
+      "title": "Men Can’t Stop Faking How Much They Know About AI",
+      "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
-      "publishedAt": "2026-10-13T12:10:44.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-76845300-1791894979-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+      "publishedAt": "2026-10-14T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ace9af8b7c3e684c0712364/191:100/w_1280,c_limit/Men-Cant-Stop-Lying-About-AI-Business938329806.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "M6 MacBook Pro: Everything we know about Apple’s next laptop",
-      "summary": "Macworld Apple offers the MacBook Pro with three different chip options. It starts with the entry-level M5 chip, which you can only get in the 14-inch MacBook Pro. Apple also offers higher end M5 Pro and M5 Max chips for the 14- and 16-inch MacBook Pro, as it has since the M1 arrived in 2020. Apple ",
+      "title": "UK firms are spending more on AI than ever before, but still think data is holding them back",
+      "summary": "AI spend is rising, and so are returns on investment, but there are still some core elements holding businesses back.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3203946/m6-macbook-pro-rumors-release-date-specs.html",
-      "publishedAt": "2026-10-13T11:40:03.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3203946-0-39866000-1791891668-14inch-m4-macbook-pro-right-angle.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/uk-firms-are-spending-more-on-ai-than-ever-before-but-still-think-data-is-holding-them-back",
+      "publishedAt": "2026-10-14T09:29:02.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/EvwjyiKQ3AfWBgAwjcAL4c-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Microsoft Surface Laptop Ultra RTX Spark pre-orders are now live",
-      "summary": "Nvidia RTX Spark laptop pre-orders are now live, with the Surface Laptop Ultra offering businesses serious local AI processing power.",
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/microsofts-rtx-spark-surface-laptop-ultra-pre-orders-open-to-challenge-the-macbook-pro-in-local-ai",
-      "publishedAt": "2026-10-13T11:18:53.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rdH2giCzCAWn98zkkqKC8d-2000-80.jpg"
+      "source": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aceaa51eba493f958015701/191:100/w_1280,c_limit/politics_ai_guardrails_removed_terrorist.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Everyone's saying the same thing about Epic’s AI-first Disney game – and it's not good",
-      "summary": "Fans aren’t buying Epic’s promise of “MORE and BETTER stuff”.",
+      "title": "AI isn't enough: Why store infrastructure will determine which retailers scale successfully",
+      "summary": "Retail AI can only scale if store connectivity keeps pace with growing operational demands.",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/news/everyones-saying-the-same-thing-about-epics-ai-first-disney-game-and-its-not-good",
-      "publishedAt": "2026-10-13T11:10:27.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/5gZXcRceMpeH4mSD2Rzvmk-1600-80.jpg"
+      "source": "https://www.techradar.com/pro/ai-isnt-enough-why-store-infrastructure-will-determine-which-retailers-scale-successfully",
+      "publishedAt": "2026-10-14T08:48:58.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk-2000-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
-      "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+      "title": "Learn ChatGPT and 50+ AI tools across 19 courses for $20",
+      "summary": "Macworld TL;DR: Learn ChatGPT and more than 50 AI tools across 19 courses with the ChatGPT & Automation E-Degree, now $19.99 (reg. $790). Free YouTube tutorials can teach you a ChatGPT prompt or two, but you have to piece the rest together yourself. This ChatGPT & Automation E-Degree gives you a str",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
-      "publishedAt": "2026-10-13T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/191:100/w_1280,c_limit/10122026_BE_Wikepidia_v2.jpg"
+      "source": "https://www.macworld.com/article/3259920/learn-chatgpt-and-50-ai-tools-across-19-courses-for-20.html",
+      "publishedAt": "2026-10-14T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3259920-0-81202800-1791964867-ChatGPT-Automation.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Mozilla launches Firefox Enterprise to give European firms more choice — new browser gives government, healthcare and finance more control over how they use the web, handle sensitive data and access AI tools",
-      "summary": "Mozilla slates 'choice' because most browsers run on Chromium – Firefox Enterprise gives enterprises more control.",
+      "title": "Apple will give your older Apple TV a new lease on life with Siri AI",
+      "summary": "Apple is bringing Siri AI to older Apple TV 4K models via a free software update, so you might not need to buy a new model to get its smarter assistant.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/mozilla-launches-firefox-enterprise-to-give-european-firms-more-choice-new-browser-gives-government-healthcare-and-finance-more-control-over-how-they-use-the-web-handle-sensitive-data-and-access-ai-tools",
-      "publishedAt": "2026-10-13T10:59:04.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3cU8HGQhTnBoVN2593Sxk4-1920-80.jpg"
+      "source": "https://www.techradar.com/televisions/streaming-devices/your-older-apple-tv-will-get-a-free-upgrade-soon-with-siri-ai-and-thats-a-big-deal",
+      "publishedAt": "2026-10-14T03:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/tYRfuNz54p6gBXHNQ3biK5-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Character.AI files for bankruptcy",
-      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots",
+      "title": "iOS 27: What’s new, what’s in the latest beta and what’s coming next",
+      "summary": "Macworld Apple unveiled iOS 27 at WWDC on June 8, 2026 , with the public release following on September 14. But more features are on the way, and the latest beta offers a preview of what’s coming next. iOS 27 mainly focuses on three key areas: Siri AI, a rebuilt assistant with its own dedicated app;",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "publishedAt": "2026-10-13T10:32:23.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
+      "publishedAt": "2026-10-14T01:50:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2986799-0-69953300-1791971588-ios-27-.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Enterprise IT infrastructure isn’t built for AI inference",
-      "summary": "Shift from AI training to real-time inference requires distributed, CPU-heavy infrastructure to handle agentic workloads.",
+      "title": "The hidden risks of AI's increasingly helpful agents",
+      "summary": "AI's increasingly independent AI agents promise to make life easier, but recent incidents show how even well-intentioned AI can become dangerous when it takes too much initiative",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/enterprise-it-infrastructure-isnt-built-for-ai-inference",
-      "publishedAt": "2026-10-13T10:26:45.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg"
+      "source": "https://www.techradar.com/ai-platforms-assistants/ai-can-be-dangerous-without-being-evil-why-ais-increasingly-helpful-agents-could-be-a-problem",
+      "publishedAt": "2026-10-14T01:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3tRBimMNAKcWDeDFdoqd2C-1920-80.jpg"
     }
   ]
 }

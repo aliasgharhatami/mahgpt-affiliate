@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-10-13",
-  "created_at": "2026-10-13T12:43:22.288Z",
-  "source_feed_updated_at": "2026-10-13T12:43:17.958Z",
+  "queue_date": "2026-10-14",
+  "created_at": "2026-10-14T10:03:07.967Z",
+  "source_feed_updated_at": "2026-10-14T10:03:07.869Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
@@ -25,12 +25,10 @@
       "detected_partner": "adobe",
       "product_url": "https://www.adobe.com/products/firefly.html",
       "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-13T05:20:00.000Z",
+      "scheduled_publish_at": "2026-10-14T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-13T12:44:19.847Z",
-        "message_id": 586,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-13T12:44:19.847Z"
       },
       "linkedin": {
         "status": "pending"
@@ -38,126 +36,14 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-10-13T12:46:55.631Z",
-        "message_id": "18027843839874857",
-        "media_kind": "source"
+        "message_id": "18027843839874857"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-creativebloq-com-news-i-tried-those-free-ai-coded-adobe-creative-cloud-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-13T12:47:05.058Z",
-        "message_id": "18161473588495211",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "source_url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "headline": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "summary": "The startup will sell some of its assets to Disney for $20 million.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 672,
-        "aspectRatio": 1.7857142857142858,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-13T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-13T15:17:31.311Z",
-        "message_id": 587,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-13T15:58:50.420Z",
-        "message_id": "18145452601576312",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-techcrunch-com-2026-10-13-just-5-years-in-interactive-chatbot-platform-cha-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-13T15:58:59.285Z",
-        "message_id": "18042621671832040",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
-      "source_url": "https://www.macworld.com/article/3257851/apples-welcome-home-launch-live-blog-last-minute-rumors.html",
-      "headline": "Welcome Home live blog: HomeView hub, Apple TV 4K, HomePod mini, and more!",
-      "summary": "Macworld Today (Tuesday, October 13) at 9 am ET, Apple will launch a new crop of products as part of its Welcome Home launch. While we’re not expecting a proper keynote presentation to announce the new stuff, there should be a lot to see, with no fewer than three new products expected to arrive thi",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-76845300-1791894979-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3257851-0-76845300-1791894979-apple-welcome-home-event.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=welcome-home-live-blog-homeview-hub-apple-tv-4k-homepod-mini-and-more",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-13T09:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-12T08:48:33.428Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-12T09:12:38.849Z",
-        "message_id": "18445486777127240"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-macworld-com-article-3257851-apples-welcome-home-launch-live-blog-last-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-14/https-www-creativebloq-com-news-i-tried-those-free-ai-coded-adobe-creative-cloud-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -167,70 +53,13 @@
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3203946/m6-macbook-pro-rumors-release-date-specs.html",
-      "source_url": "https://www.macworld.com/article/3203946/m6-macbook-pro-rumors-release-date-specs.html",
-      "headline": "M6 MacBook Pro: Everything we know about Apple’s next laptop",
-      "summary": "Macworld Apple offers the MacBook Pro with three different chip options. It starts with the entry-level M5 chip, which you can only get in the 14-inch MacBook Pro. Apple also offers higher end M5 Pro and M5 Max chips for the 14- and 16-inch MacBook Pro, as it has since the M1 arrived in 2020. Apple",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3203946-0-39866000-1791891668-14inch-m4-macbook-pro-right-angle.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3203946-0-39866000-1791891668-14inch-m4-macbook-pro-right-angle.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=m6-macbook-pro-everything-we-know-about-apples-next-laptop",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-13T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-13T19:53:08.071Z",
-        "message_id": 588,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-13T19:54:02.435Z",
-        "message_id": "18090475154215180",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-macworld-com-article-3203946-m6-macbook-pro-rumors-release-date-specs--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-13T19:54:09.990Z",
-        "message_id": "18146964577562451",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/microsofts-rtx-spark-surface-laptop-ultra-pre-orders-open-to-challenge-the-macbook-pro-in-local-ai",
-      "source_url": "https://www.techradar.com/pro/microsofts-rtx-spark-surface-laptop-ultra-pre-orders-open-to-challenge-the-macbook-pro-in-local-ai",
-      "headline": "Microsoft Surface Laptop Ultra RTX Spark pre-orders are now live",
-      "summary": "Nvidia RTX Spark laptop pre-orders are now live, with the Surface Laptop Ultra offering businesses serious local AI processing power.",
+      "story_id": "https://www.techradar.com/pro/hostinger-cut-server-response-times-by-35-percent-heres-how-to-speed-up-your-website-even-further",
+      "source_url": "https://www.techradar.com/pro/hostinger-cut-server-response-times-by-35-percent-heres-how-to-speed-up-your-website-even-further",
+      "headline": "Hostinger cut server response times by 35%– here's how to speed up your website even further",
+      "summary": "Mario Bañares Colastra, Head of Web Hosting at Hostinger, explains how they've sped up users' websites – and why it won't cost you anything",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rdH2giCzCAWn98zkkqKC8d-2000-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/rdH2giCzCAWn98zkkqKC8d-2000-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/QPzNuVoKGp9mLqDeQL4snd-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QPzNuVoKGp9mLqDeQL4snd-2000-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2000,
@@ -240,76 +69,21 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-surface-laptop-ultra-rtx-spark-pre-orders-are-now-live",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-13T13:20:00.000Z",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hostinger-cut-server-response-times-by-35-heres-how-to-speed-up-your-website-even-further",
+      "detected_partner": "hostinger",
+      "product_url": "https://www.hostinger.com/",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-10-14T07:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-10-14T00:11:37.464Z",
-        "message_id": 589,
+        "published_at": "2026-10-14T10:03:16.205Z",
+        "message_id": 590,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-14T00:18:35.624Z",
-        "message_id": "18010363493976471",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-microsofts-rtx-spark-surface-laptop-ultra-pre-orders-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-14T00:18:43.232Z",
-        "message_id": "17979091581123767",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.creativebloq.com/news/everyones-saying-the-same-thing-about-epics-ai-first-disney-game-and-its-not-good",
-      "source_url": "https://www.creativebloq.com/news/everyones-saying-the-same-thing-about-epics-ai-first-disney-game-and-its-not-good",
-      "headline": "Everyone's saying the same thing about Epic’s AI-first Disney game",
-      "summary": "Fans aren’t buying Epic’s promise of “MORE and BETTER stuff”.",
-      "source_name": "and it's not good",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/5gZXcRceMpeH4mSD2Rzvmk-1600-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/5gZXcRceMpeH4mSD2Rzvmk-1600-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 900,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=everyones-saying-the-same-thing-about-epics-ai-first-disney-game",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-13T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
         "status": "pending"
       },
       "x": {
@@ -317,7 +91,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-creativebloq-com-news-everyones-saying-the-same-thing-about-epics-ai-f-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-14/https-www-techradar-com-pro-hostinger-cut-server-response-times-by-35-percent-he-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -327,13 +101,13 @@
       }
     },
     {
-      "story_id": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
-      "source_url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
-      "headline": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
-      "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+      "story_id": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+      "source_url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+      "headline": "Men Can’t Stop Faking How Much They Know About AI",
+      "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
       "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/191:100/w_1280,c_limit/10122026_BE_Wikepidia_v2.jpg",
-      "image_url": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/191:100/w_1280,c_limit/10122026_BE_Wikepidia_v2.jpg",
+      "original_image_url": "https://media.wired.com/photos/6ace9af8b7c3e684c0712364/191:100/w_1280,c_limit/Men-Cant-Stop-Lying-About-AI-Business938329806.jpg",
+      "image_url": "https://media.wired.com/photos/6ace9af8b7c3e684c0712364/191:100/w_1280,c_limit/Men-Cant-Stop-Lying-About-AI-Business938329806.jpg",
       "image_validation": {
         "valid": true,
         "width": 1280,
@@ -343,11 +117,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=wikipedians-believed-ai-would-come-and-go-they-were-wrong",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=men-cant-stop-faking-how-much-they-know-about-ai",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-13T17:20:00.000Z",
+      "scheduled_publish_at": "2026-10-14T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -362,8 +136,8 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-13/Wikipedians-Believed-AI-Would-Come-and-Go-They-Were-Wrong-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-wired-com-story-book-excerpt-the-last-best-place-on-the-internet-wikip-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-14/Men-Can-t-Stop-Faking-How-Much-They-Know-About-AI-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-14/https-www-wired-com-story-men-cant-stop-faking-how-much-they-know-about-ai--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -374,13 +148,13 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/mozilla-launches-firefox-enterprise-to-give-european-firms-more-choice-new-browser-gives-government-healthcare-and-finance-more-control-over-how-they-use-the-web-handle-sensitive-data-and-access-ai-tools",
-      "source_url": "https://www.techradar.com/pro/mozilla-launches-firefox-enterprise-to-give-european-firms-more-choice-new-browser-gives-government-healthcare-and-finance-more-control-over-how-they-use-the-web-handle-sensitive-data-and-access-ai-tools",
-      "headline": "Mozilla launches Firefox Enterprise to give European firms more choice — new browser gives government, healthcare and finance more control over how they use the web, handle sensitive data and access AI tools",
-      "summary": "Mozilla slates 'choice' because most browsers run on Chromium – Firefox Enterprise gives enterprises more control.",
+      "story_id": "https://www.techradar.com/pro/uk-firms-are-spending-more-on-ai-than-ever-before-but-still-think-data-is-holding-them-back",
+      "source_url": "https://www.techradar.com/pro/uk-firms-are-spending-more-on-ai-than-ever-before-but-still-think-data-is-holding-them-back",
+      "headline": "UK firms are spending more on AI than ever before, but still think data is holding them back",
+      "summary": "AI spend is rising, and so are returns on investment, but there are still some core elements holding businesses back.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/3cU8HGQhTnBoVN2593Sxk4-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/3cU8HGQhTnBoVN2593Sxk4-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/EvwjyiKQ3AfWBgAwjcAL4c-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EvwjyiKQ3AfWBgAwjcAL4c-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -390,11 +164,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=mozilla-launches-firefox-enterprise-to-give-european-firms-more-choice-new-browser-gives-g",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=uk-firms-are-spending-more-on-ai-than-ever-before-but-still-think-data-is-holding-them-bac",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-13T19:20:00.000Z",
+      "scheduled_publish_at": "2026-10-14T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -410,7 +184,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-mozilla-launches-firefox-enterprise-to-give-european-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-14/https-www-techradar-com-pro-uk-firms-are-spending-more-on-ai-than-ever-before-bu-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -420,27 +194,27 @@
       }
     },
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "headline": "Character.AI files for bankruptcy",
-      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "story_id": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "source_url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "headline": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6aceaa51eba493f958015701/191:100/w_1280,c_limit/politics_ai_guardrails_removed_terrorist.jpg",
+      "image_url": "https://media.wired.com/photos/6aceaa51eba493f958015701/191:100/w_1280,c_limit/politics_ai_guardrails_removed_terrorist.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
         "instagramCompatible": false
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=character-ai-files-for-bankruptcy",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-13T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-14T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -455,8 +229,8 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-13/Character-AI-files-for-bankruptcy-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-theverge-com-ai-artificial-intelligence-1009802-character-ai-files-for-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-14/AI-Models-Can-Be-Easily-Modified-to-Assist-Terrorist-and-Extremist-Activity-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-14/https-www-wired-com-story-ai-models-can-be-easily-modified-to-assist-terrorist-a-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -467,27 +241,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/enterprise-it-infrastructure-isnt-built-for-ai-inference",
-      "source_url": "https://www.techradar.com/pro/enterprise-it-infrastructure-isnt-built-for-ai-inference",
-      "headline": "Enterprise IT infrastructure isn’t built for AI inference",
-      "summary": "Shift from AI training to real-time inference requires distributed, CPU-heavy infrastructure to handle agentic workloads.",
+      "story_id": "https://www.techradar.com/pro/ai-isnt-enough-why-store-infrastructure-will-determine-which-retailers-scale-successfully",
+      "source_url": "https://www.techradar.com/pro/ai-isnt-enough-why-store-infrastructure-will-determine-which-retailers-scale-successfully",
+      "headline": "AI isn't enough: Why store infrastructure will determine which retailers scale successfully",
+      "summary": "Retail AI can only scale if store connectivity keeps pace with growing operational demands.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk-2000-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
+        "width": 2000,
+        "height": 1125,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=enterprise-it-infrastructure-isnt-built-for-ai-inference",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-isnt-enough-why-store-infrastructure-will-determine-which-retailers-scale-successfully",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-13T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-14T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -503,7 +277,193 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-13/https-www-techradar-com-pro-enterprise-it-infrastructure-isnt-built-for-ai-infer-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-14/https-www-techradar-com-pro-ai-isnt-enough-why-store-infrastructure-will-determi-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3259920/learn-chatgpt-and-50-ai-tools-across-19-courses-for-20.html",
+      "source_url": "https://www.macworld.com/article/3259920/learn-chatgpt-and-50-ai-tools-across-19-courses-for-20.html",
+      "headline": "Learn ChatGPT and 50+ AI tools across 19 courses for $20",
+      "summary": "Macworld TL;DR: Learn ChatGPT and more than 50 AI tools across 19 courses with the ChatGPT & Automation E-Degree, now $19.99 (reg. $790). Free YouTube tutorials can teach you a ChatGPT prompt or two, but you have to piece the rest together yourself. This ChatGPT & Automation E-Degree gives you a str",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3259920-0-81202800-1791964867-ChatGPT-Automation.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3259920-0-81202800-1791964867-ChatGPT-Automation.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=learn-chatgpt-and-50-ai-tools-across-19-courses-for-20",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-14T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-14/https-www-macworld-com-article-3259920-learn-chatgpt-and-50-ai-tools-across-19-c-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/televisions/streaming-devices/your-older-apple-tv-will-get-a-free-upgrade-soon-with-siri-ai-and-thats-a-big-deal",
+      "source_url": "https://www.techradar.com/televisions/streaming-devices/your-older-apple-tv-will-get-a-free-upgrade-soon-with-siri-ai-and-thats-a-big-deal",
+      "headline": "Apple will give your older Apple TV a new lease on life with Siri AI",
+      "summary": "Apple is bringing Siri AI to older Apple TV 4K models via a free software update, so you might not need to buy a new model to get its smarter assistant.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/tYRfuNz54p6gBXHNQ3biK5-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tYRfuNz54p6gBXHNQ3biK5-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-will-give-your-older-apple-tv-a-new-lease-on-life-with-siri-ai",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-14T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-14/https-www-techradar-com-televisions-streaming-devices-your-older-apple-tv-will-g-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
+      "source_url": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
+      "headline": "iOS 27: What’s new, what’s in the latest beta and what’s coming next",
+      "summary": "Macworld Apple unveiled iOS 27 at WWDC on June 8, 2026, with the public release following on September 14. But more features are on the way, and the latest beta offers a preview of what’s coming next. iOS 27 mainly focuses on three key areas: Siri AI, a rebuilt assistant with its own dedicated app;",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2986799-0-69953300-1791971588-ios-27-.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2986799-0-69953300-1791971588-ios-27-.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 576,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ios-27-whats-new-whats-in-the-latest-beta-and-whats-coming-next",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-14T21:20:00.000Z",
+      "telegram": {
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-30T00:44:26.703Z"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-30T00:45:25.639Z",
+        "message_id": "18120967990897080"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-14/https-www-macworld-com-article-2986799-ios-27-features-compatiblity-siri-ai-upda-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/ai-platforms-assistants/ai-can-be-dangerous-without-being-evil-why-ais-increasingly-helpful-agents-could-be-a-problem",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/ai-can-be-dangerous-without-being-evil-why-ais-increasingly-helpful-agents-could-be-a-problem",
+      "headline": "The hidden risks of AI's increasingly helpful agents",
+      "summary": "AI's increasingly independent AI agents promise to make life easier, but recent incidents show how even well-intentioned AI can become dangerous when it takes too much initiative",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/3tRBimMNAKcWDeDFdoqd2C-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3tRBimMNAKcWDeDFdoqd2C-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-hidden-risks-of-ais-increasingly-helpful-agents",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-14T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-14/https-www-techradar-com-ai-platforms-assistants-ai-can-be-dangerous-without-bein-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

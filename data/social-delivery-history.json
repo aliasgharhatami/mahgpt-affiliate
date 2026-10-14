@@ -6018,6 +6018,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/hostinger-cut-server-response-times-by-35-percent-heres-how-to-speed-up-your-website-even-further": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-14T10:03:16.205Z",
+        "message_id": 590,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
