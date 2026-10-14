@@ -4232,6 +4232,20 @@
         "message_id": "17933973399401333",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/ai-isnt-enough-why-store-infrastructure-will-determine-which-retailers-scale-successfully": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-14T23:58:33.352Z",
+        "message_id": "18152923348535679",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-14T23:58:40.911Z",
+        "message_id": "17967137439195509",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
