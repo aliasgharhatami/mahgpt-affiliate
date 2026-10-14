@@ -6035,6 +6035,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/agentic-ai-is-breaking-the-traditional-software-development-rules": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-14T15:10:24.449Z",
+        "message_id": 591,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
