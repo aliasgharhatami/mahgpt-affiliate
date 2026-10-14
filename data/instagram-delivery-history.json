@@ -4148,6 +4148,20 @@
         "message_id": "18146964577562451",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/microsofts-rtx-spark-surface-laptop-ultra-pre-orders-open-to-challenge-the-macbook-pro-in-local-ai": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-14T00:18:35.624Z",
+        "message_id": "18010363493976471",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-14T00:18:43.232Z",
+        "message_id": "17979091581123767",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
