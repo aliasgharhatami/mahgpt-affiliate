@@ -4218,6 +4218,20 @@
         "message_id": "18096212429646698",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-14T22:30:45.846Z",
+        "message_id": "18113396765110557",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-14T22:30:54.763Z",
+        "message_id": "17933973399401333",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
