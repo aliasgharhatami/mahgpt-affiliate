@@ -6052,6 +6052,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-14T19:26:01.498Z",
+        "message_id": 592,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
