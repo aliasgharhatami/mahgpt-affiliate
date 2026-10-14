@@ -4162,6 +4162,20 @@
         "message_id": "17979091581123767",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/hostinger-cut-server-response-times-by-35-percent-heres-how-to-speed-up-your-website-even-further": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-14T10:15:25.837Z",
+        "message_id": "18108530939250856",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-14T10:15:36.788Z",
+        "message_id": "18100023005636657",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
