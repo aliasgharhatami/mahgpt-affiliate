@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T10:03:07.869Z",
+  "updatedAt": "2026-10-14T10:13:50.770Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -36,6 +36,17 @@
       "source": "https://www.techradar.com/pro/hostinger-cut-server-response-times-by-35-percent-heres-how-to-speed-up-your-website-even-further",
       "publishedAt": "2026-10-13T15:05:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/QPzNuVoKGp9mLqDeQL4snd-2000-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Agentic AI is breaking the traditional software development rules",
+      "summary": "To scale an enterprise workforce of AI agents, organizations need to combine the principles of employee management with software development rigor.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/agentic-ai-is-breaking-the-traditional-software-development-rules",
+      "publishedAt": "2026-10-14T10:05:53.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -113,17 +124,6 @@
       "source": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
       "publishedAt": "2026-10-14T01:50:00.000Z",
       "image": "https://www.macworld.com/wp-content/uploads/2026/10/2986799-0-69953300-1791971588-ios-27-.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "The hidden risks of AI's increasingly helpful agents",
-      "summary": "AI's increasingly independent AI agents promise to make life easier, but recent incidents show how even well-intentioned AI can become dangerous when it takes too much initiative",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/ai-can-be-dangerous-without-being-evil-why-ais-increasingly-helpful-agents-could-be-a-problem",
-      "publishedAt": "2026-10-14T01:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3tRBimMNAKcWDeDFdoqd2C-1920-80.jpg"
     }
   ]
 }
