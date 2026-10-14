@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-10-14",
-  "created_at": "2026-10-14T10:03:07.967Z",
-  "source_feed_updated_at": "2026-10-14T10:03:07.869Z",
+  "created_at": "2026-10-14T10:13:54.764Z",
+  "source_feed_updated_at": "2026-10-14T10:13:50.770Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
@@ -75,10 +75,8 @@
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-10-14T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-14T10:03:16.205Z",
-        "message_id": 590,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-14T10:03:16.205Z"
       },
       "linkedin": {
         "status": "pending"
@@ -92,6 +90,52 @@
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
       "fallback_image_story": "assets/social-cards/2026-10-14/https-www-techradar-com-pro-hostinger-cut-server-response-times-by-35-percent-he-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/agentic-ai-is-breaking-the-traditional-software-development-rules",
+      "source_url": "https://www.techradar.com/pro/agentic-ai-is-breaking-the-traditional-software-development-rules",
+      "headline": "Agentic AI is breaking the traditional software development rules",
+      "summary": "To scale an enterprise workforce of AI agents, organizations need to combine the principles of employee management with software development rigor.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=agentic-ai-is-breaking-the-traditional-software-development-rules",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-14T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-14/https-www-techradar-com-pro-agentic-ai-is-breaking-the-traditional-software-deve-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -121,7 +165,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-14T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-14T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -168,7 +212,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-14T11:20:00.000Z",
+      "scheduled_publish_at": "2026-10-14T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -214,7 +258,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-14T13:20:00.000Z",
+      "scheduled_publish_at": "2026-10-14T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -261,7 +305,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-14T15:20:00.000Z",
+      "scheduled_publish_at": "2026-10-14T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -307,7 +351,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-14T17:20:00.000Z",
+      "scheduled_publish_at": "2026-10-14T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -353,7 +397,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-14T19:20:00.000Z",
+      "scheduled_publish_at": "2026-10-14T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -399,7 +443,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-14T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-14T23:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-09-30T00:44:26.703Z"
@@ -418,52 +462,6 @@
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
       "fallback_image_story": "assets/social-cards/2026-10-14/https-www-macworld-com-article-2986799-ios-27-features-compatiblity-siri-ai-upda-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/ai-can-be-dangerous-without-being-evil-why-ais-increasingly-helpful-agents-could-be-a-problem",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/ai-can-be-dangerous-without-being-evil-why-ais-increasingly-helpful-agents-could-be-a-problem",
-      "headline": "The hidden risks of AI's increasingly helpful agents",
-      "summary": "AI's increasingly independent AI agents promise to make life easier, but recent incidents show how even well-intentioned AI can become dangerous when it takes too much initiative",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/3tRBimMNAKcWDeDFdoqd2C-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/3tRBimMNAKcWDeDFdoqd2C-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-hidden-risks-of-ais-increasingly-helpful-agents",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-14T23:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-14/https-www-techradar-com-ai-platforms-assistants-ai-can-be-dangerous-without-bein-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
