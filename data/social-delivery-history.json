@@ -6103,6 +6103,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/ai-isnt-enough-why-store-infrastructure-will-determine-which-retailers-scale-successfully": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-14T23:57:22.121Z",
+        "message_id": 595,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
