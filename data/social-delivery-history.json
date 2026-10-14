@@ -6069,6 +6069,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/uk-firms-are-spending-more-on-ai-than-ever-before-but-still-think-data-is-holding-them-back": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-14T20:43:56.879Z",
+        "message_id": 593,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
