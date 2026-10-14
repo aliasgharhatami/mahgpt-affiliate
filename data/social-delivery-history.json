@@ -6086,6 +6086,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-14T22:31:25.478Z",
+        "message_id": 594,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
