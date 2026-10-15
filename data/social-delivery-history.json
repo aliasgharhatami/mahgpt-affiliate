@@ -6188,6 +6188,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/uk-businesses-are-more-excited-about-ai-than-ever-before-but-many-are-split-on-where-the-responsibility-lies": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-15T22:26:29.803Z",
+        "message_id": 600,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
