@@ -6137,6 +6137,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/computing/laptops/acer-swift-spin-14-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-15T15:14:55.409Z",
+        "message_id": 597,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
