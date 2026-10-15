@@ -6154,6 +6154,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/what-it-takes-to-move-enterprise-ai-beyond-the-chatbot": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-15T19:14:27.693Z",
+        "message_id": 598,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
