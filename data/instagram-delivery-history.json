@@ -4246,6 +4246,20 @@
         "message_id": "17967137439195509",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/hostinger-reach-email-hosting-review": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-15T10:02:36.431Z",
+        "message_id": "17871254829646297",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-15T10:02:43.885Z",
+        "message_id": "18174303670457676",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
