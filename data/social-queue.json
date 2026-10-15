@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-10-15",
-  "created_at": "2026-10-15T05:38:51.964Z",
-  "source_feed_updated_at": "2026-10-15T05:38:51.867Z",
+  "created_at": "2026-10-15T09:55:13.267Z",
+  "source_feed_updated_at": "2026-10-15T09:55:09.445Z",
   "items": [
     {
       "story_id": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
@@ -53,6 +53,238 @@
       }
     },
     {
+      "story_id": "https://www.techradar.com/pro/hostinger-reach-email-hosting-review",
+      "source_url": "https://www.techradar.com/pro/hostinger-reach-email-hosting-review",
+      "headline": "Hostinger Reach email hosting review",
+      "summary": "I put email marketing platform Hostinger Reach to the test, and while I like Reach’s AI shortcuts, but I wouldn’t put my newsletter on autopilot just yet.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/GPq5LyjZdDyZeWY9A49o9j-2100-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/GPq5LyjZdDyZeWY9A49o9j-2100-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 2100,
+        "height": 900,
+        "aspectRatio": 2.3333333333333335,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hostinger-reach-email-hosting-review",
+      "detected_partner": "hostinger",
+      "product_url": "https://www.hostinger.com/",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-10-15T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-15/Hostinger-Reach-email-hosting-review-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-techradar-com-pro-hostinger-reach-email-hosting-review-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/computing/laptops/acer-swift-spin-14-ai",
+      "source_url": "https://www.techradar.com/computing/laptops/acer-swift-spin-14-ai",
+      "headline": "Acer Swift Spin 14 AI is attractive, powerful with a great battery... and a bit pricey",
+      "summary": "The Acer Swift Spin 14 AI is a good looking laptop with a surprising amount of power and battery life. It’s also got AI, a 360-degree hinge, and a price tag to match.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/SXtcqBvfFv2E4mkSJdTH6f-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/SXtcqBvfFv2E4mkSJdTH6f-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1097,
+        "aspectRatio": 2.333637192342753,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=acer-swift-spin-14-ai-is-attractive-powerful-with-a-great-battery-and-a-bit-pricey",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-15T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-15/Acer-Swift-Spin-14-AI-is-attractive-powerful-with-a-great-battery-and-a-bit-pric-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-techradar-com-computing-laptops-acer-swift-spin-14-ai-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/what-it-takes-to-move-enterprise-ai-beyond-the-chatbot",
+      "source_url": "https://www.techradar.com/pro/what-it-takes-to-move-enterprise-ai-beyond-the-chatbot",
+      "headline": "What it takes to move enterprise AI beyond the chatbot",
+      "summary": "If AI is given a more active role in business processes, this could increase efficiency and lower costs.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=what-it-takes-to-move-enterprise-ai-beyond-the-chatbot",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-15T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-techradar-com-pro-what-it-takes-to-move-enterprise-ai-beyond-the-chatb-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.creativebloq.com/news/elon-musks-attempts-to-rebrand-ai-slop-are-hilarious-but-they-betray-a-deeper-truth",
+      "source_url": "https://www.creativebloq.com/news/elon-musks-attempts-to-rebrand-ai-slop-are-hilarious-but-they-betray-a-deeper-truth",
+      "headline": "No amount of renaming can fix AI's growing reputation problem.",
+      "summary": "the company or product is highlighted in a current technology report.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/euaMdgeFpst5UrvwfDjssc-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/euaMdgeFpst5UrvwfDjssc-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=no-amount-of-renaming-can-fix-ais-growing-reputation-problem",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-15T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-creativebloq-com-news-elon-musks-attempts-to-rebrand-ai-slop-are-hilar-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/uk-businesses-are-more-excited-about-ai-than-ever-before-but-many-are-split-on-where-the-responsibility-lies",
+      "source_url": "https://www.techradar.com/pro/uk-businesses-are-more-excited-about-ai-than-ever-before-but-many-are-split-on-where-the-responsibility-lies",
+      "headline": "UK businesses are more excited about AI than ever before",
+      "summary": "AI agents offer great potential, but need to be governed effectively, IBM report finds.",
+      "source_name": "but many are split on where the responsibility lies",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/dyqv6mszWWV7hVh4EWjzKT-970-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/dyqv6mszWWV7hVh4EWjzKT-970-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 970,
+        "height": 549,
+        "aspectRatio": 1.7668488160291438,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=uk-businesses-are-more-excited-about-ai-than-ever-before",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-15T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-techradar-com-pro-uk-businesses-are-more-excited-about-ai-than-ever-be-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
       "story_id": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
       "source_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
       "headline": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
@@ -73,7 +305,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-15T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -119,7 +351,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-15T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -165,7 +397,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T11:20:00.000Z",
+      "scheduled_publish_at": "2026-10-15T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -212,238 +444,6 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T13:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-techradar-com-pro-ibuypower-enters-ai-pc-market-with-gorgeous-usd3-999-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/home/smart-home-hubs/ive-tried-apples-homeview-and-it-could-bring-my-smart-home-together-with-less-iphone-time",
-      "source_url": "https://www.techradar.com/home/smart-home-hubs/ive-tried-apples-homeview-and-it-could-bring-my-smart-home-together-with-less-iphone-time",
-      "headline": "I've tried Apple's HomeView, and it could help me do more at home without reaching for my iPhone",
-      "summary": "I've spent some time with Apple's HomeView smart display, exploring its personalized interface, smart home controls, and new Siri AI features. It could finally bring Apple's ecosystem together and help me reach for my iPhone less often, but Siri still has some work to do.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/jssgEkn3btEMQ2YGCpRLUQ-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/jssgEkn3btEMQ2YGCpRLUQ-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1439,
-        "aspectRatio": 1.7790132036136206,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ive-tried-apples-homeview-and-it-could-help-me-do-more-at-home-without-reaching-for-my-iph",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-techradar-com-home-smart-home-hubs-ive-tried-apples-homeview-and-it-co-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "headline": "The AI race is back on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&strip=all&crop=0%2C10.669135487166%2C100%2C78.661729025667&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&strip=all&crop=0%2C10.669135487166%2C100%2C78.661729025667&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 622,
-        "aspectRatio": 1.9292604501607717,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-race-is-back-on",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-15/The-AI-race-is-back-on-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-theverge-com-ai-artificial-intelligence-1011311-the-ai-race-is-back-on-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "source_url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "headline": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy c",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=now-that-character-ai-is-going-bankrupt-what-happens-to-all-of-its-users-and-8217-data",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-15/Now-that-Character-AI-is-going-bankrupt-what-happens-to-all-of-its-users-8217-da-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-theverge-com-policy-1011417-new-york-ag-characterai-bankruptcy-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music/",
-      "source_url": "https://www.engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music/",
-      "headline": "Deezer will let listeners completely filter out AI music",
-      "summary": "the company or product is highlighted in a current technology report.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/deezer-will-let-listeners-completely-filter-out-ai-music/l-intro-1792003465.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/deezer-will-let-listeners-completely-filter-out-ai-music/l-intro-1792003465.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 898,
-        "aspectRatio": 1.78173719376392,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=deezer-will-let-listeners-completely-filter-out-ai-music",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-engadget-com-2286898-deezer-will-let-listeners-completely-filter-out-a-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "source_url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "headline": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080",
-      "image_validation": {
-        "valid": true,
-        "width": 1080,
-        "height": 1080,
-        "aspectRatio": 1,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
       "scheduled_publish_at": "2026-10-15T23:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -460,7 +460,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-techcrunch-com-2026-10-14-youtube-music-launches-new-labels-as-ai-generate-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-techradar-com-pro-ibuypower-enters-ai-pc-market-with-gorgeous-usd3-999-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
