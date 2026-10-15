@@ -4316,6 +4316,20 @@
         "message_id": "17955057492286206",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-15T23:42:48.611Z",
+        "message_id": "18440490322179891",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-15T23:42:56.995Z",
+        "message_id": "18148539427563212",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
