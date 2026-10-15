@@ -4274,6 +4274,20 @@
         "message_id": "18221070619344780",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/what-it-takes-to-move-enterprise-ai-beyond-the-chatbot": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-15T19:12:09.737Z",
+        "message_id": "18211381063364681",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-15T19:12:19.763Z",
+        "message_id": "18108773968916871",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
