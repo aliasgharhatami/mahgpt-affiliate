@@ -6120,6 +6120,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/hostinger-reach-email-hosting-review": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-15T09:55:51.538Z",
+        "message_id": 596,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
