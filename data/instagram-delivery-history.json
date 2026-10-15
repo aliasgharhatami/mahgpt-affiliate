@@ -4260,6 +4260,20 @@
         "message_id": "18174303670457676",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/computing/laptops/acer-swift-spin-14-ai": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-15T15:13:27.653Z",
+        "message_id": "18065349299787379",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-15T15:13:36.274Z",
+        "message_id": "18221070619344780",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
