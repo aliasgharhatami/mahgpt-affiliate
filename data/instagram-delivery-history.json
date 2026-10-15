@@ -4302,6 +4302,20 @@
         "message_id": "18136587157728197",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/uk-businesses-are-more-excited-about-ai-than-ever-before-but-many-are-split-on-where-the-responsibility-lies": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-15T22:21:16.563Z",
+        "message_id": "18115899380030193",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-15T22:21:26.784Z",
+        "message_id": "17955057492286206",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
