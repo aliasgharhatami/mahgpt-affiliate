@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T10:13:50.770Z",
+  "updatedAt": "2026-10-15T05:38:51.867Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -27,103 +27,103 @@
       "image": "https://cdn.mos.cms.futurecdn.net/GohVEZQ7wNAbxcMQvyv6ie-1920-80.jpg"
     },
     {
-      "tool": "hostinger",
-      "toolName": "Hostinger",
-      "category": "Partner watch",
-      "title": "Hostinger cut server response times by 35%– here's how to speed up your website even further",
-      "summary": "Mario Bañares Colastra, Head of Web Hosting at Hostinger, explains how they've sped up users' websites – and why it won't cost you anything",
-      "guide": "/partners/hostinger.html",
-      "source": "https://www.techradar.com/pro/hostinger-cut-server-response-times-by-35-percent-heres-how-to-speed-up-your-website-even-further",
-      "publishedAt": "2026-10-13T15:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/QPzNuVoKGp9mLqDeQL4snd-2000-80.jpg"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "publishedAt": "2026-10-15T01:01:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Agentic AI is breaking the traditional software development rules",
-      "summary": "To scale an enterprise workforce of AI agents, organizations need to combine the principles of employee management with software development rigor.",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/agentic-ai-is-breaking-the-traditional-software-development-rules",
-      "publishedAt": "2026-10-14T10:05:53.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Men Can’t Stop Faking How Much They Know About AI",
-      "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "summary": "Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants m",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
-      "publishedAt": "2026-10-14T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6ace9af8b7c3e684c0712364/191:100/w_1280,c_limit/Men-Cant-Stop-Lying-About-AI-Business938329806.jpg"
+      "source": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "publishedAt": "2026-10-14T22:53:31.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "UK firms are spending more on AI than ever before, but still think data is holding them back",
-      "summary": "AI spend is rising, and so are returns on investment, but there are still some core elements holding businesses back.",
+      "title": "iBuyPower enters AI PC market with gorgeous $3,999 AMD 'Gorgon Halo' PC with a leather strap and 128GB RAM — shame that you can't cluster it yet",
+      "summary": "iBuyPower's upcoming AI mini PC combines AMD's 16-core processor, 128GB memory, integrated graphics, and support for up to 8TB of storage.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/uk-firms-are-spending-more-on-ai-than-ever-before-but-still-think-data-is-holding-them-back",
-      "publishedAt": "2026-10-14T09:29:02.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/EvwjyiKQ3AfWBgAwjcAL4c-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/ibuypower-enters-ai-pc-market-with-gorgeous-usd3-999-amd-gorgon-halo-pc-with-a-leather-strap-and-128gb-ram-shame-that-you-cant-cluster-it-yet",
+      "publishedAt": "2026-10-14T22:45:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pujZP5r8fdCc7aF66zkQt7-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+      "title": "I've tried Apple's HomeView, and it could help me do more at home without reaching for my iPhone",
+      "summary": "I've spent some time with Apple's HomeView smart display, exploring its personalized interface, smart home controls, and new Siri AI features. It could finally bring Apple's ecosystem together and help me reach for my iPhone less often, but Siri still has some work to do.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-      "publishedAt": "2026-10-14T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aceaa51eba493f958015701/191:100/w_1280,c_limit/politics_ai_guardrails_removed_terrorist.jpg"
+      "source": "https://www.techradar.com/home/smart-home-hubs/ive-tried-apples-homeview-and-it-could-bring-my-smart-home-together-with-less-iphone-time",
+      "publishedAt": "2026-10-14T21:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/jssgEkn3btEMQ2YGCpRLUQ-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI isn't enough: Why store infrastructure will determine which retailers scale successfully",
-      "summary": "Retail AI can only scale if store connectivity keeps pace with growing operational demands.",
+      "title": "The AI race is back on",
+      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish ",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ai-isnt-enough-why-store-infrastructure-will-determine-which-retailers-scale-successfully",
-      "publishedAt": "2026-10-14T08:48:58.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk-2000-80.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "publishedAt": "2026-10-14T19:06:03.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&strip=all&crop=0%2C10.669135487166%2C100%2C78.661729025667&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Learn ChatGPT and 50+ AI tools across 19 courses for $20",
-      "summary": "Macworld TL;DR: Learn ChatGPT and more than 50 AI tools across 19 courses with the ChatGPT & Automation E-Degree, now $19.99 (reg. $790). Free YouTube tutorials can teach you a ChatGPT prompt or two, but you have to piece the rest together yourself. This ChatGPT & Automation E-Degree gives you a str",
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy c",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3259920/learn-chatgpt-and-50-ai-tools-across-19-courses-for-20.html",
-      "publishedAt": "2026-10-14T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3259920-0-81202800-1791964867-ChatGPT-Automation.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "publishedAt": "2026-10-14T18:47:54.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple will give your older Apple TV a new lease on life with Siri AI",
-      "summary": "Apple is bringing Siri AI to older Apple TV 4K models via a free software update, so you might not need to buy a new model to get its smarter assistant.",
+      "title": "Deezer will let listeners completely filter out AI music",
+      "summary": "Good riddance.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/televisions/streaming-devices/your-older-apple-tv-will-get-a-free-upgrade-soon-with-siri-ai-and-thats-a-big-deal",
-      "publishedAt": "2026-10-14T03:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/tYRfuNz54p6gBXHNQ3biK5-2560-80.jpg"
+      "source": "https://www.engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music/",
+      "publishedAt": "2026-10-14T18:45:06.000Z",
+      "image": "https://www.engadget.com/img/gallery/deezer-will-let-listeners-completely-filter-out-ai-music/l-intro-1792003465.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "iOS 27: What’s new, what’s in the latest beta and what’s coming next",
-      "summary": "Macworld Apple unveiled iOS 27 at WWDC on June 8, 2026 , with the public release following on September 14. But more features are on the way, and the latest beta offers a preview of what’s coming next. iOS 27 mainly focuses on three key areas: Siri AI, a rebuilt assistant with its own dedicated app;",
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
-      "publishedAt": "2026-10-14T01:50:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2986799-0-69953300-1791971588-ios-27-.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "publishedAt": "2026-10-14T18:23:46.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
     }
   ]
 }
