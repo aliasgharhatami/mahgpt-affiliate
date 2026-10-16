@@ -4330,6 +4330,20 @@
         "message_id": "18148539427563212",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3262041/no-metas-muse-will-not-run-on-your-mac.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-16T09:55:22.628Z",
+        "message_id": "17964292137237846",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-16T09:55:30.951Z",
+        "message_id": "18152335798551478",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
