@@ -6307,6 +6307,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/us-navy-could-see-first-vtol-x-bat-uav-by-end-of-this-month-as-external-funding-reaches-usd200-million-shield-ais-fighter-sized-drone-can-fly-2000-nautical-miles-reach-50-000-feet": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-16T23:38:25.046Z",
+        "message_id": 607,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
