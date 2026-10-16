@@ -4372,6 +4372,20 @@
         "message_id": "18163428862496876",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/uk-small-businesses-are-spending-big-on-anthropic-but-openai-isnt-far-behind-as-expenditure-on-ai-tools-hits-new-high": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-16T19:59:08.442Z",
+        "message_id": "18113059516875722",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-16T19:59:15.750Z",
+        "message_id": "18159705787503555",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
