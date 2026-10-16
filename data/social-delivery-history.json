@@ -6256,6 +6256,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-16T18:24:53.475Z",
+        "message_id": 604,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
