@@ -4386,6 +4386,20 @@
         "message_id": "18159705787503555",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-16T21:31:01.661Z",
+        "message_id": "18627572746009019",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-16T21:31:09.639Z",
+        "message_id": "18115366529166225",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
