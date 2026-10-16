@@ -6239,6 +6239,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/ai-adoption-has-a-talent-problem-heres-how-to-solve-it": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-16T14:38:49.999Z",
+        "message_id": 603,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
