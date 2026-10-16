@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T09:55:09.445Z",
+  "updatedAt": "2026-10-16T09:49:57.036Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "I tried those free AI-coded Adobe Creative Cloud clones, and they have some big problems",
-      "summary": "ArtCraft isn't ready to replace Adobe's Photoshop and Premiere yet.",
-      "guide": "/partners/adobe.html",
-      "source": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
-      "publishedAt": "2026-10-13T08:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/GohVEZQ7wNAbxcMQvyv6ie-1920-80.jpg"
-    },
-    {
-      "tool": "hostinger",
-      "toolName": "Hostinger",
-      "category": "Partner watch",
-      "title": "Hostinger Reach email hosting review",
-      "summary": "I put email marketing platform Hostinger Reach to the test, and while I like Reach’s AI shortcuts, but I wouldn’t put my newsletter on autopilot just yet.",
-      "guide": "/partners/hostinger.html",
-      "source": "https://www.techradar.com/pro/hostinger-reach-email-hosting-review",
-      "publishedAt": "2026-10-15T07:49:24.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/GPq5LyjZdDyZeWY9A49o9j-2100-80.png"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "No, Meta’s Muse will not run on your Mac",
+      "summary": "Macworld You may have seen the headlines by now. “ Apple and Meta bury the hatchet — for AI “ “ Apple and Meta team up to make Muse AI model run on Mac computers “ “ Meta and Apple team up to make Muse AI models run better on Macs “ “ Meta launches an open-weight AI model that runs on Macs “ None of",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3262041/no-metas-muse-will-not-run-on-your-mac.html",
+      "publishedAt": "2026-10-16T09:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3262041-0-38742700-1792141270-Meta-Muse-Charm.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Acer Swift Spin 14 AI is attractive, powerful with a great battery... and a bit pricey",
-      "summary": "The Acer Swift Spin 14 AI is a good looking laptop with a surprising amount of power and battery life. It’s also got AI, a 360-degree hinge, and a price tag to match.",
+      "title": "AI adoption has a talent problem - here’s how to solve it",
+      "summary": "Why human judgement and AI-native talent will determine which businesses turn adoption into advantage.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/computing/laptops/acer-swift-spin-14-ai",
-      "publishedAt": "2026-10-15T09:17:45.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/SXtcqBvfFv2E4mkSJdTH6f-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/ai-adoption-has-a-talent-problem-heres-how-to-solve-it",
+      "publishedAt": "2026-10-16T08:58:12.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/hvkxS6YQxDoEiTLwWEaPJL-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "What it takes to move enterprise AI beyond the chatbot",
-      "summary": "If AI is given a more active role in business processes, this could increase efficiency and lower costs.",
+      "title": "Gmail's Live AI search feature arrives for Google AI subscribers",
+      "summary": "Gmail's search can be frustrating and basic, but Google is finally smartening it up for AI plan subscribers.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/what-it-takes-to-move-enterprise-ai-beyond-the-chatbot",
-      "publishedAt": "2026-10-15T09:13:59.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg"
+      "source": "https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/",
+      "publishedAt": "2026-10-16T08:31:48.000Z",
+      "image": "https://www.engadget.com/img/gallery/gmails-live-ai-search-feature-arrives-for-google-ai-subscribers/l-intro-1792139377.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "No amount of renaming can fix AI's growing reputation problem.",
-      "summary": "No amount of renaming can fix AI's growing reputation problem.",
+      "title": "UK small businesses are spending big on Anthropic — but OpenAI isn't far behind as expenditure on AI tools hits new high",
+      "summary": "A surge in AI adoption has been identified among smaller UK firms, with Anthropic outgunning OpenAI among British SMEs.",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/news/elon-musks-attempts-to-rebrand-ai-slop-are-hilarious-but-they-betray-a-deeper-truth",
-      "publishedAt": "2026-10-15T08:29:03.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/euaMdgeFpst5UrvwfDjssc-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/uk-small-businesses-are-spending-big-on-anthropic-but-openai-isnt-far-behind-as-expenditure-on-ai-tools-hits-new-high",
+      "publishedAt": "2026-10-16T06:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "UK businesses are more excited about AI than ever before — but many are split on where the responsibility lies",
-      "summary": "AI agents offer great potential, but need to be governed effectively, IBM report finds.",
+      "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/uk-businesses-are-more-excited-about-ai-than-ever-before-but-many-are-split-on-where-the-responsibility-lies",
-      "publishedAt": "2026-10-15T08:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/dyqv6mszWWV7hVh4EWjzKT-970-80.jpg"
+      "source": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "publishedAt": "2026-10-15T23:44:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "title": "US Navy could see first VTOL X-BAT UAV 'by end of this month' as external funding reaches $200 million — Shield AI's fighter-sized drone can fly 2000 nautical miles, reach 50,000 feet",
+      "summary": "Shield AI's X-BAT has secured substantial Navy backing, with prototype completion expected in October 2026 and initial vertical flight tests coming up later.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "publishedAt": "2026-10-15T01:01:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800"
+      "source": "https://www.techradar.com/pro/us-navy-could-see-first-vtol-x-bat-uav-by-end-of-this-month-as-external-funding-reaches-usd200-million-shield-ais-fighter-sized-drone-can-fly-2000-nautical-miles-reach-50-000-feet",
+      "publishedAt": "2026-10-15T23:25:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/dURzVjeUup7QgasWcQ82Ug-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the mai",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843"
+      "source": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "publishedAt": "2026-10-15T22:35:55.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "McKinsey is making job applicants spar with a fake AI client",
-      "summary": "Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants m",
+      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-      "publishedAt": "2026-10-14T22:53:31.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+      "publishedAt": "2026-10-15T21:18:15.000Z",
+      "image": "https://media.wired.com/photos/6acff05076c17d102a553f12/191:100/w_1280,c_limit/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "iBuyPower enters AI PC market with gorgeous $3,999 AMD 'Gorgon Halo' PC with a leather strap and 128GB RAM — shame that you can't cluster it yet",
-      "summary": "iBuyPower's upcoming AI mini PC combines AMD's 16-core processor, 128GB memory, integrated graphics, and support for up to 8TB of storage.",
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector a",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ibuypower-enters-ai-pc-market-with-gorgeous-usd3-999-amd-gorgon-halo-pc-with-a-leather-strap-and-128gb-ram-shame-that-you-cant-cluster-it-yet",
-      "publishedAt": "2026-10-14T22:45:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/pujZP5r8fdCc7aF66zkQt7-1920-80.png"
+      "source": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "publishedAt": "2026-10-15T21:09:33.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&strip=all&crop=0%2C10.71715720101%2C100%2C78.565685597979&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+      "publishedAt": "2026-10-15T21:00:28.000Z",
+      "image": "https://media.wired.com/photos/6ad00a8917414371d605a797/191:100/w_1280,c_limit/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg"
     }
   ]
 }
