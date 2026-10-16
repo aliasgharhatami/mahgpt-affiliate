@@ -4344,6 +4344,20 @@
         "message_id": "18152335798551478",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/ai-adoption-has-a-talent-problem-heres-how-to-solve-it": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-16T14:33:31.868Z",
+        "message_id": "18090187700242249",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-16T14:33:41.234Z",
+        "message_id": "18117509374966382",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
