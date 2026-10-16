@@ -6222,6 +6222,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3262041/no-metas-muse-will-not-run-on-your-mac.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-16T09:50:46.156Z",
+        "message_id": 602,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
