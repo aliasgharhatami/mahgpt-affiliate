@@ -6273,6 +6273,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/uk-small-businesses-are-spending-big-on-anthropic-but-openai-isnt-far-behind-as-expenditure-on-ai-tools-hits-new-high": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-16T19:58:20.886Z",
+        "message_id": 605,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
