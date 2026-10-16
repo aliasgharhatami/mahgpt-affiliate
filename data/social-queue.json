@@ -1,49 +1,47 @@
 {
   "version": 1,
-  "queue_date": "2026-10-15",
-  "created_at": "2026-10-15T09:55:13.267Z",
-  "source_feed_updated_at": "2026-10-15T09:55:09.445Z",
+  "queue_date": "2026-10-16",
+  "created_at": "2026-10-16T09:50:00.949Z",
+  "source_feed_updated_at": "2026-10-16T09:49:57.036Z",
   "items": [
     {
-      "story_id": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
-      "source_url": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
-      "headline": "I tried those free AI-coded Adobe Creative Cloud clones, and they have some big problems",
-      "summary": "ArtCraft isn't ready to replace Adobe's Photoshop and Premiere yet.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/GohVEZQ7wNAbxcMQvyv6ie-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/GohVEZQ7wNAbxcMQvyv6ie-1920-80.jpg",
+      "story_id": "https://www.macworld.com/article/3262041/no-metas-muse-will-not-run-on-your-mac.html",
+      "source_url": "https://www.macworld.com/article/3262041/no-metas-muse-will-not-run-on-your-mac.html",
+      "headline": "No, Meta’s Muse will not run on your Mac",
+      "summary": "Macworld You may have seen the headlines by now. “ Apple and Meta bury the hatchet — for AI “ “ Apple and Meta team up to make Muse AI model run on Mac computers “ “ Meta and Apple team up to make Muse AI models run better on Macs “ “ Meta launches an open-weight AI model that runs on Macs “ None of",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3262041-0-38742700-1792141270-Meta-Muse-Charm.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3262041-0-38742700-1792141270-Meta-Muse-Charm.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1024,
+        "height": 575,
+        "aspectRatio": 1.7808695652173914,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
-      "detected_partner": "adobe",
-      "product_url": "https://www.adobe.com/products/firefly.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-15T05:20:00.000Z",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=no-metas-muse-will-not-run-on-your-mac",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-16T05:20:00.000Z",
       "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-13T12:44:19.847Z"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-13T12:46:55.631Z",
-        "message_id": "18027843839874857"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-creativebloq-com-news-i-tried-those-free-ai-coded-adobe-creative-cloud-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-macworld-com-article-3262041-no-metas-muse-will-not-run-on-your-mac-ht-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -53,371 +51,73 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/hostinger-reach-email-hosting-review",
-      "source_url": "https://www.techradar.com/pro/hostinger-reach-email-hosting-review",
-      "headline": "Hostinger Reach email hosting review",
-      "summary": "I put email marketing platform Hostinger Reach to the test, and while I like Reach’s AI shortcuts, but I wouldn’t put my newsletter on autopilot just yet.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/GPq5LyjZdDyZeWY9A49o9j-2100-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/GPq5LyjZdDyZeWY9A49o9j-2100-80.png",
+      "story_id": "https://www.techradar.com/pro/ai-adoption-has-a-talent-problem-heres-how-to-solve-it",
+      "source_url": "https://www.techradar.com/pro/ai-adoption-has-a-talent-problem-heres-how-to-solve-it",
+      "headline": "AI adoption has a talent problem",
+      "summary": "Why human judgement and AI-native talent will determine which businesses turn adoption into advantage.",
+      "source_name": "here’s how to solve it",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/hvkxS6YQxDoEiTLwWEaPJL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/hvkxS6YQxDoEiTLwWEaPJL-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 2100,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-adoption-has-a-talent-problem",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-16T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-techradar-com-pro-ai-adoption-has-a-talent-problem-heres-how-to-solve--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/",
+      "source_url": "https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/",
+      "headline": "Gmail's Live AI search feature arrives for Google AI subscribers",
+      "summary": "Gmail's search can be frustrating and basic, but Google is finally smartening it up for AI plan subscribers.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/gmails-live-ai-search-feature-arrives-for-google-ai-subscribers/l-intro-1792139377.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/gmails-live-ai-search-feature-arrives-for-google-ai-subscribers/l-intro-1792139377.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
         "height": 900,
-        "aspectRatio": 2.3333333333333335,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hostinger-reach-email-hosting-review",
-      "detected_partner": "hostinger",
-      "product_url": "https://www.hostinger.com/",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-15T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-15T09:55:51.538Z",
-        "message_id": 596,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-15T10:02:36.431Z",
-        "message_id": "17871254829646297",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-15/Hostinger-Reach-email-hosting-review-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-techradar-com-pro-hostinger-reach-email-hosting-review-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-15T10:02:43.885Z",
-        "message_id": "18174303670457676",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/computing/laptops/acer-swift-spin-14-ai",
-      "source_url": "https://www.techradar.com/computing/laptops/acer-swift-spin-14-ai",
-      "headline": "Acer Swift Spin 14 AI is attractive, powerful with a great battery... and a bit pricey",
-      "summary": "The Acer Swift Spin 14 AI is a good looking laptop with a surprising amount of power and battery life. It’s also got AI, a 360-degree hinge, and a price tag to match.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/SXtcqBvfFv2E4mkSJdTH6f-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/SXtcqBvfFv2E4mkSJdTH6f-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1097,
-        "aspectRatio": 2.333637192342753,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=acer-swift-spin-14-ai-is-attractive-powerful-with-a-great-battery-and-a-bit-pricey",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-15T15:14:55.409Z",
-        "message_id": 597,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-15T15:13:27.653Z",
-        "message_id": "18065349299787379",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-15/Acer-Swift-Spin-14-AI-is-attractive-powerful-with-a-great-battery-and-a-bit-pric-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-techradar-com-computing-laptops-acer-swift-spin-14-ai-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-15T15:13:36.274Z",
-        "message_id": "18221070619344780",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/what-it-takes-to-move-enterprise-ai-beyond-the-chatbot",
-      "source_url": "https://www.techradar.com/pro/what-it-takes-to-move-enterprise-ai-beyond-the-chatbot",
-      "headline": "What it takes to move enterprise AI beyond the chatbot",
-      "summary": "If AI is given a more active role in business processes, this could increase efficiency and lower costs.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=what-it-takes-to-move-enterprise-ai-beyond-the-chatbot",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=gmails-live-ai-search-feature-arrives-for-google-ai-subscribers",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-15T19:14:27.693Z",
-        "message_id": 598,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-15T19:12:09.737Z",
-        "message_id": "18211381063364681",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-techradar-com-pro-what-it-takes-to-move-enterprise-ai-beyond-the-chatb-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-15T19:12:19.763Z",
-        "message_id": "18108773968916871",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.creativebloq.com/news/elon-musks-attempts-to-rebrand-ai-slop-are-hilarious-but-they-betray-a-deeper-truth",
-      "source_url": "https://www.creativebloq.com/news/elon-musks-attempts-to-rebrand-ai-slop-are-hilarious-but-they-betray-a-deeper-truth",
-      "headline": "No amount of renaming can fix AI's growing reputation problem.",
-      "summary": "the company or product is highlighted in a current technology report.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/euaMdgeFpst5UrvwfDjssc-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/euaMdgeFpst5UrvwfDjssc-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=no-amount-of-renaming-can-fix-ais-growing-reputation-problem",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-15T20:31:02.133Z",
-        "message_id": 599,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-15T20:32:07.293Z",
-        "message_id": "18136235485649044",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-creativebloq-com-news-elon-musks-attempts-to-rebrand-ai-slop-are-hilar-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-15T20:32:16.485Z",
-        "message_id": "18136587157728197",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/uk-businesses-are-more-excited-about-ai-than-ever-before-but-many-are-split-on-where-the-responsibility-lies",
-      "source_url": "https://www.techradar.com/pro/uk-businesses-are-more-excited-about-ai-than-ever-before-but-many-are-split-on-where-the-responsibility-lies",
-      "headline": "UK businesses are more excited about AI than ever before",
-      "summary": "AI agents offer great potential, but need to be governed effectively, IBM report finds.",
-      "source_name": "but many are split on where the responsibility lies",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/dyqv6mszWWV7hVh4EWjzKT-970-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/dyqv6mszWWV7hVh4EWjzKT-970-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 970,
-        "height": 549,
-        "aspectRatio": 1.7668488160291438,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=uk-businesses-are-more-excited-about-ai-than-ever-before",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-15T22:26:29.803Z",
-        "message_id": 600,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-15T22:21:16.563Z",
-        "message_id": "18115899380030193",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-techradar-com-pro-uk-businesses-are-more-excited-about-ai-than-ever-be-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-15T22:21:26.784Z",
-        "message_id": "17955057492286206",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "source_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "headline": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-15T23:42:11.718Z",
-        "message_id": 601,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-15T23:42:48.611Z",
-        "message_id": "18440490322179891",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-techcrunch-com-2026-10-14-ricursive-intelligence-is-betting-on-ai-designed-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-15T23:42:56.995Z",
-        "message_id": "18148539427563212",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "source_url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "headline": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 843,
-        "aspectRatio": 1.4234875444839858,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T19:20:00.000Z",
+      "scheduled_publish_at": "2026-10-16T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -433,7 +133,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-techcrunch-com-2026-10-14-gudea-leverages-ai-to-help-organizations-prevent-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-engadget-com-2288545-gmail-live-ai-search-feature-arrives-for-google-a-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -443,27 +143,27 @@
       }
     },
     {
-      "story_id": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-      "source_url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-      "headline": "McKinsey is making job applicants spar with a fake AI client",
-      "summary": "Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants m",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "story_id": "https://www.techradar.com/pro/uk-small-businesses-are-spending-big-on-anthropic-but-openai-isnt-far-behind-as-expenditure-on-ai-tools-hits-new-high",
+      "source_url": "https://www.techradar.com/pro/uk-small-businesses-are-spending-big-on-anthropic-but-openai-isnt-far-behind-as-expenditure-on-ai-tools-hits-new-high",
+      "headline": "UK small businesses are spending big on Anthropic",
+      "summary": "A surge in AI adoption has been identified among smaller UK firms, with Anthropic outgunning OpenAI among British SMEs.",
+      "source_name": "but OpenAI isn't far behind as expenditure on AI tools hits new high",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=mckinsey-is-making-job-applicants-spar-with-a-fake-ai-client",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=uk-small-businesses-are-spending-big-on-anthropic",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-16T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -478,25 +178,70 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-15/McKinsey-is-making-job-applicants-spar-with-a-fake-AI-client-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-theverge-com-news-1011654-mckinsey-ai-client-interview-story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-techradar-com-pro-uk-small-businesses-are-spending-big-on-anthropic-bu-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
+          "image-rejected"
         ]
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/ibuypower-enters-ai-pc-market-with-gorgeous-usd3-999-amd-gorgon-halo-pc-with-a-leather-strap-and-128gb-ram-shame-that-you-cant-cluster-it-yet",
-      "source_url": "https://www.techradar.com/pro/ibuypower-enters-ai-pc-market-with-gorgeous-usd3-999-amd-gorgon-halo-pc-with-a-leather-strap-and-128gb-ram-shame-that-you-cant-cluster-it-yet",
-      "headline": "iBuyPower enters AI PC market with gorgeous $3,999 AMD 'Gorgon Halo' PC with a leather strap and 128GB RAM",
-      "summary": "iBuyPower's upcoming AI mini PC combines AMD's 16-core processor, 128GB memory, integrated graphics, and support for up to 8TB of storage.",
-      "source_name": "shame that you can't cluster it yet",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/pujZP5r8fdCc7aF66zkQt7-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/pujZP5r8fdCc7aF66zkQt7-1920-80.png",
+      "story_id": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "source_url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "headline": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 900,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=when-it-came-to-cal-ai-and-8217-s-viral-success-a-small-army-of-influencers-paid-off",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-16T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-16/https-techcrunch-com-2026-10-15-when-it-came-to-cal-ais-viral-success-a-small-ar-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/us-navy-could-see-first-vtol-x-bat-uav-by-end-of-this-month-as-external-funding-reaches-usd200-million-shield-ais-fighter-sized-drone-can-fly-2000-nautical-miles-reach-50-000-feet",
+      "source_url": "https://www.techradar.com/pro/us-navy-could-see-first-vtol-x-bat-uav-by-end-of-this-month-as-external-funding-reaches-usd200-million-shield-ais-fighter-sized-drone-can-fly-2000-nautical-miles-reach-50-000-feet",
+      "headline": "US Navy could see first VTOL X-BAT UAV 'by end of this month' as external funding reaches $200 million — Shield AI's fighter-sized drone can fly 2000 nautical miles, reach 50,000 feet",
+      "summary": "Shield AI's X-BAT has secured substantial Navy backing, with prototype completion expected in October 2026 and initial vertical flight tests coming up later.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/dURzVjeUup7QgasWcQ82Ug-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/dURzVjeUup7QgasWcQ82Ug-1920-80.png",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -506,11 +251,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ibuypower-enters-ai-pc-market-with-gorgeous-3-999-amd-gorgon-halo-pc-with-a-leather-strap-",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=us-navy-could-see-first-vtol-x-bat-uav-by-end-of-this-month-as-external-funding-reaches-20",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-15T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-16T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -526,7 +271,193 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-15/https-www-techradar-com-pro-ibuypower-enters-ai-pc-market-with-gorgeous-usd3-999-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-techradar-com-pro-us-navy-could-see-first-vtol-x-bat-uav-by-end-of-thi-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "source_url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "headline": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the mai",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 628,
+        "aspectRatio": 1.910828025477707,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=sega-pulls-total-war-shogun-2-remaster-from-sale-following-disastrous-launch",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-16T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-16/Sega-pulls-Total-War-Shogun-2-remaster-from-sale-following-disastrous-launch-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-theverge-com-games-1012512-sega-total-war-shogun-2-remaster-pulled-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+      "source_url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+      "headline": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6acff05076c17d102a553f12/191:100/w_1280,c_limit/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg",
+      "image_url": "https://media.wired.com/photos/6acff05076c17d102a553f12/191:100/w_1280,c_limit/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1146,
+        "height": 600,
+        "aspectRatio": 1.91,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=we-got-hot-and-heavy-with-metas-muse-and-baffled-by-apples-homeview",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-16T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-wired-com-story-uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "source_url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "headline": "Trump posts AI-edited photo to brag about White House restoration work",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector a",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&strip=all&crop=0%2C10.71715720101%2C100%2C78.565685597979&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&strip=all&crop=0%2C10.71715720101%2C100%2C78.565685597979&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 623,
+        "aspectRatio": 1.926163723916533,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-16T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-16/Trump-posts-AI-edited-photo-to-brag-about-White-House-restoration-work-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-theverge-com-policy-1012445-donald-trump-ai-photo-white-house-rennovat-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+      "source_url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+      "headline": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6ad00a8917414371d605a797/191:100/w_1280,c_limit/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg",
+      "image_url": "https://media.wired.com/photos/6ad00a8917414371d605a797/191:100/w_1280,c_limit/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1146,
+        "height": 600,
+        "aspectRatio": 1.91,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-hacks-leave-a-mess-that-ai-companies-arent-paying-for",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-16T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-wired-com-story-ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
