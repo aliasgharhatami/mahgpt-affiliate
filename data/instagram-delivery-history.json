@@ -4456,6 +4456,20 @@
         "message_id": "18096416432129098",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/news/olivia-rodrigos-expectations-music-video-hit-with-ai-allegations": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-17T14:15:54.558Z",
+        "message_id": "17953743696274790",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-17T14:16:03.656Z",
+        "message_id": "18083470169335024",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
