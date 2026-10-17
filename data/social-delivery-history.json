@@ -6358,6 +6358,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-17T09:22:35.361Z",
+        "message_id": 610,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
