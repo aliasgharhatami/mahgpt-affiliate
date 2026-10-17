@@ -4414,6 +4414,20 @@
         "message_id": "18108108662196377",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-17T01:31:31.771Z",
+        "message_id": "18118533086082378",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-17T01:31:40.768Z",
+        "message_id": "17928473433184521",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
