@@ -4484,6 +4484,20 @@
         "message_id": "18127698832828368",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-jobs-and-business-owners-are-very-happy-with-its-job-so-far": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-17T19:42:40.871Z",
+        "message_id": "18396776002204657",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-17T19:42:53.106Z",
+        "message_id": "18125230901478495",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
