@@ -4442,6 +4442,20 @@
         "message_id": "18088342820287047",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-17T11:59:00.950Z",
+        "message_id": "18125359183808134",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-17T11:59:11.017Z",
+        "message_id": "18096416432129098",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
