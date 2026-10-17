@@ -4512,6 +4512,20 @@
         "message_id": "18125533120853786",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/32-768-cores-and-74-petaflops-amds-monster-new-rack-for-ai-agents-could-be-too-much-for-traditional-data-centers": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-17T23:23:28.603Z",
+        "message_id": "17900713995386922",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-17T23:23:38.714Z",
+        "message_id": "18630339382050948",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
