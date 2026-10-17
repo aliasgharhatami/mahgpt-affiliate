@@ -6324,6 +6324,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-17T01:30:18.315Z",
+        "message_id": 608,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
