@@ -6460,6 +6460,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-17T21:29:27.613Z",
+        "message_id": 616,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
