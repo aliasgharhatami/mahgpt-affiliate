@@ -6426,6 +6426,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-17T17:52:22.406Z",
+        "message_id": 614,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
