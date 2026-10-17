@@ -6477,6 +6477,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/five-of-the-webs-biggest-data-scraping-brands-now-sit-under-one-usd3-6-billion-umbrella-and-ai-agents-are-the-reason-why": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-17T23:22:01.220Z",
+        "message_id": 617,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
