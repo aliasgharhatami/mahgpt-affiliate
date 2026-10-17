@@ -1,302 +1,65 @@
 {
   "version": 1,
-  "queue_date": "2026-10-16",
-  "created_at": "2026-10-16T09:50:00.949Z",
-  "source_feed_updated_at": "2026-10-16T09:49:57.036Z",
+  "queue_date": "2026-10-17",
+  "created_at": "2026-10-17T08:03:12.081Z",
+  "source_feed_updated_at": "2026-10-17T08:03:11.987Z",
   "items": [
     {
-      "story_id": "https://www.macworld.com/article/3262041/no-metas-muse-will-not-run-on-your-mac.html",
-      "source_url": "https://www.macworld.com/article/3262041/no-metas-muse-will-not-run-on-your-mac.html",
-      "headline": "No, Meta’s Muse will not run on your Mac",
-      "summary": "Macworld You may have seen the headlines by now. “ Apple and Meta bury the hatchet — for AI “ “ Apple and Meta team up to make Muse AI model run on Mac computers “ “ Meta and Apple team up to make Muse AI models run better on Macs “ “ Meta launches an open-weight AI model that runs on Macs “ None of",
+      "story_id": "https://www.macworld.com/article/2836233/best-portable-monitors-for-mac.html",
+      "source_url": "https://www.macworld.com/article/2836233/best-portable-monitors-for-mac.html",
+      "headline": "Best Portable Monitors for MacBooks 2026: Compact, travel-ready screens",
+      "summary": "Macworld Most monitors sit on a desk and don’t move any more than their stand or arm allows. We have a separate round up of the best monitors for Mac. But sometimes a more portable solution makes sense when the MacBook’s own screen simply isn’t large enough. There are two main types of portable dis",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3262041-0-38742700-1792141270-Meta-Muse-Charm.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3262041-0-38742700-1792141270-Meta-Muse-Charm.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2836233-0-51771700-1792170885-BEST-PORTABLE-MONITORS-MAC.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2836233-0-51771700-1792170885-BEST-PORTABLE-MONITORS-MAC.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
-        "height": 575,
-        "aspectRatio": 1.7808695652173914,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=no-metas-muse-will-not-run-on-your-mac",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=best-portable-monitors-for-macbooks-2026-compact-travel-ready-screens",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-16T05:20:00.000Z",
+      "scheduled_publish_at": "2026-10-17T05:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-10-16T09:50:46.156Z",
-        "message_id": 602,
+        "published_at": "2026-10-17T08:03:20.517Z",
+        "message_id": 609,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-16T09:55:22.628Z",
-        "message_id": "17964292137237846",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-macworld-com-article-3262041-no-metas-muse-will-not-run-on-your-mac-ht-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-macworld-com-article-2836233-best-portable-monitors-for-mac-html-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-16T09:55:30.951Z",
-        "message_id": "18152335798551478",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/ai-adoption-has-a-talent-problem-heres-how-to-solve-it",
-      "source_url": "https://www.techradar.com/pro/ai-adoption-has-a-talent-problem-heres-how-to-solve-it",
-      "headline": "AI adoption has a talent problem",
-      "summary": "Why human judgement and AI-native talent will determine which businesses turn adoption into advantage.",
-      "source_name": "here’s how to solve it",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/hvkxS6YQxDoEiTLwWEaPJL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/hvkxS6YQxDoEiTLwWEaPJL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-adoption-has-a-talent-problem",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-16T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-16T14:38:49.999Z",
-        "message_id": 603,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-16T14:33:31.868Z",
-        "message_id": "18090187700242249",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-techradar-com-pro-ai-adoption-has-a-talent-problem-heres-how-to-solve--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-16T14:33:41.234Z",
-        "message_id": "18117509374966382",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/",
-      "source_url": "https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/",
-      "headline": "Gmail's Live AI search feature arrives for Google AI subscribers",
-      "summary": "Gmail's search can be frustrating and basic, but Google is finally smartening it up for AI plan subscribers.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/gmails-live-ai-search-feature-arrives-for-google-ai-subscribers/l-intro-1792139377.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/gmails-live-ai-search-feature-arrives-for-google-ai-subscribers/l-intro-1792139377.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 900,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=gmails-live-ai-search-feature-arrives-for-google-ai-subscribers",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-16T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-16T18:24:53.475Z",
-        "message_id": 604,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-16T18:22:59.700Z",
-        "message_id": "17982576090103691",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-engadget-com-2288545-gmail-live-ai-search-feature-arrives-for-google-a-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-16T18:23:09.027Z",
-        "message_id": "18163428862496876",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/uk-small-businesses-are-spending-big-on-anthropic-but-openai-isnt-far-behind-as-expenditure-on-ai-tools-hits-new-high",
-      "source_url": "https://www.techradar.com/pro/uk-small-businesses-are-spending-big-on-anthropic-but-openai-isnt-far-behind-as-expenditure-on-ai-tools-hits-new-high",
-      "headline": "UK small businesses are spending big on Anthropic",
-      "summary": "A surge in AI adoption has been identified among smaller UK firms, with Anthropic outgunning OpenAI among British SMEs.",
-      "source_name": "but OpenAI isn't far behind as expenditure on AI tools hits new high",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=uk-small-businesses-are-spending-big-on-anthropic",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-16T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-16T19:58:20.886Z",
-        "message_id": 605,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-16T19:59:08.442Z",
-        "message_id": "18113059516875722",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-techradar-com-pro-uk-small-businesses-are-spending-big-on-anthropic-bu-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-16T19:59:15.750Z",
-        "message_id": "18159705787503555",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "source_url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "headline": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 900,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=when-it-came-to-cal-ai-and-8217-s-viral-success-a-small-army-of-influencers-paid-off",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-16T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-16T21:34:44.594Z",
-        "message_id": 606,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-16T21:31:01.661Z",
-        "message_id": "18627572746009019",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-16/https-techcrunch-com-2026-10-15-when-it-came-to-cal-ais-viral-success-a-small-ar-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-16T21:31:09.639Z",
-        "message_id": "18115366529166225",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/us-navy-could-see-first-vtol-x-bat-uav-by-end-of-this-month-as-external-funding-reaches-usd200-million-shield-ais-fighter-sized-drone-can-fly-2000-nautical-miles-reach-50-000-feet",
-      "source_url": "https://www.techradar.com/pro/us-navy-could-see-first-vtol-x-bat-uav-by-end-of-this-month-as-external-funding-reaches-usd200-million-shield-ais-fighter-sized-drone-can-fly-2000-nautical-miles-reach-50-000-feet",
-      "headline": "US Navy could see first VTOL X-BAT UAV 'by end of this month' as external funding reaches $200 million — Shield AI's fighter-sized drone can fly 2000 nautical miles, reach 50,000 feet",
-      "summary": "Shield AI's X-BAT has secured substantial Navy backing, with prototype completion expected in October 2026 and initial vertical flight tests coming up later.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/dURzVjeUup7QgasWcQ82Ug-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/dURzVjeUup7QgasWcQ82Ug-1920-80.png",
+      "story_id": "https://www.creativebloq.com/news/olivia-rodrigos-expectations-music-video-hit-with-ai-allegations",
+      "source_url": "https://www.creativebloq.com/news/olivia-rodrigos-expectations-music-video-hit-with-ai-allegations",
+      "headline": "Olivia Rodrigo’s expectations music video hit with AI allegations",
+      "summary": "Not to alarm you, but Chappell Roan appears to be missing an arm…",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/JBNodSdzrJq6SmUC8ahYmG-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/JBNodSdzrJq6SmUC8ahYmG-1920-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -306,126 +69,57 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=us-navy-could-see-first-vtol-x-bat-uav-by-end-of-this-month-as-external-funding-reaches-20",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=olivia-rodrigos-expectations-music-video-hit-with-ai-allegations",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-16T15:20:00.000Z",
+      "scheduled_publish_at": "2026-10-17T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-16T23:38:25.046Z",
-        "message_id": 607,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-16T23:40:17.696Z",
-        "message_id": "18432914215194722",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-techradar-com-pro-us-navy-could-see-first-vtol-x-bat-uav-by-end-of-thi-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-creativebloq-com-news-olivia-rodrigos-expectations-music-video-hit-wit-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-16T23:40:27.412Z",
-        "message_id": "18108108662196377",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "source_url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "headline": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the mai",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "story_id": "https://www.techradar.com/tech/retro-tech-is-making-a-comeback-here-are-10-of-the-raddest-old-skool-gadgets-weve-spotted-from-cassette-players-to-flip-phones-and-film-cameras",
+      "source_url": "https://www.techradar.com/tech/retro-tech-is-making-a-comeback-here-are-10-of-the-raddest-old-skool-gadgets-weve-spotted-from-cassette-players-to-flip-phones-and-film-cameras",
+      "headline": "10 of the raddest retro gadgets around, from cassette players to flip phones",
+      "summary": "Nostalgic gadgets are popping up in all corners of the market, proving the ideal antidote to subscription overload and unwanted AI.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/jxXVbppvQftTY8zdxX8QQj-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jxXVbppvQftTY8zdxX8QQj-1920-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 628,
-        "aspectRatio": 1.910828025477707,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=sega-pulls-total-war-shogun-2-remaster-from-sale-following-disastrous-launch",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-16T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-17T01:30:18.315Z",
-        "message_id": 608,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-17T01:31:31.771Z",
-        "message_id": "18118533086082378",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-16/Sega-pulls-Total-War-Shogun-2-remaster-from-sale-following-disastrous-launch-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-theverge-com-games-1012512-sega-total-war-shogun-2-remaster-pulled-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-17T01:31:40.768Z",
-        "message_id": "17928473433184521",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
-      "source_url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
-      "headline": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6acff05076c17d102a553f12/191:100/w_1280,c_limit/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg",
-      "image_url": "https://media.wired.com/photos/6acff05076c17d102a553f12/191:100/w_1280,c_limit/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1146,
-        "height": 600,
-        "aspectRatio": 1.91,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=we-got-hot-and-heavy-with-metas-muse-and-baffled-by-apples-homeview",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=10-of-the-raddest-retro-gadgets-around-from-cassette-players-to-flip-phones",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-16T19:20:00.000Z",
+      "scheduled_publish_at": "2026-10-17T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -441,7 +135,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-wired-com-story-uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-techradar-com-tech-retro-tech-is-making-a-comeback-here-are-10-of-the--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -451,27 +145,27 @@
       }
     },
     {
-      "story_id": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "source_url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "headline": "Trump posts AI-edited photo to brag about White House restoration work",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector a",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&strip=all&crop=0%2C10.71715720101%2C100%2C78.565685597979&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&strip=all&crop=0%2C10.71715720101%2C100%2C78.565685597979&w=1200",
+      "story_id": "https://www.techradar.com/pro/the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-jobs-and-business-owners-are-very-happy-with-its-job-so-far",
+      "source_url": "https://www.techradar.com/pro/the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-jobs-and-business-owners-are-very-happy-with-its-job-so-far",
+      "headline": "The collapse of web coding gigs is getting ugly — AI takes over routine website development jobs, and business owners are very happy with its job so far",
+      "summary": "AI website builders are reducing reliance on developers, with freelance postings falling sharply as small businesses increasingly create websites independently.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/AyKYL2MTRayWuTsydgHSfm-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/AyKYL2MTRayWuTsydgHSfm-1920-80.png",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 623,
-        "aspectRatio": 1.926163723916533,
-        "instagramCompatible": false
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-16T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-17T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -486,8 +180,54 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-16/Trump-posts-AI-edited-photo-to-brag-about-White-House-restoration-work-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-theverge-com-policy-1012445-donald-trump-ai-photo-white-house-rennovat-story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-techradar-com-pro-the-collapse-of-web-coding-gigs-is-getting-ugly-ai-t-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "source_url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "headline": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, incl",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-and-8217-s-updated-app-store-rules-go-after-and-8216-nudify-and-8217-ai-apps",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-17T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-17/Apple-8217-s-updated-App-Store-rules-go-after-8216-nudify-8217-AI-apps-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-theverge-com-tech-1013314-apple-app-store-nudify-ai-apps-harassment-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -498,27 +238,27 @@
       }
     },
     {
-      "story_id": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-      "source_url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-      "headline": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6ad00a8917414371d605a797/191:100/w_1280,c_limit/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg",
-      "image_url": "https://media.wired.com/photos/6ad00a8917414371d605a797/191:100/w_1280,c_limit/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg",
+      "story_id": "https://www.techradar.com/pro/32-768-cores-and-74-petaflops-amds-monster-new-rack-for-ai-agents-could-be-too-much-for-traditional-data-centers",
+      "source_url": "https://www.techradar.com/pro/32-768-cores-and-74-petaflops-amds-monster-new-rack-for-ai-agents-could-be-too-much-for-traditional-data-centers",
+      "headline": "32,768 cores and 74 petaflops: AMD’s monster new rack for AI agents could be too much for traditional data centers",
+      "summary": "AMD's Helion Agentic AI Rack combines high-core-count processors, accelerators, and programmable networking, potentially requiring data centers to upgrade existing infrastructure.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/9tasRtXoH4yfhJmxkE4z9k-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9tasRtXoH4yfhJmxkE4z9k-1920-80.png",
       "image_validation": {
         "valid": true,
-        "width": 1146,
-        "height": 600,
-        "aspectRatio": 1.91,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-hacks-leave-a-mess-that-ai-companies-arent-paying-for",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=32-768-cores-and-74-petaflops-amds-monster-new-rack-for-ai-agents-could-be-too-much-for-tr",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-16T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-17T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -534,7 +274,192 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-16/https-www-wired-com-story-ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-techradar-com-pro-32-768-cores-and-74-petaflops-amds-monster-new-rack--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+      "source_url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+      "headline": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/191:100/w_1280,c_limit/GettyImages-2299989251.jpg",
+      "image_url": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/191:100/w_1280,c_limit/GettyImages-2299989251.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-17T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-17/Katie-Zacharia-Was-Linked-to-an-AI-Rare-Earths-Startup-It-s-Even-Weirder-Than-It-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-wired-com-story-katie-zacharia-was-linked-to-an-ai-rare-earths-startup-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/five-of-the-webs-biggest-data-scraping-brands-now-sit-under-one-usd3-6-billion-umbrella-and-ai-agents-are-the-reason-why",
+      "source_url": "https://www.techradar.com/pro/five-of-the-webs-biggest-data-scraping-brands-now-sit-under-one-usd3-6-billion-umbrella-and-ai-agents-are-the-reason-why",
+      "headline": "Five of the web's biggest data-scraping brands now sit under one $3.6 billion umbrella, and AI agents are the reason why",
+      "summary": "Oxylabs, Decodo, Webshare, ScrapingBee, and Honeygain are now one $3.6 billion family called Source, and it says AI agents have quadrupled demand.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6WqXtqpcEbMZztiGZ5F2K9-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6WqXtqpcEbMZztiGZ5F2K9-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=five-of-the-webs-biggest-data-scraping-brands-now-sit-under-one-3-6-billion-umbrella-and-a",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-17T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-techradar-com-pro-five-of-the-webs-biggest-data-scraping-brands-now-si-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3262167/the-just-released-m6-mac-mini-is-already-on-sale-for-949.html",
+      "source_url": "https://www.macworld.com/article/3262167/the-just-released-m6-mac-mini-is-already-on-sale-for-949.html",
+      "headline": "The just-released M6 Mac mini is already on sale for $949",
+      "summary": "the company or product is highlighted in a current technology report.",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3262167-0-27957500-1792179498-1050021-1.jpeg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3262167-0-27957500-1792179498-1050021-1.jpeg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 684,
+        "aspectRatio": 1.4970760233918128,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-just-released-m6-mac-mini-is-already-on-sale-for-949",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-17T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-macworld-com-article-3262167-the-just-released-m6-mac-mini-is-already--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source_url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "headline": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
+      "image_validation": {
+        "valid": true,
+        "width": 612,
+        "height": 408,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-17T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-17/https-techcrunch-com-2026-10-16-india-becomes-the-latest-country-to-report-rogue-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

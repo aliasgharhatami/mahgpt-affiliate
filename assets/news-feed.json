@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T09:49:57.036Z",
+  "updatedAt": "2026-10-17T08:03:11.987Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "No, Meta’s Muse will not run on your Mac",
-      "summary": "Macworld You may have seen the headlines by now. “ Apple and Meta bury the hatchet — for AI “ “ Apple and Meta team up to make Muse AI model run on Mac computers “ “ Meta and Apple team up to make Muse AI models run better on Macs “ “ Meta launches an open-weight AI model that runs on Macs “ None of",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3262041/no-metas-muse-will-not-run-on-your-mac.html",
-      "publishedAt": "2026-10-16T09:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3262041-0-38742700-1792141270-Meta-Muse-Charm.jpg?quality=50&strip=all&w=1024"
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Best Portable Monitors for MacBooks 2026: Compact, travel-ready screens",
+      "summary": "Macworld Most monitors sit on a desk and don’t move any more than their stand or arm allows. We have a separate round up of the best monitors for Mac . But sometimes a more portable solution makes sense when the MacBook’s own screen simply isn’t large enough. There are two main types of portable dis",
+      "guide": "/partners/adobe.html",
+      "source": "https://www.macworld.com/article/2836233/best-portable-monitors-for-mac.html",
+      "publishedAt": "2026-10-16T15:50:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2836233-0-51771700-1792170885-BEST-PORTABLE-MONITORS-MAC.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI adoption has a talent problem - here’s how to solve it",
-      "summary": "Why human judgement and AI-native talent will determine which businesses turn adoption into advantage.",
+      "title": "Olivia Rodrigo’s expectations music video hit with AI allegations",
+      "summary": "Not to alarm you, but Chappell Roan appears to be missing an arm…",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ai-adoption-has-a-talent-problem-heres-how-to-solve-it",
-      "publishedAt": "2026-10-16T08:58:12.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/hvkxS6YQxDoEiTLwWEaPJL-2560-80.jpg"
+      "source": "https://www.creativebloq.com/news/olivia-rodrigos-expectations-music-video-hit-with-ai-allegations",
+      "publishedAt": "2026-10-17T08:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JBNodSdzrJq6SmUC8ahYmG-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Gmail's Live AI search feature arrives for Google AI subscribers",
-      "summary": "Gmail's search can be frustrating and basic, but Google is finally smartening it up for AI plan subscribers.",
+      "title": "10 of the raddest retro gadgets around, from cassette players to flip phones",
+      "summary": "Nostalgic gadgets are popping up in all corners of the market, proving the ideal antidote to subscription overload and unwanted AI.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/",
-      "publishedAt": "2026-10-16T08:31:48.000Z",
-      "image": "https://www.engadget.com/img/gallery/gmails-live-ai-search-feature-arrives-for-google-ai-subscribers/l-intro-1792139377.jpg"
+      "source": "https://www.techradar.com/tech/retro-tech-is-making-a-comeback-here-are-10-of-the-raddest-old-skool-gadgets-weve-spotted-from-cassette-players-to-flip-phones-and-film-cameras",
+      "publishedAt": "2026-10-17T05:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/jxXVbppvQftTY8zdxX8QQj-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "UK small businesses are spending big on Anthropic — but OpenAI isn't far behind as expenditure on AI tools hits new high",
-      "summary": "A surge in AI adoption has been identified among smaller UK firms, with Anthropic outgunning OpenAI among British SMEs.",
+      "title": "The collapse of web coding gigs is getting ugly — AI takes over routine website development jobs, and business owners are very happy with its job so far",
+      "summary": "AI website builders are reducing reliance on developers, with freelance postings falling sharply as small businesses increasingly create websites independently.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/uk-small-businesses-are-spending-big-on-anthropic-but-openai-isnt-far-behind-as-expenditure-on-ai-tools-hits-new-high",
-      "publishedAt": "2026-10-16T06:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-jobs-and-business-owners-are-very-happy-with-its-job-so-far",
+      "publishedAt": "2026-10-16T23:25:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/AyKYL2MTRayWuTsydgHSfm-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, incl",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "publishedAt": "2026-10-15T23:44:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900"
+      "source": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "publishedAt": "2026-10-16T22:51:22.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "US Navy could see first VTOL X-BAT UAV 'by end of this month' as external funding reaches $200 million — Shield AI's fighter-sized drone can fly 2000 nautical miles, reach 50,000 feet",
-      "summary": "Shield AI's X-BAT has secured substantial Navy backing, with prototype completion expected in October 2026 and initial vertical flight tests coming up later.",
+      "title": "32,768 cores and 74 petaflops: AMD’s monster new rack for AI agents could be too much for traditional data centers",
+      "summary": "AMD's Helion Agentic AI Rack combines high-core-count processors, accelerators, and programmable networking, potentially requiring data centers to upgrade existing infrastructure.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/us-navy-could-see-first-vtol-x-bat-uav-by-end-of-this-month-as-external-funding-reaches-usd200-million-shield-ais-fighter-sized-drone-can-fly-2000-nautical-miles-reach-50-000-feet",
-      "publishedAt": "2026-10-15T23:25:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/dURzVjeUup7QgasWcQ82Ug-1920-80.png"
+      "source": "https://www.techradar.com/pro/32-768-cores-and-74-petaflops-amds-monster-new-rack-for-ai-agents-could-be-too-much-for-traditional-data-centers",
+      "publishedAt": "2026-10-16T20:35:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9tasRtXoH4yfhJmxkE4z9k-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the mai",
+      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "publishedAt": "2026-10-15T22:35:55.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+      "source": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+      "publishedAt": "2026-10-16T20:05:08.000Z",
+      "image": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/191:100/w_1280,c_limit/GettyImages-2299989251.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+      "title": "Five of the web's biggest data-scraping brands now sit under one $3.6 billion umbrella, and AI agents are the reason why",
+      "summary": "Oxylabs, Decodo, Webshare, ScrapingBee, and Honeygain are now one $3.6 billion family called Source, and it says AI agents have quadrupled demand.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
-      "publishedAt": "2026-10-15T21:18:15.000Z",
-      "image": "https://media.wired.com/photos/6acff05076c17d102a553f12/191:100/w_1280,c_limit/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg"
+      "source": "https://www.techradar.com/pro/five-of-the-webs-biggest-data-scraping-brands-now-sit-under-one-usd3-6-billion-umbrella-and-ai-agents-are-the-reason-why",
+      "publishedAt": "2026-10-16T19:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6WqXtqpcEbMZztiGZ5F2K9-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector a",
+      "title": "The just-released M6 Mac mini is already on sale for $949",
+      "summary": "Macworld Apple Mac mini M6 View Deal (function () { document.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) { const debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1; const text = this.closest(\"#sticky-promo-block\").querySelector(\"p.promo-title\").text",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "publishedAt": "2026-10-15T21:09:33.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&strip=all&crop=0%2C10.71715720101%2C100%2C78.565685597979&w=1200"
+      "source": "https://www.macworld.com/article/3262167/the-just-released-m6-mac-mini-is-already-on-sale-for-949.html",
+      "publishedAt": "2026-10-16T19:19:27.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3262167-0-27957500-1792179498-1050021-1.jpeg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-      "publishedAt": "2026-10-15T21:00:28.000Z",
-      "image": "https://media.wired.com/photos/6ad00a8917414371d605a797/191:100/w_1280,c_limit/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg"
+      "source": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "publishedAt": "2026-10-16T17:52:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612"
     }
   ]
 }
