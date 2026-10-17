@@ -6375,6 +6375,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/news/olivia-rodrigos-expectations-music-video-hit-with-ai-allegations": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-17T12:12:07.921Z",
+        "message_id": 611,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
