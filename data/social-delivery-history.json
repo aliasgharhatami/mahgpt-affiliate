@@ -6392,6 +6392,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/tech/retro-tech-is-making-a-comeback-here-are-10-of-the-raddest-old-skool-gadgets-weve-spotted-from-cassette-players-to-flip-phones-and-film-cameras": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-17T14:13:46.936Z",
+        "message_id": 612,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
