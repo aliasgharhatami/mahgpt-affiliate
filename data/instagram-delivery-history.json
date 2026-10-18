@@ -4596,6 +4596,20 @@
         "message_id": "18124074524292624",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.creativebloq.com/news/a-fake-mia-goth-selfie-fooled-the-internet-and-ai-slop-is-the-least-of-it": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-18T18:16:34.244Z",
+        "message_id": "18199275028382867",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-18T18:16:43.430Z",
+        "message_id": "17976678107934824",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
