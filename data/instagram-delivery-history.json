@@ -4582,6 +4582,20 @@
         "message_id": "18146977882565460",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-18T16:42:09.762Z",
+        "message_id": "18094772738156523",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-18T16:42:17.516Z",
+        "message_id": "18124074524292624",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
