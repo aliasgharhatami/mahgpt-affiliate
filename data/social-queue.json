@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "queue_date": "2026-10-17",
-  "created_at": "2026-10-17T09:21:56.541Z",
-  "source_feed_updated_at": "2026-10-17T09:21:52.471Z",
+  "queue_date": "2026-10-18",
+  "created_at": "2026-10-18T09:27:18.530Z",
+  "source_feed_updated_at": "2026-10-18T09:27:18.431Z",
   "items": [
     {
       "story_id": "https://www.macworld.com/article/2836233/best-portable-monitors-for-mac.html",
@@ -25,7 +25,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-17T05:20:00.000Z",
+      "scheduled_publish_at": "2026-10-18T05:20:00.000Z",
       "telegram": {
         "status": "skipped_duplicate",
         "published_at": "2026-10-17T08:03:20.517Z"
@@ -36,27 +36,254 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-10-17T09:28:57.891Z",
-        "message_id": "18169532278466406",
-        "media_kind": "source"
+        "message_id": "18169532278466406"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-macworld-com-article-2836233-best-portable-monitors-for-mac-html-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-18/https-www-macworld-com-article-2836233-best-portable-monitors-for-mac-html-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "headline": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 683,
+        "aspectRatio": 1.499267935578331,
+        "instagramCompatible": true
       },
-      "instagram_story": {
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-18T07:20:00.000Z",
+      "telegram": {
         "status": "published",
-        "published_at": "2026-10-17T09:29:06.244Z",
-        "message_id": "18088342820287047",
-        "media_kind": "story-fallback"
+        "published_at": "2026-10-18T09:27:25.451Z",
+        "message_id": 619,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-18/https-techcrunch-com-2026-10-17-meta-removes-language-that-raised-scraping-and-a-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make-in-house-silicon-its-main-ai-engine-while-claiming-a-40-percent-efficiency-bump-could-going-the-google-route-be-the-pin-that-pops-the-nvidia-ai-bubble",
+      "source_url": "https://www.techradar.com/pro/microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make-in-house-silicon-its-main-ai-engine-while-claiming-a-40-percent-efficiency-bump-could-going-the-google-route-be-the-pin-that-pops-the-nvidia-ai-bubble",
+      "headline": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?",
+      "summary": "Can in-house chips pop the AI bubble? Microsoft's Maia 300 makes the case, but Nvidia shrugged off the news with a 1.29% decline.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/gn2pVK4F4zf9ZvW3ypaFod-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/gn2pVK4F4zf9ZvW3ypaFod-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1495,
+        "aspectRatio": 1.2842809364548495,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-18T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-18/https-www-techradar-com-pro-microsofts-maia-300-swaps-raw-compute-for-a-2-5x-mem-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source_url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "headline": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-18T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-18/Meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-18/https-www-theverge-com-tech-1013409-meta-removes-language-that-may-have-allowed--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "headline": "Websites are closing their doors to AI agents",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=websites-are-closing-their-doors-to-ai-agents",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-18T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-18/Websites-are-closing-their-doors-to-AI-agents-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-18/https-www-theverge-com-ai-artificial-intelligence-1013195-ai-agents-blocked-web-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.creativebloq.com/news/a-fake-mia-goth-selfie-fooled-the-internet-and-ai-slop-is-the-least-of-it",
+      "source_url": "https://www.creativebloq.com/news/a-fake-mia-goth-selfie-fooled-the-internet-and-ai-slop-is-the-least-of-it",
+      "headline": "A fake Mia Goth selfie fooled the internet, and AI slop is the least of it",
+      "summary": "Has social media become a breeding ground for parasocial drama?",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/7H2ipaNnd6tmSyfqcDc2f4-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7H2ipaNnd6tmSyfqcDc2f4-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-fake-mia-goth-selfie-fooled-the-internet-and-ai-slop-is-the-least-of-it",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-18T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-18/https-www-creativebloq-com-news-a-fake-mia-goth-selfie-fooled-the-internet-and-a-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
       }
     },
     {
@@ -80,12 +307,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-17T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-18T17:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-17T09:22:35.361Z",
-        "message_id": 610,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-17T09:22:35.361Z"
       },
       "linkedin": {
         "status": "pending"
@@ -93,15 +318,14 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-10-17T11:59:00.950Z",
-        "message_id": "18125359183808134",
-        "media_kind": "fallback-card"
+        "message_id": "18125359183808134"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-17/Why-AI-Isn-t-Ready-to-Tackle-Our-Convoluted-Genomes-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-wired-com-story-why-ai-isnt-ready-to-tackle-our-convoluted-genomes--story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-18/Why-AI-Isn-t-Ready-to-Tackle-Our-Convoluted-Genomes-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-18/https-www-wired-com-story-why-ai-isnt-ready-to-tackle-our-convoluted-genomes--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -109,12 +333,6 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-17T11:59:11.017Z",
-        "message_id": "18096416432129098",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -138,12 +356,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-17T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-18T19:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-17T12:12:07.921Z",
-        "message_id": 611,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-17T12:12:07.921Z"
       },
       "linkedin": {
         "status": "pending"
@@ -151,27 +367,20 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-10-17T14:15:54.558Z",
-        "message_id": "17953743696274790",
-        "media_kind": "source"
+        "message_id": "17953743696274790"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-creativebloq-com-news-olivia-rodrigos-expectations-music-video-hit-wit-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-18/https-www-creativebloq-com-news-olivia-rodrigos-expectations-music-video-hit-wit-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-17T14:16:03.656Z",
-        "message_id": "18083470169335024",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -195,12 +404,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-17T11:20:00.000Z",
+      "scheduled_publish_at": "2026-10-18T21:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-17T14:13:46.936Z",
-        "message_id": 612,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-17T14:13:46.936Z"
       },
       "linkedin": {
         "status": "pending"
@@ -208,27 +415,20 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-10-17T16:39:13.038Z",
-        "message_id": "17950057101346319",
-        "media_kind": "source"
+        "message_id": "17950057101346319"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-techradar-com-tech-retro-tech-is-making-a-comeback-here-are-10-of-the--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-18/https-www-techradar-com-tech-retro-tech-is-making-a-comeback-here-are-10-of-the--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-17T16:39:21.246Z",
-        "message_id": "18127698832828368",
-        "media_kind": "story-fallback"
       }
     },
     {
@@ -252,12 +452,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-17T13:20:00.000Z",
+      "scheduled_publish_at": "2026-10-18T23:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-17T15:39:30.255Z",
-        "message_id": 613,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-17T15:39:30.255Z"
       },
       "linkedin": {
         "status": "pending"
@@ -265,290 +463,14 @@
       "instagram": {
         "status": "published",
         "published_at": "2026-10-17T19:42:40.871Z",
-        "message_id": "18396776002204657",
-        "media_kind": "source"
+        "message_id": "18396776002204657"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-techradar-com-pro-the-collapse-of-web-coding-gigs-is-getting-ugly-ai-t-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-17T19:42:53.106Z",
-        "message_id": "18125230901478495",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "source_url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "headline": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
-      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, incl",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-and-8217-s-updated-app-store-rules-go-after-and-8216-nudify-and-8217-ai-apps",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-17T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-17T17:52:22.406Z",
-        "message_id": 614,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-17T21:30:53.837Z",
-        "message_id": "17886164832622920",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-17/Apple-8217-s-updated-App-Store-rules-go-after-8216-nudify-8217-AI-apps-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-theverge-com-tech-1013314-apple-app-store-nudify-ai-apps-harassment-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-17T21:31:02.579Z",
-        "message_id": "18125533120853786",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/32-768-cores-and-74-petaflops-amds-monster-new-rack-for-ai-agents-could-be-too-much-for-traditional-data-centers",
-      "source_url": "https://www.techradar.com/pro/32-768-cores-and-74-petaflops-amds-monster-new-rack-for-ai-agents-could-be-too-much-for-traditional-data-centers",
-      "headline": "32,768 cores and 74 petaflops: AMD’s monster new rack for AI agents could be too much for traditional data centers",
-      "summary": "AMD's Helion Agentic AI Rack combines high-core-count processors, accelerators, and programmable networking, potentially requiring data centers to upgrade existing infrastructure.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/9tasRtXoH4yfhJmxkE4z9k-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/9tasRtXoH4yfhJmxkE4z9k-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=32-768-cores-and-74-petaflops-amds-monster-new-rack-for-ai-agents-could-be-too-much-for-tr",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-17T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-17T19:41:16.008Z",
-        "message_id": 615,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-17T23:23:28.603Z",
-        "message_id": "17900713995386922",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-techradar-com-pro-32-768-cores-and-74-petaflops-amds-monster-new-rack--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-17T23:23:38.714Z",
-        "message_id": "18630339382050948",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-      "source_url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-      "headline": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/191:100/w_1280,c_limit/GettyImages-2299989251.jpg",
-      "image_url": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/191:100/w_1280,c_limit/GettyImages-2299989251.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-17T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-17T21:29:27.613Z",
-        "message_id": 616,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-18T01:10:37.535Z",
-        "message_id": "18202387093386269",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-17/Katie-Zacharia-Was-Linked-to-an-AI-Rare-Earths-Startup-It-s-Even-Weirder-Than-It-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-wired-com-story-katie-zacharia-was-linked-to-an-ai-rare-earths-startup-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-18T01:10:46.826Z",
-        "message_id": "18001667502000962",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/five-of-the-webs-biggest-data-scraping-brands-now-sit-under-one-usd3-6-billion-umbrella-and-ai-agents-are-the-reason-why",
-      "source_url": "https://www.techradar.com/pro/five-of-the-webs-biggest-data-scraping-brands-now-sit-under-one-usd3-6-billion-umbrella-and-ai-agents-are-the-reason-why",
-      "headline": "Five of the web's biggest data-scraping brands now sit under one $3.6 billion umbrella, and AI agents are the reason why",
-      "summary": "Oxylabs, Decodo, Webshare, ScrapingBee, and Honeygain are now one $3.6 billion family called Source, and it says AI agents have quadrupled demand.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6WqXtqpcEbMZztiGZ5F2K9-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/6WqXtqpcEbMZztiGZ5F2K9-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=five-of-the-webs-biggest-data-scraping-brands-now-sit-under-one-3-6-billion-umbrella-and-a",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-17T21:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-17T23:22:01.220Z",
-        "message_id": 617,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-techradar-com-pro-five-of-the-webs-biggest-data-scraping-brands-now-si-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3262167/the-just-released-m6-mac-mini-is-already-on-sale-for-949.html",
-      "source_url": "https://www.macworld.com/article/3262167/the-just-released-m6-mac-mini-is-already-on-sale-for-949.html",
-      "headline": "The just-released M6 Mac mini is already on sale for $949",
-      "summary": "the company or product is highlighted in a current technology report.",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3262167-0-27957500-1792179498-1050021-1.jpeg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3262167-0-27957500-1792179498-1050021-1.jpeg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 684,
-        "aspectRatio": 1.4970760233918128,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-just-released-m6-mac-mini-is-already-on-sale-for-949",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-17T23:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-18T01:06:39.488Z",
-        "message_id": 618,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-17/https-www-macworld-com-article-3262167-the-just-released-m6-mac-mini-is-already--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-18/https-www-techradar-com-pro-the-collapse-of-web-coding-gigs-is-getting-ugly-ai-t-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

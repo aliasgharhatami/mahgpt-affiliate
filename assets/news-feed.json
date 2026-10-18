@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T09:21:52.471Z",
+  "updatedAt": "2026-10-18T09:27:18.431Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -25,6 +25,61 @@
       "source": "https://www.macworld.com/article/2836233/best-portable-monitors-for-mac.html",
       "publishedAt": "2026-10-16T15:50:00.000Z",
       "image": "https://www.macworld.com/wp-content/uploads/2026/10/2836233-0-51771700-1792170885-BEST-PORTABLE-MONITORS-MAC.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "publishedAt": "2026-10-17T21:31:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?",
+      "summary": "Can in-house chips pop the AI bubble? Microsoft's Maia 300 makes the case, but Nvidia shrugged off the news with a 1.29% decline.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make-in-house-silicon-its-main-ai-engine-while-claiming-a-40-percent-efficiency-bump-could-going-the-google-route-be-the-pin-that-pops-the-nvidia-ai-bubble",
+      "publishedAt": "2026-10-17T19:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/gn2pVK4F4zf9ZvW3ypaFod-1920-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, ",
+      "guide": "/news/index.html",
+      "source": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "publishedAt": "2026-10-17T15:04:36.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't",
+      "guide": "/news/index.html",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "publishedAt": "2026-10-17T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "A fake Mia Goth selfie fooled the internet, and AI slop is the least of it",
+      "summary": "Has social media become a breeding ground for parasocial drama?",
+      "guide": "/news/index.html",
+      "source": "https://www.creativebloq.com/news/a-fake-mia-goth-selfie-fooled-the-internet-and-ai-slop-is-the-least-of-it",
+      "publishedAt": "2026-10-17T11:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7H2ipaNnd6tmSyfqcDc2f4-1920-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -69,61 +124,6 @@
       "source": "https://www.techradar.com/pro/the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-jobs-and-business-owners-are-very-happy-with-its-job-so-far",
       "publishedAt": "2026-10-16T23:25:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/AyKYL2MTRayWuTsydgHSfm-1920-80.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
-      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, incl",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "publishedAt": "2026-10-16T22:51:22.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "32,768 cores and 74 petaflops: AMD’s monster new rack for AI agents could be too much for traditional data centers",
-      "summary": "AMD's Helion Agentic AI Rack combines high-core-count processors, accelerators, and programmable networking, potentially requiring data centers to upgrade existing infrastructure.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/32-768-cores-and-74-petaflops-amds-monster-new-rack-for-ai-agents-could-be-too-much-for-traditional-data-centers",
-      "publishedAt": "2026-10-16T20:35:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/9tasRtXoH4yfhJmxkE4z9k-1920-80.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-      "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-      "publishedAt": "2026-10-16T20:05:08.000Z",
-      "image": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/191:100/w_1280,c_limit/GettyImages-2299989251.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Five of the web's biggest data-scraping brands now sit under one $3.6 billion umbrella, and AI agents are the reason why",
-      "summary": "Oxylabs, Decodo, Webshare, ScrapingBee, and Honeygain are now one $3.6 billion family called Source, and it says AI agents have quadrupled demand.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/five-of-the-webs-biggest-data-scraping-brands-now-sit-under-one-usd3-6-billion-umbrella-and-ai-agents-are-the-reason-why",
-      "publishedAt": "2026-10-16T19:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6WqXtqpcEbMZztiGZ5F2K9-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "The just-released M6 Mac mini is already on sale for $949",
-      "summary": "Macworld Apple Mac mini M6 View Deal (function () { document.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) { const debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1; const text = this.closest(\"#sticky-promo-block\").querySelector(\"p.promo-title\").text",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3262167/the-just-released-m6-mac-mini-is-already-on-sale-for-949.html",
-      "publishedAt": "2026-10-16T19:19:27.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3262167-0-27957500-1792179498-1050021-1.jpeg?quality=50&strip=all&w=1024"
     }
   ]
 }
