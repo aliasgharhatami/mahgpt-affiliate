@@ -4554,6 +4554,20 @@
         "message_id": "18060830471569883",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make-in-house-silicon-its-main-ai-engine-while-claiming-a-40-percent-efficiency-bump-could-going-the-google-route-be-the-pin-that-pops-the-nvidia-ai-bubble": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-18T13:17:39.771Z",
+        "message_id": "17868910299676724",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-18T13:17:48.534Z",
+        "message_id": "18333045097302324",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
