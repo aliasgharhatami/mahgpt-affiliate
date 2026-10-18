@@ -4526,6 +4526,20 @@
         "message_id": "18630339382050948",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-18T01:10:37.535Z",
+        "message_id": "18202387093386269",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-18T01:10:46.826Z",
+        "message_id": "18001667502000962",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
