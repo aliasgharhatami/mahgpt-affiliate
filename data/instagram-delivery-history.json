@@ -4568,6 +4568,20 @@
         "message_id": "18333045097302324",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-18T14:39:23.587Z",
+        "message_id": "18107631110351232",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-18T14:39:32.909Z",
+        "message_id": "18146977882565460",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
