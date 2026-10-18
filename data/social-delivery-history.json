@@ -6494,6 +6494,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3262167/the-just-released-m6-mac-mini-is-already-on-sale-for-949.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-18T01:06:39.488Z",
+        "message_id": 618,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
