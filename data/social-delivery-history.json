@@ -6562,6 +6562,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-18T16:47:52.300Z",
+        "message_id": 622,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
