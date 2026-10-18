@@ -1,12 +1,37 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T09:22:03.565Z",
-  "analysis_date": "2026-10-17",
+  "generated_at": "2026-10-18T09:38:43.754Z",
+  "analysis_date": "2026-10-18",
   "stories": [
     {
       "title": "Best Portable Monitors for MacBooks 2026: Compact, travel-ready screens",
       "source": "https://www.macworld.com/article/2836233/best-portable-monitors-for-mac.html",
       "mahgpt_url": "/news/story.html?id=best-portable-monitors-for-macbooks-2026-compact-travel-ready-screens"
+    },
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "source": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "mahgpt_url": "/news/story.html?id=meta-removes-language-that-raised-scraping-and-ai-training-concerns"
+    },
+    {
+      "title": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?",
+      "source": "https://www.techradar.com/pro/microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make-in-house-silicon-its-main-ai-engine-while-claiming-a-40-percent-efficiency-bump-could-going-the-google-route-be-the-pin-that-pops-the-nvidia-ai-bubble",
+      "mahgpt_url": "/news/story.html?id=microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make"
+    },
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "source": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "mahgpt_url": "/news/story.html?id=meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "mahgpt_url": "/news/story.html?id=websites-are-closing-their-doors-to-ai-agents"
+    },
+    {
+      "title": "A fake Mia Goth selfie fooled the internet, and AI slop is the least of it",
+      "source": "https://www.creativebloq.com/news/a-fake-mia-goth-selfie-fooled-the-internet-and-ai-slop-is-the-least-of-it",
+      "mahgpt_url": "/news/story.html?id=a-fake-mia-goth-selfie-fooled-the-internet-and-ai-slop-is-the-least-of-it"
     },
     {
       "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
@@ -17,85 +42,60 @@
       "title": "Olivia Rodrigo’s expectations music video hit with AI allegations",
       "source": "https://www.creativebloq.com/news/olivia-rodrigos-expectations-music-video-hit-with-ai-allegations",
       "mahgpt_url": "/news/story.html?id=olivia-rodrigos-expectations-music-video-hit-with-ai-allegations"
-    },
-    {
-      "title": "10 of the raddest retro gadgets around, from cassette players to flip phones",
-      "source": "https://www.techradar.com/tech/retro-tech-is-making-a-comeback-here-are-10-of-the-raddest-old-skool-gadgets-weve-spotted-from-cassette-players-to-flip-phones-and-film-cameras",
-      "mahgpt_url": "/news/story.html?id=10-of-the-raddest-retro-gadgets-around-from-cassette-players-to-flip-phones"
-    },
-    {
-      "title": "The collapse of web coding gigs is getting ugly — AI takes over routine website development jobs, and business owners are very happy with its job so far",
-      "source": "https://www.techradar.com/pro/the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-jobs-and-business-owners-are-very-happy-with-its-job-so-far",
-      "mahgpt_url": "/news/story.html?id=the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-"
-    },
-    {
-      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
-      "source": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "mahgpt_url": "/news/story.html?id=apple-and-8217-s-updated-app-store-rules-go-after-and-8216-nudify-and-8217-ai-apps"
-    },
-    {
-      "title": "32,768 cores and 74 petaflops: AMD’s monster new rack for AI agents could be too much for traditional data centers",
-      "source": "https://www.techradar.com/pro/32-768-cores-and-74-petaflops-amds-monster-new-rack-for-ai-agents-could-be-too-much-for-traditional-data-centers",
-      "mahgpt_url": "/news/story.html?id=32-768-cores-and-74-petaflops-amds-monster-new-rack-for-ai-agents-could-be-too-much-for-tr"
-    },
-    {
-      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-      "source": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-      "mahgpt_url": "/news/story.html?id=katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-17.html"
+      "path": "news/analysis/2026-10-18.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-17.html"
+      "path": "es/news/analysis/2026-10-18.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-17.html"
+      "path": "de/news/analysis/2026-10-18.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-17.html"
+      "path": "fr/news/analysis/2026-10-18.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-17.html"
+      "path": "pt-BR/news/analysis/2026-10-18.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-17.html"
+      "path": "ar/news/analysis/2026-10-18.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-17.html"
+      "path": "fa/news/analysis/2026-10-18.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-17.html"
+      "path": "tr/news/analysis/2026-10-18.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-17.html"
+      "path": "it/news/analysis/2026-10-18.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-17.html"
+      "path": "ja/news/analysis/2026-10-18.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-17.html"
+      "path": "ko/news/analysis/2026-10-18.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-17.html"
+      "path": "id/news/analysis/2026-10-18.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-17.html"
+      "path": "hi/news/analysis/2026-10-18.html"
     }
   ]
 }
