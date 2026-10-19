@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-10-19",
-  "created_at": "2026-10-19T07:27:32.418Z",
-  "source_feed_updated_at": "2026-10-19T07:27:32.327Z",
+  "created_at": "2026-10-19T10:47:22.601Z",
+  "source_feed_updated_at": "2026-10-19T10:47:18.775Z",
   "items": [
     {
       "story_id": "https://www.macworld.com/article/2836233/best-portable-monitors-for-mac.html",
@@ -53,6 +53,329 @@
       }
     },
     {
+      "story_id": "https://www.techradar.com/pro/surfer-ai-tracker-review",
+      "source_url": "https://www.techradar.com/pro/surfer-ai-tracker-review",
+      "headline": "Surfer AI Tracker review 2026",
+      "summary": "Surfer ruled Google content for years. Now it wants AI search too.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/QK5RsCzgTKXZn9PyQc33oj-1672-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QK5RsCzgTKXZn9PyQc33oj-1672-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1672,
+        "height": 941,
+        "aspectRatio": 1.7768331562167907,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=surfer-ai-tracker-review-2026",
+      "detected_partner": "surfer",
+      "product_url": "https://surferseo.com/",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-10-19T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-surfer-ai-tracker-review-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/workplace-tech-issues-are-increasing-making-us-more-stressed-outside-of-work",
+      "source_url": "https://www.techradar.com/pro/workplace-tech-issues-are-increasing-making-us-more-stressed-outside-of-work",
+      "headline": "Workplace tech issues are increasing making us more stressed outside of work",
+      "summary": "Logitech says that, despite AI and automation, having good hardware to interact with your machine is more important than ever.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/eTa3MYZCxXWVi2qdgfWZvm-999-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/eTa3MYZCxXWVi2qdgfWZvm-999-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 999,
+        "height": 563,
+        "aspectRatio": 1.7744227353463589,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=workplace-tech-issues-are-increasing-making-us-more-stressed-outside-of-work",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-19T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-workplace-tech-issues-are-increasing-making-us-more--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/you-would-not-use-a-ferrari-for-the-school-run-why-are-you-doing-it-for-ai",
+      "source_url": "https://www.techradar.com/pro/you-would-not-use-a-ferrari-for-the-school-run-why-are-you-doing-it-for-ai",
+      "headline": "You would not use a Ferrari for the school run. Why are you doing it for AI?",
+      "summary": "Why smarter model, silicon and deployment choices will define the next phase of enterprise AI",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=you-would-not-use-a-ferrari-for-the-school-run-why-are-you-doing-it-for-ai",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-19T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-you-would-not-use-a-ferrari-for-the-school-run-why-a-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3258591/i-want-a-homeview-i-just-need-a-reason-to-buy-one.html",
+      "source_url": "https://www.macworld.com/article/3258591/i-want-a-homeview-i-just-need-a-reason-to-buy-one.html",
+      "headline": "I want a HomeView. I just need a reason to buy one",
+      "summary": "Macworld Apple is very good at first impressions. The MacBook Air emerging from the manila envelope; the iPhone in Steve Jobs’ pocket; the first Macintosh saying “Hello.” Apple knows instinctively how to communicate in an instant what a product stands for, and why you should be excited about it. Whi",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3258591-0-24456900-1792405855-MacWorld-HomeView-2.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3258591-0-24456900-1792405855-MacWorld-HomeView-2.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 576,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-want-a-homeview-i-just-need-a-reason-to-buy-one",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-19T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-macworld-com-article-3258591-i-want-a-homeview-i-just-need-a-reason-to-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/why-ai-coding-is-widening-the-software-security-gap",
+      "source_url": "https://www.techradar.com/pro/why-ai-coding-is-widening-the-software-security-gap",
+      "headline": "Why AI coding is widening the software security gap",
+      "summary": "How organizations can utilize AI code while still maintaining their security.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1378,
+        "aspectRatio": 1.8577648766328012,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-ai-coding-is-widening-the-software-security-gap",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-19T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-why-ai-coding-is-widening-the-software-security-gap-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/enterprise-ai-outcomes-depend-on-the-art-of-unlearning",
+      "source_url": "https://www.techradar.com/pro/enterprise-ai-outcomes-depend-on-the-art-of-unlearning",
+      "headline": "Enterprise AI outcomes depend on the art of unlearning",
+      "summary": "Leaders can unlock enterprise AI transformation by prioritizing strategic unlearning and proactive change management.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=enterprise-ai-outcomes-depend-on-the-art-of-unlearning",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-19T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-enterprise-ai-outcomes-depend-on-the-art-of-unlearni-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "source_url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "headline": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6acfe36ba2733753393886b8/191:100/w_1280,c_limit/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg",
+      "image_url": "https://media.wired.com/photos/6acfe36ba2733753393886b8/191:100/w_1280,c_limit/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=disney-asked-character-ai-to-go-bankrupt-for-a-get-out-of-lawsuits-card",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-19T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-19/Disney-Asked-Character-AI-to-Go-Bankrupt-for-a-Get-Out-of-Lawsuits-Card-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-wired-com-story-disney-asked-characterai-to-go-bankrupt-for-a-get-out--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
       "story_id": "https://www.techradar.com/pro/ugreen-homeagent-ha100-hands-on",
       "source_url": "https://www.techradar.com/pro/ugreen-homeagent-ha100-hands-on",
       "headline": "Hands on: Ugreen HomeAgent HA100",
@@ -73,12 +396,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-19T21:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-19T07:27:39.102Z",
-        "message_id": 624,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-19T07:27:39.102Z"
       },
       "linkedin": {
         "status": "pending"
@@ -121,7 +442,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-19T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -138,331 +459,6 @@
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
       "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-arm-agi-cpu-crushes-amd-in-new-agentic-ai-benchmark--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/",
-      "source_url": "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/",
-      "headline": "How to use Google's SynthID AI detection website",
-      "summary": "It's a simple way to check whether an image has been created or manipulated, with a few caveats.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/how-to-use-googles-synthid-ai-detection-website/l-intro-1791998472.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/how-to-use-googles-synthid-ai-detection-website/l-intro-1791998472.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-use-googles-synthid-ai-detection-website",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T11:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-engadget-com-2286802-how-to-use-google-ai-detection-website-synthid--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/save-15-on-this-orico-obook-ryzen-7-6800h-laptop-down-to-usd587-but-you-have-to-pre-order-it-before-10-23-to-get-the-discount",
-      "source_url": "https://www.techradar.com/pro/save-15-on-this-orico-obook-ryzen-7-6800h-laptop-down-to-usd587-but-you-have-to-pre-order-it-before-10-23-to-get-the-discount",
-      "headline": "Save 15% on this Orico Obook Ryzen 7 6800H laptop, down to $587 — but you have to pre-order it before 10/23 to get the discount",
-      "summary": "ORICO's first laptop combines Ryzen 7 processing, expandable storage, a Full HD display, and an AI assistant, with preorder discounts available.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/RfBXRcuQzVuVPjh3rq4kbZ-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/RfBXRcuQzVuVPjh3rq4kbZ-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=save-15-on-this-orico-obook-ryzen-7-6800h-laptop-down-to-587-but-you-have-to-pre-order-it-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T13:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-save-15-on-this-orico-obook-ryzen-7-6800h-laptop-dow-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/the-gpu-never-reads-the-same-text-twice-belgian-startup-corbenic-wants-to-turn-your-servers-ssd-into-ai-memory-but-its-14x-speedup-owes-more-to-reading-less",
-      "source_url": "https://www.techradar.com/pro/the-gpu-never-reads-the-same-text-twice-belgian-startup-corbenic-wants-to-turn-your-servers-ssd-into-ai-memory-but-its-14x-speedup-owes-more-to-reading-less",
-      "headline": "'The GPU never reads the same text twice': Belgian startup Corbenic wants to turn your server's SSD into AI memory, but its 14x speedup owes more to reading less",
-      "summary": "Galahad promises exact, encrypted KV cache reuse for vLLM, SGLang, and Llama.cpp, but LMCache, Nvidia, and Phison got to the round table first.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/JdkWFNHpKBbyUcYStcmsn-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/JdkWFNHpKBbyUcYStcmsn-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-gpu-never-reads-the-same-text-twice-belgian-startup-corbenic-wants-to-turn-your-server",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-the-gpu-never-reads-the-same-text-twice-belgian-star-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
-      "source_url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
-      "headline": "Behold, Intel plans a 480GB GPU, a video card with more memory than the average laptop SSD has storage — but of course it's for AI, and curiously, it will use LPPDR5X, not even GDDR7",
-      "summary": "The Intel 480GB GPU combines 1.5TB/s bandwidth, 1.3 petaflops FP8 performance, and 350W power consumption, although pricing and availability remain undisclosed.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/CgQUk6Xegs5quXL7hxzKQ3-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/CgQUk6Xegs5quXL7hxzKQ3-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-h",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-behold-intel-plans-a-480gb-gpu-a-video-card-with-mor-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "headline": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 675,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=disney-agrees-to-hire-the-majority-of-character-ais-workforce",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-techcrunch-com-2026-10-18-disney-agrees-to-hire-the-majority-of-character--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-      "source_url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-      "headline": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6ad240695195eb0dd6087017/191:100/w_1280,c_limit/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg",
-      "image_url": "https://media.wired.com/photos/6ad240695195eb0dd6087017/191:100/w_1280,c_limit/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-19/OnlyFans-Creators-Are-Pissed-That-Meta-Lets-Muse-Talk-Dirty-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-wired-com-story-onlyfans-creators-are-pissed-that-meta-lets-muse-talk--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "headline": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 683,
-        "aspectRatio": 1.499267935578331,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-removes-language-that-raised-scraping-and-ai-training-concerns",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T23:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-18T09:27:25.451Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-18T09:42:04.641Z",
-        "message_id": "17890991574495212"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-techcrunch-com-2026-10-17-meta-removes-language-that-raised-scraping-and-a-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
