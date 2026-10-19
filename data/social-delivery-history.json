@@ -6681,6 +6681,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/why-ai-coding-is-widening-the-software-security-gap": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-19T22:54:59.021Z",
+        "message_id": 629,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
