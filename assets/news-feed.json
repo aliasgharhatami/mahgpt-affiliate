@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T07:27:32.327Z",
+  "updatedAt": "2026-10-19T10:47:18.775Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -27,6 +27,83 @@
       "image": "https://www.macworld.com/wp-content/uploads/2026/10/2836233-0-51771700-1792170885-BEST-PORTABLE-MONITORS-MAC.jpg?quality=50&strip=all&w=1024"
     },
     {
+      "tool": "surfer",
+      "toolName": "Surfer",
+      "category": "Partner watch",
+      "title": "Surfer AI Tracker review 2026",
+      "summary": "Surfer ruled Google content for years. Now it wants AI search too.",
+      "guide": "/partners/surfer.html",
+      "source": "https://www.techradar.com/pro/surfer-ai-tracker-review",
+      "publishedAt": "2026-10-19T10:26:24.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/QK5RsCzgTKXZn9PyQc33oj-1672-80.png"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Workplace tech issues are increasing making us more stressed outside of work",
+      "summary": "Logitech says that, despite AI and automation, having good hardware to interact with your machine is more important than ever.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/workplace-tech-issues-are-increasing-making-us-more-stressed-outside-of-work",
+      "publishedAt": "2026-10-19T10:36:25.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/eTa3MYZCxXWVi2qdgfWZvm-999-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "You would not use a Ferrari for the school run. Why are you doing it for AI?",
+      "summary": "Why smarter model, silicon and deployment choices will define the next phase of enterprise AI",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/you-would-not-use-a-ferrari-for-the-school-run-why-are-you-doing-it-for-ai",
+      "publishedAt": "2026-10-19T10:34:24.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "I want a HomeView. I just need a reason to buy one",
+      "summary": "Macworld Apple is very good at first impressions. The MacBook Air emerging from the manila envelope; the iPhone in Steve Jobs’ pocket; the first Macintosh saying “Hello.” Apple knows instinctively how to communicate in an instant what a product stands for, and why you should be excited about it. Whi",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3258591/i-want-a-homeview-i-just-need-a-reason-to-buy-one.html",
+      "publishedAt": "2026-10-19T10:30:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3258591-0-24456900-1792405855-MacWorld-HomeView-2.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Why AI coding is widening the software security gap",
+      "summary": "How organizations can utilize AI code while still maintaining their security.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/why-ai-coding-is-widening-the-software-security-gap",
+      "publishedAt": "2026-10-19T10:00:56.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Enterprise AI outcomes depend on the art of unlearning",
+      "summary": "Leaders can unlock enterprise AI transformation by prioritizing strategic unlearning and proactive change management.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/enterprise-ai-outcomes-depend-on-the-art-of-unlearning",
+      "publishedAt": "2026-10-19T09:16:42.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "publishedAt": "2026-10-19T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6acfe36ba2733753393886b8/191:100/w_1280,c_limit/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg"
+    },
+    {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
@@ -47,83 +124,6 @@
       "source": "https://www.techradar.com/pro/arm-agi-cpu-crushes-amd-in-new-agentic-ai-benchmark-but-what-does-its-2x-rack-level-performance-advantage-mean-for-the-future-of-x86-data-centers",
       "publishedAt": "2026-10-19T00:30:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/LJiLEMa769tLHbMg8ahzT5-1600-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "How to use Google's SynthID AI detection website",
-      "summary": "It's a simple way to check whether an image has been created or manipulated, with a few caveats.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/",
-      "publishedAt": "2026-10-18T23:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-googles-synthid-ai-detection-website/l-intro-1791998472.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Save 15% on this Orico Obook Ryzen 7 6800H laptop, down to $587 — but you have to pre-order it before 10/23 to get the discount",
-      "summary": "ORICO's first laptop combines Ryzen 7 processing, expandable storage, a Full HD display, and an AI assistant, with preorder discounts available.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/save-15-on-this-orico-obook-ryzen-7-6800h-laptop-down-to-usd587-but-you-have-to-pre-order-it-before-10-23-to-get-the-discount",
-      "publishedAt": "2026-10-18T22:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/RfBXRcuQzVuVPjh3rq4kbZ-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "'The GPU never reads the same text twice': Belgian startup Corbenic wants to turn your server's SSD into AI memory, but its 14x speedup owes more to reading less",
-      "summary": "Galahad promises exact, encrypted KV cache reuse for vLLM, SGLang, and Llama.cpp, but LMCache, Nvidia, and Phison got to the round table first.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-gpu-never-reads-the-same-text-twice-belgian-startup-corbenic-wants-to-turn-your-servers-ssd-into-ai-memory-but-its-14x-speedup-owes-more-to-reading-less",
-      "publishedAt": "2026-10-18T21:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/JdkWFNHpKBbyUcYStcmsn-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Behold, Intel plans a 480GB GPU, a video card with more memory than the average laptop SSD has storage — but of course it's for AI, and curiously, it will use LPPDR5X, not even GDDR7",
-      "summary": "The Intel 480GB GPU combines 1.5TB/s bandwidth, 1.3 petaflops FP8 performance, and 350W power consumption, although pricing and availability remain undisclosed.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
-      "publishedAt": "2026-10-18T20:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/CgQUk6Xegs5quXL7hxzKQ3-1920-80.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "publishedAt": "2026-10-18T16:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-      "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-      "publishedAt": "2026-10-18T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6ad240695195eb0dd6087017/191:100/w_1280,c_limit/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "publishedAt": "2026-10-17T21:31:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024"
     }
   ]
 }
