@@ -6647,6 +6647,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/you-would-not-use-a-ferrari-for-the-school-run-why-are-you-doing-it-for-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-19T17:30:20.119Z",
+        "message_id": 627,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
