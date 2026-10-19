@@ -4652,6 +4652,20 @@
         "message_id": "18105998903354656",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3258591/i-want-a-homeview-i-just-need-a-reason-to-buy-one.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-19T20:04:49.151Z",
+        "message_id": "18012690938993426",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-19T20:04:55.901Z",
+        "message_id": "18152395612551699",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
