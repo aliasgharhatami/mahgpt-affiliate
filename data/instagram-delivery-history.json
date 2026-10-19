@@ -4610,6 +4610,20 @@
         "message_id": "17976678107934824",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/surfer-ai-tracker-review": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-19T10:53:54.299Z",
+        "message_id": "17975609933939752",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-19T10:54:02.085Z",
+        "message_id": "18020829938949374",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
