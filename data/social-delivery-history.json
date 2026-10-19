@@ -6664,6 +6664,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3258591/i-want-a-homeview-i-just-need-a-reason-to-buy-one.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-19T20:26:02.675Z",
+        "message_id": 628,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
