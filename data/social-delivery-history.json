@@ -6630,6 +6630,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/workplace-tech-issues-are-increasing-making-us-more-stressed-outside-of-work": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-19T14:55:15.410Z",
+        "message_id": 626,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
