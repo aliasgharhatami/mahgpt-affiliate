@@ -4638,6 +4638,20 @@
         "classification": "instagram-api-error",
         "message": "The requested resource does not exist"
       }
+    },
+    "https://www.techradar.com/pro/you-would-not-use-a-ferrari-for-the-school-run-why-are-you-doing-it-for-ai": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-19T17:36:53.248Z",
+        "message_id": "18480096805115157",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-19T17:37:01.326Z",
+        "message_id": "18105998903354656",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
