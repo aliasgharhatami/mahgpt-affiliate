@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T09:38:35.521Z",
+  "updatedAt": "2026-10-19T07:27:32.327Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
+      "title": "Hands on: Ugreen HomeAgent HA100",
+      "summary": "The Ugreen HomeAgent HA100 is a basic NAS with the capability to operate as a self-contained AI in a home or business.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/ugreen-homeagent-ha100-hands-on",
+      "publishedAt": "2026-10-19T06:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ciUxYvvAZ9wqqL5eAXSo6j-1600-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Arm AGI CPU crushes AMD in new agentic AI benchmark — but what does its 2x rack-level performance advantage mean for the future of x86 data centers?",
+      "summary": "Arm’s AGI CPU delivers nearly twice AMD’s modelled rack-level performance across seven agentic AI workloads, although production validation remains outstanding.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/arm-agi-cpu-crushes-amd-in-new-agentic-ai-benchmark-but-what-does-its-2x-rack-level-performance-advantage-mean-for-the-future-of-x86-data-centers",
+      "publishedAt": "2026-10-19T00:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/LJiLEMa769tLHbMg8ahzT5-1600-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "How to use Google's SynthID AI detection website",
+      "summary": "It's a simple way to check whether an image has been created or manipulated, with a few caveats.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/",
+      "publishedAt": "2026-10-18T23:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-googles-synthid-ai-detection-website/l-intro-1791998472.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Save 15% on this Orico Obook Ryzen 7 6800H laptop, down to $587 — but you have to pre-order it before 10/23 to get the discount",
+      "summary": "ORICO's first laptop combines Ryzen 7 processing, expandable storage, a Full HD display, and an AI assistant, with preorder discounts available.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/save-15-on-this-orico-obook-ryzen-7-6800h-laptop-down-to-usd587-but-you-have-to-pre-order-it-before-10-23-to-get-the-discount",
+      "publishedAt": "2026-10-18T22:10:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/RfBXRcuQzVuVPjh3rq4kbZ-1920-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "'The GPU never reads the same text twice': Belgian startup Corbenic wants to turn your server's SSD into AI memory, but its 14x speedup owes more to reading less",
+      "summary": "Galahad promises exact, encrypted KV cache reuse for vLLM, SGLang, and Llama.cpp, but LMCache, Nvidia, and Phison got to the round table first.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/the-gpu-never-reads-the-same-text-twice-belgian-startup-corbenic-wants-to-turn-your-servers-ssd-into-ai-memory-but-its-14x-speedup-owes-more-to-reading-less",
+      "publishedAt": "2026-10-18T21:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JdkWFNHpKBbyUcYStcmsn-1920-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Behold, Intel plans a 480GB GPU, a video card with more memory than the average laptop SSD has storage — but of course it's for AI, and curiously, it will use LPPDR5X, not even GDDR7",
+      "summary": "The Intel 480GB GPU combines 1.5TB/s bandwidth, 1.3 petaflops FP8 performance, and 350W power consumption, although pricing and availability remain undisclosed.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+      "publishedAt": "2026-10-18T20:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/CgQUk6Xegs5quXL7hxzKQ3-1920-80.png"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "publishedAt": "2026-10-18T16:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "publishedAt": "2026-10-18T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ad240695195eb0dd6087017/191:100/w_1280,c_limit/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
       "title": "Meta removes language that raised scraping and AI training concerns",
       "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
       "guide": "/news/index.html",
       "source": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "publishedAt": "2026-10-17T21:31:32.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble?",
-      "summary": "Can in-house chips pop the AI bubble? Microsoft's Maia 300 makes the case, but Nvidia shrugged off the news with a 1.29% decline.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make-in-house-silicon-its-main-ai-engine-while-claiming-a-40-percent-efficiency-bump-could-going-the-google-route-be-the-pin-that-pops-the-nvidia-ai-bubble",
-      "publishedAt": "2026-10-17T19:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gn2pVK4F4zf9ZvW3ypaFod-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, ",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "publishedAt": "2026-10-17T15:04:36.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Websites are closing their doors to AI agents",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "publishedAt": "2026-10-17T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "A fake Mia Goth selfie fooled the internet, and AI slop is the least of it",
-      "summary": "Has social media become a breeding ground for parasocial drama?",
-      "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/news/a-fake-mia-goth-selfie-fooled-the-internet-and-ai-slop-is-the-least-of-it",
-      "publishedAt": "2026-10-17T11:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7H2ipaNnd6tmSyfqcDc2f4-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-      "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-      "publishedAt": "2026-10-17T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6acf63d6b06331734b2e70d7/191:100/w_1280,c_limit/Physical%20Genome%20cr-Samuel%20Velasco%20and%20Hannah%20Waters_Quanta%20Magazine-Lede.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Olivia Rodrigo’s expectations music video hit with AI allegations",
-      "summary": "Not to alarm you, but Chappell Roan appears to be missing an arm…",
-      "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/news/olivia-rodrigos-expectations-music-video-hit-with-ai-allegations",
-      "publishedAt": "2026-10-17T08:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/JBNodSdzrJq6SmUC8ahYmG-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "10 of the raddest retro gadgets around, from cassette players to flip phones",
-      "summary": "Nostalgic gadgets are popping up in all corners of the market, proving the ideal antidote to subscription overload and unwanted AI.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/tech/retro-tech-is-making-a-comeback-here-are-10-of-the-raddest-old-skool-gadgets-weve-spotted-from-cassette-players-to-flip-phones-and-film-cameras",
-      "publishedAt": "2026-10-17T05:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/jxXVbppvQftTY8zdxX8QQj-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "The collapse of web coding gigs is getting ugly — AI takes over routine website development jobs, and business owners are very happy with its job so far",
-      "summary": "AI website builders are reducing reliance on developers, with freelance postings falling sharply as small businesses increasingly create websites independently.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-jobs-and-business-owners-are-very-happy-with-its-job-so-far",
-      "publishedAt": "2026-10-16T23:25:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/AyKYL2MTRayWuTsydgHSfm-1920-80.png"
     }
   ]
 }

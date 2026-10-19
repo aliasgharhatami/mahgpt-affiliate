@@ -6596,6 +6596,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/ugreen-homeagent-ha100-hands-on": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-19T07:27:39.102Z",
+        "message_id": 624,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
