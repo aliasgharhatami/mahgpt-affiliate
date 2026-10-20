@@ -4708,6 +4708,20 @@
         "message_id": "18121077955991046",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/when-the-model-takes-away-the-moat": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-20T13:00:17.578Z",
+        "message_id": "17878147620567037",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-20T13:00:28.070Z",
+        "message_id": "18118621387786539",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
