@@ -6783,6 +6783,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-20T18:38:41.577Z",
+        "message_id": 635,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
