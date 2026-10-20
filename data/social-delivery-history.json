@@ -6749,6 +6749,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/why-ai-is-upending-traditional-technology-pricing": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-20T14:26:21.914Z",
+        "message_id": 633,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
