@@ -6732,6 +6732,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/when-the-model-takes-away-the-moat": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-20T10:37:12.230Z",
+        "message_id": 632,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
