@@ -6766,6 +6766,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/we-love-a-good-challenge-logitech-head-tells-us-why-the-ai-age-could-revolutionize-collaboration-as-we-know-it-as-it-reveals-its-biggest-product-overhaul-in-years": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-20T15:49:16.424Z",
+        "message_id": 634,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
