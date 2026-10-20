@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-10-20",
-  "created_at": "2026-10-20T09:21:35.206Z",
-  "source_feed_updated_at": "2026-10-20T09:21:35.057Z",
+  "created_at": "2026-10-20T10:05:31.998Z",
+  "source_feed_updated_at": "2026-10-20T10:05:27.071Z",
   "items": [
     {
       "story_id": "https://www.techradar.com/computing/gpu/after-more-than-a-week-of-living-and-breathing-nvidias-rtx-spark-chip-im-impressed-by-how-much-ai-creative-and-gaming-power-it-packs-into-such-a-tiny-space",
@@ -27,10 +27,8 @@
       "affiliate_status": null,
       "scheduled_publish_at": "2026-10-20T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-20T09:21:43.116Z",
-        "message_id": 631,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-20T09:21:43.116Z"
       },
       "linkedin": {
         "status": "pending"
