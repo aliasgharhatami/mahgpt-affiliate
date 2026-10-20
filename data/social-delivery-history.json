@@ -6834,6 +6834,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/its-over-ai-won-google-gemini-4-argon-shatters-59-year-old-nuclear-fusion-conjecture-in-just-a-few-hours": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-20T23:55:30.335Z",
+        "message_id": 638,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
