@@ -6817,6 +6817,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-20T21:54:24.240Z",
+        "message_id": 637,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
