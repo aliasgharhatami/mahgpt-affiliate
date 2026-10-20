@@ -6800,6 +6800,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/its-a-beast-but-not-at-everything-rtx-spark-powered-microsoft-surface-laptop-ultra-lives-up-to-expectations-but-you-need-to-be-a-big-fan-of-local-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-20T20:38:35.810Z",
+        "message_id": 636,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
