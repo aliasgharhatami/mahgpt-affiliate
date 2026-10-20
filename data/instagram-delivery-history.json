@@ -4694,6 +4694,20 @@
         "message_id": "17986418064089212",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/computing/gpu/after-more-than-a-week-of-living-and-breathing-nvidias-rtx-spark-chip-im-impressed-by-how-much-ai-creative-and-gaming-power-it-packs-into-such-a-tiny-space": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-20T10:09:38.350Z",
+        "message_id": "17887054146687700",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-20T10:09:48.179Z",
+        "message_id": "18121077955991046",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
