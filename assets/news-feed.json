@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T10:47:18.775Z",
+  "updatedAt": "2026-10-20T09:21:35.057Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "adobe",
-      "toolName": "Adobe",
-      "category": "Partner watch",
-      "title": "Best Portable Monitors for MacBooks 2026: Compact, travel-ready screens",
-      "summary": "Macworld Most monitors sit on a desk and don’t move any more than their stand or arm allows. We have a separate round up of the best monitors for Mac . But sometimes a more portable solution makes sense when the MacBook’s own screen simply isn’t large enough. There are two main types of portable dis",
-      "guide": "/partners/adobe.html",
-      "source": "https://www.macworld.com/article/2836233/best-portable-monitors-for-mac.html",
-      "publishedAt": "2026-10-16T15:50:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2836233-0-51771700-1792170885-BEST-PORTABLE-MONITORS-MAC.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "surfer",
-      "toolName": "Surfer",
-      "category": "Partner watch",
-      "title": "Surfer AI Tracker review 2026",
-      "summary": "Surfer ruled Google content for years. Now it wants AI search too.",
-      "guide": "/partners/surfer.html",
-      "source": "https://www.techradar.com/pro/surfer-ai-tracker-review",
-      "publishedAt": "2026-10-19T10:26:24.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/QK5RsCzgTKXZn9PyQc33oj-1672-80.png"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "After more than a week of living and breathing Nvidia’s RTX Spark chip, I’m impressed by how much AI, creative and gaming power it packs into such a tiny space",
+      "summary": "Here's everything the brand new Nvidia RTX Spark chipset can do for your creative work, gaming and AI workflow.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/computing/gpu/after-more-than-a-week-of-living-and-breathing-nvidias-rtx-spark-chip-im-impressed-by-how-much-ai-creative-and-gaming-power-it-packs-into-such-a-tiny-space",
+      "publishedAt": "2026-10-20T09:06:10.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/S5x7ykARbEuwdH8oMZ7QWL-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Workplace tech issues are increasing making us more stressed outside of work",
-      "summary": "Logitech says that, despite AI and automation, having good hardware to interact with your machine is more important than ever.",
+      "title": "When the model takes away the moat",
+      "summary": "The ability to train an AI model should be fully democratized.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/workplace-tech-issues-are-increasing-making-us-more-stressed-outside-of-work",
-      "publishedAt": "2026-10-19T10:36:25.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/eTa3MYZCxXWVi2qdgfWZvm-999-80.jpg"
+      "source": "https://www.techradar.com/pro/when-the-model-takes-away-the-moat",
+      "publishedAt": "2026-10-20T08:58:44.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "You would not use a Ferrari for the school run. Why are you doing it for AI?",
-      "summary": "Why smarter model, silicon and deployment choices will define the next phase of enterprise AI",
+      "title": "Why AI is upending traditional technology pricing",
+      "summary": "AI is breaking the link between effort, cost and value that technology services have relied on for decades.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/you-would-not-use-a-ferrari-for-the-school-run-why-are-you-doing-it-for-ai",
-      "publishedAt": "2026-10-19T10:34:24.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/why-ai-is-upending-traditional-technology-pricing",
+      "publishedAt": "2026-10-20T08:42:30.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DVffQnnibMWmNpx2Wfb5Se-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "I want a HomeView. I just need a reason to buy one",
-      "summary": "Macworld Apple is very good at first impressions. The MacBook Air emerging from the manila envelope; the iPhone in Steve Jobs’ pocket; the first Macintosh saying “Hello.” Apple knows instinctively how to communicate in an instant what a product stands for, and why you should be excited about it. Whi",
+      "title": "'We love a good challenge': Logitech head tells us why the AI age could revolutionize collaboration as we know it, as it reveals its biggest product overhaul in years",
+      "summary": "With workers now spread everywhere, having collaboration technology that works effectively has never been more important.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3258591/i-want-a-homeview-i-just-need-a-reason-to-buy-one.html",
-      "publishedAt": "2026-10-19T10:30:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3258591-0-24456900-1792405855-MacWorld-HomeView-2.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/we-love-a-good-challenge-logitech-head-tells-us-why-the-ai-age-could-revolutionize-collaboration-as-we-know-it-as-it-reveals-its-biggest-product-overhaul-in-years",
+      "publishedAt": "2026-10-20T06:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Lysi3Kt86wXiiqTz9m2Msd-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why AI coding is widening the software security gap",
-      "summary": "How organizations can utilize AI code while still maintaining their security.",
+      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "summary": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/why-ai-coding-is-widening-the-software-security-gap",
-      "publishedAt": "2026-10-19T10:00:56.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg"
+      "source": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "publishedAt": "2026-10-20T04:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/baseus1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Enterprise AI outcomes depend on the art of unlearning",
-      "summary": "Leaders can unlock enterprise AI transformation by prioritizing strategic unlearning and proactive change management.",
+      "title": "'It's a beast, but not at everything' — RTX Spark-powered Microsoft Surface Laptop Ultra lives up to expectations, but you need to be a big fan of local AI",
+      "summary": "I studied the available reviews of the RTX-powered Surface Laptop Ultra to see if its CPU, local AI, and raw graphics rendering power are actually worth the price.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/enterprise-ai-outcomes-depend-on-the-art-of-unlearning",
-      "publishedAt": "2026-10-19T09:16:42.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/its-a-beast-but-not-at-everything-rtx-spark-powered-microsoft-surface-laptop-ultra-lives-up-to-expectations-but-you-need-to-be-a-big-fan-of-local-ai",
+      "publishedAt": "2026-10-20T02:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vsSgqJ4vKjLh2Rtb79f7rN-2160-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-      "publishedAt": "2026-10-19T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6acfe36ba2733753393886b8/191:100/w_1280,c_limit/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg"
+      "source": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "publishedAt": "2026-10-20T01:27:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Hands on: Ugreen HomeAgent HA100",
-      "summary": "The Ugreen HomeAgent HA100 is a basic NAS with the capability to operate as a self-contained AI in a home or business.",
+      "title": "'It’s over, AI won': Google Gemini 4 Argon shatters 59-year-old nuclear fusion conjecture in just a few hours",
+      "summary": "Google’s Gemini 4 Argon helped researchers extend existing mathematical solutions for magnetic confinement, generating new configurations relevant to fusion simulation software.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ugreen-homeagent-ha100-hands-on",
-      "publishedAt": "2026-10-19T06:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ciUxYvvAZ9wqqL5eAXSo6j-1600-80.jpg"
+      "source": "https://www.techradar.com/pro/its-over-ai-won-google-gemini-4-argon-shatters-59-year-old-nuclear-fusion-conjecture-in-just-a-few-hours",
+      "publishedAt": "2026-10-20T00:15:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/BKmfRqmHDxwsPv9YVxfTQH-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Arm AGI CPU crushes AMD in new agentic AI benchmark — but what does its 2x rack-level performance advantage mean for the future of x86 data centers?",
-      "summary": "Arm’s AGI CPU delivers nearly twice AMD’s modelled rack-level performance across seven agentic AI workloads, although production validation remains outstanding.",
+      "title": "Workers are spending more time correcting AI-generated content than doing actual work",
+      "summary": "Workplace AI use comes with various drawbacks, not least spending time correcting and revising AI-produced and assisted material.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/arm-agi-cpu-crushes-amd-in-new-agentic-ai-benchmark-but-what-does-its-2x-rack-level-performance-advantage-mean-for-the-future-of-x86-data-centers",
-      "publishedAt": "2026-10-19T00:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/LJiLEMa769tLHbMg8ahzT5-1600-80.jpg"
+      "source": "https://www.techradar.com/pro/workers-are-spending-more-time-correcting-ai-generated-content-than-doing-actual-work",
+      "publishedAt": "2026-10-19T23:25:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JuVM646RCCEKeLguKcXpeb-2000-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "publishedAt": "2026-10-19T22:49:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900"
     }
   ]
 }

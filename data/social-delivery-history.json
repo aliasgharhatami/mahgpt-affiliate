@@ -6715,6 +6715,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/computing/gpu/after-more-than-a-week-of-living-and-breathing-nvidias-rtx-spark-chip-im-impressed-by-how-much-ai-creative-and-gaming-power-it-packs-into-such-a-tiny-space": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-20T09:21:43.116Z",
+        "message_id": 631,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

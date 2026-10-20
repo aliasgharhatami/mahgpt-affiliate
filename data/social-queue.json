@@ -1,179 +1,65 @@
 {
   "version": 1,
-  "queue_date": "2026-10-19",
-  "created_at": "2026-10-19T10:47:22.601Z",
-  "source_feed_updated_at": "2026-10-19T10:47:18.775Z",
+  "queue_date": "2026-10-20",
+  "created_at": "2026-10-20T09:21:35.206Z",
+  "source_feed_updated_at": "2026-10-20T09:21:35.057Z",
   "items": [
     {
-      "story_id": "https://www.macworld.com/article/2836233/best-portable-monitors-for-mac.html",
-      "source_url": "https://www.macworld.com/article/2836233/best-portable-monitors-for-mac.html",
-      "headline": "Best Portable Monitors for MacBooks 2026: Compact, travel-ready screens",
-      "summary": "Macworld Most monitors sit on a desk and don’t move any more than their stand or arm allows. We have a separate round up of the best monitors for Mac. But sometimes a more portable solution makes sense when the MacBook’s own screen simply isn’t large enough. There are two main types of portable dis",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2836233-0-51771700-1792170885-BEST-PORTABLE-MONITORS-MAC.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2836233-0-51771700-1792170885-BEST-PORTABLE-MONITORS-MAC.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://www.techradar.com/computing/gpu/after-more-than-a-week-of-living-and-breathing-nvidias-rtx-spark-chip-im-impressed-by-how-much-ai-creative-and-gaming-power-it-packs-into-such-a-tiny-space",
+      "source_url": "https://www.techradar.com/computing/gpu/after-more-than-a-week-of-living-and-breathing-nvidias-rtx-spark-chip-im-impressed-by-how-much-ai-creative-and-gaming-power-it-packs-into-such-a-tiny-space",
+      "headline": "After more than a week of living and breathing Nvidia’s RTX Spark chip, I’m impressed by how much AI, creative and gaming power it packs into such a tiny space",
+      "summary": "Here's everything the brand new Nvidia RTX Spark chipset can do for your creative work, gaming and AI workflow.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/S5x7ykARbEuwdH8oMZ7QWL-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/S5x7ykARbEuwdH8oMZ7QWL-1920-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=best-portable-monitors-for-macbooks-2026-compact-travel-ready-screens",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=after-more-than-a-week-of-living-and-breathing-nvidias-rtx-spark-chip-im-impressed-by-how-",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T05:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-17T08:03:20.517Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-17T09:28:57.891Z",
-        "message_id": "18169532278466406"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-macworld-com-article-2836233-best-portable-monitors-for-mac-html-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/surfer-ai-tracker-review",
-      "source_url": "https://www.techradar.com/pro/surfer-ai-tracker-review",
-      "headline": "Surfer AI Tracker review 2026",
-      "summary": "Surfer ruled Google content for years. Now it wants AI search too.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/QK5RsCzgTKXZn9PyQc33oj-1672-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/QK5RsCzgTKXZn9PyQc33oj-1672-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1672,
-        "height": 941,
-        "aspectRatio": 1.7768331562167907,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=surfer-ai-tracker-review-2026",
-      "detected_partner": "surfer",
-      "product_url": "https://surferseo.com/",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-19T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-20T05:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-10-19T10:48:00.023Z",
-        "message_id": 625,
+        "published_at": "2026-10-20T09:21:43.116Z",
+        "message_id": 631,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-19T10:53:54.299Z",
-        "message_id": "17975609933939752",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-surfer-ai-tracker-review-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-20/https-www-techradar-com-computing-gpu-after-more-than-a-week-of-living-and-breat-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-19T10:54:02.085Z",
-        "message_id": "18020829938949374",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/workplace-tech-issues-are-increasing-making-us-more-stressed-outside-of-work",
-      "source_url": "https://www.techradar.com/pro/workplace-tech-issues-are-increasing-making-us-more-stressed-outside-of-work",
-      "headline": "Workplace tech issues are increasing making us more stressed outside of work",
-      "summary": "Logitech says that, despite AI and automation, having good hardware to interact with your machine is more important than ever.",
+      "story_id": "https://www.techradar.com/pro/when-the-model-takes-away-the-moat",
+      "source_url": "https://www.techradar.com/pro/when-the-model-takes-away-the-moat",
+      "headline": "When the model takes away the moat",
+      "summary": "The ability to train an AI model should be fully democratized.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/eTa3MYZCxXWVi2qdgfWZvm-999-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/eTa3MYZCxXWVi2qdgfWZvm-999-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 999,
-        "height": 563,
-        "aspectRatio": 1.7744227353463589,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=workplace-tech-issues-are-increasing-making-us-more-stressed-outside-of-work",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-19T14:55:15.410Z",
-        "message_id": 626,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-19T14:21:36.745Z",
-        "message_id": "18153227476539309",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-workplace-tech-issues-are-increasing-making-us-more--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "failed",
-        "attempted_at": "2026-10-19T14:21:40.915Z",
-        "classification": "instagram-api-error",
-        "message": "The requested resource does not exist"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/you-would-not-use-a-ferrari-for-the-school-run-why-are-you-doing-it-for-ai",
-      "source_url": "https://www.techradar.com/pro/you-would-not-use-a-ferrari-for-the-school-run-why-are-you-doing-it-for-ai",
-      "headline": "You would not use a Ferrari for the school run. Why are you doing it for AI?",
-      "summary": "Why smarter model, silicon and deployment choices will define the next phase of enterprise AI",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg",
       "image_validation": {
         "valid": true,
         "width": 2560,
@@ -183,239 +69,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=you-would-not-use-a-ferrari-for-the-school-run-why-are-you-doing-it-for-ai",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=when-the-model-takes-away-the-moat",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-19T17:30:20.119Z",
-        "message_id": 627,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-19T17:36:53.248Z",
-        "message_id": "18480096805115157",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-you-would-not-use-a-ferrari-for-the-school-run-why-a-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-19T17:37:01.326Z",
-        "message_id": "18105998903354656",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3258591/i-want-a-homeview-i-just-need-a-reason-to-buy-one.html",
-      "source_url": "https://www.macworld.com/article/3258591/i-want-a-homeview-i-just-need-a-reason-to-buy-one.html",
-      "headline": "I want a HomeView. I just need a reason to buy one",
-      "summary": "Macworld Apple is very good at first impressions. The MacBook Air emerging from the manila envelope; the iPhone in Steve Jobs’ pocket; the first Macintosh saying “Hello.” Apple knows instinctively how to communicate in an instant what a product stands for, and why you should be excited about it. Whi",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3258591-0-24456900-1792405855-MacWorld-HomeView-2.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3258591-0-24456900-1792405855-MacWorld-HomeView-2.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 576,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-want-a-homeview-i-just-need-a-reason-to-buy-one",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-19T20:26:02.675Z",
-        "message_id": 628,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-19T20:04:49.151Z",
-        "message_id": "18012690938993426",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-macworld-com-article-3258591-i-want-a-homeview-i-just-need-a-reason-to-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-19T20:04:55.901Z",
-        "message_id": "18152395612551699",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/why-ai-coding-is-widening-the-software-security-gap",
-      "source_url": "https://www.techradar.com/pro/why-ai-coding-is-widening-the-software-security-gap",
-      "headline": "Why AI coding is widening the software security gap",
-      "summary": "How organizations can utilize AI code while still maintaining their security.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1378,
-        "aspectRatio": 1.8577648766328012,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-ai-coding-is-widening-the-software-security-gap",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-19T22:54:59.021Z",
-        "message_id": 629,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-19T22:55:42.920Z",
-        "message_id": "17982094149108670",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-why-ai-coding-is-widening-the-software-security-gap-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-19T22:55:52.185Z",
-        "message_id": "18136002598679337",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/enterprise-ai-outcomes-depend-on-the-art-of-unlearning",
-      "source_url": "https://www.techradar.com/pro/enterprise-ai-outcomes-depend-on-the-art-of-unlearning",
-      "headline": "Enterprise AI outcomes depend on the art of unlearning",
-      "summary": "Leaders can unlock enterprise AI transformation by prioritizing strategic unlearning and proactive change management.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=enterprise-ai-outcomes-depend-on-the-art-of-unlearning",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-20T01:51:43.774Z",
-        "message_id": 630,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-20T01:54:30.322Z",
-        "message_id": "18118897903950169",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-enterprise-ai-outcomes-depend-on-the-art-of-unlearni-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-20T01:54:40.166Z",
-        "message_id": "17986418064089212",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-      "source_url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-      "headline": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6acfe36ba2733753393886b8/191:100/w_1280,c_limit/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg",
-      "image_url": "https://media.wired.com/photos/6acfe36ba2733753393886b8/191:100/w_1280,c_limit/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=disney-asked-character-ai-to-go-bankrupt-for-a-get-out-of-lawsuits-card",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T19:20:00.000Z",
+      "scheduled_publish_at": "2026-10-20T07:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -430,8 +88,146 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-19/Disney-Asked-Character-AI-to-Go-Bankrupt-for-a-Get-Out-of-Lawsuits-Card-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-wired-com-story-disney-asked-characterai-to-go-bankrupt-for-a-get-out--story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-20/https-www-techradar-com-pro-when-the-model-takes-away-the-moat-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/why-ai-is-upending-traditional-technology-pricing",
+      "source_url": "https://www.techradar.com/pro/why-ai-is-upending-traditional-technology-pricing",
+      "headline": "Why AI is upending traditional technology pricing",
+      "summary": "AI is breaking the link between effort, cost and value that technology services have relied on for decades.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/DVffQnnibMWmNpx2Wfb5Se-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/DVffQnnibMWmNpx2Wfb5Se-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-ai-is-upending-traditional-technology-pricing",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-20T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-20/https-www-techradar-com-pro-why-ai-is-upending-traditional-technology-pricing-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/we-love-a-good-challenge-logitech-head-tells-us-why-the-ai-age-could-revolutionize-collaboration-as-we-know-it-as-it-reveals-its-biggest-product-overhaul-in-years",
+      "source_url": "https://www.techradar.com/pro/we-love-a-good-challenge-logitech-head-tells-us-why-the-ai-age-could-revolutionize-collaboration-as-we-know-it-as-it-reveals-its-biggest-product-overhaul-in-years",
+      "headline": "'We love a good challenge': Logitech head tells us why the AI age could revolutionize collaboration as we know it, as it reveals its biggest product overhaul in years",
+      "summary": "With workers now spread everywhere, having collaboration technology that works effectively has never been more important.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Lysi3Kt86wXiiqTz9m2Msd-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Lysi3Kt86wXiiqTz9m2Msd-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1444,
+        "aspectRatio": 1.7728531855955678,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=we-love-a-good-challenge-logitech-head-tells-us-why-the-ai-age-could-revolutionize-collabo",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-20T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-20/https-www-techradar-com-pro-we-love-a-good-challenge-logitech-head-tells-us-why--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "source_url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "headline": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "summary": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/baseus1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/baseus1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 623,
+        "aspectRatio": 1.926163723916533,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=baseus-new-security-camera-has-a-spotlight-that-tracks-and-follows-moving-targets",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-20T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-20/Baseus-new-security-camera-has-a-spotlight-that-tracks-and-follows-moving-target-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-20/https-www-theverge-com-tech-1005073-baseus-security-primesentinel-u2-pro-outdoor-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -442,73 +238,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/ugreen-homeagent-ha100-hands-on",
-      "source_url": "https://www.techradar.com/pro/ugreen-homeagent-ha100-hands-on",
-      "headline": "Hands on: Ugreen HomeAgent HA100",
-      "summary": "The Ugreen HomeAgent HA100 is a basic NAS with the capability to operate as a self-contained AI in a home or business.",
+      "story_id": "https://www.techradar.com/pro/its-a-beast-but-not-at-everything-rtx-spark-powered-microsoft-surface-laptop-ultra-lives-up-to-expectations-but-you-need-to-be-a-big-fan-of-local-ai",
+      "source_url": "https://www.techradar.com/pro/its-a-beast-but-not-at-everything-rtx-spark-powered-microsoft-surface-laptop-ultra-lives-up-to-expectations-but-you-need-to-be-a-big-fan-of-local-ai",
+      "headline": "'It's a beast, but not at everything' — RTX Spark-powered Microsoft Surface Laptop Ultra lives up to expectations, but you need to be a big fan of local AI",
+      "summary": "I studied the available reviews of the RTX-powered Surface Laptop Ultra to see if its CPU, local AI, and raw graphics rendering power are actually worth the price.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ciUxYvvAZ9wqqL5eAXSo6j-1600-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ciUxYvvAZ9wqqL5eAXSo6j-1600-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/vsSgqJ4vKjLh2Rtb79f7rN-2160-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vsSgqJ4vKjLh2Rtb79f7rN-2160-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 900,
+        "width": 2160,
+        "height": 1215,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hands-on-ugreen-homeagent-ha100",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=its-a-beast-but-not-at-everything-rtx-spark-powered-microsoft-surface-laptop-ultra-lives-u",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T21:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-19T07:27:39.102Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-ugreen-homeagent-ha100-hands-on-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/arm-agi-cpu-crushes-amd-in-new-agentic-ai-benchmark-but-what-does-its-2x-rack-level-performance-advantage-mean-for-the-future-of-x86-data-centers",
-      "source_url": "https://www.techradar.com/pro/arm-agi-cpu-crushes-amd-in-new-agentic-ai-benchmark-but-what-does-its-2x-rack-level-performance-advantage-mean-for-the-future-of-x86-data-centers",
-      "headline": "Arm AGI CPU crushes AMD in new agentic AI benchmark — but what does its 2x rack-level performance advantage mean for the future of x86 data centers?",
-      "summary": "Arm’s AGI CPU delivers nearly twice AMD’s modelled rack-level performance across seven agentic AI workloads, although production validation remains outstanding.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/LJiLEMa769tLHbMg8ahzT5-1600-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/LJiLEMa769tLHbMg8ahzT5-1600-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 900,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=arm-agi-cpu-crushes-amd-in-new-agentic-ai-benchmark-but-what-does-its-2x-rack-level-perfor",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-19T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-20T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -524,7 +274,191 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-19/https-www-techradar-com-pro-arm-agi-cpu-crushes-amd-in-new-agentic-ai-benchmark--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-20/https-www-techradar-com-pro-its-a-beast-but-not-at-everything-rtx-spark-powered--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source_url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "headline": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 900,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-20T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-20/https-techcrunch-com-2026-10-19-mamdani-says-feds-have-abdicated-on-ai-urges-new-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/its-over-ai-won-google-gemini-4-argon-shatters-59-year-old-nuclear-fusion-conjecture-in-just-a-few-hours",
+      "source_url": "https://www.techradar.com/pro/its-over-ai-won-google-gemini-4-argon-shatters-59-year-old-nuclear-fusion-conjecture-in-just-a-few-hours",
+      "headline": "'It’s over, AI won': Google Gemini 4 Argon shatters 59-year-old nuclear fusion conjecture in just a few hours",
+      "summary": "Google’s Gemini 4 Argon helped researchers extend existing mathematical solutions for magnetic confinement, generating new configurations relevant to fusion simulation software.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/BKmfRqmHDxwsPv9YVxfTQH-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BKmfRqmHDxwsPv9YVxfTQH-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=its-over-ai-won-google-gemini-4-argon-shatters-59-year-old-nuclear-fusion-conjecture-in-ju",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-20T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-20/https-www-techradar-com-pro-its-over-ai-won-google-gemini-4-argon-shatters-59-ye-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/workers-are-spending-more-time-correcting-ai-generated-content-than-doing-actual-work",
+      "source_url": "https://www.techradar.com/pro/workers-are-spending-more-time-correcting-ai-generated-content-than-doing-actual-work",
+      "headline": "Workers are spending more time correcting AI-generated content than doing actual work",
+      "summary": "Workplace AI use comes with various drawbacks, not least spending time correcting and revising AI-produced and assisted material.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/JuVM646RCCEKeLguKcXpeb-2000-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/JuVM646RCCEKeLguKcXpeb-2000-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2000,
+        "height": 1125,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=workers-are-spending-more-time-correcting-ai-generated-content-than-doing-actual-work",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-20T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-20/https-www-techradar-com-pro-workers-are-spending-more-time-correcting-ai-generat-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source_url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "headline": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 900,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=embedded-ai-evaluators-won-and-8217-t-be-an-easy-solution-hugging-face-and-8217-s-policy-c",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-20T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-20/https-techcrunch-com-2026-10-19-embedded-ai-evaluators-wont-be-an-easy-solution--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
