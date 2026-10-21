@@ -6902,6 +6902,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3263062/learn-claude-code-and-claude-cowork-with-this-19-99-e-degree.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-21T20:51:49.480Z",
+        "message_id": 642,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
