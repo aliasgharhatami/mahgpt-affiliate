@@ -6919,6 +6919,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/how-do-you-know-whats-real-us-utilities-are-making-ai-data-centers-prove-they-exist-before-handing-over-power-connections-as-50-percent-of-planned-buildouts-are-currently-being-delayed-stalled-or-canceled": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-21T22:40:06.273Z",
+        "message_id": 643,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
