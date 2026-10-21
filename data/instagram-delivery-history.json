@@ -4778,6 +4778,20 @@
         "message_id": "17987416014109022",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/673049/homepod-mini-2-release-date-price-specs.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-21T10:16:59.801Z",
+        "message_id": "17881007400630097",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-21T10:17:07.998Z",
+        "message_id": "18016809146747972",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
