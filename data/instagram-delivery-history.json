@@ -4834,6 +4834,20 @@
         "message_id": "18113122739147315",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/how-do-you-know-whats-real-us-utilities-are-making-ai-data-centers-prove-they-exist-before-handing-over-power-connections-as-50-percent-of-planned-buildouts-are-currently-being-delayed-stalled-or-canceled": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-21T22:21:18.235Z",
+        "message_id": "18633025009032991",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-21T22:21:28.980Z",
+        "message_id": "17983603748905925",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
