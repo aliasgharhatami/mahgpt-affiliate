@@ -6868,6 +6868,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/why-enterprise-ai-needs-real-time-conversations-not-just-documents": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-21T15:17:18.132Z",
+        "message_id": 640,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
