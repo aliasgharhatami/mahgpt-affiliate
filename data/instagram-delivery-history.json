@@ -4806,6 +4806,20 @@
         "message_id": "18286166968288199",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/europe-data-centers-climate-change/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-21T19:07:09.632Z",
+        "message_id": "17966049692983345",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-21T19:07:20.034Z",
+        "message_id": "17978218821134107",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
