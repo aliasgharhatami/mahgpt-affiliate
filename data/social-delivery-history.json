@@ -6851,6 +6851,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/673049/homepod-mini-2-release-date-price-specs.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-21T10:10:00.656Z",
+        "message_id": 639,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
