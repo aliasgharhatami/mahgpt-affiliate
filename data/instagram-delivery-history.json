@@ -4820,6 +4820,20 @@
         "message_id": "17978218821134107",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3263062/learn-claude-code-and-claude-cowork-with-this-19-99-e-degree.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-21T20:41:28.701Z",
+        "message_id": "18118996529004062",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-21T20:41:39.538Z",
+        "message_id": "18113122739147315",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
