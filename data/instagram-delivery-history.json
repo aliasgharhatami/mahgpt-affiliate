@@ -4862,6 +4862,20 @@
         "classification": "instagram-api-error",
         "message": "The requested resource does not exist"
       }
+    },
+    "https://www.macworld.com/article/2629813/iphone-duo-folding-design-price-specs-release-date.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-22T10:18:09.833Z",
+        "message_id": "17872497399637422",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-22T10:18:19.093Z",
+        "message_id": "17911469997602784",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
