@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T10:09:24.581Z",
-  "analysis_date": "2026-10-21",
+  "generated_at": "2026-10-22T10:11:59.921Z",
+  "analysis_date": "2026-10-22",
   "stories": [
     {
-      "title": "HomePod mini 2: Everything you need to know release date, price & specs",
-      "source": "https://www.macworld.com/article/673049/homepod-mini-2-release-date-price-specs.html",
-      "mahgpt_url": "/news/story.html?id=homepod-mini-2-everything-you-need-to-know-release-date-price-and-specs"
+      "title": "iPhone Duo guide: Release date, price, specs and first reviews",
+      "source": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-price-specs-release-date.html",
+      "mahgpt_url": "/news/story.html?id=iphone-duo-guide-release-date-price-specs-and-first-reviews"
     },
     {
-      "title": "Why enterprise AI needs real-time conversations, not just documents",
-      "source": "https://www.techradar.com/pro/why-enterprise-ai-needs-real-time-conversations-not-just-documents",
-      "mahgpt_url": "/news/story.html?id=why-enterprise-ai-needs-real-time-conversations-not-just-documents"
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "source": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "mahgpt_url": "/news/story.html?id=hugging-faces-new-ai-biology-model-lets-you-chat-with-dna"
     },
     {
-      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in The Way",
-      "source": "https://www.wired.com/story/europe-data-centers-climate-change/",
-      "mahgpt_url": "/news/story.html?id=europe-wants-data-centers-its-climate-goals-are-getting-in-the-way"
+      "title": "Barclays to cut 5,000 jobs while handing work over to AI — Chief Executive says AI is 'icing on the cake'",
+      "source": "https://www.techradar.com/pro/barclays-to-cut-5-000-jobs-while-handing-work-over-to-ai-chief-executive-says-ai-is-icing-on-the-cake",
+      "mahgpt_url": "/news/story.html?id=barclays-to-cut-5-000-jobs-while-handing-work-over-to-ai-chief-executive-says-ai-is-icing-"
     },
     {
-      "title": "Learn Claude Code and Claude Cowork with this $19.99 e-degree",
-      "source": "https://www.macworld.com/article/3263062/learn-claude-code-and-claude-cowork-with-this-19-99-e-degree.html",
-      "mahgpt_url": "/news/story.html?id=learn-claude-code-and-claude-cowork-with-this-19-99-e-degree"
+      "title": "Settle ChatGPT vs. Claude yourself with ChatPlayground AI — $59.97 for life",
+      "source": "https://www.macworld.com/article/3266400/settle-chatgpt-vs-claude-yourself-with-chatplayground-ai-59-97-for-life.html",
+      "mahgpt_url": "/news/story.html?id=settle-chatgpt-vs-claude-yourself-with-chatplayground-ai-59-97-for-life"
     },
     {
-      "title": "'How do you know what's real?': US utilities are making AI data centers prove they exist before handing over power connections — as 50% of planned buildouts are currently being delayed, stalled, or canceled",
-      "source": "https://www.techradar.com/pro/how-do-you-know-whats-real-us-utilities-are-making-ai-data-centers-prove-they-exist-before-handing-over-power-connections-as-50-percent-of-planned-buildouts-are-currently-being-delayed-stalled-or-canceled",
-      "mahgpt_url": "/news/story.html?id=how-do-you-know-whats-real-us-utilities-are-making-ai-data-centers-prove-they-exist-before"
+      "title": "Macworld Podcast: Apple Watch Series 12 review",
+      "source": "https://www.macworld.com/article/3255323/apple-watch-series-12-review-macworld-podcast.html",
+      "mahgpt_url": "/news/story.html?id=macworld-podcast-apple-watch-series-12-review"
     },
     {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "source": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "mahgpt_url": "/news/story.html?id=anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed"
+      "title": "I tried ChatGPT's latest Chrome upgrade and it surprised me",
+      "source": "https://www.techradar.com/ai-platforms-assistants/chatgpt-has-a-new-chrome-integration-i-put-it-to-the-test-to-see-if-it-really-makes-browsing-better",
+      "mahgpt_url": "/news/story.html?id=i-tried-chatgpts-latest-chrome-upgrade-and-it-surprised-me"
     },
     {
-      "title": "People are using AI vibe coding to remove ads and trackers from smart TVs",
-      "source": "https://www.techradar.com/entertainment/streaming/your-tv-should-do-what-you-paid-for-people-are-vibe-coding-apps-to-banish-ads-from-their-smart-tvs-and-android-tv-and-its-catching-on",
-      "mahgpt_url": "/news/story.html?id=people-are-using-ai-vibe-coding-to-remove-ads-and-trackers-from-smart-tvs"
+      "title": "‘Thanks again for your help!’: Rogue AI agents on Tencent Cloud tried to crack Alibaba’s Amap, then chatted politely with the team tracking them",
+      "source": "https://www.techradar.com/pro/thanks-again-for-your-help-rogue-ai-agents-on-tencent-cloud-tried-to-crack-alibabas-amap-then-chatted-politely-with-the-team-tracking-them",
+      "mahgpt_url": "/news/story.html?id=thanks-again-for-your-help-rogue-ai-agents-on-tencent-cloud-tried-to-crack-alibabas-amap-t"
     },
     {
-      "title": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate",
-      "source": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "mahgpt_url": "/news/story.html?id=hugging-face-ceo-warns-that-netflix-and-8217-s-openai-hack-documentary-isn-and-8217-t-accu"
+      "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
+      "source": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "mahgpt_url": "/news/story.html?id=blackstone-and-8217-s-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-21.html"
+      "path": "news/analysis/2026-10-22.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-21.html"
+      "path": "es/news/analysis/2026-10-22.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-21.html"
+      "path": "de/news/analysis/2026-10-22.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-21.html"
+      "path": "fr/news/analysis/2026-10-22.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-21.html"
+      "path": "pt-BR/news/analysis/2026-10-22.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-21.html"
+      "path": "ar/news/analysis/2026-10-22.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-21.html"
+      "path": "fa/news/analysis/2026-10-22.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-21.html"
+      "path": "tr/news/analysis/2026-10-22.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-21.html"
+      "path": "it/news/analysis/2026-10-22.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-21.html"
+      "path": "ja/news/analysis/2026-10-22.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-21.html"
+      "path": "ko/news/analysis/2026-10-22.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-21.html"
+      "path": "id/news/analysis/2026-10-22.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-21.html"
+      "path": "hi/news/analysis/2026-10-22.html"
     }
   ]
 }
