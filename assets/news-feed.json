@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T05:51:41.520Z",
+  "updatedAt": "2026-10-22T10:11:50.405Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -15,6 +15,72 @@
     "https://feeds.arstechnica.com/arstechnica/technology-lab"
   ],
   "items": [
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "iPhone Duo guide: Release date, price, specs and first reviews",
+      "summary": "Macworld Apple’s first foldable iPhone, the iPhone Duo, goes on sale on October 23, but buyers who missed the first wave of preorders face a much longer wait. Delivery estimates slipped rapidly after orders opened on October 16, with Macworld’s U.S. tracking showing January 25, 2027 within around ha",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-price-specs-release-date.html",
+      "publishedAt": "2026-10-22T10:09:01.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2629813-0-54455000-1792663755-iphone-duo-closed.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "publishedAt": "2026-10-22T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ad92806649bdf60df6fd54f/191:100/w_1280,c_limit/Science_Hugging%20Face%E2%80%99s%20Powerful%20New%20DNA%20Model%20Is%20Small%20Enough%20to%20Run%20on%20a%20Laptop_v1.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Barclays to cut 5,000 jobs while handing work over to AI — Chief Executive says AI is 'icing on the cake'",
+      "summary": "Barclays cutting 5,000 jobs as part of a plan to save £1.1 billion, and the majority of the work is going to AI.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/barclays-to-cut-5-000-jobs-while-handing-work-over-to-ai-chief-executive-says-ai-is-icing-on-the-cake",
+      "publishedAt": "2026-10-22T08:38:13.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/PhZHSZFCEViAUYuivfBtj7-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Settle ChatGPT vs. Claude yourself with ChatPlayground AI — $59.97 for life",
+      "summary": "Macworld TL;DR: The ChatPlayground AI Unlimited Plan for life is $59.97 (reg. $619) through Oct. 25. Send one prompt to 20+ models, including ChatGPT, Claude, Gemini, and DeepSeek, and see the answers side by side. Search “ChatGPT vs. Claude,” and you’ll find thousands of opinions. ChatPlayground AI",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3266400/settle-chatgpt-vs-claude-yourself-with-chatplayground-ai-59-97-for-life.html",
+      "publishedAt": "2026-10-22T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3266400-0-41721900-1792656056-ChatPlayground_06d10a.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Macworld Podcast: Apple Watch Series 12 review",
+      "summary": "Macworld In this episode of the Macworld Podcast, we take a deep look at the Apple Watch Series 12. We discuss its new features, its price, and whether it’s worth buying. Tune in and find out! This is episode 1005 with Michael Simon , David Price , and Roman Loyola . Episode 1005 on YouTube Episode ",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3255323/apple-watch-series-12-review-macworld-podcast.html",
+      "publishedAt": "2026-10-22T07:17:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3255323-0-18439900-1792653451-Apple-Watch-Series-12.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "I tried ChatGPT's latest Chrome upgrade and it surprised me",
+      "summary": "OpenAI's new Chrome integration makes ChatGPT a more convenient part of everyday browsing while challenging Google's efforts to make Gemini the default AI assistant inside its own browser",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/ai-platforms-assistants/chatgpt-has-a-new-chrome-integration-i-put-it-to-the-test-to-see-if-it-really-makes-browsing-better",
+      "publishedAt": "2026-10-22T05:58:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9F55HXMihfP38PfNhZ4NMg-1920-80.jpg"
+    },
     {
       "tool": "ai-news",
       "toolName": "AI News",
@@ -58,72 +124,6 @@
       "source": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
       "publishedAt": "2026-10-21T22:33:44.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta to create a new class of shares to fund AI push",
-      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of inves",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "publishedAt": "2026-10-21T21:30:02.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "publishedAt": "2026-10-21T21:14:19.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "PHP: The three letters that shut down sites all over the internet today",
-      "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any sit",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
-      "publishedAt": "2026-10-21T20:36:56.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "publishedAt": "2026-10-21T20:27:41.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "publishedAt": "2026-10-21T19:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "PHP Armageddon: OpenAI, Google&#8217;s Wiz find ancient holes, panicking the internet",
-      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "publishedAt": "2026-10-21T17:59:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801"
     }
   ]
 }
