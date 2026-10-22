@@ -322,7 +322,10 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "pending"
+        "status": "published",
+        "published_at": "2026-10-22T00:03:11.765Z",
+        "message_id": "18130521418874657",
+        "media_kind": "source"
       },
       "x": {
         "status": "pending"
@@ -336,6 +339,12 @@
         "repairs": [
           "image-rejected"
         ]
+      },
+      "instagram_story": {
+        "status": "failed",
+        "attempted_at": "2026-10-22T00:03:16.759Z",
+        "classification": "instagram-api-error",
+        "message": "The requested resource does not exist"
       }
     },
     {

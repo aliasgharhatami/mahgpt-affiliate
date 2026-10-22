@@ -4848,6 +4848,20 @@
         "message_id": "17983603748905925",
         "media_kind": "story-fallback"
       }
+    },
+    "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-22T00:03:11.765Z",
+        "message_id": "18130521418874657",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "failed",
+        "attempted_at": "2026-10-22T00:03:16.759Z",
+        "classification": "instagram-api-error",
+        "message": "The requested resource does not exist"
+      }
     }
   }
 }
