@@ -4890,6 +4890,20 @@
         "message_id": "18131979158499728",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.techradar.com/pro/barclays-to-cut-5-000-jobs-while-handing-work-over-to-ai-chief-executive-says-ai-is-icing-on-the-cake": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-22T19:45:09.333Z",
+        "message_id": "18141081658621724",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-22T19:45:17.109Z",
+        "message_id": "18491989738106795",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
