@@ -6970,6 +6970,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/2629813/iphone-duo-folding-design-price-specs-release-date.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-22T10:12:38.126Z",
+        "message_id": 646,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
