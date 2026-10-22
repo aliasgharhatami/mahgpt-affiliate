@@ -6987,6 +6987,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-22T15:54:49.750Z",
+        "message_id": 647,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
