@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T10:09:14.577Z",
+  "updatedAt": "2026-10-22T05:51:41.520Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "HomePod mini 2: Everything you need to know release date, price & specs",
-      "summary": "Macworld Apple has unveiled the HomePod mini 2, the first major update to its smallest smart speaker since the original launched in November 2020. Announced on October 13, 2026, the new HomePod mini brings Apple’s more capable Siri AI assistant, upgraded audio experiences, improved connectivity, and",
+      "title": "‘Thanks again for your help!’: Rogue AI agents on Tencent Cloud tried to crack Alibaba’s Amap, then chatted politely with the team tracking them",
+      "summary": "AI agents made thousands of requests to Alibaba’s Amap, bypassed some restrictions, and prompted researchers to investigate their infrastructure and uncertain origins.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/673049/homepod-mini-2-release-date-price-specs.html",
-      "publishedAt": "2026-10-21T09:39:43.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/673049-0-68167700-1792575620-homepod-mini-2-colors.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/thanks-again-for-your-help-rogue-ai-agents-on-tencent-cloud-tried-to-crack-alibabas-amap-then-chatted-politely-with-the-team-tracking-them",
+      "publishedAt": "2026-10-22T02:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/2BXK9rhzJj3TYVMotiBpk4-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why enterprise AI needs real-time conversations, not just documents",
-      "summary": "Building a true enterprise brain requires capturing the dynamic context hidden within business conversations.",
+      "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/why-enterprise-ai-needs-real-time-conversations-not-just-documents",
-      "publishedAt": "2026-10-21T08:46:45.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "publishedAt": "2026-10-21T22:51:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591561486_34813d39be_c.jpg?w=799"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in The Way",
-      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/europe-data-centers-climate-change/",
-      "publishedAt": "2026-10-21T08:30:00.000Z",
-      "image": "https://media.wired.com/photos/6ad7d5f6ceee34bd819fdbeb/191:100/w_1280,c_limit/Business_Can%20Europe%20Build%20Data%20Centers%20Without%20Giving%20Up%20Its%20Climate%20Goals_v2.jpg"
+      "source": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "publishedAt": "2026-10-21T22:39:50.000Z",
+      "image": "https://media.wired.com/photos/6ad9408768bf72427a051c89/191:100/w_1280,c_limit/WIRED_Business_Mark-Z_CA.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Learn Claude Code and Claude Cowork with this $19.99 e-degree",
-      "summary": "Macworld TL;DR: Learn prompting, Claude Code, and Claude Cowork automation with the Claude AI Professional E-Degree, now $19.99 (reg. $159). Claude Code and Claude Cowork turned Claude into a tool that writes code and runs tasks across your apps, but most people still use it like a chatbot. Eduonix’",
+      "title": "Data centers could erase decades of air quality gains",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utiliti",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3263062/learn-claude-code-and-claude-cowork-with-this-19-99-e-degree.html",
-      "publishedAt": "2026-10-21T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3263062-0-72736700-1792569659-Claude_6b3b33.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "publishedAt": "2026-10-21T22:33:44.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "'How do you know what's real?': US utilities are making AI data centers prove they exist before handing over power connections — as 50% of planned buildouts are currently being delayed, stalled, or canceled",
-      "summary": "Many providers are stuck on an awkward conundrum about their newest customers: are they real?",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of inves",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/how-do-you-know-whats-real-us-utilities-are-making-ai-data-centers-prove-they-exist-before-handing-over-power-connections-as-50-percent-of-planned-buildouts-are-currently-being-delayed-stalled-or-canceled",
-      "publishedAt": "2026-10-21T01:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg"
+      "source": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "publishedAt": "2026-10-21T21:30:02.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "publishedAt": "2026-10-20T23:01:23.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024"
+      "source": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "publishedAt": "2026-10-21T21:14:19.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "People are using AI vibe coding to remove ads and trackers from smart TVs",
-      "summary": "Developers are using AI vibe coding tools to remove ads, tracking and bloat from their smart TVs.",
+      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any sit",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/entertainment/streaming/your-tv-should-do-what-you-paid-for-people-are-vibe-coding-apps-to-banish-ads-from-their-smart-tvs-and-android-tv-and-its-catching-on",
-      "publishedAt": "2026-10-20T22:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/nfteXx4c6FNguq8M3fCMcW-1920-80.jpg"
+      "source": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "publishedAt": "2026-10-21T20:36:56.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "publishedAt": "2026-10-20T22:24:02.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789"
+      "source": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "publishedAt": "2026-10-21T20:27:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "This silent all-flash NAS with 10GbE and dual USB4 is cheaper if you buy it bare-bone and add your own SSDs",
-      "summary": "Minisforum’s fanless S5 combines five NVMe slots, 10GbE networking, dual USB4 and local AI, with SSD choices determining potential savings.",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/this-silent-all-flash-nas-with-10gbe-and-dual-usb4-is-cheaper-if-you-buy-it-bare-bone-and-add-your-own-ssds",
-      "publishedAt": "2026-10-20T22:15:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/oSjjJpaYEjk9eLdnawYiFA-1920-80.png"
+      "source": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "publishedAt": "2026-10-21T19:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini abou",
+      "title": "PHP Armageddon: OpenAI, Google&#8217;s Wiz find ancient holes, panicking the internet",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "publishedAt": "2026-10-20T22:11:34.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&strip=all&crop=1.0809792843691%2C0%2C97.838041431262%2C100&w=1200"
+      "source": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "publishedAt": "2026-10-21T17:59:12.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801"
     }
   ]
 }

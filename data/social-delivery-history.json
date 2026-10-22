@@ -6953,6 +6953,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/thanks-again-for-your-help-rogue-ai-agents-on-tencent-cloud-tried-to-crack-alibabas-amap-then-chatted-politely-with-the-team-tracking-them": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-22T05:51:50.780Z",
+        "message_id": 645,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

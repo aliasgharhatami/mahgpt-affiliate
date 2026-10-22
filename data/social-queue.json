@@ -1,131 +1,111 @@
 {
   "version": 1,
-  "queue_date": "2026-10-21",
-  "created_at": "2026-10-21T10:09:18.551Z",
-  "source_feed_updated_at": "2026-10-21T10:09:14.577Z",
+  "queue_date": "2026-10-22",
+  "created_at": "2026-10-22T05:51:41.614Z",
+  "source_feed_updated_at": "2026-10-22T05:51:41.520Z",
   "items": [
     {
-      "story_id": "https://www.macworld.com/article/673049/homepod-mini-2-release-date-price-specs.html",
-      "source_url": "https://www.macworld.com/article/673049/homepod-mini-2-release-date-price-specs.html",
-      "headline": "HomePod mini 2: Everything you need to know release date, price & specs",
-      "summary": "Macworld Apple has unveiled the HomePod mini 2, the first major update to its smallest smart speaker since the original launched in November 2020. Announced on October 13, 2026, the new HomePod mini brings Apple’s more capable Siri AI assistant, upgraded audio experiences, improved connectivity, and",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/673049-0-68167700-1792575620-homepod-mini-2-colors.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/673049-0-68167700-1792575620-homepod-mini-2-colors.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=homepod-mini-2-everything-you-need-to-know-release-date-price-and-specs",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-21T05:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-21T10:10:00.656Z",
-        "message_id": 639,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-21T10:16:59.801Z",
-        "message_id": "17881007400630097",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-21/https-www-macworld-com-article-673049-homepod-mini-2-release-date-price-specs-ht-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-21T10:17:07.998Z",
-        "message_id": "18016809146747972",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/why-enterprise-ai-needs-real-time-conversations-not-just-documents",
-      "source_url": "https://www.techradar.com/pro/why-enterprise-ai-needs-real-time-conversations-not-just-documents",
-      "headline": "Why enterprise AI needs real-time conversations, not just documents",
-      "summary": "Building a true enterprise brain requires capturing the dynamic context hidden within business conversations.",
+      "story_id": "https://www.techradar.com/pro/thanks-again-for-your-help-rogue-ai-agents-on-tencent-cloud-tried-to-crack-alibabas-amap-then-chatted-politely-with-the-team-tracking-them",
+      "source_url": "https://www.techradar.com/pro/thanks-again-for-your-help-rogue-ai-agents-on-tencent-cloud-tried-to-crack-alibabas-amap-then-chatted-politely-with-the-team-tracking-them",
+      "headline": "‘Thanks again for your help!’: Rogue AI agents on Tencent Cloud tried to crack Alibaba’s Amap, then chatted politely with the team tracking them",
+      "summary": "AI agents made thousands of requests to Alibaba’s Amap, bypassed some restrictions, and prompted researchers to investigate their infrastructure and uncertain origins.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/2BXK9rhzJj3TYVMotiBpk4-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2BXK9rhzJj3TYVMotiBpk4-1920-80.png",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
+        "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-enterprise-ai-needs-real-time-conversations-not-just-documents",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=thanks-again-for-your-help-rogue-ai-agents-on-tencent-cloud-tried-to-crack-alibabas-amap-t",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-21T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-22T05:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-10-21T15:17:18.132Z",
-        "message_id": 640,
+        "published_at": "2026-10-22T05:51:50.780Z",
+        "message_id": 645,
         "delivery": "photo"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-21T14:52:13.285Z",
-        "message_id": "18102139574563010",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-21/https-www-techradar-com-pro-why-enterprise-ai-needs-real-time-conversations-not--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-22/https-www-techradar-com-pro-thanks-again-for-your-help-rogue-ai-agents-on-tencen-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-21T14:52:23.565Z",
-        "message_id": "18286166968288199",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.wired.com/story/europe-data-centers-climate-change/",
-      "source_url": "https://www.wired.com/story/europe-data-centers-climate-change/",
-      "headline": "Europe Wants Data Centers. Its Climate Goals Are Getting in The Way",
-      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+      "story_id": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source_url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "headline": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55591561486_34813d39be_c.jpg?w=799",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55591561486_34813d39be_c.jpg?w=799",
+      "image_validation": {
+        "valid": true,
+        "width": 799,
+        "height": 533,
+        "aspectRatio": 1.4990619136960601,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=blackstone-and-8217-s-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-22T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-22/https-techcrunch-com-2026-10-21-blackstones-jas-khaira-says-fears-over-ai-buildo-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "source_url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "headline": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
       "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6ad7d5f6ceee34bd819fdbeb/191:100/w_1280,c_limit/Business_Can%20Europe%20Build%20Data%20Centers%20Without%20Giving%20Up%20Its%20Climate%20Goals_v2.jpg",
-      "image_url": "https://media.wired.com/photos/6ad7d5f6ceee34bd819fdbeb/191:100/w_1280,c_limit/Business_Can%20Europe%20Build%20Data%20Centers%20Without%20Giving%20Up%20Its%20Climate%20Goals_v2.jpg",
+      "original_image_url": "https://media.wired.com/photos/6ad9408768bf72427a051c89/191:100/w_1280,c_limit/WIRED_Business_Mark-Z_CA.jpg",
+      "image_url": "https://media.wired.com/photos/6ad9408768bf72427a051c89/191:100/w_1280,c_limit/WIRED_Business_Mark-Z_CA.jpg",
       "image_validation": {
         "valid": true,
         "width": 1280,
@@ -135,32 +115,27 @@
       },
       "image_mode": "source",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=europe-wants-data-centers-its-climate-goals-are-getting-in-the-way",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-21T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-22T09:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-21T19:29:23.017Z",
-        "message_id": 641,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-21T19:07:09.632Z",
-        "message_id": "17966049692983345",
-        "media_kind": "fallback-card"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-21/Europe-Wants-Data-Centers-Its-Climate-Goals-Are-Getting-in-The-Way-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-21/https-www-wired-com-story-europe-data-centers-climate-change--story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-22/Mark-Zuckerberg-Agrees-to-Stay-in-California-Despite-Billionaires-Tax-Ballot-Mea-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-22/https-www-wired-com-story-mark-zuckerberg-agrees-to-stay-in-california-despite-b-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -168,136 +143,110 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-21T19:07:20.034Z",
-        "message_id": "17978218821134107",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3263062/learn-claude-code-and-claude-cowork-with-this-19-99-e-degree.html",
-      "source_url": "https://www.macworld.com/article/3263062/learn-claude-code-and-claude-cowork-with-this-19-99-e-degree.html",
-      "headline": "Learn Claude Code and Claude Cowork with this $19.99 e-degree",
-      "summary": "Macworld TL;DR: Learn prompting, Claude Code, and Claude Cowork automation with the Claude AI Professional E-Degree, now $19.99 (reg. $159). Claude Code and Claude Cowork turned Claude into a tool that writes code and runs tasks across your apps, but most people still use it like a chatbot. Eduonix’",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3263062-0-72736700-1792569659-Claude_6b3b33.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3263062-0-72736700-1792569659-Claude_6b3b33.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "headline": "Data centers could erase decades of air quality gains",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utiliti",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
       },
       "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=learn-claude-code-and-claude-cowork-with-this-19-99-e-degree",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=data-centers-could-erase-decades-of-air-quality-gains",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-21T11:20:00.000Z",
+      "scheduled_publish_at": "2026-10-22T11:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-21T20:51:49.480Z",
-        "message_id": 642,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-21T20:41:28.701Z",
-        "message_id": "18118996529004062",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-21/https-www-macworld-com-article-3263062-learn-claude-code-and-claude-cowork-with--story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-22/Data-centers-could-erase-decades-of-air-quality-gains-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-22/https-www-theverge-com-ai-artificial-intelligence-1015958-data-center-pollution--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-21T20:41:39.538Z",
-        "message_id": "18113122739147315",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/how-do-you-know-whats-real-us-utilities-are-making-ai-data-centers-prove-they-exist-before-handing-over-power-connections-as-50-percent-of-planned-buildouts-are-currently-being-delayed-stalled-or-canceled",
-      "source_url": "https://www.techradar.com/pro/how-do-you-know-whats-real-us-utilities-are-making-ai-data-centers-prove-they-exist-before-handing-over-power-connections-as-50-percent-of-planned-buildouts-are-currently-being-delayed-stalled-or-canceled",
-      "headline": "'How do you know what's real?': US utilities are making AI data centers prove they exist before handing over power connections — as 50% of planned buildouts are currently being delayed, stalled, or canceled",
-      "summary": "Many providers are stuck on an awkward conundrum about their newest customers: are they real?",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
+      "story_id": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "source_url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "headline": "Meta to create a new class of shares to fund AI push",
+      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of inves",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
       },
       "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-do-you-know-whats-real-us-utilities-are-making-ai-data-centers-prove-they-exist-before",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-to-create-a-new-class-of-shares-to-fund-ai-push",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-21T13:20:00.000Z",
+      "scheduled_publish_at": "2026-10-22T13:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-21T22:40:06.273Z",
-        "message_id": 643,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "published",
-        "published_at": "2026-10-21T22:21:18.235Z",
-        "message_id": "18633025009032991",
-        "media_kind": "source"
+        "status": "pending"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-21/https-www-techradar-com-pro-how-do-you-know-whats-real-us-utilities-are-making-a-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-22/Meta-to-create-a-new-class-of-shares-to-fund-AI-push-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-22/https-www-theverge-com-tech-1015799-meta-shares-class-ai-q3-2026-earnings-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-21T22:21:28.980Z",
-        "message_id": "17983603748905925",
-        "media_kind": "story-fallback"
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "story_id": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "headline": "Meta says Muse has over 10M users, with shopping a top activity",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
       "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
@@ -307,68 +256,11 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-21T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-22T00:01:25.413Z",
-        "message_id": 644,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-22T00:03:11.765Z",
-        "message_id": "18130521418874657",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-21/https-techcrunch-com-2026-10-20-anthropic-pitches-ai-safety-bill-that-may-block--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "failed",
-        "attempted_at": "2026-10-22T00:03:16.759Z",
-        "classification": "instagram-api-error",
-        "message": "The requested resource does not exist"
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/entertainment/streaming/your-tv-should-do-what-you-paid-for-people-are-vibe-coding-apps-to-banish-ads-from-their-smart-tvs-and-android-tv-and-its-catching-on",
-      "source_url": "https://www.techradar.com/entertainment/streaming/your-tv-should-do-what-you-paid-for-people-are-vibe-coding-apps-to-banish-ads-from-their-smart-tvs-and-android-tv-and-its-catching-on",
-      "headline": "People are using AI vibe coding to remove ads and trackers from smart TVs",
-      "summary": "Developers are using AI vibe coding tools to remove ads, tracking and bloat from their smart TVs.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/nfteXx4c6FNguq8M3fCMcW-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/nfteXx4c6FNguq8M3fCMcW-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=people-are-using-ai-vibe-coding-to-remove-ads-and-trackers-from-smart-tvs",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-21T17:20:00.000Z",
+      "scheduled_publish_at": "2026-10-22T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -384,7 +276,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-21/https-www-techradar-com-entertainment-streaming-your-tv-should-do-what-you-paid--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-22/https-techcrunch-com-2026-10-21-meta-says-muse-has-over-10m-users-with-shopping--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -394,27 +286,74 @@
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "source_url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "headline": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
+      "story_id": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "source_url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "headline": "PHP: The three letters that shut down sites all over the internet today",
+      "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any sit",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 789,
-        "aspectRatio": 1.520912547528517,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=php-the-three-letters-that-shut-down-sites-all-over-the-internet-today",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-22T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-22/PHP-The-three-letters-that-shut-down-sites-all-over-the-internet-today-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-22/https-www-theverge-com-tech-1015906-php2shell-vulnerability-october-2026-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "source_url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "headline": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hugging-face-ceo-warns-that-netflix-and-8217-s-openai-hack-documentary-isn-and-8217-t-accu",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-21T19:20:00.000Z",
+      "scheduled_publish_at": "2026-10-22T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -430,7 +369,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-21/https-techcrunch-com-2026-10-20-hugging-face-ceo-warns-that-netflixs-openai-hack-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-22/https-techcrunch-com-2026-10-21-recursive-launches-flint-a-laptop-coding-model-i-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -440,27 +379,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/this-silent-all-flash-nas-with-10gbe-and-dual-usb4-is-cheaper-if-you-buy-it-bare-bone-and-add-your-own-ssds",
-      "source_url": "https://www.techradar.com/pro/this-silent-all-flash-nas-with-10gbe-and-dual-usb4-is-cheaper-if-you-buy-it-bare-bone-and-add-your-own-ssds",
-      "headline": "This silent all-flash NAS with 10GbE and dual USB4 is cheaper if you buy it bare-bone and add your own SSDs",
-      "summary": "Minisforum’s fanless S5 combines five NVMe slots, 10GbE networking, dual USB4 and local AI, with SSD choices determining potential savings.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/oSjjJpaYEjk9eLdnawYiFA-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/oSjjJpaYEjk9eLdnawYiFA-1920-80.png",
+      "story_id": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "headline": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-silent-all-flash-nas-with-10gbe-and-dual-usb4-is-cheaper-if-you-buy-it-bare-bone-and-",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-21T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-22T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -476,7 +415,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-21/https-www-techradar-com-pro-this-silent-all-flash-nas-with-10gbe-and-dual-usb4-i-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-22/https-techcrunch-com-2026-10-21-while-amazon-blocks-ai-agents-walmart-rolls-out--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -486,27 +425,27 @@
       }
     },
     {
-      "story_id": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "source_url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "headline": "Google’s more personalized Gemini AI is heading to your car",
-      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini abou",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&strip=all&crop=1.0809792843691%2C0%2C97.838041431262%2C100&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&strip=all&crop=1.0809792843691%2C0%2C97.838041431262%2C100&w=1200",
+      "story_id": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "source_url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "headline": "PHP Armageddon: OpenAI, Google&#8217;s Wiz find ancient holes, panicking the internet",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801",
       "image_validation": {
         "valid": true,
-        "width": 1199,
-        "height": 633,
-        "aspectRatio": 1.8941548183254344,
+        "width": 1200,
+        "height": 801,
+        "aspectRatio": 1.4981273408239701,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=googles-more-personalized-gemini-ai-is-heading-to-your-car",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=php-armageddon-openai-google-and-8217-s-wiz-find-ancient-holes-panicking-the-internet",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-21T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-22T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -522,7 +461,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-21/https-www-theverge-com-tech-1014999-google-gemini-ai-cars-android-auto-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-22/https-techcrunch-com-2026-10-21-php-armageddon-openai-googles-wiz-find-ancient-h-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
