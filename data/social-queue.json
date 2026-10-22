@@ -91,7 +91,10 @@
         "status": "pending"
       },
       "instagram": {
-        "status": "pending"
+        "status": "published",
+        "published_at": "2026-10-22T15:53:58.641Z",
+        "message_id": "18079373978401217",
+        "media_kind": "fallback-card"
       },
       "x": {
         "status": "pending"
@@ -106,6 +109,12 @@
           "image-rejected",
           "instagram-card-for-unsupported-source-ratio"
         ]
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-22T15:54:08.088Z",
+        "message_id": "18131979158499728",
+        "media_kind": "story-fallback"
       }
     },
     {

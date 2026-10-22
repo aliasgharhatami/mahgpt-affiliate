@@ -4876,6 +4876,20 @@
         "message_id": "17911469997602784",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-22T15:53:58.641Z",
+        "message_id": "18079373978401217",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-22T15:54:08.088Z",
+        "message_id": "18131979158499728",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
