@@ -4904,6 +4904,20 @@
         "message_id": "18491989738106795",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3266400/settle-chatgpt-vs-claude-yourself-with-chatplayground-ai-59-97-for-life.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-22T22:47:51.262Z",
+        "message_id": "18126123085915163",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-22T22:47:59.770Z",
+        "message_id": "17886402108622323",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
