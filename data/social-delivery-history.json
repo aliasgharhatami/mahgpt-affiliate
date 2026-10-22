@@ -7021,6 +7021,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3266400/settle-chatgpt-vs-claude-yourself-with-chatplayground-ai-59-97-for-life.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-22T23:12:12.877Z",
+        "message_id": 649,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
