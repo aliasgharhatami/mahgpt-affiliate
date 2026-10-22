@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0b101b">
+  <title>AI Video Studio — Edit by Conversation | In Development</title>
+  <meta name="description" content="AI Video Studio is an early-stage, multilingual video editing project exploring reference-guided edits, captions, motion graphics and AI-assisted creative workflows.">
+  <link rel="canonical" href="https://mahgpt.com/ai-video-studio/">
+  <link rel="icon" href="/assets/mahgpt-favicon.svg">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="AI Video Studio — Edit by Conversation">
+  <meta property="og:description" content="A working local prototype exploring conversational video editing, reference-inspired motion graphics, captions and intelligent visual storytelling.">
+  <meta property="og:url" content="https://mahgpt.com/ai-video-studio/">
+  <meta name="twitter:card" content="summary">
+  <style>
+    :root{color-scheme:dark;--bg:#0b101b;--panel:#141c2b;--panel2:#101725;--line:#2b3648;--muted:#aab6ca;--white:#f4f6fc;--accent:#9f91ff;--mint:#78edca}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--white);font:16px/1.65 system-ui,-apple-system,"Segoe UI",Arial,sans-serif;overflow-x:hidden}a{color:inherit}a:focus-visible{outline:3px solid var(--mint);outline-offset:4px}.wrap{width:min(1140px,calc(100% - 40px));margin:auto}
+    .noise{background:radial-gradient(ellipse at 78% 8%,rgba(116,92,228,.23),transparent 42%),radial-gradient(ellipse at 2% 47%,rgba(45,198,176,.095),transparent 42%)}
+    header{border-bottom:1px solid rgba(255,255,255,.12)}.nav{min-height:76px;display:flex;gap:20px;justify-content:space-between;align-items:center}.brand{text-decoration:none;font-size:18px;font-weight:850;letter-spacing:-.6px}.brand b{color:var(--mint)}.navlinks{display:flex;gap:22px;align-items:center}.navlinks a{text-decoration:none;font-size:13px;font-weight:650;color:#d0dbed}.navlinks a:hover{color:white}
+    .eyebrow{display:inline-flex;align-items:center;gap:9px;border:1px solid #4d5680;color:#d5cdff;border-radius:999px;padding:6px 13px;font-weight:700;font-size:12px;letter-spacing:.03em}.dot{width:7px;height:7px;background:var(--mint);border-radius:50%}
+    .hero{display:grid;grid-template-columns:1.04fr .96fr;align-items:center;gap:48px;padding:96px 0 90px}.hero h1{font-size:clamp(42px,5.9vw,76px);letter-spacing:-.066em;line-height:1.07;margin:22px 0}.hero h1 em{font-style:normal;color:var(--mint)}.lead{font-size:19px;color:#c0cce0;max-width:640px;line-height:1.75}.actions{display:flex;gap:12px;flex-wrap:wrap;margin:30px 0}.btn{display:inline-flex;justify-content:center;align-items:center;gap:9px;border-radius:12px;text-decoration:none;font-weight:750;padding:13px 19px;background:var(--mint);color:#09211c}.btn.alt{background:transparent;color:var(--white);border:1px solid #69758c}.btn:hover{filter:brightness(1.08)}.micro{color:#8f9bb0;font-size:13px}
+    .preview{border:1px solid #45536a;border-radius:24px;background:#101827;padding:16px;box-shadow:0 27px 90px #0008;transform:rotate(1deg)}.preview-top{display:flex;align-items:center;gap:7px;padding:1px 4px 14px;color:#afbdd3;font-size:12px}.circle{width:8px;height:8px;border-radius:50%;background:#4e5d75}.circle:first-child{background:#ef817f}.circle:nth-child(2){background:#eebd68}.circle:nth-child(3){background:#70cba5}.preview-top span:last-child{margin-left:auto}
+    .canvas{min-height:320px;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:21px;padding:28px;background:linear-gradient(145deg,#1d1e41,#142e3a 80%);border-radius:14px;overflow:hidden;position:relative}.frame{border:1px solid #b9a5ff6b;border-radius:12px;background:#ffffff0c;width:70%;padding:20px;text-align:center}.frame strong{display:block;font-size:clamp(19px,3vw,29px);line-height:1.25;letter-spacing:-1px}.frame small{display:block;color:#c7d4e7;margin-top:8px}.chips{display:flex;gap:7px;flex-wrap:wrap;justify-content:center}.chip{padding:6px 10px;background:#18283c;border:1px solid #506b84;border-radius:8px;font-size:11px;color:#dbedff}.timeline{display:flex;gap:5px;width:100%;height:25px}.clip{border-radius:5px;background:#776ada;flex:1}.clip:nth-child(2){background:#418c9b;flex:1.5}.clip:nth-child(3){background:#a582ba;flex:.8}.clip:nth-child(4){background:#4b9b83}.preview-note{color:#8b9bb0;font-size:11px;text-align:center;padding:9px 0 1px}
+    .section{padding:78px 0;border-top:1px solid #263247}.section h2{font-size:clamp(29px,3.5vw,44px);letter-spacing:-.045em;line-height:1.17;margin:0 0 14px}.section .intro{color:var(--muted);max-width:710px;margin:0 0 30px;font-size:17px}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.card{background:linear-gradient(160deg,var(--panel),var(--panel2));border:1px solid #344158;border-radius:16px;padding:24px}.card .num{color:var(--mint);font-size:12px;font-weight:800;letter-spacing:.1em}.card h3{margin:10px 0 8px;font-size:20px;letter-spacing:-.02em}.card p{font-size:14px;color:var(--muted);margin:0}.columns{display:grid;grid-template-columns:1fr 1fr;gap:22px}.bar{padding:24px;border-radius:16px;background:var(--panel);border:1px solid #344158}.bar h3{margin:0 0 10px}.bar p,.bar li{color:var(--muted);font-size:15px}.bar ul{padding-left:20px}.bar li{margin-bottom:7px}
+    .status{display:flex;gap:12px;align-items:flex-start;padding:21px 23px;background:#112822;border:1px solid #2d7360;border-radius:14px;color:#c9f7e7}.status b{color:#fff}.status p{margin:4px 0 0;color:#a7d9cc;font-size:14px}
+    .cta{margin:10px 0 86px;border:1px solid #5c638a;border-radius:22px;background:linear-gradient(105deg,#262049,#173642);padding:42px;display:flex;gap:30px;align-items:center;justify-content:space-between}.cta h2{font-size:32px;margin:0 0 8px;letter-spacing:-.035em}.cta p{margin:0;color:#c5d5e5;max-width:650px}.foot{border-top:1px solid #2c374b;padding:28px 0 38px;color:#95a4bb;font-size:13px}.foot .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:18px}.foot a{color:#d6e1f4}.smallnote{font-size:13px;color:#9cabc2;margin-top:18px}
+    @media(max-width:850px){.hero{grid-template-columns:1fr;padding:65px 0}.preview{transform:none;max-width:650px}.grid{grid-template-columns:1fr 1fr}.columns{grid-template-columns:1fr}.cta{align-items:flex-start;flex-direction:column}}@media(max-width:540px){.wrap{width:calc(100% - 30px)}.nav{min-height:67px}.navlinks{gap:12px}.navlinks a{font-size:12px}.hero{padding:54px 0}.hero h1{font-size:43px}.lead{font-size:17px}.preview{padding:10px}.canvas{min-height:270px;padding:15px}.frame{width:92%}.grid{grid-template-columns:1fr}.section{padding:56px 0}.cta{padding:26px}.cta h2{font-size:26px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+  </style>
+</head>
+<body>
+<div class="noise">
+  <header><div class="wrap nav"><a class="brand" href="/">Mah<b>GPT</b> <span style="color:#667b91">/</span> AI Video Studio</a><nav class="navlinks" aria-label="Page navigation"><a href="#product">Product</a><a href="#progress">Progress</a><a href="mailto:info@mahgpt.com?subject=AI%20Video%20Studio%20inquiry">Contact</a></nav></div></header>
+  <main>
+    <section class="wrap hero">
+      <div>
+        <span class="eyebrow"><span class="dot"></span> EARLY-STAGE PRODUCT · WORKING LOCAL PROTOTYPE</span>
+        <h1>Your footage.<br>Your vision.<br><em>Edit by conversation.</em></h1>
+        <p class="lead">AI Video Studio is building an intelligent video editor that turns natural-language instructions and optional reference videos into structured, editable video projects — with captions, motion graphics, context-aware visuals and creative transitions.</p>
+        <div class="actions"><a class="btn" href="mailto:info@mahgpt.com?subject=AI%20Video%20Studio%20demo%20request">Request a prototype demo ↗</a><a class="btn alt" href="#product">Explore the concept ↓</a></div>
+        <p class="micro">In active development. The editor is not yet available as a public service.</p>
+      </div>
+      <div class="preview" role="img" aria-label="Concept illustration of a video editing interface, showing a title, visual elements and a multi-clip timeline. This is not a screenshot of the application.">
+        <div class="preview-top"><i class="circle"></i><i class="circle"></i><i class="circle"></i><span>Conceptual editing preview</span></div>
+        <div class="canvas">
+          <div class="chips"><span class="chip">REFERENCE STYLE</span><span class="chip">CAPTIONS</span><span class="chip">MOTION GRAPHICS</span></div>
+          <div class="frame"><strong>From raw footage<br>to visual storytelling.</strong><small>Prompt → edit plan → render</small></div>
+          <div class="timeline"><span class="clip"></span><span class="clip"></span><span class="clip"></span><span class="clip"></span></div>
+        </div>
+        <div class="preview-note">Illustrative UI concept, not actual product footage.</div>
+      </div>
+    </section>
+  </main>
+</div>
+<section class="section" id="product"><div class="wrap"><h2>One creative workflow. Multiple editing styles.</h2><p class="intro">Our long-term goal is to make high-quality editing accessible without demanding traditional editing expertise.</p>
+<div class="grid">
+  <article class="card"><span class="num">01 · REFERENCE</span><h3>Inspired by your example</h3><p>Supply a reference video and your own footage. The intended workflow analyzes its visual language, timing and presentation style to produce a tailored edit.</p></article>
+  <article class="card"><span class="num">02 · CONVERSATION</span><h3>Direct edits with words</h3><p>Ask for a faster opening, different captions, a tighter crop or more expressive graphics. The project should remain editable, not just an exported MP4.</p></article>
+  <article class="card"><span class="num">03 · VISUALS</span><h3>Context-aware visual elements</h3><p>Combine footage with motion typography, diagrams, relevant retrieved images, and eventually AI-generated imagery where appropriate.</p></article>
+  <article class="card"><span class="num">04 · AUDIO</span><h3>Sound meets motion</h3><p>Planned tools for transitions, sound effects, music and timing that complement the story rather than overwhelm it.</p></article>
+  <article class="card"><span class="num">05 · LANGUAGES</span><h3>Multilingual by design</h3><p>Persian, Turkish, English and Arabic are priority languages, including right-to-left typography and speech-aligned captions.</p></article>
+  <article class="card"><span class="num">06 · ACCESS</span><h3>Made for the web</h3><p>Our intended public release is a cloud-hosted web experience, accessible from computers and mobile browsers, with Android planned later.</p></article>
+</div></div></section>
+<section class="section" id="progress"><div class="wrap">
+<h2>What exists today — and what comes next</h2>
+<p class="intro">The project has a working local rendering prototype. We distinguish features demonstrated in experiments from capabilities that are still in development.</p>
+<div class="columns">
+  <div class="bar"><h3>Built and tested locally</h3><ul><li>Manifest-driven editing and Remotion-based rendering</li><li>Animated Persian captions, motion typography and presenter reframing</li><li>Selected conceptual graphics and subject-background compositing</li><li>Initial speech alignment and visual-asset retrieval experiments</li><li>Integrated short-form editorial video prototypes</li></ul></div>
+  <div class="bar"><h3>On the roadmap</h3><ul><li>Open-ended AI-directed editing from user prompts</li><li>Reliable style analysis from reference videos</li><li>AI image-generation and broader media retrieval</li><li>Long-form and multi-footage editing with audio effects</li><li>Secure multi-user cloud hosting, web editing UI and Android access</li></ul></div>
+</div>
+<div class="status" style="margin-top:22px"><span aria-hidden="true">●</span><div><b>Current stage: private development / pre-launch</b><p>No public upload service, user accounts, or paid subscription is available yet. Prototype demonstrations are available upon request.</p></div></div>
+</div></section>
+<section class="section"><div class="wrap"><h2>Exploring a better AI connection experience</h2><p class="intro">We are designing the editor to work with user-selected AI providers rather than locking editing intelligence to one model.</p>
+<div class="columns">
+  <div class="bar"><h3>Connection options we aim to support</h3><p>We are exploring eligible, officially authorized ChatGPT account connections alongside a separate bring-your-own API key option. Any plan-based access would depend on the provider's permissions and supported capabilities.</p></div>
+  <div class="bar"><h3>Why it matters</h3><p>The AI can help interpret editing requests and suggest structured timelines, captions and visual assets; the rendering engine carries out the edit. We are not claiming that ChatGPT subscription access is currently integrated or approved.</p></div>
+</div>
+<p class="smallnote">AI Video Studio is an independent, pre-incorporation project. It is not affiliated with, endorsed by, or presently partnered with OpenAI or Google.</p>
+</div></section>
+<div class="wrap"><section class="cta"><div><h2>Interested in the next generation of editing?</h2><p>For product demonstrations, early feedback, partnerships or integration discussions, get in touch with the project founder.</p></div><a class="btn" href="mailto:info@mahgpt.com?subject=AI%20Video%20Studio%20inquiry">Contact the founder ↗</a></section></div>
+<footer class="foot"><div class="wrap"><span>AI Video Studio · An independent project from MahGPT · © 2026</span><span><a href="/">MahGPT home</a> · <a href="mailto:info@mahgpt.com">info@mahgpt.com</a></span></div></footer>
+</body>
+</html>
