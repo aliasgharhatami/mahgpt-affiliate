@@ -7106,6 +7106,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/news/olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-23T15:46:13.084Z",
+        "message_id": 654,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
