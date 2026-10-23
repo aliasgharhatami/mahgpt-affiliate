@@ -7038,6 +7038,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3255323/apple-watch-series-12-review-macworld-podcast.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-23T01:33:40.385Z",
+        "message_id": 650,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
