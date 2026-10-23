@@ -7072,6 +7072,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/ai-is-rewriting-the-c-suite-playbook": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-23T10:05:20.134Z",
+        "message_id": 652,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
