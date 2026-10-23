@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T10:11:59.921Z",
-  "analysis_date": "2026-10-22",
+  "generated_at": "2026-10-23T10:04:40.511Z",
+  "analysis_date": "2026-10-23",
   "stories": [
+    {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "mahgpt_url": "/news/story.html?id=canvas-first-ai-image-model-plans-designs-before-generating-them"
+    },
     {
       "title": "iPhone Duo guide: Release date, price, specs and first reviews",
       "source": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-price-specs-release-date.html",
       "mahgpt_url": "/news/story.html?id=iphone-duo-guide-release-date-price-specs-and-first-reviews"
     },
     {
-      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-      "source": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-      "mahgpt_url": "/news/story.html?id=hugging-faces-new-ai-biology-model-lets-you-chat-with-dna"
+      "title": "AI is rewriting the C-suite playbook",
+      "source": "https://www.techradar.com/pro/ai-is-rewriting-the-c-suite-playbook",
+      "mahgpt_url": "/news/story.html?id=ai-is-rewriting-the-c-suite-playbook"
     },
     {
-      "title": "Barclays to cut 5,000 jobs while handing work over to AI — Chief Executive says AI is 'icing on the cake'",
-      "source": "https://www.techradar.com/pro/barclays-to-cut-5-000-jobs-while-handing-work-over-to-ai-chief-executive-says-ai-is-icing-on-the-cake",
-      "mahgpt_url": "/news/story.html?id=barclays-to-cut-5-000-jobs-while-handing-work-over-to-ai-chief-executive-says-ai-is-icing-"
+      "title": "Swap doomscrolling for 10-minute lessons with Nibble, now $69.99 for life",
+      "source": "https://www.macworld.com/article/3266405/swap-doomscrolling-for-10-minute-lessons-with-nibble-now-69-99-for-life.html",
+      "mahgpt_url": "/news/story.html?id=swap-doomscrolling-for-10-minute-lessons-with-nibble-now-69-99-for-life"
     },
     {
-      "title": "Settle ChatGPT vs. Claude yourself with ChatPlayground AI — $59.97 for life",
-      "source": "https://www.macworld.com/article/3266400/settle-chatgpt-vs-claude-yourself-with-chatplayground-ai-59-97-for-life.html",
-      "mahgpt_url": "/news/story.html?id=settle-chatgpt-vs-claude-yourself-with-chatplayground-ai-59-97-for-life"
+      "title": "Olivia Rodrigo just showed creatives how to deal with false design allegations in style",
+      "source": "https://www.creativebloq.com/news/olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style",
+      "mahgpt_url": "/news/story.html?id=olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style"
     },
     {
-      "title": "Macworld Podcast: Apple Watch Series 12 review",
-      "source": "https://www.macworld.com/article/3255323/apple-watch-series-12-review-macworld-podcast.html",
-      "mahgpt_url": "/news/story.html?id=macworld-podcast-apple-watch-series-12-review"
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "source": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "mahgpt_url": "/news/story.html?id=uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia"
     },
     {
-      "title": "I tried ChatGPT's latest Chrome upgrade and it surprised me",
-      "source": "https://www.techradar.com/ai-platforms-assistants/chatgpt-has-a-new-chrome-integration-i-put-it-to-the-test-to-see-if-it-really-makes-browsing-better",
-      "mahgpt_url": "/news/story.html?id=i-tried-chatgpts-latest-chrome-upgrade-and-it-surprised-me"
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "source": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "mahgpt_url": "/news/story.html?id=left-alone-with-nothing-to-do-ai-agents-started-playing"
     },
     {
-      "title": "‘Thanks again for your help!’: Rogue AI agents on Tencent Cloud tried to crack Alibaba’s Amap, then chatted politely with the team tracking them",
-      "source": "https://www.techradar.com/pro/thanks-again-for-your-help-rogue-ai-agents-on-tencent-cloud-tried-to-crack-alibabas-amap-then-chatted-politely-with-the-team-tracking-them",
-      "mahgpt_url": "/news/story.html?id=thanks-again-for-your-help-rogue-ai-agents-on-tencent-cloud-tried-to-crack-alibabas-amap-t"
-    },
-    {
-      "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
-      "source": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "mahgpt_url": "/news/story.html?id=blackstone-and-8217-s-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown"
+      "title": "Etsy is cracking down on AI slop listings",
+      "source": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "mahgpt_url": "/news/story.html?id=etsy-is-cracking-down-on-ai-slop-listings"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-22.html"
+      "path": "news/analysis/2026-10-23.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-22.html"
+      "path": "es/news/analysis/2026-10-23.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-22.html"
+      "path": "de/news/analysis/2026-10-23.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-22.html"
+      "path": "fr/news/analysis/2026-10-23.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-22.html"
+      "path": "pt-BR/news/analysis/2026-10-23.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-22.html"
+      "path": "ar/news/analysis/2026-10-23.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-22.html"
+      "path": "fa/news/analysis/2026-10-23.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-22.html"
+      "path": "tr/news/analysis/2026-10-23.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-22.html"
+      "path": "it/news/analysis/2026-10-23.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-22.html"
+      "path": "ja/news/analysis/2026-10-23.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-22.html"
+      "path": "ko/news/analysis/2026-10-23.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-22.html"
+      "path": "id/news/analysis/2026-10-23.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-22.html"
+      "path": "hi/news/analysis/2026-10-23.html"
     }
   ]
 }
