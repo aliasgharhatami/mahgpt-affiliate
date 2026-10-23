@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T10:11:50.405Z",
+  "updatedAt": "2026-10-23T06:31:22.003Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "iPhone Duo guide: Release date, price, specs and first reviews",
-      "summary": "Macworld Apple’s first foldable iPhone, the iPhone Duo, goes on sale on October 23, but buyers who missed the first wave of preorders face a much longer wait. Delivery estimates slipped rapidly after orders opened on October 16, with Macworld’s U.S. tracking showing January 25, 2027 within around ha",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-price-specs-release-date.html",
-      "publishedAt": "2026-10-22T10:09:01.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2629813-0-54455000-1792663755-iphone-duo-closed.jpg?quality=50&strip=all&w=1024"
+      "tool": "canva",
+      "toolName": "Canva AI",
+      "category": "Partner watch",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precis",
+      "guide": "/partners/canva.html",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "publishedAt": "2026-10-22T21:51:25.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ad92806649bdf60df6fd54f/191:100/w_1280,c_limit/Science_Hugging%20Face%E2%80%99s%20Powerful%20New%20DNA%20Model%20Is%20Small%20Enough%20to%20Run%20on%20a%20Laptop_v1.jpg"
+      "source": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "publishedAt": "2026-10-23T04:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Barclays to cut 5,000 jobs while handing work over to AI — Chief Executive says AI is 'icing on the cake'",
-      "summary": "Barclays cutting 5,000 jobs as part of a plan to save £1.1 billion, and the majority of the work is going to AI.",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/barclays-to-cut-5-000-jobs-while-handing-work-over-to-ai-chief-executive-says-ai-is-icing-on-the-cake",
-      "publishedAt": "2026-10-22T08:38:13.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PhZHSZFCEViAUYuivfBtj7-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "publishedAt": "2026-10-23T00:45:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Settle ChatGPT vs. Claude yourself with ChatPlayground AI — $59.97 for life",
-      "summary": "Macworld TL;DR: The ChatPlayground AI Unlimited Plan for life is $59.97 (reg. $619) through Oct. 25. Send one prompt to 20+ models, including ChatGPT, Claude, Gemini, and DeepSeek, and see the answers side by side. Search “ChatGPT vs. Claude,” and you’ll find thousands of opinions. ChatPlayground AI",
+      "title": "Etsy is cracking down on AI slop listings",
+      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongsi",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3266400/settle-chatgpt-vs-claude-yourself-with-chatplayground-ai-59-97-for-life.html",
-      "publishedAt": "2026-10-22T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3266400-0-41721900-1792656056-ChatPlayground_06d10a.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "publishedAt": "2026-10-23T00:09:58.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&strip=all&crop=0%2C7.8921063654804%2C100%2C66.941443560245&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Macworld Podcast: Apple Watch Series 12 review",
-      "summary": "Macworld In this episode of the Macworld Podcast, we take a deep look at the Apple Watch Series 12. We discuss its new features, its price, and whether it’s worth buying. Tune in and find out! This is episode 1005 with Michael Simon , David Price , and Roman Loyola . Episode 1005 on YouTube Episode ",
+      "title": "Fall 2026 earnings watch",
+      "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies ",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3255323/apple-watch-series-12-review-macworld-podcast.html",
-      "publishedAt": "2026-10-22T07:17:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3255323-0-18439900-1792653451-Apple-Watch-Series-12.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+      "publishedAt": "2026-10-22T21:15:16.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "I tried ChatGPT's latest Chrome upgrade and it surprised me",
-      "summary": "OpenAI's new Chrome integration makes ChatGPT a more convenient part of everyday browsing while challenging Google's efforts to make Gemini the default AI assistant inside its own browser",
+      "title": "A new subscription service promises an evolving collection of 'bold and bizarre' indie games",
+      "summary": "Publisher Pantaloon says the Playbill won't feature games that use generative AI in any way.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/chatgpt-has-a-new-chrome-integration-i-put-it-to-the-test-to-see-if-it-really-makes-browsing-better",
-      "publishedAt": "2026-10-22T05:58:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/9F55HXMihfP38PfNhZ4NMg-1920-80.jpg"
+      "source": "https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/",
+      "publishedAt": "2026-10-22T20:57:17.000Z",
+      "image": "https://www.engadget.com/img/gallery/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/l-intro-1792701864.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "‘Thanks again for your help!’: Rogue AI agents on Tencent Cloud tried to crack Alibaba’s Amap, then chatted politely with the team tracking them",
-      "summary": "AI agents made thousands of requests to Alibaba’s Amap, bypassed some restrictions, and prompted researchers to investigate their infrastructure and uncertain origins.",
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [lang",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/thanks-again-for-your-help-rogue-ai-agents-on-tencent-cloud-tried-to-crack-alibabas-amap-then-chatted-politely-with-the-team-tracking-them",
-      "publishedAt": "2026-10-22T02:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/2BXK9rhzJj3TYVMotiBpk4-1920-80.png"
+      "source": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "publishedAt": "2026-10-22T20:32:05.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "title": "The Social Society Helping Women Join the AI Boom",
+      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "publishedAt": "2026-10-21T22:51:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591561486_34813d39be_c.jpg?w=799"
+      "source": "https://www.wired.com/story/aged-intelligence-society-interview/",
+      "publishedAt": "2026-10-22T19:56:32.000Z",
+      "image": "https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/191:100/w_1280,c_limit/Model-Behavior-Illo-102226-2.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-      "publishedAt": "2026-10-21T22:39:50.000Z",
-      "image": "https://media.wired.com/photos/6ad9408768bf72427a051c89/191:100/w_1280,c_limit/WIRED_Business_Mark-Z_CA.jpg"
+      "source": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "publishedAt": "2026-10-22T19:07:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Data centers could erase decades of air quality gains",
-      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utiliti",
+      "title": "Apple accidentally reveals Google Workspace AI competitor",
+      "summary": "Macworld Update: The apps appear to be back in the stores, though without the new Intelligent Assistant feature. Update X2: The Intelligent Assistant feature is also live now in Keynote, Numbers, and Pages. Earlier this year, Apple introduced its Creator Studio subscription service. For a reasonable",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "publishedAt": "2026-10-21T22:33:44.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.macworld.com/article/3267434/apple-accidentally-reveals-google-workspace-ai-competitor.html",
+      "publishedAt": "2026-10-22T19:07:08.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3267434-0-50965700-1792717860-Apple-pages-icon-creator-studio.jpg?quality=50&strip=all&w=1024"
     }
   ]
 }
