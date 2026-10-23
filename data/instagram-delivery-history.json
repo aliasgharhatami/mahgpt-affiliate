@@ -4932,6 +4932,20 @@
         "message_id": "18449469637123691",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-23T10:11:41.036Z",
+        "message_id": "17969640977965155",
+        "media_kind": "fallback-card"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-23T10:11:49.806Z",
+        "message_id": "18134001979790593",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
