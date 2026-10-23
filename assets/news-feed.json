@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T06:31:22.003Z",
+  "updatedAt": "2026-10-23T10:04:29.627Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -25,6 +25,50 @@
       "source": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
       "publishedAt": "2026-10-22T21:51:25.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "iPhone Duo guide: Release date, price, specs and first reviews",
+      "summary": "Macworld Apple’s first foldable iPhone, the iPhone Duo, officially goes on sale today, Friday, October 23 , but getting hold of one could prove difficult. Preorders opened on October 16 and delivery estimates slipped rapidly, with Macworld’s U.S. tracking showing waits stretching to January 25, 2027",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-price-specs-release-date.html",
+      "publishedAt": "2026-10-23T09:43:36.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2629813-0-84119800-1792748628-iphone-duo-closed.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "AI is rewriting the C-suite playbook",
+      "summary": "Progressive leaders should look beyond mere resilience and begin to harness the power of AI.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/ai-is-rewriting-the-c-suite-playbook",
+      "publishedAt": "2026-10-23T09:17:02.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Swap doomscrolling for 10-minute lessons with Nibble, now $69.99 for life",
+      "summary": "Macworld TL;DR: A Nibble lifetime subscription is $69.99 (reg. $599.99). You get 10-minute lessons in 20+ topics on iPhone and Apple silicon Macs. Ten minutes of doomscrolling leaves you with nothing. Ten minutes in Nibble leaves you with a new idea about history, art, philosophy, or money. Right no",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3266405/swap-doomscrolling-for-10-minute-lessons-with-nibble-now-69-99-for-life.html",
+      "publishedAt": "2026-10-23T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3266405-0-42372600-1792742461-Nibble.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Olivia Rodrigo just showed creatives how to deal with false design allegations in style",
+      "summary": "Accused of using AI, the pop star’s team responded with something better than denial.",
+      "guide": "/news/index.html",
+      "source": "https://www.creativebloq.com/news/olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style",
+      "publishedAt": "2026-10-23T07:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/38qY5R2M45Mu6DVKMG56be-1920-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -80,50 +124,6 @@
       "source": "https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/",
       "publishedAt": "2026-10-22T20:57:17.000Z",
       "image": "https://www.engadget.com/img/gallery/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/l-intro-1792701864.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [lang",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "publishedAt": "2026-10-22T20:32:05.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "The Social Society Helping Women Join the AI Boom",
-      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-      "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/aged-intelligence-society-interview/",
-      "publishedAt": "2026-10-22T19:56:32.000Z",
-      "image": "https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/191:100/w_1280,c_limit/Model-Behavior-Illo-102226-2.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "publishedAt": "2026-10-22T19:07:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Apple accidentally reveals Google Workspace AI competitor",
-      "summary": "Macworld Update: The apps appear to be back in the stores, though without the new Intelligent Assistant feature. Update X2: The Intelligent Assistant feature is also live now in Keynote, Numbers, and Pages. Earlier this year, Apple introduced its Creator Studio subscription service. For a reasonable",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3267434/apple-accidentally-reveals-google-workspace-ai-competitor.html",
-      "publishedAt": "2026-10-22T19:07:08.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3267434-0-50965700-1792717860-Apple-pages-icon-creator-studio.jpg?quality=50&strip=all&w=1024"
     }
   ]
 }
