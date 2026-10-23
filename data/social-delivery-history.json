@@ -7157,6 +7157,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-23T23:23:59.819Z",
+        "message_id": 657,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
