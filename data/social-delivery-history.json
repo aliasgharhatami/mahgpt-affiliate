@@ -7089,6 +7089,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3266405/swap-doomscrolling-for-10-minute-lessons-with-nibble-now-69-99-for-life.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-23T12:09:36.453Z",
+        "message_id": 653,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
