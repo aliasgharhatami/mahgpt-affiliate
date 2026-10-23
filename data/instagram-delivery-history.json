@@ -4918,6 +4918,20 @@
         "message_id": "17886402108622323",
         "media_kind": "story-fallback"
       }
+    },
+    "https://www.macworld.com/article/3255323/apple-watch-series-12-review-macworld-podcast.html": {
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-10-23T01:13:32.184Z",
+        "message_id": "18075411749772182",
+        "media_kind": "source"
+      },
+      "instagram_story": {
+        "status": "published",
+        "published_at": "2026-10-23T01:13:40.299Z",
+        "message_id": "18449469637123691",
+        "media_kind": "story-fallback"
+      }
     }
   }
 }
