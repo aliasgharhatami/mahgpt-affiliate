@@ -7174,6 +7174,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-24T01:51:24.880Z",
+        "message_id": 658,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
