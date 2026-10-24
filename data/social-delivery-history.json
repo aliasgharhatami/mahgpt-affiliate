@@ -7225,6 +7225,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/security/this-ai-tool-can-now-turn-ordinary-household-photos-into-location-clues-so-could-law-forces-use-the-technology-to-scope-out-your-home": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-24T11:56:54.906Z",
+        "message_id": 661,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
