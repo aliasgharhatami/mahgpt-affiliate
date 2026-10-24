@@ -7191,6 +7191,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/canva-launches-craft-its-first-image-generation-model-trained-on-human-designed-templates": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-24T06:59:08.054Z",
+        "message_id": 659,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

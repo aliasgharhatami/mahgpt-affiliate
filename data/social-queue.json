@@ -1,226 +1,17 @@
 {
   "version": 1,
-  "queue_date": "2026-10-23",
-  "created_at": "2026-10-23T10:04:33.864Z",
-  "source_feed_updated_at": "2026-10-23T10:04:29.627Z",
+  "queue_date": "2026-10-24",
+  "created_at": "2026-10-24T06:58:59.188Z",
+  "source_feed_updated_at": "2026-10-24T06:58:59.094Z",
   "items": [
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "headline": "Canva’s first AI image model plans designs before generating them",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precis",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1199,
-        "height": 627,
-        "aspectRatio": 1.912280701754386,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=canvas-first-ai-image-model-plans-designs-before-generating-them",
-      "detected_partner": "canva",
-      "product_url": "/go/canva.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-23T05:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-23T06:31:30.331Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-23T10:11:41.036Z",
-        "message_id": "17969640977965155",
-        "media_kind": "fallback-card"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-23/Canva-s-first-AI-image-model-plans-designs-before-generating-them-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-23/https-www-theverge-com-ai-artificial-intelligence-1017151-canva-craft-in-house-a-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-23T10:11:49.806Z",
-        "message_id": "18134001979790593",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-price-specs-release-date.html",
-      "source_url": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-price-specs-release-date.html",
-      "headline": "iPhone Duo guide: Release date, price, specs and first reviews",
-      "summary": "Macworld Apple’s first foldable iPhone, the iPhone Duo, officially goes on sale today, Friday, October 23, but getting hold of one could prove difficult. Preorders opened on October 16 and delivery estimates slipped rapidly, with Macworld’s U.S. tracking showing waits stretching to January 25, 2027",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2629813-0-84119800-1792748628-iphone-duo-closed.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2629813-0-84119800-1792748628-iphone-duo-closed.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=iphone-duo-guide-release-date-price-specs-and-first-reviews",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-23T07:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-22T10:12:38.126Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-22T10:18:09.833Z",
-        "message_id": "17872497399637422"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-23/https-www-macworld-com-article-2629813-iphone-duo-folding-design-price-specs-rel-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/ai-is-rewriting-the-c-suite-playbook",
-      "source_url": "https://www.techradar.com/pro/ai-is-rewriting-the-c-suite-playbook",
-      "headline": "AI is rewriting the C-suite playbook",
-      "summary": "Progressive leaders should look beyond mere resilience and begin to harness the power of AI.",
+      "story_id": "https://www.techradar.com/pro/canva-launches-craft-its-first-image-generation-model-trained-on-human-designed-templates",
+      "source_url": "https://www.techradar.com/pro/canva-launches-craft-its-first-image-generation-model-trained-on-human-designed-templates",
+      "headline": "Canva launches Craft — its first image generation model, trained on human-designed templates",
+      "summary": "Canva Craft has ranked fourth overall and 1st/2nd across many image generation categories – and this is just the first model.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-is-rewriting-the-c-suite-playbook",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-23T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-23T10:05:20.134Z",
-        "message_id": 652,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "published",
-        "published_at": "2026-10-23T11:38:20.486Z",
-        "message_id": "17895555213427644",
-        "media_kind": "source"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-23/https-www-techradar-com-pro-ai-is-rewriting-the-c-suite-playbook-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      },
-      "instagram_story": {
-        "status": "published",
-        "published_at": "2026-10-23T11:38:29.770Z",
-        "message_id": "17975103006149495",
-        "media_kind": "story-fallback"
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3266405/swap-doomscrolling-for-10-minute-lessons-with-nibble-now-69-99-for-life.html",
-      "source_url": "https://www.macworld.com/article/3266405/swap-doomscrolling-for-10-minute-lessons-with-nibble-now-69-99-for-life.html",
-      "headline": "Swap doomscrolling for 10-minute lessons with Nibble, now $69.99 for life",
-      "summary": "Macworld TL;DR: A Nibble lifetime subscription is $69.99 (reg. $599.99). You get 10-minute lessons in 20+ topics on iPhone and Apple silicon Macs. Ten minutes of doomscrolling leaves you with nothing. Ten minutes in Nibble leaves you with a new idea about history, art, philosophy, or money. Right no",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3266405-0-42372600-1792742461-Nibble.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3266405-0-42372600-1792742461-Nibble.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 768,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=swap-doomscrolling-for-10-minute-lessons-with-nibble-now-69-99-for-life",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-23T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-23T12:09:36.453Z",
-        "message_id": 653,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-23/https-www-macworld-com-article-3266405-swap-doomscrolling-for-10-minute-lessons--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.creativebloq.com/news/olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style",
-      "source_url": "https://www.creativebloq.com/news/olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style",
-      "headline": "Olivia Rodrigo just showed creatives how to deal with false design allegations in style",
-      "summary": "Accused of using AI, the pop star’s team responded with something better than denial.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/38qY5R2M45Mu6DVKMG56be-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/38qY5R2M45Mu6DVKMG56be-1920-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rSxKLL6cwwZnhftLLfKXJJ-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rSxKLL6cwwZnhftLLfKXJJ-1920-80.png",
       "image_validation": {
         "valid": true,
         "width": 1920,
@@ -230,15 +21,15 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-23T13:20:00.000Z",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=canva-launches-craft-its-first-image-generation-model-trained-on-human-designed-templates",
+      "detected_partner": "canva",
+      "product_url": "/go/canva.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-10-24T05:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-10-23T15:46:13.084Z",
-        "message_id": 654,
+        "published_at": "2026-10-24T06:59:08.054Z",
+        "message_id": 659,
         "delivery": "photo"
       },
       "linkedin": {
@@ -252,7 +43,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-23/https-www-creativebloq-com-news-olivia-rodrigo-just-showed-creatives-how-to-deal-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-24/https-www-techradar-com-pro-canva-launches-craft-its-first-image-generation-mode-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -262,222 +53,27 @@
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "source_url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
+      "story_id": "https://www.techradar.com/pro/security/this-ai-tool-can-now-turn-ordinary-household-photos-into-location-clues-so-could-law-forces-use-the-technology-to-scope-out-your-home",
+      "source_url": "https://www.techradar.com/pro/security/this-ai-tool-can-now-turn-ordinary-household-photos-into-location-clues-so-could-law-forces-use-the-technology-to-scope-out-your-home",
+      "headline": "This AI tool can now turn ordinary household photos into location clues — so could law forces use the technology to scope out your home?",
+      "summary": "US police are using an AI tool to detect the location of properties based on interior photos, but the way tool accumulates its data drawn concern from Airbnb, Zillow, and others",
+      "source_name": "so could law forces use the technology to scope out your home?",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/WKVN3Uzoxhu5ER4WDhPDuT-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WKVN3Uzoxhu5ER4WDhPDuT-1920-80.png",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-ai-tool-can-now-turn-ordinary-household-photos-into-location-clues-so-could-law-force",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-23T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-23T17:09:12.690Z",
-        "message_id": 655,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-23/https-techcrunch-com-2026-10-22-uber-rival-indrive-eyes-2027-robotaxi-tests-in-c-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "source_url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "headline": "Left alone with nothing to do, AI agents started playing",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 590,
-        "aspectRatio": 2.0338983050847457,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=left-alone-with-nothing-to-do-ai-agents-started-playing",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-23T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-23T20:27:55.891Z",
-        "message_id": 656,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-23/Left-alone-with-nothing-to-do-AI-agents-started-playing-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-23/https-techcrunch-com-2026-10-22-left-alone-with-nothing-to-do-ai-agents-started--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-      "source_url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-      "headline": "Etsy is cracking down on AI slop listings",
-      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongsi",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&strip=all&crop=0%2C7.8921063654804%2C100%2C66.941443560245&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&strip=all&crop=0%2C7.8921063654804%2C100%2C66.941443560245&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1199,
-        "height": 619,
-        "aspectRatio": 1.936995153473344,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=etsy-is-cracking-down-on-ai-slop-listings",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-23T19:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-23T23:23:59.819Z",
-        "message_id": 657,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-23/Etsy-is-cracking-down-on-AI-slop-listings-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-23/https-www-theverge-com-tech-1017261-etsy-ai-rules-policies-restrictions-listing-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
-      "source_url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
-      "headline": "Fall 2026 earnings watch",
-      "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=fall-2026-earnings-watch",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-23T21:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-24T01:51:24.880Z",
-        "message_id": 658,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-23/Fall-2026-earnings-watch-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-23/https-www-theverge-com-tech-1016506-fall-2026-earnings-watch-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/",
-      "source_url": "https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/",
-      "headline": "A new subscription service promises an evolving collection of 'bold and bizarre' indie games",
-      "summary": "Publisher Pantaloon says the Playbill won't feature games that use generative AI in any way.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/l-intro-1792701864.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/l-intro-1792701864.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 897,
-        "aspectRatio": 1.7837235228539576,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-23T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-24T07:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -493,12 +89,378 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-23/https-www-engadget-com-2294854-a-new-subscription-service-promises-an-evolving-c-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-24/https-www-techradar-com-pro-security-this-ai-tool-can-now-turn-ordinary-househol-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
           "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "headline": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "image_url": "",
+      "image_validation": null,
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-24T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "assets/social-cards/2026-10-24/OpenAI-says-it-will-no-longer-train-its-AI-models-on-the-live-internet-citing-si-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-24/OpenAI-says-it-will-no-longer-train-its-AI-models-on-the-live-internet-citing-si-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-24/https-techcrunch-com-2026-10-23-openai-says-it-will-no-longer-train-its-ai-model-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-missing-source"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/phones/iphone/mlb-is-making-the-most-of-iphone-duos-foldable-screen-just-in-time-for-the-world-series",
+      "source_url": "https://www.techradar.com/phones/iphone/mlb-is-making-the-most-of-iphone-duos-foldable-screen-just-in-time-for-the-world-series",
+      "headline": "MLB is making the most of iPhone Duo's foldable screen just in time for the World Series",
+      "summary": "MLB has redesigned its app for iPhone Duo, bringing live video, real-time stats, and AI-powered game insights together on the foldable screen just in time for the World Series, and we spoke to two key team members behind it.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qFBZZQpufYchzhR8sPs28G-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qFBZZQpufYchzhR8sPs28G-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=mlb-is-making-the-most-of-iphone-duos-foldable-screen-just-in-time-for-the-world-series",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-24T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-24/https-www-techradar-com-phones-iphone-mlb-is-making-the-most-of-iphone-duos-fold-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "headline": "OpenAI now trains its frontier AI models with no internet access",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=openai-now-trains-its-frontier-ai-models-with-no-internet-access",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-24T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-24/OpenAI-now-trains-its-frontier-AI-models-with-no-internet-access-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-24/https-www-theverge-com-ai-artificial-intelligence-1018021-openai-training-top-ai-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "headline": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=jack-dorseys-block-made-an-ai-model-that-talks-to-you-like-an-awkward-new-friend",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-24T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-24/Jack-Dorsey-s-Block-made-an-AI-model-that-talks-to-you-like-an-awkward-new-frien-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-24/https-www-theverge-com-ai-artificial-intelligence-1017906-jack-dorsey-block-dess-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "source_url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "headline": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-24T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-24/https-techcrunch-com-2026-10-23-from-toast-to-bessemer-who-founders-will-hear-fr-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/the-us-wants-to-fill-thousands-of-acres-of-public-land-with-ai-data-centers-land-records-show-35-data-center-related-developments-are-planned-so-far",
+      "source_url": "https://www.techradar.com/pro/the-us-wants-to-fill-thousands-of-acres-of-public-land-with-ai-data-centers-land-records-show-35-data-center-related-developments-are-planned-so-far",
+      "headline": "The US wants to fill thousands of acres of public land with AI data centers — land records show 35 data center-related developments are planned so far",
+      "summary": "Public land across the US could be the new home for 35 AI data centers, and the public has very little say.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/mBxmnLnpbAuepmei5vxvLf-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mBxmnLnpbAuepmei5vxvLf-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-us-wants-to-fill-thousands-of-acres-of-public-land-with-ai-data-centers-land-records-s",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-24T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-24/https-www-techradar-com-pro-the-us-wants-to-fill-thousands-of-acres-of-public-la-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/gaming/pc-gaming/vibe-your-way-to-usd50k-epic-is-challenging-devs-to-build-a-game-in-4-days-with-ai-and-gamers-are-in-full-rebellion-now",
+      "source_url": "https://www.techradar.com/gaming/pc-gaming/vibe-your-way-to-usd50k-epic-is-challenging-devs-to-build-a-game-in-4-days-with-ai-and-gamers-are-in-full-rebellion-now",
+      "headline": "Epic AI MegaJam challenges developers to build a game in 4 days with AI",
+      "summary": "Could Tim Sweeney annoy gamers any more than he already has? Apparently the answer to that is yes — very much so.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ijhrxXurFWn98GQJhMbbhe-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ijhrxXurFWn98GQJhMbbhe-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=epic-ai-megajam-challenges-developers-to-build-a-game-in-4-days-with-ai",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-24T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-24/https-www-techradar-com-gaming-pc-gaming-vibe-your-way-to-usd50k-epic-is-challen-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "source_url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "headline": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for per",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=now-google-says-it-might-use-your-gmail-and-google-photos-data-to-target-ads",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-24T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-24/Now-Google-says-it-might-use-your-Gmail-and-Google-Photos-data-to-target-ads-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-24/https-www-theverge-com-tech-1017600-google-personal-intelligence-privacy-policy--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     }
