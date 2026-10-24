@@ -7259,6 +7259,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/phones/iphone/mlb-is-making-the-most-of-iphone-duos-foldable-screen-just-in-time-for-the-world-series": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-24T18:11:33.343Z",
+        "message_id": 663,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
