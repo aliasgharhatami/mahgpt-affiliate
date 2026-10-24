@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "brand": {
+    "name": "گرداگرد گیتی",
+    "tagline": "فالو کن تا بگردیم به گرداگرد گیتی",
+    "language": "fa"
+  },
+  "posting": {
+    "reelsPerDay": 3,
+    "photoPostsPerDay": 2,
+    "storiesFromPhotoPosts": true,
+    "livePublishingEnabled": false
+  },
+  "reel": {
+    "durationSeconds": {
+      "min": 30,
+      "max": 180,
+      "target": [
+        45,
+        60
+      ]
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920
+    },
+    "fps": 30,
+    "voice": {
+      "language": "fa-IR",
+      "speakerGender": "female",
+      "mustSoundNatural": true,
+      "exactCaptionMatch": true,
+      "requiresRecordedAudio": true,
+      "modelSuggestion": "fa-IR-DilaraNeural",
+      "textAlignedToMeasuredSpeech": true
+    },
+    "music": {
+      "licensedOnly": true,
+      "duckUnderVoice": true
+    },
+    "captionPanel": {
+      "fixedPosition": true,
+      "topNormalized": 0.63,
+      "bottomNormalized": 0.86,
+      "entryMotion": "fade-and-rise",
+      "oneSentenceAtATime": true
+    },
+    "cover": {
+      "initialSeconds": 3,
+      "maxSeconds": 5,
+      "editorialTheme": "beige-charcoal-magazine-split",
+      "countryFlag": true,
+      "tagline": true,
+      "neverRepeatCoverForAllScenes": true
+    },
+    "visuals": {
+      "preferLicensedRealEventMedia": true,
+      "allowLicensedLocationOrStockMedia": true,
+      "allowAIGeneratedReconstructions": true,
+      "labelReconstructionOnFrame": true,
+      "neverMisrepresentReconstructionAsOriginal": true,
+      "frameChangesPerMinuteMin": 5
+    },
+    "motion": {
+      "requireKenBurnsPanZoom": true,
+      "requireAnimatedText": true,
+      "transitionsAllowed": [
+        "dissolve",
+        "cut-on-beat",
+        "subtle-wipe"
+      ]
+    },
+    "publishingGates": {
+      "requireAudioNarration": true,
+      "requireAudioSync": true,
+      "requireSourceURL": true,
+      "requireCover": true,
+      "requireLicenseRecords": true
+    }
+  },
+  "photoPost": {
+    "coverStyle": "same-editorial-magazine",
+    "countryFlag": true,
+    "tagline": true,
+    "storySafeArea": true
+  },
+  "legacy": {
+    "websiteUnchanged": true,
+    "telegramUnchanged": true,
+    "instagramProductionMustStayUnchangedUntilUserApproves": true
+  }
+}
