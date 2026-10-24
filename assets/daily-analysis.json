@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T10:04:40.511Z",
-  "analysis_date": "2026-10-23",
+  "generated_at": "2026-10-24T09:33:19.452Z",
+  "analysis_date": "2026-10-24",
   "stories": [
     {
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "mahgpt_url": "/news/story.html?id=canvas-first-ai-image-model-plans-designs-before-generating-them"
+      "title": "Canva launches Craft — its first image generation model, trained on human-designed templates",
+      "source": "https://www.techradar.com/pro/canva-launches-craft-its-first-image-generation-model-trained-on-human-designed-templates",
+      "mahgpt_url": "/news/story.html?id=canva-launches-craft-its-first-image-generation-model-trained-on-human-designed-templates"
     },
     {
-      "title": "iPhone Duo guide: Release date, price, specs and first reviews",
-      "source": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-price-specs-release-date.html",
-      "mahgpt_url": "/news/story.html?id=iphone-duo-guide-release-date-price-specs-and-first-reviews"
+      "title": "Ask GPT, Claude, and Gemini the same question at once for $29.97 with discount code",
+      "source": "https://www.macworld.com/article/3268635/ask-gpt-claude-and-gemini-the-same-question-at-once-for-29-97-with-discount-code.html",
+      "mahgpt_url": "/news/story.html?id=ask-gpt-claude-and-gemini-the-same-question-at-once-for-29-97-with-discount-code"
     },
     {
-      "title": "AI is rewriting the C-suite playbook",
-      "source": "https://www.techradar.com/pro/ai-is-rewriting-the-c-suite-playbook",
-      "mahgpt_url": "/news/story.html?id=ai-is-rewriting-the-c-suite-playbook"
+      "title": "This AI tool can now turn ordinary household photos into location clues — so could law forces use the technology to scope out your home?",
+      "source": "https://www.techradar.com/pro/security/this-ai-tool-can-now-turn-ordinary-household-photos-into-location-clues-so-could-law-forces-use-the-technology-to-scope-out-your-home",
+      "mahgpt_url": "/news/story.html?id=this-ai-tool-can-now-turn-ordinary-household-photos-into-location-clues-so-could-law-force"
     },
     {
-      "title": "Swap doomscrolling for 10-minute lessons with Nibble, now $69.99 for life",
-      "source": "https://www.macworld.com/article/3266405/swap-doomscrolling-for-10-minute-lessons-with-nibble-now-69-99-for-life.html",
-      "mahgpt_url": "/news/story.html?id=swap-doomscrolling-for-10-minute-lessons-with-nibble-now-69-99-for-life"
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "source": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "mahgpt_url": "/news/story.html?id=openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-"
     },
     {
-      "title": "Olivia Rodrigo just showed creatives how to deal with false design allegations in style",
-      "source": "https://www.creativebloq.com/news/olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style",
-      "mahgpt_url": "/news/story.html?id=olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style"
+      "title": "MLB is making the most of iPhone Duo's foldable screen just in time for the World Series",
+      "source": "https://www.techradar.com/phones/iphone/mlb-is-making-the-most-of-iphone-duos-foldable-screen-just-in-time-for-the-world-series",
+      "mahgpt_url": "/news/story.html?id=mlb-is-making-the-most-of-iphone-duos-foldable-screen-just-in-time-for-the-world-series"
     },
     {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "source": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "mahgpt_url": "/news/story.html?id=uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia"
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "mahgpt_url": "/news/story.html?id=openai-now-trains-its-frontier-ai-models-with-no-internet-access"
     },
     {
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "source": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "mahgpt_url": "/news/story.html?id=left-alone-with-nothing-to-do-ai-agents-started-playing"
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "mahgpt_url": "/news/story.html?id=jack-dorseys-block-made-an-ai-model-that-talks-to-you-like-an-awkward-new-friend"
     },
     {
-      "title": "Etsy is cracking down on AI slop listings",
-      "source": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-      "mahgpt_url": "/news/story.html?id=etsy-is-cracking-down-on-ai-slop-listings"
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "source": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "mahgpt_url": "/news/story.html?id=from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-23.html"
+      "path": "news/analysis/2026-10-24.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-23.html"
+      "path": "es/news/analysis/2026-10-24.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-23.html"
+      "path": "de/news/analysis/2026-10-24.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-23.html"
+      "path": "fr/news/analysis/2026-10-24.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-23.html"
+      "path": "pt-BR/news/analysis/2026-10-24.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-23.html"
+      "path": "ar/news/analysis/2026-10-24.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-23.html"
+      "path": "fa/news/analysis/2026-10-24.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-23.html"
+      "path": "tr/news/analysis/2026-10-24.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-23.html"
+      "path": "it/news/analysis/2026-10-24.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-23.html"
+      "path": "ja/news/analysis/2026-10-24.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-23.html"
+      "path": "ko/news/analysis/2026-10-24.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-23.html"
+      "path": "id/news/analysis/2026-10-24.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-23.html"
+      "path": "hi/news/analysis/2026-10-24.html"
     }
   ]
 }

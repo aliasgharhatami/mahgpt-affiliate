@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-10-24",
-  "created_at": "2026-10-24T06:58:59.188Z",
-  "source_feed_updated_at": "2026-10-24T06:58:59.094Z",
+  "created_at": "2026-10-24T09:33:13.329Z",
+  "source_feed_updated_at": "2026-10-24T09:33:08.725Z",
   "items": [
     {
       "story_id": "https://www.techradar.com/pro/canva-launches-craft-its-first-image-generation-model-trained-on-human-designed-templates",
@@ -27,10 +27,8 @@
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-10-24T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-24T06:59:08.054Z",
-        "message_id": 659,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-24T06:59:08.054Z"
       },
       "linkedin": {
         "status": "pending"
@@ -44,6 +42,52 @@
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
       "fallback_image_story": "assets/social-cards/2026-10-24/https-www-techradar-com-pro-canva-launches-craft-its-first-image-generation-mode-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3268635/ask-gpt-claude-and-gemini-the-same-question-at-once-for-29-97-with-discount-code.html",
+      "source_url": "https://www.macworld.com/article/3268635/ask-gpt-claude-and-gemini-the-same-question-at-once-for-29-97-with-discount-code.html",
+      "headline": "Ask GPT, Claude, and Gemini the same question at once for $29.97 with discount code",
+      "summary": "Macworld TL;DR: Compare GPT, Claude, Gemini, and 50+ other AI models in one window with an AskAnyModel AI Pro Plan lifetime subscription on a major discount at $29.97 with code SAVE10 (MSRP $499). Most AI chatbots charge a monthly fee for one company’s models, so comparing answers usually means payi",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3268635-0-64183300-1792828870-AskAnyModel_4eb2e0.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3268635-0-64183300-1792828870-AskAnyModel_4eb2e0.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ask-gpt-claude-and-gemini-the-same-question-at-once-for-29-97-with-discount-code",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-24T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-24/https-www-macworld-com-article-3268635-ask-gpt-claude-and-gemini-the-same-questi-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -73,7 +117,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-24T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-24T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -113,7 +157,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-24T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-24T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -160,7 +204,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-24T11:20:00.000Z",
+      "scheduled_publish_at": "2026-10-24T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -206,7 +250,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-24T13:20:00.000Z",
+      "scheduled_publish_at": "2026-10-24T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -253,7 +297,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-24T15:20:00.000Z",
+      "scheduled_publish_at": "2026-10-24T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -300,7 +344,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-24T17:20:00.000Z",
+      "scheduled_publish_at": "2026-10-24T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -346,7 +390,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-24T19:20:00.000Z",
+      "scheduled_publish_at": "2026-10-24T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -392,7 +436,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-24T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-24T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -414,53 +458,6 @@
         "warnings": [],
         "repairs": [
           "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "source_url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "headline": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for per",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=now-google-says-it-might-use-your-gmail-and-google-photos-data-to-target-ads",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-24T23:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-24/Now-Google-says-it-might-use-your-Gmail-and-Google-Photos-data-to-target-ads-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-24/https-www-theverge-com-tech-1017600-google-personal-intelligence-privacy-policy--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     }
