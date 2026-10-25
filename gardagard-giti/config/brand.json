@@ -35,5 +35,13 @@
     "photos_per_day": 2,
     "share_photos_to_story": true
   },
-  "publishing_enabled": false
+  "publishing_enabled": false,
+  "editorial_descriptor": "اخباری از جهان که احتمالا نمیشنوید!",
+  "obsolete_navigation_labels": [
+    "اخبار",
+    "مردم",
+    "مکان‌ها",
+    "فرهنگ"
+  ],
+  "style_guide": "Minimalist editorial magazine: split-tone photo, warm ivory and charcoal, generous whitespace, no travel iconography"
 }
