@@ -41,10 +41,11 @@
       "lang": "fa-IR",
       "priority": 3,
       "cost": "zero API fees; offline",
-      "female": "unverified",
+      "female": false,
       "availability": "GitHub/Hugging Face model",
-      "productionEligibleIf": "speaker voice and licenses verified; test passed",
-      "source": "https://huggingface.co/rhasspy/piper-voices"
+      "productionEligibleIf": "excluded unless a separate genuinely female Persian model is found and tested.",
+      "source": "https://huggingface.co/rhasspy/piper-voices",
+      "note": "Common voices amir/ganji/ganji_adabi/gyro/reza_ibrahim are listed male; excluded by female-voice requirement."
     },
     {
       "id": "female-vits-local",
@@ -68,8 +69,8 @@
       "priority": 5,
       "cost": "no API key, but remote consumer endpoint undocumented",
       "female": true,
-      "availability": "free keyless experiments only",
-      "productionEligibleIf": "not approved for unattended commercial publishing without clear terms and service reliability",
+      "availability": "Tested GitHub Actions 2026-10-25: HTTP 403 WebSocket; no speech file produced",
+      "productionEligibleIf": "excluded as unreliable; official F0 API only",
       "source": "https://github.com/rany2/edge-tts"
     }
   ],
@@ -119,5 +120,12 @@
       "provider": "Meta mms-tts-fas",
       "reason": "CC BY-NC 4.0; evaluation only"
     }
-  ]
+  ],
+  "latestTest": {
+    "date": "2026-10-25",
+    "method": "GitHub Actions edge-tts free preview",
+    "result": "FAILED HTTP 403",
+    "artifactCreated": false,
+    "run": "https://github.com/aliasgharhatami/mahgpt-affiliate/actions/runs/40174690403"
+  }
 }
