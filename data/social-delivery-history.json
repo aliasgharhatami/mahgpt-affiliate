@@ -7327,6 +7327,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-25T06:40:48.278Z",
+        "message_id": 667,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

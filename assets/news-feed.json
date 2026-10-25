@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T09:33:08.725Z",
+  "updatedAt": "2026-10-25T06:40:40.860Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "canva",
       "toolName": "Canva AI",
       "category": "Partner watch",
-      "title": "Canva launches Craft — its first image generation model, trained on human-designed templates",
-      "summary": "Canva Craft has ranked fourth overall and 1st/2nd across many image generation categories – and this is just the first model.",
+      "title": "Canva releases its first image generation model",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "guide": "/partners/canva.html",
-      "source": "https://www.techradar.com/pro/canva-launches-craft-its-first-image-generation-model-trained-on-human-designed-templates",
-      "publishedAt": "2026-10-23T17:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rSxKLL6cwwZnhftLLfKXJJ-1920-80.png"
+      "source": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Ask GPT, Claude, and Gemini the same question at once for $29.97 with discount code",
-      "summary": "Macworld TL;DR: Compare GPT, Claude, Gemini, and 50+ other AI models in one window with an AskAnyModel AI Pro Plan lifetime subscription on a major discount at $29.97 with code SAVE10 (MSRP $499). Most AI chatbots charge a monthly fee for one company’s models, so comparing answers usually means payi",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished ",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3268635/ask-gpt-claude-and-gemini-the-same-question-at-once-for-29-97-with-discount-code.html",
-      "publishedAt": "2026-10-24T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268635-0-64183300-1792828870-AskAnyModel_4eb2e0.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "publishedAt": "2026-10-24T21:29:12.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0%2C3.4695867913185%2C100%2C93.060826417363&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "This AI tool can now turn ordinary household photos into location clues — so could law forces use the technology to scope out your home?",
-      "summary": "US police are using an AI tool to detect the location of properties based on interior photos, but the way tool accumulates its data drawn concern from Airbnb, Zillow, and others",
+      "title": "GMKTec NucBox EVO-X1 Pro mini PC review",
+      "summary": "GMKTec NucBox EVO-X1 Pro is a tiny NUC PC built around the AMD Ryzen AI 9 HX 470 or HX370, perfect for those who need a high-performance desktop system.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/security/this-ai-tool-can-now-turn-ordinary-household-photos-into-location-clues-so-could-law-forces-use-the-technology-to-scope-out-your-home",
-      "publishedAt": "2026-10-23T23:25:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/WKVN3Uzoxhu5ER4WDhPDuT-1920-80.png"
+      "source": "https://www.techradar.com/pro/gmktec-nucbox-evo-x1-pro-mini-pc-review",
+      "publishedAt": "2026-10-24T20:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/sQcC3Qx5fpETaCXQhcQ5m-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "title": "How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
+      "summary": "TOPC's TXA2 combines AMD's Ryzen AI Max+ PRO 495, 192GB RAM, four SSD slots, and quad-monitor support at substantial prices.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "publishedAt": "2026-10-23T23:05:49.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+      "source": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+      "publishedAt": "2026-10-24T20:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "MLB is making the most of iPhone Duo's foldable screen just in time for the World Series",
-      "summary": "MLB has redesigned its app for iPhone Duo, bringing live video, real-time stats, and AI-powered game insights together on the foldable screen just in time for the World Series, and we spoke to two key team members behind it.",
+      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/phones/iphone/mlb-is-making-the-most-of-iphone-duos-foldable-screen-just-in-time-for-the-world-series",
-      "publishedAt": "2026-10-23T23:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qFBZZQpufYchzhR8sPs28G-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-10-24T19:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artifi",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "publishedAt": "2026-10-23T21:11:07.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "publishedAt": "2026-10-24T18:32:21.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan",
+      "title": "The UK is investing $134 million into an AI Biosecurity Lab",
+      "summary": "The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccines with AI.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "publishedAt": "2026-10-23T19:32:39.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/",
+      "publishedAt": "2026-10-24T16:11:53.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "publishedAt": "2026-10-23T19:06:23.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800"
+      "source": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The US wants to fill thousands of acres of public land with AI data centers — land records show 35 data center-related developments are planned so far",
-      "summary": "Public land across the US could be the new home for 35 AI data centers, and the public has very little say.",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-us-wants-to-fill-thousands-of-acres-of-public-land-with-ai-data-centers-land-records-show-35-data-center-related-developments-are-planned-so-far",
-      "publishedAt": "2026-10-23T18:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/mBxmnLnpbAuepmei5vxvLf-1920-80.jpg"
+      "source": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Epic AI MegaJam challenges developers to build a game in 4 days with AI",
-      "summary": "Could Tim Sweeney annoy gamers any more than he already has? Apparently the answer to that is yes — very much so.",
+      "title": "A week with iPhone Duo: Folding refined, if not perfected",
+      "summary": "Macworld Apple was never going to be first to market with a folding phone. The first models were clunky and riddled with flaws, but almost a decade after Samsung’s Galaxy Fold introduced the category, Apple was finally ready to give us an iPhone that bends. Rivals, not just Samsung, but Google, Xiao",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/gaming/pc-gaming/vibe-your-way-to-usd50k-epic-is-challenging-devs-to-build-a-game-in-4-days-with-ai-and-gamers-are-in-full-rebellion-now",
-      "publishedAt": "2026-10-23T17:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ijhrxXurFWn98GQJhMbbhe-1920-80.jpg"
+      "source": "https://www.macworld.com/article/3268522/a-week-with-iphone-duo-folding-refined-if-not-perfected.html",
+      "publishedAt": "2026-10-24T12:55:55.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268522-0-08868300-1792846564-Apple-iPhone-Duo-MacWorld-24.jpg?quality=50&strip=all&w=1024"
     }
   ]
 }
