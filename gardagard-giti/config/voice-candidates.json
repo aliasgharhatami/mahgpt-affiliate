@@ -28,6 +28,16 @@
       "source": "https://docs.cloud.google.com/text-to-speech/docs/gemini-tts"
     },
     {
+      "id": "bananaai-elevenv4-nazi",
+      "provider": "BananaAI Persian voice API (uses Eleven v4)",
+      "model": "eleven_v4",
+      "voice": "نازی (female warm storyteller); compare نوشین and مریم",
+      "lang": "fa (Tehrani accent claimed by provider)",
+      "stage": "candidate",
+      "note": "Public API lists Persian-localized female voice personas. Verify naturalness, licensing, API reliability, and monthly credit cost before using.",
+      "source": "https://bananaai.ir/docs/api/audio/speech"
+    },
+    {
       "id": "eleven-v4",
       "provider": "ElevenLabs",
       "model": "eleven_v4",
