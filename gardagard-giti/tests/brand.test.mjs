@@ -7,8 +7,8 @@ const brand=JSON.parse(await readFile("gardagard-giti/config/brand.json","utf8")
 const story=JSON.parse(await readFile("gardagard-giti/stories/2026-10-19-edirne-horses.json","utf8"));
 
 test("approved brand and fixed tagline on all three formats",()=>{
-  assert.equal(brand.name,"گرداگرد گیتی");
-  assert.equal(brand.tagline,"فالو کن تا بگردیم به گرداگرد گیتی");
+  assert.equal(brand.name,"گرد گیتی");
+  assert.equal(brand.tagline,"فالو کن تا بگردیم به گرد گیتی");
   for(const format of ["reel","feed","story"]){
     const svg=renderCoverSvg(story,brand,format);
     assert.ok(svg.includes(brand.name));
