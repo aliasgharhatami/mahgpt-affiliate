@@ -1,4 +1,4 @@
-# NARRATION / گرداگرد گیتی
+# NARRATION / گرد گیتی
 
 ## Episode 001: Edirne horses
 
