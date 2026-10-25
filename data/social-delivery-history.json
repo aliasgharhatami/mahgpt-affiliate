@@ -7412,6 +7412,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/gmktec-nucbox-evo-x1-pro-mini-pc-review": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-25T18:25:34.893Z",
+        "message_id": 672,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
