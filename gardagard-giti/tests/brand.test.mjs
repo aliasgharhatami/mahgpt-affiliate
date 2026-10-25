@@ -9,10 +9,13 @@ const story=JSON.parse(await readFile("gardagard-giti/stories/2026-10-19-edirne-
 test("approved brand and fixed tagline on all three formats",()=>{
   assert.equal(brand.name,"گرد گیتی");
   assert.equal(brand.tagline,"فالو کن تا بگردیم به گرد گیتی");
+  assert.equal(brand.editorial_descriptor,"اخباری از جهان که احتمالا نمیشنوید!");
   for(const format of ["reel","feed","story"]){
     const svg=renderCoverSvg(story,brand,format);
     assert.ok(svg.includes(brand.name));
     assert.ok(svg.includes(brand.tagline));
+    assert.ok(svg.includes(brand.editorial_descriptor));
+    assert.ok(!svg.includes('NEWS PEOPLE PLACES CULTURE'));
     assert.ok(svg.includes(story.city));
     assert.ok(svg.includes('y="'+Math.round(brand.formats[format].height*.75)));
     assert.ok(svg.includes("تصویرسازی مفهومی"));
