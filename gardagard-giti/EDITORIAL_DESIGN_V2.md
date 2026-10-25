@@ -1,8 +1,8 @@
-# Gardagard Giti — editorial design v2 (approved reference)
+# Gerde Giti — editorial design v2 (approved reference)
 
 ## Creative direction (2026-10-25)
-- Official Persian brand: **گرداگرد گیتی**
-- Exact tagline on ALL formats: **فالو کن تا بگردیم به گرداگرد گیتی**
+- Official Persian brand: **گرد گیتی**
+- Exact tagline on ALL formats: **فالو کن تا بگردیم به گرد گیتی**
 - Style: **minimalist editorial / contemporary magazine**. The approved reference uses warm ivory/beige vs charcoal black, thin editorial rules, abundant negative space, large Persian typography, a photo partly under a toned panel, and modest local-news metadata.
 - Split the photograph into tinted (sepia/black-and-white) and full-color sections. Vary image/text balance across posts within a recognizable grid.
 - Keep the country flag and the location visible but small.
@@ -20,7 +20,7 @@
   - https://www.edirneninsesi.com.tr/edirne-nin-vitrini-icin-belediye-onlem-almali/44827/
   - https://www.dha.com.tr/yerel-haberler/edirne/edirne-selimiye-camisi-meydaninda-basibos-3-at-2965688
 - Headline: **سه اسب وسط میدان سلیمیه!**
-- Call to action: **فالو کن تا بگردیم به گرداگرد گیتی**
+- Call to action: **فالو کن تا بگردیم به گرد گیتی**
 - Media: label illustrative AI reconstructions accurately. The original DHA image and video are *not* cleared for re-publication, so they must not be silently copied into this prototype.
 
 ## Production status / blockers
