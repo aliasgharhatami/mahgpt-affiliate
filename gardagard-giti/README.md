@@ -1,10 +1,10 @@
-# گرداگرد گیتی | Gardagard Giti
+# گرد گیتی | Gerde Giti
 
 An isolated, **non-publishing** branding and sample-cover package. No changes to MahGPT website, Telegram automation or Instagram workflows.
 
 ## Editorial identity
-- Official name: **گرداگرد گیتی**
-- Permanent sentence — spell exactly: **فالو کن تا بگردیم به گرداگرد گیتی**
+- Official name: **گرد گیتی**
+- Permanent sentence — spell exactly: **فالو کن تا بگردیم به گرد گیتی**
 - Persian, right-to-left, dark navy + teal + gold, with Vazirmatn/Noto Sans Arabic fallback.
 - Five daily slots **after activation**: three narrated Reels and two photographic posts; repost the two photographic posts as Stories.
 - Feed image: 1080 × 1350. Reels cover and Stories: 1080 × 1920. The tagline uses the same **relative position (50% width, 75% height)** in all three templates.
