@@ -19,7 +19,7 @@ const photoURI = async filepath => {
 export function renderCoverSvg(story, brand, format, imageURI=null) {
   const {width:w,height:h}=fmtSize(brand,format);
   if (!story.headlineLines?.length || story.headlineLines.length>3) throw new Error("1-3 headline lines are required");
-  if (brand.tagline!=="فالو کن تا بگردیم به گرداگرد گیتی") throw new Error("The approved tagline must remain exact");
+  if (brand.tagline!=="فالو کن تا بگردیم به گرد گیتی") throw new Error("The approved tagline must remain exact");
   const c=brand.colors, font=esc(brand.font || "Vazirmatn, Noto Sans Arabic, sans-serif");
   const ty=Math.round(h*brand.tagline_position.center_y);
   const headY=Math.round(h*(format==="feed"?.51:.53));
@@ -54,7 +54,7 @@ export function renderCoverSvg(story, brand, format, imageURI=null) {
     '<text x="'+margin+'" y="'+(ty+13)+'" font-family="'+font+'" text-anchor="middle" direction="rtl" unicode-bidi="embed" font-size="39" font-weight="900" fill="'+c.ink+'">'+esc(brand.tagline)+'</text>',
     '<path d="M70 '+(h-169)+' H1010" stroke="#FFFFFF" opacity=".17"/>',
     '<text x="'+(w-72)+'" y="'+(h-102)+'" font-family="'+font+'" font-size="26" text-anchor="end" direction="rtl" fill="#DFE8ED">منبع: '+esc(story.source?.publisher||"")+' | '+esc(story.eventDate||"")+'</text>',
-    '<text x="74" y="'+(h-102)+'" font-family="'+font+'" font-size="25" fill="#9FB5C5">GARDAGARD GITI</text>',
+    '<text x="74" y="'+(h-102)+'" font-family="'+font+'" font-size="25" fill="#9FB5C5">GERDE GITI</text>',
     '</svg>'
   ].join("\n");
   if (!svg.includes(brand.tagline)) throw new Error("Tagline was omitted");
