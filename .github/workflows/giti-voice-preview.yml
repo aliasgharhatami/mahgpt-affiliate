@@ -1,0 +1,76 @@
+name: Giti free female Persian voice preview (no publishing)
+
+on:
+  push:
+    branches:
+      - feature/gardagerd-giti-brand-20261025
+    paths:
+      - ".github/workflows/giti-voice-preview.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install free evaluation-only TTS
+        run: python -m pip install --disable-pip-version-check edge-tts==7.2.7
+      - name: Create female Persian speech test (no API key, no Instagram)
+        run: |
+          mkdir -p gardagard-giti/output/edge-preview
+          python - <<'PY'
+          import asyncio,json,subprocess,wave,os
+          from pathlib import Path
+          import edge_tts
+          root=Path("gardagard-giti/output/edge-preview")
+          job=json.loads(Path("gardagard-giti/narration/script.json").read_text())
+          voice="fa-IR-DilaraNeural"
+          assert job["language"]=="fa-IR"
+          def sec(fname):
+            return float(subprocess.check_output(["ffprobe","-v","error","-show_entries","format=duration","-of","default=nw=1:nk=1",str(fname)],text=True))
+          def stamp(t):
+            n=int(round(t*1000))
+            return "%02d:%02d:%02d,%03d"%(n//3600000,n//60000%60,n//1000%60,n%1000)
+          async def run():
+            times=[]; start=float(job.get("intro_seconds",3))
+            for idx,s in enumerate(job["sentences"],1):
+              file=root/f"voice_{idx:02d}.mp3"
+              await edge_tts.Communicate(s["text"],voice,rate="+2%").save(str(file))
+              d=sec(file)
+              if d<.5: raise RuntimeError(f"Unusable audio segment {idx}")
+              times.append({"sentence":s["text"],"start":round(start,3),"end":round(start+d,3),"file":file.name})
+              start+=d+(.25 if idx<len(job["sentences"]) else 0)
+            if not 30<=start<=180: raise RuntimeError(f"Duration {start} outside 30-180s range")
+            srt="\n\n".join(f'{i}\n{stamp(s["start"])} --> {stamp(s["end"])}\n{s["sentence"]}' for i,s in enumerate(times,1))+"\n"
+            (root/"captions.srt").write_text(srt)
+            (root/"timings.json").write_text(json.dumps({"brand":"گرد گیتی","tagline":"فالو کن تا بگردیم به گرد گیتی","voice":voice,"status":"preview_only_not_authorized_for_publication","segments":times},ensure_ascii=False,indent=2))
+            silence=root/"silence.mp3"
+            subprocess.run(["ffmpeg","-y","-v","error","-f","lavfi","-i","anullsrc=channel_layout=mono:sample_rate=24000","-t","0.25","-c:a","libmp3lame",str(silence)],check=True)
+            intro=root/"intro.mp3"
+            subprocess.run(["ffmpeg","-y","-v","error","-f","lavfi","-i","anullsrc=channel_layout=mono:sample_rate=24000","-t",str(job.get("intro_seconds",3)),"-c:a","libmp3lame",str(intro)],check=True)
+            files=[intro]
+            for i in range(len(times)):
+              files.append(root/times[i]["file"])
+              if i<len(times)-1: files.append(silence)
+            lst=root/"concat.txt"
+            lst.write_text("".join("file '"+str(p.resolve()).replace("'","")+"'\n" for p in files))
+            subprocess.run(["ffmpeg","-y","-v","error","-f","concat","-safe","0","-i",str(lst),"-ar","24000","-ac","1",str(root/"narration_preview.wav")],check=True)
+            print("Generated full narration duration",sec(root/"narration_preview.wav"))
+          asyncio.run(run())
+          PY
+      - name: Upload preview voice for listening only
+        uses: actions/upload-artifact@v4
+        with:
+          name: giti-female-persian-narration-test
+          path: |
+            gardagard-giti/output/edge-preview/narration_preview.wav
+            gardagard-giti/output/edge-preview/captions.srt
+            gardagard-giti/output/edge-preview/timings.json
+          retention-days: 7
