@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-10-25",
-  "created_at": "2026-10-25T06:40:40.937Z",
-  "source_feed_updated_at": "2026-10-25T06:40:40.860Z",
+  "created_at": "2026-10-25T09:49:42.836Z",
+  "source_feed_updated_at": "2026-10-25T09:49:39.335Z",
   "items": [
     {
       "story_id": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
@@ -27,10 +27,8 @@
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-10-25T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-25T06:40:48.278Z",
-        "message_id": 667,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-25T06:40:48.278Z"
       },
       "linkedin": {
         "status": "pending"
@@ -44,6 +42,144 @@
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
       "fallback_image_story": "assets/social-cards/2026-10-25/https-techcrunch-com-2026-10-22-canva-releases-its-first-image-generation-model--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
+      "source_url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
+      "headline": "Why do AI platforms want humans to design their branding?",
+      "summary": "AI firms keep hiring human designers. Ironic much?",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-do-ai-platforms-want-humans-to-design-their-branding",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-25T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-25/https-www-creativebloq-com-news-why-do-ai-platforms-want-humans-to-design-their--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3268664/before-you-paste-that-ai-answer-into-an-email-run-it-past-this-59-99-tool.html",
+      "source_url": "https://www.macworld.com/article/3268664/before-you-paste-that-ai-answer-into-an-email-run-it-past-this-59-99-tool.html",
+      "headline": "Before you paste that AI answer into an email, run it past this $59.99 tool",
+      "summary": "Macworld TL;DR: Find the weak spots and missing context in AI answers before you rely on them with a Caveat AI Standard Plan lifetime subscription for $59.99 (MSRP $179). AI chatbots write every answer in the same confident tone, whether it’s right or wrong. Caveat AI is a browser extension that rev",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3268664-0-49797800-1792915265-Caveat.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3268664-0-49797800-1792915265-Caveat.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 768,
+        "aspectRatio": 1.3333333333333333,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=before-you-paste-that-ai-answer-into-an-email-run-it-past-this-59-99-tool",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-25T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-25/https-www-macworld-com-article-3268664-before-you-paste-that-ai-answer-into-an-e-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/ai-agents-go-rogue-chasing-a-gbp350-train-refund-six-personal-assistant-models-spam-politicians-fabricate-lies-and-leak-private-medical-data-after-missing-a-28-day-claim-deadline",
+      "source_url": "https://www.techradar.com/pro/ai-agents-go-rogue-chasing-a-gbp350-train-refund-six-personal-assistant-models-spam-politicians-fabricate-lies-and-leak-private-medical-data-after-missing-a-28-day-claim-deadline",
+      "headline": "AI agents go rogue chasing a £350 train refund — six personal assistant models spam politicians, fabricate lies, and leak private medical data after missing a 28-day claim deadline",
+      "summary": "Six AI assistants chasing a £350 train refund spammed officials, invented excuses, and leaked private health details, though each model was tested only once.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/pwcbaLVSvqWvfTPCXUPoQD-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pwcbaLVSvqWvfTPCXUPoQD-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-agents-go-rogue-chasing-a-350-train-refund-six-personal-assistant-models-spam-politicia",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-25T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-25/https-www-techradar-com-pro-ai-agents-go-rogue-chasing-a-gbp350-train-refund-six-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -73,7 +209,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-25T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-25T13:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -119,7 +255,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-25T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-25T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -166,7 +302,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-25T11:20:00.000Z",
+      "scheduled_publish_at": "2026-10-25T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -212,7 +348,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-25T13:20:00.000Z",
+      "scheduled_publish_at": "2026-10-25T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -258,7 +394,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-25T15:20:00.000Z",
+      "scheduled_publish_at": "2026-10-25T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -305,144 +441,6 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-25T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-25/https-www-engadget-com-2296211-the-uk-is-investing-134-million-into-an-ai-biosec-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "source_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "headline": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 900,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-25T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-25/https-techcrunch-com-2026-10-24-forced-to-pick-groks-ai-model-chooses-republican-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source_url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "headline": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 813,
-        "aspectRatio": 1.4760147601476015,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=here-are-the-top-ai-agents-that-can-live-in-your-text-messages",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-25T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-25/https-techcrunch-com-2026-10-24-all-the-ai-agents-that-can-live-in-your-text-mes-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3268522/a-week-with-iphone-duo-folding-refined-if-not-perfected.html",
-      "source_url": "https://www.macworld.com/article/3268522/a-week-with-iphone-duo-folding-refined-if-not-perfected.html",
-      "headline": "A week with iPhone Duo: Folding refined, if not perfected",
-      "summary": "Macworld Apple was never going to be first to market with a folding phone. The first models were clunky and riddled with flaws, but almost a decade after Samsung’s Galaxy Fold introduced the category, Apple was finally ready to give us an iPhone that bends. Rivals, not just Samsung, but Google, Xiao",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3268522-0-08868300-1792846564-Apple-iPhone-Duo-MacWorld-24.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3268522-0-08868300-1792846564-Apple-iPhone-Duo-MacWorld-24.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 576,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-week-with-iphone-duo-folding-refined-if-not-perfected",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
       "scheduled_publish_at": "2026-10-25T23:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -459,7 +457,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-25/https-www-macworld-com-article-3268522-a-week-with-iphone-duo-folding-refined-if-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-25/https-www-engadget-com-2296211-the-uk-is-investing-134-million-into-an-ai-biosec-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
