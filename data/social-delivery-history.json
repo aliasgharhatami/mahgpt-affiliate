@@ -7344,6 +7344,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-25T09:50:22.034Z",
+        "message_id": 668,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
