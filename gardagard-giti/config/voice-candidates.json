@@ -2,11 +2,37 @@
   "project": "گرد گیتی",
   "romanization": "Gerde Giti",
   "brandTagline": "فالو کن تا بگردیم به گرد گیتی",
-  "decision": "FREE-ONLY evaluation: no paid model, subscription, or per-character fee authorized; final voice remains unselected",
+  "decision": "FIRST TEST Google Gemini 3.8 Flash TTS (published free tier, no billing) before Azure; no production voice approved",
   "language": "fa-IR",
   "speaker": "female",
   "desiredStyle": "natural, engaging Persian storyteller; warm, energetic but not exaggerated",
   "candidates": [
+    {
+      "id": "gemini-38-flash-free",
+      "provider": "Google Gemini API (AI Studio)",
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Kore or an auditioned female voice",
+      "lang": "fa-IR",
+      "priority": 1,
+      "cost": "Free-tier input and audio output; limited project quota; NO BILLED ACCOUNT",
+      "female": "must audition chosen voice",
+      "availability": "AI Studio API key; Google account without billing if free-tier eligible",
+      "productionEligibleIf": "verified zero-billing account, Iranian Persian naturalness, pronunciation, licensing, quality, and 3 daily reels fit rate limits",
+      "source": "https://ai.google.dev/gemini-api/docs/pricing"
+    },
+    {
+      "id": "gemini-38-flash-lite-free",
+      "provider": "Google Gemini API (AI Studio)",
+      "model": "gemini-3.8-flash-lite-tts",
+      "voice": "Auditioned female voice",
+      "lang": "fa-IR",
+      "priority": 2,
+      "cost": "Free-tier input and audio output; limited quota",
+      "female": "must audition chosen voice",
+      "availability": "same Google AI Studio key; no billing setup",
+      "productionEligibleIf": "same quality and free-tier requirements",
+      "source": "https://ai.google.dev/gemini-api/docs/speech-generation"
+    },
     {
       "id": "azure-dilara-f0",
       "provider": "Microsoft Azure Speech",
@@ -127,5 +153,6 @@
     "result": "FAILED HTTP 403",
     "artifactCreated": false,
     "run": "https://github.com/aliasgharhatami/mahgpt-affiliate/actions/runs/40174690403"
-  }
+  },
+  "newEvidenceDate": "2026-10-25"
 }
