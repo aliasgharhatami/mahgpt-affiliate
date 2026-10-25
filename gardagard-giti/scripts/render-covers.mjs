@@ -44,7 +44,7 @@ export function renderCoverSvg(story, brand, format, imageURI=null) {
     '<rect width="'+w+'" height="'+h+'" fill="url(#shade)"/>',
     '<rect x="0" y="0" width="'+w+'" height="12" fill="'+c.gold+'"/>',
     '<text x="'+(w-70)+'" y="124" font-family="'+font+'" font-size="52" font-weight="900" text-anchor="end" direction="rtl" fill="'+c.white+'">'+esc(brand.name)+'</text>',
-    '<text x="70" y="312" font-size="30" fill="'+c.white+'" font-family="'+font+'" text-anchor="start" direction="rtl" font-weight="700">'+esc(brand.editorial_descriptor)+'</text>',
+    '<text x="'+(w-70)+'" y="312" font-size="30" fill="'+c.white+'" font-family="'+font+'" text-anchor="end" direction="rtl" font-weight="700">'+esc(brand.editorial_descriptor)+'</text>',
     '<rect x="'+(w-440)+'" y="174" width="370" height="68" rx="30" fill="#102B40" fill-opacity=".88" stroke="#3A6476"/>',
     '<text x="'+(w-255)+'" y="219" font-family="'+font+'" text-anchor="middle" direction="rtl" font-size="33" fill="#FFFFFF">'+badgeText+'</text>',
     illustration,
