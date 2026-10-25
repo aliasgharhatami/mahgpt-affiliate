@@ -1,0 +1,68 @@
+{
+  "project": "گرد گیتی",
+  "romanization": "Gerde Giti",
+  "brandTagline": "فالو کن تا بگردیم به گرد گیتی",
+  "decision": "A/B listening required before enabling publishing; no selected production voice",
+  "language": "fa-IR",
+  "speaker": "female",
+  "desiredStyle": "natural, engaging Persian storyteller; warm, energetic but not exaggerated",
+  "candidates": [
+    {
+      "id": "gemini-3.8-flash",
+      "provider": "Google Gemini API",
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Kore",
+      "lang": "Iranian Persian",
+      "stage": "candidate",
+      "note": "Current expressive model supports Iranian Persian; benchmark with exact article before selecting",
+      "source": "https://ai.google.dev/gemini-api/docs/speech-generation"
+    },
+    {
+      "id": "gemini-2.5-pro",
+      "provider": "Google Cloud TTS",
+      "model": "gemini-2.5-pro-tts",
+      "voice": "Kore",
+      "lang": "fa-IR",
+      "stage": "candidate",
+      "note": "Independent small Persian listening test preferred this voice; Cloud pricing has no free quota",
+      "source": "https://docs.cloud.google.com/text-to-speech/docs/gemini-tts"
+    },
+    {
+      "id": "eleven-v4",
+      "provider": "ElevenLabs",
+      "model": "eleven_v4",
+      "voice": "select a female Persian-capable voice",
+      "lang": "fa",
+      "stage": "candidate",
+      "note": "Persian officially supported. Free plan does not include a commercial license.",
+      "source": "https://elevenlabs.io/docs/overview/models"
+    },
+    {
+      "id": "azure-dilara",
+      "provider": "Microsoft Azure Speech",
+      "model": "Standard Neural",
+      "voice": "fa-IR-DilaraNeural",
+      "lang": "fa-IR",
+      "stage": "fallback_candidate",
+      "note": "Free F0 quota available, expressive speaking styles not listed for this voice.",
+      "source": "https://learn.microsoft.com/en-us/azure/ai-services/Speech-Service/language-support"
+    }
+  ],
+  "requiredTests": [
+    "standard formal Persian",
+    "informal storytelling Persian",
+    "Edirne Selimiye Sinan UNESCO foreign names",
+    "consecutive sentences with comma and question marks",
+    "same exact spoken sentence vs caption",
+    "voice identity stable across five daily posts"
+  ],
+  "passConditions": {
+    "nativeSpeakerApproval": true,
+    "noWrongForeignNames": true,
+    "noNoticeableRobotRhythm": true,
+    "captionMatchesSpokenWords": true,
+    "commercialUsageAllowed": true,
+    "automationCostWithinBudget": true
+  },
+  "publishingAllowed": false
+}
