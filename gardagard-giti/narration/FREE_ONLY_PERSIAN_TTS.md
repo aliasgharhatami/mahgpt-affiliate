@@ -42,3 +42,10 @@ Keep bottom CTA: فالو کن تا بگردیم به گرد گیتی
 Approved visual layout: beige/charcoal modern editorial split-photo. No travel iconography.
 
 Live MahGPT site, Telegram and Instagram publishing remain unchanged; prototype publishing stays disabled.
+
+## Actual free-voice test result — 2026-10-25
+- A one-off preview run was executed on GitHub Actions: https://github.com/aliasgharhatami/mahgpt-affiliate/actions/runs/40174690403
+- Unofficial Edge TTS returned WebSocket HTTP **403** before producing any audio. No preview narration was generated. The unsuccessful testing workflow was subsequently removed; do not select this route for production.
+- Independent Piper voice indexes currently label the named Persian voices amir, ganji, ganji_adabi, gyro and reza_ibrahim as **male**, so those voices do NOT meet the required female-narrator criterion.
+- Official Azure Speech **F0** `fa-IR-DilaraNeural` remains the preferred zero-subscription female candidate pending resource setup and Persian listening approval.
+- The project still has no narrated publish-ready Reel. No production scheduling should be enabled.
