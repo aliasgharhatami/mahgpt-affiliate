@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T06:40:40.860Z",
+  "updatedAt": "2026-10-25T09:49:39.335Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -25,6 +25,39 @@
       "source": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "publishedAt": "2026-10-22T19:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Why do AI platforms want humans to design their branding?",
+      "summary": "AI firms keep hiring human designers. Ironic much?",
+      "guide": "/news/index.html",
+      "source": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
+      "publishedAt": "2026-10-25T08:01:03.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ-1920-80.png"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Before you paste that AI answer into an email, run it past this $59.99 tool",
+      "summary": "Macworld TL;DR: Find the weak spots and missing context in AI answers before you rely on them with a Caveat AI Standard Plan lifetime subscription for $59.99 (MSRP $179). AI chatbots write every answer in the same confident tone, whether it’s right or wrong. Caveat AI is a browser extension that rev",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3268664/before-you-paste-that-ai-answer-into-an-email-run-it-past-this-59-99-tool.html",
+      "publishedAt": "2026-10-25T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268664-0-49797800-1792915265-Caveat.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "AI agents go rogue chasing a £350 train refund — six personal assistant models spam politicians, fabricate lies, and leak private medical data after missing a 28-day claim deadline",
+      "summary": "Six AI assistants chasing a £350 train refund spammed officials, invented excuses, and leaked private health details, though each model was tested only once.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/ai-agents-go-rogue-chasing-a-gbp350-train-refund-six-personal-assistant-models-spam-politicians-fabricate-lies-and-leak-private-medical-data-after-missing-a-28-day-claim-deadline",
+      "publishedAt": "2026-10-25T07:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pwcbaLVSvqWvfTPCXUPoQD-1920-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -91,39 +124,6 @@
       "source": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/",
       "publishedAt": "2026-10-24T16:11:53.000Z",
       "image": "https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "publishedAt": "2026-10-24T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "publishedAt": "2026-10-24T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "A week with iPhone Duo: Folding refined, if not perfected",
-      "summary": "Macworld Apple was never going to be first to market with a folding phone. The first models were clunky and riddled with flaws, but almost a decade after Samsung’s Galaxy Fold introduced the category, Apple was finally ready to give us an iPhone that bends. Rivals, not just Samsung, but Google, Xiao",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3268522/a-week-with-iphone-duo-folding-refined-if-not-perfected.html",
-      "publishedAt": "2026-10-24T12:55:55.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268522-0-08868300-1792846564-Apple-iPhone-Duo-MacWorld-24.jpg?quality=50&strip=all&w=1024"
     }
   ]
 }
