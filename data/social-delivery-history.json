@@ -7429,6 +7429,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-25T21:49:47.361Z",
+        "message_id": 673,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
