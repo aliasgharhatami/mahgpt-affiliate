@@ -28,3 +28,11 @@
 - TTS output, licensed news-specific footage/photography, MP4 public hosting, and Instagram Reels media publisher are still to be implemented/tested.
 - Do not switch live Instagram publishing until the new pipeline has passed an explicit non-publishing dry run. Keep the MahGPT website and Telegram workflows unchanged.
 - No external publishing is authorized by this editorial specification.
+
+## Required editorial subtitle (2026-10-25)
+
+Use this exact text in the same small navigation/subtitle area of every future Instagram Reel cover, feed photo, and Story, replacing the old editorial category list (NEWS / PEOPLE / PLACES / CULTURE or «اخبار، مردم، مکان‌ها، فرهنگ»):
+
+**اخباری از جهان که احتمالا نمیشنوید!**
+
+This is distinct from the permanent bottom CTA, **فالو کن تا بگردیم به گرد گیتی**. Both must appear, with no globe/airplane/travel-agency icons. Match the approved split-image beige/charcoal modern magazine visual language. Existing PNG/MP4 previews are outdated; only newly rendered assets will include these changes.
