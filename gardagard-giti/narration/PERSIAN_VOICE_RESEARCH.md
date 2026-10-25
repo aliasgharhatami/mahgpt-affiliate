@@ -6,7 +6,8 @@ Date: 2026-10-25. No model has passed the project's own blind listening test yet
 1. **Google Gemini 3.8 Flash TTS (Kore or another natural female voice)** — new expressive speech engine, supports Iranian Persian. https://ai.google.dev/gemini-api/docs/speech-generation
 2. **Google Gemini 2.5 Pro TTS + Kore** — a small independent Persian-specific listening evaluation liked its pronunciation, timing and narrator rhythm most among evaluated configurations, but this is NOT a comprehensive scientific benchmark. https://github.com/mohammadmirashe/persian-tts-benchmark
 3. **ElevenLabs v4 (a tested native-Persian-sounding female voice)** — officially supports Persian and expressive narration. Older Multilingual v2 does not formally support Persian. https://elevenlabs.io/docs/overview/models
-4. **Azure Speech fa-IR-DilaraNeural** — reliable price-oriented candidate; Persian-specific voice exists, but preset emotional speaking styles are not listed for Dilara. https://learn.microsoft.com/en-us/azure/ai-services/Speech-Service/language-support
+4. **BananaAI Persian narrator (Eleven v4)** — Persian-localized female voices including «نازی» (warm storytelling) and «نوشین» (playful) and «مریم» (precise). These are vendor descriptions, not audited native-speaker ratings. Confirm voices, pricing, terms and reliability. https://bananaai.ir/docs/api/audio/speech
+5. **Azure Speech fa-IR-DilaraNeural** — reliable price-oriented candidate; Persian-specific voice exists, but preset emotional speaking styles are not listed for Dilara. https://learn.microsoft.com/en-us/azure/ai-services/Speech-Service/language-support
 
 ## Costs and licensing
 - Google Cloud Gemini 2.5 Pro TTS: paid from first usage, currently no free tier in Cloud TTS. https://cloud.google.com/text-to-speech/pricing
