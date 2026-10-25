@@ -2,60 +2,75 @@
   "project": "گرد گیتی",
   "romanization": "Gerde Giti",
   "brandTagline": "فالو کن تا بگردیم به گرد گیتی",
-  "decision": "A/B listening required before enabling publishing; no selected production voice",
+  "decision": "FREE-ONLY evaluation: no paid model, subscription, or per-character fee authorized; final voice remains unselected",
   "language": "fa-IR",
   "speaker": "female",
   "desiredStyle": "natural, engaging Persian storyteller; warm, energetic but not exaggerated",
   "candidates": [
     {
-      "id": "gemini-3.8-flash",
-      "provider": "Google Gemini API",
-      "model": "gemini-3.8-flash-tts",
-      "voice": "Kore",
-      "lang": "Iranian Persian",
-      "stage": "candidate",
-      "note": "Current expressive model supports Iranian Persian; benchmark with exact article before selecting",
-      "source": "https://ai.google.dev/gemini-api/docs/speech-generation"
-    },
-    {
-      "id": "gemini-2.5-pro",
-      "provider": "Google Cloud TTS",
-      "model": "gemini-2.5-pro-tts",
-      "voice": "Kore",
-      "lang": "fa-IR",
-      "stage": "candidate",
-      "note": "Independent small Persian listening test preferred this voice; Cloud pricing has no free quota",
-      "source": "https://docs.cloud.google.com/text-to-speech/docs/gemini-tts"
-    },
-    {
-      "id": "bananaai-elevenv4-nazi",
-      "provider": "BananaAI Persian voice API (uses Eleven v4)",
-      "model": "eleven_v4",
-      "voice": "نازی (female warm storyteller); compare نوشین and مریم",
-      "lang": "fa (Tehrani accent claimed by provider)",
-      "stage": "candidate",
-      "note": "Public API lists Persian-localized female voice personas. Verify naturalness, licensing, API reliability, and monthly credit cost before using.",
-      "source": "https://bananaai.ir/docs/api/audio/speech"
-    },
-    {
-      "id": "eleven-v4",
-      "provider": "ElevenLabs",
-      "model": "eleven_v4",
-      "voice": "select a female Persian-capable voice",
-      "lang": "fa",
-      "stage": "candidate",
-      "note": "Persian officially supported. Free plan does not include a commercial license.",
-      "source": "https://elevenlabs.io/docs/overview/models"
-    },
-    {
-      "id": "azure-dilara",
+      "id": "azure-dilara-f0",
       "provider": "Microsoft Azure Speech",
-      "model": "Standard Neural",
+      "model": "Neural TTS F0",
       "voice": "fa-IR-DilaraNeural",
       "lang": "fa-IR",
-      "stage": "fallback_candidate",
-      "note": "Free F0 quota available, expressive speaking styles not listed for this voice.",
-      "source": "https://learn.microsoft.com/en-us/azure/ai-services/Speech-Service/language-support"
+      "priority": 1,
+      "cost": "free up to 500,000 neural TTS chars/month on F0",
+      "female": true,
+      "availability": "official API with account/F0 resource",
+      "productionEligibleIf": "F0 resource confirmed, 0 paid usage and pronunciation test passed",
+      "source": "https://azure.microsoft.com/en-us/pricing/details/speech/"
+    },
+    {
+      "id": "piper-mana-offline",
+      "provider": "MahtaFetrat / Piper",
+      "model": "fa_IR-mana-medium",
+      "voice": "must listen and verify female identity",
+      "lang": "fa-IR",
+      "priority": 2,
+      "cost": "zero API fees; runs on CPU after downloading",
+      "female": "unverified",
+      "availability": "locally downloadable model",
+      "productionEligibleIf": "speaker is appropriate, rights confirmed, quality passes test, compute minute budget sufficient",
+      "source": "https://huggingface.co/MahtaFetrat/Mana-Persian-Piper"
+    },
+    {
+      "id": "piper-other",
+      "provider": "Piper",
+      "model": "fa_IR-ganji-adabi-medium (and other local voices)",
+      "voice": "verify speaker and naturalness",
+      "lang": "fa-IR",
+      "priority": 3,
+      "cost": "zero API fees; offline",
+      "female": "unverified",
+      "availability": "GitHub/Hugging Face model",
+      "productionEligibleIf": "speaker voice and licenses verified; test passed",
+      "source": "https://huggingface.co/rhasspy/piper-voices"
+    },
+    {
+      "id": "female-vits-local",
+      "provider": "Kamtera Coqui VITS",
+      "model": "Kamtera/persian-tts-female-vits",
+      "voice": "single-speaker female model, listen first",
+      "lang": "fa-IR",
+      "priority": 4,
+      "cost": "zero API fees; local compute and model download required",
+      "female": true,
+      "availability": "Hugging Face checkpoint ~1 GB or larger collection",
+      "productionEligibleIf": "license OpenRAIL obligations and dataset provenance checked; pronunciation and speed pass",
+      "source": "https://huggingface.co/Kamtera/persian-tts-female-vits"
+    },
+    {
+      "id": "edge-tts-testing-only",
+      "provider": "rany2/edge-tts",
+      "model": "Microsoft Edge consumer endpoint wrapper",
+      "voice": "fa-IR-DilaraNeural",
+      "lang": "fa-IR",
+      "priority": 5,
+      "cost": "no API key, but remote consumer endpoint undocumented",
+      "female": true,
+      "availability": "free keyless experiments only",
+      "productionEligibleIf": "not approved for unattended commercial publishing without clear terms and service reliability",
+      "source": "https://github.com/rany2/edge-tts"
     }
   ],
   "requiredTests": [
@@ -74,5 +89,35 @@
     "commercialUsageAllowed": true,
     "automationCostWithinBudget": true
   },
-  "publishingAllowed": false
+  "publishingAllowed": false,
+  "budget_policy": {
+    "currency": "USD",
+    "allowed_monthly_service_spend": 0,
+    "requires_owner_approval_for_any_charges": true,
+    "never_auto_upgrade_plan": true,
+    "do_not_install_noncommercial_model_for_publication": true,
+    "brand_publication_enabled": false
+  },
+  "excluded_paid_or_restricted": [
+    {
+      "provider": "ElevenLabs",
+      "reason": "monthly zero-cost commercial license/volume not established"
+    },
+    {
+      "provider": "Google Cloud Gemini Pro TTS",
+      "reason": "paid usage"
+    },
+    {
+      "provider": "Nimaone ParSiGo Pocket TTS v2",
+      "reason": "base model CC BY-NC-4.0; evaluation only"
+    },
+    {
+      "provider": "Chatterbox Persian finetune",
+      "reason": "CC BY-NC 4.0; evaluation only"
+    },
+    {
+      "provider": "Meta mms-tts-fas",
+      "reason": "CC BY-NC 4.0; evaluation only"
+    }
+  ]
 }
