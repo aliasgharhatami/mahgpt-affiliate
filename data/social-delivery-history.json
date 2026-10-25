@@ -7395,6 +7395,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-25T16:22:42.929Z",
+        "message_id": 671,
+        "delivery": "message"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
