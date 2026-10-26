@@ -1,0 +1,125 @@
+name: Giti SECOND trial - publish one Reel ONLY
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/giti-second-pilot-once.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: gerde-giti-second-trial-20261026-once
+  cancel-in-progress: false
+jobs:
+  second-trial:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+      INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+      GITI_RENDER_DEPLOY_HOOK: ${{ secrets.GITI_RENDER_DEPLOY_HOOK }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Prevent duplicate publication and require existing free credentials
+        shell: bash
+        run: |
+          test ! -f gardagard-giti/automation/second-pilot-release-state.json
+          test -n "$GEMINI_API_KEY"
+          test -n "$INSTAGRAM_ACCESS_TOKEN"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Pillow Gemini SDK and reliable FFmpeg
+        shell: bash
+        run: |
+          python -m pip install -q pillow 'google-genai>=2.25.0' imageio-ffmpeg
+          python - <<'PY'
+          import os,pathlib,imageio_ffmpeg
+          d=pathlib.Path(os.environ['RUNNER_TEMP'])/'giti-bin'
+          d.mkdir(parents=True,exist_ok=True)
+          (d/'ffmpeg').symlink_to(imageio_ffmpeg.get_ffmpeg_exe())
+          with open(os.environ['GITHUB_PATH'],'a') as f:f.write(str(d)+'\n')
+          PY
+      - name: Generate original Persian voiced documentary visuals from licensed archived photos
+        run: python gardagard-giti/automation/second_pilot_reel.py
+      - name: Validate first audio starts at second 1 and all media credited
+        shell: bash
+        run: |
+          python - <<'PY'
+          import pathlib,hashlib,json
+          p=pathlib.Path('gardagard-giti/automation/output/second-pilot')
+          x=json.loads((p/'release.json').read_text())
+          assert x['narration_first_second']==1 and x['image_count']>=3
+          assert x['file_size']>=1000000 and 30<=x['duration_seconds']<=180
+          assert hashlib.sha256((p/'reel.mp4').read_bytes()).hexdigest()==x['sha256']
+          assert all(y['file_page'].startswith('https://commons.wikimedia.org/') for y in x['image_attribution'])
+          print('MEDIA_APPROVED_FOR_SINGLE_TEST',x['sha256'],x['file_size'])
+          PY
+          ffmpeg -i gardagard-giti/automation/output/second-pilot/reel.mp4 2>&1 | grep -E "Video:|Audio:"
+      - name: Upload exactly this MP4 to existing dedicated Render media host Git branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/giti-second"
+          cp -a gardagard-giti/automation/output/second-pilot/. "$RUNNER_TEMP/giti-second/"
+          git fetch origin giti-media-host-20261026
+          git switch -C giti-media-host-20261026 origin/giti-media-host-20261026
+          DEST="gardagard-giti/media-host/public/media/2026-10-26/china-water-motorcycle-20261025"
+          mkdir -p "$DEST"
+          cp -a "$RUNNER_TEMP/giti-second/." "$DEST/"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$DEST"
+          git add -f "$DEST/reel.mp4"
+          git commit -m "media(giti): upload second original fully narrated China river motorcycle Reel"
+          git push origin HEAD:giti-media-host-20261026
+          git switch main
+      - name: Trigger configured Render hook if present
+        run: |
+          if [ -n "$GITI_RENDER_DEPLOY_HOOK" ]; then
+            curl --fail --silent --show-error --max-time 25 "$GITI_RENDER_DEPLOY_HOOK" -o /tmp/giti-render.json
+          else
+            echo "Using Render commit autoDeploy; no secret deploy hook configured."
+          fi
+      - name: Verify Render serves byte-identical new video before allowing any posting
+        shell: bash
+        run: |
+          python - <<'PY'
+          import hashlib,json,pathlib,time,urllib.request
+          url='https://gerde-giti-media.onrender.com/media/2026-10-26/china-water-motorcycle-20261025/'
+          base=pathlib.Path('gardagard-giti/automation/output/second-pilot')
+          m=json.loads((base/'release.json').read_text())
+          for i in range(48):
+            try:
+              with urllib.request.urlopen(url+'reel.mp4',timeout=25) as r:
+                b=r.read(m['file_size']+1)
+                kind=r.headers.get('Content-Type','')
+              with urllib.request.urlopen(url+'release.json',timeout=15) as r:x=json.load(r)
+              if len(b)==m['file_size'] and hashlib.sha256(b).hexdigest()==m['sha256'] and x['sha256']==m['sha256'] and kind.startswith('video/mp4'):
+                print('EXACT_SECOND_GITI_REEL_PUBLIC',m['sha256']);break
+            except Exception:pass
+            if i==47:raise RuntimeError('Correct Render media was not deployed; publication blocked')
+            time.sleep(10)
+          PY
+      - name: Publish only second approved test Reel via existing Instagram Login
+        run: node gardagard-giti/automation/second_pilot_publish.mjs
+      - name: Persist Instagram success or uncertain attempt, preventing duplicates
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          git switch main || true
+          if [ -f gardagard-giti/automation/second-pilot-release-state.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add gardagard-giti/automation/second-pilot-release-state.json
+            if ! git diff --cached --quiet; then
+              git commit -m "chore(giti): record second test Reel posting outcome"
+              git pull --rebase origin main
+              git push origin HEAD:main
+            fi
+          fi
