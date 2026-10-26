@@ -71,7 +71,7 @@ def main():
                 break
             except Exception as e:
                 print("Public-domain location photo download failed:",name,type(e).__name__)
-    if photo and not credit:raise ValueError("Archival photograph missing credit")
+    if not photo:\n        raise RuntimeError("STOP: no verified visually relevant source picture; never produce a blank/abstract background as an Instagram Reel")\n    if not credit or not credit.get("creator") or not credit.get("file_page"):\n        raise RuntimeError("STOP: source imagery lacks verifiable creator/license information")
     # The narration describes the event; any image is explicitly archival, not incident evidence.
     reel=out/"reel.mp4"
     render_video(story,photo,reel,wav,times,dur,out,w=720,h=1280,fps=24,demo=False)
