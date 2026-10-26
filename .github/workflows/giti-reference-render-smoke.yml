@@ -32,7 +32,7 @@ jobs:
           python - <<'PY'
           import json,math,os,pathlib,subprocess,urllib.request,wave
           p=pathlib.Path(os.environ['RUNNER_TEMP'])/'proof';p.mkdir()
-          u='https://gerde-giti-media.onrender.com/media/2026-10-26/edirne-horses-first/reel.mp4'
+          u='https://gerde-giti-media.onrender.com/media/2026-10-26/edirne-horses-first/reel-approved.mp4'
           with urllib.request.urlopen(u,timeout=30) as r:raw=r.read(11000000)
           assert 1000000<len(raw)<11000000
           ref=p/'reference.mp4';ref.write_bytes(raw)
