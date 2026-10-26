@@ -97,6 +97,7 @@ def harvest(config,sources,now=None,fetcher=fetch_feed):
  now=now or datetime.now(timezone.utc)
  result=[];warnings=[];seen=set()
  for source in sources["sources"]:
+  if source.get("manualOnly"):continue  # vendor RSS terms restrict automated commercial usage
   try:
    root=fetcher(source["url"])
    found=parse_rss(root,source,now,config["news"]["maxArticleAgeHours"])
