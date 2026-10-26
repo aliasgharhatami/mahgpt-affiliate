@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T09:49:49.383Z",
-  "analysis_date": "2026-10-25",
+  "generated_at": "2026-10-26T11:10:05.105Z",
+  "analysis_date": "2026-10-26",
   "stories": [
     {
       "title": "Canva releases its first image generation model",
@@ -9,93 +9,93 @@
       "mahgpt_url": "/news/story.html?id=canva-releases-its-first-image-generation-model"
     },
     {
-      "title": "Why do AI platforms want humans to design their branding?",
-      "source": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
-      "mahgpt_url": "/news/story.html?id=why-do-ai-platforms-want-humans-to-design-their-branding"
+      "title": "Microsoft Teams will soon use AI to warn you of sneaky phishing scams",
+      "source": "https://www.techradar.com/pro/microsoft-teams-will-soon-use-ai-to-warn-you-of-sneaky-phishing-scams",
+      "mahgpt_url": "/news/story.html?id=microsoft-teams-will-soon-use-ai-to-warn-you-of-sneaky-phishing-scams"
     },
     {
-      "title": "Before you paste that AI answer into an email, run it past this $59.99 tool",
-      "source": "https://www.macworld.com/article/3268664/before-you-paste-that-ai-answer-into-an-email-run-it-past-this-59-99-tool.html",
-      "mahgpt_url": "/news/story.html?id=before-you-paste-that-ai-answer-into-an-email-run-it-past-this-59-99-tool"
+      "title": "Claude saves an overheating Mac from a cryptominer it might have put there",
+      "source": "https://www.macworld.com/article/3268614/claude-saves-an-overheating-mac-from-a-cryptominer-it-might-have-put-there.html",
+      "mahgpt_url": "/news/story.html?id=claude-saves-an-overheating-mac-from-a-cryptominer-it-might-have-put-there"
     },
     {
-      "title": "AI agents go rogue chasing a £350 train refund — six personal assistant models spam politicians, fabricate lies, and leak private medical data after missing a 28-day claim deadline",
-      "source": "https://www.techradar.com/pro/ai-agents-go-rogue-chasing-a-gbp350-train-refund-six-personal-assistant-models-spam-politicians-fabricate-lies-and-leak-private-medical-data-after-missing-a-28-day-claim-deadline",
-      "mahgpt_url": "/news/story.html?id=ai-agents-go-rogue-chasing-a-350-train-refund-six-personal-assistant-models-spam-politicia"
+      "title": "Why human judgement still matters in AI-powered finance",
+      "source": "https://www.techradar.com/pro/why-human-judgement-still-matters-in-ai-powered-finance",
+      "mahgpt_url": "/news/story.html?id=why-human-judgement-still-matters-in-ai-powered-finance"
     },
     {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "mahgpt_url": "/news/story.html?id=blue-planet-iii-is-keeping-the-rough-edges-in-the-age-of-ai"
+      "title": "The shift to decision intelligence: Move beyond analytics to real time activation",
+      "source": "https://www.techradar.com/pro/the-shift-to-decision-intelligence-move-beyond-analytics-to-real-time-activation",
+      "mahgpt_url": "/news/story.html?id=the-shift-to-decision-intelligence-move-beyond-analytics-to-real-time-activation"
     },
     {
-      "title": "GMKTec NucBox EVO-X1 Pro mini PC review",
-      "source": "https://www.techradar.com/pro/gmktec-nucbox-evo-x1-pro-mini-pc-review",
-      "mahgpt_url": "/news/story.html?id=gmktec-nucbox-evo-x1-pro-mini-pc-review"
+      "title": "For the third time this fall, Apple prepares to launch a very cool thing nobody needs",
+      "source": "https://www.macworld.com/article/3263574/for-the-third-time-this-fall-apple-prepares-to-launch-a-very-cool-thing-nobody-needs.html",
+      "mahgpt_url": "/news/story.html?id=for-the-third-time-this-fall-apple-prepares-to-launch-a-very-cool-thing-nobody-needs"
     },
     {
-      "title": "How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
-      "source": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-      "mahgpt_url": "/news/story.html?id=how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-"
+      "title": "Preparing for a quantum-safe future",
+      "source": "https://www.techradar.com/pro/preparing-for-a-quantum-safe-future",
+      "mahgpt_url": "/news/story.html?id=preparing-for-a-quantum-safe-future"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-      "source": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "mahgpt_url": "/news/story.html?id=the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-and-8217-t-make-it"
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "source": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "mahgpt_url": "/news/story.html?id=meet-the-ai-agents-trying-to-be-real-life-journalists"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-25.html"
+      "path": "news/analysis/2026-10-26.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-25.html"
+      "path": "es/news/analysis/2026-10-26.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-25.html"
+      "path": "de/news/analysis/2026-10-26.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-25.html"
+      "path": "fr/news/analysis/2026-10-26.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-25.html"
+      "path": "pt-BR/news/analysis/2026-10-26.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-25.html"
+      "path": "ar/news/analysis/2026-10-26.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-25.html"
+      "path": "fa/news/analysis/2026-10-26.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-25.html"
+      "path": "tr/news/analysis/2026-10-26.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-25.html"
+      "path": "it/news/analysis/2026-10-26.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-25.html"
+      "path": "ja/news/analysis/2026-10-26.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-25.html"
+      "path": "ko/news/analysis/2026-10-26.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-25.html"
+      "path": "id/news/analysis/2026-10-26.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-25.html"
+      "path": "hi/news/analysis/2026-10-26.html"
     }
   ]
 }

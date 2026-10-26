@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-10-26",
-  "created_at": "2026-10-26T10:01:28.171Z",
-  "source_feed_updated_at": "2026-10-26T10:01:28.081Z",
+  "created_at": "2026-10-26T11:10:00.071Z",
+  "source_feed_updated_at": "2026-10-26T11:09:56.895Z",
   "items": [
     {
       "story_id": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
@@ -51,6 +51,282 @@
       }
     },
     {
+      "story_id": "https://www.techradar.com/pro/microsoft-teams-will-soon-use-ai-to-warn-you-of-sneaky-phishing-scams",
+      "source_url": "https://www.techradar.com/pro/microsoft-teams-will-soon-use-ai-to-warn-you-of-sneaky-phishing-scams",
+      "headline": "Microsoft Teams will soon use AI to warn you of sneaky phishing scams",
+      "summary": "Microsoft Teams is adding AI-powered phishing detection to help keep you safe from threats.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4PDqENH6W5dRPxTbyP4L5M-900-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4PDqENH6W5dRPxTbyP4L5M-900-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 900,
+        "height": 506,
+        "aspectRatio": 1.7786561264822134,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-teams-will-soon-use-ai-to-warn-you-of-sneaky-phishing-scams",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-26T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-26/https-www-techradar-com-pro-microsoft-teams-will-soon-use-ai-to-warn-you-of-snea-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3268614/claude-saves-an-overheating-mac-from-a-cryptominer-it-might-have-put-there.html",
+      "source_url": "https://www.macworld.com/article/3268614/claude-saves-an-overheating-mac-from-a-cryptominer-it-might-have-put-there.html",
+      "headline": "Claude saves an overheating Mac from a cryptominer it might have put there",
+      "summary": "Macworld We’ve all heard about how AI is going to change the world as we know it. We’ve also heard about how AI can go rogue and do things that are, well, scary. These early days of AI development are filled with crazy stories, and since the Mac is popular amongs AI developers, you’ll hear a lot abo",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3268614-0-14032400-1793012461-2026-Mac-Studio-top-left-angle.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3268614-0-14032400-1793012461-2026-Mac-Studio-top-left-angle.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=claude-saves-an-overheating-mac-from-a-cryptominer-it-might-have-put-there",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-26T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-26/https-www-macworld-com-article-3268614-claude-saves-an-overheating-mac-from-a-cr-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/why-human-judgement-still-matters-in-ai-powered-finance",
+      "source_url": "https://www.techradar.com/pro/why-human-judgement-still-matters-in-ai-powered-finance",
+      "headline": "Why human judgement still matters in AI-powered finance",
+      "summary": "AI is accelerating finance, but real progress depends on human judgement guiding every decision.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-human-judgement-still-matters-in-ai-powered-finance",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-26T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-26/https-www-techradar-com-pro-why-human-judgement-still-matters-in-ai-powered-fina-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/the-shift-to-decision-intelligence-move-beyond-analytics-to-real-time-activation",
+      "source_url": "https://www.techradar.com/pro/the-shift-to-decision-intelligence-move-beyond-analytics-to-real-time-activation",
+      "headline": "The shift to decision intelligence: Move beyond analytics to real time activation",
+      "summary": "AI is freeing up time specifically for strategic decision-making, not just automating routine tasks.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-shift-to-decision-intelligence-move-beyond-analytics-to-real-time-activation",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-26T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-26/https-www-techradar-com-pro-the-shift-to-decision-intelligence-move-beyond-analy-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3263574/for-the-third-time-this-fall-apple-prepares-to-launch-a-very-cool-thing-nobody-needs.html",
+      "source_url": "https://www.macworld.com/article/3263574/for-the-third-time-this-fall-apple-prepares-to-launch-a-very-cool-thing-nobody-needs.html",
+      "headline": "For the third time this fall, Apple prepares to launch a very cool thing nobody needs",
+      "summary": "Macworld Apple can’t win with people like me. When the company unveils minor iterative updates to successful products, we complain that it isn’t taking more risks. And when it launches crazy, beautiful tech in uncertain new markets, we suck our teeth and complain about practicality and necessity.",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3263574-0-89270000-1793010664-IMG_1631.jpeg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3263574-0-89270000-1793010664-IMG_1631.jpeg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 576,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=for-the-third-time-this-fall-apple-prepares-to-launch-a-very-cool-thing-nobody-needs",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-26T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-26/https-www-macworld-com-article-3263574-for-the-third-time-this-fall-apple-prepar-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/preparing-for-a-quantum-safe-future",
+      "source_url": "https://www.techradar.com/pro/preparing-for-a-quantum-safe-future",
+      "headline": "Preparing for a quantum-safe future",
+      "summary": "Quantum computing still feels like uncharted territory - yet like AI, the threat it poses is significant.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/d4oN2QTeNf8QYJDmjZnAKE-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/d4oN2QTeNf8QYJDmjZnAKE-1920-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=preparing-for-a-quantum-safe-future",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-26T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-26/https-www-techradar-com-pro-preparing-for-a-quantum-safe-future-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
       "story_id": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
       "source_url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
       "headline": "Meet the AI Agents Trying to Be Real-Life Journalists",
@@ -71,12 +347,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-26T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-26T19:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-26T10:01:35.499Z",
-        "message_id": 676,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-26T10:01:35.499Z"
       },
       "linkedin": {
         "status": "pending"
@@ -120,7 +394,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-26T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-26T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -167,283 +441,6 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-26T11:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-26/https-www-macworld-com-article-3268900-ai-stock-picks-and-150-money-lessons-are--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/quote-of-the-day-by-microsoft-ceo-satya-nadella-we-have-to-do-something-useful-with-ai-or-well-quickly-lose-social-permission-challenging-ai-pioneers-to-step-up-their-game",
-      "source_url": "https://www.techradar.com/pro/quote-of-the-day-by-microsoft-ceo-satya-nadella-we-have-to-do-something-useful-with-ai-or-well-quickly-lose-social-permission-challenging-ai-pioneers-to-step-up-their-game",
-      "headline": "Quote of the day by Microsoft CEO Satya Nadella: 'We have to do something useful with AI, or we'll quickly lose social permission'",
-      "summary": "Many people across the business world are finding AI useful, but that doesn't mean it's making a wider impact on society – at least not yet",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/t7wpaX7ApZyFrNdXuR3JDj-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/t7wpaX7ApZyFrNdXuR3JDj-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1441,
-        "aspectRatio": 1.7765440666204024,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=quote-of-the-day-by-microsoft-ceo-satya-nadella-we-have-to-do-something-useful-with-ai-or-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-26T13:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-26/https-www-techradar-com-pro-quote-of-the-day-by-microsoft-ceo-satya-nadella-we-h-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "headline": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-26T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-26/https-techcrunch-com-2026-10-25-grok-releases-the-first-seven-minutes-of-its-ai--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/this-crowdfunded-usd109-hub-wants-to-pool-the-ram-in-your-old-pcs-macs-and-phones-to-run-bigger-ai-models-but-the-engine-underneath-is-software-you-can-already-get-for-free",
-      "source_url": "https://www.techradar.com/pro/this-crowdfunded-usd109-hub-wants-to-pool-the-ram-in-your-old-pcs-macs-and-phones-to-run-bigger-ai-models-but-the-engine-underneath-is-software-you-can-already-get-for-free",
-      "headline": "This crowdfunded $109 hub wants to pool the RAM in your old PCs, Macs, and phones to run bigger AI models",
-      "summary": "Can't stomach DDR5 at five times last year's price? RAMDeck wants to borrow your other devices' memory instead, and it admits that won't be fast.",
-      "source_name": "but the engine underneath is software you can already get for free",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-crowdfunded-109-hub-wants-to-pool-the-ram-in-your-old-pcs-macs-and-phones-to-run-bigg",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-26T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-26/https-www-techradar-com-pro-this-crowdfunded-usd109-hub-wants-to-pool-the-ram-in-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-      "source_url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-      "headline": "Zen Browser is the Arc replacement I was looking for",
-      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And [&#8230;]",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0%2C11.023851076207%2C100%2C77.952297847586&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0%2C11.023851076207%2C100%2C77.952297847586&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1198,
-        "height": 620,
-        "aspectRatio": 1.9322580645161291,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=zen-browser-is-the-arc-replacement-i-was-looking-for",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-26T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-26/Zen-Browser-is-the-Arc-replacement-I-was-looking-for-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-26/https-www-theverge-com-tech-1018275-zen-browser-arc-replacement-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/security/1password-will-now-let-ai-agents-log-in-to-accounts-for-you-without-ever-needing-to-see-your-password",
-      "source_url": "https://www.techradar.com/pro/security/1password-will-now-let-ai-agents-log-in-to-accounts-for-you-without-ever-needing-to-see-your-password",
-      "headline": "1Password will now let AI agents log in to accounts for you without ever needing to see your password",
-      "summary": "Fed up of typing your login details in when AI is meant to be doing the work for you? 1Password now shares passwords securely.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Jhexp4JgZqCNrEtaYz2GLQ-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Jhexp4JgZqCNrEtaYz2GLQ-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=1password-will-now-let-ai-agents-log-in-to-accounts-for-you-without-ever-needing-to-see-yo",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-26T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-26/https-www-techradar-com-pro-security-1password-will-now-let-ai-agents-log-in-to--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-guide-problems-price-specs.html",
-      "source_url": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-guide-problems-price-specs.html",
-      "headline": "iPhone Duo guide: Price, specs, availability, problems and reviews",
-      "summary": "Macworld Apple’s first foldable iPhone, the iPhone Duo, went on sale on October 23, but getting hold of one could prove difficult. Preorders opened on October 16 and delivery estimates slipped rapidly, with Macworld’s U.S. tracking showing waits stretching to January 25, 2027 within around half an h",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2629813-0-47042000-1792948055-Apple-iPhone-Duo-MacWorld-22.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2629813-0-47042000-1792948055-Apple-iPhone-Duo-MacWorld-22.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 576,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=iphone-duo-guide-price-specs-availability-problems-and-reviews",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
       "scheduled_publish_at": "2026-10-26T23:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -460,7 +457,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-26/https-www-macworld-com-article-2629813-iphone-duo-folding-design-guide-problems--story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-26/https-www-macworld-com-article-3268900-ai-stock-picks-and-150-money-lessons-are--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
