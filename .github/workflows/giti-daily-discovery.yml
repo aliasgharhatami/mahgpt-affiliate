@@ -36,6 +36,8 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python gardagard-giti/automation/compose.py
+      - name: Research reusable archival imagery with explicit creator and license metadata (review only)
+        run: python gardagard-giti/automation/commons_media.py
       - name: Build today's separate draft queue
         run: |
           python - <<'PY'
@@ -63,6 +65,7 @@ jobs:
           path: |
             gardagard-giti/automation/output/discovered-*.json
             gardagard-giti/automation/output/composed-*.json
+            gardagard-giti/automation/output/media-candidates-*.json
           retention-days: 7
           if-no-files-found: warn
       - name: Save Giti queue state only; no MahGPT content or Instagram posting
