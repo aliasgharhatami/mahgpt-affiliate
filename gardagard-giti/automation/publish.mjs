@@ -106,8 +106,13 @@ async function main(){
  if(mode==="publish-claimed"){
   requireLive();
   if(!token||!account)throw Error("Instagram credentials missing");
+  if(queue.date!==new Intl.DateTimeFormat("en-CA",{timeZone:"Europe/Istanbul"}).format(new Date())){
+   throw Error("Claimed item belongs to another date; manual reconciliation required");
+  }
   const item=queue.items.find(x=>x.status==="inflight");
   if(!item){console.log("No claimed item; no action.");return}
+  const age=Date.now()-Date.parse(item.claimed_at||"");
+  if(!Number.isFinite(age)||age<0||age>15*60*1000)throw Error("In-flight claim is stale; must not retry publication automatically");
   try{
    const mainId=await publishItem(item,item.kind,item.media_url,captionFor(item));
    item.instagram_id=mainId;
