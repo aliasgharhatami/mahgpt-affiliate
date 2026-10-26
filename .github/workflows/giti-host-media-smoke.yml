@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: gerde-giti-media-host-upload
+  group: gerde-giti-media-transport-diagnostics
   cancel-in-progress: false
 
 jobs:
