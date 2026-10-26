@@ -312,6 +312,10 @@ def main():
         if not re.fullmatch(r"[a-zA-Z0-9_-]{4,90}",ident):raise ValueError("Unsafe source item id")
         target=output/(f"{idx+1:02d}-"+ident);target.mkdir(parents=True,exist_ok=True)
         img,license=source_image(item,assets,target)
+        if img is None:
+            # User rejected a previously published Reel rendered with an empty photo background.
+            # Fail closed instead of silently substituting abstract art or a plain backdrop.
+            raise ValueError("No reviewed, source-attributed image for "+ident+"; render blocked to protect visual quality")
         manifest={"id":ident,"kind":item["kind"],"country":item["country"],"source_url":item["source_url"],
                   "original_headline":item["headline"],"status":"preview_not_approved",
                   "image_attribution":license,"visual_label":"تصویر آرشیوی" if img else "تصویرسازی مفهومی",
