@@ -1,0 +1,28 @@
+name: Gerde Giti - release and CDN queue safety tests (NO POSTS)
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/giti-approved-media-tests.yml"
+      - "gardagard-giti/automation/apply_host_urls.py"
+      - "gardagard-giti/automation/prepare_host_release.py"
+      - "gardagard-giti/tests/test_host_release.py"
+      - "gardagard-giti/tests/test_apply_host_urls.py"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install free Pillow validation dependency
+        run: python -m pip install -q pillow
+      - name: Validate rights gating, no preview release and no silent live queue
+        run: |
+          python -m unittest discover -s gardagard-giti/tests -p test_host_release.py -v
+          python -m unittest discover -s gardagard-giti/tests -p test_apply_host_urls.py -v
