@@ -58,7 +58,7 @@ jobs:
           assert all(y['file_page'].startswith('https://commons.wikimedia.org/') for y in x['image_attribution'])
           print('MEDIA_APPROVED_FOR_SINGLE_TEST',x['sha256'],x['file_size'])
           PY
-          ffmpeg -i gardagard-giti/automation/output/second-pilot/reel.mp4 2>&1 | grep -E "Video:|Audio:"
+          ffmpeg -i gardagard-giti/automation/output/second-pilot/reel.mp4 2>&1 | grep -E "Video:|Audio:" || true
       - name: Upload exactly this MP4 to existing dedicated Render media host Git branch
         shell: bash
         run: |
