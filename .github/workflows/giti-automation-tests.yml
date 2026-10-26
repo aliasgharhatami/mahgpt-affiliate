@@ -38,7 +38,9 @@ jobs:
           INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
         run: |
           if [ -n "$INSTAGRAM_ACCESS_TOKEN" ] && [ -n "$INSTAGRAM_ACCOUNT_ID" ]; then
-            node gardagard-giti/automation/publish.mjs check-account
+            if ! node gardagard-giti/automation/publish.mjs check-account; then
+              echo "::warning::Existing Instagram token is expired or invalid; publication will stay OFF until reauthorized."
+            fi
           else
             echo "Existing Instagram secrets not available; identity check skipped without publishing."
           fi
