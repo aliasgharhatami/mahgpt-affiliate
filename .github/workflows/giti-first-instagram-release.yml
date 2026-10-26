@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/giti-first-instagram-release.yml"
+      - "gardagard-giti/automation/first_real_post_once.mjs"
 permissions:
   contents: write
 concurrency:
