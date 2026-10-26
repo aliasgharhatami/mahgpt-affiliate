@@ -137,11 +137,18 @@ def subtitle_overlay(story,text,w,h,scene_idx,image_present,demo):
     panel_top=int(h*.735);panel_bot=int(h*.90)
     # 70% opaque, 30% transparent to keep underlying photo visible.
     d.rounded_rectangle((25,panel_top,w-25,panel_bot),radius=14,fill=(*CREAM,179),outline=(*INK,65),width=2)
-    ff=font(int(w*.046))
-    lines=wrap(d,text,ff,w-108,3)
-    if len(lines)>3:
-        raise ValueError("Sentence too long for stable lower-third; split sentence first")
-    line_h=int(w*.067);y=panel_top+(panel_bot-panel_top-len(lines)*line_h)//2+line_h//2
+    ff=None;lines=None
+    for factor in (.046,.043,.040,.037,.034,.031):
+        candidate=font(int(w*factor))
+        try:
+            wrapped=wrap(d,text,candidate,w-108,3)
+            ff,lines=candidate,wrapped
+            break
+        except ValueError:
+            continue
+    if ff is None:
+        raise ValueError("Sentence is too long for a readable subtitle; must split at a natural pause")
+    line_h=int(ff.size*1.42);y=panel_top+(panel_bot-panel_top-len(lines)*line_h)//2+line_h//2
     for line in lines:
         draw_rtl(d,(w-51,y),line,ff,INK,anchor="ra")
         y+=line_h
