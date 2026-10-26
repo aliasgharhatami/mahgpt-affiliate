@@ -1,0 +1,83 @@
+name: Giti reference style cloud smoke (NO POST, NO PAID API)
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/giti-reference-render-smoke.yml"]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  reference-proof:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install local media dependencies
+        run: |
+          python -m pip install -q Pillow imageio-ffmpeg
+          python - <<'PY'
+          import os,pathlib,imageio_ffmpeg
+          p=pathlib.Path(os.environ['RUNNER_TEMP'])/'giti-bin';p.mkdir(exist_ok=True)
+          (p/'ffmpeg').symlink_to(imageio_ffmpeg.get_ffmpeg_exe())
+          with open(os.environ['GITHUB_PATH'],'a') as f:f.write(str(p)+'\n')
+          PY
+      - name: Syntax-check new cloud content pipeline
+        run: |
+          python -m py_compile gardagard-giti/automation/quality_*.py
+      - name: Build never-publish five-scene technical fixture from approved reference
+        run: |
+          python - <<'PY'
+          import json,math,os,pathlib,subprocess,urllib.request,wave
+          p=pathlib.Path(os.environ['RUNNER_TEMP'])/'proof';p.mkdir()
+          u='https://gerde-giti-media.onrender.com/media/2026-10-26/edirne-horses-first/reel.mp4'
+          with urllib.request.urlopen(u,timeout=30) as r:raw=r.read(11000000)
+          assert 1000000<len(raw)<11000000
+          ref=p/'reference.mp4';ref.write_bytes(raw)
+          line='این فقط آزمایش قالب تصویری روی سرور است و برای انتشار نیست.'
+          scenes=[]
+          for i,second in enumerate([1,8,17,31,42]):
+            jpg=p/('photo-%d.jpg'%i)
+            subprocess.run(['ffmpeg','-y','-loglevel','error','-ss',str(second),
+                '-i',str(ref),'-frames:v','1','-vf','crop=1080:700:0:200',str(jpg)],check=True)
+            scenes.append(dict(kind='reconstruction',path=str(jpg),narration=line,
+                image_generator='APPROVED_REFERENCE_TEST_FIXTURE',
+                story_relevance_checked=True,human_subject_accuracy_reviewed=True))
+          job={'schema':'gerde-giti/quality-cloud/v1','id':'test-reference-only',
+            'source_url':u,'caption':'TEST ONLY - DO NOT PUBLISH',
+            'country_fa':'ترکیه','location_fa':'آزمایش قالب', 'scenes':scenes}
+          (p/'job.json').write_text(json.dumps(job,ensure_ascii=False),encoding='utf-8')
+          frames=bytearray(b'\x00'*48000);timing=[]
+          for scene in scenes:
+            start=len(frames)/48000
+            for j in range(5*24000):
+              frames.extend(int(1500*math.sin(2*math.pi*240*j/24000)).to_bytes(2,'little',signed=True))
+            timing.append(dict(start=start,end=len(frames)/48000,text=scene['narration']))
+          frames.extend(b'\x00'*48000)
+          with wave.open(str(p/'test-tone.wav'),'wb') as w:
+            w.setnchannels(1);w.setsampwidth(2);w.setframerate(24000);w.writeframes(frames)
+          (p/'timing.json').write_text(json.dumps(timing,ensure_ascii=False))
+          PY
+          python gardagard-giti/automation/quality_reel_renderer.py --job "$RUNNER_TEMP/proof/job.json" --audio "$RUNNER_TEMP/proof/test-tone.wav" --timing "$RUNNER_TEMP/proof/timing.json" --reference "$RUNNER_TEMP/proof/reference.mp4" --out "$RUNNER_TEMP/proof/output"
+      - name: Confirm correct branded Full HD render, NO Instagram calls
+        run: |
+          python - <<'PY'
+          import os,json,pathlib
+          p=pathlib.Path(os.environ['RUNNER_TEMP'])/'proof/output'
+          m=json.loads((p/'manifest.json').read_text())
+          assert m['video_width']==1080 and m['video_height']==1920
+          assert m['status']=='review-only' and m['audio_first_second']==1.0
+          assert (p/'reel.mp4').stat().st_size>300000
+          print('SUCCESS: cloud reference layout available while PC is off; NO POST')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: giti-reference-TECHNICAL-only-not-publishable
+          path: |
+            ${{ runner.temp }}/proof/output/reel.mp4
+            ${{ runner.temp }}/proof/output/cover.jpg
+            ${{ runner.temp }}/proof/output/manifest.json
+          retention-days: 3
+          if-no-files-found: error
