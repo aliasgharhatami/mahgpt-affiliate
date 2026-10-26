@@ -33,11 +33,15 @@ jobs:
           node gardagard-giti/automation/queue.mjs slots 2026-10-27
           node gardagard-giti/automation/publish.mjs dry-run
       - name: Check existing Instagram Login read-only if configured
-        if: ${{ env.READ_ONLY == 'true' }}
-        run: node gardagard-giti/automation/publish.mjs check-account
         env:
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
           INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+        run: |
+          if [ -n "$INSTAGRAM_ACCESS_TOKEN" ] && [ -n "$INSTAGRAM_ACCOUNT_ID" ]; then
+            node gardagard-giti/automation/publish.mjs check-account
+          else
+            echo "Existing Instagram secrets not available; identity check skipped without publishing."
+          fi
       - name: Confirm no production publication in tests
         run: |
           node - <<'NODE'
