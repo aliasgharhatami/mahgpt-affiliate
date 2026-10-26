@@ -9,7 +9,7 @@ permissions:
   contents: write
 concurrency:
   group: gerde-giti-second-trial-20261026-once
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   second-trial:
     runs-on: ubuntu-latest
