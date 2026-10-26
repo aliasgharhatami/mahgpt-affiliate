@@ -66,7 +66,11 @@ def render_card(item,img_path,dest,size,kind,subtitle="",number=0):
     draw.rectangle((0,int(h*.89),w,h),fill=(25,25,25,255))
     # Caption is deliberately 70% opaque to preserve imagery.
     if subtitle:
-        draw.rounded_rectangle((32,int(h*.66),w-32,int(h*.85)),radius=14,fill=(232,223,209,178))
+        # Blend an actual semi-transparent panel over the underlying photograph.
+        overlay=Image.new("RGBA",(w,h),(0,0,0,0))
+        ImageDraw.Draw(overlay).rounded_rectangle((32,int(h*.66),w-32,int(h*.85)),radius=14,fill=(232,223,209,178))
+        canvas=Image.alpha_composite(canvas.convert("RGBA"),overlay).convert("RGB")
+        draw=ImageDraw.Draw(canvas,"RGBA")
     titlefont=ImageFont.truetype(font(),46 if w==1080 else 36)
     smallfont=ImageFont.truetype(font(),27)
     draw.text((w-40,46),"گرد گیتی",anchor="ra",font=titlefont,fill=(25,25,25,255),direction="rtl")
