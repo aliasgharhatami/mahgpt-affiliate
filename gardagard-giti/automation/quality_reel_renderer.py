@@ -8,7 +8,7 @@ import argparse, hashlib, io, json, math, os, pathlib, subprocess, sys, tempfile
 from PIL import Image,ImageDraw,ImageFont,ImageOps,features
 
 BASE=pathlib.Path(__file__).resolve().parent
-FIRST_REFERENCE="https://gerde-giti-media.onrender.com/media/2026-10-26/edirne-horses-first/reel.mp4"
+FIRST_REFERENCE="https://gerde-giti-media.onrender.com/media/2026-10-26/edirne-horses-first/reel-approved.mp4"
 W,H=1080,1920
 INK=(29,29,29);CREAM=(235,227,213);RED=(190,54,63);WHITE=(255,255,255)
 SAFE_LICENSES={"CC0","Public Domain","Public domain","CC BY 2.0","CC BY 3.0","CC BY 4.0","CC BY-SA 4.0"}
