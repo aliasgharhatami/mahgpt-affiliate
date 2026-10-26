@@ -212,7 +212,7 @@ def audio_segments(sentences,client,voice,model,style,outdir):
             frames=w.readframes(w.getnframes())
         if not frames:raise RuntimeError("Audio was empty")
         parsed.append((text,frames))
-    full=bytearray(b"\x00"*(24000*2*2)) # first 2 seconds = cover
+    full=bytearray(b"\x00"*(24000*2*1)) # first 1 second = cover; start narration at 1s
     timings=[]
     for i,(text,pcm) in enumerate(parsed):
         start=len(full)//2/24000
@@ -246,7 +246,7 @@ def render_video(item,image,out,clips,timing,duration,wd,w=540,h=960,fps=18,demo
              "-r",str(fps),"-pix_fmt","yuv420p","-movflags","+faststart",str(dest)])
     # Intro frame is stationary, with footer/branding integrated into the cover.
     empty=Image.new("RGBA",(w,h),(0,0,0,0));empty_path=wd/"clear.png";empty.save(empty_path)
-    first=wd/"part-00.mp4";segment(cover,empty_path,2,first);segments.append(first)
+    first=wd/"part-00.mp4";segment(cover,empty_path,timing[0]["start"],first);segments.append(first)
     for i,t in enumerate(timing,1):
         start=t["start"]
         end=timing[i]["start"] if i<len(timing) else duration
