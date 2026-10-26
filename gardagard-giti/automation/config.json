@@ -1,0 +1,75 @@
+{
+  "schema": "gerde-giti/automation/v1",
+  "brand": "گرد گیتی",
+  "latin": "Gerde Giti",
+  "tagline": "فالو کن تا بگردیم به گرد گیتی",
+  "editorialLine": "اخباری از جهان که احتمالا نمیشنوید!",
+  "locale": "fa-IR",
+  "timezone": "Europe/Istanbul",
+  "currencyBudgetUsd": 0,
+  "formats": {
+    "reels": 3,
+    "feedImages": 2,
+    "storyCopies": 2
+  },
+  "design": {
+    "style": "minimal modern cream-and-charcoal editorial; split toned photography",
+    "cream": "#E8DFD1",
+    "charcoal": "#191919",
+    "accent": "#D42B3E",
+    "captionPanelOpacity": 0.7,
+    "logoOptional": true,
+    "forbiddenLabels": [
+      "LOCAL /01",
+      "LOCAL / 01",
+      "EP 001"
+    ]
+  },
+  "scheduledLocalTimes": [
+    "10:00",
+    "13:00",
+    "16:00",
+    "19:00",
+    "21:30"
+  ],
+  "plannedTypes": [
+    "reel",
+    "photo",
+    "reel",
+    "photo",
+    "reel"
+  ],
+  "reels": {
+    "minSeconds": 30,
+    "maxSeconds": 180,
+    "voice": "Kore",
+    "model": "gemini-3.8-flash-tts",
+    "language": "fa-IR",
+    "narrationStyle": "fully natural colloquial Iranian Persian; no mixture of formal and informal phrasing",
+    "requireVoice": true,
+    "requireSentenceSync": true
+  },
+  "news": {
+    "maxArticleAgeHours": 72,
+    "requireOriginalSourceUrl": true,
+    "requireDistinctCountries": 3,
+    "requireIndependentCheck": true,
+    "noInventedFacts": true,
+    "noSourcePhotoWithoutRights": true,
+    "maxDiscoveriesPerFeed": 40,
+    "noExactFullNewsText": true,
+    "allowLightTabloid": true
+  },
+  "publication": {
+    "enabled": false,
+    "staging": true,
+    "mediaBaseUrl": null,
+    "reviewBeforeGoLive": true,
+    "sharedLegacyInstagramCredentials": true,
+    "skipIfNoValidStory": true,
+    "skipIfNoLicensedMedia": true,
+    "instagramAccountKind": "existing account",
+    "telegramUnchanged": true,
+    "websiteUnchanged": true
+  }
+}
