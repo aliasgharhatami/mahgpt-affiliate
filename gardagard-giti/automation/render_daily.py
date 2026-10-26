@@ -285,6 +285,7 @@ def main():
     ap.add_argument("--max-items",type=int,default=5)
     ap.add_argument("--demo",action="store_true",help="Explicit visual demonstration with watermark")
     ap.add_argument("--quality",choices=["preview","production"],default="preview")
+    ap.add_argument("--cached-episode",help="Optional previously generated Gemini WAV + matching timings.json (TECHNICAL FIRST-REEL PREVIEW ONLY)")
     args=ap.parse_args()
     data=json.loads(Path(args.queue).read_text(encoding="utf-8"))
     if data.get("schema")!="gerde-giti/queue/v1":raise ValueError("A valid separate Gerde Giti queue is required")
@@ -324,13 +325,25 @@ def main():
             lines=item.get("narration_sentences") or []
             if not 5<=len(lines)<=9 or any(not isinstance(x,str) or not x.strip() for x in lines):
                 manifest["error"]="No complete reviewed-language draft (requires 5-9 lines)"
-            elif not client:
+            elif not client and not (args.cached_episode and idx==0):
                 manifest["error"]="Missing Gemini API key (no silent fake narration)"
             else:
                 try:
                     with tempfile.TemporaryDirectory() as t:
                         tmp=Path(t)
-                        audio,timing,duration=audio_segments(lines,client,"Kore","gemini-3.8-flash-tts",DEFAULT_STYLE,tmp)
+                        if args.cached_episode and idx==0:
+                            archive=Path(args.cached_episode)
+                            audio=archive/"gerde-giti-episode-001-narration.wav"
+                            stored=json.loads((archive/"timings.json").read_text(encoding="utf-8"))
+                            timing=[{"index":j+1,"text":x["text"],"start":x["start"],"end":x["end"]} for j,x in enumerate(stored["segments"])]
+                            duration=stored["duration"]
+                            # Set layout text to precisely what was spoken, not the current draft fixture.
+                            lines=[x["text"] for x in timing]
+                            with wave.open(str(audio),"rb") as wa:
+                                assert wa.getframerate()==24000 and wa.getnchannels()==1 and wa.getnframes()>0
+                            manifest["cached_previous_narration_for_visual_QA_only"]=True
+                        else:
+                            audio,timing,duration=audio_segments(lines,client,"Kore","gemini-3.8-flash-tts",DEFAULT_STYLE,tmp)
                         (target/"timing.json").write_text(json.dumps(timing,ensure_ascii=False,indent=2))
                         def fmt(v):
                             n=round(v*1000)
