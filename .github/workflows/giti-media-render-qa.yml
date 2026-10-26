@@ -1,0 +1,24 @@
+name: Giti five-media renderer QA - NO POSTS
+on:
+  push:
+    branches: [feature/giti-five-media-render-20261026]
+    paths:
+      - ".github/workflows/giti-media-render-qa.yml"
+      - "gardagard-giti/automation/render_media.py"
+      - "gardagard-giti/tests/test_media_renderer.py"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  offline-safety-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Zero-API media approval tests
+        run: python -m unittest discover -s gardagard-giti/tests -p test_media_renderer.py -v
+      - name: Verify renderer can be parsed without installing packages
+        run: python -m py_compile gardagard-giti/automation/render_media.py
