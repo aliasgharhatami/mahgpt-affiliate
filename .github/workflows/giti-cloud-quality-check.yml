@@ -1,0 +1,76 @@
+name: Gerde Giti - FIRST REEL quality cloud prototype (PREVIEW ONLY)
+on:
+  workflow_dispatch:
+    inputs:
+      storyboard:
+        description: "Path to an independently reviewed scene storyboard JSON within this repository"
+        required: true
+        default: "gardagard-giti/automation/quality-jobs/approved-storyboard.json"
+        type: string
+permissions:
+  contents: read
+concurrency:
+  group: giti-quality-reference-preview
+  cancel-in-progress: false
+jobs:
+  cloud-quality:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GITI_PAID_IMAGE_API_APPROVED: "no"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install open-source raster/FFmpeg plus free-tier capable Kore TTS client
+        run: |
+          python -m pip install -q pillow "google-genai>=2.25.0" imageio-ffmpeg
+          python - <<'PY'
+          import os,pathlib,imageio_ffmpeg
+          folder=pathlib.Path(os.environ['RUNNER_TEMP'])/'giti-quality-bin'
+          folder.mkdir(parents=True,exist_ok=True)
+          (folder/'ffmpeg').symlink_to(imageio_ffmpeg.get_ffmpeg_exe())
+          with open(os.environ['GITHUB_PATH'],'a') as f:f.write(str(folder)+'\n')
+          PY
+      - name: Fail closed on missing approved scene assets
+        shell: bash
+        env:
+          JOB: ${{ inputs.storyboard }}
+        run: |
+          set -euo pipefail
+          test -f "$JOB" || { echo "::error::Storyboard not yet reviewed and committed. No publishing."; exit 1; }
+          python gardagard-giti/automation/quality_cloud_images.py --job "$JOB" --out "$RUNNER_TEMP/giti-input-assets"
+      - name: Generate EXACT Kore Persian voice; fail if unavailable (never Edge/Dilara)
+        env:
+          JOB: ${{ inputs.storyboard }}
+        run: |
+          python gardagard-giti/automation/quality_kore_voice.py --job "$JOB" --out "$RUNNER_TEMP/giti-kore"
+      - name: Render branded Full HD using original approved first Reel header/footer and visuals
+        env:
+          JOB: ${{ inputs.storyboard }}
+        run: |
+          python gardagard-giti/automation/quality_reel_renderer.py --job "$JOB" --audio "$RUNNER_TEMP/giti-kore/narration.wav" --timing "$RUNNER_TEMP/giti-kore/timing.json" --out "$RUNNER_TEMP/giti-reel"
+      - name: Verify production voice, dimensions, scene variety and no auto publishing
+        run: |
+          python - <<'PY'
+          import json,os,pathlib
+          p=pathlib.Path(os.environ['RUNNER_TEMP'])/'giti-reel'
+          m=json.loads((p/'manifest.json').read_text(encoding='utf-8'))
+          assert m['audio_first_second']==1.0
+          assert m['scenes']>=5
+          assert m['status']=='review-only' and m['requires_user_approval'] is True
+          assert m['video_width']==1080 and m['video_height']==1920
+          assert (p/'reel.mp4').stat().st_size>400_000
+          print('Only reviewable original-brand Full HD reel has been produced. NO POST.')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: gerde-giti-first-approved-style-cloud-preview
+          path: |
+            ${{ runner.temp }}/giti-reel/{reel.mp4,cover.jpg,caption.txt,manifest.json}
+          retention-days: 7
+          if-no-files-found: error
