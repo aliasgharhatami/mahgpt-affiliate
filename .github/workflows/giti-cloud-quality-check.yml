@@ -1,5 +1,10 @@
 name: Gerde Giti - FIRST REEL quality cloud prototype (PREVIEW ONLY)
 on:
+  # One-shot cloud test trigger. This path is a committed, review-only pilot
+  # and is removed after the test; it is not a schedule or publishing trigger.
+  push:
+    paths:
+      - "gardagard-giti/automation/quality-jobs/2026-10-26-nasa-red-leaves-preview.json"
   workflow_dispatch:
     inputs:
       storyboard:
@@ -39,19 +44,19 @@ jobs:
       - name: Fail closed on missing approved scene assets
         shell: bash
         env:
-          JOB: ${{ inputs.storyboard }}
+          JOB: ${{ inputs.storyboard || 'gardagard-giti/automation/quality-jobs/2026-10-26-nasa-red-leaves-preview.json' }}
         run: |
           set -euo pipefail
           test -f "$JOB" || { echo "::error::Storyboard not yet reviewed and committed. No publishing."; exit 1; }
           python gardagard-giti/automation/quality_cloud_images.py --job "$JOB" --out "$RUNNER_TEMP/giti-input-assets"
       - name: Generate EXACT Kore Persian voice; fail if unavailable (never Edge/Dilara)
         env:
-          JOB: ${{ inputs.storyboard }}
+          JOB: ${{ inputs.storyboard || 'gardagard-giti/automation/quality-jobs/2026-10-26-nasa-red-leaves-preview.json' }}
         run: |
           python gardagard-giti/automation/quality_kore_voice.py --job "$RUNNER_TEMP/giti-input-assets/asset_resolved_review_only.json" --out "$RUNNER_TEMP/giti-kore"
       - name: Render branded Full HD using original approved first Reel header/footer and visuals
         env:
-          JOB: ${{ inputs.storyboard }}
+          JOB: ${{ inputs.storyboard || 'gardagard-giti/automation/quality-jobs/2026-10-26-nasa-red-leaves-preview.json' }}
         run: |
           python gardagard-giti/automation/quality_reel_renderer.py --job "$RUNNER_TEMP/giti-input-assets/asset_resolved_review_only.json" --audio "$RUNNER_TEMP/giti-kore/narration.wav" --timing "$RUNNER_TEMP/giti-kore/timing.json" --out "$RUNNER_TEMP/giti-reel"
       - name: Verify production voice, dimensions, scene variety and no auto publishing

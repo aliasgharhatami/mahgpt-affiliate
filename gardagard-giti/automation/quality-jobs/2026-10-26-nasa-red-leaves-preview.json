@@ -1,6 +1,7 @@
 {
   "schema": "gerde-giti/quality-cloud/v1",
   "id": "2026-10-26-nasa-red-leaves-preview",
+  "review_status": "one-shot-cloud-render-test-only-no-instagram-publication",
   "country_fa": "جهان",
   "location_fa": "مدار زمین",
   "source_url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
