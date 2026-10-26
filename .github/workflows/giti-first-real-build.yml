@@ -1,0 +1,89 @@
+name: Giti first sourced Reel - media build only (NO IG POST)
+on:
+  push:
+    branches: [feature/giti-first-real-20261026]
+    paths:
+      - .github/workflows/giti-first-real-build.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: gerde-giti-first-real-build
+  cancel-in-progress: false
+jobs:
+  first-real-asset:
+    runs-on: ubuntu-latest
+    timeout-minutes: 38
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Set up licensed-image downloader, Persian font library and FFmpeg
+        run: |
+          python -m pip install -q --disable-pip-version-check pillow imageio-ffmpeg
+          python - <<'PY'
+          import os
+          from pathlib import Path
+          import imageio_ffmpeg
+          d=Path(os.environ["RUNNER_TEMP"])/"giti-bin"
+          d.mkdir(parents=True,exist_ok=True)
+          target=d/"ffmpeg"
+          target.symlink_to(Path(imageio_ffmpeg.get_ffmpeg_exe()))
+          with open(os.environ["GITHUB_PATH"],"a") as f:f.write(str(d)+"\n")
+          from PIL import features
+          assert features.check_feature("raqm"),"Persian right-to-left shaping absent"
+          PY
+      - name: Retrieve previously user-reviewed real Gemini Kore audio with exact spoken timing
+        uses: actions/download-artifact@v4
+        with:
+          name: gerde-giti-episode001-full-persian-narration
+          run-id: 40284792978
+          github-token: ${{ github.token }}
+          path: gardagard-giti/output/cached-audio
+      - name: Render sourced Edirne Oct 19 real news Reel WITHOUT the preview banner
+        run: python gardagard-giti/automation/render_first_real.py
+      - name: Ensure real playable media, date, source, real audio, and anti-misrepresentation caption
+        run: |
+          python - <<'PY'
+          import json,pathlib,subprocess,imageio_ffmpeg
+          root=pathlib.Path("gardagard-giti/output/first-live/edirne-horses-first")
+          meta=json.loads((root/"release.json").read_text())
+          caption=(root/"caption.txt").read_text()
+          assert meta["event_date"]=="2026-10-19" and meta["source_url"].startswith("https://www.dha.com.tr/")
+          assert "۱۹ اکتبر ۲۰۲۶" in caption
+          assert "تصویر آرشیوی" in caption or "تصویرسازی گرافیکی" in caption
+          video=root/"reel.mp4"
+          assert video.stat().st_size>100000 and (root/"cover.jpg").stat().st_size>15000
+          r=subprocess.run([imageio_ffmpeg.get_ffmpeg_exe(),"-hide_banner","-i",str(video)],capture_output=True,text=True)
+          assert "Video:" in r.stderr and "Audio:" in r.stderr
+          assert meta["reel_duration_seconds"]>=30
+          print("CONTENT QA OK: source, event date, compliant images and playable H.264/AAC.")
+          PY
+      - name: Stage verified first real news assets ONLY on separate Render media branch (NO IG POST)
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/giti-first-real
+          cp -a gardagard-giti/output/first-live/edirne-horses-first/. /tmp/giti-first-real/
+          git fetch origin giti-media-host-20261026
+          git switch -C giti-media-host-20261026 origin/giti-media-host-20261026
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p gardagard-giti/media-host/public/media/2026-10-26/edirne-horses-first
+          cp /tmp/giti-first-real/reel.mp4 /tmp/giti-first-real/cover.jpg /tmp/giti-first-real/caption.txt /tmp/giti-first-real/release.json gardagard-giti/media-host/public/media/2026-10-26/edirne-horses-first/
+          git add gardagard-giti/media-host/public/media/2026-10-26/edirne-horses-first/
+          git add -f gardagard-giti/media-host/public/media/2026-10-26/edirne-horses-first/reel.mp4
+          git diff --cached --quiet && { echo "media already staged"; exit 0; }
+          git commit -m "media(giti): stage first sourced, user-reviewed Selimiye horses Reel"
+          git push origin HEAD:giti-media-host-20261026
+      - name: Archive original video and caption for editorial inspection
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gerde-giti-first-real-edirne-release
+          path: gardagard-giti/output/first-live/edirne-horses-first/**
+          retention-days: 10
+          if-no-files-found: warn
