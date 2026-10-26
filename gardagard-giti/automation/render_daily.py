@@ -271,9 +271,11 @@ def render_video(item,image,out,clips,timing,duration,wd,w=540,h=960,fps=18,demo
         "-map","0:v:0","-map","[a]", "-c:v","copy","-c:a","aac","-b:a","128k",
         "-t",str(duration),"-movflags","+faststart",str(out)])
     # Check both video and audio streams; never record publish-ready without actual media.
-    probe=subprocess.check_output(["ffprobe","-v","error","-show_entries","stream=codec_type","-of","json",str(out)],text=True)
-    kinds={s["codec_type"] for s in json.loads(probe)["streams"]}
-    if not {"video","audio"}.issubset(kinds): raise RuntimeError("Video or voice missing from Reel")
+    probe=subprocess.run(["ffmpeg","-hide_banner","-i",str(out)],capture_output=True,text=True)
+    # FFmpeg prints stream metadata even when no output target is supplied.
+    streams=probe.stderr
+    if "Video:" not in streams or "Audio:" not in streams:
+        raise RuntimeError("Video or audible soundtrack is missing from rendered Reel")
 
 def main():
     ap=argparse.ArgumentParser()
