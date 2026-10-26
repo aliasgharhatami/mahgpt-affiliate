@@ -1,10 +1,5 @@
 name: Gerde Giti - FIRST REEL quality cloud prototype (PREVIEW ONLY)
 on:
-  # One-shot cloud test trigger. This path is a committed, review-only pilot
-  # and is removed after the test; it is not a schedule or publishing trigger.
-  push:
-    paths:
-      - "gardagard-giti/automation/quality-jobs/2026-10-26-nasa-red-leaves-preview.json"
   workflow_dispatch:
     inputs:
       storyboard:
