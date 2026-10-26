@@ -4,6 +4,7 @@ on:
     branches: [feature/giti-first-real-20261026]
     paths:
       - .github/workflows/giti-first-real-build.yml
+      - gardagard-giti/automation/render_first_real.py
   workflow_dispatch:
 permissions:
   contents: write
