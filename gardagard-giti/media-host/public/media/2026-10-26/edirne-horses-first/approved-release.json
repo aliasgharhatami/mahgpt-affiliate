@@ -1,0 +1,13 @@
+{
+  "schema": "gerde-giti/approved-media/v1",
+  "story_id": "edirne-horses-first",
+  "source_file": "gerde_giti_edirne_rebuilt_1080p(1).mp4",
+  "video_sha256": "cee6b7362d4766a13e6eb003d3395f4c60b67f6596ae1c1865a771299e232660",
+  "video_git_blob": "c6f84d67fc4aaf79f71c3b16b519b77f7710e643",
+  "size_bytes": 3090553,
+  "resolution": "1080x1920",
+  "duration_seconds": 51.083333,
+  "approved_by_user": true,
+  "instagram_posted": false,
+  "hold_future_posts": true
+}
