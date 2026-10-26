@@ -1,0 +1,30 @@
+name: Gerde Giti - HTTPS media host external smoke test (NO POSTS)
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/giti-host-http-smoke.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  external-https-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Require public HTTPS availability of Render health endpoint
+        run: |
+          set -euo pipefail
+          curl --fail --show-error --silent --location --retry 10 --retry-all-errors --retry-delay 6 \
+            --max-time 15 'https://gerde-giti-media.onrender.com/health.json' -o /tmp/giti-host-health.json
+          python - <<'PY'
+          import json
+          x=json.load(open('/tmp/giti-host-health.json'))
+          assert x.get('service')=='gerde-giti-media'
+          assert x.get('publicationsEnabled') is False
+          assert x.get('status')=='ready-for-reviewed-assets'
+          print("OK: public Render HTTPS health data correct. Publishing still OFF.")
+          PY
+          curl --fail --show-error --silent --location --head --retry 3 --max-time 15 \
+            'https://gerde-giti-media.onrender.com/index.html' -o /tmp/giti-host-head.txt
+          grep -Ei '^HTTP/[0-9.]+ 200' /tmp/giti-host-head.txt
+          echo 'Index page externally reachable via HTTPS.'
