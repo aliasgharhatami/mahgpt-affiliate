@@ -7497,6 +7497,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/microsoft-teams-will-soon-use-ai-to-warn-you-of-sneaky-phishing-scams": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-26T11:29:50.487Z",
+        "message_id": 677,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
