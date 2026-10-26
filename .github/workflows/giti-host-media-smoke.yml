@@ -59,6 +59,9 @@ jobs:
           cp /tmp/giti-diag/test.mp4 gardagard-giti/media-host/public/checks/transport-test.mp4
           cp /tmp/giti-diag/test.jpg gardagard-giti/media-host/public/checks/transport-test.jpg
           git add gardagard-giti/media-host/public/checks
+          # The original Giti .gitignore excludes *.mp4: explicitly stage verified host media.
+          git add -f -- gardagard-giti/media-host/public/checks/transport-test.mp4
+          git ls-files --error-unmatch gardagard-giti/media-host/public/checks/transport-test.mp4
           if ! git diff --cached --quiet; then
             git commit -m "test(giti): diagnostic video and image media transport (not publishable)"
             git push origin HEAD:giti-media-host-20261026
