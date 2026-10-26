@@ -68,8 +68,13 @@ def validate_and_copy(queue,render_root,host_public):
             fail("Missing independent fact, rights, or Persian review: "+ident)
         address=urlparse(item.get("source_url",""))
         if address.scheme!="https" or not address.hostname:fail("Original source URL missing")
-        folder=render_root/ident
-        review=confined(render_root,ident+"/review.json")
+        # render_daily.py uses NN-id for human sorting; accept this exact
+        # pattern as well as the future unprefixed id directory.
+        possible=[ident]+[f"{n:02d}-{ident}" for n in range(1,6)]
+        matches=[prefix for prefix in possible if (render_root/prefix/"review.json").is_file()]
+        if len(matches)!=1:fail("Exactly one matching editorial review file is required")
+        prefix=matches[0]
+        review=confined(render_root,prefix+"/review.json")
         detail=json.loads(review.read_text(encoding="utf8"))
         if detail.get("id")!=ident or detail.get("kind")!=item["kind"]:fail("Review and queue mismatch")
         if detail.get("status")!="production_approved" or detail.get("demo") is not False:
@@ -85,7 +90,7 @@ def validate_and_copy(queue,render_root,host_public):
                 fail("Narration and subtitle listening approval is missing")
         media={}
         for name in names:
-            src=confined(render_root,ident+"/"+name)
+            src=confined(render_root,prefix+"/"+name)
             if src.suffix==".mp4":
                 length=probe_mp4(src)
                 if abs(length-float(item.get("duration_seconds") or 0))>1.5:fail("Queue and rendered duration disagree")
