@@ -1,0 +1,43 @@
+name: Giti FIRST REAL Reel Instagram publication — single controlled release
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/giti-first-instagram-release.yml"
+permissions:
+  contents: write
+concurrency:
+  group: gerde-giti-FIRST-REAL-reel-only-once
+  cancel-in-progress: false
+jobs:
+  first-real:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+      INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Publish exactly one verified Gerde Giti real Reel
+        run: node gardagard-giti/automation/first_real_post_once.mjs
+      - name: Persist publication outcome without touching MahGPT queues
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -f gardagard-giti/automation/first-real-release-state.json ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add gardagard-giti/automation/first-real-release-state.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'chore(giti): record first real Instagram media publication result'
+              git pull --rebase origin main
+              git push origin HEAD:main
+            fi
+          fi
