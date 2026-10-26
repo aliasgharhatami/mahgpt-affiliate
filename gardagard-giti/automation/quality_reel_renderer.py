@@ -192,7 +192,8 @@ def render(job_file,audio_file,timing_file,out_dir,reference):
     rows=[]
     intro=output/"intro.jpg"
     first=Image.open(slide_paths[0]).convert("RGB")
-    first.paste(reference_frame.crop((0,1095,W,1478)),(0,1095))
+    # Do not let a frame from the Edirne news story leak into a new story.
+    first.paste(make_crop(visual_paths[1],W,383,0.57),(0,1095))
     first.save(intro,quality=93,subsampling=0)
     rows+=["file '"+str(intro.resolve()).replace("'","")+"'","duration 1.0"]
     for i,seg in enumerate(timing):
