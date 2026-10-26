@@ -7531,6 +7531,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/why-human-judgement-still-matters-in-ai-powered-finance": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-26T21:27:43.909Z",
+        "message_id": 679,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
