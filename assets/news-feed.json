@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T09:49:39.335Z",
+  "updatedAt": "2026-10-26T10:01:28.081Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -30,100 +30,100 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why do AI platforms want humans to design their branding?",
-      "summary": "AI firms keep hiring human designers. Ironic much?",
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
       "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
-      "publishedAt": "2026-10-25T08:01:03.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ-1920-80.png"
+      "source": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "publishedAt": "2026-10-26T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/191:100/w_1280,c_limit/AI%20journalists%202.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Before you paste that AI answer into an email, run it past this $59.99 tool",
-      "summary": "Macworld TL;DR: Find the weak spots and missing context in AI answers before you rely on them with a Caveat AI Standard Plan lifetime subscription for $59.99 (MSRP $179). AI chatbots write every answer in the same confident tone, whether it’s right or wrong. Caveat AI is a browser extension that rev",
+      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+      "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3268664/before-you-paste-that-ai-answer-into-an-email-run-it-past-this-59-99-tool.html",
-      "publishedAt": "2026-10-25T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268664-0-49797800-1792915265-Caveat.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+      "publishedAt": "2026-10-26T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6adbe71b429a21d2813df7cd/191:100/w_1280,c_limit/GGC%20-%205-watermarked.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI agents go rogue chasing a £350 train refund — six personal assistant models spam politicians, fabricate lies, and leak private medical data after missing a 28-day claim deadline",
-      "summary": "Six AI assistants chasing a £350 train refund spammed officials, invented excuses, and leaked private health details, though each model was tested only once.",
+      "title": "AI stock picks and 150+ money lessons are $69.99 for life",
+      "summary": "Macworld TL;DR : Get AI stock ratings and a full personal finance course with the lifetime Financial Freedom Bundle on sale for $69.99 (reg. $598). Most investing apps give you charts and earnings data, then leave the decision to you. A financial advisor will make the call for you, but you pay for t",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/ai-agents-go-rogue-chasing-a-gbp350-train-refund-six-personal-assistant-models-spam-politicians-fabricate-lies-and-leak-private-medical-data-after-missing-a-28-day-claim-deadline",
-      "publishedAt": "2026-10-25T07:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/pwcbaLVSvqWvfTPCXUPoQD-1920-80.jpg"
+      "source": "https://www.macworld.com/article/3268900/ai-stock-picks-and-150-money-lessons-are-69-99-for-life.html",
+      "publishedAt": "2026-10-26T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268900-0-23637200-1793001645-Financial-Freedom-Bundle.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished ",
+      "title": "Quote of the day by Microsoft CEO Satya Nadella: 'We have to do something useful with AI, or we'll quickly lose social permission'",
+      "summary": "Many people across the business world are finding AI useful, but that doesn't mean it's making a wider impact on society – at least not yet",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "publishedAt": "2026-10-24T21:29:12.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0%2C3.4695867913185%2C100%2C93.060826417363&w=1200"
+      "source": "https://www.techradar.com/pro/quote-of-the-day-by-microsoft-ceo-satya-nadella-we-have-to-do-something-useful-with-ai-or-well-quickly-lose-social-permission-challenging-ai-pioneers-to-step-up-their-game",
+      "publishedAt": "2026-10-25T23:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/t7wpaX7ApZyFrNdXuR3JDj-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "GMKTec NucBox EVO-X1 Pro mini PC review",
-      "summary": "GMKTec NucBox EVO-X1 Pro is a tiny NUC PC built around the AMD Ryzen AI 9 HX 470 or HX370, perfect for those who need a high-performance desktop system.",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/gmktec-nucbox-evo-x1-pro-mini-pc-review",
-      "publishedAt": "2026-10-24T20:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/sQcC3Qx5fpETaCXQhcQ5m-1920-80.jpg"
+      "source": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "publishedAt": "2026-10-25T21:31:16.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
-      "summary": "TOPC's TXA2 combines AMD's Ryzen AI Max+ PRO 495, 192GB RAM, four SSD slots, and quad-monitor support at substantial prices.",
+      "title": "This crowdfunded $109 hub wants to pool the RAM in your old PCs, Macs, and phones to run bigger AI models — but the engine underneath is software you can already get for free",
+      "summary": "Can't stomach DDR5 at five times last year's price? RAMDeck wants to borrow your other devices' memory instead, and it admits that won't be fast.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-      "publishedAt": "2026-10-24T20:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png"
+      "source": "https://www.techradar.com/pro/this-crowdfunded-usd109-hub-wants-to-pool-the-ram-in-your-old-pcs-macs-and-phones-to-run-bigger-ai-models-but-the-engine-underneath-is-software-you-can-already-get-for-free",
+      "publishedAt": "2026-10-25T19:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And [&#8230;]",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "2026-10-24T19:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
+      "source": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "publishedAt": "2026-10-25T19:24:50.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0%2C11.023851076207%2C100%2C77.952297847586&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artifi",
+      "title": "1Password will now let AI agents log in to accounts for you without ever needing to see your password",
+      "summary": "Fed up of typing your login details in when AI is meant to be doing the work for you? 1Password now shares passwords securely.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "publishedAt": "2026-10-24T18:32:21.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://www.techradar.com/pro/security/1password-will-now-let-ai-agents-log-in-to-accounts-for-you-without-ever-needing-to-see-your-password",
+      "publishedAt": "2026-10-25T17:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Jhexp4JgZqCNrEtaYz2GLQ-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The UK is investing $134 million into an AI Biosecurity Lab",
-      "summary": "The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccines with AI.",
+      "title": "iPhone Duo guide: Price, specs, availability, problems and reviews",
+      "summary": "Macworld Apple’s first foldable iPhone, the iPhone Duo, went on sale on October 23, but getting hold of one could prove difficult. Preorders opened on October 16 and delivery estimates slipped rapidly, with Macworld’s U.S. tracking showing waits stretching to January 25, 2027 within around half an h",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/",
-      "publishedAt": "2026-10-24T16:11:53.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg"
+      "source": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-guide-problems-price-specs.html",
+      "publishedAt": "2026-10-25T17:03:37.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2629813-0-47042000-1792948055-Apple-iPhone-Duo-MacWorld-22.jpg?quality=50&strip=all&w=1024"
     }
   ]
 }

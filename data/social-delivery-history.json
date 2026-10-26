@@ -7480,6 +7480,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-26T10:01:35.499Z",
+        "message_id": 676,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
