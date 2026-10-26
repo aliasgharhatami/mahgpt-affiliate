@@ -116,9 +116,10 @@ def main():
   return
  from google import genai
  client=genai.Client(api_key=os.environ["GEMINI_API_KEY"])
- chosen=[];visited=set();warnings=[]
+ chosen=[];visited=set();warnings=[];attempts=0
  for a in original:
-  if len(chosen)>=5:break
+  if len(chosen)>=5 or attempts>=12:break
+  attempts+=1
   if a["country"] in visited and len(visited)<3:continue
   try:
    domain=domains[a["source"]]
