@@ -54,6 +54,7 @@ def valid_photo(item):
     l=html.unescape(re.sub("<[^>]+>","",meta.get("LicenseShortName",{}).get("value",""))).strip()
     if l not in PERMITTED:return None
     name=item.get("title","")
+    if re.search(r"(19[0-7][0-9]|18[0-9][0-9]|museum|painting|MET DP|antique|dry lake|fort)",name,re.I):return None
     if not re.search(r"\.(jpe?g|png)$",name,re.I):return None
     if int(info.get("width",0))<800 or int(info.get("height",0))<500:return None
     src=info.get("thumburl") or info.get("url")
@@ -91,12 +92,44 @@ def images(folder):
         if len(chosen)>=5:break
     if len(chosen)<3:raise RuntimeError("Fewer than three source-credited licensed relevant photos; do not render or publish")
     return chosen
+
+def edge_audio_segments(sentences,output):
+    """Nonbillable Persian neural narration with a hard per-request timeout;
+    keep exact per-sentence timing and a one-second lead-in."""
+    import asyncio, edge_tts
+    async def synth():
+        for idx,phrase in enumerate(sentences):
+            file=output/("edge-%02d.mp3"%idx)
+            await asyncio.wait_for(edge_tts.Communicate(phrase,voice="fa-IR-DilaraNeural",rate="+5%").save(str(file)),timeout=25)
+    asyncio.run(synth())
+    data=bytearray(b"\x00"*(24000*2)) # exactly one-second intro
+    timing=[]
+    for idx,phrase in enumerate(sentences):
+        mp3=output/("edge-%02d.mp3"%idx)
+        wav=output/("edge-%02d.wav"%idx)
+        subprocess.run(["ffmpeg","-nostdin","-y","-loglevel","error",
+          "-i",str(mp3),"-ar","24000","-ac","1","-c:a","pcm_s16le",str(wav)],check=True)
+        with wave.open(str(wav),"rb") as w:
+            assert w.getnchannels()==1 and w.getframerate()==24000 and w.getsampwidth()==2
+            pcm=w.readframes(w.getnframes())
+        start=len(data)//2/24000
+        data.extend(pcm)
+        end=len(data)//2/24000
+        timing.append({"index":idx+1,"text":phrase,"start":round(start,3),"end":round(end,3)})
+        if idx<len(sentences)-1:data.extend(b"\x00"*(24000*2//6))
+    data.extend(b"\x00"*(24000*2))
+    voicefile=output/"narration.wav"
+    with wave.open(str(voicefile),"wb") as w:
+        w.setnchannels(1);w.setsampwidth(2);w.setframerate(24000);w.writeframes(data)
+    duration=len(data)//2/24000
+    if not 30<=duration<=180:raise ValueError("Reel audio out of range")
+    return voicefile,timing,duration
+
 def main():
-    if not os.getenv("GEMINI_API_KEY"):raise RuntimeError("Missing free Gemini TTS key. No silent video allowed.")
+    # Voice is synthesized remotely with no paid API key and hard timeout.
     OUTPUT.mkdir(parents=True,exist_ok=True)
     files=images(OUTPUT)
-    from google import genai
-    client=genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    # Keep exact colloquial script; a free Persian female neural voice is used.
     scene=[pathlib.Path(x["local"]) for x in files]
     original=rd.bg_photo
     # Rotate independently licensed images, not repeated crops of one photo.
@@ -105,7 +138,7 @@ def main():
            "country":"چین","source_url":SOURCE}
     with tempfile.TemporaryDirectory() as t:
         wd=pathlib.Path(t)
-        narration,timing,duration=rd.audio_segments(LINES,client,"Kore","gemini-3.8-flash-tts",rd.DEFAULT_STYLE,wd)
+        narration,timing,duration=edge_audio_segments(LINES,wd)
         if abs(timing[0]["start"]-1)>0.001:raise RuntimeError("Narration must begin at exactly 1.000 sec")
         reel=OUTPUT/"reel.mp4"
         rd.render_video(story,scene[0],reel,narration,timing,duration,wd,720,1280,24,False)
@@ -125,7 +158,7 @@ def main():
       "image_source":"labelled_archival_cc_licensed","image_attribution":sources,
       "duration_seconds":round(duration,3),"narration_first_second":1,
       "image_count":len(scene),"sha256":hashlib.sha256((OUTPUT/"reel.mp4").read_bytes()).hexdigest(),
-      "file_size":(OUTPUT/"reel.mp4").stat().st_size,"audio_voice":"Kore","quality":"1080x1920",
+      "file_size":(OUTPUT/"reel.mp4").stat().st_size,"audio_voice":"fa-IR-DilaraNeural","quality":"1080x1920",
       "description":"One-time second test; images archival rather than actual event footage"}
     if not 30<=duration<=180:raise RuntimeError("Invalid duration")
     (OUTPUT/"release.json").write_text(json.dumps(release,ensure_ascii=False,indent=2),encoding="utf-8")
