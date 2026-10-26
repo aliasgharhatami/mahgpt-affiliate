@@ -4,7 +4,7 @@ Last updated 2026-10-26. No posting is enabled by this document.
 
 ## Locked reference
 The actual user-approved first 1080x1920 Reel is the visual master:
-https://gerde-giti-media.onrender.com/media/2026-10-26/edirne-horses-first/reel.mp4
+https://gerde-giti-media.onrender.com/media/2026-10-26/edirne-horses-first/reel-approved.mp4
 
 Reuse its approved logo and header/footer, cream/charcoal typography, location tag, split scene photos, translucent subtitle panel and CTA. Preserve real 1080x1920. Start narration exactly at 1.0 seconds.
 
