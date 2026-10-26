@@ -137,3 +137,23 @@ jobs:
           name: gerde-giti-approved-media-urls
           path: /tmp/giti-release/media/*/release.json
           retention-days: 10
+      - name: Attach only externally verified HTTPS media URLs to the separate non-live queue
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git switch -C main origin/main
+          python gardagard-giti/automation/apply_host_urls.py \
+            --queue gardagard-giti/automation/queue.json \
+            --receipt "/tmp/giti-release/media/$(TZ=Europe/Istanbul date +%Y-%m-%d)/release.json" \
+            --out /tmp/giti-final-queue.json
+          cp /tmp/giti-final-queue.json gardagard-giti/automation/queue.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gardagard-giti/automation/queue.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(giti): attach verified CDN media URLs to the approved, non-live queue"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+          echo "Queue remains non-live. No Instagram posts were created."
