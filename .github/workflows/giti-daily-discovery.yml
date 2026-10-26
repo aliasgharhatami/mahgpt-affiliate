@@ -25,12 +25,18 @@ jobs:
           node-version: '22'
       - name: Discover source-linked local stories around the world
         run: python gardagard-giti/automation/discover.py
+      - name: Install free Gemini text SDK for evidence-based original-language review
+        run: python -m pip install --disable-pip-version-check -q 'google-genai>=2.25.0'
+      - name: Read actual publisher articles and compose original colloquial Persian drafts
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python gardagard-giti/automation/compose.py
       - name: Build today's separate draft queue
         run: |
           python - <<'PY'
           import datetime,json,pathlib,zoneinfo
           d=datetime.datetime.now(zoneinfo.ZoneInfo("Europe/Istanbul")).strftime("%Y-%m-%d")
-          p=pathlib.Path("gardagard-giti/automation/output")/f"discovered-{d}.json"
+          p=pathlib.Path("gardagard-giti/automation/output")/f"composed-{d}.json"
           q=pathlib.Path("gardagard-giti/automation/queue.json")
           if q.exists():
             try:
@@ -43,13 +49,15 @@ jobs:
           PY
           if [ ! -f /tmp/gerde-skip-rebuild ]; then
             D=$(TZ=Europe/Istanbul date +%Y-%m-%d)
-            node gardagard-giti/automation/queue.mjs build "gardagard-giti/automation/output/discovered-$D.json"
+            node gardagard-giti/automation/queue.mjs build "gardagard-giti/automation/output/composed-$D.json"
           fi
       - name: Archive editorial candidates for review
         uses: actions/upload-artifact@v4
         with:
           name: gerde-giti-local-news-candidates
-          path: gardagard-giti/automation/output/discovered-*.json
+          path: |
+            gardagard-giti/automation/output/discovered-*.json
+            gardagard-giti/automation/output/composed-*.json
           retention-days: 7
           if-no-files-found: warn
       - name: Save Giti queue state only; no MahGPT content or Instagram posting
