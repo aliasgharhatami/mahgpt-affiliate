@@ -1,0 +1,55 @@
+{
+  "schema": "gerde-giti/feeds/v1",
+  "notes": "Feeds are for story discovery only, not a grant to reproduce copyrighted article text or photos; verify license and original article. Add independent local sources, diversity before activation.",
+  "sources": [
+    {
+      "country": "PY",
+      "countryFa": "پاراگوئه",
+      "source": "ABC Color",
+      "url": "https://www.abc.com.py/arc/outboundfeeds/rss/nacionales/",
+      "domain": "abc.com.py",
+      "language": "es"
+    },
+    {
+      "country": "PY",
+      "countryFa": "پاراگوئه",
+      "source": "ABC Color Science",
+      "url": "https://www.abc.com.py/arc/outboundfeeds/rss/ciencia/",
+      "domain": "abc.com.py",
+      "language": "es"
+    },
+    {
+      "country": "UZ",
+      "countryFa": "ازبکستان",
+      "source": "Gazeta.uz",
+      "url": "https://www.gazeta.uz/ru/rss/",
+      "domain": "gazeta.uz",
+      "language": "ru"
+    },
+    {
+      "country": "VN",
+      "countryFa": "ویتنام",
+      "source": "VnExpress Life",
+      "url": "https://vnexpress.net/rss/doi-song.rss",
+      "domain": "vnexpress.net",
+      "language": "vi"
+    },
+    {
+      "country": "VN",
+      "countryFa": "ویتنام",
+      "source": "VnExpress Science",
+      "url": "https://vnexpress.net/rss/khoa-hoc.rss",
+      "domain": "vnexpress.net",
+      "language": "vi"
+    },
+    {
+      "country": "JM",
+      "countryFa": "جامائیکا",
+      "source": "Jamaica Observer",
+      "url": "https://www.jamaicaobserver.com/app/latest/",
+      "domain": "jamaicaobserver.com",
+      "language": "en",
+      "caution": "RSS terms restrict commercial reuse; harvest titles for internal discovery only; do not automatically republish material."
+    }
+  ]
+}
