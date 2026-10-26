@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T10:01:28.081Z",
+  "updatedAt": "2026-10-26T11:09:56.895Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -25,6 +25,72 @@
       "source": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "publishedAt": "2026-10-22T19:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Microsoft Teams will soon use AI to warn you of sneaky phishing scams",
+      "summary": "Microsoft Teams is adding AI-powered phishing detection to help keep you safe from threats.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/microsoft-teams-will-soon-use-ai-to-warn-you-of-sneaky-phishing-scams",
+      "publishedAt": "2026-10-26T11:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4PDqENH6W5dRPxTbyP4L5M-900-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Claude saves an overheating Mac from a cryptominer it might have put there",
+      "summary": "Macworld We’ve all heard about how AI is going to change the world as we know it. We’ve also heard about how AI can go rogue and do things that are, well, scary. These early days of AI development are filled with crazy stories, and since the Mac is popular amongs AI developers, you’ll hear a lot abo",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3268614/claude-saves-an-overheating-mac-from-a-cryptominer-it-might-have-put-there.html",
+      "publishedAt": "2026-10-26T11:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268614-0-14032400-1793012461-2026-Mac-Studio-top-left-angle.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Why human judgement still matters in AI-powered finance",
+      "summary": "AI is accelerating finance, but real progress depends on human judgement guiding every decision.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/why-human-judgement-still-matters-in-ai-powered-finance",
+      "publishedAt": "2026-10-26T10:57:22.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "The shift to decision intelligence: Move beyond analytics to real time activation",
+      "summary": "AI is freeing up time specifically for strategic decision-making, not just automating routine tasks.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/the-shift-to-decision-intelligence-move-beyond-analytics-to-real-time-activation",
+      "publishedAt": "2026-10-26T10:31:13.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "For the third time this fall, Apple prepares to launch a very cool thing nobody needs",
+      "summary": "Macworld Apple can’t win with people like me. When the company unveils minor iterative updates to successful products, we complain that it isn’t taking more risks . And when it launches crazy, beautiful tech in uncertain new markets, we suck our teeth and complain about practicality and necessity . ",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3263574/for-the-third-time-this-fall-apple-prepares-to-launch-a-very-cool-thing-nobody-needs.html",
+      "publishedAt": "2026-10-26T10:30:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3263574-0-89270000-1793010664-IMG_1631.jpeg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Preparing for a quantum-safe future",
+      "summary": "Quantum computing still feels like uncharted territory - yet like AI, the threat it poses is significant.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/preparing-for-a-quantum-safe-future",
+      "publishedAt": "2026-10-26T10:00:05.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/d4oN2QTeNf8QYJDmjZnAKE-1920-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -58,72 +124,6 @@
       "source": "https://www.macworld.com/article/3268900/ai-stock-picks-and-150-money-lessons-are-69-99-for-life.html",
       "publishedAt": "2026-10-26T08:00:00.000Z",
       "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268900-0-23637200-1793001645-Financial-Freedom-Bundle.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Quote of the day by Microsoft CEO Satya Nadella: 'We have to do something useful with AI, or we'll quickly lose social permission'",
-      "summary": "Many people across the business world are finding AI useful, but that doesn't mean it's making a wider impact on society – at least not yet",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/quote-of-the-day-by-microsoft-ceo-satya-nadella-we-have-to-do-something-useful-with-ai-or-well-quickly-lose-social-permission-challenging-ai-pioneers-to-step-up-their-game",
-      "publishedAt": "2026-10-25T23:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/t7wpaX7ApZyFrNdXuR3JDj-2560-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "publishedAt": "2026-10-25T21:31:16.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "This crowdfunded $109 hub wants to pool the RAM in your old PCs, Macs, and phones to run bigger AI models — but the engine underneath is software you can already get for free",
-      "summary": "Can't stomach DDR5 at five times last year's price? RAMDeck wants to borrow your other devices' memory instead, and it admits that won't be fast.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/this-crowdfunded-usd109-hub-wants-to-pool-the-ram-in-your-old-pcs-macs-and-phones-to-run-bigger-ai-models-but-the-engine-underneath-is-software-you-can-already-get-for-free",
-      "publishedAt": "2026-10-25T19:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Zen Browser is the Arc replacement I was looking for",
-      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And [&#8230;]",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-      "publishedAt": "2026-10-25T19:24:50.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0%2C11.023851076207%2C100%2C77.952297847586&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "1Password will now let AI agents log in to accounts for you without ever needing to see your password",
-      "summary": "Fed up of typing your login details in when AI is meant to be doing the work for you? 1Password now shares passwords securely.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/security/1password-will-now-let-ai-agents-log-in-to-accounts-for-you-without-ever-needing-to-see-your-password",
-      "publishedAt": "2026-10-25T17:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Jhexp4JgZqCNrEtaYz2GLQ-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "iPhone Duo guide: Price, specs, availability, problems and reviews",
-      "summary": "Macworld Apple’s first foldable iPhone, the iPhone Duo, went on sale on October 23, but getting hold of one could prove difficult. Preorders opened on October 16 and delivery estimates slipped rapidly, with Macworld’s U.S. tracking showing waits stretching to January 25, 2027 within around half an h",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-guide-problems-price-specs.html",
-      "publishedAt": "2026-10-25T17:03:37.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/2629813-0-47042000-1792948055-Apple-iPhone-Duo-MacWorld-22.jpg?quality=50&strip=all&w=1024"
     }
   ]
 }
