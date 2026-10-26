@@ -103,6 +103,19 @@ jobs:
             git commit -m "media(giti): stage editorially approved photos/reels on independent CDN"
             git push origin HEAD:giti-media-host-20261026
           fi
+      - name: Trigger Render deployment using its private hook (GitHub push webhooks alone were unreliable)
+        env:
+          GITI_RENDER_DEPLOY_HOOK: ${{ secrets.GITI_RENDER_DEPLOY_HOOK }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -z "$GITI_RENDER_DEPLOY_HOOK" ]; then
+            echo "::error::Missing GITI_RENDER_DEPLOY_HOOK repository secret. Media staged on host branch but cannot guarantee automatic Render deploy."
+            exit 1
+          fi
+          curl --fail --silent --show-error --max-time 30 \
+            "$GITI_RENDER_DEPLOY_HOOK" -o /tmp/giti-render-deploy-trigger.json
+          echo "Render deployment triggered securely; waiting for external SHA-256 match."
       - name: Verify Render externally serves exactly the approved byte hashes
         shell: bash
         run: |
@@ -145,7 +158,7 @@ jobs:
           git switch -C main origin/main
           python gardagard-giti/automation/apply_host_urls.py \
             --queue gardagard-giti/automation/queue.json \
-            --receipt "/tmp/giti-release/media/$(TZ=Europe/Istanbul date +%Y-%m-%d)/release.json" \
+            --receipt "$(find /tmp/giti-release/media -mindepth 2 -maxdepth 2 -name release.json -print -quit)" \
             --out /tmp/giti-final-queue.json
           cp /tmp/giti-final-queue.json gardagard-giti/automation/queue.json
           git config user.name "github-actions[bot]"
