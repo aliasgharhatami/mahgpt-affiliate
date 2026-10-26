@@ -284,6 +284,7 @@ def main():
     ap.add_argument("--out",default=str(ROOT/"output"/"daily-preview"))
     ap.add_argument("--max-items",type=int,default=5)
     ap.add_argument("--demo",action="store_true",help="Explicit visual demonstration with watermark")
+    ap.add_argument("--photos-only",action="store_true",help="Render just the photographic feed/Story slots; zero TTS calls")
     ap.add_argument("--quality",choices=["preview","production"],default="preview")
     ap.add_argument("--cached-episode",help="Optional previously generated Gemini WAV + matching timings.json (TECHNICAL FIRST-REEL PREVIEW ONLY)")
     args=ap.parse_args()
@@ -294,7 +295,7 @@ def main():
     output=Path(args.out);output.mkdir(parents=True,exist_ok=True)
     incoming=json.loads(Path(args.media).read_text(encoding="utf-8")) if args.media and Path(args.media).exists() else {"items":[]}
     assets={x["id"]:x.get("images",[]) for x in incoming.get("items",[])}
-    items=data.get("items",[])[:args.max_items]
+    items=( [x for x in data.get("items",[]) if x.get("kind")=="photo"] if args.photos_only else data.get("items",[]) )[:args.max_items]
     key=os.environ.get("GEMINI_API_KEY","")
     if key:
         from google import genai
