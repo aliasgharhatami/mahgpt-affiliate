@@ -1,5 +1,10 @@
 name: Gerde Giti - daily local news discovery (NO POSTS)
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/giti-daily-discovery.yml"
   schedule:
     - cron: "05 04 * * *"  # 07:05 Istanbul; GitHub scheduler can be delayed
   workflow_dispatch:
