@@ -1,0 +1,26 @@
+{
+  "schema": "gerde-giti/first-live/v1",
+  "event_date": "2026-10-19",
+  "publish_day": "2026-10-26",
+  "id": "edirne-horses-first",
+  "source_url": "https://www.dha.com.tr/yerel-haberler/edirne/edirne-selimiye-camisi-meydaninda-basibos-3-at-2965688",
+  "created_for_review_from_approved_episode": true,
+  "instagram_posted": false,
+  "image_source": "original_geometric_concept_art",
+  "archival_labelled": true,
+  "reel_duration_seconds": 51.08,
+  "media_files": [
+    "reel.mp4",
+    "cover.jpg"
+  ],
+  "audio_source": "Gemini Kore previously user-reviewed",
+  "voice_text": [
+    "در شهر ادرنهٔ ترکیه، سه اسب سرگردان وارد میدان تاریخی مسجد سلیمیه شدند!",
+    "اسب‌ها خیلی راحت روی چمن‌ها شروع به چرا کردند؛ انگار هیچ اتفاق عجیبی نیفتاده!",
+    "مسجد سلیمیه، شاهکار معمار سینان، در فهرست میراث جهانی یونسکو قرار دارد.",
+    "گردشگرها ایستادند و موبایل‌هایشان را بیرون آوردند تا از این صحنه عکس بگیرند.",
+    "بعضی‌ها منظره را بامزه می‌دانستند؛ اما برخی هم آن را نامناسب و حتی خطرناک توصیف کردند.",
+    "سرانجام نیروهای شهرداری رسیدند و اسب‌ها را از میدان دور کردند.",
+    "تو جای آن‌ها بودی، عکس می‌گرفتی یا اعتراض می‌کردی؟ نظرت را برایمان بنویس!"
+  ]
+}
