@@ -19,9 +19,11 @@ def fail(message):raise ValueError(message)
 def confined(base,rel):
     if not isinstance(rel,str) or not rel or Path(rel).is_absolute() or ".." in Path(rel).parts:
         fail("Unsafe release path")
-    dest=(base/rel).resolve()
+    submitted=base/rel
+    if submitted.is_symlink():fail("Missing or symlink release file: "+str(rel))
+    dest=submitted.resolve()
     if not dest.is_relative_to(base.resolve()):fail("Release file escapes reviewed package")
-    if not dest.is_file() or dest.is_symlink():fail("Missing or symlink release file: "+str(rel))
+    if not dest.is_file():fail("Missing or symlink release file: "+str(rel))
     return dest
 def probe_mp4(path):
     if path.stat().st_size>95_000_000 or path.stat().st_size<1000:fail("MP4 size out of range")
