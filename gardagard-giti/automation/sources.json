@@ -51,6 +51,15 @@
       "language": "en",
       "caution": "RSS terms restrict commercial reuse; harvest titles for internal discovery only; do not automatically republish material.",
       "manualOnly": true
+    },
+    {
+      "country": "NP",
+      "countryFa": "نپال",
+      "source": "Kathmandu Post",
+      "url": "https://kathmandupost.com/rss",
+      "domain": "kathmandupost.com",
+      "language": "en",
+      "notes": "Source for research headlines and original local articles; review reuse terms and image rights before publication."
     }
   ]
 }
