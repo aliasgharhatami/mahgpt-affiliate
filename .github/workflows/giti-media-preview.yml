@@ -8,6 +8,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
+  actions: read
 jobs:
   render-review-only:
     runs-on: ubuntu-latest
@@ -46,12 +47,19 @@ jobs:
           python gardagard-giti/automation/research_queue_media.py \
             --queue gardagard-giti/tests/media-preview-fixture.json \
             --out gardagard-giti/output/media-fixture-candidates.json
-      - name: Synthesize actual female Persian speech and render one complete pilot Reel
+      - name: Download the previously successful Gemini Kore narration for an accurate visual integration test
+        uses: actions/download-artifact@v4
+        with:
+          name: gerde-giti-episode001-full-persian-narration
+          run-id: 40284792978
+          github-token: ${{ github.token }}
+          path: gardagard-giti/output/cached-audio
+      - name: Render a complete Reel using real earlier female Persian narration; no new API calls
         run: |
-          if [ -z "$GEMINI_API_KEY" ]; then echo "::error::Gemini key missing"; exit 1; fi
           python gardagard-giti/automation/render_daily.py \
             --queue gardagard-giti/tests/media-preview-fixture.json \
             --media gardagard-giti/output/media-fixture-candidates.json \
+            --cached-episode gardagard-giti/output/cached-audio \
             --max-items 1 --quality preview --demo
       - name: Export review package, NOT live or hosted Instagram media
         if: always()
