@@ -236,3 +236,18 @@ After every meaningful change to automation, SEO, multilingual pages, social pub
 "Do you want me to update `docs/operations.md` with these changes too?"
 
 If the owner says yes, update this document in the same PR or in a small follow-up PR.
+
+## Gerde Giti Instagram transition — 2026-10-26
+
+**Separate from MahGPT publishing.** This section supersedes older Instagram scheduling claims elsewhere in this document; the MahGPT Instagram publisher in `.github/workflows/test-instagram-publisher.yml` is now **manual-only**. The MahGPT website, affiliate routing and scheduled Telegram workflow remain independent.
+
+- New channel: **گرد گیتی**. Intro line: **اخباری از جهان که احتمالا نمیشنوید!**. Fixed CTA: **فالو کن تا بگردیم به گرد گیتی**.
+- `.github/workflows/giti-daily-discovery.yml`: at **07:05 Europe/Istanbul** collect original-source local news from multiple countries, write Persian colloquial candidate texts with Free-tier Gemini and collect Wikimedia Commons archival-image license candidates. **No posts created.** Source/media candidates require fact/rights review.
+- `.github/workflows/giti-instagram-slots.yml`: at **10:00 Reel / 13:00 image+Story / 16:00 Reel / 19:00 image+Story / 21:30 Reel**, Europe/Istanbul. Schedule is best-effort; GitHub Actions may run late. Until full approval, jobs run in preview-only mode.
+- Safe publishing gates: `gardagard-giti/automation/config.json.publication.enabled`, `GITI_LIVE_PUBLISHING`, `queue.live`, per-post `approved` status, checked article claims, legal image rights, publicly accessible HTTPS MP4/JPEG and speech/subtitle quality. Never mark content approved merely because generation succeeded.
+- **Verified blocker**: `INSTAGRAM_ACCESS_TOKEN` expired **2026-10-23** (Instagram Login check yielded 401/code 190). Refreshing an already-expired token does not work; reauthorize from the existing Meta app and replace GitHub Action Secret, without disclosing it.
+- **Other blockers**: the automatic 3-Reels + 2-image media creation and public hosting pipeline is still incomplete; the daily draft queue is not approved/live; real IG publishing tests remain pending. The new optional `ai-video-studio` Gemini TTS feature is ready but is not yet integrated into this unattended publishing pipeline.
+- Data boundaries: Giti uses its own `gardagard-giti/automation/queue.json`, never legacy `data/social-queue.json` or MahGPT Telegram history. Production remains **OFF** until read-only account check and a controlled publish test succeed.
+- Zero-pay requirement: do not enable Google billing, paid TTS, paid hosting or subscriptions without explicit permission. Free GitHub Actions and Gemini API quotas remain finite.
+
+Source of truth: [Giti operations](../gardagard-giti/automation/README.md). Changes in that subtree must not silently change MahGPT's existing SEO/site/Telegram publish workflows.
