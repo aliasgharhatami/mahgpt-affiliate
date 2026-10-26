@@ -1,0 +1,53 @@
+name: Gerde Giti episode 001 - complete Persian narrator ONLY
+on:
+  push:
+    branches:
+      - feature/gardagerd-giti-brand-20261025
+    paths:
+      - .github/workflows/giti-full-narration.yml
+      - gardagard-giti/scripts/generate-full-kore-narration.py
+      - gardagard-giti/narration/script.json
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  full-narration-preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Require existing Gemini API secret
+        run: |
+          if [ -z "$GEMINI_API_KEY" ]; then echo "::error::Missing Gemini API key"; exit 1; fi
+      - name: Install official SDK
+        run: python -m pip install -q --disable-pip-version-check 'google-genai>=2.25.0'
+      - name: Produce seven real Persian sentences and timings
+        run: python gardagard-giti/scripts/generate-full-kore-narration.py
+      - name: Verify output
+        run: |
+          python - <<'PY'
+          import json,wave
+          from pathlib import Path
+          p=Path("gardagard-giti/output/full-narration")
+          data=json.loads((p/"timings.json").read_text(encoding="utf-8"))
+          assert len(data["segments"])==7
+          with wave.open(str(p/"gerde-giti-episode-001-narration.wav")) as f:
+              assert f.getframerate()==24000 and f.getnchannels()==1
+              assert 30 <= f.getnframes()/f.getframerate() <= 180
+          print("Ready for editorial listening review; NOT READY TO PUBLISH")
+          PY
+      - name: Upload narrated episode preview files
+        uses: actions/upload-artifact@v4
+        with:
+          name: gerde-giti-episode001-full-persian-narration
+          path: |
+            gardagard-giti/output/full-narration/gerde-giti-episode-001-narration.wav
+            gardagard-giti/output/full-narration/timings.json
+            gardagard-giti/output/full-narration/captions.srt
+          retention-days: 7
+          if-no-files-found: error
