@@ -1,0 +1,70 @@
+name: Gerde Giti - render daily editorial previews (NO POSTS)
+on:
+  workflow_run:
+    workflows: ["Gerde Giti - daily local news discovery (NO POSTS)"]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: gerde-giti-media-preview
+  cancel-in-progress: false
+jobs:
+  produce-moderation-package:
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Locate only today's separate non-live Gerde Giti queue
+        id: queue
+        run: |
+          python - <<'PY'
+          import json,pathlib,os,datetime,zoneinfo
+          p=pathlib.Path('gardagard-giti/automation/queue.json')
+          today=datetime.datetime.now(zoneinfo.ZoneInfo('Europe/Istanbul')).date().isoformat()
+          ok=False
+          if p.exists():
+            try:
+              q=json.loads(p.read_text(encoding='utf-8'))
+              ok=q.get('schema')=='gerde-giti/queue/v1' and q.get('live') is False and q.get('date')==today and bool(q.get('items'))
+            except (ValueError,KeyError): pass
+          with open(os.environ['GITHUB_OUTPUT'],'a') as out:out.write('ready='+str(ok).lower()+'\n')
+          print('Staged draft queue available:',ok,'(no content is auto-approved)')
+          PY
+      - uses: actions/setup-python@v5
+        if: steps.queue.outputs.ready == 'true'
+        with:
+          python-version: '3.11'
+      - name: Install free local renderer and fonts
+        if: steps.queue.outputs.ready == 'true'
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-noto-core ffmpeg
+          python -m pip install -q --disable-pip-version-check pillow google-genai
+      - name: Research archival photos with visible licenses; never claim they depict the incident
+        if: steps.queue.outputs.ready == 'true'
+        run: |
+          python gardagard-giti/automation/research_queue_media.py --queue gardagard-giti/automation/queue.json --out gardagard-giti/output/daily-media-candidates.json
+      - name: Build at most five full photo/story/voice Reels for editorial REVIEW ONLY
+        if: steps.queue.outputs.ready == 'true'
+        run: |
+          if [ -z "$GEMINI_API_KEY" ]; then echo "::warning::No free TTS API key. No silent replacement is allowed."; exit 0; fi
+          python gardagard-giti/automation/render_daily.py \
+            --queue gardagard-giti/automation/queue.json \
+            --media gardagard-giti/output/daily-media-candidates.json \
+            --max-items 5 --quality production
+      - name: Archive draft media for review; no public URL or Instagram publish call
+        if: steps.queue.outputs.ready == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: gerde-giti-media-review-package
+          path: |
+            gardagard-giti/output/daily-preview/**
+            gardagard-giti/output/daily-media-candidates.json
+          retention-days: 3
+          if-no-files-found: warn
