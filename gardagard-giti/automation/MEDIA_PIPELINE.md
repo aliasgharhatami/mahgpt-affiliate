@@ -16,7 +16,7 @@
 ## Constraints and blockers
 - **Free only:** Google AI Studio Free tier and free GitHub Actions quota; do not activate billing. If quota runs out, stop and notify; no paid fallback.
 - **Missing production approval:** automatically generated news has NOT passed independent fact verification, voice listening, image relevance, image reuse and on-graphic QA; no script automatically marks approval.
-- **Missing public media host:** GitHub Actions artifacts cannot be supplied as `media_url` / `video_url` to Instagram. Need a dedicated HTTPS public asset site, e.g. a Render Static Site in a workspace selected by user, without changing MahGPT website.
+- **Public media host provisioned and tested:** Render Static Site at https://gerde-giti-media.onrender.com in workspace LIA. Public synthetic JPG/MP4 passed HTTP 200, MIME and SHA256 byte-for-byte checks on 2026-10-26 (GitHub Actions run 40350773223). Actual reviewed news assets are **not** yet uploaded, and publishing remains OFF.
 - **Brand logo:** the actual circular gold user logo can be placed as a discreet overlay once a safe source file is committed to the branch.
 - **Daily source diversity:** current RSS selection covers only a few countries; insufficient credible news means fewer than five pieces, not filler or invented posts.
 - **Social publishing:** the Instagram token has been separately validated read-only against the intended Gerde Giti account; existing MahGPT Telegram/site should not be modified.
@@ -31,3 +31,10 @@ python -m py_compile gardagard-giti/automation/render_daily.py gardagard-giti/au
 node gardagard-giti/automation/queue.mjs validate gardagard-giti/tests/media-preview-fixture.json
 ```
 Review rendered artifacts under GitHub Actions before making any future publishing changes.
+
+## 26 October 2026 — validated media host
+- A dedicated Render branch and public static HTTPS site now exist. Synthetic test assets are public under `/checks/` and are explicitly NOT Instagram content.
+- The original `.gitignore` ignored MP4; the upload workflows now force-stage approved/test MP4 files.
+- Render did **not** automatically deploy GitHub Actions bot pushes. Automatic approved releases therefore require a confidential Render Deploy Hook URL saved as `GITI_RENDER_DEPLOY_HOOK` in this repository's Actions Secrets; the approval workflow fails safely without it.
+- `prepare_host_release.py`, `apply_host_urls.py`, and `.github/workflows/giti-promote-reviewed-media.yml` validate approved binary assets, deploy and checksum-check public URLs, then attach them to a separate **non-live** Giti queue.
+- The draft production queue does not yet contain fact/rights/voice-approved real news. No Instagram trial post can be made safely until a verified batch exists.
