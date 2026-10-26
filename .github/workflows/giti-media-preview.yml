@@ -21,8 +21,18 @@ jobs:
           python-version: '3.11'
       - name: Install open source tools, fonts and official Google SDK
         run: |
-          command -v ffmpeg
-          python -m pip install -q --disable-pip-version-check pillow google-genai
+          python -m pip install -q --disable-pip-version-check pillow google-genai imageio-ffmpeg
+          python - <<'PY'
+          import os
+          from pathlib import Path
+          import imageio_ffmpeg
+          d=Path(os.environ["RUNNER_TEMP"])/"giti-bin"
+          d.mkdir(parents=True,exist_ok=True)
+          target=d/"ffmpeg"
+          target.symlink_to(Path(imageio_ffmpeg.get_ffmpeg_exe()))
+          with open(os.environ["GITHUB_PATH"],"a") as f:f.write(str(d)+"\n")
+          print("Bundled FFmpeg available without installing paid system services")
+          PY
       - name: Confirm Persian text shaping and media encoder are available
         run: |
           python - <<'PY'
