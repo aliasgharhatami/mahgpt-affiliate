@@ -48,12 +48,12 @@ jobs:
         env:
           JOB: ${{ inputs.storyboard }}
         run: |
-          python gardagard-giti/automation/quality_kore_voice.py --job "$JOB" --out "$RUNNER_TEMP/giti-kore"
+          python gardagard-giti/automation/quality_kore_voice.py --job "$RUNNER_TEMP/giti-input-assets/asset_resolved_review_only.json" --out "$RUNNER_TEMP/giti-kore"
       - name: Render branded Full HD using original approved first Reel header/footer and visuals
         env:
           JOB: ${{ inputs.storyboard }}
         run: |
-          python gardagard-giti/automation/quality_reel_renderer.py --job "$JOB" --audio "$RUNNER_TEMP/giti-kore/narration.wav" --timing "$RUNNER_TEMP/giti-kore/timing.json" --out "$RUNNER_TEMP/giti-reel"
+          python gardagard-giti/automation/quality_reel_renderer.py --job "$RUNNER_TEMP/giti-input-assets/asset_resolved_review_only.json" --audio "$RUNNER_TEMP/giti-kore/narration.wav" --timing "$RUNNER_TEMP/giti-kore/timing.json" --out "$RUNNER_TEMP/giti-reel"
       - name: Verify production voice, dimensions, scene variety and no auto publishing
         run: |
           python - <<'PY'
