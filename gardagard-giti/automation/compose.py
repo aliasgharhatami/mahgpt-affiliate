@@ -39,7 +39,7 @@ def obtain_text(original_url, expected_domain):
  host=(u.hostname or "").lower().removeprefix("www.")
  if u.scheme!="https" or (host!=expected_domain and not host.endswith("."+expected_domain)):raise ValueError("Invalid original publisher link")
  req=urllib.request.Request(original_url,headers={"User-Agent":"Mozilla/5.0 (compatible; GerdeGitiResearch/1.0)","Accept":"text/html"})
- with urllib.request.urlopen(req,timeout=18) as r:
+ with urllib.request.urlopen(req,timeout=9) as r:
   resolved=urllib.parse.urlparse(r.geturl())
   redirect=(resolved.hostname or "").lower().removeprefix("www.")
   if redirect!=expected_domain and not redirect.endswith("."+expected_domain):raise ValueError("Redirected away from original publisher")
@@ -117,7 +117,12 @@ def main():
  from google import genai
  client=genai.Client(api_key=os.environ["GEMINI_API_KEY"])
  chosen=[];visited=set();warnings=[];attempts=0
+ # Keep the daily workflow bounded: GitHub Actions and free Gemini can stall on individual sites.
+ deadline=time.monotonic()+360
  for a in original:
+  if time.monotonic()>deadline:
+   warnings.append({"id":"daily-budget","cause":"Research time budget reached; preserve validated drafts instead of losing entire run"})
+   break
   if len(chosen)>=5 or attempts>=12:break
   attempts+=1
   if a["country"] in visited and len(visited)<3:continue
