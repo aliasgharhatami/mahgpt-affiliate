@@ -43,8 +43,7 @@ jobs:
       - name: Install free local renderer and fonts
         if: steps.queue.outputs.ready == 'true'
         run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq fonts-noto-core ffmpeg
+          command -v ffmpeg
           python -m pip install -q --disable-pip-version-check pillow google-genai
       - name: Research archival photos with visible licenses; never claim they depict the incident
         if: steps.queue.outputs.ready == 'true'
