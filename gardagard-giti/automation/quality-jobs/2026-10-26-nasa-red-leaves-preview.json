@@ -1,0 +1,66 @@
+{
+  "schema": "gerde-giti/quality-cloud/v1",
+  "id": "2026-10-26-nasa-red-leaves-preview",
+  "country_fa": "جهان",
+  "location_fa": "مدار زمین",
+  "source_url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+  "caption": "ماهوارهٔ PACE ناسا حالا تغییر رنگ برگ‌ها را در مقیاس زمین دنبال می‌کند؛ از شمال آغاز می‌شود و با پاییز جابه‌جا می‌شود. تصاویر واقعی: NASA Earth Observatory / Lauren Dauphin. یک نمای مکمل در ویدیو «بازسازی تصویری» با ChatGPT Images است. منبع: NASA Earth Observatory، ۲۶ اکتبر ۲۰۲۶. #گرد_گیتی #خبر_جهان #ناسا #پاییز",
+  "scenes": [
+    {
+      "kind": "reconstruction",
+      "image_generator": "ChatGPT Images",
+      "image_url": "https://raw.githubusercontent.com/aliasgharhatami/mahgpt-affiliate/main/gardagard-giti/automation/test-assets/pace-satellite-reconstruction.jpg",
+      "human_subject_accuracy_reviewed": true,
+      "story_relevance_checked": true,
+      "narration": "ببین، ناسا برای پیدا کردن رنگ‌های پاییزی، این‌بار سرش را از پنجرهٔ یک ماهواره بیرون کرده."
+    },
+    {
+      "kind": "actual",
+      "license": "Public domain",
+      "rights_evidence_url": "https://science.nasa.gov/earth/faq/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261004.jpg",
+      "story_relevance_checked": true,
+      "narration": "دو نقشهٔ تازه نشان می‌دهند موج رنگ‌های قرمز، اول از شمال شروع کرده و بعد آرام‌آرام پایین آمده."
+    },
+    {
+      "kind": "actual",
+      "license": "Public domain",
+      "rights_evidence_url": "https://science.nasa.gov/earth/faq/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261004.jpg",
+      "story_relevance_checked": true,
+      "narration": "روی نقشهٔ اول، بخش‌هایی از آلاسکا، کانادا، مغولستان و روسیه قرمزتر دیده می‌شوند."
+    },
+    {
+      "kind": "actual",
+      "license": "Public domain",
+      "rights_evidence_url": "https://science.nasa.gov/earth/faq/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261011.jpg",
+      "story_relevance_checked": true,
+      "narration": "یک هفته بعد، همین رنگ‌ها روی بخش‌های بیشتری از چین، آمریکا و روسیه پخش شده‌اند."
+    },
+    {
+      "kind": "actual",
+      "license": "Public domain",
+      "rights_evidence_url": "https://science.nasa.gov/earth/faq/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/vermontfallcolor_oli2_20261003_lrg.jpg",
+      "story_relevance_checked": true,
+      "narration": "تصویر لندست از ورمونت هم خیلی قشنگ است؛ بالای کوه‌ها نارنجی‌اند و دره‌ها هنوز سبزند."
+    },
+    {
+      "kind": "reconstruction",
+      "image_generator": "ChatGPT Images",
+      "image_url": "https://raw.githubusercontent.com/aliasgharhatami/mahgpt-affiliate/main/gardagard-giti/automation/test-assets/pace-satellite-reconstruction.jpg",
+      "human_subject_accuracy_reviewed": true,
+      "story_relevance_checked": true,
+      "narration": "این فقط برای تماشای پاییز نیست؛ ناسا می‌گوید تغییر رنگ برگ‌ها می‌تواند سرنخ خشکسالی، آفت و بیماری باشد."
+    },
+    {
+      "kind": "actual",
+      "license": "Public domain",
+      "rights_evidence_url": "https://science.nasa.gov/earth/faq/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/vermontfallcolor_oli2_20261003_lrg.jpg",
+      "story_relevance_checked": true,
+      "narration": "یعنی شاید یک روز، ماهواره زودتر از ما بفهمد کدام جنگل حالش خوب نیست."
+    }
+  ]
+}
