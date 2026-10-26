@@ -1,0 +1,50 @@
+name: Gerde Giti - publish exactly one user-approved 1080p Reel
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/giti-first-approved-instagram-release.yml"
+      - "gardagard-giti/automation/first_approved_post_once.mjs"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gerde-giti-approved-reel-20261026-once
+  cancel-in-progress: false
+
+jobs:
+  publish-one-approved-reel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+      INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate standalone one-time script
+        run: node --check gardagard-giti/automation/first_approved_post_once.mjs
+      - name: Publish exact user-approved video to @gerde_giti only
+        run: node gardagard-giti/automation/first_approved_post_once.mjs
+      - name: Persist outcome, including uncertain attempts, to prevent duplicate posts
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -f gardagard-giti/automation/first-approved-release-state.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add gardagard-giti/automation/first-approved-release-state.json
+            if ! git diff --cached --quiet; then
+              git commit -m "chore(giti): record approved one-time Instagram release result"
+              git pull --rebase origin main
+              git push origin HEAD:main
+            fi
+          fi
