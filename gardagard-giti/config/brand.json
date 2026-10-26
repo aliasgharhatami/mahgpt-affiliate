@@ -1,0 +1,47 @@
+{
+  "name": "گرد گیتی",
+  "tagline": "فالو کن تا بگردیم به گرد گیتی",
+  "language": "fa",
+  "direction": "rtl",
+  "font": "Vazirmatn, Noto Sans Arabic, sans-serif",
+  "colors": {
+    "navy": "#101E31",
+    "teal": "#15B8A6",
+    "gold": "#F6C65B",
+    "white": "#FFFFFF",
+    "ink": "#081320"
+  },
+  "formats": {
+    "reel": {
+      "width": 1080,
+      "height": 1920
+    },
+    "feed": {
+      "width": 1080,
+      "height": 1350
+    },
+    "story": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  "tagline_position": {
+    "center_x": 0.5,
+    "center_y": 0.75
+  },
+  "schedule": {
+    "timezone": "Europe/Istanbul",
+    "reels_per_day": 3,
+    "photos_per_day": 2,
+    "share_photos_to_story": true
+  },
+  "publishing_enabled": false,
+  "editorial_descriptor": "اخباری از جهان که احتمالا نمیشنوید!",
+  "obsolete_navigation_labels": [
+    "اخبار",
+    "مردم",
+    "مکان‌ها",
+    "فرهنگ"
+  ],
+  "style_guide": "Minimalist editorial magazine: split-tone photo, warm ivory and charcoal, generous whitespace, no travel iconography"
+}

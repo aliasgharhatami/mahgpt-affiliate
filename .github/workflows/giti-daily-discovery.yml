@@ -1,0 +1,79 @@
+name: Gerde Giti - daily local news discovery (NO POSTS)
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/giti-daily-discovery.yml"
+  schedule:
+    - cron: "05 04 * * *"  # 07:05 Istanbul; GitHub scheduler can be delayed
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: gerde-giti-daily-news
+  cancel-in-progress: false
+jobs:
+  collect-review-candidates:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Discover source-linked local stories around the world
+        run: python gardagard-giti/automation/discover.py
+      - name: Install free Gemini text SDK for evidence-based original-language review
+        run: python -m pip install --disable-pip-version-check -q 'google-genai>=2.25.0'
+      - name: Read actual publisher articles and compose original colloquial Persian drafts
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python gardagard-giti/automation/compose.py
+      - name: Build today's separate draft queue
+        run: |
+          python - <<'PY'
+          import datetime,json,pathlib,zoneinfo
+          d=datetime.datetime.now(zoneinfo.ZoneInfo("Europe/Istanbul")).strftime("%Y-%m-%d")
+          p=pathlib.Path("gardagard-giti/automation/output")/f"composed-{d}.json"
+          q=pathlib.Path("gardagard-giti/automation/queue.json")
+          if q.exists():
+            try:
+              existing=json.loads(q.read_text())
+              if existing.get("date")==d and any(x.get("status") in ("approved","inflight","published") for x in existing.get("items",[])):
+                print("Queue already has curated/publishing state; preserving it.")
+                pathlib.Path("/tmp/gerde-skip-rebuild").touch()
+            except Exception as e:
+              raise RuntimeError("Cannot safely inspect existing queue") from e
+          PY
+          if [ ! -f /tmp/gerde-skip-rebuild ]; then
+            D=$(TZ=Europe/Istanbul date +%Y-%m-%d)
+            node gardagard-giti/automation/queue.mjs build "gardagard-giti/automation/output/composed-$D.json"
+          fi
+      - name: Archive editorial candidates for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: gerde-giti-local-news-candidates
+          path: |
+            gardagard-giti/automation/output/discovered-*.json
+            gardagard-giti/automation/output/composed-*.json
+          retention-days: 7
+          if-no-files-found: warn
+      - name: Save Giti queue state only; no MahGPT content or Instagram posting
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gardagard-giti/automation/queue.json
+          if git diff --cached --quiet; then
+            echo "No queue changes."
+          else
+            git commit -m "chore(giti): stage review-only local news candidates"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

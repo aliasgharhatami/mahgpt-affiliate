@@ -1,0 +1,67 @@
+name: Gerde Giti - FREE Persian narrator audition (NO POSTING)
+on:
+  push:
+    branches:
+      - feature/gardagerd-giti-brand-20261025
+    paths:
+      - .github/workflows/giti-gemini-free-voice.yml
+      - gardagard-giti/scripts/gemini-free-voice-preview.py
+      - gardagard-giti/narration/script.json
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-female-persian-tts:
+    name: Generate isolated Persian voice preview
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GITI_TTS_MODEL: gemini-3.8-flash-tts
+      GITI_TTS_VOICE: Kore
+      GITI_TTS_PREVIEW_PATH: gardagard-giti/output/gemini-free-voice-preview.wav
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check whether the Gemini API key was connected
+        id: gate
+        shell: bash
+        run: |
+          if [ -n "$GEMINI_API_KEY" ]; then
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+            echo "Secret present. Testing one Persian narrator sample only."
+          else
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Add GEMINI_API_KEY in Settings > Secrets and variables > Actions, then rerun by a new safe branch commit."
+          fi
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.configured == 'true'
+        with:
+          python-version: '3.11'
+      - name: Install official SDK
+        if: steps.gate.outputs.configured == 'true'
+        run: python -m pip install --disable-pip-version-check 'google-genai>=2.25.0'
+      - name: Generate FREE TTS voice sample
+        if: steps.gate.outputs.configured == 'true'
+        run: python gardagard-giti/scripts/gemini-free-voice-preview.py
+      - name: Check output file is a playable WAV
+        if: steps.gate.outputs.configured == 'true'
+        run: |
+          test -s "$GITI_TTS_PREVIEW_PATH"
+          python - <<'PY'
+          from pathlib import Path
+          import os, wave
+          p=Path(os.environ['GITI_TTS_PREVIEW_PATH'])
+          with wave.open(str(p),'rb') as w:
+              assert w.getnframes()>0, 'No actual audio generated'
+              print('Narration seconds:', round(w.getnframes()/w.getframerate(),2))
+          PY
+      - name: Downloadable narration only - NOT Instagram content
+        if: steps.gate.outputs.configured == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: gerde-giti-female-persian-audio-test
+          path: gardagard-giti/output/gemini-free-voice-preview.wav
+          retention-days: 7
+          if-no-files-found: error

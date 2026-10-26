@@ -1,0 +1,42 @@
+{
+  "brand": "گرد گیتی",
+  "tagline": "فالو کن تا بگردیم به گرد گیتی",
+  "durationSeconds": 52,
+  "cover": {
+    "durationSeconds": 3
+  },
+  "visuals": [
+    {
+      "type": "photo",
+      "reconstruction": true,
+      "label": "بازسازی تصویری",
+      "credit": "AI reconstruction for storyboard",
+      "license": "generated-for-prototype"
+    }
+  ],
+  "sourceURL": "https://www.dha.com.tr/yerel-haberler/edirne/edirne-selimiye-camisi-meydaninda-basibos-3-at-2965688",
+  "captionPanel": {
+    "fixedPosition": true
+  },
+  "motion": {
+    "panOrZoom": true,
+    "animatedCaptions": true
+  },
+  "sentences": [
+    {
+      "text": "در شهر ادرنه ترکیه، سه اسب سرگردان وارد میدان تاریخی مسجد سلیمیه شدند.",
+      "spokenText": "در شهر ادرنه ترکیه، سه اسب سرگردان وارد میدان تاریخی مسجد سلیمیه شدند.",
+      "start": 3,
+      "end": 10
+    }
+  ],
+  "narration": {
+    "language": "fa-IR",
+    "voiceGender": "female",
+    "file": null,
+    "humanQualityChecked": false,
+    "timingDerivedFromAudio": false
+  },
+  "videoFile": null,
+  "status": "preview_only"
+}

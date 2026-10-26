@@ -1,0 +1,54 @@
+name: Gerde Giti - isolated automation tests
+on:
+  push:
+    branches:
+      - feature/gardagerd-giti-brand-20261025
+    paths:
+      - .github/workflows/giti-automation-tests.yml
+      - gardagard-giti/automation/**
+      - gardagard-giti/tests/automation-queue.test.mjs
+      - gardagard-giti/tests/test_discovery.py
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  safe-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Test news source filtering without web access
+        run: python -m unittest discover -s gardagard-giti/tests -p test_discovery.py -v
+      - name: Validate publishing slots and prevent unreviewed posts
+        run: node --test gardagard-giti/tests/automation-queue.test.mjs
+      - name: Validate publisher syntax and brand constants
+        run: |
+          node --check gardagard-giti/automation/publish.mjs
+          node gardagard-giti/automation/queue.mjs slots 2026-10-27
+          node gardagard-giti/automation/publish.mjs dry-run
+      - name: Check existing Instagram Login read-only if configured
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+        run: |
+          if [ -n "$INSTAGRAM_ACCESS_TOKEN" ] && [ -n "$INSTAGRAM_ACCOUNT_ID" ]; then
+            if ! node gardagard-giti/automation/publish.mjs check-account; then
+              echo "::warning::Existing Instagram token is expired or invalid; publication will stay OFF until reauthorized."
+            fi
+          else
+            echo "Existing Instagram secrets not available; identity check skipped without publishing."
+          fi
+      - name: Confirm no production publication in tests
+        run: |
+          node - <<'NODE'
+          const f=require('./gardagard-giti/automation/config.json')
+          if(f.publication.enabled!==false)throw Error('Giti staging would be unsafe')
+          if(f.publication.websiteUnchanged!==true||f.publication.telegramUnchanged!==true)throw Error('Legacy channels must be untouched')
+          console.log('Giti publication remains OFF; site and Telegram untouched.')
+          NODE

@@ -1,0 +1,40 @@
+name: Gerde Giti - live local RSS smoke test (NO POSTS)
+on:
+  push:
+    branches:
+      - feature/gardagerd-giti-brand-20261025
+    paths:
+      - .github/workflows/giti-source-smoke.yml
+      - gardagard-giti/automation/discover.py
+      - gardagard-giti/automation/sources.json
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 7
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Try actual original-source RSS from GitHub worker
+        run: python gardagard-giti/automation/discover.py
+      - name: Print counts only, not publisher article text
+        run: |
+          python - <<'PY'
+          import glob,json
+          files=glob.glob('gardagard-giti/automation/output/discovered-*.json')
+          if not files:raise RuntimeError('No discovery artifact created')
+          d=json.load(open(files[0],encoding='utf-8'))
+          print('Original-source items:',d.get('candidate_total'),'Shortlist:',len(d.get('stories',[])))
+          print('Distinct source countries:',len({s.get('country') for s in d.get('stories',[])}))
+          print('Feed errors:',len(d.get('warnings',[])))
+          if not d.get('stories'):print('WARNING: No valid fresh news today. No posts should be scheduled.')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: gerde-giti-rss-smoke-candidates
+          path: gardagard-giti/automation/output/discovered-*.json
+          retention-days: 2

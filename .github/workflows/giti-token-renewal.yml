@@ -1,0 +1,27 @@
+name: Gerde Giti - Instagram token renewal (optional)
+on:
+  schedule:
+    - cron: "25 06 1,15 * *"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  renewal:
+    runs-on: ubuntu-latest
+    timeout-minutes: 7
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Preflight
+        run: python gardagard-giti/automation/refresh_ig_token.py --dry-run
+      - name: Install NaCl public key encryption library
+        run: python -m pip install --disable-pip-version-check -q PyNaCl
+      - name: Attempt rotation only when both secured credentials exist
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          GITI_GH_SECRETS_PAT: ${{ secrets.GITI_GH_SECRETS_PAT }}
+        run: python gardagard-giti/automation/refresh_ig_token.py
