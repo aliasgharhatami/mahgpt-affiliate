@@ -96,6 +96,9 @@ jobs:
           mkdir -p gardagard-giti/media-host/public/media
           cp -a /tmp/giti-release/media/. gardagard-giti/media-host/public/media/
           git add gardagard-giti/media-host/public/media
+          # Force-stage all approved MP4: inherited Giti .gitignore excludes *.mp4.
+          find gardagard-giti/media-host/public/media -type f -name '*.mp4' -print0 | xargs -0 -r git add -f --
+          test "$(git diff --cached --name-only -- '*.mp4' | wc -l)" -ge 0
           if ! git diff --cached --quiet; then
             git commit -m "media(giti): stage editorially approved photos/reels on independent CDN"
             git push origin HEAD:giti-media-host-20261026
