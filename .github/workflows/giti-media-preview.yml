@@ -21,8 +21,7 @@ jobs:
           python-version: '3.11'
       - name: Install open source tools, fonts and official Google SDK
         run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq fonts-noto-core ffmpeg
+          command -v ffmpeg
           python -m pip install -q --disable-pip-version-check pillow google-genai
       - name: Confirm Persian text shaping and media encoder are available
         run: |
