@@ -28,7 +28,6 @@ jobs:
         shell: bash
         run: |
           test ! -f gardagard-giti/automation/second-pilot-release-state.json
-          test -n "$GEMINI_API_KEY"
           test -n "$INSTAGRAM_ACCESS_TOKEN"
       - uses: actions/setup-python@v5
         with:
@@ -36,7 +35,7 @@ jobs:
       - name: Install Pillow Gemini SDK and reliable FFmpeg
         shell: bash
         run: |
-          python -m pip install -q pillow 'google-genai>=2.25.0' imageio-ffmpeg
+          python -m pip install -q pillow edge-tts imageio-ffmpeg
           python - <<'PY'
           import os,pathlib,imageio_ffmpeg
           d=pathlib.Path(os.environ['RUNNER_TEMP'])/'giti-bin'
