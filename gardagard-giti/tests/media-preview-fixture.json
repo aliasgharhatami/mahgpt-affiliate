@@ -30,7 +30,9 @@
       "reviewed_facts": false,
       "media_rights_checked": false,
       "native_persian_checked": false,
-      "media_url": null
+      "media_url": null,
+      "local_time": "10:00",
+      "scheduled_at": "2026-10-26T07:00:00.000Z"
     },
     {
       "id": "preview-photo-002",
@@ -50,7 +52,9 @@
       "reviewed_facts": false,
       "media_rights_checked": false,
       "native_persian_checked": false,
-      "media_url": null
+      "media_url": null,
+      "local_time": "13:00",
+      "scheduled_at": "2026-10-26T10:00:00.000Z"
     },
     {
       "id": "preview-video-003",
@@ -78,7 +82,9 @@
       "reviewed_facts": false,
       "media_rights_checked": false,
       "native_persian_checked": false,
-      "media_url": null
+      "media_url": null,
+      "local_time": "16:00",
+      "scheduled_at": "2026-10-26T13:00:00.000Z"
     },
     {
       "id": "preview-photo-004",
@@ -98,7 +104,9 @@
       "reviewed_facts": false,
       "media_rights_checked": false,
       "native_persian_checked": false,
-      "media_url": null
+      "media_url": null,
+      "local_time": "19:00",
+      "scheduled_at": "2026-10-26T16:00:00.000Z"
     },
     {
       "id": "preview-video-005",
@@ -126,7 +134,9 @@
       "reviewed_facts": false,
       "media_rights_checked": false,
       "native_persian_checked": false,
-      "media_url": null
+      "media_url": null,
+      "local_time": "21:30",
+      "scheduled_at": "2026-10-26T18:30:00.000Z"
     }
   ],
   "fixture": "TEST ONLY - four placeholders are fictional technical samples; publication prohibited"
