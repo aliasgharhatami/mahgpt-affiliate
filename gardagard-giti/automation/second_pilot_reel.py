@@ -67,7 +67,7 @@ def search_commons(query):
         "gsrlimit":"40","prop":"imageinfo","iiprop":"url|size|extmetadata",
         "iiurlwidth":"1600","format":"json","formatversion":"2"}
     url="https://commons.wikimedia.org/w/api.php?"+urllib.parse.urlencode(args)
-    data=json.loads(load_url(url,timeout=28,limit=3000000))
+    data=json.loads(load_url(url,timeout=13,limit=3000000))
     return [p for p in (valid_photo(v) for v in data.get("query",{}).get("pages",[])) if p]
 def images(folder):
     chosen=[];seen=set();seed=20261026
@@ -76,10 +76,10 @@ def images(folder):
         except Exception as e:
             print("Commons query failed",phrase,type(e).__name__,flush=True);continue
         random.Random(seed+len(chosen)).shuffle(candidates)
-        for c in candidates[:25]:
+        for c in candidates[:4]:
             if c["file_page"] in seen:continue
             try:
-                raw=load_url(c["src"],timeout=18,limit=8000000)
+                raw=load_url(c["src"],timeout=9,limit=8000000)
                 im=Image.open(io.BytesIO(raw)).convert("RGB")
                 if im.width<800 or im.height<500:continue
                 dest=folder/("photo-%02d.jpg"%(len(chosen)+1))
