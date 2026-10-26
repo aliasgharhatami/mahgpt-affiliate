@@ -1,0 +1,70 @@
+name: Gerde Giti - five-slot Instagram scheduler
+on:
+  schedule:
+    - cron: "00 07 * * *"  # 10:00 Istanbul reel
+    - cron: "00 10 * * *"  # 13:00 Istanbul photo + story
+    - cron: "00 13 * * *"  # 16:00 Istanbul reel
+    - cron: "00 16 * * *"  # 19:00 Istanbul photo + story
+    - cron: "30 18 * * *"  # 21:30 Istanbul reel
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: gerde-giti-instagram-publication
+  cancel-in-progress: false
+jobs:
+  preview-only:
+    if: ${{ vars.GITI_LIVE_PUBLISHING != 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: No publishing until account, hosting, asset rights and media generation passed QA
+        run: node gardagard-giti/automation/publish.mjs dry-run
+  publish-one:
+    if: ${{ vars.GITI_LIVE_PUBLISHING == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Claim at most one due and approved post; never auto-approve
+        env:
+          GITI_LIVE_PUBLISHING: 'true'
+        run: node gardagard-giti/automation/publish.mjs claim
+      - name: Commit claim before any remote API call — protects against duplicates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gardagard-giti/automation/queue.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(giti): claim publication before posting"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Publish only the claimed Giti item via existing Instagram Login
+        env:
+          GITI_LIVE_PUBLISHING: 'true'
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+        run: node gardagard-giti/automation/publish.mjs publish-claimed
+      - name: Record publication state independently of MahGPT queue
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gardagard-giti/automation/queue.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(giti): record Instagram publication result"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
