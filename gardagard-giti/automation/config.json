@@ -63,13 +63,15 @@
   "publication": {
     "enabled": false,
     "staging": true,
-    "mediaBaseUrl": null,
+    "mediaBaseUrl": "https://gerde-giti-media.onrender.com",
     "reviewBeforeGoLive": true,
     "sharedLegacyInstagramCredentials": true,
     "skipIfNoValidStory": true,
     "skipIfNoLicensedMedia": true,
     "instagramAccountKind": "existing account",
     "telegramUnchanged": true,
-    "websiteUnchanged": true
+    "websiteUnchanged": true,
+    "mediaHostStatus": "render_deployed_awaiting_public_http_asset_check",
+    "mediaHostBranch": "giti-media-host-20261026"
   }
 }
