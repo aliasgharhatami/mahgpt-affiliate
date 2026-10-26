@@ -74,7 +74,7 @@ if(process.argv[1]&&resolve(process.argv[1])===fileURLToPath(import.meta.url)){
  else if(cmd==="validate"){let q=JSON.parse(await readFile(resolve(arg||QUEUE),"utf8"));console.log(JSON.stringify(validateQueue(q,config),null,2))}
  else if(cmd==="build"){
   const data=JSON.parse(await readFile(resolve(arg),"utf8"));
-  const date=localDate();const q=newDraftQueue(date,config,data.stories||[]);
+  const date=localDate();const q=newDraftQueue(date,config,data.items||data.stories||[]);
   validateQueue(q,config);
   await saveQueue(q);
   console.log("Wrote "+q.items.length+" DRAFT slots. Auto publishing is disabled until independently checked.");
