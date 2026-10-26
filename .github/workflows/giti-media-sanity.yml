@@ -1,0 +1,29 @@
+name: Gerde Giti - media builder code sanity (offline)
+on:
+  push:
+    branches: [feature/giti-daily-media-pipeline-20261026]
+    paths:
+      - .github/workflows/giti-media-sanity.yml
+      - gardagard-giti/automation/render_daily.py
+      - gardagard-giti/automation/research_queue_media.py
+      - gardagard-giti/automation/queue.mjs
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  sanity:
+    runs-on: ubuntu-latest
+    timeout-minutes: 7
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check Python syntax and isolated queue schema without API key
+        run: |
+          python -m py_compile gardagard-giti/automation/render_daily.py gardagard-giti/automation/research_queue_media.py
+          node gardagard-giti/automation/queue.mjs validate gardagard-giti/tests/media-preview-fixture.json
+          node --test gardagard-giti/tests/automation-queue.test.mjs
