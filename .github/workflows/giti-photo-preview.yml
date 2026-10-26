@@ -1,0 +1,32 @@
+name: Gerde Giti - two photo and Story preview test (NO POSTING)
+on:
+  push:
+    branches:
+      - feature/giti-daily-media-pipeline-20261026
+    paths:
+      - .github/workflows/giti-photo-preview.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  two-posts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install freely distributable Persian-capable graphic renderer
+        run: python -m pip install -q --disable-pip-version-check pillow
+      - name: Build photo license candidates for technical fixture
+        run: python gardagard-giti/automation/research_queue_media.py --queue gardagard-giti/tests/media-preview-fixture.json --out gardagard-giti/output/media-fixture-candidates.json
+      - name: Render both magazine-layout photos and Story images; no Gemini, no Instagram
+        run: python gardagard-giti/automation/render_daily.py --queue gardagard-giti/tests/media-preview-fixture.json --media gardagard-giti/output/media-fixture-candidates.json --photos-only --max-items 5 --demo
+      - name: Upload photo and story images for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: gerde-giti-two-photo-story-review
+          path: gardagard-giti/output/daily-preview/**
+          retention-days: 5
+          if-no-files-found: error

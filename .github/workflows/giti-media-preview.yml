@@ -1,0 +1,73 @@
+name: Gerde Giti - end to end media preview (NO POSTING)
+on:
+  push:
+    branches:
+      - feature/giti-daily-media-pipeline-20261026
+    paths:
+      - .github/workflows/giti-media-preview.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  render-review-only:
+    runs-on: ubuntu-latest
+    timeout-minutes: 32
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install open source tools, fonts and official Google SDK
+        run: |
+          python -m pip install -q --disable-pip-version-check pillow google-genai imageio-ffmpeg
+          python - <<'PY'
+          import os
+          from pathlib import Path
+          import imageio_ffmpeg
+          d=Path(os.environ["RUNNER_TEMP"])/"giti-bin"
+          d.mkdir(parents=True,exist_ok=True)
+          target=d/"ffmpeg"
+          target.symlink_to(Path(imageio_ffmpeg.get_ffmpeg_exe()))
+          with open(os.environ["GITHUB_PATH"],"a") as f:f.write(str(d)+"\n")
+          print("Bundled FFmpeg available without installing paid system services")
+          PY
+      - name: Confirm Persian text shaping and media encoder are available
+        run: |
+          python - <<'PY'
+          from PIL import features
+          assert features.check_feature("raqm"), "Persian shaping unavailable"
+          print("RTL text shaping confirmed")
+          PY
+          ffmpeg -version | head -1
+      - name: Research archive photographs with source/author/license (NOT approved for publication)
+        run: |
+          python gardagard-giti/automation/research_queue_media.py \
+            --queue gardagard-giti/tests/media-preview-fixture.json \
+            --out gardagard-giti/output/media-fixture-candidates.json
+      - name: Download the previously successful Gemini Kore narration for an accurate visual integration test
+        uses: actions/download-artifact@v4
+        with:
+          name: gerde-giti-episode001-full-persian-narration
+          run-id: 40284792978
+          github-token: ${{ github.token }}
+          path: gardagard-giti/output/cached-audio
+      - name: Render a complete Reel using real earlier female Persian narration; no new API calls
+        run: |
+          python gardagard-giti/automation/render_daily.py \
+            --queue gardagard-giti/tests/media-preview-fixture.json \
+            --media gardagard-giti/output/media-fixture-candidates.json \
+            --cached-episode gardagard-giti/output/cached-audio \
+            --max-items 1 --quality preview --demo
+      - name: Export review package, NOT live or hosted Instagram media
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gerde-giti-complete-reel-technical-review
+          path: |
+            gardagard-giti/output/daily-preview/**
+            gardagard-giti/output/media-fixture-candidates.json
+          retention-days: 5
+          if-no-files-found: warn

@@ -1,0 +1,143 @@
+{
+  "schema": "gerde-giti/queue/v1",
+  "brand": "گرد گیتی",
+  "date": "2026-10-26",
+  "live": false,
+  "items": [
+    {
+      "id": "preview-edirne-001",
+      "kind": "reel",
+      "country": "TR",
+      "country_fa": "ترکیه",
+      "headline": "سه اسب وسط میدان تاریخی ادرنه!",
+      "source_name": "DHA",
+      "source_url": "https://www.dha.com.tr/yerel-haberler/edirne/edirne-selimiye-camisi-meydaninda-basibos-3-at-2965688",
+      "caption": "خبر محلی از ادرنهٔ ترکیه؛ نمونهٔ آزمایشی",
+      "narration_sentences": [
+        "فکرشو بکن! توی شهر ادرنهٔ ترکیه، سه تا اسب سرگردون یه‌دفعه وسط میدون مسجد تاریخی سلیمیه پیداشون شد!",
+        "این سه تا اسب خیلی خونسرد شروع کردن به علف خوردن؛ انگار اصلاً براشون مهم نبود کجا وایسادن!",
+        "جالب اینه که این مسجد، یکی از آثار معروف معمار سینانه و توی فهرست میراث جهانی یونسکو هم ثبت شده.",
+        "مردمی که اون اطراف بودن، با دیدن این صحنه عجیب، گوشی‌هاشون رو درآوردن و شروع کردن به عکس گرفتن.",
+        "اسب‌ها هم بدون عجله به کار خودشون ادامه دادن؛ یه صحنه کاملاً غیرمنتظره توی این فضای تاریخی!",
+        "بعد از مدتی، نیروهای مسئول از راه رسیدن تا اسب‌ها رو از میدون دور کنن و مسیر رو دوباره خلوت کنن.",
+        "تو اگه اونجا بودی، اول یه عکس می‌گرفتی یا از این‌که اسب‌ها وسط میدونن تعجب می‌کردی؟ نظرتو برامون بنویس!"
+      ],
+      "visual_queries_en": [
+        "Selimiye Mosque Edirne courtyard photo"
+      ],
+      "slot": 0,
+      "status": "draft",
+      "reviewed_facts": false,
+      "media_rights_checked": false,
+      "native_persian_checked": false,
+      "media_url": null,
+      "local_time": "10:00",
+      "scheduled_at": "2026-10-26T07:00:00.000Z"
+    },
+    {
+      "id": "preview-photo-002",
+      "kind": "photo",
+      "country": "PY",
+      "country_fa": "پاراگوئه",
+      "headline": "نمونهٔ پست تصویری — فقط آزمایش قالب",
+      "source_name": "Technical fixture",
+      "source_url": "https://example.com/preview-02",
+      "caption": "نمونه آزمایشی غیرخبری",
+      "narration_sentences": [],
+      "visual_queries_en": [
+        "Asuncion Paraguay city photo"
+      ],
+      "slot": 1,
+      "status": "draft",
+      "reviewed_facts": false,
+      "media_rights_checked": false,
+      "native_persian_checked": false,
+      "media_url": null,
+      "local_time": "13:00",
+      "scheduled_at": "2026-10-26T10:00:00.000Z"
+    },
+    {
+      "id": "preview-video-003",
+      "kind": "reel",
+      "country": "UZ",
+      "country_fa": "ازبکستان",
+      "headline": "تست دوم ریلز با نریشن محاوره‌ای فارسی",
+      "source_name": "Technical fixture",
+      "source_url": "https://example.com/preview-03",
+      "caption": "آزمایش فنی، نه خبر واقعی",
+      "narration_sentences": [
+        "این یه نمونهٔ کاملاً آزمایشیه که داریم باهاش سیستم ساخت ریلزهای گرد گیتی رو امتحان می‌کنیم.",
+        "قرار نیست این ویدیو یه خبر واقعی یا یه اتفاق تازه رو بهتون گزارش بده؛ فقط داریم هماهنگی بخش‌های مختلف رو تست می‌کنیم.",
+        "توی این آزمایش می‌خوایم ببینیم صدای گوینده چقدر طبیعی و خودمونیه و آیا مکث‌ها درست از آب درمیاد یا نه.",
+        "عکس پس‌زمینه باید آروم حرکت کنه، ولی کادر زیرنویس باید سر جای خودش بمونه و خیلی راحت خونده بشه.",
+        "رنگ‌بندی مجله‌ای کرم و زغالی هم باید از اول تا آخر یکدست بمونه و شلوغی اضافه ایجاد نکنه.",
+        "از همه مهم‌تر، فایل نهایی باید هم تصویر داشته باشه هم صدای فارسی و موسیقی ملایم، بدون قطعی یا بهم‌ریختگی.",
+        "این نمونه برای بررسی فنی ساخته شده، نه برای انتشار؛ بعدش می‌ریم سراغ خبرهای واقعی و تأییدشدهٔ روز."
+      ],
+      "visual_queries_en": [
+        "Samarkand Registan public domain"
+      ],
+      "slot": 2,
+      "status": "draft",
+      "reviewed_facts": false,
+      "media_rights_checked": false,
+      "native_persian_checked": false,
+      "media_url": null,
+      "local_time": "16:00",
+      "scheduled_at": "2026-10-26T13:00:00.000Z"
+    },
+    {
+      "id": "preview-photo-004",
+      "kind": "photo",
+      "country": "VN",
+      "country_fa": "ویتنام",
+      "headline": "نمونهٔ دوم کاور تصویری گرد گیتی",
+      "source_name": "Technical fixture",
+      "source_url": "https://example.com/preview-04",
+      "caption": "نمونه آزمایشی غیرخبری",
+      "narration_sentences": [],
+      "visual_queries_en": [
+        "Hanoi Vietnam street public domain"
+      ],
+      "slot": 3,
+      "status": "draft",
+      "reviewed_facts": false,
+      "media_rights_checked": false,
+      "native_persian_checked": false,
+      "media_url": null,
+      "local_time": "19:00",
+      "scheduled_at": "2026-10-26T16:00:00.000Z"
+    },
+    {
+      "id": "preview-video-005",
+      "kind": "reel",
+      "country": "NP",
+      "country_fa": "نپال",
+      "headline": "آزمایش سوم، ریتم تصویر و موسیقی",
+      "source_name": "Technical fixture",
+      "source_url": "https://example.com/preview-05",
+      "caption": "آزمایش فنی، نه خبر واقعی",
+      "narration_sentences": [
+        "این یه نمونهٔ کاملاً آزمایشیه که داریم باهاش سیستم ساخت ریلزهای گرد گیتی رو امتحان می‌کنیم.",
+        "قرار نیست این ویدیو یه خبر واقعی یا یه اتفاق تازه رو بهتون گزارش بده؛ فقط داریم هماهنگی بخش‌های مختلف رو تست می‌کنیم.",
+        "توی این آزمایش می‌خوایم ببینیم صدای گوینده چقدر طبیعی و خودمونیه و آیا مکث‌ها درست از آب درمیاد یا نه.",
+        "عکس پس‌زمینه باید آروم حرکت کنه، ولی کادر زیرنویس باید سر جای خودش بمونه و خیلی راحت خونده بشه.",
+        "رنگ‌بندی مجله‌ای کرم و زغالی هم باید از اول تا آخر یکدست بمونه و شلوغی اضافه ایجاد نکنه.",
+        "از همه مهم‌تر، فایل نهایی باید هم تصویر داشته باشه هم صدای فارسی و موسیقی ملایم، بدون قطعی یا بهم‌ریختگی.",
+        "این نمونه برای بررسی فنی ساخته شده، نه برای انتشار؛ بعدش می‌ریم سراغ خبرهای واقعی و تأییدشدهٔ روز."
+      ],
+      "visual_queries_en": [
+        "Kathmandu Nepal city public domain"
+      ],
+      "slot": 4,
+      "status": "draft",
+      "reviewed_facts": false,
+      "media_rights_checked": false,
+      "native_persian_checked": false,
+      "media_url": null,
+      "local_time": "21:30",
+      "scheduled_at": "2026-10-26T18:30:00.000Z"
+    }
+  ],
+  "fixture": "TEST ONLY - four placeholders are fictional technical samples; publication prohibited"
+}

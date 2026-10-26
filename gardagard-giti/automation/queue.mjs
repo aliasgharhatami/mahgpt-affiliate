@@ -60,6 +60,9 @@ export function newDraftQueue(date,config,candidates=[]){
    source_name:candidates[i].source||candidates[i].source_name,
    source_url:candidates[i].original_url||candidates[i].source_url,
    caption:candidates[i].caption||"",
+   // Carry only original editorial draft needed for media rendering; NEVER auto-approve factual claims.
+   narration_sentences:candidates[i].narration_sentences||[],
+   visual_queries_en:candidates[i].visual_queries_en||[],
    media_url:null,story_media_url:null,
    duration_seconds:null,has_narration:false,subtitle_aligned:false,
    reviewed_facts:false,media_rights_checked:false,native_persian_checked:false,
