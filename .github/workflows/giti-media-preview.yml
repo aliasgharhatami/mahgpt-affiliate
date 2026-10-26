@@ -1,0 +1,56 @@
+name: Gerde Giti - end to end media preview (NO POSTING)
+on:
+  push:
+    branches:
+      - feature/giti-daily-media-pipeline-20261026
+    paths:
+      - .github/workflows/giti-media-preview.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  render-review-only:
+    runs-on: ubuntu-latest
+    timeout-minutes: 32
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install open source tools, fonts and official Google SDK
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-noto-core ffmpeg
+          python -m pip install -q --disable-pip-version-check pillow google-genai
+      - name: Confirm Persian text shaping and media encoder are available
+        run: |
+          python - <<'PY'
+          from PIL import features
+          assert features.check_feature("raqm"), "Persian shaping unavailable"
+          print("RTL text shaping confirmed")
+          PY
+          ffmpeg -version | head -1
+      - name: Research archive photographs with source/author/license (NOT approved for publication)
+        run: |
+          python gardagard-giti/automation/research_queue_media.py \
+            --queue gardagard-giti/tests/media-preview-fixture.json \
+            --out gardagard-giti/output/media-fixture-candidates.json
+      - name: Synthesize actual female Persian speech and render one complete pilot Reel
+        run: |
+          if [ -z "$GEMINI_API_KEY" ]; then echo "::error::Gemini key missing"; exit 1; fi
+          python gardagard-giti/automation/render_daily.py \
+            --queue gardagard-giti/tests/media-preview-fixture.json \
+            --media gardagard-giti/output/media-fixture-candidates.json \
+            --max-items 1 --quality preview --demo
+      - name: Export review package, NOT live or hosted Instagram media
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gerde-giti-complete-reel-technical-review
+          path: |
+            gardagard-giti/output/daily-preview/**
+            gardagard-giti/output/media-fixture-candidates.json
+          retention-days: 5
+          if-no-files-found: warn
