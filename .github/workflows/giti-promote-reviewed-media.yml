@@ -1,0 +1,136 @@
+name: Gerde Giti - promote independently APPROVED media to Render (NO IG POST)
+on:
+  push:
+    branches: [feature/giti-approved-media-transport-20261026]
+    paths:
+      - .github/workflows/giti-promote-reviewed-media.yml
+      - gardagard-giti/automation/prepare_host_release.py
+      - gardagard-giti/tests/test_host_release.py
+  workflow_dispatch:
+    inputs:
+      render_run_id:
+        description: GitHub Actions run ID containing the complete, approved media review package
+        required: true
+        type: string
+      confirmation:
+        description: Enter APPROVED MEDIA ONLY to confirm all facts, media rights, captions and pronunciation were independently checked
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: gerde-giti-media-host-upload
+  cancel-in-progress: false
+
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Pillow for media verification
+        run: python -m pip install -q pillow
+      - name: Check approval and media-path validation without paid API calls
+        run: python -m unittest discover -s gardagard-giti/tests -p test_host_release.py -v
+
+  staged-release:
+    needs: unit-tests
+    if: ${{ github.event_name == 'workflow_dispatch' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Require explicit approval phrase and a genuine staged non-live queue
+        env:
+          PHRASE: ${{ inputs.confirmation }}
+        run: |
+          set -euo pipefail
+          test "$PHRASE" = "APPROVED MEDIA ONLY"
+          test -f gardagard-giti/automation/queue.json
+          echo "A queue exists. Next stage independently validates EVERY story."
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install open-source media validators
+        run: python -m pip install -q pillow imageio-ffmpeg
+      - name: Download exact selected review artifact (not live media)
+        uses: actions/download-artifact@v4
+        with:
+          name: gerde-giti-media-review-package
+          run-id: ${{ inputs.render_run_id }}
+          github-token: ${{ github.token }}
+          path: /tmp/giti-reviewed
+      - name: Verify human approvals, media rights, authentic production files, and durations
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json, pathlib, sys
+          from pathlib import Path
+          sys.path.insert(0, str(Path("gardagard-giti/automation").resolve()))
+          from prepare_host_release import validate_and_copy
+          q=json.loads(Path("gardagard-giti/automation/queue.json").read_text(encoding="utf8"))
+          files=list(Path("/tmp/giti-reviewed").rglob("manifest.json"))
+          if len(files)!=1: raise RuntimeError("Expected exactly one render manifest in the selected artifact")
+          if not files[0].parent.is_relative_to(Path("/tmp/giti-reviewed")): raise RuntimeError("Unsafe artifact")
+          root=files[0].parent
+          report=validate_and_copy(q,root,"/tmp/giti-release")
+          print("Editorial release accepted:",len(report["items"]),"items; STILL NO INSTAGRAM POST")
+          PY
+      - name: Upload only reviewed JPEG/MP4 assets to isolated host branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin giti-media-host-20261026
+          git switch -C giti-media-host-20261026 origin/giti-media-host-20261026
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p gardagard-giti/media-host/public/media
+          cp -a /tmp/giti-release/media/. gardagard-giti/media-host/public/media/
+          git add gardagard-giti/media-host/public/media
+          if ! git diff --cached --quiet; then
+            git commit -m "media(giti): stage editorially approved photos/reels on independent CDN"
+            git push origin HEAD:giti-media-host-20261026
+          fi
+      - name: Verify Render externally serves exactly the approved byte hashes
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json,pathlib,time,urllib.request,hashlib
+          root=pathlib.Path("/tmp/giti-release/media")
+          releases=list(root.glob("*/release.json"))
+          if len(releases)!=1: raise RuntimeError("Expected one release report")
+          report=json.loads(releases[0].read_text(encoding="utf8"))
+          for item in report["items"]:
+              for name,media in item["files"].items():
+                  last=""
+                  for attempt in range(40):
+                      try:
+                          req=urllib.request.Request(media["url"],headers={"Cache-Control":"no-cache"})
+                          with urllib.request.urlopen(req,timeout=16) as r:
+                              data=r.read()
+                              kind=r.headers.get('Content-Type','').split(';')[0]
+                              expected_kind="video/mp4" if name.endswith(".mp4") else "image/jpeg"
+                              if r.status==200 and kind==expected_kind and hashlib.sha256(data).hexdigest()==media["sha256"]:
+                                  print("Verified external CDN:",media["url"],len(data))
+                                  break
+                              last=f"{r.status}, {kind}, wrong bytes"
+                      except Exception as e:last=str(e)
+                      time.sleep(9)
+                  else:raise RuntimeError("Media not externally served correctly: "+name+" "+last)
+          print("APPROVED ASSET HOSTING VERIFIED. Instagram publishing remains separately disabled.")
+          PY
+      - name: Preserve release URLs and checksums for human-controlled publisher step
+        uses: actions/upload-artifact@v4
+        with:
+          name: gerde-giti-approved-media-urls
+          path: /tmp/giti-release/media/*/release.json
+          retention-days: 10
