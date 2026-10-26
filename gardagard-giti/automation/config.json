@@ -71,7 +71,9 @@
     "instagramAccountKind": "existing account",
     "telegramUnchanged": true,
     "websiteUnchanged": true,
-    "mediaHostStatus": "render_deployed_awaiting_public_http_asset_check",
-    "mediaHostBranch": "giti-media-host-20261026"
+    "mediaHostStatus": "test_jpeg_mp4_http200_mime_and_sha256_verified_2026-10-26",
+    "mediaHostBranch": "giti-media-host-20261026",
+    "mediaHostNeedsDeployHook": true,
+    "mediaProductionFilesHosted": false
   }
 }
