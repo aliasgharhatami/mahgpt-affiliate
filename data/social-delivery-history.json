@@ -7599,6 +7599,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3269963/these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-27T10:35:55.117Z",
+        "message_id": 683,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
