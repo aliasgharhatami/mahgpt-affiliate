@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T11:09:56.895Z",
+  "updatedAt": "2026-10-27T05:40:43.244Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "canva",
-      "toolName": "Canva AI",
-      "category": "Partner watch",
-      "title": "Canva releases its first image generation model",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "guide": "/partners/canva.html",
-      "source": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "publishedAt": "2026-10-22T19:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675"
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "‘You want to control your own AI’: Pegasus spyware founder tells governments to push for sovereign AI and national security over reliance on US AI",
+      "summary": "Former spyware head tells governments to focus on national security when it comes to AI.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/security/you-want-to-control-your-own-ai-pegasus-spyware-founder-tells-governments-to-push-for-sovereign-ai-and-national-security-over-reliance-on-us-ai",
+      "publishedAt": "2026-10-27T03:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/HXjwb27v3qiaB8u9JLsKiT-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Microsoft Teams will soon use AI to warn you of sneaky phishing scams",
-      "summary": "Microsoft Teams is adding AI-powered phishing detection to help keep you safe from threats.",
+      "title": "Pro and Tell event live blog: Apple’s final launch of 2026 happens now",
+      "summary": "Macworld Apple has had a busy fall, with the launch of the iPhone Duo, HomeView smart hub, and the M5 Ultra Mac Studio. But there’s one more event this week, and it might be the biggest of all. And you can follow every rumor and announcement with us right here. Apple kicked off its week of releases ",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/microsoft-teams-will-soon-use-ai-to-warn-you-of-sneaky-phishing-scams",
-      "publishedAt": "2026-10-26T11:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4PDqENH6W5dRPxTbyP4L5M-900-80.jpg"
+      "source": "https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html",
+      "publishedAt": "2026-10-27T02:51:58.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268887-0-08171400-1793069570-apple-pro-and-tell-live.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Claude saves an overheating Mac from a cryptominer it might have put there",
-      "summary": "Macworld We’ve all heard about how AI is going to change the world as we know it. We’ve also heard about how AI can go rogue and do things that are, well, scary. These early days of AI development are filled with crazy stories, and since the Mac is popular amongs AI developers, you’ll hear a lot abo",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3268614/claude-saves-an-overheating-mac-from-a-cryptominer-it-might-have-put-there.html",
-      "publishedAt": "2026-10-26T11:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268614-0-14032400-1793012461-2026-Mac-Studio-top-left-angle.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "publishedAt": "2026-10-27T02:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why human judgement still matters in AI-powered finance",
-      "summary": "AI is accelerating finance, but real progress depends on human judgement guiding every decision.",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/why-human-judgement-still-matters-in-ai-powered-finance",
-      "publishedAt": "2026-10-26T10:57:22.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "publishedAt": "2026-10-27T01:12:21.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The shift to decision intelligence: Move beyond analytics to real time activation",
-      "summary": "AI is freeing up time specifically for strategic decision-making, not just automating routine tasks.",
+      "title": "AI agents need limits on financial access",
+      "summary": "AI agents are gaining access to bank accounts, raising serious concerns about security and whether the technology industry's obsession with automation is putting people's money at unnecessary risk.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-shift-to-decision-intelligence-move-beyond-analytics-to-real-time-activation",
-      "publishedAt": "2026-10-26T10:31:13.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg"
+      "source": "https://www.techradar.com/ai-platforms-assistants/ai-agents-are-going-rogue-inside-bank-accounts-and-this-is-exactly-what-ive-been-worried-about",
+      "publishedAt": "2026-10-27T01:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JAEM79XyaEgkCyGCFJjHo5-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "For the third time this fall, Apple prepares to launch a very cool thing nobody needs",
-      "summary": "Macworld Apple can’t win with people like me. When the company unveils minor iterative updates to successful products, we complain that it isn’t taking more risks . And when it launches crazy, beautiful tech in uncertain new markets, we suck our teeth and complain about practicality and necessity . ",
+      "title": "Nvidia reveals its mega DSX POD modular 'AI factory' — so could the latest Vera Rubin hardware actually help make data centers more energy efficient?",
+      "summary": "Nvidia's DSX POD combines Vera Rubin hardware with factory-built containers, promising faster AI data center deployment and reduced installation work.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3263574/for-the-third-time-this-fall-apple-prepares-to-launch-a-very-cool-thing-nobody-needs.html",
-      "publishedAt": "2026-10-26T10:30:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3263574-0-89270000-1793010664-IMG_1631.jpeg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/nvidia-reveals-its-mega-dsx-pod-modular-ai-factory-featuring-the-latest-vera-rubin-hardware-and-a-promise-to-make-data-centers-more-energy-efficient",
+      "publishedAt": "2026-10-26T23:35:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4P5rRWRzzS7SaNshdMmiU7-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Preparing for a quantum-safe future",
-      "summary": "Quantum computing still feels like uncharted territory - yet like AI, the threat it poses is significant.",
+      "title": "OpenClaw creator Peter Steinberger claims he spent $10 million in tokens in just a month — but luckily OpenAI can afford it",
+      "summary": "The creator of OpenClaw has admitted to spending big money on AI tokens, which may impact how OpenAI investors view the company.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/preparing-for-a-quantum-safe-future",
-      "publishedAt": "2026-10-26T10:00:05.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/d4oN2QTeNf8QYJDmjZnAKE-1920-80.jpg"
+      "source": "https://www.techradar.com/pro/openclaw-creator-peter-steinberger-claims-he-spent-usd10-million-in-tokens-in-just-a-month-but-luckily-openai-can-afford-it",
+      "publishedAt": "2026-10-26T23:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DTZvZXmPaA8zMJoW733ZVa-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
-      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monda",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-      "publishedAt": "2026-10-26T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/191:100/w_1280,c_limit/AI%20journalists%202.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "publishedAt": "2026-10-26T21:45:31.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
-      "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+      "title": "You can't currently order a Tinybox with Nvidia GPUs — and Tiny Corp's new 192GB six-GPU AMD build just got $3,000 pricier",
+      "summary": "Less than two weeks after its $11,000 headline, the configurable deep learning workstation has dropped every Nvidia option and the tinybox pro, added two Radeon AI Pro R9700 builds, and raised their price.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
-      "publishedAt": "2026-10-26T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6adbe71b429a21d2813df7cd/191:100/w_1280,c_limit/GGC%20-%205-watermarked.jpg"
+      "source": "https://www.techradar.com/pro/you-cant-currently-order-a-tinybox-with-nvidia-gpus-and-tiny-corps-new-192gb-six-gpu-amd-build-just-got-usd3-000-pricier",
+      "publishedAt": "2026-10-26T21:20:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UXUoBz2xYzpVLMMrg7S6Te-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI stock picks and 150+ money lessons are $69.99 for life",
-      "summary": "Macworld TL;DR : Get AI stock ratings and a full personal finance course with the lifetime Financial Freedom Bundle on sale for $69.99 (reg. $598). Most investing apps give you charts and earnings data, then leave the decision to you. A financial advisor will make the call for you, but you pay for t",
+      "title": "HPE is sending its most powerful AI compute platforms to the Moon aboard an all-new lunar rover",
+      "summary": "HPE is working with NASA to aim beyond the International Space Station and put its Spaceborne Computer on the Moon.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3268900/ai-stock-picks-and-150-money-lessons-are-69-99-for-life.html",
-      "publishedAt": "2026-10-26T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268900-0-23637200-1793001645-Financial-Freedom-Bundle.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.techradar.com/pro/hpe-is-sending-its-most-powerful-ai-compute-platforms-to-the-moon-aboard-an-all-new-lunar-rover",
+      "publishedAt": "2026-10-26T20:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/AoSnvT34Emj7hEhn4MXqjf-1920-80.jpg"
     }
   ]
 }
