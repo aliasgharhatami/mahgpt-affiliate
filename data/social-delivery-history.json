@@ -7633,6 +7633,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-27T20:59:17.490Z",
+        "message_id": 685,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
