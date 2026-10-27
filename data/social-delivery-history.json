@@ -7565,6 +7565,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3263574/for-the-third-time-this-fall-apple-prepares-to-launch-a-very-cool-thing-nobody-needs.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-27T00:43:15.995Z",
+        "message_id": 681,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
