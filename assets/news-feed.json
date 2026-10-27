@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T05:40:43.244Z",
+  "updatedAt": "2026-10-27T10:35:10.531Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,12 +19,23 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "‘You want to control your own AI’: Pegasus spyware founder tells governments to push for sovereign AI and national security over reliance on US AI",
-      "summary": "Former spyware head tells governments to focus on national security when it comes to AI.",
+      "title": "These iOS 27.2 features will make you want to download the latest updates right away",
+      "summary": "Macworld After weeks of development with enrolled beta testers, iOS 27.2 is available to all iPhone users as a stable release, along with macOS, iPadOS, watchOS, and tvOS. The first major update to iOS 27 introduces several handy enhancements to Siri AI, along with some major additions to Apple TV a",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/security/you-want-to-control-your-own-ai-pegasus-spyware-founder-tells-governments-to-push-for-sovereign-ai-and-national-security-over-reliance-on-us-ai",
-      "publishedAt": "2026-10-27T03:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/HXjwb27v3qiaB8u9JLsKiT-2560-80.jpg"
+      "source": "https://www.macworld.com/article/3269963/these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away.html",
+      "publishedAt": "2026-10-27T10:30:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3269963-0-01704500-1793097030-iOS-27.2-update-hero.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Netherlands to replace 25,000 government jobs with AI in efficiency drive to save €3.5 billion",
+      "summary": "The Dutch government is looking to increase productivity by 20%, and apparently cutting 25,000 jobs will help them get there.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/netherlands-to-replace-25-000-government-jobs-with-ai-in-efficiency-drive-to-save-eur3-5-billion",
+      "publishedAt": "2026-10-27T10:13:04.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/TjxYb9uQxEWhLVTqBj9pwW-2124-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -34,8 +45,30 @@
       "summary": "Macworld Apple has had a busy fall, with the launch of the iPhone Duo, HomeView smart hub, and the M5 Ultra Mac Studio. But there’s one more event this week, and it might be the biggest of all. And you can follow every rumor and announcement with us right here. Apple kicked off its week of releases ",
       "guide": "/news/index.html",
       "source": "https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html",
-      "publishedAt": "2026-10-27T02:51:58.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268887-0-08171400-1793069570-apple-pro-and-tell-live.jpg?quality=50&strip=all&w=1024"
+      "publishedAt": "2026-10-27T09:57:18.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268887-0-01734000-1793095049-apple-pro-and-tell-live.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "publishedAt": "2026-10-27T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/191:100/w_1280,c_limit/gear-ai-agent-best.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "‘You want to control your own AI’: Pegasus spyware founder tells governments to push for sovereign AI and national security over reliance on US AI",
+      "summary": "Former spyware head tells governments to focus on national security when it comes to AI.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/security/you-want-to-control-your-own-ai-pegasus-spyware-founder-tells-governments-to-push-for-sovereign-ai-and-national-security-over-reliance-on-us-ai",
+      "publishedAt": "2026-10-27T03:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/HXjwb27v3qiaB8u9JLsKiT-2560-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -91,39 +124,6 @@
       "source": "https://www.techradar.com/pro/openclaw-creator-peter-steinberger-claims-he-spent-usd10-million-in-tokens-in-just-a-month-but-luckily-openai-can-afford-it",
       "publishedAt": "2026-10-26T23:05:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/DTZvZXmPaA8zMJoW733ZVa-1920-80.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monda",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "publishedAt": "2026-10-26T21:45:31.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "You can't currently order a Tinybox with Nvidia GPUs — and Tiny Corp's new 192GB six-GPU AMD build just got $3,000 pricier",
-      "summary": "Less than two weeks after its $11,000 headline, the configurable deep learning workstation has dropped every Nvidia option and the tinybox pro, added two Radeon AI Pro R9700 builds, and raised their price.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/you-cant-currently-order-a-tinybox-with-nvidia-gpus-and-tiny-corps-new-192gb-six-gpu-amd-build-just-got-usd3-000-pricier",
-      "publishedAt": "2026-10-26T21:20:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/UXUoBz2xYzpVLMMrg7S6Te-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "HPE is sending its most powerful AI compute platforms to the Moon aboard an all-new lunar rover",
-      "summary": "HPE is working with NASA to aim beyond the International Space Station and put its Spaceborne Computer on the Moon.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/hpe-is-sending-its-most-powerful-ai-compute-platforms-to-the-moon-aboard-an-all-new-lunar-rover",
-      "publishedAt": "2026-10-26T20:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/AoSnvT34Emj7hEhn4MXqjf-1920-80.jpg"
     }
   ]
 }
