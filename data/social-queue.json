@@ -1,9 +1,194 @@
 {
   "version": 1,
   "queue_date": "2026-10-27",
-  "created_at": "2026-10-27T05:40:43.324Z",
-  "source_feed_updated_at": "2026-10-27T05:40:43.244Z",
+  "created_at": "2026-10-27T10:35:14.522Z",
+  "source_feed_updated_at": "2026-10-27T10:35:10.531Z",
   "items": [
+    {
+      "story_id": "https://www.macworld.com/article/3269963/these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away.html",
+      "source_url": "https://www.macworld.com/article/3269963/these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away.html",
+      "headline": "These iOS 27.2 features will make you want to download the latest updates right away",
+      "summary": "Macworld After weeks of development with enrolled beta testers, iOS 27.2 is available to all iPhone users as a stable release, along with macOS, iPadOS, watchOS, and tvOS. The first major update to iOS 27 introduces several handy enhancements to Siri AI, along with some major additions to Apple TV a",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3269963-0-01704500-1793097030-iOS-27.2-update-hero.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3269963-0-01704500-1793097030-iOS-27.2-update-hero.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-27T05:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-27/https-www-macworld-com-article-3269963-these-ios-27-2-features-will-make-you-wan-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/netherlands-to-replace-25-000-government-jobs-with-ai-in-efficiency-drive-to-save-eur3-5-billion",
+      "source_url": "https://www.techradar.com/pro/netherlands-to-replace-25-000-government-jobs-with-ai-in-efficiency-drive-to-save-eur3-5-billion",
+      "headline": "Netherlands to replace 25,000 government jobs with AI in efficiency drive to save €3.5 billion",
+      "summary": "The Dutch government is looking to increase productivity by 20%, and apparently cutting 25,000 jobs will help them get there.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/TjxYb9uQxEWhLVTqBj9pwW-2124-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TjxYb9uQxEWhLVTqBj9pwW-2124-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2124,
+        "height": 1195,
+        "aspectRatio": 1.7774058577405858,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=netherlands-to-replace-25-000-government-jobs-with-ai-in-efficiency-drive-to-save-3-5-bill",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-27T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-27/https-www-techradar-com-pro-netherlands-to-replace-25-000-government-jobs-with-a-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html",
+      "source_url": "https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html",
+      "headline": "Pro and Tell event live blog: Apple’s final launch of 2026 happens now",
+      "summary": "Macworld Apple has had a busy fall, with the launch of the iPhone Duo, HomeView smart hub, and the M5 Ultra Mac Studio. But there’s one more event this week, and it might be the biggest of all. And you can follow every rumor and announcement with us right here. Apple kicked off its week of releases",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3268887-0-01734000-1793095049-apple-pro-and-tell-live.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3268887-0-01734000-1793095049-apple-pro-and-tell-live.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=pro-and-tell-event-live-blog-apples-final-launch-of-2026-happens-now",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-27T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-27/https-www-macworld-com-article-3268887-pro-and-tell-event-live-blog-apples-last--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "source_url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "headline": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/191:100/w_1280,c_limit/gear-ai-agent-best.jpg",
+      "image_url": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/191:100/w_1280,c_limit/gear-ai-agent-best.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-tested-every-major-ai-agent-for-a-day-heres-the-best-one",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-27T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-27/I-Tested-Every-Major-AI-Agent-for-a-Day-Here-s-the-Best-One-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-27/https-www-wired-com-story-i-tested-every-major-ai-agent-for-a-day-heres-the-best-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
     {
       "story_id": "https://www.techradar.com/pro/security/you-want-to-control-your-own-ai-pegasus-spyware-founder-tells-governments-to-push-for-sovereign-ai-and-national-security-over-reliance-on-us-ai",
       "source_url": "https://www.techradar.com/pro/security/you-want-to-control-your-own-ai-pegasus-spyware-founder-tells-governments-to-push-for-sovereign-ai-and-national-security-over-reliance-on-us-ai",
@@ -25,12 +210,10 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-27T05:20:00.000Z",
+      "scheduled_publish_at": "2026-10-27T13:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-27T05:40:48.546Z",
-        "message_id": 682,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-27T05:40:48.546Z"
       },
       "linkedin": {
         "status": "pending"
@@ -44,52 +227,6 @@
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
       "fallback_image_story": "assets/social-cards/2026-10-27/https-www-techradar-com-pro-security-you-want-to-control-your-own-ai-pegasus-spy-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html",
-      "source_url": "https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html",
-      "headline": "Pro and Tell event live blog: Apple’s final launch of 2026 happens now",
-      "summary": "Macworld Apple has had a busy fall, with the launch of the iPhone Duo, HomeView smart hub, and the M5 Ultra Mac Studio. But there’s one more event this week, and it might be the biggest of all. And you can follow every rumor and announcement with us right here. Apple kicked off its week of releases",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3268887-0-08171400-1793069570-apple-pro-and-tell-live.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3268887-0-08171400-1793069570-apple-pro-and-tell-live.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=pro-and-tell-event-live-blog-apples-final-launch-of-2026-happens-now",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-27T07:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-27/https-www-macworld-com-article-3268887-pro-and-tell-event-live-blog-apples-last--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -119,7 +256,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-27T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-27T15:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -165,7 +302,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-27T11:20:00.000Z",
+      "scheduled_publish_at": "2026-10-27T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -211,7 +348,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-27T13:20:00.000Z",
+      "scheduled_publish_at": "2026-10-27T19:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -257,7 +394,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-27T15:20:00.000Z",
+      "scheduled_publish_at": "2026-10-27T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -303,145 +440,6 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-27T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-27/https-www-techradar-com-pro-openclaw-creator-peter-steinberger-claims-he-spent-u-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "headline": "Anthropic is burning gas to feed the AI boom",
-      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monda",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-is-burning-gas-to-feed-the-ai-boom",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-27T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-27/Anthropic-is-burning-gas-to-feed-the-AI-boom-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-27/https-www-theverge-com-ai-artificial-intelligence-1018994-anthropic-ipo-ai-data--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/you-cant-currently-order-a-tinybox-with-nvidia-gpus-and-tiny-corps-new-192gb-six-gpu-amd-build-just-got-usd3-000-pricier",
-      "source_url": "https://www.techradar.com/pro/you-cant-currently-order-a-tinybox-with-nvidia-gpus-and-tiny-corps-new-192gb-six-gpu-amd-build-just-got-usd3-000-pricier",
-      "headline": "You can't currently order a Tinybox with Nvidia GPUs — and Tiny Corp's new 192GB six-GPU AMD build just got $3,000 pricier",
-      "summary": "Less than two weeks after its $11,000 headline, the configurable deep learning workstation has dropped every Nvidia option and the tinybox pro, added two Radeon AI Pro R9700 builds, and raised their price.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/UXUoBz2xYzpVLMMrg7S6Te-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/UXUoBz2xYzpVLMMrg7S6Te-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=you-cant-currently-order-a-tinybox-with-nvidia-gpus-and-tiny-corps-new-192gb-six-gpu-amd-b",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-27T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-27/https-www-techradar-com-pro-you-cant-currently-order-a-tinybox-with-nvidia-gpus--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/hpe-is-sending-its-most-powerful-ai-compute-platforms-to-the-moon-aboard-an-all-new-lunar-rover",
-      "source_url": "https://www.techradar.com/pro/hpe-is-sending-its-most-powerful-ai-compute-platforms-to-the-moon-aboard-an-all-new-lunar-rover",
-      "headline": "HPE is sending its most powerful AI compute platforms to the Moon aboard an all-new lunar rover",
-      "summary": "HPE is working with NASA to aim beyond the International Space Station and put its Spaceborne Computer on the Moon.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/AoSnvT34Emj7hEhn4MXqjf-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/AoSnvT34Emj7hEhn4MXqjf-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hpe-is-sending-its-most-powerful-ai-compute-platforms-to-the-moon-aboard-an-all-new-lunar-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
       "scheduled_publish_at": "2026-10-27T23:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -458,7 +456,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-27/https-www-techradar-com-pro-hpe-is-sending-its-most-powerful-ai-compute-platform-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-27/https-www-techradar-com-pro-openclaw-creator-peter-steinberger-claims-he-spent-u-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T11:10:05.105Z",
-  "analysis_date": "2026-10-26",
+  "generated_at": "2026-10-27T10:35:20.745Z",
+  "analysis_date": "2026-10-27",
   "stories": [
     {
-      "title": "Canva releases its first image generation model",
-      "source": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "mahgpt_url": "/news/story.html?id=canva-releases-its-first-image-generation-model"
+      "title": "These iOS 27.2 features will make you want to download the latest updates right away",
+      "source": "https://www.macworld.com/article/3269963/these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away.html",
+      "mahgpt_url": "/news/story.html?id=these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away"
     },
     {
-      "title": "Microsoft Teams will soon use AI to warn you of sneaky phishing scams",
-      "source": "https://www.techradar.com/pro/microsoft-teams-will-soon-use-ai-to-warn-you-of-sneaky-phishing-scams",
-      "mahgpt_url": "/news/story.html?id=microsoft-teams-will-soon-use-ai-to-warn-you-of-sneaky-phishing-scams"
+      "title": "Netherlands to replace 25,000 government jobs with AI in efficiency drive to save €3.5 billion",
+      "source": "https://www.techradar.com/pro/netherlands-to-replace-25-000-government-jobs-with-ai-in-efficiency-drive-to-save-eur3-5-billion",
+      "mahgpt_url": "/news/story.html?id=netherlands-to-replace-25-000-government-jobs-with-ai-in-efficiency-drive-to-save-3-5-bill"
     },
     {
-      "title": "Claude saves an overheating Mac from a cryptominer it might have put there",
-      "source": "https://www.macworld.com/article/3268614/claude-saves-an-overheating-mac-from-a-cryptominer-it-might-have-put-there.html",
-      "mahgpt_url": "/news/story.html?id=claude-saves-an-overheating-mac-from-a-cryptominer-it-might-have-put-there"
+      "title": "Pro and Tell event live blog: Apple’s final launch of 2026 happens now",
+      "source": "https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html",
+      "mahgpt_url": "/news/story.html?id=pro-and-tell-event-live-blog-apples-final-launch-of-2026-happens-now"
     },
     {
-      "title": "Why human judgement still matters in AI-powered finance",
-      "source": "https://www.techradar.com/pro/why-human-judgement-still-matters-in-ai-powered-finance",
-      "mahgpt_url": "/news/story.html?id=why-human-judgement-still-matters-in-ai-powered-finance"
+      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "source": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "mahgpt_url": "/news/story.html?id=i-tested-every-major-ai-agent-for-a-day-heres-the-best-one"
     },
     {
-      "title": "The shift to decision intelligence: Move beyond analytics to real time activation",
-      "source": "https://www.techradar.com/pro/the-shift-to-decision-intelligence-move-beyond-analytics-to-real-time-activation",
-      "mahgpt_url": "/news/story.html?id=the-shift-to-decision-intelligence-move-beyond-analytics-to-real-time-activation"
+      "title": "‘You want to control your own AI’: Pegasus spyware founder tells governments to push for sovereign AI and national security over reliance on US AI",
+      "source": "https://www.techradar.com/pro/security/you-want-to-control-your-own-ai-pegasus-spyware-founder-tells-governments-to-push-for-sovereign-ai-and-national-security-over-reliance-on-us-ai",
+      "mahgpt_url": "/news/story.html?id=you-want-to-control-your-own-ai-pegasus-spyware-founder-tells-governments-to-push-for-sove"
     },
     {
-      "title": "For the third time this fall, Apple prepares to launch a very cool thing nobody needs",
-      "source": "https://www.macworld.com/article/3263574/for-the-third-time-this-fall-apple-prepares-to-launch-a-very-cool-thing-nobody-needs.html",
-      "mahgpt_url": "/news/story.html?id=for-the-third-time-this-fall-apple-prepares-to-launch-a-very-cool-thing-nobody-needs"
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "source": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "mahgpt_url": "/news/story.html?id=how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant"
     },
     {
-      "title": "Preparing for a quantum-safe future",
-      "source": "https://www.techradar.com/pro/preparing-for-a-quantum-safe-future",
-      "mahgpt_url": "/news/story.html?id=preparing-for-a-quantum-safe-future"
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "source": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "mahgpt_url": "/news/story.html?id=cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing"
     },
     {
-      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
-      "source": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-      "mahgpt_url": "/news/story.html?id=meet-the-ai-agents-trying-to-be-real-life-journalists"
+      "title": "AI agents need limits on financial access",
+      "source": "https://www.techradar.com/ai-platforms-assistants/ai-agents-are-going-rogue-inside-bank-accounts-and-this-is-exactly-what-ive-been-worried-about",
+      "mahgpt_url": "/news/story.html?id=ai-agents-need-limits-on-financial-access"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-26.html"
+      "path": "news/analysis/2026-10-27.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-26.html"
+      "path": "es/news/analysis/2026-10-27.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-26.html"
+      "path": "de/news/analysis/2026-10-27.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-26.html"
+      "path": "fr/news/analysis/2026-10-27.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-26.html"
+      "path": "pt-BR/news/analysis/2026-10-27.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-26.html"
+      "path": "ar/news/analysis/2026-10-27.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-26.html"
+      "path": "fa/news/analysis/2026-10-27.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-26.html"
+      "path": "tr/news/analysis/2026-10-27.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-26.html"
+      "path": "it/news/analysis/2026-10-27.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-26.html"
+      "path": "ja/news/analysis/2026-10-27.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-26.html"
+      "path": "ko/news/analysis/2026-10-27.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-26.html"
+      "path": "id/news/analysis/2026-10-27.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-26.html"
+      "path": "hi/news/analysis/2026-10-27.html"
     }
   ]
 }
