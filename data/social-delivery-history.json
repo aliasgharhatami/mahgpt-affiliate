@@ -7684,6 +7684,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3270413/apples-new-ipad-mini-is-a-duo-you-cant-close.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-28T11:22:04.881Z",
+        "message_id": 688,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
