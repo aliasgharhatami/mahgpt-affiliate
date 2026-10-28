@@ -7650,6 +7650,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-28T00:25:27.450Z",
+        "message_id": 686,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
