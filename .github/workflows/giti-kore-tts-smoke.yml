@@ -1,0 +1,44 @@
+name: Gerde Giti - Kore TTS smoke test (NO RENDER, NO POST)
+on:
+  push:
+    branches: [main]
+    paths:
+      - "gardagard-giti/automation/kore_tts_smoke.py"
+      - ".github/workflows/giti-kore-tts-smoke.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: gerde-giti-kore-tts-smoke
+  cancel-in-progress: false
+
+jobs:
+  kore-tts-only:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GITI_TTS_SMOKE_OUT: ${{ runner.temp }}/kore-tts-smoke.wav
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Require configured Gemini credential
+        shell: bash
+        run: test -n "$GEMINI_API_KEY" || { echo "::error::GEMINI_API_KEY is missing"; exit 1; }
+      - name: Install the official Gemini SDK only
+        run: python -m pip install -q --disable-pip-version-check "google-genai>=2.25.0"
+      - name: Generate and validate Kore Persian audio only
+        run: python gardagard-giti/automation/kore_tts_smoke.py
+      - name: Upload review-only audio artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: gerde-giti-kore-tts-smoke-audio
+          path: ${{ runner.temp }}/kore-tts-smoke.wav
+          retention-days: 7
+          if-no-files-found: error
