@@ -7769,6 +7769,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-28T23:15:12.419Z",
+        "message_id": 693,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
