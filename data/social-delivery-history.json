@@ -7718,6 +7718,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-28T17:20:07.647Z",
+        "message_id": 690,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
