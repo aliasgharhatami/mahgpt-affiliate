@@ -1,10 +1,5 @@
 name: Gerde Giti - FIRST REEL quality cloud prototype (PREVIEW ONLY)
 on:
-  push:
-    branches: [main]
-    paths:
-      - "gardagard-giti/automation/quality_kore_voice.py"
-      - ".github/workflows/giti-cloud-quality-check.yml"
   workflow_dispatch:
     inputs:
       storyboard:
