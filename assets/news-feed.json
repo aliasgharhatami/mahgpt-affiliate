@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T06:05:06.608Z",
+  "updatedAt": "2026-10-28T11:21:14.116Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -41,6 +41,72 @@
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
+      "title": "UK considering forcing data centers to invest in local communities as part of AI “covenant” — and it shows getting angry at developers can massively benefit working people",
+      "summary": "The British public aren't happy about data centers, but the government thinks more investment could change that.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/uk-considering-forcing-data-centers-to-invest-in-local-communities-as-part-of-ai-covenant-and-it-shows-getting-angry-at-developers-can-massively-benefit-working-people",
+      "publishedAt": "2026-10-28T11:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/RoGbuhjUxKCZ6eka42JjoW-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+      "publishedAt": "2026-10-28T10:15:00.000Z",
+      "image": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/191:100/w_1280,c_limit/culture_macmillon_failed_ai_project.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Why UK marketers need mobile-grade measurement before AI can deliver on ROI",
+      "summary": "How AI is leading to weak measurement practices that impact the bottom line.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/why-uk-marketers-need-mobile-grade-measurement-before-ai-can-deliver-on-roi",
+      "publishedAt": "2026-10-28T10:06:17.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
+      "summary": "Meta describes Waddle World as a 'daily journal disguised as a pet.'",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
+      "publishedAt": "2026-10-28T08:40:19.000Z",
+      "image": "https://www.engadget.com/img/gallery/metas-waddle-world-is-a-tamagotchi-like-ai-digital-pet-app/l-intro-1793176733.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+      "publishedAt": "2026-10-28T08:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ae1120223d445186a16d911/191:100/w_1280,c_limit/ai-weather-alerts-emergency.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Clear out your iPhone storage with this $29.99 lifetime deal",
+      "summary": "Macworld TL;DR : Free up iPhone storage with a lifetime subscription to Cleaner Kit Premium, now $29.99 (reg. $104.97). An iPhone fills up quickly with burst shots, screenshots, and near-identical photos, and the usual fix is paying for a bigger iCloud plan. Cleaner Kit finds and deletes that clutte",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3271000/clear-out-your-iphone-storage-with-this-29-99-lifetime-deal.html",
+      "publishedAt": "2026-10-28T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3271000-0-22556600-1793174442-Cleaner-Kit.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
       "title": "Should AI Decide Your Court Case? This Judge Says Yes",
       "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
       "guide": "/news/index.html",
@@ -58,72 +124,6 @@
       "source": "https://www.techradar.com/computing/websites-apps/apple-creator-studio-is-getting-even-better-with-new-ai-tools-and-a-big-final-cut-pro-upgrade",
       "publishedAt": "2026-10-28T03:30:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/p7gY26uMVEmhkFq3DCU6z3.gif"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Pro and Tell event live blog: Watch as Apple unveils its first touchscreen MacBook",
-      "summary": "Macworld Apple has had a busy fall, with the launch of the iPhone Duo, HomeView smart hub, and the M5 Ultra Mac Studio. But there’s one more event this week, and it might be the biggest of all. And you can follow every rumor and announcement with us right here. As you can guess by the thinly veiled ",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html",
-      "publishedAt": "2026-10-28T03:09:13.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268887-0-06603800-1793156994-apple-pro-and-tell-live.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Moscow could design an F-22 rival using an AI model from Russia's JPMorgan Chase — Sberbank GigaChat used its LLM for a 'generative design of a new aircraft'",
-      "summary": "Russia's UAC is testing Sberbank's GigaChat for aircraft design as sanctions accelerate domestic software adoption.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/moscow-could-design-an-f-22-rival-using-an-ai-model-from-russias-jpmorgan-chase-sberbank-gigachat-used-its-llm-for-a-generative-design-of-a-new-aircraft",
-      "publishedAt": "2026-10-28T02:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/yTNrDqajHjmxN5dy9DkvdR-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "publishedAt": "2026-10-27T22:55:41.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "The best ways to tell if someone is using AI glasses",
-      "summary": "While it can be jarring to discover that your companion is using AI glasses, there are some steps you can take to recognize them ASAP.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/",
-      "publishedAt": "2026-10-27T22:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-best-ways-to-tell-if-someone-is-using-ai-glasses/l-intro-1792775168.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
-      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "publishedAt": "2026-10-27T21:44:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support",
-      "summary": "You can use the AI assistant to update calendar events and search your inbox, among other things.",
-      "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
-      "publishedAt": "2026-10-27T21:13:59.000Z",
-      "image": "https://www.engadget.com/img/gallery/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/l-intro-1793135485.jpg"
     }
   ]
 }
