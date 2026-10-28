@@ -7701,6 +7701,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/uk-considering-forcing-data-centers-to-invest-in-local-communities-as-part-of-ai-covenant-and-it-shows-getting-angry-at-developers-can-massively-benefit-working-people": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-28T12:57:23.297Z",
+        "message_id": 689,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
