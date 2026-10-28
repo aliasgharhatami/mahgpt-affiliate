@@ -7752,6 +7752,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-28T21:53:09.351Z",
+        "message_id": 692,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
