@@ -1,11 +1,16 @@
 name: Gerde Giti - FIRST REEL quality cloud prototype (PREVIEW ONLY)
 on:
+  push:
+    branches: [main]
+    paths:
+      - "gardagard-giti/automation/quality_kore_voice.py"
+      - ".github/workflows/giti-cloud-quality-check.yml"
   workflow_dispatch:
     inputs:
       storyboard:
         description: "Path to an independently reviewed scene storyboard JSON within this repository"
         required: true
-        default: "gardagard-giti/automation/quality-jobs/approved-storyboard.json"
+        default: "gardagard-giti/automation/quality-jobs/2026-10-26-nasa-red-leaves-preview.json"
         type: string
 permissions:
   contents: read
@@ -45,15 +50,9 @@ jobs:
           test -f "$JOB" || { echo "::error::Storyboard not yet reviewed and committed. No publishing."; exit 1; }
           python gardagard-giti/automation/quality_cloud_images.py --job "$JOB" --out "$RUNNER_TEMP/giti-input-assets"
       - name: Generate EXACT Kore Persian voice; fail if unavailable (never Edge/Dilara)
-        env:
-          JOB: ${{ inputs.storyboard || 'gardagard-giti/automation/quality-jobs/2026-10-26-nasa-red-leaves-preview.json' }}
-        run: |
-          python gardagard-giti/automation/quality_kore_voice.py --job "$RUNNER_TEMP/giti-input-assets/asset_resolved_review_only.json" --out "$RUNNER_TEMP/giti-kore"
+        run: python gardagard-giti/automation/quality_kore_voice.py --job "$RUNNER_TEMP/giti-input-assets/asset_resolved_review_only.json" --out "$RUNNER_TEMP/giti-kore"
       - name: Render branded Full HD using original approved first Reel header/footer and visuals
-        env:
-          JOB: ${{ inputs.storyboard || 'gardagard-giti/automation/quality-jobs/2026-10-26-nasa-red-leaves-preview.json' }}
-        run: |
-          python gardagard-giti/automation/quality_reel_renderer.py --job "$RUNNER_TEMP/giti-input-assets/asset_resolved_review_only.json" --audio "$RUNNER_TEMP/giti-kore/narration.wav" --timing "$RUNNER_TEMP/giti-kore/timing.json" --out "$RUNNER_TEMP/giti-reel"
+        run: python gardagard-giti/automation/quality_reel_renderer.py --job "$RUNNER_TEMP/giti-input-assets/asset_resolved_review_only.json" --audio "$RUNNER_TEMP/giti-kore/narration.wav" --timing "$RUNNER_TEMP/giti-kore/timing.json" --out "$RUNNER_TEMP/giti-reel"
       - name: Verify production voice, dimensions, scene variety and no auto publishing
         run: |
           python - <<'PY'
