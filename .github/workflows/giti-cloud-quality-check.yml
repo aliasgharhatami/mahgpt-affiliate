@@ -1,5 +1,11 @@
 name: Gerde Giti - FIRST REEL quality cloud prototype (PREVIEW ONLY)
 on:
+  push:
+    branches: [main]
+    paths:
+      - "gardagard-giti/automation/quality-jobs/2026-10-26-nasa-red-leaves-preview.json"
+      - "gardagard-giti/automation/quality_reel_renderer.py"
+      - ".github/workflows/giti-cloud-quality-check.yml"
   workflow_dispatch:
     inputs:
       storyboard:
