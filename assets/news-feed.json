@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T10:35:10.531Z",
+  "updatedAt": "2026-10-28T06:05:06.608Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "These iOS 27.2 features will make you want to download the latest updates right away",
-      "summary": "Macworld After weeks of development with enrolled beta testers, iOS 27.2 is available to all iPhone users as a stable release, along with macOS, iPadOS, watchOS, and tvOS. The first major update to iOS 27 introduces several handy enhancements to Siri AI, along with some major additions to Apple TV a",
-      "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3269963/these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away.html",
-      "publishedAt": "2026-10-27T10:30:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3269963-0-01704500-1793097030-iOS-27.2-update-hero.jpg?quality=50&strip=all&w=1024"
+      "tool": "elevenlabs",
+      "toolName": "ElevenLabs",
+      "category": "Partner watch",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "guide": "/partners/elevenlabs.html",
+      "source": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "publishedAt": "2026-10-27T18:55:35.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800"
+    },
+    {
+      "tool": "surfer",
+      "toolName": "Surfer",
+      "category": "Partner watch",
+      "title": "Apple’s new iPad mini is a Duo you can’t close",
+      "summary": "Macworld There was no event, no livestream, no video presentation; just a press release and an update to Apple’s website. But as low-key, start-of-the-week product refreshes go, the 8th-gen iPad mini announcement was oddly impressive. It has a much faster processor, jumping three generations from A1",
+      "guide": "/partners/surfer.html",
+      "source": "https://www.macworld.com/article/3270413/apples-new-ipad-mini-is-a-duo-you-cant-close.html",
+      "publishedAt": "2026-10-27T18:56:16.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3270413-0-48205100-1793127798-ipad-mini-2026.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Netherlands to replace 25,000 government jobs with AI in efficiency drive to save €3.5 billion",
-      "summary": "The Dutch government is looking to increase productivity by 20%, and apparently cutting 25,000 jobs will help them get there.",
+      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/netherlands-to-replace-25-000-government-jobs-with-ai-in-efficiency-drive-to-save-eur3-5-billion",
-      "publishedAt": "2026-10-27T10:13:04.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/TjxYb9uQxEWhLVTqBj9pwW-2124-80.jpg"
+      "source": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+      "publishedAt": "2026-10-28T06:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ae127c278c885541c89a02e/191:100/w_1280,c_limit/Business_Should%20AI%20Decide%20Your%20Court%20Case%20This%20Judge%20Says%20Yes_v1.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Pro and Tell event live blog: Apple’s final launch of 2026 happens now",
-      "summary": "Macworld Apple has had a busy fall, with the launch of the iPhone Duo, HomeView smart hub, and the M5 Ultra Mac Studio. But there’s one more event this week, and it might be the biggest of all. And you can follow every rumor and announcement with us right here. Apple kicked off its week of releases ",
+      "title": "Apple is making Creator Studio an even better deal with new AI features and creative tools",
+      "summary": "Apple Creator Studio is getting a major update with new AI features and MotionVFX content for Final Cut Pro.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/computing/websites-apps/apple-creator-studio-is-getting-even-better-with-new-ai-tools-and-a-big-final-cut-pro-upgrade",
+      "publishedAt": "2026-10-28T03:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/p7gY26uMVEmhkFq3DCU6z3.gif"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Pro and Tell event live blog: Watch as Apple unveils its first touchscreen MacBook",
+      "summary": "Macworld Apple has had a busy fall, with the launch of the iPhone Duo, HomeView smart hub, and the M5 Ultra Mac Studio. But there’s one more event this week, and it might be the biggest of all. And you can follow every rumor and announcement with us right here. As you can guess by the thinly veiled ",
       "guide": "/news/index.html",
       "source": "https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html",
-      "publishedAt": "2026-10-27T09:57:18.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268887-0-01734000-1793095049-apple-pro-and-tell-live.jpg?quality=50&strip=all&w=1024"
+      "publishedAt": "2026-10-28T03:09:13.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3268887-0-06603800-1793156994-apple-pro-and-tell-live.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
-      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "title": "Moscow could design an F-22 rival using an AI model from Russia's JPMorgan Chase — Sberbank GigaChat used its LLM for a 'generative design of a new aircraft'",
+      "summary": "Russia's UAC is testing Sberbank's GigaChat for aircraft design as sanctions accelerate domestic software adoption.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
-      "publishedAt": "2026-10-27T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/191:100/w_1280,c_limit/gear-ai-agent-best.jpg"
+      "source": "https://www.techradar.com/pro/moscow-could-design-an-f-22-rival-using-an-ai-model-from-russias-jpmorgan-chase-sberbank-gigachat-used-its-llm-for-a-generative-design-of-a-new-aircraft",
+      "publishedAt": "2026-10-28T02:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/yTNrDqajHjmxN5dy9DkvdR-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "‘You want to control your own AI’: Pegasus spyware founder tells governments to push for sovereign AI and national security over reliance on US AI",
-      "summary": "Former spyware head tells governments to focus on national security when it comes to AI.",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/security/you-want-to-control-your-own-ai-pegasus-spyware-founder-tells-governments-to-push-for-sovereign-ai-and-national-security-over-reliance-on-us-ai",
-      "publishedAt": "2026-10-27T03:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/HXjwb27v3qiaB8u9JLsKiT-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "publishedAt": "2026-10-27T22:55:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "title": "The best ways to tell if someone is using AI glasses",
+      "summary": "While it can be jarring to discover that your companion is using AI glasses, there are some steps you can take to recognize them ASAP.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "publishedAt": "2026-10-27T02:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800"
+      "source": "https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/",
+      "publishedAt": "2026-10-27T22:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-best-ways-to-tell-if-someone-is-using-ai-glasses/l-intro-1792775168.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "publishedAt": "2026-10-27T01:12:21.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800"
+      "source": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "publishedAt": "2026-10-27T21:44:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI agents need limits on financial access",
-      "summary": "AI agents are gaining access to bank accounts, raising serious concerns about security and whether the technology industry's obsession with automation is putting people's money at unnecessary risk.",
+      "title": "ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support",
+      "summary": "You can use the AI assistant to update calendar events and search your inbox, among other things.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/ai-agents-are-going-rogue-inside-bank-accounts-and-this-is-exactly-what-ive-been-worried-about",
-      "publishedAt": "2026-10-27T01:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/JAEM79XyaEgkCyGCFJjHo5-2560-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Nvidia reveals its mega DSX POD modular 'AI factory' — so could the latest Vera Rubin hardware actually help make data centers more energy efficient?",
-      "summary": "Nvidia's DSX POD combines Vera Rubin hardware with factory-built containers, promising faster AI data center deployment and reduced installation work.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/nvidia-reveals-its-mega-dsx-pod-modular-ai-factory-featuring-the-latest-vera-rubin-hardware-and-a-promise-to-make-data-centers-more-energy-efficient",
-      "publishedAt": "2026-10-26T23:35:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4P5rRWRzzS7SaNshdMmiU7-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "OpenClaw creator Peter Steinberger claims he spent $10 million in tokens in just a month — but luckily OpenAI can afford it",
-      "summary": "The creator of OpenClaw has admitted to spending big money on AI tokens, which may impact how OpenAI investors view the company.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/openclaw-creator-peter-steinberger-claims-he-spent-usd10-million-in-tokens-in-just-a-month-but-luckily-openai-can-afford-it",
-      "publishedAt": "2026-10-26T23:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/DTZvZXmPaA8zMJoW733ZVa-1920-80.png"
+      "source": "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
+      "publishedAt": "2026-10-27T21:13:59.000Z",
+      "image": "https://www.engadget.com/img/gallery/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/l-intro-1793135485.jpg"
     }
   ]
 }
