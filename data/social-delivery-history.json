@@ -7735,6 +7735,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/why-uk-marketers-need-mobile-grade-measurement-before-ai-can-deliver-on-roi": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-28T18:53:41.634Z",
+        "message_id": 691,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
