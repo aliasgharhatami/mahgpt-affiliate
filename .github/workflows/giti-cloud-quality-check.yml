@@ -70,6 +70,9 @@ jobs:
         with:
           name: gerde-giti-first-approved-style-cloud-preview
           path: |
-            ${{ runner.temp }}/giti-reel/{reel.mp4,cover.jpg,caption.txt,manifest.json}
+            ${{ runner.temp }}/giti-reel/reel.mp4
+            ${{ runner.temp }}/giti-reel/cover.jpg
+            ${{ runner.temp }}/giti-reel/caption.txt
+            ${{ runner.temp }}/giti-reel/manifest.json
           retention-days: 7
           if-no-files-found: error
