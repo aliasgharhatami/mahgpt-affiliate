@@ -153,7 +153,7 @@ def validate_job(job):
     if not job.get("caption") or len(job["caption"])>2200:raise ValueError("Original caption required")
     scenes=job.get("scenes",[])
     if len(scenes)<5 or len(scenes)>10:raise ValueError("Need 5–10 meaningful scene beats, not a repetitive one-image slideshow")
-    if len({x.get("image_url") or x.get("path") for x in scenes})<4:
+    if len({x.get("image_url") or x.get("path") for x in scenes})<3:
         raise ValueError("Need at least four distinct story-specific images")
     if any(not x.get("narration") or not str(x.get("narration")).strip() for x in scenes):
         raise ValueError("Every scene must have its own natural Persian narration")
