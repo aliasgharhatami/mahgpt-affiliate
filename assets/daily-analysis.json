@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T10:35:20.745Z",
-  "analysis_date": "2026-10-27",
+  "generated_at": "2026-10-28T11:21:28.413Z",
+  "analysis_date": "2026-10-28",
   "stories": [
     {
-      "title": "These iOS 27.2 features will make you want to download the latest updates right away",
-      "source": "https://www.macworld.com/article/3269963/these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away.html",
-      "mahgpt_url": "/news/story.html?id=these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away"
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "source": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "mahgpt_url": "/news/story.html?id=disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies"
     },
     {
-      "title": "Netherlands to replace 25,000 government jobs with AI in efficiency drive to save €3.5 billion",
-      "source": "https://www.techradar.com/pro/netherlands-to-replace-25-000-government-jobs-with-ai-in-efficiency-drive-to-save-eur3-5-billion",
-      "mahgpt_url": "/news/story.html?id=netherlands-to-replace-25-000-government-jobs-with-ai-in-efficiency-drive-to-save-3-5-bill"
+      "title": "Apple’s new iPad mini is a Duo you can’t close",
+      "source": "https://www.macworld.com/article/3270413/apples-new-ipad-mini-is-a-duo-you-cant-close.html",
+      "mahgpt_url": "/news/story.html?id=apples-new-ipad-mini-is-a-duo-you-cant-close"
     },
     {
-      "title": "Pro and Tell event live blog: Apple’s final launch of 2026 happens now",
-      "source": "https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html",
-      "mahgpt_url": "/news/story.html?id=pro-and-tell-event-live-blog-apples-final-launch-of-2026-happens-now"
+      "title": "UK considering forcing data centers to invest in local communities as part of AI “covenant” — and it shows getting angry at developers can massively benefit working people",
+      "source": "https://www.techradar.com/pro/uk-considering-forcing-data-centers-to-invest-in-local-communities-as-part-of-ai-covenant-and-it-shows-getting-angry-at-developers-can-massively-benefit-working-people",
+      "mahgpt_url": "/news/story.html?id=uk-considering-forcing-data-centers-to-invest-in-local-communities-as-part-of-ai-covenant-"
     },
     {
-      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
-      "source": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
-      "mahgpt_url": "/news/story.html?id=i-tested-every-major-ai-agent-for-a-day-heres-the-best-one"
+      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+      "source": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+      "mahgpt_url": "/news/story.html?id=macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-late"
     },
     {
-      "title": "‘You want to control your own AI’: Pegasus spyware founder tells governments to push for sovereign AI and national security over reliance on US AI",
-      "source": "https://www.techradar.com/pro/security/you-want-to-control-your-own-ai-pegasus-spyware-founder-tells-governments-to-push-for-sovereign-ai-and-national-security-over-reliance-on-us-ai",
-      "mahgpt_url": "/news/story.html?id=you-want-to-control-your-own-ai-pegasus-spyware-founder-tells-governments-to-push-for-sove"
+      "title": "Why UK marketers need mobile-grade measurement before AI can deliver on ROI",
+      "source": "https://www.techradar.com/pro/why-uk-marketers-need-mobile-grade-measurement-before-ai-can-deliver-on-roi",
+      "mahgpt_url": "/news/story.html?id=why-uk-marketers-need-mobile-grade-measurement-before-ai-can-deliver-on-roi"
     },
     {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "source": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "mahgpt_url": "/news/story.html?id=how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant"
+      "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
+      "source": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
+      "mahgpt_url": "/news/story.html?id=metas-waddle-world-is-a-tamagotchi-like-ai-pet-app"
     },
     {
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "source": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "mahgpt_url": "/news/story.html?id=cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing"
+      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+      "source": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+      "mahgpt_url": "/news/story.html?id=ai-emergency-alerts-are-coming-humans-might-not-be-ready"
     },
     {
-      "title": "AI agents need limits on financial access",
-      "source": "https://www.techradar.com/ai-platforms-assistants/ai-agents-are-going-rogue-inside-bank-accounts-and-this-is-exactly-what-ive-been-worried-about",
-      "mahgpt_url": "/news/story.html?id=ai-agents-need-limits-on-financial-access"
+      "title": "Clear out your iPhone storage with this $29.99 lifetime deal",
+      "source": "https://www.macworld.com/article/3271000/clear-out-your-iphone-storage-with-this-29-99-lifetime-deal.html",
+      "mahgpt_url": "/news/story.html?id=clear-out-your-iphone-storage-with-this-29-99-lifetime-deal"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-27.html"
+      "path": "news/analysis/2026-10-28.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-27.html"
+      "path": "es/news/analysis/2026-10-28.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-27.html"
+      "path": "de/news/analysis/2026-10-28.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-27.html"
+      "path": "fr/news/analysis/2026-10-28.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-27.html"
+      "path": "pt-BR/news/analysis/2026-10-28.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-27.html"
+      "path": "ar/news/analysis/2026-10-28.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-27.html"
+      "path": "fa/news/analysis/2026-10-28.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-27.html"
+      "path": "tr/news/analysis/2026-10-28.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-27.html"
+      "path": "it/news/analysis/2026-10-28.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-27.html"
+      "path": "ja/news/analysis/2026-10-28.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-27.html"
+      "path": "ko/news/analysis/2026-10-28.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-27.html"
+      "path": "id/news/analysis/2026-10-28.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-27.html"
+      "path": "hi/news/analysis/2026-10-28.html"
     }
   ]
 }
