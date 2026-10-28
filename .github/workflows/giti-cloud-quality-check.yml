@@ -28,6 +28,13 @@ jobs:
           python-version: "3.11"
       - name: Install open-source raster/FFmpeg plus free-tier capable Kore TTS client
         run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-vazirmatn
+          BOLD="$(fc-match -f '%{file}' 'Vazirmatn:style=Bold')"
+          REGULAR="$(fc-match -f '%{file}' 'Vazirmatn:style=Regular')"
+          test -s "$BOLD" && test -s "$REGULAR"
+          echo "GITI_FONT_BOLD=$BOLD" >> "$GITHUB_ENV"
+          echo "GITI_FONT_REGULAR=$REGULAR" >> "$GITHUB_ENV"
           python -m pip install -q pillow "google-genai>=2.25.0" imageio-ffmpeg
           python - <<'PY'
           import os,pathlib,imageio_ffmpeg
