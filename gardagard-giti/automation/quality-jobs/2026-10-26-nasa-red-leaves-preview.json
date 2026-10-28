@@ -5,13 +5,13 @@
   "country_fa": "جهان",
   "location_fa": "مدار زمین",
   "source_url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
-  "caption": "ماهوارهٔ PACE ناسا حالا تغییر رنگ برگ‌ها را در مقیاس زمین دنبال می‌کند؛ از شمال آغاز می‌شود و با پاییز جابه‌جا می‌شود. تصاویر واقعی: NASA Earth Observatory / Lauren Dauphin. یک نمای مکمل در ویدیو «بازسازی تصویری» با ChatGPT Images است. منبع: NASA Earth Observatory، ۲۶ اکتبر ۲۰۲۶. #گرد_گیتی #خبر_جهان #ناسا #پاییز",
+  "caption": "ماهوارهٔ PACE ناسا حالا تغییر رنگ برگ‌ها را در مقیاس زمین دنبال می‌کند؛ از شمال آغاز می‌شود و با پاییز جابه‌جا می‌شود. تصاویر: NASA Earth Observatory / Lauren Dauphin. منبع: NASA Earth Observatory، ۲۶ اکتبر ۲۰۲۶. #گرد_گیتی #خبر_جهان #ناسا #پاییز",
   "scenes": [
     {
-      "kind": "reconstruction",
-      "image_generator": "ChatGPT Images",
-      "image_url": "https://raw.githubusercontent.com/aliasgharhatami/mahgpt-affiliate/main/gardagard-giti/automation/test-assets/pace-satellite-reconstruction.jpg",
-      "human_subject_accuracy_reviewed": true,
+      "kind": "actual",
+      "license": "Public domain",
+      "rights_evidence_url": "https://science.nasa.gov/earth/faq/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261004.jpg",
       "story_relevance_checked": true,
       "narration": "ببین، ناسا برای پیدا کردن رنگ‌های پاییزی، این‌بار سرش را از پنجرهٔ یک ماهواره بیرون کرده."
     },
@@ -48,10 +48,10 @@
       "narration": "تصویر لندست از ورمونت هم خیلی قشنگ است؛ بالای کوه‌ها نارنجی‌اند و دره‌ها هنوز سبزند."
     },
     {
-      "kind": "reconstruction",
-      "image_generator": "ChatGPT Images",
-      "image_url": "https://raw.githubusercontent.com/aliasgharhatami/mahgpt-affiliate/main/gardagard-giti/automation/test-assets/pace-satellite-reconstruction.jpg",
-      "human_subject_accuracy_reviewed": true,
+      "kind": "actual",
+      "license": "Public domain",
+      "rights_evidence_url": "https://science.nasa.gov/earth/faq/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261011.jpg",
       "story_relevance_checked": true,
       "narration": "این فقط برای تماشای پاییز نیست؛ ناسا می‌گوید تغییر رنگ برگ‌ها می‌تواند سرنخ خشکسالی، آفت و بیماری باشد."
     },
