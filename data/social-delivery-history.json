@@ -7837,6 +7837,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/rogue-ai-is-a-wake-up-call-for-uk-digital-sovereignty": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-29T18:58:42.192Z",
+        "message_id": 697,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
