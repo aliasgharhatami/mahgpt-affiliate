@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-10-29",
-  "created_at": "2026-10-29T08:47:00.591Z",
-  "source_feed_updated_at": "2026-10-29T08:47:00.509Z",
+  "created_at": "2026-10-29T11:31:57.875Z",
+  "source_feed_updated_at": "2026-10-29T11:31:54.367Z",
   "items": [
     {
       "story_id": "https://www.macworld.com/article/3271644/edit-any-pdf-on-your-mac-with-this-39-99-lifetime-license.html",
@@ -27,10 +27,8 @@
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-10-29T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-29T08:47:07.635Z",
-        "message_id": 694,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-29T08:47:07.635Z"
       },
       "linkedin": {
         "status": "pending"
@@ -100,23 +98,23 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but-the-proof-wont-arrive-until-2027",
-      "source_url": "https://www.techradar.com/pro/fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but-the-proof-wont-arrive-until-2027",
-      "headline": "FADU wants to take the CPU out of AI storage by putting the file system inside the SSD, but the proof won't arrive until 2027",
-      "summary": "FADU's new SSD runs its own file system, so GPUs and DPUs can read files without CPU intervention, but samples won't land until Q3 2027.",
+      "story_id": "https://www.techradar.com/pro/why-ai-smart-glasses-need-a-privacy-first-approach",
+      "source_url": "https://www.techradar.com/pro/why-ai-smart-glasses-need-a-privacy-first-approach",
+      "headline": "Why AI smart glasses need a privacy-first approach",
+      "summary": "Thomas Dexmier of HTC breaks down why privacy must underpin AI smart glasses as adoption accelerates.",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/tZASHhh4xCHsCrTqVYKVzf-970-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/tZASHhh4xCHsCrTqVYKVzf-970-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 970,
-        "height": 545,
-        "aspectRatio": 1.7798165137614679,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-ai-smart-glasses-need-a-privacy-first-approach",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -136,7 +134,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-techradar-com-pro-fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putt-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-techradar-com-pro-why-ai-smart-glasses-need-a-privacy-first-approach-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -146,23 +144,23 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/nvidia-wants-to-turn-old-nuclear-power-plants-into-huge-ai-data-centers-but-says-it-draws-the-line-at-turning-them-back-on",
-      "source_url": "https://www.techradar.com/pro/nvidia-wants-to-turn-old-nuclear-power-plants-into-huge-ai-data-centers-but-says-it-draws-the-line-at-turning-them-back-on",
-      "headline": "Nvidia wants to turn old nuclear power plants into huge AI data centers",
-      "summary": "Nvidia and PreussenElektra are assessing Germany's retired nuclear sites for AI data centers, without restarting reactors or committing to construction.",
-      "source_name": "but says it draws the line at turning them back on",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ-1920-80.png",
+      "story_id": "https://www.techradar.com/pro/rogue-ai-is-a-wake-up-call-for-uk-digital-sovereignty",
+      "source_url": "https://www.techradar.com/pro/rogue-ai-is-a-wake-up-call-for-uk-digital-sovereignty",
+      "headline": "Rogue AI is a wake-up call for UK digital sovereignty",
+      "summary": "It is time for the UK to end its over-reliance on sovereign-washed cloud providers and establish true digital independence by backing British tech.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Y9gz3ntBvZYTntd8XpFxfL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Y9gz3ntBvZYTntd8XpFxfL-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
+        "width": 2560,
+        "height": 1440,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nvidia-wants-to-turn-old-nuclear-power-plants-into-huge-ai-data-centers",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=rogue-ai-is-a-wake-up-call-for-uk-digital-sovereignty",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -182,7 +180,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-techradar-com-pro-nvidia-wants-to-turn-old-nuclear-power-plants-into-h-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-techradar-com-pro-rogue-ai-is-a-wake-up-call-for-uk-digital-sovereignt-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -192,23 +190,23 @@
       }
     },
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "headline": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the lau",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0%2C10.634570719994%2C100%2C78.730858560013&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0%2C10.634570719994%2C100%2C78.730858560013&w=1200",
+      "story_id": "https://www.techradar.com/pro/oracle-thinks-ai-could-fix-your-customer-service-problems-before-you-even-know-they-exist",
+      "source_url": "https://www.techradar.com/pro/oracle-thinks-ai-could-fix-your-customer-service-problems-before-you-even-know-they-exist",
+      "headline": "Oracle thinks AI could fix your customer service problems before you even know they exist",
+      "summary": "Oracle wants to unlock the power of your data to analyze trends and identify complaints before customers even complain.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/pvZ7u9ocUtukdwrgaDoXiP-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pvZ7u9ocUtukdwrgaDoXiP-1920-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 622,
-        "aspectRatio": 1.9292604501607717,
-        "instagramCompatible": false
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=adam-mosseri-says-negativity-around-ai-is-going-to-get-worse",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=oracle-thinks-ai-could-fix-your-customer-service-problems-before-you-even-know-they-exist",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -227,29 +225,34 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-29/Adam-Mosseri-says-negativity-around-AI-is-going-to-get-worse--instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-theverge-com-ai-artificial-intelligence-1021644-adam-mosseri-instagram-story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-techradar-com-pro-oracle-thinks-ai-could-fix-your-customer-service-pro-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
+          "image-rejected"
         ]
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "source_url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "headline": "Google expands AI Search ads globally as core ad growth slows",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
-      "image_url": "",
-      "image_validation": null,
-      "image_mode": "fallback_card",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+      "story_id": "https://www.techradar.com/pro/navigating-the-new-normal-ai-powered-exploits-and-discovery",
+      "source_url": "https://www.techradar.com/pro/navigating-the-new-normal-ai-powered-exploits-and-discovery",
+      "headline": "Navigating the 'new normal': AI-powered exploits and discovery",
+      "summary": "AI is challenging the rules of vulnerability management, making speed of discovery a critical security challenge.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=navigating-the-new-normal-ai-powered-exploits-and-discovery",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -267,36 +270,35 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "assets/social-cards/2026-10-29/Google-expands-AI-Search-ads-globally-as-core-ad-growth-slows-landscape.png",
-      "fallback_image_instagram": "assets/social-cards/2026-10-29/Google-expands-AI-Search-ads-globally-as-core-ad-growth-slows-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-29/https-techcrunch-com-2026-10-28-google-expands-ai-search-ads-globally-as-core-ad-story.png",
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-techradar-com-pro-navigating-the-new-normal-ai-powered-exploits-and-di-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected",
-          "instagram-card-for-missing-source"
+          "image-rejected"
         ]
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/668892/should-i-buy-macbook-pro-now.html",
-      "source_url": "https://www.macworld.com/article/668892/should-i-buy-macbook-pro-now.html",
-      "headline": "Should you buy a MacBook Pro now? M6, touchscreen and older models compared",
-      "summary": "Macworld Apple has launched an M6 MacBook Pro alongside a new touchscreen MacBook Pro with M5 Pro and M5 Max chips. If you’re buying your first MacBook Pro or replacing an older model, now is a good time to consider your options – although we recommend reading independent reviews before committing.",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/668892-0-70676800-1793222897-MacBook-Pro-should-I-buy.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/668892-0-70676800-1793222897-MacBook-Pro-should-I-buy.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "source_url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "headline": "AI has come for Arizona’s water",
+      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surro",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
-        "instagramCompatible": true
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
       },
       "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=should-you-buy-a-macbook-pro-now-m6-touchscreen-and-older-models-compared",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-has-come-for-arizonas-water",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -315,34 +317,35 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-macworld-com-article-668892-should-i-buy-macbook-pro-now-html-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-29/AI-has-come-for-Arizona-s-water-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-theverge-com-cs-features-1016650-arizona-water-data-center-tsmc-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "source_url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "headline": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800",
+      "story_id": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "source_url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "headline": "I Gave My Blood to the AI Death Clock",
+      "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6adbec3437abe86dfce58fe9/191:100/w_1280,c_limit/WIRED-Ghost-Stories-Death-Clock.jpg",
+      "image_url": "https://media.wired.com/photos/6adbec3437abe86dfce58fe9/191:100/w_1280,c_limit/WIRED-Ghost-Stories-Death-Clock.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
       },
       "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=i-gave-my-blood-to-the-ai-death-clock",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -361,34 +364,35 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-29/https-techcrunch-com-2026-10-28-microsoft-hits-10-quarters-of-record-breaking-re-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-29/I-Gave-My-Blood-to-the-AI-Death-Clock-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-wired-com-story-i-gave-an-ai-death-clock-my-blood--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     },
     {
-      "story_id": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
-      "source_url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
-      "headline": "Google says its investments in AI are driving more searches",
-      "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact, our",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "story_id": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
+      "source_url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
+      "headline": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+      "summary": "Google's latest Gemini 4 Carbon AI model boasts top benchmark scores in areas like cybersecurity and coding.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/l-intro-1793266804.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/l-intro-1793266804.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
+        "width": 1600,
+        "height": 900,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-says-its-investments-in-ai-are-driving-more-searches",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -407,35 +411,34 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-29/Google-says-its-investments-in-AI-are-driving-more-searches-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-theverge-com-tech-1020811-alphabet-google-earnings-q3-2026-story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-engadget-com-2300677-google-gemini-carbon-promises-significant-leap-in-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
+          "image-rejected"
         ]
       }
     },
     {
-      "story_id": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "source_url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "headline": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "story_id": "https://www.creativebloq.com/news/pradas-hand-drawn-holiday-campaign-is-an-utter-joy-and-a-sharp-lesson-for-coca-cola",
+      "source_url": "https://www.creativebloq.com/news/pradas-hand-drawn-holiday-campaign-is-an-utter-joy-and-a-sharp-lesson-for-coca-cola",
+      "headline": "Prada's hand-drawn holiday campaign is an utter joy – and a sharp lesson for Coca-Cola",
+      "summary": "This pencil-and-paper magic from animation veterans is a welcome break from AI slop.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/wEWPwWLhCZHuMc4xsQuzDA-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wEWPwWLhCZHuMc4xsQuzDA-1920-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-launches-gemini-4-carbon-with-a-significant-leap-in-cybersecurity",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=pradas-hand-drawn-holiday-campaign-is-an-utter-joy-and-a-sharp-lesson-for-coca-cola",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -454,14 +457,13 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-29/Google-launches-Gemini-4-Carbon-with-a-significant-leap-in-cybersecurity-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-theverge-com-tech-1021339-google-gemini-4-carbon-cybersecurity-frontie-story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-creativebloq-com-news-pradas-hand-drawn-holiday-campaign-is-an-utter-j-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
+          "image-rejected"
         ]
       }
     }

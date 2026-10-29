@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T11:21:28.413Z",
-  "analysis_date": "2026-10-28",
+  "generated_at": "2026-10-29T11:32:02.803Z",
+  "analysis_date": "2026-10-29",
   "stories": [
     {
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "source": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "mahgpt_url": "/news/story.html?id=disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies"
+      "title": "Edit any PDF on your Mac with this $39.99 lifetime license",
+      "source": "https://www.macworld.com/article/3271644/edit-any-pdf-on-your-mac-with-this-39-99-lifetime-license.html",
+      "mahgpt_url": "/news/story.html?id=edit-any-pdf-on-your-mac-with-this-39-99-lifetime-license"
     },
     {
-      "title": "Apple’s new iPad mini is a Duo you can’t close",
-      "source": "https://www.macworld.com/article/3270413/apples-new-ipad-mini-is-a-duo-you-cant-close.html",
-      "mahgpt_url": "/news/story.html?id=apples-new-ipad-mini-is-a-duo-you-cant-close"
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "source": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "mahgpt_url": "/news/story.html?id=voice-ai-in-vogue-nvidia-releases-new-open-transcription-model"
     },
     {
-      "title": "UK considering forcing data centers to invest in local communities as part of AI “covenant” — and it shows getting angry at developers can massively benefit working people",
-      "source": "https://www.techradar.com/pro/uk-considering-forcing-data-centers-to-invest-in-local-communities-as-part-of-ai-covenant-and-it-shows-getting-angry-at-developers-can-massively-benefit-working-people",
-      "mahgpt_url": "/news/story.html?id=uk-considering-forcing-data-centers-to-invest-in-local-communities-as-part-of-ai-covenant-"
+      "title": "Why AI smart glasses need a privacy-first approach",
+      "source": "https://www.techradar.com/pro/why-ai-smart-glasses-need-a-privacy-first-approach",
+      "mahgpt_url": "/news/story.html?id=why-ai-smart-glasses-need-a-privacy-first-approach"
     },
     {
-      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "source": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "mahgpt_url": "/news/story.html?id=macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-late"
+      "title": "Rogue AI is a wake-up call for UK digital sovereignty",
+      "source": "https://www.techradar.com/pro/rogue-ai-is-a-wake-up-call-for-uk-digital-sovereignty",
+      "mahgpt_url": "/news/story.html?id=rogue-ai-is-a-wake-up-call-for-uk-digital-sovereignty"
     },
     {
-      "title": "Why UK marketers need mobile-grade measurement before AI can deliver on ROI",
-      "source": "https://www.techradar.com/pro/why-uk-marketers-need-mobile-grade-measurement-before-ai-can-deliver-on-roi",
-      "mahgpt_url": "/news/story.html?id=why-uk-marketers-need-mobile-grade-measurement-before-ai-can-deliver-on-roi"
+      "title": "Oracle thinks AI could fix your customer service problems before you even know they exist",
+      "source": "https://www.techradar.com/pro/oracle-thinks-ai-could-fix-your-customer-service-problems-before-you-even-know-they-exist",
+      "mahgpt_url": "/news/story.html?id=oracle-thinks-ai-could-fix-your-customer-service-problems-before-you-even-know-they-exist"
     },
     {
-      "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
-      "source": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
-      "mahgpt_url": "/news/story.html?id=metas-waddle-world-is-a-tamagotchi-like-ai-pet-app"
+      "title": "Navigating the 'new normal': AI-powered exploits and discovery",
+      "source": "https://www.techradar.com/pro/navigating-the-new-normal-ai-powered-exploits-and-discovery",
+      "mahgpt_url": "/news/story.html?id=navigating-the-new-normal-ai-powered-exploits-and-discovery"
     },
     {
-      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "source": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "mahgpt_url": "/news/story.html?id=ai-emergency-alerts-are-coming-humans-might-not-be-ready"
+      "title": "AI has come for Arizona’s water",
+      "source": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "mahgpt_url": "/news/story.html?id=ai-has-come-for-arizonas-water"
     },
     {
-      "title": "Clear out your iPhone storage with this $29.99 lifetime deal",
-      "source": "https://www.macworld.com/article/3271000/clear-out-your-iphone-storage-with-this-29-99-lifetime-deal.html",
-      "mahgpt_url": "/news/story.html?id=clear-out-your-iphone-storage-with-this-29-99-lifetime-deal"
+      "title": "I Gave My Blood to the AI Death Clock",
+      "source": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "mahgpt_url": "/news/story.html?id=i-gave-my-blood-to-the-ai-death-clock"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-28.html"
+      "path": "news/analysis/2026-10-29.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-28.html"
+      "path": "es/news/analysis/2026-10-29.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-28.html"
+      "path": "de/news/analysis/2026-10-29.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-28.html"
+      "path": "fr/news/analysis/2026-10-29.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-28.html"
+      "path": "pt-BR/news/analysis/2026-10-29.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-28.html"
+      "path": "ar/news/analysis/2026-10-29.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-28.html"
+      "path": "fa/news/analysis/2026-10-29.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-28.html"
+      "path": "tr/news/analysis/2026-10-29.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-28.html"
+      "path": "it/news/analysis/2026-10-29.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-28.html"
+      "path": "ja/news/analysis/2026-10-29.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-28.html"
+      "path": "ko/news/analysis/2026-10-29.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-28.html"
+      "path": "id/news/analysis/2026-10-29.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-28.html"
+      "path": "hi/news/analysis/2026-10-29.html"
     }
   ]
 }
