@@ -7803,6 +7803,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-29T11:32:42.141Z",
+        "message_id": 695,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
