@@ -7786,6 +7786,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3271644/edit-any-pdf-on-your-mac-with-this-39-99-lifetime-license.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-29T08:47:07.635Z",
+        "message_id": 694,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

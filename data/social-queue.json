@@ -1,353 +1,17 @@
 {
   "version": 1,
-  "queue_date": "2026-10-28",
-  "created_at": "2026-10-28T11:21:22.257Z",
-  "source_feed_updated_at": "2026-10-28T11:21:14.116Z",
+  "queue_date": "2026-10-29",
+  "created_at": "2026-10-29T08:47:00.591Z",
+  "source_feed_updated_at": "2026-10-29T08:47:00.509Z",
   "items": [
     {
-      "story_id": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "source_url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "headline": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
-      "detected_partner": "elevenlabs",
-      "product_url": "/go/elevenlabs.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-28T05:20:00.000Z",
-      "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-10-28T06:05:12.888Z"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-28/https-techcrunch-com-2026-10-27-disruptive-raises-10b-fund-to-make-big-bets-on-a-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3270413/apples-new-ipad-mini-is-a-duo-you-cant-close.html",
-      "source_url": "https://www.macworld.com/article/3270413/apples-new-ipad-mini-is-a-duo-you-cant-close.html",
-      "headline": "Apple’s new iPad mini is a Duo you can’t close",
-      "summary": "Macworld There was no event, no livestream, no video presentation; just a press release and an update to Apple’s website. But as low-key, start-of-the-week product refreshes go, the 8th-gen iPad mini announcement was oddly impressive. It has a much faster processor, jumping three generations from A1",
+      "story_id": "https://www.macworld.com/article/3271644/edit-any-pdf-on-your-mac-with-this-39-99-lifetime-license.html",
+      "source_url": "https://www.macworld.com/article/3271644/edit-any-pdf-on-your-mac-with-this-39-99-lifetime-license.html",
+      "headline": "Edit any PDF on your Mac with this $39.99 lifetime license",
+      "summary": "Macworld TL;DR: Edit, sign, and redact PDFs with a lifetime PDF Reader Pro Premium license for Mac, now $39.99 (reg. $79.99). Changing the text in a PDF usually means paying Adobe for an Acrobat subscription every month you need it. PDF Reader Pro edits a PDF’s text and images the way you’d edit a W",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3270413-0-48205100-1793127798-ipad-mini-2026.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3270413-0-48205100-1793127798-ipad-mini-2026.jpg?quality=50&strip=all&w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 576,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apples-new-ipad-mini-is-a-duo-you-cant-close",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-28T07:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-28T11:22:04.881Z",
-        "message_id": 688,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-28/https-www-macworld-com-article-3270413-apples-new-ipad-mini-is-a-duo-you-cant-cl-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/uk-considering-forcing-data-centers-to-invest-in-local-communities-as-part-of-ai-covenant-and-it-shows-getting-angry-at-developers-can-massively-benefit-working-people",
-      "source_url": "https://www.techradar.com/pro/uk-considering-forcing-data-centers-to-invest-in-local-communities-as-part-of-ai-covenant-and-it-shows-getting-angry-at-developers-can-massively-benefit-working-people",
-      "headline": "UK considering forcing data centers to invest in local communities as part of AI “covenant” — and it shows getting angry at developers can massively benefit working people",
-      "summary": "The British public aren't happy about data centers, but the government thinks more investment could change that.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/RoGbuhjUxKCZ6eka42JjoW-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/RoGbuhjUxKCZ6eka42JjoW-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=uk-considering-forcing-data-centers-to-invest-in-local-communities-as-part-of-ai-covenant-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-28T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-28T12:57:23.297Z",
-        "message_id": 689,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-28/https-www-techradar-com-pro-uk-considering-forcing-data-centers-to-invest-in-loc-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "source_url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "headline": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/191:100/w_1280,c_limit/culture_macmillon_failed_ai_project.jpg",
-      "image_url": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/191:100/w_1280,c_limit/culture_macmillon_failed_ai_project.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-late",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-28T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-28T17:20:07.647Z",
-        "message_id": 690,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-28/Macmillan-Staff-Say-the-Publisher-Threw-a-Party-for-a-Workplace-AI-Assistant-Tha-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-28/https-www-wired-com-story-macmillan-staff-say-the-publisher-threw-a-party-for-a--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/why-uk-marketers-need-mobile-grade-measurement-before-ai-can-deliver-on-roi",
-      "source_url": "https://www.techradar.com/pro/why-uk-marketers-need-mobile-grade-measurement-before-ai-can-deliver-on-roi",
-      "headline": "Why UK marketers need mobile-grade measurement before AI can deliver on ROI",
-      "summary": "How AI is leading to weak measurement practices that impact the bottom line.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=why-uk-marketers-need-mobile-grade-measurement-before-ai-can-deliver-on-roi",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-28T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-28T18:53:41.634Z",
-        "message_id": 691,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-28/https-www-techradar-com-pro-why-uk-marketers-need-mobile-grade-measurement-befor-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
-      "source_url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
-      "headline": "Meta's Waddle World is a Tamagotchi-like AI pet app",
-      "summary": "Meta describes Waddle World as a 'daily journal disguised as a pet.'",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/metas-waddle-world-is-a-tamagotchi-like-ai-digital-pet-app/l-intro-1793176733.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/metas-waddle-world-is-a-tamagotchi-like-ai-digital-pet-app/l-intro-1793176733.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 899,
-        "aspectRatio": 1.7797552836484982,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=metas-waddle-world-is-a-tamagotchi-like-ai-pet-app",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-28T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-28T21:53:09.351Z",
-        "message_id": 692,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-28/https-www-engadget-com-2299227-meta-tamagotchi-like-ai-digital-pet-app-waddle-wo-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "source_url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "headline": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6ae1120223d445186a16d911/191:100/w_1280,c_limit/ai-weather-alerts-emergency.jpg",
-      "image_url": "https://media.wired.com/photos/6ae1120223d445186a16d911/191:100/w_1280,c_limit/ai-weather-alerts-emergency.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-emergency-alerts-are-coming-humans-might-not-be-ready",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-28T17:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-28T23:15:12.419Z",
-        "message_id": 693,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-28/AI-Emergency-Alerts-Are-Coming-Humans-Might-Not-Be-Ready-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-28/https-www-wired-com-story-ai-emergency-alerts-coming-humans-not-ready--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.macworld.com/article/3271000/clear-out-your-iphone-storage-with-this-29-99-lifetime-deal.html",
-      "source_url": "https://www.macworld.com/article/3271000/clear-out-your-iphone-storage-with-this-29-99-lifetime-deal.html",
-      "headline": "Clear out your iPhone storage with this $29.99 lifetime deal",
-      "summary": "Macworld TL;DR : Free up iPhone storage with a lifetime subscription to Cleaner Kit Premium, now $29.99 (reg. $104.97). An iPhone fills up quickly with burst shots, screenshots, and near-identical photos, and the usual fix is paying for a bigger iCloud plan. Cleaner Kit finds and deletes that clutte",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3271000-0-22556600-1793174442-Cleaner-Kit.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3271000-0-22556600-1793174442-Cleaner-Kit.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3271644-0-21207600-1793260819-PDF-Reader.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3271644-0-21207600-1793260819-PDF-Reader.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
@@ -357,11 +21,106 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=clear-out-your-iphone-storage-with-this-29-99-lifetime-deal",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=edit-any-pdf-on-your-mac-with-this-39-99-lifetime-license",
+      "detected_partner": "adobe",
+      "product_url": "https://www.adobe.com/products/firefly.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-10-29T05:20:00.000Z",
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-29T08:47:07.635Z",
+        "message_id": 694,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-macworld-com-article-3271644-edit-any-pdf-on-your-mac-with-this-39-99--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source_url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "headline": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 600,
+        "aspectRatio": 2,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
+      "detected_partner": "elevenlabs",
+      "product_url": "/go/elevenlabs.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-10-29T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-29/Voice-AI-in-vogue-Nvidia-releases-new-open-transcription-model-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-techcrunch-com-2026-10-28-voice-ai-in-vogue-nvidia-releases-new-open-trans-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but-the-proof-wont-arrive-until-2027",
+      "source_url": "https://www.techradar.com/pro/fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but-the-proof-wont-arrive-until-2027",
+      "headline": "FADU wants to take the CPU out of AI storage by putting the file system inside the SSD, but the proof won't arrive until 2027",
+      "summary": "FADU's new SSD runs its own file system, so GPUs and DPUs can read files without CPU intervention, but samples won't land until Q3 2027.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/tZASHhh4xCHsCrTqVYKVzf-970-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tZASHhh4xCHsCrTqVYKVzf-970-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 970,
+        "height": 545,
+        "aspectRatio": 1.7798165137614679,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-28T19:20:00.000Z",
+      "scheduled_publish_at": "2026-10-29T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -377,7 +136,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-28/https-www-macworld-com-article-3271000-clear-out-your-iphone-storage-with-this-2-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-techradar-com-pro-fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putt-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -387,27 +146,27 @@
       }
     },
     {
-      "story_id": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-      "source_url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-      "headline": "Should AI Decide Your Court Case? This Judge Says Yes",
-      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-      "source_name": "Wired",
-      "original_image_url": "https://media.wired.com/photos/6ae127c278c885541c89a02e/191:100/w_1280,c_limit/Business_Should%20AI%20Decide%20Your%20Court%20Case%20This%20Judge%20Says%20Yes_v1.jpg",
-      "image_url": "https://media.wired.com/photos/6ae127c278c885541c89a02e/191:100/w_1280,c_limit/Business_Should%20AI%20Decide%20Your%20Court%20Case%20This%20Judge%20Says%20Yes_v1.jpg",
+      "story_id": "https://www.techradar.com/pro/nvidia-wants-to-turn-old-nuclear-power-plants-into-huge-ai-data-centers-but-says-it-draws-the-line-at-turning-them-back-on",
+      "source_url": "https://www.techradar.com/pro/nvidia-wants-to-turn-old-nuclear-power-plants-into-huge-ai-data-centers-but-says-it-draws-the-line-at-turning-them-back-on",
+      "headline": "Nvidia wants to turn old nuclear power plants into huge AI data centers",
+      "summary": "Nvidia and PreussenElektra are assessing Germany's retired nuclear sites for AI data centers, without restarting reactors or committing to construction.",
+      "source_name": "but says it draws the line at turning them back on",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ-1920-80.png",
       "image_validation": {
         "valid": true,
-        "width": 1280,
-        "height": 670,
-        "aspectRatio": 1.9104477611940298,
-        "instagramCompatible": false
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=should-ai-decide-your-court-case-this-judge-says-yes",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nvidia-wants-to-turn-old-nuclear-power-plants-into-huge-ai-data-centers",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-28T21:20:00.000Z",
+      "scheduled_publish_at": "2026-10-29T11:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -422,8 +181,54 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-28/Should-AI-Decide-Your-Court-Case-This-Judge-Says-Yes-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-28/https-www-wired-com-story-geoffrey-vos-uk-judge-ai-legal-profession-challenges--story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-techradar-com-pro-nvidia-wants-to-turn-old-nuclear-power-plants-into-h-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "headline": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the lau",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0%2C10.634570719994%2C100%2C78.730858560013&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0%2C10.634570719994%2C100%2C78.730858560013&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 622,
+        "aspectRatio": 1.9292604501607717,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=adam-mosseri-says-negativity-around-ai-is-going-to-get-worse",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-29T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-29/Adam-Mosseri-says-negativity-around-AI-is-going-to-get-worse--instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-theverge-com-ai-artificial-intelligence-1021644-adam-mosseri-instagram-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -434,27 +239,68 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/computing/websites-apps/apple-creator-studio-is-getting-even-better-with-new-ai-tools-and-a-big-final-cut-pro-upgrade",
-      "source_url": "https://www.techradar.com/computing/websites-apps/apple-creator-studio-is-getting-even-better-with-new-ai-tools-and-a-big-final-cut-pro-upgrade",
-      "headline": "Apple is making Creator Studio an even better deal with new AI features and creative tools",
-      "summary": "Apple Creator Studio is getting a major update with new AI features and MotionVFX content for Final Cut Pro.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/p7gY26uMVEmhkFq3DCU6z3.gif",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/p7gY26uMVEmhkFq3DCU6z3.gif",
-      "image_validation": {
-        "valid": true,
-        "width": 760,
-        "height": 376,
-        "aspectRatio": 2.021276595744681,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
+      "story_id": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "source_url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "headline": "Google expands AI Search ads globally as core ad growth slows",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+      "image_url": "",
+      "image_validation": null,
+      "image_mode": "fallback_card",
       "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-is-making-creator-studio-an-even-better-deal-with-new-ai-features-and-creative-tools",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-28T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-29T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "assets/social-cards/2026-10-29/Google-expands-AI-Search-ads-globally-as-core-ad-growth-slows-landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-10-29/Google-expands-AI-Search-ads-globally-as-core-ad-growth-slows-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-techcrunch-com-2026-10-28-google-expands-ai-search-ads-globally-as-core-ad-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-missing-source"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/668892/should-i-buy-macbook-pro-now.html",
+      "source_url": "https://www.macworld.com/article/668892/should-i-buy-macbook-pro-now.html",
+      "headline": "Should you buy a MacBook Pro now? M6, touchscreen and older models compared",
+      "summary": "Macworld Apple has launched an M6 MacBook Pro alongside a new touchscreen MacBook Pro with M5 Pro and M5 Max chips. If you’re buying your first MacBook Pro or replacing an older model, now is a good time to consider your options – although we recommend reading independent reviews before committing.",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/668892-0-70676800-1793222897-MacBook-Pro-should-I-buy.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/668892-0-70676800-1793222897-MacBook-Pro-should-I-buy.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=should-you-buy-a-macbook-pro-now-m6-touchscreen-and-older-models-compared",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-29T17:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -469,8 +315,147 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-28/Apple-is-making-Creator-Studio-an-even-better-deal-with-new-AI-features-and-crea-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-28/https-www-techradar-com-computing-websites-apps-apple-creator-studio-is-getting--story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-macworld-com-article-668892-should-i-buy-macbook-pro-now-html-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "source_url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "headline": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-29T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-techcrunch-com-2026-10-28-microsoft-hits-10-quarters-of-record-breaking-re-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "source_url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "headline": "Google says its investments in AI are driving more searches",
+      "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact, our",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-says-its-investments-in-ai-are-driving-more-searches",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-29T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-29/Google-says-its-investments-in-AI-are-driving-more-searches-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-theverge-com-tech-1020811-alphabet-google-earnings-q3-2026-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source_url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "headline": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-launches-gemini-4-carbon-with-a-significant-leap-in-cybersecurity",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-29T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-29/Google-launches-Gemini-4-Carbon-with-a-significant-leap-in-cybersecurity-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-29/https-www-theverge-com-tech-1021339-google-gemini-4-carbon-cybersecurity-frontie-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

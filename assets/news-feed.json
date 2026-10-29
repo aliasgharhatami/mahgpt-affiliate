@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T11:21:14.116Z",
+  "updatedAt": "2026-10-29T08:47:00.509Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -16,114 +16,114 @@
   ],
   "items": [
     {
+      "tool": "adobe",
+      "toolName": "Adobe",
+      "category": "Partner watch",
+      "title": "Edit any PDF on your Mac with this $39.99 lifetime license",
+      "summary": "Macworld TL;DR: Edit, sign, and redact PDFs with a lifetime PDF Reader Pro Premium license for Mac, now $39.99 (reg. $79.99). Changing the text in a PDF usually means paying Adobe for an Acrobat subscription every month you need it. PDF Reader Pro edits a PDF’s text and images the way you’d edit a W",
+      "guide": "/partners/adobe.html",
+      "source": "https://www.macworld.com/article/3271644/edit-any-pdf-on-your-mac-with-this-39-99-lifetime-license.html",
+      "publishedAt": "2026-10-29T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3271644-0-21207600-1793260819-PDF-Reader.jpg?quality=50&strip=all&w=1024"
+    },
+    {
       "tool": "elevenlabs",
       "toolName": "ElevenLabs",
       "category": "Partner watch",
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
       "guide": "/partners/elevenlabs.html",
-      "source": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "publishedAt": "2026-10-27T18:55:35.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800"
-    },
-    {
-      "tool": "surfer",
-      "toolName": "Surfer",
-      "category": "Partner watch",
-      "title": "Apple’s new iPad mini is a Duo you can’t close",
-      "summary": "Macworld There was no event, no livestream, no video presentation; just a press release and an update to Apple’s website. But as low-key, start-of-the-week product refreshes go, the 8th-gen iPad mini announcement was oddly impressive. It has a much faster processor, jumping three generations from A1",
-      "guide": "/partners/surfer.html",
-      "source": "https://www.macworld.com/article/3270413/apples-new-ipad-mini-is-a-duo-you-cant-close.html",
-      "publishedAt": "2026-10-27T18:56:16.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3270413-0-48205100-1793127798-ipad-mini-2026.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "publishedAt": "2026-10-28T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "UK considering forcing data centers to invest in local communities as part of AI “covenant” — and it shows getting angry at developers can massively benefit working people",
-      "summary": "The British public aren't happy about data centers, but the government thinks more investment could change that.",
+      "title": "FADU wants to take the CPU out of AI storage by putting the file system inside the SSD, but the proof won't arrive until 2027",
+      "summary": "FADU's new SSD runs its own file system, so GPUs and DPUs can read files without CPU intervention, but samples won't land until Q3 2027.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/uk-considering-forcing-data-centers-to-invest-in-local-communities-as-part-of-ai-covenant-and-it-shows-getting-angry-at-developers-can-massively-benefit-working-people",
-      "publishedAt": "2026-10-28T11:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/RoGbuhjUxKCZ6eka42JjoW-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but-the-proof-wont-arrive-until-2027",
+      "publishedAt": "2026-10-29T04:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/tZASHhh4xCHsCrTqVYKVzf-970-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+      "title": "Nvidia wants to turn old nuclear power plants into huge AI data centers — but says it draws the line at turning them back on",
+      "summary": "Nvidia and PreussenElektra are assessing Germany's retired nuclear sites for AI data centers, without restarting reactors or committing to construction.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "publishedAt": "2026-10-28T10:15:00.000Z",
-      "image": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/191:100/w_1280,c_limit/culture_macmillon_failed_ai_project.jpg"
+      "source": "https://www.techradar.com/pro/nvidia-wants-to-turn-old-nuclear-power-plants-into-huge-ai-data-centers-but-says-it-draws-the-line-at-turning-them-back-on",
+      "publishedAt": "2026-10-29T01:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Why UK marketers need mobile-grade measurement before AI can deliver on ROI",
-      "summary": "How AI is leading to weak measurement practices that impact the bottom line.",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the lau",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/why-uk-marketers-need-mobile-grade-measurement-before-ai-can-deliver-on-roi",
-      "publishedAt": "2026-10-28T10:06:17.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-2560-80.jpg"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "publishedAt": "2026-10-28T23:05:39.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0%2C10.634570719994%2C100%2C78.730858560013&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
-      "summary": "Meta describes Waddle World as a 'daily journal disguised as a pet.'",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
-      "publishedAt": "2026-10-28T08:40:19.000Z",
-      "image": "https://www.engadget.com/img/gallery/metas-waddle-world-is-a-tamagotchi-like-ai-digital-pet-app/l-intro-1793176733.jpg"
+      "source": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "publishedAt": "2026-10-28T21:48:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+      "title": "Should you buy a MacBook Pro now? M6, touchscreen and older models compared",
+      "summary": "Macworld Apple has launched an M6 MacBook Pro alongside a new touchscreen MacBook Pro with M5 Pro and M5 Max chips . If you’re buying your first MacBook Pro or replacing an older model, now is a good time to consider your options – although we recommend reading independent reviews before committing.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "publishedAt": "2026-10-28T08:30:00.000Z",
-      "image": "https://media.wired.com/photos/6ae1120223d445186a16d911/191:100/w_1280,c_limit/ai-weather-alerts-emergency.jpg"
+      "source": "https://www.macworld.com/article/668892/should-i-buy-macbook-pro-now.html",
+      "publishedAt": "2026-10-28T21:28:08.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/668892-0-70676800-1793222897-MacBook-Pro-should-I-buy.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Clear out your iPhone storage with this $29.99 lifetime deal",
-      "summary": "Macworld TL;DR : Free up iPhone storage with a lifetime subscription to Cleaner Kit Premium, now $29.99 (reg. $104.97). An iPhone fills up quickly with burst shots, screenshots, and near-identical photos, and the usual fix is paying for a bigger iCloud plan. Cleaner Kit finds and deletes that clutte",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/3271000/clear-out-your-iphone-storage-with-this-29-99-lifetime-deal.html",
-      "publishedAt": "2026-10-28T08:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3271000-0-22556600-1793174442-Cleaner-Kit.jpg?quality=50&strip=all&w=1024"
+      "source": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "publishedAt": "2026-10-28T21:25:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+      "title": "Google says its investments in AI are driving more searches",
+      "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact, our",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-      "publishedAt": "2026-10-28T06:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ae127c278c885541c89a02e/191:100/w_1280,c_limit/Business_Should%20AI%20Decide%20Your%20Court%20Case%20This%20Judge%20Says%20Yes_v1.jpg"
+      "source": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "publishedAt": "2026-10-28T20:22:26.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple is making Creator Studio an even better deal with new AI features and creative tools",
-      "summary": "Apple Creator Studio is getting a major update with new AI features and MotionVFX content for Final Cut Pro.",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/computing/websites-apps/apple-creator-studio-is-getting-even-better-with-new-ai-tools-and-a-big-final-cut-pro-upgrade",
-      "publishedAt": "2026-10-28T03:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/p7gY26uMVEmhkFq3DCU6z3.gif"
+      "source": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "publishedAt": "2026-10-28T20:03:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     }
   ]
 }
