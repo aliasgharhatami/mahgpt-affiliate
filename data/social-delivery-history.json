@@ -7871,6 +7871,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/navigating-the-new-normal-ai-powered-exploits-and-discovery": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-29T23:19:22.461Z",
+        "message_id": 699,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
