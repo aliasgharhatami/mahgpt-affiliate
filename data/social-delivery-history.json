@@ -7854,6 +7854,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/oracle-thinks-ai-could-fix-your-customer-service-problems-before-you-even-know-they-exist": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-29T20:56:21.712Z",
+        "message_id": 698,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
