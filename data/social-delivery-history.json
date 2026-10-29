@@ -7820,6 +7820,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/why-ai-smart-glasses-need-a-privacy-first-approach": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-29T15:55:39.785Z",
+        "message_id": 696,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
