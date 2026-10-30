@@ -7922,6 +7922,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3272659/the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-30T11:25:55.139Z",
+        "message_id": 702,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
