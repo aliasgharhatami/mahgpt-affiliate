@@ -7956,6 +7956,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/hubspot-aeo-review": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-30T17:08:27.125Z",
+        "message_id": 704,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
