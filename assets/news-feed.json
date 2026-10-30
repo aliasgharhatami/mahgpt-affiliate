@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T06:30:45.879Z",
+  "updatedAt": "2026-10-30T11:25:08.739Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,12 +19,89 @@
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "Best Mac 2026: Every Apple Mac and MacBook compared",
-      "summary": "Macworld Choosing the best Mac in 2026 means finding the right combination of performance, features and price for the way you work. Whether you’re buying your first Mac, replacing an older computer or looking for more power, this guide will help you understand your options and choose with confidence",
+      "title": "The touchscreen isn’t the killer feature of the new MacBook Pro",
+      "summary": "Macworld Apple has finally brought a touch interface to the Mac, 43 years after the first commercial PC with a touchscreen, the HP 150 . It’s a momentous event in Apple history, one that longtime Mac users never thought would come. The new laptop is going to be mainly referred to as the “touchscreen",
       "guide": "/partners/adobe.html",
-      "source": "https://www.macworld.com/article/219909/best-mac.html",
-      "publishedAt": "2026-10-29T18:00:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/219909-0-07954000-1793296841-Best-Mac-to-buy.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.macworld.com/article/3272659/the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro.html",
+      "publishedAt": "2026-10-30T10:30:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3272659-0-37701600-1793356236-macbook-pro-proled-xdr-display-2026.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "runway",
+      "toolName": "Runway",
+      "category": "Partner watch",
+      "title": "The AI Act's longer runway is an opportunity to build governance that lasts",
+      "summary": "Europe’s extended AI timeline gives businesses time to build trusted, resilient governance now.",
+      "guide": "/partners/runway.html",
+      "source": "https://www.techradar.com/pro/the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts",
+      "publishedAt": "2026-10-30T11:01:24.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "HubSpot AEO review 2026",
+      "summary": "Useful AI search reports, provided you ask the right questions first.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/hubspot-aeo-review",
+      "publishedAt": "2026-10-30T11:00:19.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/baFXKdRkW32sCmdq6up9iA-1600-80.png"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst,",
+      "guide": "/news/index.html",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "publishedAt": "2026-10-30T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
+      "summary": "US senators have asked Meta to explain how it's mitigating 'serious' privacy risks with its AI glasses.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
+      "publishedAt": "2026-10-30T10:08:13.000Z",
+      "image": "https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either ",
+      "guide": "/news/index.html",
+      "source": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "The AI data center race is now a race to power",
+      "summary": "As AI demand surges, access to reliable power will determine who leads.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/the-ai-data-center-race-is-now-a-race-to-power",
+      "publishedAt": "2026-10-30T08:45:05.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "The imperative to prepare for AI-safe data security",
+      "summary": "Helping security leaders take the right approach to securing their data in the AI era.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/the-imperative-to-prepare-for-ai-safe-data-security",
+      "publishedAt": "2026-10-30T07:41:55.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7DtE9RCVmUtmH2FAfvxsvM-2560-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -47,83 +124,6 @@
       "source": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
       "publishedAt": "2026-10-30T01:20:48.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "The US Air Force wants to use AI to help with its mid-air refuelling problems",
-      "summary": "The US Air Force wants artificial intelligence to identify aerial refuelling mistakes, improve pilot training and reduce dependence on human assessments.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-us-air-force-wants-to-use-ai-to-help-with-mid-air-refuelling-problems",
-      "publishedAt": "2026-10-30T01:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/zGjJcNaEGqXTEDEYSF7RuP-1920-80.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Anthropic's Elvis lawsuit shows why AI companies need to face the music",
-      "summary": "Anthropic's latest copyright lawsuit over Elvis Presley songs exposes the AI industry's troubling dependence on other people's creative work.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/anthropic-sued-for-allegedly-using-274-elvis-presley-songs-in-ai-training-and-its-about-time-ai-companies-faced-the-music",
-      "publishedAt": "2026-10-30T01:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/tKM8kwSbAKRgfrMxFLPcUf-2560-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Nvidia is set to work even closer with Meta's slightly creepy Muse AI models — and it's even investing $3bn in Meta to show its support",
-      "summary": "Nvidia plans $3 billion investment in Meta’s share offering as companies expand their partnership on Muse AI models and infrastructure.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/nvidia-is-set-to-work-even-closer-with-metas-slightly-creepy-muse-ai-models-and-its-even-investing-usd3bn-in-meta-to-show-its-support",
-      "publishedAt": "2026-10-30T00:25:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/FvXdYtyMw5G84xJFxRc62W-1920-80.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "publishedAt": "2026-10-29T23:42:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "'This is a training and trust problem, not an AI problem': Barely any workers are verifying information given to them by AI",
-      "summary": "Under a quarter of employees verify information generated by AI, and half of those in the 25–34 age group refer to AI before checking with a colleague or manager.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/this-is-a-training-and-trust-problem-not-an-ai-problem-barely-any-workers-are-verifying-information-given-to-them-by-ai",
-      "publishedAt": "2026-10-29T23:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/SyW8pePoASSQMVwhfUdtAk-2560-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Getac says its new rugged notebooks offer faster AI-powered processing than ever — and seem to be targeting military and defense customers",
-      "summary": "Panther Lake, Copilot+ and an Nvidia Blackwell option: here's what Getac's 180 TOPS rugged laptop claim really means.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/getac-says-its-new-rugged-notebooks-offer-faster-ai-powered-processing-than-ever-and-seem-to-be-targeting-military-and-defense-customers",
-      "publishedAt": "2026-10-29T22:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/EaDJBFEYoTUhydqGNs9u5k-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 m",
-      "guide": "/news/index.html",
-      "source": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-      "publishedAt": "2026-10-29T22:19:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     }
   ]
 }
