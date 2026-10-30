@@ -8007,6 +8007,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-30T22:59:58.430Z",
+        "message_id": 707,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
