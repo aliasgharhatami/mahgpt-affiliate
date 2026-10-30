@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T11:32:02.803Z",
-  "analysis_date": "2026-10-29",
+  "generated_at": "2026-10-30T11:25:18.180Z",
+  "analysis_date": "2026-10-30",
   "stories": [
     {
-      "title": "Edit any PDF on your Mac with this $39.99 lifetime license",
-      "source": "https://www.macworld.com/article/3271644/edit-any-pdf-on-your-mac-with-this-39-99-lifetime-license.html",
-      "mahgpt_url": "/news/story.html?id=edit-any-pdf-on-your-mac-with-this-39-99-lifetime-license"
+      "title": "The touchscreen isn’t the killer feature of the new MacBook Pro",
+      "source": "https://www.macworld.com/article/3272659/the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro.html",
+      "mahgpt_url": "/news/story.html?id=the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro"
     },
     {
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "source": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "mahgpt_url": "/news/story.html?id=voice-ai-in-vogue-nvidia-releases-new-open-transcription-model"
+      "title": "The AI Act's longer runway is an opportunity to build governance that lasts",
+      "source": "https://www.techradar.com/pro/the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts",
+      "mahgpt_url": "/news/story.html?id=the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts"
     },
     {
-      "title": "Why AI smart glasses need a privacy-first approach",
-      "source": "https://www.techradar.com/pro/why-ai-smart-glasses-need-a-privacy-first-approach",
-      "mahgpt_url": "/news/story.html?id=why-ai-smart-glasses-need-a-privacy-first-approach"
+      "title": "HubSpot AEO review 2026",
+      "source": "https://www.techradar.com/pro/hubspot-aeo-review",
+      "mahgpt_url": "/news/story.html?id=hubspot-aeo-review-2026"
     },
     {
-      "title": "Rogue AI is a wake-up call for UK digital sovereignty",
-      "source": "https://www.techradar.com/pro/rogue-ai-is-a-wake-up-call-for-uk-digital-sovereignty",
-      "mahgpt_url": "/news/story.html?id=rogue-ai-is-a-wake-up-call-for-uk-digital-sovereignty"
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "mahgpt_url": "/news/story.html?id=maines-data-center-revolt-will-decide-who-controls-the-senate"
     },
     {
-      "title": "Oracle thinks AI could fix your customer service problems before you even know they exist",
-      "source": "https://www.techradar.com/pro/oracle-thinks-ai-could-fix-your-customer-service-problems-before-you-even-know-they-exist",
-      "mahgpt_url": "/news/story.html?id=oracle-thinks-ai-could-fix-your-customer-service-problems-before-you-even-know-they-exist"
+      "title": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
+      "source": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
+      "mahgpt_url": "/news/story.html?id=senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses"
     },
     {
-      "title": "Navigating the 'new normal': AI-powered exploits and discovery",
-      "source": "https://www.techradar.com/pro/navigating-the-new-normal-ai-powered-exploits-and-discovery",
-      "mahgpt_url": "/news/story.html?id=navigating-the-new-normal-ai-powered-exploits-and-discovery"
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "source": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "mahgpt_url": "/news/story.html?id=wikipedias-operator-says-a-bad-ai-copyright-ruling-could-threaten-the-open-web"
     },
     {
-      "title": "AI has come for Arizona’s water",
-      "source": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-      "mahgpt_url": "/news/story.html?id=ai-has-come-for-arizonas-water"
+      "title": "The AI data center race is now a race to power",
+      "source": "https://www.techradar.com/pro/the-ai-data-center-race-is-now-a-race-to-power",
+      "mahgpt_url": "/news/story.html?id=the-ai-data-center-race-is-now-a-race-to-power"
     },
     {
-      "title": "I Gave My Blood to the AI Death Clock",
-      "source": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-      "mahgpt_url": "/news/story.html?id=i-gave-my-blood-to-the-ai-death-clock"
+      "title": "The imperative to prepare for AI-safe data security",
+      "source": "https://www.techradar.com/pro/the-imperative-to-prepare-for-ai-safe-data-security",
+      "mahgpt_url": "/news/story.html?id=the-imperative-to-prepare-for-ai-safe-data-security"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-29.html"
+      "path": "news/analysis/2026-10-30.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-29.html"
+      "path": "es/news/analysis/2026-10-30.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-29.html"
+      "path": "de/news/analysis/2026-10-30.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-29.html"
+      "path": "fr/news/analysis/2026-10-30.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-29.html"
+      "path": "pt-BR/news/analysis/2026-10-30.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-29.html"
+      "path": "ar/news/analysis/2026-10-30.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-29.html"
+      "path": "fa/news/analysis/2026-10-30.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-29.html"
+      "path": "tr/news/analysis/2026-10-30.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-29.html"
+      "path": "it/news/analysis/2026-10-30.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-29.html"
+      "path": "ja/news/analysis/2026-10-30.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-29.html"
+      "path": "ko/news/analysis/2026-10-30.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-29.html"
+      "path": "id/news/analysis/2026-10-30.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-29.html"
+      "path": "hi/news/analysis/2026-10-30.html"
     }
   ]
 }

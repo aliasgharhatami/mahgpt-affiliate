@@ -1,36 +1,34 @@
 {
   "version": 1,
   "queue_date": "2026-10-30",
-  "created_at": "2026-10-30T06:30:45.982Z",
-  "source_feed_updated_at": "2026-10-30T06:30:45.879Z",
+  "created_at": "2026-10-30T11:25:12.037Z",
+  "source_feed_updated_at": "2026-10-30T11:25:08.739Z",
   "items": [
     {
-      "story_id": "https://www.macworld.com/article/219909/best-mac.html",
-      "source_url": "https://www.macworld.com/article/219909/best-mac.html",
-      "headline": "Best Mac 2026: Every Apple Mac and MacBook compared",
-      "summary": "Macworld Choosing the best Mac in 2026 means finding the right combination of performance, features and price for the way you work. Whether you’re buying your first Mac, replacing an older computer or looking for more power, this guide will help you understand your options and choose with confidence",
+      "story_id": "https://www.macworld.com/article/3272659/the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro.html",
+      "source_url": "https://www.macworld.com/article/3272659/the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro.html",
+      "headline": "The touchscreen isn’t the killer feature of the new MacBook Pro",
+      "summary": "Macworld Apple has finally brought a touch interface to the Mac, 43 years after the first commercial PC with a touchscreen, the HP 150. It’s a momentous event in Apple history, one that longtime Mac users never thought would come. The new laptop is going to be mainly referred to as the “touchscreen",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/219909-0-07954000-1793296841-Best-Mac-to-buy.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/219909-0-07954000-1793296841-Best-Mac-to-buy.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3272659-0-37701600-1793356236-macbook-pro-proled-xdr-display-2026.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3272659-0-37701600-1793356236-macbook-pro-proled-xdr-display-2026.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
+        "height": 576,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=best-mac-2026-every-apple-mac-and-macbook-compared",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
       "scheduled_publish_at": "2026-10-30T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-30T06:30:52.806Z",
-        "message_id": 701,
-        "delivery": "photo"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -43,7 +41,332 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-macworld-com-article-219909-best-mac-html-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-macworld-com-article-3272659-the-touchscreen-isnt-the-killer-feature-o-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts",
+      "source_url": "https://www.techradar.com/pro/the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts",
+      "headline": "The AI Act's longer runway is an opportunity to build governance that lasts",
+      "summary": "Europe’s extended AI timeline gives businesses time to build trusted, resilient governance now.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts",
+      "detected_partner": "runway",
+      "product_url": "/go/runway.html",
+      "affiliate_status": "none",
+      "scheduled_publish_at": "2026-10-30T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-pro-the-ai-acts-longer-runway-is-an-opportunity-to-build-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/hubspot-aeo-review",
+      "source_url": "https://www.techradar.com/pro/hubspot-aeo-review",
+      "headline": "HubSpot AEO review 2026",
+      "summary": "Useful AI search reports, provided you ask the right questions first.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/baFXKdRkW32sCmdq6up9iA-1600-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/baFXKdRkW32sCmdq6up9iA-1600-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 700,
+        "aspectRatio": 2.2857142857142856,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hubspot-aeo-review-2026",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-30T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-30/HubSpot-AEO-review-2026-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-pro-hubspot-aeo-review-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "headline": "Maine’s data center revolt will decide who controls the Senate",
+      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst,",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=maines-data-center-revolt-will-decide-who-controls-the-senate",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-30T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-30/Maine-s-data-center-revolt-will-decide-who-controls-the-Senate-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-theverge-com-ai-artificial-intelligence-1021080-maine-senate-race-susa-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
+      "source_url": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
+      "headline": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
+      "summary": "US senators have asked Meta to explain how it's mitigating 'serious' privacy risks with its AI glasses.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 898,
+        "aspectRatio": 1.78173719376392,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-30T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-engadget-com-2301968-senators-looking-into-serious-privacy-risks-with--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "source_url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "headline": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 624,
+        "aspectRatio": 1.9230769230769231,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=wikipedias-operator-says-a-bad-ai-copyright-ruling-could-threaten-the-open-web",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-30T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-10-30/Wikipedia-s-operator-says-a-bad-AI-copyright-ruling-could-threaten-the-open-web-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-theverge-com-policy-1022880-wikipedia-openai-new-york-times-copyright-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/the-ai-data-center-race-is-now-a-race-to-power",
+      "source_url": "https://www.techradar.com/pro/the-ai-data-center-race-is-now-a-race-to-power",
+      "headline": "The AI data center race is now a race to power",
+      "summary": "As AI demand surges, access to reliable power will determine who leads.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-data-center-race-is-now-a-race-to-power",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-30T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-pro-the-ai-data-center-race-is-now-a-race-to-power-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/the-imperative-to-prepare-for-ai-safe-data-security",
+      "source_url": "https://www.techradar.com/pro/the-imperative-to-prepare-for-ai-safe-data-security",
+      "headline": "The imperative to prepare for AI-safe data security",
+      "summary": "Helping security leaders take the right approach to securing their data in the AI era.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/7DtE9RCVmUtmH2FAfvxsvM-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/7DtE9RCVmUtmH2FAfvxsvM-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1707,
+        "aspectRatio": 1.4997070884592854,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-imperative-to-prepare-for-ai-safe-data-security",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-30T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-pro-the-imperative-to-prepare-for-ai-safe-data-security-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -73,7 +396,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T07:20:00.000Z",
+      "scheduled_publish_at": "2026-10-30T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -119,7 +442,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T09:20:00.000Z",
+      "scheduled_publish_at": "2026-10-30T23:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -141,329 +464,6 @@
         "warnings": [],
         "repairs": [
           "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/the-us-air-force-wants-to-use-ai-to-help-with-mid-air-refuelling-problems",
-      "source_url": "https://www.techradar.com/pro/the-us-air-force-wants-to-use-ai-to-help-with-mid-air-refuelling-problems",
-      "headline": "The US Air Force wants to use AI to help with its mid-air refuelling problems",
-      "summary": "The US Air Force wants artificial intelligence to identify aerial refuelling mistakes, improve pilot training and reduce dependence on human assessments.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/zGjJcNaEGqXTEDEYSF7RuP-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/zGjJcNaEGqXTEDEYSF7RuP-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-us-air-force-wants-to-use-ai-to-help-with-its-mid-air-refuelling-problems",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T11:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-pro-the-us-air-force-wants-to-use-ai-to-help-with-mid-ai-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/anthropic-sued-for-allegedly-using-274-elvis-presley-songs-in-ai-training-and-its-about-time-ai-companies-faced-the-music",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/anthropic-sued-for-allegedly-using-274-elvis-presley-songs-in-ai-training-and-its-about-time-ai-companies-faced-the-music",
-      "headline": "Anthropic's Elvis lawsuit shows why AI companies need to face the music",
-      "summary": "Anthropic's latest copyright lawsuit over Elvis Presley songs exposes the AI industry's troubling dependence on other people's creative work.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/tKM8kwSbAKRgfrMxFLPcUf-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/tKM8kwSbAKRgfrMxFLPcUf-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropics-elvis-lawsuit-shows-why-ai-companies-need-to-face-the-music",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T13:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-ai-platforms-assistants-anthropic-sued-for-allegedly-usi-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/nvidia-is-set-to-work-even-closer-with-metas-slightly-creepy-muse-ai-models-and-its-even-investing-usd3bn-in-meta-to-show-its-support",
-      "source_url": "https://www.techradar.com/pro/nvidia-is-set-to-work-even-closer-with-metas-slightly-creepy-muse-ai-models-and-its-even-investing-usd3bn-in-meta-to-show-its-support",
-      "headline": "Nvidia is set to work even closer with Meta's slightly creepy Muse AI models — and it's even investing $3bn in Meta to show its support",
-      "summary": "Nvidia plans $3 billion investment in Meta’s share offering as companies expand their partnership on Muse AI models and infrastructure.",
-      "source_name": "and it's even investing $3bn in Meta to show its support",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/FvXdYtyMw5G84xJFxRc62W-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/FvXdYtyMw5G84xJFxRc62W-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nvidia-is-set-to-work-even-closer-with-metas-slightly-creepy-muse-ai-models-and-its-even-i",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-pro-nvidia-is-set-to-work-even-closer-with-metas-slightl-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "headline": "AWS will be a $1T business, Jassy says",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "source_name": "but first, it will spend big",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 721,
-        "aspectRatio": 1.6643550624133148,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=aws-will-be-a-1t-business-jassy-says",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-techcrunch-com-2026-10-29-aws-will-be-a-1t-business-jassy-says-but-first-i-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/this-is-a-training-and-trust-problem-not-an-ai-problem-barely-any-workers-are-verifying-information-given-to-them-by-ai",
-      "source_url": "https://www.techradar.com/pro/this-is-a-training-and-trust-problem-not-an-ai-problem-barely-any-workers-are-verifying-information-given-to-them-by-ai",
-      "headline": "'This is a training and trust problem, not an AI problem': Barely any workers are verifying information given to them by AI",
-      "summary": "Under a quarter of employees verify information generated by AI, and half of those in the 25–34 age group refer to AI before checking with a colleague or manager.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/SyW8pePoASSQMVwhfUdtAk-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/SyW8pePoASSQMVwhfUdtAk-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1709,
-        "aspectRatio": 1.4979520187244002,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=this-is-a-training-and-trust-problem-not-an-ai-problem-barely-any-workers-are-verifying-in",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-pro-this-is-a-training-and-trust-problem-not-an-ai-probl-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/getac-says-its-new-rugged-notebooks-offer-faster-ai-powered-processing-than-ever-and-seem-to-be-targeting-military-and-defense-customers",
-      "source_url": "https://www.techradar.com/pro/getac-says-its-new-rugged-notebooks-offer-faster-ai-powered-processing-than-ever-and-seem-to-be-targeting-military-and-defense-customers",
-      "headline": "Getac says its new rugged notebooks offer faster AI-powered processing than ever",
-      "summary": "Panther Lake, Copilot+ and an Nvidia Blackwell option: here's what Getac's 180 TOPS rugged laptop claim really means.",
-      "source_name": "and seem to be targeting military and defense customers",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/EaDJBFEYoTUhydqGNs9u5k-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/EaDJBFEYoTUhydqGNs9u5k-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=getac-says-its-new-rugged-notebooks-offer-faster-ai-powered-processing-than-ever",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-pro-getac-says-its-new-rugged-notebooks-offer-faster-ai--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-      "source_url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-      "headline": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 m",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=reddits-ceo-says-googles-ai-mode-does-not-drive-traffic",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T23:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-30/Reddit-s-CEO-says-Google-s-AI-Mode-does-not-drive-traffic--instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-theverge-com-tech-1022848-reddit-ceo-google-ai-mode-traffic-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     }
