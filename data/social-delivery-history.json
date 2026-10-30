@@ -7888,6 +7888,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-30T00:41:53.829Z",
+        "message_id": 700,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
