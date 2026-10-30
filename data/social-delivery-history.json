@@ -7939,6 +7939,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-30T13:37:19.680Z",
+        "message_id": 703,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
