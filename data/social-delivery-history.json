@@ -7905,6 +7905,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/219909/best-mac.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-30T06:30:52.806Z",
+        "message_id": 701,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
