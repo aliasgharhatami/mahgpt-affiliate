@@ -8092,6 +8092,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-31T18:48:16.169Z",
+        "message_id": 712,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
