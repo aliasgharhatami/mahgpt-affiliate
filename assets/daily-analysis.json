@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T11:25:18.180Z",
-  "analysis_date": "2026-10-30",
+  "generated_at": "2026-10-31T10:56:47.331Z",
+  "analysis_date": "2026-10-31",
   "stories": [
     {
-      "title": "The touchscreen isn’t the killer feature of the new MacBook Pro",
+      "title": "Touch isn’t the killer feature of the new MacBook Pro",
       "source": "https://www.macworld.com/article/3272659/the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro.html",
-      "mahgpt_url": "/news/story.html?id=the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro"
+      "mahgpt_url": "/news/story.html?id=touch-isnt-the-killer-feature-of-the-new-macbook-pro"
     },
     {
-      "title": "The AI Act's longer runway is an opportunity to build governance that lasts",
-      "source": "https://www.techradar.com/pro/the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts",
-      "mahgpt_url": "/news/story.html?id=the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts"
+      "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+      "source": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/",
+      "mahgpt_url": "/news/story.html?id=google-joins-openai-and-anthropic-in-promising-new-scraping-controls"
     },
     {
-      "title": "HubSpot AEO review 2026",
-      "source": "https://www.techradar.com/pro/hubspot-aeo-review",
-      "mahgpt_url": "/news/story.html?id=hubspot-aeo-review-2026"
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "source": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "mahgpt_url": "/news/story.html?id=metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet"
     },
     {
-      "title": "Maine’s data center revolt will decide who controls the Senate",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "mahgpt_url": "/news/story.html?id=maines-data-center-revolt-will-decide-who-controls-the-senate"
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "source": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "mahgpt_url": "/news/story.html?id=an-ai-agent-injected-drugs-into-a-live-mouses-brain"
     },
     {
-      "title": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
-      "source": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
-      "mahgpt_url": "/news/story.html?id=senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses"
+      "title": "AI usage doesn't equal value, Oracle warns, as businesses struggle with unpredictable costs",
+      "source": "https://www.techradar.com/pro/ai-usage-doesnt-equal-value-oracle-warns-as-businesses-struggle-with-unpredictable-costs",
+      "mahgpt_url": "/news/story.html?id=ai-usage-doesnt-equal-value-oracle-warns-as-businesses-struggle-with-unpredictable-costs"
     },
     {
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "source": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "mahgpt_url": "/news/story.html?id=wikipedias-operator-says-a-bad-ai-copyright-ruling-could-threaten-the-open-web"
+      "title": "AI vendors are relearning the oldest rule in the data business",
+      "source": "https://www.techradar.com/pro/ai-vendors-are-relearning-the-oldest-rule-in-the-data-business",
+      "mahgpt_url": "/news/story.html?id=ai-vendors-are-relearning-the-oldest-rule-in-the-data-business"
     },
     {
-      "title": "The AI data center race is now a race to power",
-      "source": "https://www.techradar.com/pro/the-ai-data-center-race-is-now-a-race-to-power",
-      "mahgpt_url": "/news/story.html?id=the-ai-data-center-race-is-now-a-race-to-power"
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "source": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "mahgpt_url": "/news/story.html?id=nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia"
     },
     {
-      "title": "The imperative to prepare for AI-safe data security",
-      "source": "https://www.techradar.com/pro/the-imperative-to-prepare-for-ai-safe-data-security",
-      "mahgpt_url": "/news/story.html?id=the-imperative-to-prepare-for-ai-safe-data-security"
+      "title": "'Online exams are now a waste of time': Top UC Berkeley professor calls time on homework grades as students are increasingly cheating using AI",
+      "source": "https://www.techradar.com/pro/online-exams-are-now-a-waste-of-time-top-uc-berkeley-professor-calls-time-on-homework-grades-as-students-are-increasingly-cheating-using-ai",
+      "mahgpt_url": "/news/story.html?id=online-exams-are-now-a-waste-of-time-top-uc-berkeley-professor-calls-time-on-homework-grad"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-10-30.html"
+      "path": "news/analysis/2026-10-31.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-10-30.html"
+      "path": "es/news/analysis/2026-10-31.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-10-30.html"
+      "path": "de/news/analysis/2026-10-31.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-10-30.html"
+      "path": "fr/news/analysis/2026-10-31.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-10-30.html"
+      "path": "pt-BR/news/analysis/2026-10-31.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-10-30.html"
+      "path": "ar/news/analysis/2026-10-31.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-10-30.html"
+      "path": "fa/news/analysis/2026-10-31.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-10-30.html"
+      "path": "tr/news/analysis/2026-10-31.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-10-30.html"
+      "path": "it/news/analysis/2026-10-31.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-10-30.html"
+      "path": "ja/news/analysis/2026-10-31.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-10-30.html"
+      "path": "ko/news/analysis/2026-10-31.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-10-30.html"
+      "path": "id/news/analysis/2026-10-31.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-10-30.html"
+      "path": "hi/news/analysis/2026-10-31.html"
     }
   ]
 }
