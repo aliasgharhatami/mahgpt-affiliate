@@ -8075,6 +8075,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-31T16:08:19.622Z",
+        "message_id": 711,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
