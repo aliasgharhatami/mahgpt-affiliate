@@ -8024,6 +8024,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/ai-vendors-are-relearning-the-oldest-rule-in-the-data-business": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-31T08:27:31.871Z",
+        "message_id": 708,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

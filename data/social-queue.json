@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "queue_date": "2026-10-30",
-  "created_at": "2026-10-30T11:25:12.037Z",
-  "source_feed_updated_at": "2026-10-30T11:25:08.739Z",
+  "queue_date": "2026-10-31",
+  "created_at": "2026-10-31T08:27:23.648Z",
+  "source_feed_updated_at": "2026-10-31T08:27:23.548Z",
   "items": [
     {
       "story_id": "https://www.macworld.com/article/3272659/the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro.html",
       "source_url": "https://www.macworld.com/article/3272659/the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro.html",
-      "headline": "The touchscreen isn’t the killer feature of the new MacBook Pro",
+      "headline": "Touch isn’t the killer feature of the new MacBook Pro",
       "summary": "Macworld Apple has finally brought a touch interface to the Mac, 43 years after the first commercial PC with a touchscreen, the HP 150. It’s a momentous event in Apple history, one that longtime Mac users never thought would come. The new laptop is going to be mainly referred to as the “touchscreen",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3272659-0-37701600-1793356236-macbook-pro-proled-xdr-display-2026.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3272659-0-37701600-1793356236-macbook-pro-proled-xdr-display-2026.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3272659-0-85697000-1793390117-macbook-pro-proled-xdr-display-2026.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3272659-0-85697000-1793390117-macbook-pro-proled-xdr-display-2026.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
@@ -21,16 +21,14 @@
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=touch-isnt-the-killer-feature-of-the-new-macbook-pro",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T05:20:00.000Z",
+      "scheduled_publish_at": "2026-10-31T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-10-30T11:25:55.139Z",
-        "message_id": 702,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-10-30T11:25:55.139Z"
       },
       "linkedin": {
         "status": "pending"
@@ -43,7 +41,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-macworld-com-article-3272659-the-touchscreen-isnt-the-killer-feature-o-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-31/https-www-macworld-com-article-3272659-the-touchscreen-isnt-the-killer-feature-o-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -53,31 +51,31 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts",
-      "source_url": "https://www.techradar.com/pro/the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts",
-      "headline": "The AI Act's longer runway is an opportunity to build governance that lasts",
-      "summary": "Europe’s extended AI timeline gives businesses time to build trusted, resilient governance now.",
+      "story_id": "https://www.techradar.com/pro/ai-vendors-are-relearning-the-oldest-rule-in-the-data-business",
+      "source_url": "https://www.techradar.com/pro/ai-vendors-are-relearning-the-oldest-rule-in-the-data-business",
+      "headline": "AI vendors are relearning the oldest rule in the data business",
+      "summary": "Could software vendors use your hard-earned data to benefit your competitors?",
       "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/pqN5gDy6i2LGuVynwvTpx9-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pqN5gDy6i2LGuVynwvTpx9-1920-80.png",
       "image_validation": {
         "valid": true,
-        "width": 2560,
-        "height": 1440,
+        "width": 1920,
+        "height": 1080,
         "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts",
-      "detected_partner": "runway",
-      "product_url": "/go/runway.html",
-      "affiliate_status": "none",
-      "scheduled_publish_at": "2026-10-30T07:20:00.000Z",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ai-vendors-are-relearning-the-oldest-rule-in-the-data-business",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-31T07:20:00.000Z",
       "telegram": {
         "status": "published",
-        "published_at": "2026-10-30T13:37:19.680Z",
-        "message_id": 703,
+        "published_at": "2026-10-31T08:27:31.871Z",
+        "message_id": 708,
         "delivery": "photo"
       },
       "linkedin": {
@@ -91,7 +89,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-pro-the-ai-acts-longer-runway-is-an-opportunity-to-build-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-31/https-www-techradar-com-pro-ai-vendors-are-relearning-the-oldest-rule-in-the-dat-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -101,360 +99,27 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/hubspot-aeo-review",
-      "source_url": "https://www.techradar.com/pro/hubspot-aeo-review",
-      "headline": "HubSpot AEO review 2026",
-      "summary": "Useful AI search reports, provided you ask the right questions first.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/baFXKdRkW32sCmdq6up9iA-1600-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/baFXKdRkW32sCmdq6up9iA-1600-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 700,
-        "aspectRatio": 2.2857142857142856,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=hubspot-aeo-review-2026",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T09:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-30T17:08:27.125Z",
-        "message_id": 704,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-30/HubSpot-AEO-review-2026-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-pro-hubspot-aeo-review-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "headline": "Maine’s data center revolt will decide who controls the Senate",
-      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst,",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=maines-data-center-revolt-will-decide-who-controls-the-senate",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T11:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-30T18:38:47.425Z",
-        "message_id": 705,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-30/Maine-s-data-center-revolt-will-decide-who-controls-the-Senate-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-theverge-com-ai-artificial-intelligence-1021080-maine-senate-race-susa-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
-      "source_url": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
-      "headline": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
-      "summary": "US senators have asked Meta to explain how it's mitigating 'serious' privacy risks with its AI glasses.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1600,
-        "height": 898,
-        "aspectRatio": 1.78173719376392,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T13:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-30T21:41:08.313Z",
-        "message_id": 706,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-engadget-com-2301968-senators-looking-into-serious-privacy-risks-with--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "source_url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "headline": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
-      },
-      "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=wikipedias-operator-says-a-bad-ai-copyright-ruling-could-threaten-the-open-web",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T15:20:00.000Z",
-      "telegram": {
-        "status": "published",
-        "published_at": "2026-10-30T22:59:58.430Z",
-        "message_id": 707,
-        "delivery": "photo"
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-10-30/Wikipedia-s-operator-says-a-bad-AI-copyright-ruling-could-threaten-the-open-web-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-theverge-com-policy-1022880-wikipedia-openai-new-york-times-copyright-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/the-ai-data-center-race-is-now-a-race-to-power",
-      "source_url": "https://www.techradar.com/pro/the-ai-data-center-race-is-now-a-race-to-power",
-      "headline": "The AI data center race is now a race to power",
-      "summary": "As AI demand surges, access to reliable power will determine who leads.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1440,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-ai-data-center-race-is-now-a-race-to-power",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-pro-the-ai-data-center-race-is-now-a-race-to-power-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/the-imperative-to-prepare-for-ai-safe-data-security",
-      "source_url": "https://www.techradar.com/pro/the-imperative-to-prepare-for-ai-safe-data-security",
-      "headline": "The imperative to prepare for AI-safe data security",
-      "summary": "Helping security leaders take the right approach to securing their data in the AI era.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/7DtE9RCVmUtmH2FAfvxsvM-2560-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/7DtE9RCVmUtmH2FAfvxsvM-2560-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 2560,
-        "height": 1707,
-        "aspectRatio": 1.4997070884592854,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-imperative-to-prepare-for-ai-safe-data-security",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-pro-the-imperative-to-prepare-for-ai-safe-data-security-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/security/security-experts-warn-north-korean-hackers-arent-just-using-ai-in-their-new-campaigns-but-also-post-quantum-encryption",
-      "source_url": "https://www.techradar.com/pro/security/security-experts-warn-north-korean-hackers-arent-just-using-ai-in-their-new-campaigns-but-also-post-quantum-encryption",
-      "headline": "Security experts warn North Korean hackers aren't just using AI in their new campaigns, but also 'post-quantum' encryption",
-      "summary": "North Korea's Lazarus is wrapping malware delivery in ML-KEM-1024, the NSA's pick for national security systems, but it won't hide the malware itself.",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4ARu4ZX7vVKepMN6WsZgUm-1280-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4ARu4ZX7vVKepMN6WsZgUm-1280-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1280,
-        "height": 853,
-        "aspectRatio": 1.5005861664712778,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=security-experts-warn-north-korean-hackers-arent-just-using-ai-in-their-new-campaigns-but-",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-www-techradar-com-pro-security-security-experts-warn-north-korean-hackers--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "source_url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "headline": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "story_id": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
       "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
       "image_validation": {
         "valid": true,
         "width": 1200,
-        "height": 840,
-        "aspectRatio": 1.4285714285714286,
+        "height": 800,
+        "aspectRatio": 1.5,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=you-don-and-8217-t-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-10-30T23:20:00.000Z",
+      "scheduled_publish_at": "2026-10-31T09:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -470,7 +135,329 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-10-30/https-techcrunch-com-2026-10-29-you-dont-need-to-believe-in-a-god-to-get-a-relig-story.png",
+      "fallback_image_story": "assets/social-cards/2026-10-31/https-techcrunch-com-2026-10-30-nvidia-weighs-playing-the-cosigner-for-nscales-a-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/online-exams-are-now-a-waste-of-time-top-uc-berkeley-professor-calls-time-on-homework-grades-as-students-are-increasingly-cheating-using-ai",
+      "source_url": "https://www.techradar.com/pro/online-exams-are-now-a-waste-of-time-top-uc-berkeley-professor-calls-time-on-homework-grades-as-students-are-increasingly-cheating-using-ai",
+      "headline": "'Online exams are now a waste of time': Top UC Berkeley professor calls time on homework grades as students are increasingly cheating using AI",
+      "summary": "Educators are struggling to discern between human and AI-created homework, with one professor declaring exams a “waste of time.”",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/spjRpjUstaVLfZfNx2N5xX-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/spjRpjUstaVLfZfNx2N5xX-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=online-exams-are-now-a-waste-of-time-top-uc-berkeley-professor-calls-time-on-homework-grad",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-31T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-31/https-www-techradar-com-pro-online-exams-are-now-a-waste-of-time-top-uc-berkeley-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/a-human-subject-has-been-injected-with-an-ai-designed-virus-aiming-to-kill-antibiotic-resistant-bacteria-so-lets-see-how-that-turns-out",
+      "source_url": "https://www.techradar.com/pro/a-human-subject-has-been-injected-with-an-ai-designed-virus-aiming-to-kill-antibiotic-resistant-bacteria-so-lets-see-how-that-turns-out",
+      "headline": "A human subject has been injected with an AI-designed virus aiming to kill antibiotic-resistant bacteria, so let's see how that turns out",
+      "summary": "An AI lab designed a virus, put it in a sick person, and then declined to say what happened.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6UwEJPApAMZKVeWTb8th2V-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6UwEJPApAMZKVeWTb8th2V-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=a-human-subject-has-been-injected-with-an-ai-designed-virus-aiming-to-kill-antibiotic-resi",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-31T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-31/https-www-techradar-com-pro-a-human-subject-has-been-injected-with-an-ai-designe-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source_url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "headline": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 847,
+        "aspectRatio": 1.4167650531286895,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-31T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-31/https-techcrunch-com-2026-10-30-ollie-a-privacy-focused-ai-assistant-is-shutting-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production",
+      "source_url": "https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production",
+      "headline": "Magnetic tape storage is seeing a second lease of life thanks to AI — and now its largest manufacturer is planning a huge ramp-up in production",
+      "summary": "Fujifilm plans 5x tape production growth by 2028 as AI adoption drives data growth and organisations seek affordable offline storage.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/cykyRNYEZP7Y6tEeBYRhGM-1920-80.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/cykyRNYEZP7Y6tEeBYRhGM-1920-80.png",
+      "image_validation": {
+        "valid": true,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-ma",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-31T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-31/https-www-techradar-com-pro-magnetic-tape-storage-is-seeing-a-second-lease-of-li-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "source_url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "headline": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=intel-and-8217-s-stock-crashes-knocking-12b-from-government-and-8217-s-stake",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-31T19:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-31/https-techcrunch-com-2026-10-30-intels-stock-crashes-knocking-12b-from-governmen-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source_url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "headline": "Last-minute Halloween costumes for tech nerds",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=last-minute-halloween-costumes-for-tech-nerds",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-31T21:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-31/https-techcrunch-com-2026-10-30-last-minute-halloween-costumes-for-tech-nerds--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source_url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "headline": "Cracks are emerging in the AI spending boom",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "source_name": "Techcrunch",
+      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800",
+      "image_validation": {
+        "valid": true,
+        "width": 1200,
+        "height": 800,
+        "aspectRatio": 1.5,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=cracks-are-emerging-in-the-ai-spending-boom",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-10-31T23:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-10-31/https-techcrunch-com-2026-10-30-cracks-are-emerging-in-the-ai-spending-boom--story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

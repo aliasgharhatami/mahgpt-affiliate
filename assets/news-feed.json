@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:25:08.739Z",
+  "updatedAt": "2026-10-31T08:27:23.548Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -19,111 +19,111 @@
       "tool": "adobe",
       "toolName": "Adobe",
       "category": "Partner watch",
-      "title": "The touchscreen isn’t the killer feature of the new MacBook Pro",
+      "title": "Touch isn’t the killer feature of the new MacBook Pro",
       "summary": "Macworld Apple has finally brought a touch interface to the Mac, 43 years after the first commercial PC with a touchscreen, the HP 150 . It’s a momentous event in Apple history, one that longtime Mac users never thought would come. The new laptop is going to be mainly referred to as the “touchscreen",
       "guide": "/partners/adobe.html",
       "source": "https://www.macworld.com/article/3272659/the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro.html",
       "publishedAt": "2026-10-30T10:30:00.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3272659-0-37701600-1793356236-macbook-pro-proled-xdr-display-2026.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "tool": "runway",
-      "toolName": "Runway",
-      "category": "Partner watch",
-      "title": "The AI Act's longer runway is an opportunity to build governance that lasts",
-      "summary": "Europe’s extended AI timeline gives businesses time to build trusted, resilient governance now.",
-      "guide": "/partners/runway.html",
-      "source": "https://www.techradar.com/pro/the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts",
-      "publishedAt": "2026-10-30T11:01:24.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg"
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3272659-0-85697000-1793390117-macbook-pro-proled-xdr-display-2026.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "HubSpot AEO review 2026",
-      "summary": "Useful AI search reports, provided you ask the right questions first.",
+      "title": "AI vendors are relearning the oldest rule in the data business",
+      "summary": "Could software vendors use your hard-earned data to benefit your competitors?",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/hubspot-aeo-review",
-      "publishedAt": "2026-10-30T11:00:19.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/baFXKdRkW32sCmdq6up9iA-1600-80.png"
+      "source": "https://www.techradar.com/pro/ai-vendors-are-relearning-the-oldest-rule-in-the-data-business",
+      "publishedAt": "2026-10-31T07:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pqN5gDy6i2LGuVynwvTpx9-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Maine’s data center revolt will decide who controls the Senate",
-      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst,",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "publishedAt": "2026-10-30T11:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      "source": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "publishedAt": "2026-10-31T01:20:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
-      "summary": "US senators have asked Meta to explain how it's mitigating 'serious' privacy risks with its AI glasses.",
+      "title": "'Online exams are now a waste of time': Top UC Berkeley professor calls time on homework grades as students are increasingly cheating using AI",
+      "summary": "Educators are struggling to discern between human and AI-created homework, with one professor declaring exams a “waste of time.”",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
-      "publishedAt": "2026-10-30T10:08:13.000Z",
-      "image": "https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg"
+      "source": "https://www.techradar.com/pro/online-exams-are-now-a-waste-of-time-top-uc-berkeley-professor-calls-time-on-homework-grades-as-students-are-increasingly-cheating-using-ai",
+      "publishedAt": "2026-10-31T00:25:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/spjRpjUstaVLfZfNx2N5xX-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either ",
+      "title": "A human subject has been injected with an AI-designed virus aiming to kill antibiotic-resistant bacteria, so let's see how that turns out",
+      "summary": "An AI lab designed a virus, put it in a sick person, and then declined to say what happened.",
       "guide": "/news/index.html",
-      "source": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "publishedAt": "2026-10-30T09:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+      "source": "https://www.techradar.com/pro/a-human-subject-has-been-injected-with-an-ai-designed-virus-aiming-to-kill-antibiotic-resistant-bacteria-so-lets-see-how-that-turns-out",
+      "publishedAt": "2026-10-30T23:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6UwEJPApAMZKVeWTb8th2V-2560-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The AI data center race is now a race to power",
-      "summary": "As AI demand surges, access to reliable power will determine who leads.",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-ai-data-center-race-is-now-a-race-to-power",
-      "publishedAt": "2026-10-30T08:45:05.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-2560-80.jpg"
+      "source": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "publishedAt": "2026-10-30T22:56:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "The imperative to prepare for AI-safe data security",
-      "summary": "Helping security leaders take the right approach to securing their data in the AI era.",
+      "title": "Magnetic tape storage is seeing a second lease of life thanks to AI — and now its largest manufacturer is planning a huge ramp-up in production",
+      "summary": "Fujifilm plans 5x tape production growth by 2028 as AI adoption drives data growth and organisations seek affordable offline storage.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/the-imperative-to-prepare-for-ai-safe-data-security",
-      "publishedAt": "2026-10-30T07:41:55.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7DtE9RCVmUtmH2FAfvxsvM-2560-80.jpg"
+      "source": "https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production",
+      "publishedAt": "2026-10-30T22:10:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/cykyRNYEZP7Y6tEeBYRhGM-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Security experts warn North Korean hackers aren't just using AI in their new campaigns, but also 'post-quantum' encryption",
-      "summary": "North Korea's Lazarus is wrapping malware delivery in ML-KEM-1024, the NSA's pick for national security systems, but it won't hide the malware itself.",
+      "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/security/security-experts-warn-north-korean-hackers-arent-just-using-ai-in-their-new-campaigns-but-also-post-quantum-encryption",
-      "publishedAt": "2026-10-30T03:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4ARu4ZX7vVKepMN6WsZgUm-1280-80.jpg"
+      "source": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "publishedAt": "2026-10-30T21:54:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
       "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "publishedAt": "2026-10-30T01:20:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840"
+      "source": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "publishedAt": "2026-10-30T21:26:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Cracks are emerging in the AI spending boom",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "guide": "/news/index.html",
+      "source": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "publishedAt": "2026-10-30T21:17:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800"
     }
   ]
 }
