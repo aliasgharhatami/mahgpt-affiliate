@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T08:27:23.548Z",
+  "updatedAt": "2026-10-31T10:56:37.041Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -25,6 +25,50 @@
       "source": "https://www.macworld.com/article/3272659/the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro.html",
       "publishedAt": "2026-10-30T10:30:00.000Z",
       "image": "https://www.macworld.com/wp-content/uploads/2026/10/3272659-0-85697000-1793390117-macbook-pro-proled-xdr-display-2026.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+      "summary": "Google, OpenAI, Anthropic and Microsoft pledge to support a new common signal for robots.txt that blocks scraping for AI training.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/",
+      "publishedAt": "2026-10-31T10:34:31.000Z",
+      "image": "https://www.engadget.com/img/gallery/google-joins-openai-and-anthropic-in-promising-new-scraping-controls/l-intro-1793442580.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "publishedAt": "2026-10-31T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ae513e3393ae92e17e66a04/191:100/w_1280,c_limit/Business_Everyone%E2%80%99s%20Questioning%20Meta%E2%80%99s%20Hype%20About%20Muse%20Meta%20Says%20Muse%20Is%20Already%20a%20Big%20Shopper_v1.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "publishedAt": "2026-10-31T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/191:100/w_1280,c_limit/103026-AI%20Mouse%2002.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "AI usage doesn't equal value, Oracle warns, as businesses struggle with unpredictable costs",
+      "summary": "Companies are still struggling to identify AI ROI, and Oracle's latest warning proves using more doesn't just create more value.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/ai-usage-doesnt-equal-value-oracle-warns-as-businesses-struggle-with-unpredictable-costs",
+      "publishedAt": "2026-10-31T10:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DanvsyBYwaEUGw7m7DUXzn-2560-80.jpg"
     },
     {
       "tool": "ai-news",
@@ -80,50 +124,6 @@
       "source": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
       "publishedAt": "2026-10-30T22:56:13.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Magnetic tape storage is seeing a second lease of life thanks to AI — and now its largest manufacturer is planning a huge ramp-up in production",
-      "summary": "Fujifilm plans 5x tape production growth by 2028 as AI adoption drives data growth and organisations seek affordable offline storage.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production",
-      "publishedAt": "2026-10-30T22:10:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/cykyRNYEZP7Y6tEeBYRhGM-1920-80.png"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "publishedAt": "2026-10-30T21:54:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "publishedAt": "2026-10-30T21:26:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Cracks are emerging in the AI spending boom",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "publishedAt": "2026-10-30T21:17:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800"
     }
   ]
 }
