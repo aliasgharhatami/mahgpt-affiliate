@@ -8126,6 +8126,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/online-exams-are-now-a-waste-of-time-top-uc-berkeley-professor-calls-time-on-homework-grades-as-students-are-increasingly-cheating-using-ai": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-31T22:18:13.840Z",
+        "message_id": 714,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
