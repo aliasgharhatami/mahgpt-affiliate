@@ -8109,6 +8109,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/ai-usage-doesnt-equal-value-oracle-warns-as-businesses-struggle-with-unpredictable-costs": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-31T20:27:59.356Z",
+        "message_id": 713,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
