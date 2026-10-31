@@ -8058,6 +8058,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-10-31T14:41:41.690Z",
+        "message_id": 710,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
