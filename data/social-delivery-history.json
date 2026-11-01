@@ -8160,6 +8160,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/neither-side-thinks-hiring-is-working-gen-z-job-seekers-are-rewriting-their-cvs-as-theyre-worried-about-sounding-like-ai-and-they-arent-alone": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-01T07:56:05.991Z",
+        "message_id": 716,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
