@@ -8177,6 +8177,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-01T11:52:15.925Z",
+        "message_id": 717,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
