@@ -8143,6 +8143,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/a-human-subject-has-been-injected-with-an-ai-designed-virus-aiming-to-kill-antibiotic-resistant-bacteria-so-lets-see-how-that-turns-out": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-01T00:09:44.889Z",
+        "message_id": 715,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
