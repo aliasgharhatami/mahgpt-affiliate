@@ -8211,6 +8211,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3272660/own-word-excel-and-powerpoint-on-your-mac-for-114-97-with-office-2024-home.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-01T18:27:05.223Z",
+        "message_id": 719,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
