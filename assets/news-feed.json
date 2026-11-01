@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T07:55:58.447Z",
+  "updatedAt": "2026-11-01T11:51:28.560Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -25,6 +25,39 @@
       "source": "https://www.macworld.com/article/3272659/the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro.html",
       "publishedAt": "2026-10-30T10:30:00.000Z",
       "image": "https://www.macworld.com/wp-content/uploads/2026/10/3272659-0-85697000-1793390117-macbook-pro-proled-xdr-display-2026.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "publishedAt": "2026-11-01T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/191:100/w_1280,c_limit/HCN406-scaled.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "'The reality is that not every task requires the most advanced or expensive model available': Snowflake explains why finding the right AI model can make all the difference in helping your business succeed",
+      "summary": "Snowflake lays out how your business can solve the AI economics problem.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/the-reality-is-that-not-every-task-requires-the-most-advanced-or-expensive-model-available-snowflake-explains-why-finding-the-right-ai-model-can-make-all-the-difference-in-helping-your-business-succeed",
+      "publishedAt": "2026-11-01T10:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/dyqv6mszWWV7hVh4EWjzKT-970-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Own Word, Excel, and PowerPoint on your Mac for $114.97 with Office 2024 Home",
+      "summary": "Macworld TL;DR: Microsoft Office 2024 Home for Mac or PC puts Word, Excel, and PowerPoint on your computer for good with a one-time payment of $114.97 (reg. $149.99) through November 1. Microsoft 365 charges a yearly fee to keep Word, Excel, and PowerPoint working on your Mac, even if those three ap",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/3272660/own-word-excel-and-powerpoint-on-your-mac-for-114-97-with-office-2024-home.html",
+      "publishedAt": "2026-11-01T08:00:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3272660-0-59937300-1793520070-mso-2024-x-win-11-pro-2.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
@@ -91,39 +124,6 @@
       "source": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
       "publishedAt": "2026-10-31T16:05:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4%2C9.7534360513847%2C96%2C75.393048208485&w=1200"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
-      "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-      "publishedAt": "2026-10-31T12:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/191:100/w_1280,c_limit/KernelPanic_10312026_v1.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "\"Use their tools against them\": why AI isn't the death of production design",
-      "summary": "Christopher Glass shares his industry insight for the next generation of creatives.",
-      "guide": "/news/index.html",
-      "source": "https://www.creativebloq.com/features/use-their-tools-against-them-why-ai-isnt-the-death-of-production-design",
-      "publishedAt": "2026-10-31T12:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/oSstUTgKcoxPcxayTEJRrf-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
-      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
-      "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-      "publishedAt": "2026-10-31T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6ae513e3393ae92e17e66a04/191:100/w_1280,c_limit/Business_Everyone%E2%80%99s%20Questioning%20Meta%E2%80%99s%20Hype%20About%20Muse%20Meta%20Says%20Muse%20Is%20Already%20a%20Big%20Shopper_v1.jpg"
     }
   ]
 }
