@@ -1,0 +1,41 @@
+name: Studio private media pilot tests
+on:
+  push:
+    branches: [main]
+    paths:
+      - "functions/api/studio/media.js"
+      - "ai-video-studio/studio-media.js"
+      - "ai-video-studio/studio-account.js"
+      - "ai-video-studio/backend/supabase/002_private_media_pilot.sql"
+      - "tests/studio-media-pilot.test.mjs"
+      - ".github/workflows/studio-media-pilot-tests.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  media-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JavaScript and private media tests
+        run: |
+          node --check functions/api/studio/media.js
+          node --check ai-video-studio/studio-media.js
+          node --check ai-video-studio/studio-account.js
+          node --test tests/studio-media-pilot.test.mjs
+      - name: Public endpoint refuses anonymous account access
+        shell: bash
+        run: |
+          set -euo pipefail
+          for trial in {1..15}; do
+            code=$(curl -sS -L --max-time 15 -o /tmp/media-unauth.json -w '%{http_code}' 'https://mahgpt.com/api/studio/media?project_id=00000000-0000-4000-8000-000000000000' || echo '000')
+            if [ "$code" = '401' ]; then
+              grep -q 'Sign in to continue' /tmp/media-unauth.json
+              echo 'PASS: media API is deployed and anonymously inaccessible'
+              exit 0
+            fi
+            sleep 8
+          done
+          echo 'Media endpoint is not deployed or does not return HTTP 401'
+          exit 1
