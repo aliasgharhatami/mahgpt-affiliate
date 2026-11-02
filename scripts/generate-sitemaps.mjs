@@ -22,7 +22,7 @@ const pages=walk(root).filter(rel=>{
   const html=fs.readFileSync(path.join(root,rel),'utf8');
   return !/<meta\b[^>]*(?:name|property)=["']robots["'][^>]*content=["'][^"']*noindex/i.test(html)&&!/<meta\b[^>]*content=["'][^"']*noindex[^"']*["'][^>]*(?:name|property)=["']robots["']/i.test(html);
 }).sort();
-const urlFor=rel=>rel==='index.html'?'/':'/'+rel;
+const urlFor=rel=>rel==='index.html'?'/':rel==='ai-models/index.html'?'/ai-models/':'/'+rel;
 const byLocale=Object.fromEntries(locales.map(locale=>[locale.code,[]]));
 for(const rel of pages){
   const first=rel.split('/')[0];
