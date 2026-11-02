@@ -11,6 +11,7 @@ on:
       - "privacy-policy.html"
       - "terms-of-service.html"
       - "ai-video-studio/backend/supabase/002_private_media_pilot.sql"
+      - "ai-video-studio/backend/supabase/004_intake_and_archive_lifecycle.sql"
       - "tests/studio-media-pilot.test.mjs"
       - ".github/workflows/studio-media-pilot-tests.yml"
   workflow_dispatch:
@@ -36,10 +37,12 @@ jobs:
             curl -fsSL --max-time 15 -H "Cache-Control: no-cache" "https://mahgpt.com/?media_verify=${GITHUB_SHA}-${trial}" -o /tmp/home.html || true
             curl -fsSL --max-time 15 -H "Cache-Control: no-cache" "https://mahgpt.com/ai-video-studio/studio-media.js?media_verify=${GITHUB_SHA}-${trial}" -o /tmp/media-js || true
             curl -fsSL --max-time 15 -H "Cache-Control: no-cache" "https://mahgpt.com/ai-video-studio/studio-account.js?media_verify=${GITHUB_SHA}-${trial}" -o /tmp/account-js || true
-            if grep -q 'studio-media.js?v=20261102-pilot1' /tmp/home.html &&
+            if grep -q 'studio-media.js?v=20261102-composer2' /tmp/home.html &&
+               grep -q 'id="studio-thread"' /tmp/home.html &&
+               ! grep -q 'id="my-project-save"' /tmp/home.html &&
                grep -q 'window.MAH_STUDIO_MEDIA' /tmp/media-js &&
                grep -q 'window.MAH_STUDIO_MEDIA' /tmp/account-js; then
-              echo 'PASS: live My Projects uses new private media archive'
+              echo 'PASS: main composer intake is live; archived projects require final render'
               exit 0
             fi
             sleep 8
