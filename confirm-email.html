@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><meta name="referrer" content="no-referrer">
+<title>Confirm Email · MAH GPT Studio</title>
+<link rel="icon" href="/assets/mahgpt-favicon.svg">
+<style>
+:root{color-scheme:light;--paper:#f7f2e9;--ink:#183a29;--forest:#123d2a;--gold:#ab7f39}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.7 system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+header{padding:25px max(24px,calc((100% - 800px)/2));border-bottom:1px solid #d7cdbd}
+.brand{font-family:Georgia,serif;font-size:24px;font-weight:bold;color:var(--forest);text-decoration:none}.brand em{color:var(--gold)}
+main{max-width:600px;margin:10vh auto 70px;padding:0 24px}
+section{background:#fffdf7;border:1px solid #ddd2be;border-radius:20px;padding:32px;box-shadow:0 12px 35px #16372710}
+h1{font-family:Georgia,serif;line-height:1.2;font-size:clamp(29px,5vw,44px);font-weight:normal}
+p{color:#485a50}
+button{width:100%;background:var(--forest);border:0;color:white;padding:16px 20px;border-radius:999px;font:600 16px system-ui;cursor:pointer}
+button:disabled{cursor:not-allowed;opacity:.55}
+#confirm-email-status{padding:12px 14px;background:#f2eee6;border-radius:10px;word-break:break-word}
+a{color:var(--forest)}
+</style>
+</head>
+<body>
+<header><a class="brand" href="/">MAH GPT <em>Studio</em></a></header>
+<main><section>
+<h1>Confirm your email</h1>
+<p>To keep your account secure, confirm this sign-in yourself. Automated email scanners cannot activate the link for you.</p>
+<button id="confirm-email-button" type="button" disabled>Confirm Email &amp; Open My Projects</button>
+<p id="confirm-email-status" role="status" aria-live="polite">Checking your confirmation link…</p>
+<p><a href="/">Back to MAH GPT Studio</a></p>
+</section></main>
+<script defer src="/ai-video-studio/studio-config.js?v=20261102-fix5"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0/dist/umd/supabase.js"></script>
+<script defer src="/ai-video-studio/confirm-email.js?v=20261102-1"></script>
+</body>
+</html>
