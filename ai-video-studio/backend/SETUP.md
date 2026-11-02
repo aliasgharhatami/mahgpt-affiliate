@@ -46,3 +46,12 @@ URL configuration: https://supabase.com/dashboard/project/gthwpfscrewwamjxheyj/a
 Checked: project `gthwpfscrewwamjxheyj` is ACTIVE_HEALTHY, 4 public studio tables have RLS, no anonymous access to projects, private storage bucket, and security advisor reported no lints. No sign-in email callback was end-to-end tested because the URL allowlist has not yet been confirmed.
 
 Note (2026-11-02): MAH GPT Studio is now the site root. Keep the OAuth/email callback as `https://mahgpt.com/`, not `/ai-video-studio/`. The old Studio path is an alias. The AI Models portal resides at `https://mahgpt.com/ai-models/`.
+
+## Limited beta activation status, 2026-11-02
+
+- Site owner confirmed Supabase Site URL and Redirect URL as `https://mahgpt.com/`; the browser callback path matches.
+- Dedicated project ID `gthwpfscrewwamjxheyj` is ACTIVE_HEALTHY, with RLS-enabled project tables, private media bucket, and no security advisory lints.
+- Browser flags: `authReady=true`, `redirectsReady=true`, `betaEmailOnly=true`, `legalApproved=false`, `googleProviderReady=false`, terms/privacy version `beta-2026-11-02`.
+- The app is enabled **only for controlled email beta tests**. Supabase's default SMTP only serves team-authorized email accounts. Real public onboarding requires a custom SMTP server and finalized full legal policies; Google sign-in additionally needs OAuth credentials.
+- Beta policy pages describe email auth and **text-only drafts**; no media upload, AI rendering, quoting, payment, or public portfolio access yet.
+- GitHub HTML/JS syntax and policy/grant queries were checked successfully; actual receipt of a magic link and a user session remain for the owner's browser test.
