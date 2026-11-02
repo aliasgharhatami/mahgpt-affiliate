@@ -229,7 +229,7 @@
     if(!agreementReady){
       login.textContent='Accept Terms';
       openAuth();
-      notice(feedback,'Please accept the Terms of Service and Privacy Notice before using your account.');
+      notice(feedback,'Please review the updated privacy information and agree to the current Terms of Service to continue using My Projects.');
       return;
     }
     if(dialog.open)dialog.close();
