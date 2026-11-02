@@ -9,6 +9,11 @@ on:
       - "ai-video-studio/studio-config.js"
       - "ai-video-studio/index.html"
       - "confirm-email.html"
+      - "privacy-policy.html"
+      - "terms-of-service.html"
+      - "editorial-policy.html"
+      - "ai-video-studio/privacy.html"
+      - "ai-video-studio/terms.html"
       - "ai-video-studio/confirm-email.js"
       - "ai-video-studio/privacy.html"
       - "ai-video-studio/terms.html"
@@ -56,12 +61,15 @@ jobs:
             sleep 8
           done
           echo "Checking live login form and account JS"
+          grep -q 'href="/privacy-policy.html"' /tmp/studio-home.html
+          grep -q 'href="/terms-of-service.html"' /tmp/studio-home.html
           grep -q 'id="auth-email-submit" type="button"' /tmp/studio-home.html
           grep -q 'src="/ai-video-studio/studio-account.js?v=20261102-fix6"' /tmp/studio-home.html
           curl -fLsS --max-time 15 "https://mahgpt.com/ai-video-studio/studio-account.js?v=${GITHUB_SHA}" -o /tmp/studio-account.js
           grep -q "signInWithOtp" /tmp/studio-account.js
           curl -fLsS --max-time 15 "https://mahgpt.com/ai-video-studio/studio-config.js?v=${GITHUB_SHA}" -o /tmp/studio-config.js
           grep -q "registrationAudience: 'public-beta'" /tmp/studio-config.js
+          grep -q 'public-beta-2026-11-02-v2' /tmp/studio-config.js
           curl -fLsS --max-time 15 "https://mahgpt.com/ai-models/" -o /tmp/ai-models.html
           grep -q "The AI Tools Report" /tmp/ai-models.html
           echo "Checking Supabase browser library"
@@ -82,7 +90,16 @@ jobs:
           curl -fLsS --max-time 15 "https://mahgpt.com/ai-video-studio/confirm-email.js?v=${GITHUB_SHA}" -o /tmp/confirm-email.js
           grep -q "verifyOtp" /tmp/confirm-email.js
           echo "Confirmation script online"
-          echo "PASS: Live homepage, auth, email confirmation page, and AI Models portal"
+          echo "Checking standalone legal pages for Google verification"
+          curl -fLsS --max-time 15 "https://mahgpt.com/privacy-policy.html?deploycheck=${GITHUB_SHA}" -o /tmp/privacy.html
+          grep -q '<h1>Privacy Policy</h1>' /tmp/privacy.html
+          grep -q 'Google Sign-In' /tmp/privacy.html
+          grep -q 'image' /tmp/privacy.html
+          curl -fLsS --max-time 15 "https://mahgpt.com/terms-of-service.html?deploycheck=${GITHUB_SHA}" -o /tmp/terms.html
+          grep -q '<h1>Terms of Service</h1>' /tmp/terms.html
+          curl -fLsS --max-time 15 "https://mahgpt.com/editorial-policy.html?deploycheck=${GITHUB_SHA}" -o /tmp/editorial-policy.html
+          grep -q 'MAH GPT Studio: privacy and customer media' /tmp/editorial-policy.html
+          echo "PASS: Live Studio, public privacy/terms, editorial cross-links and OAuth pages"
       - name: Check public Supabase Auth settings (no email sent)
         shell: bash
         run: |
