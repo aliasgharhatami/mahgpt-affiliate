@@ -59,6 +59,28 @@
 @media(max-width:600px){.my-project-toolbar,.my-project-row{align-items:flex-start;flex-direction:column}}
 .auth-build-id{font-size:10px;color:#6c776e;letter-spacing:.035em;margin:7px 0 0;text-align:center}
 .auth-retry-hint{font-size:13px;line-height:1.55;color:#9b492a;margin:12px 0;padding:12px;background:#fff0e5;border-radius:10px}.auth-retry-hint[hidden]{display:none}
+
+.project-with-media{border:1px solid rgba(47,72,55,.2);border-radius:14px;margin:14px 0;padding:10px 15px;background:rgba(255,255,255,.33)}
+.project-with-media .my-project-row{border:0;margin:0;padding:7px 0}
+.media-toggle{display:inline-flex;align-items:center;gap:8px;background:transparent;color:#153f2c;border:1px solid #c6cabb;border-radius:9px;font-size:12px;padding:9px 13px;margin:7px 0;cursor:pointer;font-weight:700}
+.media-panel{border-top:1px solid #d5d3c8;padding:13px 3px}
+.media-panel[hidden]{display:none}
+.media-status{color:#264d38;font-size:13px;line-height:1.6;min-height:18px}
+.media-limits,.media-note,.media-help{font-size:12px;line-height:1.7;color:#46584b;margin:9px 0}
+.media-note{font-weight:600}
+.media-picker{display:block;max-width:100%;font-size:13px;margin:12px 0}
+.media-permission{display:flex;align-items:flex-start;gap:8px;font-size:12px;color:#314d3a;line-height:1.6;margin:12px 0}
+.media-permission input{width:17px;height:17px;flex:0 0 auto;margin-top:3px;accent-color:#16422f}
+.media-upload{border:0;background:#14412e;color:#fff;padding:11px 17px;border-radius:999px;font-weight:700;font-size:13px;cursor:pointer}
+.media-upload[disabled]{opacity:.55;cursor:wait}
+.media-file-row{display:flex;gap:12px;justify-content:space-between;align-items:center;border-top:1px solid #ddd7c9;padding:12px 0;flex-wrap:wrap}
+.media-file-info{display:flex;gap:5px;flex-direction:column;max-width:100%;overflow-wrap:anywhere}
+.media-file-info strong{font-size:13px;color:#143c2b}
+.media-file-info small{font-size:11px;color:#66736b}
+.media-file-actions{display:flex;gap:9px;flex-wrap:wrap}
+.media-file-actions button{border:1px solid #aebbac;background:transparent;color:#194330;border-radius:9px;font-size:12px;padding:8px;cursor:pointer}
+.media-file-actions button[disabled]{opacity:.4}
+@media(max-width:620px){.project-with-media{padding:9px}.media-file-row{align-items:flex-start}}
 </style></head>
 <body><header class="header"><div class="wrap nav"><a class="brand" href="/" aria-label="MAH GPT Studio home"><svg viewBox="0 0 40 40" fill="none" aria-hidden="true"><rect x="4" y="11" width="32" height="25" rx="3" fill="#123d2a"/><path d="M2 8 32 2l2 7L4 15z" fill="#123d2a"/><path d="m9 6 4 5m5-7 4 5m5-7 4 5" stroke="#f7f2e9" stroke-width="3"/><path d="m17 18 11 6-11 6z" fill="#f7f2e9"/></svg><span>MAH GPT <i>Studio</i></span></a><nav class="nav-links" aria-label="Main navigation"><a href="#samples">Sample Videos</a><a href="#how">How It Works</a><a class="nav-ai-models" href="/ai-models/" aria-label="Explore AI Models">AI Models</a><button class="login" id="login" type="button" aria-haspopup="dialog" aria-controls="auth-dialog">Sign Up / Log In</button></nav></div></header>
 <main><section class="wrap hero"><div class="art" role="img" aria-label="A cinematic director's chair and film equipment"></div><div class="content"><div class="eyebrow">AI Video Studio</div><h1 style="font-size:clamp(28px,3vw,42px);margin-bottom:32px">Affordable Video Editing &amp; Motion Graphics.</h1>
@@ -197,7 +219,7 @@
 <section class="wrap how" id="how"><h2>How it works</h2><p>Choose a direction, tell us about your idea, and add any footage or reference you have in mind. The full editing and quote experience is in development; this page is an early preview of the workflow.</p></section>
 <section class="wrap my-projects" id="my-projects" hidden aria-labelledby="my-project-heading">
   <div class="my-project-heading">
-    <div><h2 id="my-project-heading">My Projects</h2><p>Private drafts linked to your account.</p></div>
+    <div><h2 id="my-project-heading">My Projects</h2><p>Private project drafts. Media upload is currently a closed, owner-only test.</p></div>
     <button type="button" id="my-project-signout">Sign out</button>
   </div>
   <div class="my-project-toolbar"><p>Have a video idea in the editor above? Save its text brief to your account.</p><button type="button" id="my-project-save">Save Current Draft</button></div>
@@ -352,5 +374,6 @@ document.getElementById('auth-email-submit').addEventListener('click', () => {
 </script>
 <script defer src="studio-config.js?v=20261102-legal3"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0/dist/umd/supabase.js"></script>
-<script defer src="studio-account.js?v=20261102-fix6"></script>
+<script defer src="studio-media.js?v=20261102-pilot1"></script>
+<script defer src="studio-account.js?v=20261102-pilot1"></script>
 </body></html>
