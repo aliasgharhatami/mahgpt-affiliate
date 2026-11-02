@@ -6,9 +6,11 @@
  * reservations, rights attestations and deletion are implemented/tested.
  */
 export async function onRequestGet(context) {
-  const connected = Boolean(context?.env?.STUDIO_MEDIA);
+  // Confirm that Pages actually injected the R2Bucket binding, not merely a text variable.
+  const connected = Boolean(context?.env?.STUDIO_MEDIA && typeof context.env.STUDIO_MEDIA.get === 'function' && typeof context.env.STUDIO_MEDIA.put === 'function');
   return new Response(JSON.stringify({
     service: "mah-gpt-studio-media",
+    diagnostic_version: "binding-v2",
     storage_connected: connected,
     uploads_enabled: false,
     customer_media_access: "disabled"
