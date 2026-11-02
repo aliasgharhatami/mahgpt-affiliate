@@ -18,7 +18,14 @@
   const projects = document.getElementById('my-projects');
   const list = document.getElementById('my-project-list');
   const projectNotice = document.getElementById('my-project-notice');
-  const save = document.getElementById('my-project-save');
+  const composer = document.getElementById('brief');
+  const thread = document.getElementById('studio-thread');
+  const uploads = document.getElementById('studio-uploads');
+  const rightsRow = document.getElementById('main-media-consent');
+  const rightsCheck = document.getElementById('main-rights-check');
+  const newRequest = document.getElementById('studio-new-request');
+  const action = composer?.querySelector('button.action');
+  const intakeStatus = document.getElementById('message');
   const signout = document.getElementById('my-project-signout');
   const enabled = Boolean(
     config.authReady && config.redirectsReady && (config.legalApproved || config.registrationAudience === 'public-beta') &&
@@ -37,7 +44,190 @@
   let currentUser = null;
   let agreementReady = false;
   let googleAvailable = false;
+  let activeIntakeId = null;
+  let intakeBusy = false;
   const loginNote = 'Sign-in is not enabled. No email was sent and no user data was submitted.';
+  // Product model: intake is hidden from My Projects until a trusted render
+  // backend marks a final output complete. The AI API is NOT connected yet.
+  function localIntakeKey(){
+    return currentUser ? 'mah-studio-current-intake:' + currentUser.id : null;
+  }
+  function status(text){
+    if(intakeStatus)notice(intakeStatus,text);
+  }
+  function selectedUploads(){
+    return ['image','video','audio'].flatMap(id=>{
+      const control=document.getElementById(id);
+      return control ? Array.from(control.files||[]) : [];
+    });
+  }
+  function syncMediaConsent(){
+    if(rightsRow)rightsRow.hidden=!selectedUploads().length;
+    if(rightsCheck && !selectedUploads().length)rightsCheck.checked=false;
+  }
+  for(const kind of ['image','video','audio']){
+    document.getElementById(kind)?.addEventListener('change',syncMediaConsent);
+  }
+  function addThreadLine(text,who='user'){
+    if(!thread)return;
+    thread.hidden=false;
+    const line=document.createElement('div');
+    line.className='studio-thread-line '+(who==='user'?'from-user':'from-system');
+    const mark=document.createElement('strong');
+    mark.textContent=who==='user'?'You':'Studio status';
+    const content=document.createElement('p');
+    content.textContent=text;
+    line.append(mark,content);
+    thread.append(line);
+  }
+  function resetComposer(){
+    activeIntakeId=null;
+    const key=localIntakeKey();if(key)sessionStorage.removeItem(key);
+    if(thread){thread.replaceChildren();thread.hidden=true;}
+    if(uploads){uploads.replaceChildren();uploads.hidden=true;}
+    for(const id of ['image','video','audio'])document.getElementById(id).value='';
+    document.getElementById('idea').value='';
+    document.getElementById('reference-url').value='';
+    if(rightsCheck)rightsCheck.checked=false;
+    syncMediaConsent();
+    if(newRequest)newRequest.hidden=true;
+    if(intakeStatus)intakeStatus.hidden=true;
+  }
+  newRequest?.addEventListener('click',()=>{
+    if(intakeBusy)return;
+    resetComposer();
+    document.getElementById('idea').focus();
+  });
+  async function showIntakeFiles(){
+    if(!uploads||!activeIntakeId||!window.MAH_STUDIO_MEDIA)return;
+    const data=await window.MAH_STUDIO_MEDIA.listProject({api,projectId:activeIntakeId});
+    uploads.replaceChildren();
+    if(!data.pilot || !data.files?.length){uploads.hidden=true;return;}
+    uploads.hidden=false;
+    const title=document.createElement('strong');
+    title.textContent='Files in this private request';
+    uploads.append(title);
+    for(const asset of data.files){
+      const row=document.createElement('div');row.className='studio-upload-item';
+      const name=document.createElement('span');name.textContent=asset.filename+' ('+(asset.byte_size/1000000).toFixed(1)+' MB)';
+      const down=document.createElement('button');down.type='button';down.textContent='Download';
+      down.addEventListener('click',async()=>{
+        down.disabled=true;
+        try{await window.MAH_STUDIO_MEDIA.downloadFile({api,projectId:activeIntakeId,asset});}
+        catch(e){status('Download failed: '+e.message)}
+        finally{down.disabled=false;}
+      });
+      const del=document.createElement('button');del.type='button';del.textContent='Remove';
+      del.addEventListener('click',async()=>{
+        if(!confirm('Delete this file from private R2 storage?'))return;
+        del.disabled=true;
+        try{
+          await window.MAH_STUDIO_MEDIA.deleteFile({api,projectId:activeIntakeId,asset});
+          await showIntakeFiles();
+          status('File removed from this request.');
+        }catch(e){status('Delete failed: '+e.message)}
+        finally{del.disabled=false;}
+      });
+      row.append(name,down,del);uploads.append(row);
+    }
+  }
+  async function resumeIntake(){
+    if(!currentUser||!agreementReady)return;
+    const key=localIntakeKey();
+    const id=key?sessionStorage.getItem(key):null;
+    if(!id||!/^[0-9a-f-]{36}$/.test(id))return;
+    const {data,error}=await api.from('studio_projects').select('id,lifecycle')
+      .eq('id',id).eq('lifecycle','intake').maybeSingle();
+    if(error||!data){if(key)sessionStorage.removeItem(key);return;}
+    activeIntakeId=data.id;
+    if(newRequest)newRequest.hidden=false;
+    const {data:messages}=await api.from('studio_intake_messages')
+      .select('body').eq('project_id',id).order('created_at').limit(30);
+    if(thread){thread.replaceChildren();thread.hidden=true;}
+    (messages||[]).forEach(m=>addThreadLine(m.body));
+    try{await showIntakeFiles();}catch(e){status('Private files could not be loaded: '+e.message)}
+    if(messages?.length)status('Your private request is ready to continue here. AI editing is not enabled yet.');
+  }
+  async function submitIntake(event){
+    event.preventDefault();
+    // The earlier static-preview handler must not overwrite real upload status.
+    event.stopImmediatePropagation();
+    if(intakeBusy)return;
+    if(!currentUser||!agreementReady){
+      openAuth();
+      status('Sign in to submit your request securely. Text and files have not been sent.');
+      return;
+    }
+    const message=document.getElementById('idea').value.trim();
+    const ref=document.getElementById('reference-url').value.trim();
+    const attached=selectedUploads();
+    if(!message&&!ref&&!attached.length){status('Describe your edit or choose a reference or file first.');return;}
+    if(attached.length&&(!rightsCheck||!rightsCheck.checked)){
+      status('Please confirm you have permission to use these files before uploading.');
+      rightsCheck?.focus();
+      return;
+    }
+    intakeBusy=true;
+    if(action)action.disabled=true;
+    if(newRequest)newRequest.disabled=true;
+    try{
+      // Public accounts may submit text during beta, but R2 uploads are limited
+      // to the one approved test account until quotas and retention are verified.
+      if(attached.length){
+        const {data:tester,error:testError}=await api.from('studio_media_testers').select('user_id').limit(1);
+        if(testError)throw testError;
+        if(!tester?.length)throw Error('File uploads are still a closed test. Your request and files have not been submitted.');
+      }
+      let projectId=activeIntakeId;
+      if(!projectId){
+        const selectedStyleId=document.getElementById('style-id').value.trim();
+        const selectedStyle=selectedStyleId?{
+          id:selectedStyleId.slice(0,100),title:document.getElementById('style-name').value.slice(0,140),
+          description:document.getElementById('style-description').value.slice(0,500)
+        }:{};
+        const title=(message||ref||'New video edit request').slice(0,80);
+        const {data,error}=await api.from('studio_projects').insert({
+          title,brief:message.slice(0,20000),reference_url:ref||null,selected_style:selectedStyle
+        }).select('id').single();
+        if(error)throw error;
+        projectId=data.id;
+        activeIntakeId=projectId;
+        const key=localIntakeKey();if(key)sessionStorage.setItem(key,projectId);
+        if(newRequest)newRequest.hidden=false;
+      }
+      if(message){
+        const {error}=await api.from('studio_intake_messages')
+          .insert({project_id:projectId,body:message.slice(0,10000)});
+        if(error)throw error;
+        addThreadLine(message);
+      }
+      // A reference alone is stored on the intake project (no video download).
+      for(let i=0;i<attached.length;i++){
+        const file=attached[i];
+        if(file.size>15000000)throw Error(file.name+' exceeds the 15 MB private test limit.');
+        if(!window.MAH_STUDIO_MEDIA?.uploadToProject)throw Error('Secure upload module has not loaded.');
+        status('Uploading '+(i+1)+' of '+attached.length+': '+file.name);
+        await window.MAH_STUDIO_MEDIA.uploadToProject({
+          api,projectId,file,
+          progress:p=>status('Uploading '+file.name+(p===null?'…':' · '+p+'%'))
+        });
+      }
+      for(const id of ['image','video','audio'])document.getElementById(id).value='';
+      syncMediaConsent();
+      if(rightsCheck)rightsCheck.checked=false;
+      if(message)document.getElementById('idea').value='';
+      await showIntakeFiles();
+      status('Request saved privately in this conversation. Video editing, AI replies, quotes and payments are not active yet.');
+      // This is a real status notice, NOT a fabricated AI reply.
+    }catch(err){status('Could not complete the request: '+err.message)}
+    finally{
+      intakeBusy=false;if(action)action.disabled=false;
+      if(newRequest)newRequest.disabled=false;
+    }
+  }
+  // Capture before the old static preview submit handler (bubbling listener).
+  composer?.addEventListener('submit',submitIntake,true);
+
   const redirectTo = window.location.origin + '/';
   const queryParams = new URLSearchParams(window.location.search);
   const hashParams = new URLSearchParams((window.location.hash || '').replace(/^#/, ''));
@@ -65,7 +255,7 @@
   // Avoid accidental closing on backdrop taps. Close via X or Escape only.
   check.addEventListener('change',authButtons);
   previewNote.textContent=enabled ?
-    'Email registration is open in public beta. Drafts are private; media uploads, payment and video rendering are not yet enabled.' :
+    'Email registration is open. Private media upload is limited to one test account; AI editing, payment and rendering are not yet active.' :
     'Accounts are not enabled yet. No account or consent record is created here.';
   authButtons();
   if(emailCallbackError){
@@ -154,20 +344,20 @@
   }
   async function refreshProjects(){
     const {data,error}=await api.from('studio_projects')
-      .select('id,title,brief,reference_url,selected_style,created_at,updated_at')
-      .order('updated_at',{ascending:false}).limit(50);
+      .select('id,title,brief,reference_url,selected_style,created_at,updated_at,expires_at')
+      .eq('lifecycle','completed').order('updated_at',{ascending:false}).limit(50);
     if(error){notice(projectNotice,'Could not load your projects: '+error.message);return;}
     list.replaceChildren();
     if(!data?.length){
-      const info=document.createElement('p');info.textContent='No saved projects yet. Start with a brief above.';
+      const info=document.createElement('p');info.textContent='No completed videos yet. When a final edit is ready, it will appear here automatically.';
       list.append(info);return;
     }
     for(const item of data){
       const row=document.createElement('div');row.className='my-project-row';
       const title=document.createElement('strong');title.textContent=item.title;
       const caption=document.createElement('small');
-      caption.textContent='Saved '+new Date(item.updated_at).toLocaleString();
-      const load=document.createElement('button');load.type='button';load.textContent='Load draft';
+      caption.textContent='Finished '+new Date(item.updated_at).toLocaleString()+(item.expires_at?' · Retained until '+new Date(item.expires_at).toLocaleDateString():'');
+      const load=document.createElement('button');load.type='button';load.textContent='Reuse this edit';
       load.addEventListener('click',()=>{
         document.getElementById('idea').value=item.brief || '';
         document.getElementById('reference-url').value=item.reference_url || '';
@@ -184,7 +374,7 @@
         document.getElementById('reference').hidden=!item.reference_url;
         document.getElementById('link-toggle').setAttribute('aria-expanded',String(Boolean(item.reference_url)));
         window.scrollTo({top:0,behavior:'smooth'});
-        notice(projectNotice,'Draft loaded into the editor. Changes are not saved until you save again.');
+        notice(projectNotice,'Previous edit loaded into the main composer. A new request can be sent there.');
       });
       const remove=document.createElement('button');remove.type='button';remove.textContent='Delete';
       remove.addEventListener('click',async()=>{
@@ -249,6 +439,7 @@
     projects.hidden=false;
     projectNotice.hidden=true;
     await refreshProjects();
+    await resumeIntake();
   }
   // Register this only once: repeated AUTH events must not add consent handlers.
   let acceptingAgreement=false;
@@ -264,6 +455,7 @@
         projects.hidden=false;
         projectNotice.hidden=true;
         await refreshProjects();
+        await resumeIntake();
       }
     }catch(err){
       notice(feedback,'Could not save the acceptance: '+err.message);
@@ -271,34 +463,10 @@
       acceptingAgreement=false;
     }
   });
-  save.addEventListener('click',async()=>{
-    if(!currentUser||!agreementReady)return openAuth();
-    const brief=document.getElementById('idea').value.trim();
-    const reference=document.getElementById('reference-url').value.trim();
-    const title=brief.slice(0,80)||'Untitled project';
-    save.disabled=true;
-    try {
-      const selectedStyleId=document.getElementById('style-id').value.trim();
-      const selectedStyle=selectedStyleId ? {
-        id:selectedStyleId.slice(0,100),
-        title:document.getElementById('style-name').value.slice(0,140),
-        description:document.getElementById('style-description').value.slice(0,500)
-      }: {};
-      const {data,error}=await api.from('studio_projects').insert({
-        title,brief,reference_url:reference||null,selected_style:selectedStyle
-      }).select('id').single();
-      if(error)throw error;
-      // Files are not automatically uploaded just because they are selected.
-      // Uploaded media will be separately enabled after retention/consent finalization.
-      notice(projectNotice,'Draft saved privately. Owner-only media testing is available from Media archive below; uploads are not public.');
-      await refreshProjects();
-    }catch(err){notice(projectNotice,'Could not save project: '+err.message);}
-    finally{save.disabled=false;}
-  });
   signout.addEventListener('click',async()=>{
     const {error}=await api.auth.signOut();
     if(error)notice(projectNotice,'Sign out failed: '+error.message);
-    else {currentUser=null;agreementReady=false;projects.hidden=true;login.textContent='Sign Up / Log In';}
+    else {currentUser=null;agreementReady=false;projects.hidden=true;login.textContent='Sign Up / Log In';resetComposer();}
   });
   api.auth.onAuthStateChange((_event,_session)=>{setTimeout(()=>{void refreshAuth();},0);});
   void refreshAuth();
