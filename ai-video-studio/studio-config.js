@@ -2,8 +2,8 @@
 // Enable AFTER a dedicated project exists, RLS migration has been reviewed/applied,
 // Google/email redirects are configured, and final privacy terms are published.
 window.MAH_STUDIO_CONFIG = Object.freeze({
-  supabaseUrl: "",
-  supabasePublishableKey: "",
+  supabaseUrl: "https://gthwpfscrewwamjxheyj.supabase.co",
+  supabasePublishableKey: "sb_publishable_7QQCrCTCZ_-rBPKIWc0qVg_cu2lAaoD",
   authReady: false,
   legalApproved: false,
   googleProviderReady: false,
