@@ -105,7 +105,7 @@
     if(window.sessionStorage.getItem('mah-studio-terms-ack')!=='yes')return false;
     const {error:acceptError}=await api.from('studio_agreement_acceptances')
       .insert({terms_version:config.termsVersion,privacy_version:config.privacyVersion});
-    if(acceptError)throw acceptError;
+    if(acceptError && acceptError.code!=='23505')throw acceptError;
     window.sessionStorage.removeItem('mah-studio-terms-ack');
     return true;
   }
