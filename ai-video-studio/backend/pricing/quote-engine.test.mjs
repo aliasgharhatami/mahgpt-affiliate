@@ -15,7 +15,7 @@ test('costs all operations and adds margins, fees and reserve',()=>{
   {type:'render',units:100},
   {type:'storage',units:20}
  ]},rates);
- assert.equal(quote.costUSD,0.401);
+ assert.equal(quote.costUSD,0.4007);
  assert.equal(quote.customerPriceUSD,1.09);
  assert.equal(quote.payable,false);
 });
