@@ -12,6 +12,6 @@ window.MAH_STUDIO_CONFIG = Object.freeze({
   aiRenderingReady: false, // Model processing and media agreement not launched.
   registrationAudience: 'public-beta', // Anyone can request a text-only beta account using verified Resend SMTP.
   googleProviderReady: false, // Auto-discovered from Supabase Auth's public provider settings.
-  termsVersion: "public-beta-2026-11-02-v2",
+  termsVersion: "public-beta-2026-11-02-v3",
   privacyVersion: "public-beta-2026-11-02-v3"
 });
