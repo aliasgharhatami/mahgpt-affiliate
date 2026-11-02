@@ -56,6 +56,7 @@
 #my-project-notice{padding:10px;background:#eee7d9;border-left:3px solid var(--gold);font-size:13px}
 #my-project-notice[hidden]{display:none}
 @media(max-width:600px){.my-project-toolbar,.my-project-row{align-items:flex-start;flex-direction:column}}
+.auth-build-id{font-size:10px;color:#6c776e;letter-spacing:.035em;margin:7px 0 0;text-align:center}
 </style></head>
 <body><header class="header"><div class="wrap nav"><a class="brand" href="/" aria-label="MAH GPT Studio home"><svg viewBox="0 0 40 40" fill="none" aria-hidden="true"><rect x="4" y="11" width="32" height="25" rx="3" fill="#123d2a"/><path d="M2 8 32 2l2 7L4 15z" fill="#123d2a"/><path d="m9 6 4 5m5-7 4 5m5-7 4 5" stroke="#f7f2e9" stroke-width="3"/><path d="m17 18 11 6-11 6z" fill="#f7f2e9"/></svg><span>MAH GPT <i>Studio</i></span></a><nav class="nav-links" aria-label="Main navigation"><a href="#samples">Sample Videos</a><a href="#how">How It Works</a><a class="nav-ai-models" href="/ai-models/" aria-label="Explore AI Models">AI Models</a><button class="login" id="login" type="button" aria-haspopup="dialog" aria-controls="auth-dialog">Sign Up / Log In</button></nav></div></header>
 <main><section class="wrap hero"><div class="art" role="img" aria-label="A cinematic director's chair and film equipment"></div><div class="content"><div class="eyebrow">AI Video Studio</div><h1 style="font-size:clamp(28px,3vw,42px);margin-bottom:32px">Affordable Video Editing &amp; Motion Graphics.</h1>
@@ -194,12 +195,12 @@
 <form id="auth-email-form" novalidate>
 <label class="auth-email-label" for="auth-email">Email address</label>
 <input id="auth-email" name="email" class="auth-email" type="email" autocomplete="email" inputmode="email" placeholder="you@example.com" required>
-<button class="auth-submit" id="auth-email-submit" type="submit" disabled>Continue with Email</button>
+<button class="auth-submit" id="auth-email-submit" type="button" disabled>Continue with Email</button>
 </form>
 <label class="auth-consent" for="auth-consent"><input id="auth-consent" type="checkbox" required><span>I agree to the <a href="/ai-video-studio/terms.html" target="_blank" rel="noopener noreferrer">Terms of Service</a> and acknowledge the <a href="/ai-video-studio/privacy.html" target="_blank" rel="noopener noreferrer">Privacy &amp; Media Handling Notice</a>. During this beta, only my login details and text project drafts are stored; media uploads are not yet enabled.</span></label>
 <p class="auth-media-note"><strong>Your drafts remain yours.</strong> Test sign-in uses Supabase. Until a dedicated email provider is set up, sign-in links can only be delivered to approved Supabase team addresses. Photos, videos, paid orders and public portfolios are not enabled.</p>
 <p class="auth-notice" id="auth-notice" role="alert" aria-live="polite" hidden></p>
-<p class="auth-preview-label">Accounts are not enabled yet. This is a preview of the planned sign-in experience; no account is created here.</p>
+<p class="auth-preview-label" id="auth-preview-label">Email sign-in beta · Build 03</p><p class="auth-build-id">Login build 03 · 2026-11-02</p>
 </div>
 </dialog>
 <script>
@@ -319,8 +320,15 @@ renderGallery();
 <script>
 // Prevent the browser's default form navigation even if the auth SDK is blocked.
 document.getElementById('auth-email-form').addEventListener('submit', event => event.preventDefault(), true);
+document.getElementById('auth-email-submit').addEventListener('click', () => {
+  const button=document.getElementById('auth-email-submit');
+  if (button.dataset.authHandlerReady==='1') return;
+  const message=document.getElementById('auth-notice');
+  message.hidden=false;
+  message.textContent='The sign-in script has not initialized. No email was sent. Please reload this page or check your browser extensions.';
+}, true);
 </script>
-<script defer src="studio-config.js?v=20261102-fix2"></script>
+<script defer src="studio-config.js?v=20261102-fix3"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0/dist/umd/supabase.js"></script>
-<script defer src="studio-account.js?v=20261102-fix2"></script>
+<script defer src="studio-account.js?v=20261102-fix3"></script>
 </body></html>
