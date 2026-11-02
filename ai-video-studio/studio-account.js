@@ -190,13 +190,13 @@
     if(action)action.disabled=true;
     if(newRequest)newRequest.disabled=true;
     try{
-      // Public accounts may submit text during beta, but R2 uploads are limited
-      // to the one approved test account until quotas and retention are verified.
-      if(attached.length){
-        const {data:tester,error:testError}=await api.from('studio_media_testers').select('user_id').limit(1);
-        if(testError)throw testError;
-        if(!tester?.length)throw Error('File uploads are still a closed test. Your request and files have not been submitted.');
-      }
+      // Until the render pipeline and safe R2 cleanup exist, the full intake
+      // remains founder-only. Public login remains available without accepting
+      // production requests we cannot fulfill.
+      const {data:tester,error:testError}=await api.from('studio_media_testers')
+        .select('user_id').limit(1);
+      if(testError)throw testError;
+      if(!tester?.length)throw Error('The editing workflow is in private testing. No request or files were submitted.');
       let projectId=activeIntakeId;
       if(!projectId){
         const selectedStyleId=document.getElementById('style-id').value.trim();
