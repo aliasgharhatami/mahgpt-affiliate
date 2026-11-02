@@ -36,7 +36,7 @@
   let currentUser = null;
   let agreementReady = false;
   const loginNote = 'Account creation is not enabled yet. No email was sent and no user data was submitted.';
-  const redirectTo = window.location.origin + '/ai-video-studio/';
+  const redirectTo = window.location.origin + '/';
   function notice(node, text) {node.hidden=false; node.textContent=text;}
   function authButtons() {
     google.disabled = !enabled || !config.googleProviderReady || !check.checked;
