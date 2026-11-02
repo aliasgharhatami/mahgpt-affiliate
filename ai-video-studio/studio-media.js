@@ -130,5 +130,26 @@ function mount({container,project,api}){
   if(!panel.hidden&&!pilot)await reload();
  });
 }
-window.MAH_STUDIO_MEDIA=Object.freeze({mount});
+async function uploadToProject({api,projectId,file,progress=()=>{}}){
+ const form=new FormData();
+ form.append('project_id',projectId);
+ form.append('rights_confirmed','true');
+ form.append('file',file,file.name);
+ return uploadFile(api,form,progress);
+}
+async function listProject({api,projectId}){
+ return request(api,'?project_id='+encodeURIComponent(projectId));
+}
+async function downloadFile({api,projectId,asset}){
+ const blob=await request(api,'?project_id='+encodeURIComponent(projectId)+'&asset_id='+encodeURIComponent(asset.id),{download:true});
+ const url=URL.createObjectURL(blob);
+ const a=document.createElement('a');a.href=url;a.download=asset.filename;
+ a.style.display='none';document.body.appendChild(a);a.click();a.remove();
+ setTimeout(()=>URL.revokeObjectURL(url),30000);
+}
+async function deleteFile({api,projectId,asset}){
+ return request(api,'',{method:'DELETE',headers:{'Content-Type':'application/json'},
+  body:JSON.stringify({project_id:projectId,asset_id:asset.id})});
+}
+window.MAH_STUDIO_MEDIA=Object.freeze({mount,uploadToProject,listProject,downloadFile,deleteFile});
 })();
