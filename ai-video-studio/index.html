@@ -33,6 +33,7 @@
 .auth-consent input{flex:none;width:17px;height:17px;margin:4px 0 0;accent-color:var(--forest);cursor:pointer}
 .auth-consent span{display:block}
 .auth-consent a{font-weight:700;color:var(--forest);text-decoration:underline;text-underline-offset:3px}
+.auth-privacy-disclosure{font-size:12px;line-height:1.7;color:#485b4d;margin:12px 0 0}.auth-privacy-disclosure a{color:var(--forest);font-weight:700;text-decoration:underline}
 .auth-media-note{font-size:11px;line-height:1.75;color:#5a6a5b;background:#efeae0;padding:11px 13px;border-radius:8px;margin:13px 0 0}
 .auth-media-note strong{color:var(--forest)}
 .auth-notice{padding:11px 13px;border-left:3px solid var(--gold);background:#eee7d9;font-size:12px;line-height:1.6;color:var(--ink);margin:14px 0 0}
@@ -198,7 +199,8 @@
 <input id="auth-email" name="email" class="auth-email" type="email" autocomplete="email" inputmode="email" placeholder="you@example.com" required>
 <button class="auth-submit" id="auth-email-submit" type="button" disabled>Continue with Email</button>
 </form>
-<label class="auth-consent" for="auth-consent"><input id="auth-consent" type="checkbox" required><span>I agree to the <a href="/terms-of-service.html" target="_blank" rel="noopener noreferrer">Terms of Service</a> and acknowledge the <a href="/privacy-policy.html" target="_blank" rel="noopener noreferrer">Privacy &amp; Media Handling Notice</a>. During this beta, only my login details and text project drafts are stored; media uploads are not yet enabled.</span></label>
+<label class="auth-consent" for="auth-consent"><input id="auth-consent" type="checkbox" required><span>I agree to the <a href="/terms-of-service.html" target="_blank" rel="noopener noreferrer">Terms of Service</a> for the public beta.</span></label>
+<p class="auth-privacy-disclosure">Please read our <a href="/privacy-policy.html" target="_blank" rel="noopener noreferrer">Privacy Policy</a> before continuing. It explains how we process sign-in information and private text drafts. This notice is not a request for marketing, publicity, AI-training or biometric consent. Media uploads and payments are not yet enabled.</p>
 <p class="auth-media-note"><strong>Your drafts remain yours.</strong> Email sign-in uses Supabase and our Resend email service. Sign-up is open; project drafts stay private. Photos, videos, paid orders and public portfolios are not enabled.</p>
 <p class="auth-notice" id="auth-notice" role="alert" aria-live="polite" hidden></p>
 <p class="auth-retry-hint" id="auth-retry-hint" hidden>Your email confirmation link was not accepted. Request a fresh email and open its newest link only.</p>
