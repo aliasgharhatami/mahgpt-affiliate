@@ -251,3 +251,14 @@ If the owner says yes, update this document in the same PR or in a small follow-
 - Zero-pay requirement: do not enable Google billing, paid TTS, paid hosting or subscriptions without explicit permission. Free GitHub Actions and Gemini API quotas remain finite.
 
 Source of truth: [Giti operations](../gardagard-giti/automation/README.md). Changes in that subtree must not silently change MahGPT's existing SEO/site/Telegram publish workflows.
+
+## MAH GPT Studio Homepage Routing (2026-11-02)
+
+- Main landing page: `https://mahgpt.com/` (Studio), source `index.html`.
+- Prior AI-tools portal: `https://mahgpt.com/ai-models/`, source `ai-models/index.html` (preserved prior homepage).
+- Legacy Studio URL `/ai-video-studio/` remains functional as a non-indexed compatibility alias. Studio images, sign-in JS and legal pages still load from `/ai-video-studio/`.
+- AI Models nav in both Studio entries links to `/ai-models/`; the AI Models page links back to the new Studio root.
+- Existing article, news, guide, partner, multilingual and affiliate redirect URLs remain where they were. Do not bulk-move them without a controlled migration and redirects; automated publishing/SEO depend on existing paths.
+- SEO: root canonical points to Studio, `/ai-models/` canonical points to itself, legacy Studio alias is noindex, and sitemap generation treats `ai-models/index.html` as `/ai-models/`.
+- Supabase Auth redirect target changed to `https://mahgpt.com/` in `ai-video-studio/studio-account.js`. Owner must configure that exact site/redirect URL in Supabase dashboard before enabling registration. Authentication remains disabled until verified and final legal notices approved.
+
