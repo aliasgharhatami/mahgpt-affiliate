@@ -1,0 +1,44 @@
+name: Studio R2 binding live smoke
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "functions/api/studio/storage-status.js"
+      - ".github/workflows/studio-r2-binding-smoke.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-r2-binding:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - name: Check Production R2 binding after Pages deploy (no object operations)
+        shell: bash
+        run: |
+          set -euo pipefail
+          for trial in {1..20}; do
+            code=$(curl --max-time 15 --silent --show-error -L -o /tmp/r2-binding.json -w "%{http_code}" "https://mahgpt.com/api/studio/storage-status?check=${GITHUB_SHA}-${trial}" || echo "000")
+            if python3 - <<'PY'
+          import json,sys
+          try:
+              obj=json.load(open('/tmp/r2-binding.json'))
+              assert obj.get('diagnostic_version')=='binding-v2'
+              assert obj.get('storage_connected') is True
+              assert obj.get('uploads_enabled') is False
+              assert obj.get('customer_media_access')=='disabled'
+          except Exception:
+              sys.exit(1)
+          PY
+            then
+              echo "PASS: private R2 binding injected, no uploads enabled"
+              exit 0
+            fi
+            echo "Attempt ${trial}/20: HTTP ${code}. Waiting for bound Pages deployment."
+            if [ "${trial}" -lt 20 ]; then sleep 10; fi
+          done
+          echo "::error::Production Pages R2 binding not detected. In mahgpt-affiliate > Settings > Bindings (Production), verify STUDIO_MEDIA -> mahgpt-studio-private-media, then redeploy Production."
+          exit 1
