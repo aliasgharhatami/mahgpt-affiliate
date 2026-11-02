@@ -20,7 +20,7 @@
   const save = document.getElementById('my-project-save');
   const signout = document.getElementById('my-project-signout');
   const enabled = Boolean(
-    config.authReady && config.legalApproved &&
+    config.authReady && config.legalApproved && config.redirectsReady &&
     /^https:\/\/[a-z0-9-]+\.supabase\.co\/?$/.test(config.supabaseUrl || '') &&
     /^sb_publishable_[a-zA-Z0-9_-]+$/.test(config.supabasePublishableKey || '') &&
     config.termsVersion !== 'pending-final' &&
@@ -184,20 +184,6 @@
       login.textContent='Accept Terms';
       openAuth();
       notice(feedback,'Please accept the Terms of Service and Privacy Notice before using your account.');
-      check.addEventListener('change',async function acceptOnChange(){
-        if(!check.checked)return;
-        try {
-          window.sessionStorage.setItem('mah-studio-terms-ack','yes');
-          agreementReady=await confirmAgreement(currentUser);
-          if(agreementReady){
-            dialog.close();
-            projects.hidden=false;
-            login.textContent='My Projects';
-            await refreshProjects();
-          }
-        }catch(err){notice(feedback,err.message);}
-        check.removeEventListener('change',acceptOnChange);
-      },{once:false});
       return;
     }
     if(dialog.open)dialog.close();
@@ -206,6 +192,27 @@
     projectNotice.hidden=true;
     await refreshProjects();
   }
+  // Register this only once: repeated AUTH events must not add consent handlers.
+  let acceptingAgreement=false;
+  check.addEventListener('change',async()=>{
+    if(!check.checked || !currentUser || agreementReady || acceptingAgreement)return;
+    acceptingAgreement=true;
+    try {
+      window.sessionStorage.setItem('mah-studio-terms-ack','yes');
+      agreementReady=await confirmAgreement(currentUser);
+      if(agreementReady){
+        dialog.close();
+        login.textContent='My Projects';
+        projects.hidden=false;
+        projectNotice.hidden=true;
+        await refreshProjects();
+      }
+    }catch(err){
+      notice(feedback,'Could not save the acceptance: '+err.message);
+    }finally{
+      acceptingAgreement=false;
+    }
+  });
   save.addEventListener('click',async()=>{
     if(!currentUser||!agreementReady)return openAuth();
     const brief=document.getElementById('idea').value.trim();
