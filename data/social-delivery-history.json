@@ -8296,6 +8296,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/tablets/ereaders/amazons-ask-this-book-feature-is-finally-rolling-out-to-kindles-but-certain-models-and-regions-may-be-excluded": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-02T23:07:41.545Z",
+        "message_id": 724,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
