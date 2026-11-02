@@ -84,12 +84,19 @@
       authButtons();
     }
   });
-  document.getElementById('auth-email-form').addEventListener('submit',async e=>{
+  // This button is deliberately type=button; it can never submit/navigate the page.
+  emailButton.dataset.authHandlerReady='1';
+  document.getElementById('auth-email-form').addEventListener('submit',e=>{
     e.preventDefault();
+    if(!emailButton.disabled)emailButton.click();
+  });
+  emailButton.addEventListener('click',async e=>{
+    e.preventDefault();
+    e.stopPropagation();
     if(!check.checked)return;
     if(!email.checkValidity()){email.reportValidity();return;}
     emailButton.disabled=true;
-    notice(feedback,'Sending sign-in request…');
+    notice(feedback,'Contacting the secure sign-in service…');
     try {
       window.sessionStorage.setItem('mah-studio-terms-ack','yes');
       const {error}=await api.auth.signInWithOtp({
