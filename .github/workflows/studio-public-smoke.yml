@@ -45,10 +45,17 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          curl -fLsS --max-time 15 "https://gthwpfscrewwamjxheyj.supabase.co/auth/v1/settings" -o /tmp/studio-auth-settings.json
+          python3 - <<'PY'
+          import re,sys
+          cfg=open('/tmp/studio-config.js').read()
+          key=re.search(r'supabasePublishableKey: "(sb_publishable_[^"]+)"',cfg)
+          if not key:sys.exit("Public client config missing publishable key")
+          open('/tmp/studio-public-key','w').write(key.group(1))
+          PY
+          curl -fLsS --max-time 15 -H "apikey: $(cat /tmp/studio-public-key)" "https://gthwpfscrewwamjxheyj.supabase.co/auth/v1/settings" -o /tmp/studio-auth-settings.json
           python3 - <<'PY'
           import json
           with open('/tmp/studio-auth-settings.json') as f:
               settings=json.load(f)
-          print('Supabase auth reachable; email provider config:',settings.get('external',{}).get('email','not exposed'))
+          print('Supabase auth reachable; email enabled:',settings.get('external',{}).get('email','not exposed'))
           PY
