@@ -2,6 +2,17 @@
 Date: 2026-11-02
 Status: Architecture decided; uploads remain disabled. Bucket / paid subscription / Worker / end-to-end validation pending.
 
+## Founder-approved zero-spend phase — strict launch condition
+The project owner has requested **no payments or subscriptions with charges before first paying customer**. Do **not** activate any R2 checkout that incurs fees, select Infrequent Access, expose public/customer uploads, or create a paid Cloudflare subscription without explicit fresh approval.
+
+**Provider fact:** R2 Standard includes 10 GB-month storage, 1 million Class A and 10 million Class B operations per month with free egress, but free tier is **not a hard stop**. Cloudflare may require checkout/payment information to enable an R2 subscription. Budget alerts do NOT cap/stop overages.
+
+**Engineering launch gate:** reject public access until the Worker implements race-safe server-side capacity reservations and cleanup. Use a protective 8,000,000,000-byte total active+reserved allowance for the *whole Studio*, not 10 GB per user. Initial limits recommended: 1 GB/account and 300 MB/file with at most 2 active uploads per account. These are proposed limits, not yet enforced: R2 cannot be marketed as guaranteed $0 until account-specific billing and all operations are monitored. Keep the storage feature flag OFF until verified.
+
+**Required owner action:** open Cloudflare Dashboard → Storage & databases → R2 → Overview. If R2 is already active, create a private Standard bucket named `mahgpt-studio-private-media`. If dashboard asks for payment method or checkout, stop and review terms; do not assume a $0 screen guarantees no future charges.
+
+**Status:** neither Cloudflare R2 activation nor a bucket connection has been verified in this chat, so the public Studio upload feature remains OFF.
+
 ## Architecture
 - **Supabase Auth + PostgreSQL:** users, projects, private asset metadata, agreement and access records. Preserve RLS and project ownership.
 - **Cloudflare R2 Standard private bucket:** original customer images, audio and video, later processed results. Use a dedicated bucket e.g. `mahgpt-studio-private-media`; no public bucket URL or unrestricted public objects.
