@@ -198,7 +198,7 @@
 </form>
 <label class="auth-consent" for="auth-consent"><input id="auth-consent" type="checkbox" required><span>I agree to the <a href="/ai-video-studio/terms.html" target="_blank" rel="noopener noreferrer">Terms of Service</a> and acknowledge the <a href="/ai-video-studio/privacy.html" target="_blank" rel="noopener noreferrer">Privacy &amp; Media Handling Notice</a>. During this beta, only my login details and text project drafts are stored; media uploads are not yet enabled.</span></label>
 <p class="auth-media-note"><strong>Your drafts remain yours.</strong> Test sign-in uses Supabase. Until a dedicated email provider is set up, sign-in links can only be delivered to approved Supabase team addresses. Photos, videos, paid orders and public portfolios are not enabled.</p>
-<p class="auth-notice" id="auth-notice" role="status" hidden></p>
+<p class="auth-notice" id="auth-notice" role="alert" aria-live="polite" hidden></p>
 <p class="auth-preview-label">Accounts are not enabled yet. This is a preview of the planned sign-in experience; no account is created here.</p>
 </div>
 </dialog>
@@ -316,7 +316,11 @@ document.getElementById('brief').addEventListener('submit',e=>{e.preventDefault(
 renderGallery();
 })();
 </script>
-<script defer src="studio-config.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0"></script>
-<script defer src="studio-account.js"></script>
+<script>
+// Prevent the browser's default form navigation even if the auth SDK is blocked.
+document.getElementById('auth-email-form').addEventListener('submit', event => event.preventDefault(), true);
+</script>
+<script defer src="studio-config.js?v=20261102-fix2"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0/dist/umd/supabase.js"></script>
+<script defer src="studio-account.js?v=20261102-fix2"></script>
 </body></html>
