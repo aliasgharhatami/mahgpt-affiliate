@@ -273,3 +273,12 @@ Source of truth: [Giti operations](../gardagard-giti/automation/README.md). Chan
 - Test by opening `https://mahgpt.com/` → Sign Up / Log In → agreeing to the limited beta terms → Continue with Email with a confirmed Supabase team member address; open the magic link in the same browser. Then inspect account, accept beta notice if needed, save a draft, sign out, and confirm it remains private.
 - SQL policy checks: anonymous users have no table SELECT grant for projects, private media bucket, Supabase security advisor no lints. End-to-end email delivery and callback are **not independently verified** yet; must be confirmed by owner.
 - Before open public registration: finalize legal operator details, update service/privacy documents, configure custom SMTP (and provider domain verification), test actual public email delivery and rate limits, and deploy separate Google OAuth credentials.
+
+## Auth UI incident and guardrails (2026-11-02)
+
+- A tester reported clicking email sign-in closed the modal and scrolled the page without delivering mail.
+- Available Auth logs showed no recent email-OTP calls (they did not establish an email-delivery failure). Do not infer an SMTP failure until the browser actually sends a request.
+- To stop native form submissions on SDK failure, `index.html` and `ai-video-studio/index.html` attach an early capture-phase `preventDefault()` handler to `auth-email-form`, before deferred scripts.
+- The pinned SDK uses its explicit UMD browser asset path `@supabase/supabase-js@2.118.0/dist/umd/supabase.js`; the main account handler is cache-busted after deployment.
+- The dialog no longer closes on backdrop clicks. Sign-in SDK failures and OTP request errors display within the dialog.
+- **End-to-end delivery remains unverified.** Verify with a Supabase team-authorized test email on the latest deployed `https://mahgpt.com/`, not only source-code checks. Unapproved email addresses require custom SMTP before public launch.
