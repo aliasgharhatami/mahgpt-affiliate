@@ -34,6 +34,7 @@ jobs:
             fi
             sleep 8
           done
+          echo "Checking live login form and account JS"
           grep -q 'id="auth-email-submit" type="button"' /tmp/studio-home.html
           grep -q 'src="/ai-video-studio/studio-account.js?v=20261102-fix5"' /tmp/studio-home.html
           curl -fLsS --max-time 15 "https://mahgpt.com/ai-video-studio/studio-account.js?v=${GITHUB_SHA}" -o /tmp/studio-account.js
@@ -42,13 +43,24 @@ jobs:
           grep -q 'betaEmailOnly: true' /tmp/studio-config.js
           curl -fLsS --max-time 15 "https://mahgpt.com/ai-models/" -o /tmp/ai-models.html
           grep -q "The AI Tools Report" /tmp/ai-models.html
+          echo "Checking Supabase browser library"
           curl -fLsS --max-time 20 "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0/dist/umd/supabase.js" -o /tmp/supabase-sdk.js
           test "$(wc -c </tmp/supabase-sdk.js)" -gt 10000
           grep -q "createClient" /tmp/supabase-sdk.js
-          curl -fLsS --max-time 15 "https://mahgpt.com/confirm-email.html" -o /tmp/confirm-email.html
-          grep -q "Confirm Email &amp; Open My Projects" /tmp/confirm-email.html
-          curl -fLsS --max-time 15 "https://mahgpt.com/ai-video-studio/confirm-email.js" -o /tmp/confirm-email.js
+          echo "Checking first-party confirmation page"
+          for trial in {1..12}; do
+            curl -fLsS --max-time 15 -H "Cache-Control: no-cache" "https://mahgpt.com/confirm-email.html?deploycheck=${GITHUB_SHA}" -o /tmp/confirm-email.html || true
+            if grep -q "Confirm Email &amp; Open My Projects" /tmp/confirm-email.html 2>/dev/null; then break; fi
+            if [ "$trial" -eq 12 ]; then
+              echo "::error::Confirmation page absent on live domain"
+              exit 1
+            fi
+            sleep 8
+          done
+          echo "Confirmation page online"
+          curl -fLsS --max-time 15 "https://mahgpt.com/ai-video-studio/confirm-email.js?v=${GITHUB_SHA}" -o /tmp/confirm-email.js
           grep -q "verifyOtp" /tmp/confirm-email.js
+          echo "Confirmation script online"
           echo "PASS: Live homepage, auth, email confirmation page, and AI Models portal"
       - name: Check public Supabase Auth settings (no email sent)
         shell: bash
