@@ -13,5 +13,5 @@ window.MAH_STUDIO_CONFIG = Object.freeze({
   registrationAudience: 'public-beta', // Anyone can request a text-only beta account using verified Resend SMTP.
   googleProviderReady: false, // Auto-discovered from Supabase Auth's public provider settings.
   termsVersion: "public-beta-2026-11-02-v2",
-  privacyVersion: "public-beta-2026-11-02-v2"
+  privacyVersion: "public-beta-2026-11-02-v3"
 });
