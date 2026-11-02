@@ -108,7 +108,7 @@
   }
   async function refreshProjects(){
     const {data,error}=await api.from('studio_projects')
-      .select('id,title,brief,reference_url,created_at,updated_at')
+      .select('id,title,brief,reference_url,selected_style,created_at,updated_at')
       .order('updated_at',{ascending:false}).limit(50);
     if(error){notice(projectNotice,'Could not load your projects: '+error.message);return;}
     list.replaceChildren();
@@ -125,6 +125,16 @@
       load.addEventListener('click',()=>{
         document.getElementById('idea').value=item.brief || '';
         document.getElementById('reference-url').value=item.reference_url || '';
+        const st=item.selected_style && typeof item.selected_style==='object' ? item.selected_style : {};
+        document.getElementById('style-id').value=st.id||'';
+        document.getElementById('style-name').value=st.title||'';
+        document.getElementById('style-description').value=st.description||'';
+        const chosen=document.getElementById('selected-style');
+        chosen.hidden=!st.id;
+        if(st.id){
+          document.getElementById('selected-style-title').textContent=st.title||'Saved reference';
+          document.getElementById('selected-style-description').textContent=st.description||'';
+        }
         document.getElementById('reference').hidden=!item.reference_url;
         document.getElementById('link-toggle').setAttribute('aria-expanded',String(Boolean(item.reference_url)));
         window.scrollTo({top:0,behavior:'smooth'});
@@ -203,8 +213,14 @@
     const title=brief.slice(0,80)||'Untitled project';
     save.disabled=true;
     try {
+      const selectedStyleId=document.getElementById('style-id').value.trim();
+      const selectedStyle=selectedStyleId ? {
+        id:selectedStyleId.slice(0,100),
+        title:document.getElementById('style-name').value.slice(0,140),
+        description:document.getElementById('style-description').value.slice(0,500)
+      }: {};
       const {data,error}=await api.from('studio_projects').insert({
-        title,brief,reference_url:reference||null
+        title,brief,reference_url:reference||null,selected_style:selectedStyle
       }).select('id').single();
       if(error)throw error;
       // Files are not automatically uploaded just because they are selected.
