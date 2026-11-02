@@ -13,6 +13,18 @@ The project owner has requested **no payments or subscriptions with charges befo
 
 **Status:** neither Cloudflare R2 activation nor a bucket connection has been verified in this chat, so the public Studio upload feature remains OFF.
 
+## R2 binding to live Cloudflare Pages
+The user has created the bucket `mahgpt-studio-private-media` (Standard; Public Access Disabled; 0 B at creation). Keep the unrelated `living-ad-media` bucket untouched.
+
+A safe diagnostic route exists at `functions/api/studio/storage-status.js`, available after Cloudflare Pages deploys as `https://mahgpt.com/api/studio/storage-status`.
+- **Cloudflare Dashboard → Workers & Pages → mahgpt-video-studio → Settings → Bindings → Add → R2 bucket.**
+- Binding variable: `STUDIO_MEDIA`.
+- Select **existing** `mahgpt-studio-private-media` (do not create another bucket).
+- Apply to production; save and **redeploy Pages** so the binding becomes available.
+- Health response with binding: `{"storage_connected":true,"uploads_enabled":false}`; missing binding: HTTP 503. The diagnostic performs zero R2 object operations and never reveals object paths or customer files.
+- Do not enable public bucket access, create R2 API tokens or set secret keys on the client.
+- This is **binding verification**, not yet a functioning customer upload system. Public uploads remain blocked behind legal and cost controls.
+
 ## Architecture
 - **Supabase Auth + PostgreSQL:** users, projects, private asset metadata, agreement and access records. Preserve RLS and project ownership.
 - **Cloudflare R2 Standard private bucket:** original customer images, audio and video, later processed results. Use a dedicated bucket e.g. `mahgpt-studio-private-media`; no public bucket URL or unrestricted public objects.
