@@ -192,11 +192,14 @@
         remove.disabled=true;
         try{
           const {data:assets,error:assetsError}=await api.from('studio_assets')
-            .select('storage_path').eq('project_id',item.id);
+            .select('storage_path,storage_provider,status').eq('project_id',item.id);
           if(assetsError)throw assetsError;
-          if(assets?.length){
+          const r2StillActive=(assets||[]).filter(x=>x.storage_provider==='r2'&&x.status!=='deleted');
+          if(r2StillActive.length)throw Error('Delete the private uploaded files in Media archive before deleting the project.');
+          const oldSupabaseFiles=(assets||[]).filter(x=>x.storage_provider!=='r2');
+          if(oldSupabaseFiles.length){
             const {error:storageError}=await api.storage.from('studio-project-media')
-              .remove(assets.map(x=>x.storage_path));
+              .remove(oldSupabaseFiles.map(x=>x.storage_path));
             if(storageError)throw storageError;
           }
           const {error:deleteError}=await api.from('studio_projects')
@@ -209,7 +212,16 @@
       });
       const detail=document.createElement('div');detail.append(title,caption);
       const actions=document.createElement('div');actions.className='my-project-actions';
-      actions.append(load,remove);row.append(detail,actions);list.append(row);
+      actions.append(load,remove);row.append(detail,actions);
+      const itemContainer=document.createElement('div');
+      itemContainer.className='project-with-media';
+      itemContainer.append(row);
+      const mediaContainer=document.createElement('div');
+      itemContainer.append(mediaContainer);
+      list.append(itemContainer);
+      if(window.MAH_STUDIO_MEDIA?.mount){
+        window.MAH_STUDIO_MEDIA.mount({container:mediaContainer,project:item,api});
+      }
     }
   }
   async function refreshAuth(){
@@ -278,7 +290,7 @@
       if(error)throw error;
       // Files are not automatically uploaded just because they are selected.
       // Uploaded media will be separately enabled after retention/consent finalization.
-      notice(projectNotice,'Draft saved privately. File uploads are not enabled in this phase.');
+      notice(projectNotice,'Draft saved privately. Owner-only media testing is available from Media archive below; uploads are not public.');
       await refreshProjects();
     }catch(err){notice(projectNotice,'Could not save project: '+err.message);}
     finally{save.disabled=false;}
