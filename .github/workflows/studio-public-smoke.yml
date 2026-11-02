@@ -1,0 +1,54 @@
+name: Studio public deployment smoke
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/studio-public-smoke.yml"
+      - "index.html"
+      - "ai-video-studio/studio-account.js"
+      - "ai-video-studio/studio-config.js"
+      - "ai-video-studio/index.html"
+permissions:
+  contents: read
+jobs:
+  public-smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - name: Check deployed homepage and sign-in scripts
+        shell: bash
+        run: |
+          set -euo pipefail
+          # Cloudflare Pages may take a minute to update after a push.
+          for trial in {1..15}; do
+            curl -fLsS --max-time 15 -H "Cache-Control: no-cache" "https://mahgpt.com/?studio_check=${GITHUB_SHA}" -o /tmp/studio-home.html || true
+            if grep -q "Login build 03" /tmp/studio-home.html 2>/dev/null; then
+              echo "Deployed Studio root contains Login build 03"
+              break
+            fi
+            if [ "$trial" -eq 15 ]; then
+              echo "::error::Current live homepage lacks Login build 03. Cloudflare publishing or site routing is stale."
+              exit 1
+            fi
+            sleep 8
+          done
+          grep -q 'id="auth-email-submit" type="button"' /tmp/studio-home.html
+          grep -q 'src="/ai-video-studio/studio-account.js?v=20261102-fix3"' /tmp/studio-home.html
+          curl -fLsS --max-time 15 "https://mahgpt.com/ai-video-studio/studio-account.js?v=${GITHUB_SHA}" -o /tmp/studio-account.js
+          grep -q "signInWithOtp" /tmp/studio-account.js
+          curl -fLsS --max-time 15 "https://mahgpt.com/ai-video-studio/studio-config.js?v=${GITHUB_SHA}" -o /tmp/studio-config.js
+          grep -q 'betaEmailOnly: true' /tmp/studio-config.js
+          curl -fLsS --max-time 15 "https://mahgpt.com/ai-models/" -o /tmp/ai-models.html
+          grep -q "The AI Tools Report" /tmp/ai-models.html
+          echo "PASS: Live site HTML, SDK configuration and AI Models route"
+      - name: Check public Supabase Auth settings (no email sent)
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fLsS --max-time 15 "https://gthwpfscrewwamjxheyj.supabase.co/auth/v1/settings" -o /tmp/studio-auth-settings.json
+          python3 - <<'PY'
+          import json
+          with open('/tmp/studio-auth-settings.json') as f:
+              settings=json.load(f)
+          print('Supabase auth reachable; email provider config:',settings.get('external',{}).get('email','not exposed'))
+          PY
