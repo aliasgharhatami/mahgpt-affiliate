@@ -262,3 +262,14 @@ Source of truth: [Giti operations](../gardagard-giti/automation/README.md). Chan
 - SEO: root canonical points to Studio, `/ai-models/` canonical points to itself, legacy Studio alias is noindex, and sitemap generation treats `ai-models/index.html` as `/ai-models/`.
 - Supabase Auth redirect target changed to `https://mahgpt.com/` in `ai-video-studio/studio-account.js`. Owner must configure that exact site/redirect URL in Supabase dashboard before enabling registration. Authentication remains disabled until verified and final legal notices approved.
 
+
+## Email Auth Limited Beta (2026-11-02)
+
+- User confirmed Supabase Site URL and redirect allowlist now point to `https://mahgpt.com/`.
+- Public site config at `ai-video-studio/studio-config.js` now sets `authReady=true`, `redirectsReady=true`, and `betaEmailOnly=true`; `legalApproved=false` and `googleProviderReady=false`.
+- Authorized Supabase **organization/team member email addresses** can request real magic links. Default SMTP is not a public mailing service; all other customer emails require custom SMTP and delivery verification.
+- No general-public registration, media upload, paid order or Google OAuth is launched. The dialog and beta terms explain these restrictions.
+- The beta consent versions are `beta-2026-11-02`; accepting a version is saved only after an authenticated session, in `studio_agreement_acceptances`.
+- Test by opening `https://mahgpt.com/` → Sign Up / Log In → agreeing to the limited beta terms → Continue with Email with a confirmed Supabase team member address; open the magic link in the same browser. Then inspect account, accept beta notice if needed, save a draft, sign out, and confirm it remains private.
+- SQL policy checks: anonymous users have no table SELECT grant for projects, private media bucket, Supabase security advisor no lints. End-to-end email delivery and callback are **not independently verified** yet; must be confirmed by owner.
+- Before open public registration: finalize legal operator details, update service/privacy documents, configure custom SMTP (and provider domain verification), test actual public email delivery and rate limits, and deploy separate Google OAuth credentials.
