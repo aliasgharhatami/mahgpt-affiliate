@@ -8245,6 +8245,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/the-in-store-telemetry-blackout-costing-retailers-billions": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-02T09:49:54.102Z",
+        "message_id": 721,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
