@@ -8279,6 +8279,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/audio/spotify/who-wants-this-spotifys-ai-powered-remix-and-covers-feature-is-tipped-for-a-february-launch-but-it-could-cost-you-usd5-extra-and-users-arent-happy": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-02T20:02:25.214Z",
+        "message_id": 723,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
