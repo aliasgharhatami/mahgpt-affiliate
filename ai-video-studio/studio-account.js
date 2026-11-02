@@ -1,8 +1,8 @@
 /* MAH GPT Studio account & draft management.
  * All database calls use the browser's publishable key + logged-in user's
  * JWT. Authorization is enforced by Supabase RLS, NOT by this script.
- * Limited beta email sign-in is allowed only via the explicit betaEmailOnly flag.
- * Public launch remains gated by final legal, SMTP and Google provider setup.
+ * Public email beta sign-in is now available with verified custom Resend SMTP.
+ * Google is enabled automatically only when Supabase's public auth settings report it enabled.
  */
 (() => {
   'use strict';
@@ -21,7 +21,7 @@
   const save = document.getElementById('my-project-save');
   const signout = document.getElementById('my-project-signout');
   const enabled = Boolean(
-    config.authReady && config.redirectsReady && (config.legalApproved || config.betaEmailOnly) &&
+    config.authReady && config.redirectsReady && (config.legalApproved || config.registrationAudience === 'public-beta') &&
     /^https:\/\/[a-z0-9-]+\.supabase\.co\/?$/.test(config.supabaseUrl || '') &&
     /^sb_publishable_[a-zA-Z0-9_-]+$/.test(config.supabasePublishableKey || '') &&
     config.termsVersion !== 'pending-final' &&
@@ -36,6 +36,7 @@
   ) : null;
   let currentUser = null;
   let agreementReady = false;
+  let googleAvailable = false;
   const loginNote = 'Sign-in is not enabled. No email was sent and no user data was submitted.';
   const redirectTo = window.location.origin + '/';
   const queryParams = new URLSearchParams(window.location.search);
@@ -44,7 +45,7 @@
 
   function notice(node, text) {node.hidden=false; node.textContent=text;}
   function authButtons() {
-    google.disabled = !enabled || Boolean(config.betaEmailOnly) || !config.googleProviderReady || !check.checked;
+    google.disabled = !enabled || !googleAvailable || !check.checked;
     emailButton.disabled = !enabled || !check.checked;
     if (check.checked && !enabled) notice(feedback,loginNote);
     else feedback.hidden=true;
@@ -63,9 +64,8 @@
   document.getElementById('auth-close').addEventListener('click',()=>dialog.close());
   // Avoid accidental closing on backdrop taps. Close via X or Escape only.
   check.addEventListener('change',authButtons);
-  previewNote.textContent=enabled && config.betaEmailOnly ?
-    'Real email sign-in is available for authorized beta testers only. Public sign-ups, media uploads and Google sign-in are not enabled.' : enabled ?
-    'Your drafts remain yours. Please review our terms and privacy notice before continuing.' :
+  previewNote.textContent=enabled ?
+    'Email registration is open in public beta. Drafts are private; media uploads, payment and video rendering are not yet enabled.' :
     'Accounts are not enabled yet. No account or consent record is created here.';
   authButtons();
   if(emailCallbackError){
@@ -80,8 +80,28 @@
       'The sign-in service could not load in this browser. Please refresh the page. If it persists, try another browser or disable script blockers for this page. No email was sent.');
     return;
   }
-  google.addEventListener('click',async()=>{
-    if(!check.checked || !config.googleProviderReady)return;
+  // Provider availability is public Supabase Auth metadata; never load OAuth secrets into the browser.
+  async function checkGoogleAvailability(){
+    if(!enabled)return;
+    try{
+      const reply=await fetch(config.supabaseUrl+'/auth/v1/settings',{
+        method:'GET',headers:{apikey:config.supabasePublishableKey},cache:'no-store'
+      });
+      if(!reply.ok)return;
+      const settings=await reply.json();
+      googleAvailable=settings?.external?.google === true;
+      google.innerHTML='<span aria-hidden="true" class="auth-google-mark">G</span> '+
+        (googleAvailable ? 'Continue with Google' : 'Google Sign-In · Setup in progress');
+      authButtons();
+    }catch(err){
+      // Keep Google disabled when the provider cannot be verified.
+      googleAvailable=false;
+      authButtons();
+    }
+  }
+  void checkGoogleAvailability();
+    google.addEventListener('click',async()=>{
+    if(!check.checked || !googleAvailable)return;
     google.disabled=true;
     try {
       window.sessionStorage.setItem('mah-studio-terms-ack','yes');
@@ -113,10 +133,10 @@
         email:email.value.trim(),options:{emailRedirectTo:redirectTo}
       });
       if(error)throw error;
-      notice(feedback,'The request was accepted by Supabase. Check your inbox and spam folder for a sign-in link. On the current test email service, only approved Supabase team addresses can receive messages.');
+      notice(feedback,'A sign-in email was requested. Check your inbox or spam folder. Open only the newest email and confirm it on the secure MAH GPT Studio page.');
     } catch(err) {
       const restricted=/not authorized|not allowed|only.*team/i.test(err.message||'');
-      notice(feedback,restricted ? 'This email is not authorized for beta testing. Until custom SMTP is configured, Supabase only sends sign-in links to project team members.' : 'Email sign-in failed: '+err.message);
+      notice(feedback,restricted ? 'This email address cannot receive the sign-in email. Please check the address or contact info@mahgpt.com.' : 'Email sign-in failed: '+err.message);
     } finally {emailButton.disabled = !check.checked;}
   });
   async function confirmAgreement(user){
