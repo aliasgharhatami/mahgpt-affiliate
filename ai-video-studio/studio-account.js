@@ -86,6 +86,7 @@
     if(thread){thread.replaceChildren();thread.hidden=true;}
     if(uploads){uploads.replaceChildren();uploads.hidden=true;}
     for(const id of ['image','video','audio'])document.getElementById(id).value='';
+    const currentSelected=document.getElementById('files');if(currentSelected)currentSelected.textContent='';
     document.getElementById('idea').value='';
     document.getElementById('reference-url').value='';
     if(rightsCheck)rightsCheck.checked=false;
@@ -93,10 +94,27 @@
     if(newRequest)newRequest.hidden=true;
     if(intakeStatus)intakeStatus.hidden=true;
   }
-  newRequest?.addEventListener('click',()=>{
+  newRequest?.addEventListener('click',async()=>{
     if(intakeBusy)return;
-    resetComposer();
-    document.getElementById('idea').focus();
+    intakeBusy=true;newRequest.disabled=true;
+    try{
+      if(activeIntakeId){
+        const {data:files,error:filesError}=await api.from('studio_assets')
+          .select('id,status,storage_provider').eq('project_id',activeIntakeId);
+        if(filesError)throw filesError;
+        const stillActive=(files||[]).filter(a=>a.storage_provider==='r2'&&a.status!=='deleted');
+        if(stillActive.length){
+          status('Remove the current request files above before starting a new request, so they do not occupy storage.');
+          return;
+        }
+        const {error}=await api.from('studio_projects')
+          .delete().eq('id',activeIntakeId).eq('lifecycle','intake');
+        if(error)throw error;
+      }
+      resetComposer();
+      document.getElementById('idea').focus();
+    }catch(err){status('Could not safely discard the unfinished request: '+err.message)}
+    finally{intakeBusy=false;newRequest.disabled=false;}
   });
   async function showIntakeFiles(){
     if(!uploads||!activeIntakeId||!window.MAH_STUDIO_MEDIA)return;
@@ -162,6 +180,7 @@
     const ref=document.getElementById('reference-url').value.trim();
     const attached=selectedUploads();
     if(!message&&!ref&&!attached.length){status('Describe your edit or choose a reference or file first.');return;}
+    if(message.length>10000){status('Please keep each message under 10,000 characters.');return;}
     if(attached.length&&(!rightsCheck||!rightsCheck.checked)){
       status('Please confirm you have permission to use these files before uploading.');
       rightsCheck?.focus();
@@ -195,6 +214,12 @@
         const key=localIntakeKey();if(key)sessionStorage.setItem(key,projectId);
         if(newRequest)newRequest.hidden=false;
       }
+      if(ref && projectId===activeIntakeId){
+        // A later reference is part of this SAME private intake.
+        const {error:referenceError}=await api.from('studio_projects')
+          .update({reference_url:ref}).eq('id',projectId).eq('lifecycle','intake');
+        if(referenceError)throw referenceError;
+      }
       if(message){
         const {error}=await api.from('studio_intake_messages')
           .insert({project_id:projectId,body:message.slice(0,10000)});
@@ -213,6 +238,7 @@
         });
       }
       for(const id of ['image','video','audio'])document.getElementById(id).value='';
+    const currentSelected=document.getElementById('files');if(currentSelected)currentSelected.textContent='';
       syncMediaConsent();
       if(rightsCheck)rightsCheck.checked=false;
       if(message)document.getElementById('idea').value='';
