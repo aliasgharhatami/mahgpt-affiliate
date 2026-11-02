@@ -50,12 +50,14 @@ jobs:
           # Cloudflare Pages may take a minute to update after a push.
           for trial in {1..15}; do
             curl -fLsS --max-time 15 -H "Cache-Control: no-cache" "https://mahgpt.com/?studio_check=${GITHUB_SHA}" -o /tmp/studio-home.html || true
-            if grep -q "Login build 06" /tmp/studio-home.html 2>/dev/null; then
-              echo "Deployed Studio root contains Login build 06"
+            if grep -q "Login build 06" /tmp/studio-home.html 2>/dev/null &&
+               grep -q 'href="/privacy-policy.html"' /tmp/studio-home.html 2>/dev/null &&
+               grep -q 'href="/terms-of-service.html"' /tmp/studio-home.html 2>/dev/null; then
+              echo "Deployed Studio contains public legal links and Login build 06"
               break
             fi
             if [ "$trial" -eq 15 ]; then
-              echo "::error::Current live homepage lacks Login build 06. Cloudflare publishing or site routing is stale."
+              echo "::error::Cloudflare is serving an older homepage without Studio legal links."
               exit 1
             fi
             sleep 8
