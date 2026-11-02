@@ -91,7 +91,7 @@
       notice(feedback,'Check your inbox for your sign-in link. If it does not arrive, check spam.');
     } catch(err) {
       notice(feedback,'Email sign-in failed: '+err.message);
-    } finally {authButtons();}
+    } finally {emailButton.disabled = !check.checked;}
   });
   async function confirmAgreement(user){
     const {data:records,error:readError}=await api.from('studio_agreement_acceptances')
