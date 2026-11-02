@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "reviewed_on": "2026-11-02",
+  "legal_operator": {
+    "confirmed": false,
+    "public_identity_approved": false,
+    "verified_business_address_available": false,
+    "disclosure_reviewed_for_KVKK": false
+  },
+  "feature_release": {
+    "media_uploads": {
+      "enabled": false,
+      "privacy_updated_for_actual_processing": false,
+      "terms_updated_for_media_rights": false,
+      "media_processor_and_transfer_list_verified": false,
+      "retention_and_delete_workflow_tested": false,
+      "rights_and_likeness_attestation_implemented": false,
+      "optional_portfolio_and_training_permissions_separate": false
+    },
+    "paid_checkout": {
+      "enabled": false,
+      "privacy_updated_for_processor": false,
+      "terms_updated_for_actual_checkout": false,
+      "merchant_tax_and_invoice_status_checked": false,
+      "payment_processor_and_cross_border_data_disclosed": false,
+      "hosted_card_entry_verified": false,
+      "refund_and_cancellation_rules_published": false
+    },
+    "ai_rendering": {
+      "enabled": false,
+      "privacy_updated_for_model_and_processors": false,
+      "terms_updated_for_render_scope_and_rights": false,
+      "provider_processing_locations_and_retention_verified": false,
+      "user_rights_attestation_implemented": false
+    }
+  },
+  "note": "Production release guard only. These flags must be wired into future feature code; editing this JSON does not by itself enable a service. Legal review remains required. Do not publish a private home address, payment secrets, or unverified business registration."
+}
