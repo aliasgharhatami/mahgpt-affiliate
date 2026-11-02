@@ -8,6 +8,8 @@ on:
       - "ai-video-studio/studio-account.js"
       - "ai-video-studio/studio-config.js"
       - "ai-video-studio/index.html"
+      - "confirm-email.html"
+      - "ai-video-studio/confirm-email.js"
 permissions:
   contents: read
 jobs:
@@ -43,7 +45,11 @@ jobs:
           curl -fLsS --max-time 20 "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0/dist/umd/supabase.js" -o /tmp/supabase-sdk.js
           test "$(wc -c </tmp/supabase-sdk.js)" -gt 10000
           grep -q "createClient" /tmp/supabase-sdk.js
-          echo "PASS: Live site HTML, SDK configuration and AI Models route"
+          curl -fLsS --max-time 15 "https://mahgpt.com/confirm-email.html" -o /tmp/confirm-email.html
+          grep -q "Confirm Email &amp; Open My Projects" /tmp/confirm-email.html
+          curl -fLsS --max-time 15 "https://mahgpt.com/ai-video-studio/confirm-email.js" -o /tmp/confirm-email.js
+          grep -q "verifyOtp" /tmp/confirm-email.js
+          echo "PASS: Live homepage, auth, email confirmation page, and AI Models portal"
       - name: Check public Supabase Auth settings (no email sent)
         shell: bash
         run: |
