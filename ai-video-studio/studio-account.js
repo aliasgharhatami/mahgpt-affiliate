@@ -57,14 +57,19 @@
     } else openAuth();
   });
   document.getElementById('auth-close').addEventListener('click',()=>dialog.close());
-  dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close();});
+  // Avoid accidental closing on backdrop taps. Close via X or Escape only.
   check.addEventListener('change',authButtons);
   previewNote.textContent=enabled && config.betaEmailOnly ?
     'Real email sign-in is available for authorized beta testers only. Public sign-ups, media uploads and Google sign-in are not enabled.' : enabled ?
     'Your drafts remain yours. Please review our terms and privacy notice before continuing.' :
     'Accounts are not enabled yet. No account or consent record is created here.';
   authButtons();
-  if(!api) return;
+  if(!api) {
+    notice(feedback, window.supabase?.createClient ?
+      'Email sign-in is temporarily unavailable due to configuration. Nothing has been sent.' :
+      'The sign-in service could not load in this browser. Please refresh the page. If it persists, try another browser or disable script blockers for this page. No email was sent.');
+    return;
+  }
   google.addEventListener('click',async()=>{
     if(!check.checked || !config.googleProviderReady)return;
     google.disabled=true;
@@ -84,13 +89,14 @@
     if(!check.checked)return;
     if(!email.checkValidity()){email.reportValidity();return;}
     emailButton.disabled=true;
+    notice(feedback,'Sending sign-in request…');
     try {
       window.sessionStorage.setItem('mah-studio-terms-ack','yes');
       const {error}=await api.auth.signInWithOtp({
         email:email.value.trim(),options:{emailRedirectTo:redirectTo}
       });
       if(error)throw error;
-      notice(feedback,'Check your inbox for your sign-in link. If it does not arrive, check spam.');
+      notice(feedback,'The request was accepted by Supabase. Check your inbox and spam folder for a sign-in link. On the current test email service, only approved Supabase team addresses can receive messages.');
     } catch(err) {
       const restricted=/not authorized|not allowed|only.*team/i.test(err.message||'');
       notice(feedback,restricted ? 'This email is not authorized for beta testing. Until custom SMTP is configured, Supabase only sends sign-in links to project team members.' : 'Email sign-in failed: '+err.message);
