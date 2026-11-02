@@ -8262,6 +8262,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/computing/windows/windows-11s-new-internet-speed-test-was-built-in-a-flash-by-agentic-ai-which-is-both-impressive-and-worrying": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-02T13:31:28.698Z",
+        "message_id": 722,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
