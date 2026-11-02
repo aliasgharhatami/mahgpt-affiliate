@@ -38,6 +38,10 @@
   let agreementReady = false;
   const loginNote = 'Sign-in is not enabled. No email was sent and no user data was submitted.';
   const redirectTo = window.location.origin + '/';
+  const queryParams = new URLSearchParams(window.location.search);
+  const hashParams = new URLSearchParams((window.location.hash || '').replace(/^#/, ''));
+  const emailCallbackError = queryParams.get('error_code') || hashParams.get('error_code') || queryParams.get('error') || hashParams.get('error');
+
   function notice(node, text) {node.hidden=false; node.textContent=text;}
   function authButtons() {
     google.disabled = !enabled || Boolean(config.betaEmailOnly) || !config.googleProviderReady || !check.checked;
@@ -64,6 +68,12 @@
     'Your drafts remain yours. Please review our terms and privacy notice before continuing.' :
     'Accounts are not enabled yet. No account or consent record is created here.';
   authButtons();
+  if(emailCallbackError){
+    openAuth();
+    notice(feedback,'Email confirmation failed ('+emailCallbackError+'). Request a fresh message and use only the newest link.');
+    const hint = document.getElementById('auth-retry-hint');
+    if(hint)hint.hidden=false;
+  }
   if(!api) {
     notice(feedback, window.supabase?.createClient ?
       'Email sign-in is temporarily unavailable due to configuration. Nothing has been sent.' :
