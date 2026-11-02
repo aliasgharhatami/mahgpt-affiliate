@@ -78,7 +78,7 @@ jobs:
           grep -q "signInWithOtp" /tmp/studio-account.js
           curl -fLsS --max-time 15 "https://mahgpt.com/ai-video-studio/studio-config.js?v=${GITHUB_SHA}" -o /tmp/studio-config.js
           grep -q "registrationAudience: 'public-beta'" /tmp/studio-config.js
-          grep -q 'public-beta-2026-11-02-v3' /tmp/studio-config.js
+          grep -q 'public-beta-2026-11-02-v4' /tmp/studio-config.js
           curl -fLsS --max-time 15 "https://mahgpt.com/ai-models/" -o /tmp/ai-models.html
           grep -q "The AI Tools Report" /tmp/ai-models.html
           echo "Checking Supabase browser library"
