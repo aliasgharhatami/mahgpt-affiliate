@@ -1,0 +1,40 @@
+{
+  "_note": "REFERENCE ONLY. Do not use this directly in live billing; missing media/render rates MUST be measured.",
+  "_modelPriceSource": "https://developers.openai.com/api/docs/pricing",
+  "version": "2026-11-02-draft",
+  "models": {
+    "gpt-6-luna": {
+      "inputUSDPerMTok": 0.1,
+      "outputUSDPerMTok": 0.5
+    },
+    "gpt-6.1-terra": {
+      "inputUSDPerMTok": 1,
+      "outputUSDPerMTok": 5
+    },
+    "gpt-6.1-sol": {
+      "inputUSDPerMTok": 2,
+      "outputUSDPerMTok": 10
+    },
+    "gpt-6-astra": {
+      "inputUSDPerMTok": 10,
+      "outputUSDPerMTok": 50
+    }
+  },
+  "operations": {
+    "render": null,
+    "storage": null,
+    "download": null,
+    "image_generation": null,
+    "video_generation": null,
+    "audio_generation": null,
+    "other": null
+  },
+  "business": {
+    "reserveFraction": 0.2,
+    "targetGrossMargin": 0.25,
+    "paymentFeeFraction": 0,
+    "paymentFeeFixedUSD": 0,
+    "overheadUSDPerOrder": 0,
+    "minimumSaleUSD": 0
+  }
+}
