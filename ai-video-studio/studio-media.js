@@ -65,6 +65,7 @@ function mount({container,project,api}){
   try{data=await request(api,'?project_id='+encodeURIComponent(project.id));}
   catch(err){message(err.message);return;}
   panel.replaceChildren();
+  mediaList.replaceChildren();
   panel.append(status);
   if(!data.pilot){message('Media uploads are available only to the owner test account during this beta.');return;}
   pilot=true;
