@@ -40,6 +40,9 @@ jobs:
           grep -q 'betaEmailOnly: true' /tmp/studio-config.js
           curl -fLsS --max-time 15 "https://mahgpt.com/ai-models/" -o /tmp/ai-models.html
           grep -q "The AI Tools Report" /tmp/ai-models.html
+          curl -fLsS --max-time 20 "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0/dist/umd/supabase.js" -o /tmp/supabase-sdk.js
+          test "$(wc -c </tmp/supabase-sdk.js)" -gt 10000
+          grep -q "createClient" /tmp/supabase-sdk.js
           echo "PASS: Live site HTML, SDK configuration and AI Models route"
       - name: Check public Supabase Auth settings (no email sent)
         shell: bash
