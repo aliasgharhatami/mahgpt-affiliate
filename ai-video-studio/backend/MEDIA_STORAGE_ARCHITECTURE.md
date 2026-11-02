@@ -1,6 +1,6 @@
 # MAH GPT Studio: Customer-media storage and upload architecture
 Date: 2026-11-02
-Status: Architecture decided; uploads remain disabled. Bucket / paid subscription / Worker / end-to-end validation pending.
+Status: Closed founder-only upload pilot implemented; public/customer uploads, rendering, pricing and payments disabled. Manual authenticated upload/download/delete still requires one browser test.
 
 ## Founder-approved zero-spend phase — strict launch condition
 The project owner has requested **no payments or subscriptions with charges before first paying customer**. Do **not** activate any R2 checkout that incurs fees, select Infrequent Access, expose public/customer uploads, or create a paid Cloudflare subscription without explicit fresh approval.
@@ -11,7 +11,7 @@ The project owner has requested **no payments or subscriptions with charges befo
 
 **Required owner action:** open Cloudflare Dashboard → Storage & databases → R2 → Overview. If R2 is already active, create a private Standard bucket named `mahgpt-studio-private-media`. If dashboard asks for payment method or checkout, stop and review terms; do not assume a $0 screen guarantees no future charges.
 
-**Status:** neither Cloudflare R2 activation nor a bucket connection has been verified in this chat, so the public Studio upload feature remains OFF.
+**Status:** Cloudflare R2 bucket and Pages production binding have both been confirmed. Public/customer uploads remain OFF; a single approved founder account has a capped private media pilot.
 
 ## R2 binding to live Cloudflare Pages
 The user has created the bucket `mahgpt-studio-private-media` (Standard; Public Access Disabled; 0 B at creation). Keep the unrelated `living-ad-media` bucket untouched.
@@ -23,7 +23,7 @@ A safe diagnostic route exists at `functions/api/studio/storage-status.js`, avai
 - Apply to production; save and **redeploy Pages** so the binding becomes available.
 - Health response with binding: `{"storage_connected":true,"uploads_enabled":false}`; missing binding: HTTP 503. The diagnostic performs zero R2 object operations and never reveals object paths or customer files.
 - Do not enable public bucket access, create R2 API tokens or set secret keys on the client.
-- This is **binding verification**, not yet a functioning customer upload system. Public uploads remain blocked behind legal and cost controls.
+- Binding verification passed on the live mahgpt.com site. A separate founder-only media route now exists for private pilot tests; public customer uploads remain blocked behind legal and cost controls.
 
 ## Architecture
 - **Supabase Auth + PostgreSQL:** users, projects, private asset metadata, agreement and access records. Preserve RLS and project ownership.
@@ -56,3 +56,18 @@ Sources:
 3. Implement and deploy Worker with authenticated Supabase user verification, project access check, signed upload init/finalize, secure download and delete; add migrations in Supabase.
 4. Create first-party upload UI (image, video, audio; progress, cancellation/retry), start with a single test account, and test cross-account isolation.
 5. Add deletion/retention + legal changes and technical safety measures; only then change client/public flags and allow general customer uploads.
+
+## Implemented owner-only pilot, 2 November 2026
+- Endpoint: `/api/studio/media`, Cloudflare Pages Function in `functions/api/studio/media.js`.
+- A valid Supabase access token is independently verified with Supabase Auth on each request; project ownership is then confirmed through RLS.
+- R2 is accessed through the Cloudflare `STUDIO_MEDIA` binding. No R2 API key, service-role key or bucket URL is shipped to browsers.
+- Private test allowlist is in Supabase `studio_media_testers`, not in browser code. One confirmed founder account currently has access.
+- Database-side atomic lifetime budget: 80,000,000 total reserved bytes for that account (never reset on deletion); maximum 15,000,000 bytes per file and 50 reservations. The limit is independent of UI checks.
+- `studio_assets` metadata is privately visible and status changes pass through narrow RPC wrappers; privileged code lives in private schema `studio_private`.
+- UI: My Projects → Media archive, with explicit upload rights checkbox, file progress, private downloads and deletion.
+- Public users may create text-only projects but cannot upload files.
+- Safety limitations: file allowlist and signature checks, no HTML/SVG executable uploads, always download as attachment, no public R2 URL.
+- If a project still has active R2 assets, the UI blocks deleting the project until those files are deleted. Malicious direct DB deletion or abandoned uploads could still create orphan objects, so general public launch needs a background reconciler and backend-managed project deletion.
+- 7 mock end-to-end and access-control tests pass in GitHub CI. Live site anonymous request is refused, homepage and media JS were verified deployed. A real authenticated browser file test remains the next step.
+- Important: Worker's download requests are not yet rate-limited to a fixed lifetime request count; the pilot is trusted single-account, and R2's free tier is not a hard billing cap. Do not open access to public until per-account quotas, operation rate limits, cleanups and cost alarms are verified.
+- Payment and OpenAI API are still disconnected, by owner request.
