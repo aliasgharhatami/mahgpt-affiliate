@@ -59,7 +59,7 @@ begin
     then raise exception 'Private test lifetime quota reached'; end if;
  v_clean=regexp_replace(p_filename,'[^a-zA-Z0-9._-]','_', 'g');
  if length(v_clean)>100 then v_clean=right(v_clean,100); end if;
- v_path='u/'||v_owner::text||'/p/'||p_project::text||'/'||v_id::text||'/'||v_clean;
+ v_path=v_owner::text||'/'||p_project::text||'/r2/'||v_id::text||'/'||v_clean;
  insert into public.studio_assets(id,owner_id,project_id,storage_path,filename,media_type,
      byte_size,storage_provider,status,rights_attested_at)
  values(v_id,v_owner,p_project,v_path,p_filename,p_mime,p_size,'r2','reserved',now());
