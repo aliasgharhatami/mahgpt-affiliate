@@ -104,7 +104,11 @@ create index if not exists studio_agreements_user_idx
 on public.studio_agreement_acceptances(user_id, accepted_at desc);
 alter table public.studio_agreement_acceptances enable row level security;
 revoke all on table public.studio_agreement_acceptances from anon, authenticated;
-grant select, insert on table public.studio_agreement_acceptances to authenticated;
+grant select on table public.studio_agreement_acceptances to authenticated;
+-- Only let the client submit version identifiers; identity and acceptance time
+-- must be filled by database defaults, never from user-controlled values.
+grant insert (terms_version, privacy_version)
+on table public.studio_agreement_acceptances to authenticated;
 create policy "agreements: owner may read"
 on public.studio_agreement_acceptances for select to authenticated
 using (user_id = (select auth.uid()));
