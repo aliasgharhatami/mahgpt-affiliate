@@ -6,6 +6,10 @@ on:
       - "functions/api/studio/media.js"
       - "ai-video-studio/studio-media.js"
       - "ai-video-studio/studio-account.js"
+      - "index.html"
+      - "ai-video-studio/index.html"
+      - "privacy-policy.html"
+      - "terms-of-service.html"
       - "ai-video-studio/backend/supabase/002_private_media_pilot.sql"
       - "tests/studio-media-pilot.test.mjs"
       - ".github/workflows/studio-media-pilot-tests.yml"
@@ -24,6 +28,24 @@ jobs:
           node --check ai-video-studio/studio-media.js
           node --check ai-video-studio/studio-account.js
           node --test tests/studio-media-pilot.test.mjs
+      - name: Verify Studio homepage and private media UI are deployed
+        shell: bash
+        run: |
+          set -euo pipefail
+          for trial in {1..20}; do
+            curl -fsSL --max-time 15 -H "Cache-Control: no-cache" "https://mahgpt.com/?media_verify=${GITHUB_SHA}-${trial}" -o /tmp/home.html || true
+            curl -fsSL --max-time 15 -H "Cache-Control: no-cache" "https://mahgpt.com/ai-video-studio/studio-media.js?media_verify=${GITHUB_SHA}-${trial}" -o /tmp/media-js || true
+            curl -fsSL --max-time 15 -H "Cache-Control: no-cache" "https://mahgpt.com/ai-video-studio/studio-account.js?media_verify=${GITHUB_SHA}-${trial}" -o /tmp/account-js || true
+            if grep -q 'studio-media.js?v=20261102-pilot1' /tmp/home.html &&
+               grep -q 'window.MAH_STUDIO_MEDIA' /tmp/media-js &&
+               grep -q 'window.MAH_STUDIO_MEDIA' /tmp/account-js; then
+              echo 'PASS: live My Projects uses new private media archive'
+              exit 0
+            fi
+            sleep 8
+          done
+          echo 'Studio media archive frontend is not yet deployed at mahgpt.com'
+          exit 1
       - name: Public endpoint refuses anonymous account access
         shell: bash
         run: |
