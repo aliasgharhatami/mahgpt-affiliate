@@ -56,7 +56,10 @@ jobs:
             curl -fLsS --max-time 15 -H "Cache-Control: no-cache" "https://mahgpt.com/?studio_check=${GITHUB_SHA}" -o /tmp/studio-home.html || true
             if grep -q "Login build 06" /tmp/studio-home.html 2>/dev/null &&
                grep -q 'href="/privacy-policy.html"' /tmp/studio-home.html 2>/dev/null &&
-               grep -q 'href="/terms-of-service.html"' /tmp/studio-home.html 2>/dev/null; then
+               grep -q 'href="/terms-of-service.html"' /tmp/studio-home.html
+          grep -q 'id="studio-purpose-heading"' /tmp/studio-home.html
+          grep -q 'AI-generated non-consensual intimate imagery' /tmp/studio-home.html
+          grep -q 'Google OAuth is used only to authenticate your account' /tmp/studio-home.html 2>/dev/null; then
               echo "Deployed Studio contains public legal links and Login build 06"
               break
             fi
@@ -100,9 +103,11 @@ jobs:
           curl -fLsS --max-time 15 "https://mahgpt.com/privacy-policy.html?deploycheck=${GITHUB_SHA}" -o /tmp/privacy.html
           grep -q '<h1>Privacy Policy</h1>' /tmp/privacy.html
           grep -q 'Google Sign-In' /tmp/privacy.html
+          grep -q 'Google generative AI APIs' /tmp/privacy.html
           grep -q 'image' /tmp/privacy.html
           curl -fLsS --max-time 15 "https://mahgpt.com/terms-of-service.html?deploycheck=${GITHUB_SHA}" -o /tmp/terms.html
           grep -q '<h1>Terms of Service</h1>' /tmp/terms.html
+          grep -q 'Prohibited AI NCII' /tmp/terms.html
           curl -fLsS --max-time 15 "https://mahgpt.com/editorial-policy.html?deploycheck=${GITHUB_SHA}" -o /tmp/editorial-policy.html
           grep -q 'MAH GPT Studio: privacy and customer media' /tmp/editorial-policy.html
           echo "PASS: Live Studio, public privacy/terms, editorial cross-links and OAuth pages"
