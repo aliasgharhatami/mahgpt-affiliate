@@ -19,6 +19,25 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 6
     steps:
+      - uses: actions/checkout@v4
+      - name: Check public Supabase Auth providers
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import re
+          cfg=open('ai-video-studio/studio-config.js').read()
+          key=re.search(r'supabasePublishableKey: "(sb_publishable_[^"]+)"',cfg)
+          if not key:raise SystemExit('Missing public publishable key')
+          open('/tmp/studio-public-key','w').write(key.group(1))
+          PY
+          curl -fLsS --max-time 15 -H "apikey: $(cat /tmp/studio-public-key)" "https://gthwpfscrewwamjxheyj.supabase.co/auth/v1/settings" -o /tmp/studio-auth-settings.json
+          python3 - <<'PY'
+          import json
+          j=json.load(open('/tmp/studio-auth-settings.json'))
+          print('Email auth enabled:',j.get('external',{}).get('email'))
+          print('Google auth enabled:',j.get('external',{}).get('google'))
+          PY
       - name: Check deployed homepage and sign-in scripts
         shell: bash
         run: |
