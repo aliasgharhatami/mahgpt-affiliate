@@ -1,7 +1,8 @@
 /* MAH GPT Studio account & draft management.
  * All database calls use the browser's publishable key + logged-in user's
  * JWT. Authorization is enforced by Supabase RLS, NOT by this script.
- * No accounts are created while config is unverified or legal texts are drafts.
+ * Limited beta email sign-in is allowed only via the explicit betaEmailOnly flag.
+ * Public launch remains gated by final legal, SMTP and Google provider setup.
  */
 (() => {
   'use strict';
@@ -20,7 +21,7 @@
   const save = document.getElementById('my-project-save');
   const signout = document.getElementById('my-project-signout');
   const enabled = Boolean(
-    config.authReady && config.legalApproved && config.redirectsReady &&
+    config.authReady && config.redirectsReady && (config.legalApproved || config.betaEmailOnly) &&
     /^https:\/\/[a-z0-9-]+\.supabase\.co\/?$/.test(config.supabaseUrl || '') &&
     /^sb_publishable_[a-zA-Z0-9_-]+$/.test(config.supabasePublishableKey || '') &&
     config.termsVersion !== 'pending-final' &&
@@ -35,11 +36,11 @@
   ) : null;
   let currentUser = null;
   let agreementReady = false;
-  const loginNote = 'Account creation is not enabled yet. No email was sent and no user data was submitted.';
+  const loginNote = 'Sign-in is not enabled. No email was sent and no user data was submitted.';
   const redirectTo = window.location.origin + '/';
   function notice(node, text) {node.hidden=false; node.textContent=text;}
   function authButtons() {
-    google.disabled = !enabled || !config.googleProviderReady || !check.checked;
+    google.disabled = !enabled || Boolean(config.betaEmailOnly) || !config.googleProviderReady || !check.checked;
     emailButton.disabled = !enabled || !check.checked;
     if (check.checked && !enabled) notice(feedback,loginNote);
     else feedback.hidden=true;
@@ -58,8 +59,9 @@
   document.getElementById('auth-close').addEventListener('click',()=>dialog.close());
   dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close();});
   check.addEventListener('change',authButtons);
-  previewNote.textContent=enabled?
-    'Your files remain yours. Please review our terms and privacy notice before continuing.':
+  previewNote.textContent=enabled && config.betaEmailOnly ?
+    'Real email sign-in is available for authorized beta testers only. Public sign-ups, media uploads and Google sign-in are not enabled.' : enabled ?
+    'Your drafts remain yours. Please review our terms and privacy notice before continuing.' :
     'Accounts are not enabled yet. No account or consent record is created here.';
   authButtons();
   if(!api) return;
@@ -90,7 +92,8 @@
       if(error)throw error;
       notice(feedback,'Check your inbox for your sign-in link. If it does not arrive, check spam.');
     } catch(err) {
-      notice(feedback,'Email sign-in failed: '+err.message);
+      const restricted=/not authorized|not allowed|only.*team/i.test(err.message||'');
+      notice(feedback,restricted ? 'This email is not authorized for beta testing. Until custom SMTP is configured, Supabase only sends sign-in links to project team members.' : 'Email sign-in failed: '+err.message);
     } finally {emailButton.disabled = !check.checked;}
   });
   async function confirmAgreement(user){
