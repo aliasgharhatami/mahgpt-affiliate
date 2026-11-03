@@ -73,7 +73,7 @@ jobs:
           grep -q 'href="/privacy-policy.html"' /tmp/studio-home.html
           grep -q 'href="/terms-of-service.html"' /tmp/studio-home.html
           grep -q 'id="auth-email-submit" type="button"' /tmp/studio-home.html
-          grep -q 'src="/ai-video-studio/studio-account.js?v=20261102-composer2"' /tmp/studio-home.html
+          grep -q 'src="/ai-video-studio/studio-account.js?v=20261102-retention1"' /tmp/studio-home.html
           curl -fLsS --max-time 15 "https://mahgpt.com/ai-video-studio/studio-account.js?v=${GITHUB_SHA}" -o /tmp/studio-account.js
           grep -q "signInWithOtp" /tmp/studio-account.js
           curl -fLsS --max-time 15 "https://mahgpt.com/ai-video-studio/studio-config.js?v=${GITHUB_SHA}" -o /tmp/studio-config.js
