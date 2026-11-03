@@ -368,10 +368,18 @@
     window.sessionStorage.removeItem('mah-studio-terms-ack');
     return true;
   }
+  function expirationText(date){
+    const deadline=new Date(date);
+    if(Number.isNaN(deadline.getTime()))return 'Expiry date unavailable';
+    const remaining=deadline.getTime()-Date.now();
+    if(remaining<=0)return 'Retention deadline reached — pending automatic cleanup';
+    const days=Math.max(1,Math.ceil(remaining/86400000));
+    return 'Automatic deletion in '+days+' day'+(days===1?'':'s')+' · '+deadline.toLocaleString();
+  }
   async function refreshProjects(){
     const {data,error}=await api.from('studio_projects')
       .select('id,title,brief,reference_url,selected_style,created_at,updated_at,expires_at')
-      .eq('lifecycle','completed').order('updated_at',{ascending:false}).limit(50);
+      .eq('lifecycle','completed').gt('expires_at',new Date().toISOString()).order('updated_at',{ascending:false}).limit(50);
     if(error){notice(projectNotice,'Could not load your projects: '+error.message);return;}
     list.replaceChildren();
     if(!data?.length){
@@ -382,9 +390,24 @@
       const row=document.createElement('div');row.className='my-project-row';
       const title=document.createElement('strong');title.textContent=item.title;
       const caption=document.createElement('small');
-      caption.textContent='Finished '+new Date(item.updated_at).toLocaleString()+(item.expires_at?' · Retained until '+new Date(item.expires_at).toLocaleDateString():'');
+      caption.textContent=item.expires_at?expirationText(item.expires_at):'Retention date not yet set';
+      if(item.expires_at && (new Date(item.expires_at).getTime()-Date.now())<2*86400000){
+        caption.classList.add('archive-expiring-soon');
+      }
       const load=document.createElement('button');load.type='button';load.textContent='Reuse this edit';
-      load.addEventListener('click',()=>{
+      load.addEventListener('click',async()=>{
+        load.disabled=true;
+        try {
+          const {data:newExpiry,error:touchError}=await api.rpc('studio_touch_completed_project',{p_project:item.id});
+          if(touchError)throw touchError;
+          if(!newExpiry)throw Error('This project has already expired; it cannot be reopened.');
+          item.expires_at=newExpiry;
+          caption.textContent=expirationText(newExpiry);
+        }catch(err){
+          notice(projectNotice,'Could not renew project retention: '+err.message);
+          await refreshProjects();
+          return;
+        }finally{load.disabled=false;}
         document.getElementById('idea').value=item.brief || '';
         document.getElementById('reference-url').value=item.reference_url || '';
         const st=item.selected_style && typeof item.selected_style==='object' ? item.selected_style : {};
@@ -400,7 +423,7 @@
         document.getElementById('reference').hidden=!item.reference_url;
         document.getElementById('link-toggle').setAttribute('aria-expanded',String(Boolean(item.reference_url)));
         window.scrollTo({top:0,behavior:'smooth'});
-        notice(projectNotice,'Previous edit loaded into the main composer. A new request can be sent there.');
+        notice(projectNotice,'Project reopened. Its automatic deletion deadline was extended by seven days. The original brief is available in the composer.');
       });
       const remove=document.createElement('button');remove.type='button';remove.textContent='Delete';
       remove.addEventListener('click',async()=>{
