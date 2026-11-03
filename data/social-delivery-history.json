@@ -8313,6 +8313,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/667144/best-macbook-air-vs-pro-neo-compared.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-03T09:54:25.423Z",
+        "message_id": 725,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
