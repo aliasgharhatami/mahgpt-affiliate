@@ -102,6 +102,9 @@
 .studio-new-request[hidden]{display:none}
 .my-projects .my-project-toolbar{display:none}
 @media(max-width:650px){.studio-thread-line{max-width:100%}.studio-actions{flex-direction:column}.studio-actions .action{width:100%}}
+
+.my-project-retention{border-left:3px solid #ac782c;background:#f0e9db;padding:10px 16px;margin:13px 0;font-size:12px;line-height:1.6;color:#50412a}
+.archive-expiring-soon{color:#995d17!important;font-weight:700}
 </style></head>
 <body><header class="header"><div class="wrap nav"><a class="brand" href="/" aria-label="MAH GPT Studio home"><svg viewBox="0 0 40 40" fill="none" aria-hidden="true"><rect x="4" y="11" width="32" height="25" rx="3" fill="#123d2a"/><path d="M2 8 32 2l2 7L4 15z" fill="#123d2a"/><path d="m9 6 4 5m5-7 4 5m5-7 4 5" stroke="#f7f2e9" stroke-width="3"/><path d="m17 18 11 6-11 6z" fill="#f7f2e9"/></svg><span>MAH GPT <i>Studio</i></span></a><nav class="nav-links" aria-label="Main navigation"><a href="#samples">Sample Videos</a><a href="#how">How It Works</a><a class="nav-ai-models" href="/ai-models/" aria-label="Explore AI Models">AI Models</a><button class="login" id="login" type="button" aria-haspopup="dialog" aria-controls="auth-dialog">Sign Up / Log In</button></nav></div></header>
 <main><section class="wrap hero"><div class="art" role="img" aria-label="A cinematic director's chair and film equipment"></div><div class="content"><div class="eyebrow">AI Video Studio</div><h1 style="font-size:clamp(28px,3vw,42px);margin-bottom:32px">Affordable Video Editing &amp; Motion Graphics.</h1>
@@ -240,11 +243,11 @@
 <section class="wrap how" id="how"><h2>How it works</h2><p>Choose a direction, tell us about your idea, and add any footage or reference you have in mind. The full editing and quote experience is in development; this page is an early preview of the workflow.</p></section>
 <section class="wrap my-projects" id="my-projects" hidden aria-labelledby="my-project-heading">
   <div class="my-project-heading">
-    <div><h2 id="my-project-heading">My Projects</h2><p>Finished video projects appear here automatically. Draft requests stay in the editor above; the seven-day retention policy will activate with final rendering.</p></div>
+    <div><h2 id="my-project-heading">My Projects</h2><p>Finished projects appear here automatically. Draft requests stay in the editor above.</p></div>
     <button type="button" id="my-project-signout">Sign out</button>
   </div>
   
-  <p id="my-project-notice" role="status" hidden></p>
+  <p class="my-project-retention" id="studio-retention-policy">Completed videos are kept for 7 days after your last use. Opening a finished project extends its deadline by another 7 days. Its stored files and project record will then be permanently deleted. Automated cleanup is being activated during this private beta.</p>\n  <p id="my-project-notice" role="status" hidden></p>
   <div id="my-project-list"></div>
 </section></main><footer class="foot"><div class="wrap"><span>© 2026 MAH GPT Studio · An independent project</span><span><a href="/ai-models/">AI Models</a> &nbsp;·&nbsp; <a href="/privacy-policy.html">Privacy Policy</a> &nbsp;·&nbsp; <a href="/terms-of-service.html">Terms</a> &nbsp;·&nbsp; <a href="mailto:info@mahgpt.com">Contact</a></span></div></footer>
 
@@ -396,5 +399,5 @@ document.getElementById('auth-email-submit').addEventListener('click', () => {
 <script defer src="/ai-video-studio/studio-config.js?v=20261102-pilot1"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0/dist/umd/supabase.js"></script>
 <script defer src="/ai-video-studio/studio-media.js?v=20261102-composer2"></script>
-<script defer src="/ai-video-studio/studio-account.js?v=20261102-composer2"></script>
+<script defer src="/ai-video-studio/studio-account.js?v=20261102-retention1"></script>
 </body></html>
