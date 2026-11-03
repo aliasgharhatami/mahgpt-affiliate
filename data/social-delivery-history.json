@@ -8347,6 +8347,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/when-ai-finds-the-path-you-didnt-know-existed": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-03T17:37:43.041Z",
+        "message_id": 727,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
