@@ -1,0 +1,51 @@
+name: Studio 7-day retention checks
+on:
+  push:
+    branches: [main]
+    paths:
+      - "workers/studio-retention/**"
+      - "tests/studio-retention.test.mjs"
+      - "ai-video-studio/studio-account.js"
+      - "index.html"
+      - ".github/workflows/studio-retention.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  retention-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run retention tests
+        run: |
+          node --check workers/studio-retention/src/worker.mjs
+          node --check ai-video-studio/studio-account.js
+          node --test tests/studio-retention.test.mjs
+      - name: Require owner-visible seven day notice
+        run: |
+          grep -q "7 days after your last use" index.html
+          grep -q "studio_touch_completed_project" ai-video-studio/studio-account.js
+          grep -q 'STUDIO_RETENTION_ENABLED = "false"' workers/studio-retention/wrangler.toml
+  # Deployment must be explicitly configured with a scoped Cloudflare API token
+  # by the account owner. The cron will remain disabled (zero deletion risk) until
+  # a separate verified change flips STUDIO_RETENTION_ENABLED to "true".
+  deploy-worker:
+    needs: retention-tests
+    if: ${{ vars.STUDIO_RETENTION_DEPLOY_ENABLED == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Require Cloudflare deployment credentials
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "::error::Set scoped Cloudflare credentials in GitHub Actions secrets before enabling deployment."
+            exit 1
+          fi
+      - name: Deploy retention Cron Worker
+        run: |
+          npx --yes wrangler@4.45.0 deploy --config workers/studio-retention/wrangler.toml
