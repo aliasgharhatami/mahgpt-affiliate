@@ -8364,6 +8364,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/beyond-the-hype-ai-not-for-ais-sake": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-03T20:15:57.862Z",
+        "message_id": 728,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
