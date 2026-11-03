@@ -11,6 +11,17 @@ Status: Database and UI ready; R2 deletion Cron Worker implemented, tested, **NO
 - The worker refuses mismatched owner/project/key paths and unexpected Supabase-stored assets; no Cloudflare/other-bucket objects are touched.
 - Current pilot has 15MB/file, 80MB lifetime and one tester; no new paid resources without founder approval.
 
+## Preferred no-token Cloudflare deployment (Cloudflare native Git integration)
+Cloudflare Workers Builds officially supports using an existing GitHub repository to automatically deploy a Worker from a monorepo. This avoids manually creating a GitHub Actions Cloudflare token:
+1. Cloudflare Dashboard → Workers & Pages → **Create application** → GitHub → choose `aliasgharhatami/mahgpt-affiliate`.
+2. Worker name **exactly** `mahgpt-studio-retention`. Production branch `main`. Root directory: `workers/studio-retention`. No build command; deploy command `npx wrangler deploy` (from root), using its existing `wrangler.toml`.
+3. Check private R2 binding `STUDIO_MEDIA` and hourly UTC trigger in Settings. The source defaults to `STUDIO_RETENTION_ENABLED=false` so no deletion occurs upon initial deployment.
+4. Add the dedicated `SUPABASE_RETENTION_SECRET_KEY` as an encrypted **Worker runtime secret**. Do not add it to the Git repository or browser. Run a local/sandbox no-delete scheduled test first.
+5. After end-to-end private-project deletion is validated, change `STUDIO_RETENTION_ENABLED` in `wrangler.toml` to `true` through a reviewed Git commit; Cloudflare rebuilds the Worker automatically.
+6. If Git import is unavailable for this account, the alternate GitHub Actions deployment gate below supports a scoped token.
+
+Official Cloudflare reference: https://developers.cloudflare.com/workers/ci-cd/builds/
+
 ## Deployment readiness and necessary owner-only account steps
 1. In GitHub repository `aliasgharhatami/mahgpt-affiliate` > Settings > Secrets and variables > Actions: add `CLOUDFLARE_API_TOKEN` as a scoped Cloudflare API token with permission to deploy Workers. Add `CLOUDFLARE_ACCOUNT_ID` (from Cloudflare account page/URL) as a repository secret. Never paste either key in chat, screenshots, Git or public text.
 2. Create repository **variable** `STUDIO_RETENTION_DEPLOY_ENABLED=true`. The GitHub Action `.github/workflows/studio-retention.yml` runs safety tests before deploying `workers/studio-retention/wrangler.toml`.
