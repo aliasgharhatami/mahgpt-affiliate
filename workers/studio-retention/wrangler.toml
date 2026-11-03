@@ -1,0 +1,14 @@
+name = "mahgpt-studio-retention"
+main = "src/worker.mjs"
+compatibility_date = "2026-11-03"
+workers_dev = false
+
+[vars]
+STUDIO_RETENTION_ENABLED = "false"
+
+[triggers]
+crons = ["0 * * * *"]
+
+[[r2_buckets]]
+binding = "STUDIO_MEDIA"
+bucket_name = "mahgpt-studio-private-media"
