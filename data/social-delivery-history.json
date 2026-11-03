@@ -8330,6 +8330,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-03T12:49:34.319Z",
+        "message_id": 726,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
