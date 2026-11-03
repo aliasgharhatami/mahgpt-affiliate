@@ -1,8 +1,8 @@
 {
   "version": 1,
   "queue_date": "2026-11-03",
-  "created_at": "2026-11-03T09:54:18.411Z",
-  "source_feed_updated_at": "2026-11-03T09:54:18.311Z",
+  "created_at": "2026-11-03T12:49:11.763Z",
+  "source_feed_updated_at": "2026-11-03T12:49:07.583Z",
   "items": [
     {
       "story_id": "https://www.macworld.com/article/667144/best-macbook-air-vs-pro-neo-compared.html",
@@ -10,8 +10,8 @@
       "headline": "Best MacBook for 2026: Air vs Pro vs Neo compared",
       "summary": "Macworld Apple sells several MacBook models across different sizes, prices, and performance levels, so choosing the right one depends on your budget, the type of work you do, and how much power you actually need. In this in-depth guide, we explain which MacBook is best for different users, compare t",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/11/667144-0-38091400-1793641480-Which-MacBook-Is-Best.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/11/667144-0-38091400-1793641480-Which-MacBook-Is-Best.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/11/667144-0-30676800-1793700135-Which-MacBook-Is-Best.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/11/667144-0-30676800-1793700135-Which-MacBook-Is-Best.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
@@ -27,10 +27,8 @@
       "affiliate_status": null,
       "scheduled_publish_at": "2026-11-03T05:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-11-03T09:54:25.423Z",
-        "message_id": 725,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-11-03T09:54:25.423Z"
       },
       "linkedin": {
         "status": "pending"
@@ -44,6 +42,331 @@
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
       "fallback_image_story": "assets/social-cards/2026-11-03/https-www-macworld-com-article-667144-best-macbook-air-vs-pro-neo-compared-html-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/when-ai-finds-the-path-you-didnt-know-existed",
+      "source_url": "https://www.techradar.com/pro/when-ai-finds-the-path-you-didnt-know-existed",
+      "headline": "When AI finds the path you didn’t know existed",
+      "summary": "Despite the alarming headlines, AI escapes should not be viewed as a failure but as a lesson.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=when-ai-finds-the-path-you-didnt-know-existed",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-11-03T07:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-11-03/https-www-techradar-com-pro-when-ai-finds-the-path-you-didnt-know-existed-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/beyond-the-hype-ai-not-for-ais-sake",
+      "source_url": "https://www.techradar.com/pro/beyond-the-hype-ai-not-for-ais-sake",
+      "headline": "Beyond the hype: AI, not for AI’s sake",
+      "summary": "Sometimes the smartest approach to AI is knowing when a simpler tool works better.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=beyond-the-hype-ai-not-for-ais-sake",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-11-03T09:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-11-03/https-www-techradar-com-pro-beyond-the-hype-ai-not-for-ais-sake-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "source_url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "headline": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+      "source_name": "Wired",
+      "original_image_url": "https://media.wired.com/photos/6ae90c349efc9a24a32255ed/191:100/w_1280,c_limit/WEB_WIRED_Mamdani_HR-00808.jpg",
+      "image_url": "https://media.wired.com/photos/6ae90c349efc9a24a32255ed/191:100/w_1280,c_limit/WEB_WIRED_Mamdani_HR-00808.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1280,
+        "height": 670,
+        "aspectRatio": 1.9104477611940298,
+        "instagramCompatible": false
+      },
+      "image_mode": "source",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=our-risk-their-reward-zohran-mamdani-on-ai-and-data-centers",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-11-03T11:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "assets/social-cards/2026-11-03/-Our-Risk-Their-Reward-Zohran-Mamdani-on-AI-and-Data-Centers-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-11-03/https-www-wired-com-story-the-big-interview-podcast-nyc-mayor-zohran-mamdani--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/how-agentic-commercial-enables-more-precise-field-digital-and-content-engagement",
+      "source_url": "https://www.techradar.com/pro/how-agentic-commercial-enables-more-precise-field-digital-and-content-engagement",
+      "headline": "How Agentic Commercial enables more precise field, digital and content engagement",
+      "summary": "Creating dialogue with HCPs and patients to help medicines reach them faster.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/ZzivZqzbMG6jdHYzun8e3L-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZzivZqzbMG6jdHYzun8e3L-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-agentic-commercial-enables-more-precise-field-digital-and-content-engagement",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-11-03T13:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-11-03/https-www-techradar-com-pro-how-agentic-commercial-enables-more-precise-field-di-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/",
+      "source_url": "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/",
+      "headline": "Apple will start mandating age requirements for dating apps",
+      "summary": "Apple developers will have to declare whether their app enables dating between real people and/or AI companions, so the company can apply the proper age rating.",
+      "source_name": "Engadget",
+      "original_image_url": "https://www.engadget.com/img/gallery/apple-will-start-mandating-age-requirements-for-dating-apps/l-intro-1793701818.jpg",
+      "image_url": "https://www.engadget.com/img/gallery/apple-will-start-mandating-age-requirements-for-dating-apps/l-intro-1793701818.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 1600,
+        "height": 899,
+        "aspectRatio": 1.7797552836484982,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-will-start-mandating-age-requirements-for-dating-apps",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-11-03T15:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-11-03/https-www-engadget-com-2305017-apple-start-mandating-age-requirements-dating-app-story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.techradar.com/pro/we-cant-control-ai-if-we-cant-control-where-it-gets-its-information-from",
+      "source_url": "https://www.techradar.com/pro/we-cant-control-ai-if-we-cant-control-where-it-gets-its-information-from",
+      "headline": "We can’t control AI if we can’t control where it gets its information from",
+      "summary": "Before AI agents act on the world, we must know where their knowledge came from.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "image_validation": {
+        "valid": true,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=we-cant-control-ai-if-we-cant-control-where-it-gets-its-information-from",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-11-03T17:20:00.000Z",
+      "telegram": {
+        "status": "pending",
+        "published_at": null
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-11-03/https-www-techradar-com-pro-we-cant-control-ai-if-we-cant-control-where-it-gets--story.png",
+      "quality_gate": {
+        "valid": true,
+        "warnings": [],
+        "repairs": [
+          "image-rejected"
+        ]
+      }
+    },
+    {
+      "story_id": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
+      "source_url": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
+      "headline": "New Apple products coming in 2027: What’s next?",
+      "summary": "Macworld What new products will Apple launch in 2027? Rumors point to a redesigned iPhone to mark its 20th anniversary, an OLED iPad Air, and potentially Apple’s first smart glasses. Updated Macs, more affordable iPhones and new AI-focused accessories could also be on the way. The first launches cou",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/11/671090-0-87669900-1793701384-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/11/671090-0-87669900-1793701384-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024",
+      "image_validation": {
+        "valid": true,
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
+        "instagramCompatible": true
+      },
+      "image_mode": "source",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=new-apple-products-coming-in-2027-whats-next",
+      "detected_partner": null,
+      "product_url": "",
+      "affiliate_status": null,
+      "scheduled_publish_at": "2026-11-03T19:20:00.000Z",
+      "telegram": {
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-29T01:01:32.187Z"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "published",
+        "published_at": "2026-09-28T21:48:36.513Z",
+        "message_id": "18116621722889985"
+      },
+      "x": {
+        "status": "pending"
+      },
+      "fallback_image_landscape": "",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-11-03/https-www-macworld-com-article-671090-new-apple-products-iphone-ipad-mac-watch-h-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -73,7 +396,7 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-11-03T07:20:00.000Z",
+      "scheduled_publish_at": "2026-11-03T21:20:00.000Z",
       "telegram": {
         "status": "pending",
         "published_at": null
@@ -119,328 +442,6 @@
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
-      "scheduled_publish_at": "2026-11-03T09:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-03/https-www-techradar-com-science-robotics-metas-rumored-humanoid-robot-is-another-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "source_url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "headline": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
-      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 669,
-        "aspectRatio": 1.7937219730941705,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-watch-and-8217-s-ai-features-for-rewinding-and-recapping-conversations-begin-beta-te",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-11-03T11:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-03/https-techcrunch-com-2026-11-02-apple-watchs-ai-features-for-rewinding-and-recap-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/ai-platforms-assistants/we-believe-this-is-a-practical-step-toward-an-open-web-dont-want-ai-companies-training-on-your-website-openai-google-and-microsoft-are-backing-a-new-way-to-opt-out",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/we-believe-this-is-a-practical-step-toward-an-open-web-dont-want-ai-companies-training-on-your-website-openai-google-and-microsoft-are-backing-a-new-way-to-opt-out",
-      "headline": "How to actually block AI bots from scraping your website",
-      "summary": "OpenAI will now honor AI scraping rules contained within the robots.txt file",
-      "source_name": "Techradar",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/8iN8JcsjaeEppccYgURuY9-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/8iN8JcsjaeEppccYgURuY9-1920-80.jpg",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=how-to-actually-block-ai-bots-from-scraping-your-website",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-11-03T13:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-03/https-www-techradar-com-ai-platforms-assistants-we-believe-this-is-a-practical-s-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "source_url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "headline": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 800,
-        "aspectRatio": 1.5,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-mass",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-11-03T15:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-03/https-techcrunch-com-2026-11-02-google-takes-dreambeans-to-india-in-bid-to-bring-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "source_url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "headline": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-      "image_validation": {
-        "valid": true,
-        "width": 1024,
-        "height": 703,
-        "aspectRatio": 1.4566145092460883,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=apple-may-try-to-increase-revenue-by-doing-and-8230-something-with-third-party-ai-apps",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-11-03T17:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-03/https-techcrunch-com-2026-11-02-apple-may-try-to-increase-revenue-by-doing-somet-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://www.techradar.com/pro/palantir-cofounder-wants-a-30000-monkey-farm-in-the-us-because-ai-jacked-up-macaque-prices-by-700-in-7-years",
-      "source_url": "https://www.techradar.com/pro/palantir-cofounder-wants-a-30000-monkey-farm-in-the-us-because-ai-jacked-up-macaque-prices-by-700-in-7-years",
-      "headline": "Palantir cofounder wants a 30,000 monkey farm in the US",
-      "summary": "Palantir cofounder Joe Lonsdale reportedly backs a US startup planning a 30,000 capacity monkey farm amid rising prices and restricted international supplies.",
-      "source_name": "because AI jacked up macaque prices by 700% in seven years",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/wtvEyi9FLaeJvnf28y7vm5-1200-80.webp",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/wtvEyi9FLaeJvnf28y7vm5-1200-80.webp",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 675,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=palantir-cofounder-wants-a-30-000-monkey-farm-in-the-us",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-11-03T19:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-03/https-www-techradar-com-pro-palantir-cofounder-wants-a-30000-monkey-farm-in-the--story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "source_url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "headline": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 801,
-        "aspectRatio": 1.4981273408239701,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=y-combinator-and-8217-s-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-to",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
-      "scheduled_publish_at": "2026-11-03T21:20:00.000Z",
-      "telegram": {
-        "status": "pending",
-        "published_at": null
-      },
-      "linkedin": {
-        "status": "pending"
-      },
-      "instagram": {
-        "status": "pending"
-      },
-      "x": {
-        "status": "pending"
-      },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-03/https-techcrunch-com-2026-11-02-y-combinators-garry-tan-uses-ai-agents-so-much-h-story.png",
-      "quality_gate": {
-        "valid": true,
-        "warnings": [],
-        "repairs": [
-          "image-rejected"
-        ]
-      }
-    },
-    {
-      "story_id": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "headline": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "summary": "The one-year-old startup is now valued at $300 million.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
-      "image_validation": {
-        "valid": true,
-        "width": 1200,
-        "height": 900,
-        "aspectRatio": 1.3333333333333333,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
       "scheduled_publish_at": "2026-11-03T23:20:00.000Z",
       "telegram": {
         "status": "pending",
@@ -457,7 +458,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-03/https-techcrunch-com-2026-11-02-trajectory-raises-45m-to-make-ai-model-training--story.png",
+      "fallback_image_story": "assets/social-cards/2026-11-03/https-www-techradar-com-science-robotics-metas-rumored-humanoid-robot-is-another-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],

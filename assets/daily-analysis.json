@@ -1,101 +1,101 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T13:30:49.790Z",
-  "analysis_date": "2026-11-02",
+  "generated_at": "2026-11-03T12:49:18.086Z",
+  "analysis_date": "2026-11-03",
   "stories": [
     {
-      "title": "Touch isn’t the killer feature of the new MacBook Pro",
-      "source": "https://www.macworld.com/article/3272659/the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro.html",
-      "mahgpt_url": "/news/story.html?id=touch-isnt-the-killer-feature-of-the-new-macbook-pro"
+      "title": "Best MacBook for 2026: Air vs Pro vs Neo compared",
+      "source": "https://www.macworld.com/article/667144/best-macbook-air-vs-pro-neo-compared.html",
+      "mahgpt_url": "/news/story.html?id=best-macbook-for-2026-air-vs-pro-vs-neo-compared"
     },
     {
-      "title": "Windows 11 feature built in a flash by AI is impressive — but worrying",
-      "source": "https://www.techradar.com/computing/windows/windows-11s-new-internet-speed-test-was-built-in-a-flash-by-agentic-ai-which-is-both-impressive-and-worrying",
-      "mahgpt_url": "/news/story.html?id=windows-11-feature-built-in-a-flash-by-ai-is-impressive-but-worrying"
+      "title": "When AI finds the path you didn’t know existed",
+      "source": "https://www.techradar.com/pro/when-ai-finds-the-path-you-didnt-know-existed",
+      "mahgpt_url": "/news/story.html?id=when-ai-finds-the-path-you-didnt-know-existed"
     },
     {
-      "title": "Spotify's AI remix feature is tipped for February, but could cost you extra",
-      "source": "https://www.techradar.com/audio/spotify/who-wants-this-spotifys-ai-powered-remix-and-covers-feature-is-tipped-for-a-february-launch-but-it-could-cost-you-usd5-extra-and-users-arent-happy",
-      "mahgpt_url": "/news/story.html?id=spotifys-ai-remix-feature-is-tipped-for-february-but-could-cost-you-extra"
+      "title": "Beyond the hype: AI, not for AI’s sake",
+      "source": "https://www.techradar.com/pro/beyond-the-hype-ai-not-for-ais-sake",
+      "mahgpt_url": "/news/story.html?id=beyond-the-hype-ai-not-for-ais-sake"
     },
     {
-      "title": "Amazon's now rolling out its 'Ask this book' AI feature to Kindles",
-      "source": "https://www.techradar.com/tablets/ereaders/amazons-ask-this-book-feature-is-finally-rolling-out-to-kindles-but-certain-models-and-regions-may-be-excluded",
-      "mahgpt_url": "/news/story.html?id=amazons-now-rolling-out-its-ask-this-book-ai-feature-to-kindles"
+      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+      "source": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "mahgpt_url": "/news/story.html?id=our-risk-their-reward-zohran-mamdani-on-ai-and-data-centers"
     },
     {
-      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-      "source": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-      "mahgpt_url": "/news/story.html?id=when-you-should-and-shouldnt-use-ai-to-search-the-web"
+      "title": "How Agentic Commercial enables more precise field, digital and content engagement",
+      "source": "https://www.techradar.com/pro/how-agentic-commercial-enables-more-precise-field-digital-and-content-engagement",
+      "mahgpt_url": "/news/story.html?id=how-agentic-commercial-enables-more-precise-field-digital-and-content-engagement"
     },
     {
-      "title": "Philips Hue’s new AI lighting assistant is finally here, but don’t expect perfection",
-      "source": "https://www.techradar.com/home/smart-lights/philips-hue-just-launched-its-ambitious-custom-ai-behaviors-but-early-teething-troubles-show-the-smart-assistant-might-not-be-quite-ready-for-prime-time",
-      "mahgpt_url": "/news/story.html?id=philips-hues-new-ai-lighting-assistant-is-finally-here-but-dont-expect-perfection"
+      "title": "Apple will start mandating age requirements for dating apps",
+      "source": "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/",
+      "mahgpt_url": "/news/story.html?id=apple-will-start-mandating-age-requirements-for-dating-apps"
     },
     {
-      "title": "Getting the most out of your collaboration strategy",
-      "source": "https://www.techradar.com/pro/getting-the-most-out-of-your-collaboration-strategy",
-      "mahgpt_url": "/news/story.html?id=getting-the-most-out-of-your-collaboration-strategy"
+      "title": "We can’t control AI if we can’t control where it gets its information from",
+      "source": "https://www.techradar.com/pro/we-cant-control-ai-if-we-cant-control-where-it-gets-its-information-from",
+      "mahgpt_url": "/news/story.html?id=we-cant-control-ai-if-we-cant-control-where-it-gets-its-information-from"
     },
     {
-      "title": "Not every Apple product is ‘exciting,’ it turns out",
-      "source": "https://www.macworld.com/article/3269734/not-every-apple-product-is-exciting-it-turns-out.html",
-      "mahgpt_url": "/news/story.html?id=not-every-apple-product-is-exciting-it-turns-out"
+      "title": "New Apple products coming in 2027: What’s next?",
+      "source": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
+      "mahgpt_url": "/news/story.html?id=new-apple-products-coming-in-2027-whats-next"
     }
   ],
   "locales": [
     {
       "code": "en",
-      "path": "news/analysis/2026-11-02.html"
+      "path": "news/analysis/2026-11-03.html"
     },
     {
       "code": "es",
-      "path": "es/news/analysis/2026-11-02.html"
+      "path": "es/news/analysis/2026-11-03.html"
     },
     {
       "code": "de",
-      "path": "de/news/analysis/2026-11-02.html"
+      "path": "de/news/analysis/2026-11-03.html"
     },
     {
       "code": "fr",
-      "path": "fr/news/analysis/2026-11-02.html"
+      "path": "fr/news/analysis/2026-11-03.html"
     },
     {
       "code": "pt-BR",
-      "path": "pt-BR/news/analysis/2026-11-02.html"
+      "path": "pt-BR/news/analysis/2026-11-03.html"
     },
     {
       "code": "ar",
-      "path": "ar/news/analysis/2026-11-02.html"
+      "path": "ar/news/analysis/2026-11-03.html"
     },
     {
       "code": "fa",
-      "path": "fa/news/analysis/2026-11-02.html"
+      "path": "fa/news/analysis/2026-11-03.html"
     },
     {
       "code": "tr",
-      "path": "tr/news/analysis/2026-11-02.html"
+      "path": "tr/news/analysis/2026-11-03.html"
     },
     {
       "code": "it",
-      "path": "it/news/analysis/2026-11-02.html"
+      "path": "it/news/analysis/2026-11-03.html"
     },
     {
       "code": "ja",
-      "path": "ja/news/analysis/2026-11-02.html"
+      "path": "ja/news/analysis/2026-11-03.html"
     },
     {
       "code": "ko",
-      "path": "ko/news/analysis/2026-11-02.html"
+      "path": "ko/news/analysis/2026-11-03.html"
     },
     {
       "code": "id",
-      "path": "id/news/analysis/2026-11-02.html"
+      "path": "id/news/analysis/2026-11-03.html"
     },
     {
       "code": "hi",
-      "path": "hi/news/analysis/2026-11-02.html"
+      "path": "hi/news/analysis/2026-11-03.html"
     }
   ]
 }
