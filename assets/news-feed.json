@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T09:54:18.311Z",
+  "updatedAt": "2026-11-03T12:49:07.583Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -24,7 +24,84 @@
       "guide": "/partners/adobe.html",
       "source": "https://www.macworld.com/article/667144/best-macbook-air-vs-pro-neo-compared.html",
       "publishedAt": "2026-11-02T17:44:29.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/667144-0-38091400-1793641480-Which-MacBook-Is-Best.jpg?quality=50&strip=all&w=1024"
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/667144-0-30676800-1793700135-Which-MacBook-Is-Best.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "When AI finds the path you didn’t know existed",
+      "summary": "Despite the alarming headlines, AI escapes should not be viewed as a failure but as a lesson.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/when-ai-finds-the-path-you-didnt-know-existed",
+      "publishedAt": "2026-11-03T12:01:32.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Beyond the hype: AI, not for AI’s sake",
+      "summary": "Sometimes the smartest approach to AI is knowing when a simpler tool works better.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/beyond-the-hype-ai-not-for-ais-sake",
+      "publishedAt": "2026-11-03T11:32:55.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+      "guide": "/news/index.html",
+      "source": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "publishedAt": "2026-11-03T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ae90c349efc9a24a32255ed/191:100/w_1280,c_limit/WEB_WIRED_Mamdani_HR-00808.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "How Agentic Commercial enables more precise field, digital and content engagement",
+      "summary": "Creating dialogue with HCPs and patients to help medicines reach them faster.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/how-agentic-commercial-enables-more-precise-field-digital-and-content-engagement",
+      "publishedAt": "2026-11-03T10:56:41.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZzivZqzbMG6jdHYzun8e3L-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "Apple will start mandating age requirements for dating apps",
+      "summary": "Apple developers will have to declare whether their app enables dating between real people and/or AI companions, so the company can apply the proper age rating.",
+      "guide": "/news/index.html",
+      "source": "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/",
+      "publishedAt": "2026-11-03T10:32:28.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-will-start-mandating-age-requirements-for-dating-apps/l-intro-1793701818.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "We can’t control AI if we can’t control where it gets its information from",
+      "summary": "Before AI agents act on the world, we must know where their knowledge came from.",
+      "guide": "/news/index.html",
+      "source": "https://www.techradar.com/pro/we-cant-control-ai-if-we-cant-control-where-it-gets-its-information-from",
+      "publishedAt": "2026-11-03T10:18:37.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg"
+    },
+    {
+      "tool": "ai-news",
+      "toolName": "AI News",
+      "category": "AI news",
+      "title": "New Apple products coming in 2027: What’s next?",
+      "summary": "Macworld What new products will Apple launch in 2027? Rumors point to a redesigned iPhone to mark its 20th anniversary, an OLED iPad Air, and potentially Apple’s first smart glasses. Updated Macs, more affordable iPhones and new AI-focused accessories could also be on the way. The first launches cou",
+      "guide": "/news/index.html",
+      "source": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
+      "publishedAt": "2026-11-03T10:18:12.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/671090-0-87669900-1793701384-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
@@ -47,83 +124,6 @@
       "source": "https://www.techradar.com/science/robotics/metas-rumored-humanoid-robot-is-another-ai-services-trojan-horse-and-this-is-how-you-end-up-paying-for-the-robot-and-ai-revolution",
       "publishedAt": "2026-11-03T09:07:50.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/PSbHynPh6NrvfZGib3rX5H-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
-      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "publishedAt": "2026-11-03T07:20:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "How to actually block AI bots from scraping your website",
-      "summary": "OpenAI will now honor AI scraping rules contained within the robots.txt file",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/ai-platforms-assistants/we-believe-this-is-a-practical-step-toward-an-open-web-dont-want-ai-companies-training-on-your-website-openai-google-and-microsoft-are-backing-a-new-way-to-opt-out",
-      "publishedAt": "2026-11-03T06:50:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/8iN8JcsjaeEppccYgURuY9-1920-80.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "publishedAt": "2026-11-03T03:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "publishedAt": "2026-11-03T01:49:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Palantir cofounder wants a 30,000 monkey farm in the US — because AI jacked up macaque prices by 700% in seven years",
-      "summary": "Palantir cofounder Joe Lonsdale reportedly backs a US startup planning a 30,000 capacity monkey farm amid rising prices and restricted international supplies.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/palantir-cofounder-wants-a-30000-monkey-farm-in-the-us-because-ai-jacked-up-macaque-prices-by-700-in-7-years",
-      "publishedAt": "2026-11-03T01:15:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/wtvEyi9FLaeJvnf28y7vm5-1200-80.webp"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "publishedAt": "2026-11-03T00:35:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "summary": "The one-year-old startup is now valued at $300 million.",
-      "guide": "/news/index.html",
-      "source": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "publishedAt": "2026-11-02T23:13:53.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900"
     }
   ]
 }
