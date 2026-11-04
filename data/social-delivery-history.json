@@ -8432,6 +8432,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.creativebloq.com/news/affinity-for-ipad-just-made-the-free-adobe-alternative-even-more-complete": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-04T13:01:12.790Z",
+        "message_id": 732,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
