@@ -8449,6 +8449,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.theverge.com/tech/1025971/canva-changes-layoffs": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-04T17:55:46.666Z",
+        "message_id": 733,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
