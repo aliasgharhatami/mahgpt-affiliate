@@ -1,34 +1,34 @@
 {
   "version": 1,
   "queue_date": "2026-11-04",
-  "created_at": "2026-11-04T09:57:27.732Z",
-  "source_feed_updated_at": "2026-11-04T09:57:27.669Z",
+  "created_at": "2026-11-04T13:00:27.895Z",
+  "source_feed_updated_at": "2026-11-04T13:00:24.423Z",
   "items": [
     {
-      "story_id": "https://www.macworld.com/article/667144/best-macbook-air-vs-pro-neo-compared.html",
-      "source_url": "https://www.macworld.com/article/667144/best-macbook-air-vs-pro-neo-compared.html",
-      "headline": "Best MacBook for 2026: Air vs Pro vs Neo compared",
-      "summary": "Macworld Apple sells several MacBook models across different sizes, prices, and performance levels, so choosing the right one depends on your budget, the type of work you do, and how much power you actually need. In this in-depth guide, we explain which MacBook is best for different users, compare t",
-      "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/11/667144-0-30676800-1793700135-Which-MacBook-Is-Best.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/11/667144-0-30676800-1793700135-Which-MacBook-Is-Best.jpg?quality=50&strip=all&w=1024",
+      "story_id": "https://www.creativebloq.com/news/affinity-for-ipad-just-made-the-free-adobe-alternative-even-more-complete",
+      "source_url": "https://www.creativebloq.com/news/affinity-for-ipad-just-made-the-free-adobe-alternative-even-more-complete",
+      "headline": "iPad users finally have the free Adobe alternative they've been asking for",
+      "summary": "adobe is highlighted in a current technology report.",
+      "source_name": "Creativebloq",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/W2oLcXixHWnGdJKVr4fbwQ-1920-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/W2oLcXixHWnGdJKVr4fbwQ-1920-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=best-macbook-for-2026-air-vs-pro-vs-neo-compared",
-      "detected_partner": null,
-      "product_url": "",
-      "affiliate_status": null,
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ipad-users-finally-have-the-free-adobe-alternative-theyve-been-asking-for",
+      "detected_partner": "adobe",
+      "product_url": "https://www.adobe.com/products/firefly.html",
+      "affiliate_status": "none",
       "scheduled_publish_at": "2026-11-04T05:20:00.000Z",
       "telegram": {
-        "status": "skipped_duplicate",
-        "published_at": "2026-11-03T09:54:25.423Z"
+        "status": "pending",
+        "published_at": null
       },
       "linkedin": {
         "status": "pending"
@@ -41,7 +41,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-macworld-com-article-667144-best-macbook-air-vs-pro-neo-compared-html-story.png",
+      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-creativebloq-com-news-affinity-for-ipad-just-made-the-free-adobe-alter-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -73,10 +73,8 @@
       "affiliate_status": "none",
       "scheduled_publish_at": "2026-11-04T07:20:00.000Z",
       "telegram": {
-        "status": "published",
-        "published_at": "2026-11-04T09:57:33.931Z",
-        "message_id": 731,
-        "delivery": "photo"
+        "status": "skipped_duplicate",
+        "published_at": "2026-11-04T09:57:33.931Z"
       },
       "linkedin": {
         "status": "pending"
@@ -146,43 +144,45 @@
       }
     },
     {
-      "story_id": "https://www.macworld.com/article/3276244/with-ios-27-3-the-siri-ai-floodgates-are-about-to-open.html",
-      "source_url": "https://www.macworld.com/article/3276244/with-ios-27-3-the-siri-ai-floodgates-are-about-to-open.html",
-      "headline": "With iOS 27.3, the Siri AI floodgates are about to open",
-      "summary": "Macworld With the new OS 27.3 betas (iOS, iPadOS, macOS, and visionOS), Apple is finally making good on one of those old Apple Intelligence features it first promised back in 2024. When Apple announced Apple Intelligence and all its fancy new features, one of the most important aspects was personal",
+      "story_id": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
+      "source_url": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
+      "headline": "iOS 27: What’s new, what’s in the latest beta and what’s coming next",
+      "summary": "Macworld Apple unveiled iOS 27 at WWDC on June 8, 2026, with the public release following on September 14. The latest update, iOS 27.2, arrived on October 26, bringing further Siri AI improvements and new app features. More additions are still to come. iOS 27 mainly focuses on three key areas: Siri",
       "source_name": "Macworld",
-      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/11/3276244-0-97355100-1793785554-siri-ai-orb.jpg?quality=50&strip=all&w=1024",
-      "image_url": "https://www.macworld.com/wp-content/uploads/2026/11/3276244-0-97355100-1793785554-siri-ai-orb.jpg?quality=50&strip=all&w=1024",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/11/2986799-0-73411800-1793796943-ios-27-.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/11/2986799-0-73411800-1793796943-ios-27-.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
         "width": 1024,
-        "height": 682,
-        "aspectRatio": 1.501466275659824,
+        "height": 576,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=with-ios-27-3-the-siri-ai-floodgates-are-about-to-open",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ios-27-whats-new-whats-in-the-latest-beta-and-whats-coming-next",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
       "scheduled_publish_at": "2026-11-04T11:20:00.000Z",
       "telegram": {
-        "status": "pending",
-        "published_at": null
+        "status": "skipped_duplicate",
+        "published_at": "2026-09-30T00:44:26.703Z"
       },
       "linkedin": {
         "status": "pending"
       },
       "instagram": {
-        "status": "pending"
+        "status": "published",
+        "published_at": "2026-09-30T00:45:25.639Z",
+        "message_id": "18120967990897080"
       },
       "x": {
         "status": "pending"
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-macworld-com-article-3276244-with-ios-27-3-the-siri-ai-floodgates-are--story.png",
+      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-macworld-com-article-2986799-ios-27-features-compatiblity-siri-ai-upda-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -192,23 +192,23 @@
       }
     },
     {
-      "story_id": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
-      "source_url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
-      "headline": "Valve just changed its Steam release rules amid a flood of AI games",
-      "summary": "Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles, many created with AI.",
-      "source_name": "Engadget",
-      "original_image_url": "https://www.engadget.com/img/gallery/valve-just-changed-its-steam-release-rules-amid-a-flood-of-ai-games/l-intro-1793780767.jpg",
-      "image_url": "https://www.engadget.com/img/gallery/valve-just-changed-its-steam-release-rules-amid-a-flood-of-ai-games/l-intro-1793780767.jpg",
+      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "headline": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+      "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in p",
+      "source_name": "Theverge",
+      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&strip=all&crop=0%2C9.3445766662078%2C100%2C81.310846667584&w=1200",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&strip=all&crop=0%2C9.3445766662078%2C100%2C81.310846667584&w=1200",
       "image_validation": {
         "valid": true,
-        "width": 1600,
-        "height": 898,
-        "aspectRatio": 1.78173719376392,
-        "instagramCompatible": true
+        "width": 1200,
+        "height": 625,
+        "aspectRatio": 1.92,
+        "instagramCompatible": false
       },
       "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=valve-just-changed-its-steam-release-rules-amid-a-flood-of-ai-games",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=google-hasn-and-8217-t-figured-out-how-to-make-ai-pay-like-its-search-engine",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -227,34 +227,35 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-engadget-com-2306215-valve-changed-its-steam-release-rules-amid-a-floo-story.png",
+      "fallback_image_instagram": "assets/social-cards/2026-11-04/Google-hasn-8217-t-figured-out-how-to-make-AI-pay-like-its-search-engine-instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-theverge-com-ai-artificial-intelligence-1024862-google-search-ai-overv-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-unsupported-source-ratio"
         ]
       }
     },
     {
-      "story_id": "https://www.creativebloq.com/news/the-spotify-ai-remixing-controversy-is-about-more-than-just-music",
-      "source_url": "https://www.creativebloq.com/news/the-spotify-ai-remixing-controversy-is-about-more-than-just-music",
-      "headline": "The Spotify AI remixing controversy is about more than just music",
-      "summary": "Visual artists should also be concerned.",
-      "source_name": "Creativebloq",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/wxPM89kMRwbJa58eKnf6Ch-1920-80.jpg",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/wxPM89kMRwbJa58eKnf6Ch-1920-80.jpg",
+      "story_id": "https://www.techradar.com/pro/the-goal-cant-simply-be-ai-usage-new-report-finds-people-using-ai-are-working-up-to-90-minutes-extra-every-day",
+      "source_url": "https://www.techradar.com/pro/the-goal-cant-simply-be-ai-usage-new-report-finds-people-using-ai-are-working-up-to-90-minutes-extra-every-day",
+      "headline": "'The goal can’t simply be AI usage': New report finds people using AI are working up to 90 minutes extra every day",
+      "summary": "New study finds AI users are working longer hours - despite promises of improved productivity.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/Badogw5wgWSHTzzjriBAkJ-2048-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Badogw5wgWSHTzzjriBAkJ-2048-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
+        "width": 2048,
+        "height": 1153,
+        "aspectRatio": 1.7762359063313096,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-spotify-ai-remixing-controversy-is-about-more-than-just-music",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-goal-cant-simply-be-ai-usage-new-report-finds-people-using-ai-are-working-up-to-90-min",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -274,7 +275,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-creativebloq-com-news-the-spotify-ai-remixing-controversy-is-about-mor-story.png",
+      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-techradar-com-pro-the-goal-cant-simply-be-ai-usage-new-report-finds-pe-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
@@ -284,23 +285,17 @@
       }
     },
     {
-      "story_id": "https://www.techradar.com/pro/ebay-lists-a-usd60-million-ai-supercomputer-with-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-but-you-do-get-free-shipping",
-      "source_url": "https://www.techradar.com/pro/ebay-lists-a-usd60-million-ai-supercomputer-with-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-but-you-do-get-free-shipping",
-      "headline": "eBay lists a $60 million AI supercomputer with 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs",
-      "summary": "Core 4 Solutions listed a 300-rack AI supercomputer on eBay, seeking $59.7 million for its Nvidia and AMD hardware",
-      "source_name": "but you do get free shipping",
-      "original_image_url": "https://cdn.mos.cms.futurecdn.net/WEsfQcKvmgZEM6s4KaT3tg-1920-80.png",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/WEsfQcKvmgZEM6s4KaT3tg-1920-80.png",
-      "image_validation": {
-        "valid": true,
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": 1.7777777777777777,
-        "instagramCompatible": true
-      },
-      "image_mode": "source",
-      "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=ebay-lists-a-60-million-ai-supercomputer-with-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cp",
+      "story_id": "https://www.macworld.com/article/3276170/everyone-is-struggling-except-apple.html",
+      "source_url": "https://www.macworld.com/article/3276170/everyone-is-struggling-except-apple.html",
+      "headline": "Everyone is struggling (except Apple)",
+      "summary": "Macworld Last week, the Wall Street Journal ran a piece describing how memory and flash chip manufacturers were finally “getting their revenge” on Apple. The demand spike from AI-driven data centers has made it so Apple can no longer negotiate extremely low prices. Provocative language aside, it’s w",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/11/3276170-0-67255300-1793793627-apple-silicon-logo.jpg?quality=50&strip=all&w=1024",
+      "image_url": "",
+      "image_validation": null,
+      "image_mode": "fallback_card",
+      "instagram_media_source": "fallback_card",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=everyone-is-struggling-except-apple",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -318,42 +313,43 @@
       "x": {
         "status": "pending"
       },
-      "fallback_image_landscape": "",
-      "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-techradar-com-pro-ebay-lists-a-usd60-million-ai-supercomputer-with-9-6-story.png",
+      "fallback_image_landscape": "assets/social-cards/2026-11-04/Everyone-is-struggling-except-Apple--landscape.png",
+      "fallback_image_instagram": "assets/social-cards/2026-11-04/Everyone-is-struggling-except-Apple--instagram.png",
+      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-macworld-com-article-3276170-everyone-is-struggling-except-apple-html-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected"
+          "image-rejected",
+          "instagram-card-for-missing-source"
         ]
       }
     },
     {
-      "story_id": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "source_url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "headline": "The biggest modding site in PC gaming is taking a stance on AI",
-      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the mo",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "story_id": "https://www.macworld.com/article/3139330/macos-27-mac-features-siri-apple-intelligence-release-date-compatibility.html",
+      "source_url": "https://www.macworld.com/article/3139330/macos-27-mac-features-siri-apple-intelligence-release-date-compatibility.html",
+      "headline": "macOS 27 Golden Gate: What’s new, what’s in the beta & what’s next",
+      "summary": "Macworld macOS 27 Golden Gate arrived on September 14, introducing an all-new Siri AI assistant, major updates to Safari, Photos, Messages, Mail and Calendar, and expanded child-safety features. Design refinements and performance improvements round out the release. Named after California’s iconic Go",
+      "source_name": "Macworld",
+      "original_image_url": "https://www.macworld.com/wp-content/uploads/2026/11/3139330-0-83229700-1793793020-macos-golden-gate-image-playground-freeform-notes-weather.jpg?quality=50&strip=all&w=1024",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/11/3139330-0-83229700-1793793020-macos-golden-gate-image-playground-freeform-notes-weather.jpg?quality=50&strip=all&w=1024",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 624,
-        "aspectRatio": 1.9230769230769231,
-        "instagramCompatible": false
+        "width": 1024,
+        "height": 682,
+        "aspectRatio": 1.501466275659824,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=the-biggest-modding-site-in-pc-gaming-is-taking-a-stance-on-ai",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=macos-27-golden-gate-whats-new-whats-in-the-beta-and-whats-next",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
       "scheduled_publish_at": "2026-11-04T19:20:00.000Z",
       "telegram": {
-        "status": "pending",
-        "published_at": null
+        "status": "skipped_duplicate",
+        "published_at": "2026-08-23T05:48:05.202Z"
       },
       "linkedin": {
         "status": "pending"
@@ -365,35 +361,34 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-11-04/The-biggest-modding-site-in-PC-gaming-is-taking-a-stance-on-AI-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-theverge-com-games-1026085-nexus-mods-ai-disclosures-story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-macworld-com-article-3139330-macos-27-mac-features-siri-apple-intellig-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
+          "image-rejected"
         ]
       }
     },
     {
-      "story_id": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "headline": "Please stop asking me when the AI bubble will pop",
-      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
-      "source_name": "Theverge",
-      "original_image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&strip=all&crop=0%2C10.852336924521%2C100%2C78.295326150957&w=1200",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&strip=all&crop=0%2C10.852336924521%2C100%2C78.295326150957&w=1200",
+      "story_id": "https://www.techradar.com/pro/your-ai-agents-are-generating-data-you-cant-afford-to-monitor",
+      "source_url": "https://www.techradar.com/pro/your-ai-agents-are-generating-data-you-cant-afford-to-monitor",
+      "headline": "Your AI agents are generating data you can’t afford to monitor",
+      "summary": "Agentic AI is driving a telemetry explosion that could overwhelm budgets and infrastructure.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 625,
-        "aspectRatio": 1.92,
-        "instagramCompatible": false
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
+        "instagramCompatible": true
       },
       "image_mode": "source",
-      "instagram_media_source": "fallback_card",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=please-stop-asking-me-when-the-ai-bubble-will-pop",
+      "instagram_media_source": "auto",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=your-ai-agents-are-generating-data-you-cant-afford-to-monitor",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -412,35 +407,34 @@
         "status": "pending"
       },
       "fallback_image_landscape": "",
-      "fallback_image_instagram": "assets/social-cards/2026-11-04/Please-stop-asking-me-when-the-AI-bubble-will-pop-instagram.png",
-      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-theverge-com-ai-artificial-intelligence-1025826-ai-bubble-pimco-apollo-story.png",
+      "fallback_image_instagram": "",
+      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-techradar-com-pro-your-ai-agents-are-generating-data-you-cant-afford-t-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
         "repairs": [
-          "image-rejected",
-          "instagram-card-for-unsupported-source-ratio"
+          "image-rejected"
         ]
       }
     },
     {
-      "story_id": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "headline": "Anthropic is working on a system to prove AI models&#8217; identity",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "source_name": "Techcrunch",
-      "original_image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
+      "story_id": "https://www.techradar.com/pro/physical-ai-doesnt-need-a-bigger-brain-it-needs-a-nervous-system",
+      "source_url": "https://www.techradar.com/pro/physical-ai-doesnt-need-a-bigger-brain-it-needs-a-nervous-system",
+      "headline": "Physical AI doesn't need a bigger brain. It needs a nervous system",
+      "summary": "Like the human nervous system, machines need reasoning, coordination and reflex at every layer.",
+      "source_name": "Techradar",
+      "original_image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg",
       "image_validation": {
         "valid": true,
-        "width": 1200,
-        "height": 798,
-        "aspectRatio": 1.5037593984962405,
+        "width": 2560,
+        "height": 1440,
+        "aspectRatio": 1.7777777777777777,
         "instagramCompatible": true
       },
       "image_mode": "source",
       "instagram_media_source": "auto",
-      "mahgpt_url": "https://mahgpt.com/news/story.html?id=anthropic-is-working-on-a-system-to-prove-ai-models-and-8217-identity",
+      "mahgpt_url": "https://mahgpt.com/news/story.html?id=physical-ai-doesnt-need-a-bigger-brain-it-needs-a-nervous-system",
       "detected_partner": null,
       "product_url": "",
       "affiliate_status": null,
@@ -460,7 +454,7 @@
       },
       "fallback_image_landscape": "",
       "fallback_image_instagram": "",
-      "fallback_image_story": "assets/social-cards/2026-11-04/https-techcrunch-com-2026-11-03-anthropic-is-working-on-a-system-to-prove-ai-mod-story.png",
+      "fallback_image_story": "assets/social-cards/2026-11-04/https-www-techradar-com-pro-physical-ai-doesnt-need-a-bigger-brain-it-needs-a-ne-story.png",
       "quality_gate": {
         "valid": true,
         "warnings": [],
