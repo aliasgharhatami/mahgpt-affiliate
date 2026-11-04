@@ -8415,6 +8415,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/black-friday/black-friday-web-hosting-deals": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-04T09:57:33.931Z",
+        "message_id": 731,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }

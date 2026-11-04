@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T12:49:07.583Z",
+  "updatedAt": "2026-11-04T09:57:27.669Z",
   "freshnessWindow": "7 days",
   "strategy": "direct publisher RSS first; partner relevance and source diversity enforced; fallback artwork only when RSS/article imagery is unavailable",
   "sources": [
@@ -27,103 +27,103 @@
       "image": "https://www.macworld.com/wp-content/uploads/2026/11/667144-0-30676800-1793700135-Which-MacBook-Is-Best.jpg?quality=50&strip=all&w=1024"
     },
     {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "When AI finds the path you didn’t know existed",
-      "summary": "Despite the alarming headlines, AI escapes should not be viewed as a failure but as a lesson.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/when-ai-finds-the-path-you-didnt-know-existed",
-      "publishedAt": "2026-11-03T12:01:32.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg"
+      "tool": "hostinger",
+      "toolName": "Hostinger",
+      "category": "Partner watch",
+      "title": "Black Friday web hosting deals 2026 — we found early discounts on shared, WordPress, and VPS hosting platforms for your business",
+      "summary": "After testing the top web hosting providers, we've tracked down all the early Black Friday deals from Hostinger, Bluehost, Siteground, and more.",
+      "guide": "/partners/hostinger.html",
+      "source": "https://www.techradar.com/pro/black-friday/black-friday-web-hosting-deals",
+      "publishedAt": "2026-11-03T18:32:59.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/NGieZceF9pjB2uCLLTxgdd-1920-80.jpg"
+    },
+    {
+      "tool": "canva",
+      "toolName": "Canva AI",
+      "category": "Partner watch",
+      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+      "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\" says Perkins. \"Sadly, it will also mean saying go",
+      "guide": "/partners/canva.html",
+      "source": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+      "publishedAt": "2026-11-03T22:59:36.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Beyond the hype: AI, not for AI’s sake",
-      "summary": "Sometimes the smartest approach to AI is knowing when a simpler tool works better.",
+      "title": "With iOS 27.3, the Siri AI floodgates are about to open",
+      "summary": "Macworld With the new OS 27.3 betas (iOS, iPadOS, macOS, and visionOS), Apple is finally making good on one of those old Apple Intelligence features it first promised back in 2024 . When Apple announced Apple Intelligence and all its fancy new features, one of the most important aspects was personal",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/beyond-the-hype-ai-not-for-ais-sake",
-      "publishedAt": "2026-11-03T11:32:55.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg"
+      "source": "https://www.macworld.com/article/3276244/with-ios-27-3-the-siri-ai-floodgates-are-about-to-open.html",
+      "publishedAt": "2026-11-04T09:45:00.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3276244-0-97355100-1793785554-siri-ai-orb.jpg?quality=50&strip=all&w=1024"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
-      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+      "title": "Valve just changed its Steam release rules amid a flood of AI games",
+      "summary": "Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles, many created with AI.",
       "guide": "/news/index.html",
-      "source": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
-      "publishedAt": "2026-11-03T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ae90c349efc9a24a32255ed/191:100/w_1280,c_limit/WEB_WIRED_Mamdani_HR-00808.jpg"
+      "source": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+      "publishedAt": "2026-11-04T08:28:09.000Z",
+      "image": "https://www.engadget.com/img/gallery/valve-just-changed-its-steam-release-rules-amid-a-flood-of-ai-games/l-intro-1793780767.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "How Agentic Commercial enables more precise field, digital and content engagement",
-      "summary": "Creating dialogue with HCPs and patients to help medicines reach them faster.",
+      "title": "The Spotify AI remixing controversy is about more than just music",
+      "summary": "Visual artists should also be concerned.",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/how-agentic-commercial-enables-more-precise-field-digital-and-content-engagement",
-      "publishedAt": "2026-11-03T10:56:41.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZzivZqzbMG6jdHYzun8e3L-2560-80.jpg"
+      "source": "https://www.creativebloq.com/news/the-spotify-ai-remixing-controversy-is-about-more-than-just-music",
+      "publishedAt": "2026-11-04T07:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/wxPM89kMRwbJa58eKnf6Ch-1920-80.jpg"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple will start mandating age requirements for dating apps",
-      "summary": "Apple developers will have to declare whether their app enables dating between real people and/or AI companions, so the company can apply the proper age rating.",
+      "title": "eBay lists a $60 million AI supercomputer with 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs — but you do get free shipping",
+      "summary": "Core 4 Solutions listed a 300-rack AI supercomputer on eBay, seeking $59.7 million for its Nvidia and AMD hardware",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/",
-      "publishedAt": "2026-11-03T10:32:28.000Z",
-      "image": "https://www.engadget.com/img/gallery/apple-will-start-mandating-age-requirements-for-dating-apps/l-intro-1793701818.jpg"
+      "source": "https://www.techradar.com/pro/ebay-lists-a-usd60-million-ai-supercomputer-with-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-but-you-do-get-free-shipping",
+      "publishedAt": "2026-11-04T01:05:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/WEsfQcKvmgZEM6s4KaT3tg-1920-80.png"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "We can’t control AI if we can’t control where it gets its information from",
-      "summary": "Before AI agents act on the world, we must know where their knowledge came from.",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the mo",
       "guide": "/news/index.html",
-      "source": "https://www.techradar.com/pro/we-cant-control-ai-if-we-cant-control-where-it-gets-its-information-from",
-      "publishedAt": "2026-11-03T10:18:37.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg"
+      "source": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "publishedAt": "2026-11-04T00:42:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "New Apple products coming in 2027: What’s next?",
-      "summary": "Macworld What new products will Apple launch in 2027? Rumors point to a redesigned iPhone to mark its 20th anniversary, an OLED iPad Air, and potentially Apple’s first smart glasses. Updated Macs, more affordable iPhones and new AI-focused accessories could also be on the way. The first launches cou",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
       "guide": "/news/index.html",
-      "source": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
-      "publishedAt": "2026-11-03T10:18:12.000Z",
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/671090-0-87669900-1793701384-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all&w=1024"
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "publishedAt": "2026-11-03T23:37:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&strip=all&crop=0%2C10.852336924521%2C100%2C78.295326150957&w=1200"
     },
     {
       "tool": "ai-news",
       "toolName": "AI News",
       "category": "AI news",
-      "title": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
-      "summary": "First revealed at the company's event in September, Apple's AI-powered Apple Watch features are finally landing in beta.",
+      "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
       "guide": "/news/index.html",
-      "source": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
-      "publishedAt": "2026-11-03T09:21:36.000Z",
-      "image": "https://www.engadget.com/img/gallery/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/l-intro-1793697908.jpg"
-    },
-    {
-      "tool": "ai-news",
-      "toolName": "AI News",
-      "category": "AI news",
-      "title": "Meta's rumored humanoid robot is another AI services Trojan horse",
-      "summary": "The race to bring humanoid robotics home might be more about supporting the exploding AI industry than improving anyone's life.",
-      "guide": "/news/index.html",
-      "source": "https://www.techradar.com/science/robotics/metas-rumored-humanoid-robot-is-another-ai-services-trojan-horse-and-this-is-how-you-end-up-paying-for-the-robot-and-ai-revolution",
-      "publishedAt": "2026-11-03T09:07:50.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/PSbHynPh6NrvfZGib3rX5H-1920-80.jpg"
+      "source": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "publishedAt": "2026-11-03T22:41:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798"
     }
   ]
 }
