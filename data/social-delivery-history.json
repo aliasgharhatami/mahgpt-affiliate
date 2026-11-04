@@ -8398,6 +8398,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.techradar.com/pro/how-agentic-commercial-enables-more-precise-field-digital-and-content-engagement": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-04T01:25:54.649Z",
+        "message_id": 730,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
