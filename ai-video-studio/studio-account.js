@@ -216,7 +216,7 @@
     const id=key?sessionStorage.getItem(key):null;
     if(!id||!/^[0-9a-f-]{36}$/.test(id))return;
     const {data,error}=await api.from('studio_projects').select('id,lifecycle')
-      .eq('id',id).eq('lifecycle','intake').maybeSingle();
+      .eq('id',id).in('lifecycle',['intake','processing']).maybeSingle();
     if(error||!data){if(key)sessionStorage.removeItem(key);return;}
     activeIntakeId=data.id;
     showPreviewAction();
@@ -233,7 +233,7 @@
     event.preventDefault();
     // The earlier static-preview handler must not overwrite real upload status.
     event.stopImmediatePropagation();
-    if(intakeBusy)return;
+    if(intakeBusy||activeRenderId){status('Your current preview render must finish first.');return;}
     if(!currentUser||!agreementReady){
       openAuth();
       status('Sign in to submit your request securely. Text and files have not been sent.');
