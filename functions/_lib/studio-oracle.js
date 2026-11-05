@@ -1,5 +1,5 @@
 // Shared private Oracle render bridge. Never import this file into browser code.
-const UUID=/^[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{12}$/i;
+const UUID=/^[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
 const DB='https://gthwpfscrewwamjxheyj.supabase.co';
 const shared={'Cache-Control':'no-store','X-Content-Type-Options':'nosniff'};
 export const validId=x=>typeof x==='string'&&UUID.test(x);
