@@ -46,6 +46,66 @@
   let googleAvailable = false;
   let activeIntakeId = null;
   let intakeBusy = false;
+  // Private, founder-only preview. The browser flag remains off until end-to-end testing.
+  let activeRenderId=null,renderPoll=null;
+  const renderPreview=document.createElement('button');
+  renderPreview.type='button';renderPreview.textContent='Render 8-second private preview';
+  renderPreview.className='action';renderPreview.id='studio-render-private-preview';
+  renderPreview.hidden=true;renderPreview.disabled=true;
+  const renderInfo=document.createElement('p');renderInfo.id='studio-render-private-status';
+  renderInfo.hidden=true;
+  newRequest?.insertAdjacentElement('afterend',renderPreview);
+  renderPreview.insertAdjacentElement('afterend',renderInfo);
+  function renderNotice(message){renderInfo.hidden=false;renderInfo.textContent=message;}
+  function showPreviewAction(){
+    renderPreview.hidden=!config.oraclePrivatePreviewEnabled||!activeIntakeId||
+      !currentUser||!agreementReady;
+    renderPreview.disabled=!activeIntakeId||Boolean(activeRenderId)||intakeBusy;
+  }
+  async function watchRender(jobId){
+    if(renderPoll)clearInterval(renderPoll);
+    activeRenderId=jobId;showPreviewAction();
+    const check=async()=>{
+      if(!currentUser){clearInterval(renderPoll);renderPoll=null;return;}
+      const {data,error}=await api.from('studio_render_jobs')
+        .select('id,status,error_code,output_asset_id').eq('id',jobId).maybeSingle();
+      if(error||!data){renderNotice('Unable to refresh render status.');return;}
+      if(data.status==='queued')renderNotice('Private video queued on Oracle.');
+      if(data.status==='rendering')renderNotice('Oracle is rendering your private preview.');
+      if(['completed','failed'].includes(data.status)){
+        clearInterval(renderPoll);renderPoll=null;activeRenderId=null;
+        showPreviewAction();
+        if(data.status==='completed'){
+          resetComposer();await refreshProjects();
+          renderNotice('MP4 ready in My Projects → Media archive.');
+          projects?.scrollIntoView({behavior:'smooth',block:'start'});
+        }else renderNotice('Render failed ('+(data.error_code||'render_failed')+'). You can retry within your private quota.');
+      }
+    };
+    await check();
+    if(activeRenderId)renderPoll=setInterval(()=>{void check();},7000);
+  }
+  async function resumeRender(){
+    if(!config.oraclePrivatePreviewEnabled||!activeIntakeId)return;
+    const {data,error}=await api.from('studio_render_jobs')
+      .select('id,status').eq('project_id',activeIntakeId)
+      .in('status',['queued','rendering']).order('created_at',{ascending:false}).limit(1);
+    if(!error&&data?.[0])await watchRender(data[0].id);
+  }
+  renderPreview.addEventListener('click',async()=>{
+    if(!config.oraclePrivatePreviewEnabled||!activeIntakeId||activeRenderId||
+      intakeBusy||!currentUser||!agreementReady)return;
+    renderPreview.disabled=true;renderNotice('Submitting private render…');
+    try{
+      const {data,error}=await api.from('studio_render_jobs')
+        .insert({project_id:activeIntakeId,preset:'brief-preview-v1'})
+        .select('id,status').single();
+      if(error)throw error;
+      await watchRender(data.id);
+    }catch(e){renderNotice('Cannot start private preview: '+e.message);}
+    finally{showPreviewAction();}
+  });
+
   const loginNote = 'Sign-in is not enabled. No email was sent and no user data was submitted.';
   // Product model: intake is hidden from My Projects until a trusted render
   // backend marks a final output complete. The AI API is NOT connected yet.
@@ -82,6 +142,7 @@
   }
   function resetComposer(){
     activeIntakeId=null;
+    showPreviewAction();
     const key=localIntakeKey();if(key)sessionStorage.removeItem(key);
     if(thread){thread.replaceChildren();thread.hidden=true;}
     if(uploads){uploads.replaceChildren();uploads.hidden=true;}
@@ -95,7 +156,7 @@
     if(intakeStatus)intakeStatus.hidden=true;
   }
   newRequest?.addEventListener('click',async()=>{
-    if(intakeBusy)return;
+    if(intakeBusy||activeRenderId){status('Finish the current render before starting another request.');return;}
     intakeBusy=true;newRequest.disabled=true;
     try{
       if(activeIntakeId){
@@ -158,12 +219,14 @@
       .eq('id',id).eq('lifecycle','intake').maybeSingle();
     if(error||!data){if(key)sessionStorage.removeItem(key);return;}
     activeIntakeId=data.id;
+    showPreviewAction();
     if(newRequest)newRequest.hidden=false;
     const {data:messages}=await api.from('studio_intake_messages')
       .select('body').eq('project_id',id).order('created_at').limit(30);
     if(thread){thread.replaceChildren();thread.hidden=true;}
     (messages||[]).forEach(m=>addThreadLine(m.body));
     try{await showIntakeFiles();}catch(e){status('Private files could not be loaded: '+e.message)}
+    await resumeRender();
     if(messages?.length)status('Your private request is ready to continue here. AI editing is not enabled yet.');
   }
   async function submitIntake(event){
@@ -211,6 +274,7 @@
         if(error)throw error;
         projectId=data.id;
         activeIntakeId=projectId;
+        showPreviewAction();
         const key=localIntakeKey();if(key)sessionStorage.setItem(key,projectId);
         if(newRequest)newRequest.hidden=false;
       }
@@ -243,7 +307,8 @@
       if(rightsCheck)rightsCheck.checked=false;
       if(message)document.getElementById('idea').value='';
       await showIntakeFiles();
-      status('Request saved privately in this conversation. Video editing, AI replies, quotes and payments are not active yet.');
+      status(config.oraclePrivatePreviewEnabled?'Request saved. You can now render an 8-second private preview using Oracle.':'Request saved privately in this conversation. Video editing, AI replies, quotes and payments are not active yet.');
+       showPreviewAction();
       // This is a real status notice, NOT a fabricated AI reply.
     }catch(err){status('Could not complete the request: '+err.message)}
     finally{
@@ -489,6 +554,7 @@
     projectNotice.hidden=true;
     await refreshProjects();
     await resumeIntake();
+    showPreviewAction();
   }
   // Register this only once: repeated AUTH events must not add consent handlers.
   let acceptingAgreement=false;
@@ -515,7 +581,7 @@
   signout.addEventListener('click',async()=>{
     const {error}=await api.auth.signOut();
     if(error)notice(projectNotice,'Sign out failed: '+error.message);
-    else {currentUser=null;agreementReady=false;projects.hidden=true;login.textContent='Sign Up / Log In';resetComposer();}
+    else {currentUser=null;agreementReady=false;projects.hidden=true;login.textContent='Sign Up / Log In';if(renderPoll)clearInterval(renderPoll);renderPoll=null;activeRenderId=null;resetComposer();}
   });
   api.auth.onAuthStateChange((_event,_session)=>{setTimeout(()=>{void refreshAuth();},0);});
   void refreshAuth();
