@@ -35,7 +35,7 @@ async function withFetch(handler,fn){
 test('every worker route fails closed before config',async()=>{
  const e=env();e.STUDIO_ORACLE_PILOT_ENABLED='false';
  assert.equal(ready(e),false);
- assert.equal((await claim({request:request('claim',{method:'POST'}),env:e})).status,503);
+ assert.equal((await claim({request:request('claim','POST'),env:e})).status,503);
  assert.equal((await input({request:request('input','GET'),env:e})).status,503);
  assert.equal((await output({request:request('output'),env:e})).status,503);
 });
