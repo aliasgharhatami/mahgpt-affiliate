@@ -179,4 +179,24 @@ grant execute on function public.studio_worker_claim() to service_role;
 grant execute on function public.studio_worker_renew(uuid,uuid) to service_role;
 grant execute on function public.studio_worker_fail(uuid,uuid,text) to service_role;
 grant execute on function public.studio_worker_finish(uuid,uuid,bigint) to service_role;
+-- Worker connection uses a service-role JWT under Cloudflare Pages only.
+grant select,insert,update,delete on public.studio_render_jobs to service_role;
+-- Disallow deleting a project with an active job even if the owner triggers a stale UI action.
+create or replace function public.studio_render_protect_project()
+ returns trigger language plpgsql security invoker set search_path='' as $
+begin
+ if current_user in ('authenticated','anon') and
+   exists(select 1 from public.studio_render_jobs j where j.project_id=old.id
+     and j.status in ('queued','rendering')) then
+   if tg_op='DELETE' then raise exception 'Cannot delete a project during rendering';end if;
+   if new.brief is distinct from old.brief or new.reference_url is distinct from old.reference_url
+      or new.selected_style is distinct from old.selected_style then
+      raise exception 'Cannot modify this project during rendering';end if;
+ end if;
+ if tg_op='DELETE' then return old;end if;
+ return new;
+end $;
+drop trigger if exists studio_render_protect_project_trigger on public.studio_projects;
+create trigger studio_render_protect_project_trigger before update or delete on public.studio_projects
+ for each row execute function public.studio_render_protect_project();
 commit;
