@@ -195,7 +195,7 @@ begin
  end if;
  if tg_op='DELETE' then return old;end if;
  return new;
-end $;
+end $$;
 drop trigger if exists studio_render_protect_project_trigger on public.studio_projects;
 create trigger studio_render_protect_project_trigger before update or delete on public.studio_projects
  for each row execute function public.studio_render_protect_project();
