@@ -8500,6 +8500,23 @@
       "x": {
         "status": "pending"
       }
+    },
+    "https://www.macworld.com/article/3276170/everyone-is-struggling-except-apple.html": {
+      "telegram": {
+        "status": "published",
+        "published_at": "2026-11-05T01:29:12.979Z",
+        "message_id": 736,
+        "delivery": "photo"
+      },
+      "linkedin": {
+        "status": "pending"
+      },
+      "instagram": {
+        "status": "pending"
+      },
+      "x": {
+        "status": "pending"
+      }
     }
   }
 }
