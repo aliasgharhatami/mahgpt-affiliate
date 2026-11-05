@@ -23,7 +23,7 @@ function env(){
 }
 function request(path,method='POST',{token=workerSecret,headers={},body}={}){
  return new Request('https://mahgpt.com/api/studio/worker/'+path,{
-  method,headers:{Authorization:'Bearer '+token,...headers},body
+  method,headers:{Authorization:'Bearer '+token,...(body&&method==='POST'?{'content-length':Buffer.byteLength(body).toString()}:{}),...headers},body
  });
 }
 const row={id,owner_id:owner,project_id:id,lease_token:lease,
@@ -65,7 +65,7 @@ test('input read never accepts unrelated asset paths',async()=>{
   return Response.json(calls===1?[row]:[{id:asset,storage_path:'other-owner/r2/bad',
    byte_size:123,media_type:'image/png',status:'ready',storage_provider:'r2'}]);
  },()=>input({env:e,request:request('input?job_id='+id+'&lease='+lease+'&asset_id='+asset,'GET')}));
- assert.equal(res.status,404);
+ assert.equal(res.status,404,await res.text());
  assert.equal(e.STUDIO_MEDIA.files.size,0);
 });
 test('MP4 completion writes to one server-selected key before database finalization',async()=>{
