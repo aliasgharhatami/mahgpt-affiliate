@@ -1,0 +1,27 @@
+name: Studio Oracle private render bridge gate
+on:
+  pull_request:
+    paths:
+      - "functions/api/studio/worker/**"
+      - "functions/_lib/studio-oracle.js"
+      - "ai-video-studio/backend/supabase/008_oracle_founder_render_queue.sql"
+      - "tests/studio-oracle-bridge.test.mjs"
+      - ".github/workflows/studio-oracle-bridge.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check-oracle-bridge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: |
+          node --check functions/_lib/studio-oracle.js
+          node --check functions/api/studio/worker/claim.js
+          node --check functions/api/studio/worker/input.js
+          node --check functions/api/studio/worker/output.js
+          node --test tests/studio-oracle-bridge.test.mjs
