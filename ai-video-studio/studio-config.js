@@ -10,6 +10,7 @@ window.MAH_STUDIO_CONFIG = Object.freeze({
   mediaUploadsReady: false, // Change only after legal release gate and upload/deletion security tests.
   paymentsReady: false, // Change only after merchant/payment legal release gate.
   aiRenderingReady: false, // Model processing and media agreement not launched.
+  oraclePrivatePreviewEnabled: false, // Enable only after secured Oracle, R2, queue and end-to-end validation.
   registrationAudience: 'public-beta', // Anyone can request a text-only beta account using verified Resend SMTP.
   googleProviderReady: false, // Auto-discovered from Supabase Auth's public provider settings.
   termsVersion: "public-beta-2026-11-02-v4",
