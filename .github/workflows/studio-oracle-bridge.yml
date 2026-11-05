@@ -4,6 +4,8 @@ on:
     paths:
       - "functions/api/studio/worker/**"
       - "functions/_lib/studio-oracle.js"
+      - "ai-video-studio/studio-account.js"
+      - "ai-video-studio/studio-config.js"
       - "ai-video-studio/backend/supabase/008_oracle_founder_render_queue.sql"
       - "tests/studio-oracle-bridge.test.mjs"
       - ".github/workflows/studio-oracle-bridge.yml"
@@ -20,6 +22,8 @@ jobs:
         with:
           node-version: '22'
       - run: |
+          node --check ai-video-studio/studio-config.js
+          node --check ai-video-studio/studio-account.js
           node --check functions/_lib/studio-oracle.js
           node --check functions/api/studio/worker/claim.js
           node --check functions/api/studio/worker/input.js
