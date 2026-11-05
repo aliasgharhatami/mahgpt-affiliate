@@ -183,7 +183,7 @@ grant execute on function public.studio_worker_finish(uuid,uuid,bigint) to servi
 grant select,insert,update,delete on public.studio_render_jobs to service_role;
 -- Disallow deleting a project with an active job even if the owner triggers a stale UI action.
 create or replace function public.studio_render_protect_project()
- returns trigger language plpgsql security invoker set search_path='' as $
+ returns trigger language plpgsql security invoker set search_path='' as $$
 begin
  if current_user in ('authenticated','anon') and
    exists(select 1 from public.studio_render_jobs j where j.project_id=old.id
