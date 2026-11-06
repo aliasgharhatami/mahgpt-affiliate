@@ -155,6 +155,8 @@ begin
     or (select count(*) from pg_catalog.jsonb_object_keys(p_analysis))<>6
     or not (p_analysis ?& array['complexity','productionApproach',
        'estimatedDurationSeconds','needsVoiceover','needsReview','summary'])
+    or pg_catalog.jsonb_typeof(p_analysis->'complexity')<>'string'
+    or pg_catalog.jsonb_typeof(p_analysis->'productionApproach')<>'string'
     or p_analysis->>'complexity' not in
        ('simple','moderate','advanced','specialist_3d')
     or p_analysis->>'productionApproach' not in
@@ -167,8 +169,8 @@ begin
     or pg_catalog.jsonb_typeof(p_analysis->'needsReview')<>'boolean'
     or pg_catalog.jsonb_typeof(p_analysis->'summary')<>'string'
     or char_length(p_analysis->>'summary')>600
-    or p_input_tokens not between 1 and 4000
-    or p_output_tokens not between 1 and 900
+    or p_input_tokens is null or p_input_tokens not between 1 and 4000
+    or p_output_tokens is null or p_output_tokens not between 1 and 900
     or p_cost_usd is null or p_cost_usd<0 or p_cost_usd>0.002 then
     raise exception 'Invalid AI analysis result or spend budget';
  end if;
