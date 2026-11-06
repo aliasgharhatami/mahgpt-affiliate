@@ -46,7 +46,8 @@
   let googleAvailable = false;
   let activeIntakeId = null;
   let intakeBusy = false;
-  // Private, founder-only preview. The browser flag remains off until end-to-end testing.
+  let oracleTester = false;
+  // Private founder pilot: a browser flag never replaces server-side allowlist/RLS.
   let activeRenderId=null,renderPoll=null;
   const renderPreview=document.createElement('button');
   renderPreview.type='button';renderPreview.textContent='Render 8-second private preview';
@@ -58,7 +59,7 @@
   renderPreview.insertAdjacentElement('afterend',renderInfo);
   function renderNotice(message){renderInfo.hidden=false;renderInfo.textContent=message;}
   function showPreviewAction(){
-    renderPreview.hidden=!config.oraclePrivatePreviewEnabled||!activeIntakeId||
+    renderPreview.hidden=!config.oraclePrivatePreviewEnabled||!oracleTester||!activeIntakeId||
       !currentUser||!agreementReady;
     renderPreview.disabled=!activeIntakeId||Boolean(activeRenderId)||intakeBusy;
   }
@@ -86,14 +87,14 @@
     if(activeRenderId)renderPoll=setInterval(()=>{void check();},7000);
   }
   async function resumeRender(){
-    if(!config.oraclePrivatePreviewEnabled||!activeIntakeId)return;
+    if(!config.oraclePrivatePreviewEnabled||!oracleTester||!activeIntakeId)return;
     const {data,error}=await api.from('studio_render_jobs')
       .select('id,status').eq('project_id',activeIntakeId)
       .in('status',['queued','rendering']).order('created_at',{ascending:false}).limit(1);
     if(!error&&data?.[0])await watchRender(data[0].id);
   }
   renderPreview.addEventListener('click',async()=>{
-    if(!config.oraclePrivatePreviewEnabled||!activeIntakeId||activeRenderId||
+    if(!config.oraclePrivatePreviewEnabled||!oracleTester||!activeIntakeId||activeRenderId||
       intakeBusy||!currentUser||!agreementReady)return;
     renderPreview.disabled=true;renderNotice('Submitting private render…');
     try{
@@ -227,7 +228,7 @@
     (messages||[]).forEach(m=>addThreadLine(m.body));
     try{await showIntakeFiles();}catch(e){status('Private files could not be loaded: '+e.message)}
     await resumeRender();
-    if(messages?.length)status('Your private request is ready to continue here. AI editing is not enabled yet.');
+    if(messages?.length && !activeRenderId)status('Your private request is ready. The full AI editing workflow is not enabled yet.');
   }
   async function submitIntake(event){
     event.preventDefault();
@@ -307,7 +308,7 @@
       if(rightsCheck)rightsCheck.checked=false;
       if(message)document.getElementById('idea').value='';
       await showIntakeFiles();
-      status(config.oraclePrivatePreviewEnabled?'Request saved. You can now render an 8-second private preview using Oracle.':'Request saved privately in this conversation. Video editing, AI replies, quotes and payments are not active yet.');
+      status(config.oraclePrivatePreviewEnabled && oracleTester?'Request saved. You can now render an 8-second private preview using Oracle.':'Request saved privately in this conversation. Video editing, AI replies, quotes and payments are not active yet.');
        showPreviewAction();
       // This is a real status notice, NOT a fabricated AI reply.
     }catch(err){status('Could not complete the request: '+err.message)}
@@ -346,7 +347,7 @@
   // Avoid accidental closing on backdrop taps. Close via X or Escape only.
   check.addEventListener('change',authButtons);
   previewNote.textContent=enabled ?
-    'Email registration is open. Private media upload is limited to one test account; AI editing, payment and rendering are not yet active.' :
+    'Email registration is open. A private 8-second Oracle preview is available to the founder test account only; full AI editing and payments are not yet active.' :
     'Accounts are not enabled yet. No account or consent record is created here.';
   authButtons();
   if(emailCallbackError){
@@ -528,10 +529,28 @@
       }
     }
   }
+  async function refreshOracleTester(){
+    oracleTester=false;
+    if(!config.oraclePrivatePreviewEnabled||!currentUser||!agreementReady){
+      showPreviewAction();
+      return;
+    }
+    // RLS restricts this view to the signed-in tester's own eligibility row.
+    // Browser visibility is cosmetic; the queue policies enforce eligibility.
+    try{
+      const userId=currentUser.id;
+      const {data,error}=await api.from('studio_media_testers')
+        .select('user_id').eq('user_id',userId).limit(1);
+      if(!error && currentUser?.id===userId)oracleTester=Boolean(data?.length);
+    }catch{/* Fail closed if the allowlist cannot be confirmed. */}
+    showPreviewAction();
+  }
   async function refreshAuth(){
     const {data,error}=await api.auth.getUser();
     currentUser=!error ? data?.user : null;
+    oracleTester=false;
     projects.hidden=true;
+    showPreviewAction();
     if(!currentUser){
       agreementReady=false;
       login.textContent='Sign Up / Log In';
@@ -552,6 +571,7 @@
     login.textContent='My Projects';
     projects.hidden=false;
     projectNotice.hidden=true;
+    await refreshOracleTester();
     await refreshProjects();
     await resumeIntake();
     showPreviewAction();
@@ -569,6 +589,7 @@
         login.textContent='My Projects';
         projects.hidden=false;
         projectNotice.hidden=true;
+        await refreshOracleTester();
         await refreshProjects();
         await resumeIntake();
       }
@@ -581,7 +602,7 @@
   signout.addEventListener('click',async()=>{
     const {error}=await api.auth.signOut();
     if(error)notice(projectNotice,'Sign out failed: '+error.message);
-    else {currentUser=null;agreementReady=false;projects.hidden=true;login.textContent='Sign Up / Log In';if(renderPoll)clearInterval(renderPoll);renderPoll=null;activeRenderId=null;resetComposer();}
+    else {currentUser=null;agreementReady=false;oracleTester=false;projects.hidden=true;login.textContent='Sign Up / Log In';if(renderPoll)clearInterval(renderPoll);renderPoll=null;activeRenderId=null;resetComposer();}
   });
   api.auth.onAuthStateChange((_event,_session)=>{setTimeout(()=>{void refreshAuth();},0);});
   void refreshAuth();
