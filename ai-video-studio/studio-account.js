@@ -61,7 +61,8 @@
   resultPanel.hidden=true;
   const actionsRow=composer?.querySelector('.studio-actions');
   actionsRow?.insertAdjacentElement('afterend',renderInfo);
-  renderInfo.insertAdjacentElement('afterend',resultPanel);
+  // The finished video appears above the text composer, like a studio reply.
+  thread?.insertAdjacentElement('afterend',resultPanel);
   function renderNotice(message){renderInfo.hidden=false;renderInfo.textContent=message;}
   function hasDraftChanges(){
     return Boolean(document.getElementById('idea')?.value.trim()||
@@ -78,7 +79,7 @@
       action.textContent=hasDraftChanges()?'Save request changes':'Create free 8-second test preview';
       action.disabled=intakeBusy;
     }else{
-      action.textContent=activeIntakeId?'Save request changes':'Continue to Studio →';
+      action.textContent=activeIntakeId?'Save request changes':(config.oraclePrivatePreviewEnabled&&oracleTester?'Save private request':'Continue to Studio →');
       action.disabled=intakeBusy;
     }
   }
