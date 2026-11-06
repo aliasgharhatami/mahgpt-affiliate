@@ -120,6 +120,7 @@
       config.studioChatEstimateFlowEnabled&&config.oraclePrivatePreviewEnabled&&
       oracleTester&&currentUser&&agreementReady&&activeIntakeId);
     analysisPanel.hidden=!visible;
+    analysisPanel.classList.toggle('is-estimating',Boolean(activeAnalysisId||quoteBusy));
     if(visible&&thread){
       thread.hidden=false;
       if(analysisPanel.parentNode!==thread||thread.lastElementChild!==analysisPanel)
