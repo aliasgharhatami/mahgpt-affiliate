@@ -7,6 +7,11 @@ on:
       - "ai-video-studio/studio-config.js"
       - "ai-video-studio/index.html"
       - "ai-video-studio/backend/supabase/009_founder_ai_analysis_queue.sql"
+      - "ai-video-studio/backend/supabase/010_private_ai_quote_visibility.sql"
+      - "ai-video-studio/backend/supabase/011_verified_quote_analysis_binding.sql"
+      - "ai-video-studio/backend/pricing/**"
+      - "functions/api/studio/estimate.js"
+      - "tests/studio-customer-quote-gate.test.mjs"
       - "tests/studio-ai-analysis-queue.test.mjs"
       - ".github/workflows/studio-ai-analysis-gate.yml"
   workflow_dispatch:
@@ -25,4 +30,5 @@ jobs:
           node --check ai-video-studio/studio-account.js
           node --check ai-video-studio/studio-config.js
           node --check functions/api/studio/worker/analysis.js
-          node --test tests/studio-ai-analysis-queue.test.mjs tests/studio-inline-preview.test.mjs
+          node --check functions/api/studio/estimate.js
+          node --test tests/studio-ai-analysis-queue.test.mjs tests/studio-inline-preview.test.mjs tests/studio-customer-quote-gate.test.mjs ai-video-studio/backend/pricing/quote-engine.test.mjs
