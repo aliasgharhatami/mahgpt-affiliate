@@ -1,0 +1,50 @@
+name: Studio live chat quote release check
+on:
+  push:
+    branches: [main]
+    paths:
+      - "ai-video-studio/studio-account.js"
+      - "ai-video-studio/studio-config.js"
+      - "ai-video-studio/index.html"
+      - "functions/api/studio/estimate.js"
+      - ".github/workflows/studio-chat-quote-live.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify-live-quote-chat:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Require published chat estimate release and protected endpoint
+        shell: bash
+        run: |
+          set -euo pipefail
+          # Cloudflare Pages deploy can finish after GitHub push.
+          found=0
+          for trial in {1..24}; do
+            curl -fLsS --max-time 12 -H 'Cache-Control: no-cache' \
+              "https://mahgpt.com/ai-video-studio/studio-config.js?quote_release=${GITHUB_SHA}" \
+              -o /tmp/quote-config.js || true
+            curl -fLsS --max-time 12 -H 'Cache-Control: no-cache' \
+              "https://mahgpt.com/ai-video-studio/studio-account.js?quote_release=${GITHUB_SHA}" \
+              -o /tmp/quote-account.js || true
+            curl -fLsS --max-time 12 -H 'Cache-Control: no-cache' \
+              "https://mahgpt.com/ai-video-studio/?quote_release=${GITHUB_SHA}" \
+              -o /tmp/quote-page.html || true
+            if grep -q 'studioChatEstimateFlowEnabled: true' /tmp/quote-config.js 2>/dev/null &&
+               grep -q "Estimate the cost of my request" /tmp/quote-account.js 2>/dev/null &&
+               grep -q "fetch('/api/studio/estimate'" /tmp/quote-account.js 2>/dev/null &&
+               grep -q 'studioQuoteSpin' /tmp/quote-page.html 2>/dev/null; then
+              found=1
+              break
+            fi
+            sleep 6
+          done
+          test "$found" = 1 || { echo "::error::Studio chat quote release is not on Cloudflare Production"; exit 1; }
+          code="$(curl -sS --max-time 12 -o /dev/null -w '%{http_code}' \
+             -X POST https://mahgpt.com/api/studio/estimate \
+             -H 'Content-Type: application/json' \
+             --data '{"project_id":"123e4567-e89b-42d3-a456-426614174001","analysis_id":"123e4567-e89b-42d3-a456-426614174002"}')"
+          test "$code" = 401 || { echo "::error::Private pricing route did not reject unauthenticated request (HTTP $code)"; exit 1; }
+          echo "PASS: Cloudflare Production serves the inline quote UX and rejects unauthorized pricing."
