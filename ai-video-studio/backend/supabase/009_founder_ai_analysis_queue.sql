@@ -212,7 +212,7 @@ grant execute on function public.studio_ai_worker_fail(uuid,uuid,text) to servic
 
 -- Never let a browser discard/mutate the intake while a paid request is active.
 create or replace function public.studio_ai_protect_active_intake()
- returns trigger language plpgsql security invoker set search_path='' as $
+ returns trigger language plpgsql security invoker set search_path='' as $$
 begin
  if current_user in ('authenticated','anon') and exists(
    select 1 from public.studio_ai_analysis_jobs j
@@ -229,7 +229,7 @@ begin
  end if;
  if tg_op='DELETE' then return old; end if;
  return new;
-end $;
+end $$;
 drop trigger if exists studio_ai_protect_active_intake_trigger on public.studio_projects;
 create trigger studio_ai_protect_active_intake_trigger
  before update or delete on public.studio_projects
