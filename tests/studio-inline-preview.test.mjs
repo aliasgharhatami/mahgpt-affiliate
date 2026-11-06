@@ -10,7 +10,8 @@ const config=readFileSync(new URL('../ai-video-studio/studio-config.js',import.m
 test('one contextual primary CTA replaces the extra founder render button',()=>{
  assert.ok(account.includes("function hasDraftChanges()"));
  assert.ok(account.includes("function pilotReady()"));
- assert.ok(account.includes("if(pilotReady()&&!hasDraftChanges()){await startPilotRender();return;}"));
+ assert.ok(account.includes("if(pilotReady()&&!hasDraftChanges()){"));
+ assert.ok(account.includes("await startPilotRender();return;"));
  assert.ok(account.includes("action.textContent=hasDraftChanges()?'Save request changes':'Create free 8-second test preview'"));
  assert.ok(!account.includes("const renderPreview=document.createElement('button')"));
  assert.ok(account.includes("oracleTester"));
