@@ -68,7 +68,9 @@ export async function issueAuditedQuote(env,analysis){
  const capabilities=privateJSON(env,'STUDIO_VERIFIED_CAPABILITY_PLANS_JSON');
  if(!rateCard||!capabilities||
     typeof rateCard.version!=='string'||rateCard.version.length<1||
-    !rateCard.business||rateCard.business.minimumSaleUSD!==1)return null;
+    !rateCard.business||rateCard.business.minimumSaleUSD!==1||
+    rateCard.business.paymentFeeFraction!==0||
+    rateCard.business.paymentFeeFixedUSD!==0)return null;
  const projects=await db(env,'/rest/v1/studio_projects?select=id,reference_url,selected_style'+
     '&id=eq.'+analysis.project_id+'&owner_id=eq.'+analysis.owner_id+'&limit=1');
  const project=projects?.[0];
