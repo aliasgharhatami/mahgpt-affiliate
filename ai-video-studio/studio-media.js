@@ -71,13 +71,8 @@ function mount({container,project,api}){
   pilot=true;
   const quota=make('p','Private test · '+fmtBytes(data.consumed_lifetime_bytes)+' of 80 MB lifetime used. 15 MB per file.','media-limits');
   const note=make('p','Pilot only. Files remain private in Cloudflare R2. Don’t upload sensitive documents, payment details, or images of people without permission.','media-note');
-  const field=make('input');field.type='file';field.accept='.jpg,.jpeg,.png,.webp,.mp4,.mov,.webm,.mp3,.wav,.m4a';field.className='media-picker';
-  const permission=make('label',null,'media-permission');
-  const check=make('input');check.type='checkbox';check.required=true;
-  permission.append(check,document.createTextNode(' I own this media or have permission from its rights holders and identifiable people to upload it for private testing. No portfolio or AI training permission is given.'));
-  const send=make('button','Upload privately','media-upload');send.type='button';
-  const help=make('p','Save a text draft first, then attach media to that project.','media-help');
-  panel.append(quota,note,field,permission,send,help,mediaList);
+  // Completed projects are read-only here; edit uploads remain in the composer.
+  panel.append(quota,note,mediaList);
   const all=(data.files||[]);
   if(!all.length)mediaList.append(make('p','No uploaded files in this project.','media-empty'));
   for(const asset of all){
@@ -107,20 +102,6 @@ function mount({container,project,api}){
    });
    actions.append(download,remove);row.append(info,actions);mediaList.append(row);
   }
-  send.addEventListener('click',async()=>{
-   if(busy)return;
-   const file=field.files?.[0];
-   if(!file){message('Choose an image, video or audio file.');return;}
-   if(!check.checked){message('Confirm your rights to this media before uploading.');return;}
-   if(file.size>15000000||file.size<100){message('Choose a file between 100 bytes and 15 MB.');return;}
-   busy=true;send.disabled=true;
-   const form=new FormData();form.append('project_id',project.id);form.append('rights_confirmed','true');form.append('file',file,file.name);
-   message('Uploading private file… 0%');
-   try{
-    await uploadFile(api,form,n=>message(n===null?'Uploading private file…':'Uploading private file… '+n+'%'));
-    message('Upload completed.');await reload();
-   }catch(err){message(err.message)}finally{busy=false;send.disabled=false;}
-  });
   message('Private archive ready.'); // No automatic upload.
  }
  open.addEventListener('click',async()=>{
@@ -140,8 +121,12 @@ async function uploadToProject({api,projectId,file,progress=()=>{}}){
 async function listProject({api,projectId}){
  return request(api,'?project_id='+encodeURIComponent(projectId));
 }
+async function getFileBlob({api,projectId,asset}){
+ if(!asset?.id)throw Error('Choose a valid private media asset.');
+ return request(api,'?project_id='+encodeURIComponent(projectId)+'&asset_id='+encodeURIComponent(asset.id),{download:true});
+}
 async function downloadFile({api,projectId,asset}){
- const blob=await request(api,'?project_id='+encodeURIComponent(projectId)+'&asset_id='+encodeURIComponent(asset.id),{download:true});
+ const blob=await getFileBlob({api,projectId,asset});
  const url=URL.createObjectURL(blob);
  const a=document.createElement('a');a.href=url;a.download=asset.filename;
  a.style.display='none';document.body.appendChild(a);a.click();a.remove();
@@ -151,5 +136,5 @@ async function deleteFile({api,projectId,asset}){
  return request(api,'',{method:'DELETE',headers:{'Content-Type':'application/json'},
   body:JSON.stringify({project_id:projectId,asset_id:asset.id})});
 }
-window.MAH_STUDIO_MEDIA=Object.freeze({mount,uploadToProject,listProject,downloadFile,deleteFile});
+window.MAH_STUDIO_MEDIA=Object.freeze({mount,uploadToProject,listProject,getFileBlob,downloadFile,deleteFile});
 })();

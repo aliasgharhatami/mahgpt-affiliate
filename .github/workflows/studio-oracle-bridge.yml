@@ -5,6 +5,9 @@ on:
       - "functions/api/studio/worker/**"
       - "functions/_lib/studio-oracle.js"
       - "ai-video-studio/studio-account.js"
+      - "ai-video-studio/studio-media.js"
+      - "ai-video-studio/index.html"
+      - "tests/studio-inline-preview.test.mjs"
       - "ai-video-studio/studio-config.js"
       - "ai-video-studio/backend/supabase/008_oracle_founder_render_queue.sql"
       - "tests/studio-oracle-bridge.test.mjs"
@@ -24,8 +27,9 @@ jobs:
       - run: |
           node --check ai-video-studio/studio-config.js
           node --check ai-video-studio/studio-account.js
+          node --check ai-video-studio/studio-media.js
           node --check functions/_lib/studio-oracle.js
           node --check functions/api/studio/worker/claim.js
           node --check functions/api/studio/worker/input.js
           node --check functions/api/studio/worker/output.js
-          node --test tests/studio-oracle-bridge.test.mjs
+          node --test tests/studio-oracle-bridge.test.mjs tests/studio-inline-preview.test.mjs

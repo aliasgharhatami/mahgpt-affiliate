@@ -47,23 +47,97 @@
   let activeIntakeId = null;
   let intakeBusy = false;
   let oracleTester = false;
-  // Private founder pilot: a browser flag never replaces server-side allowlist/RLS.
-  let activeRenderId=null,renderPoll=null;
-  const renderPreview=document.createElement('button');
-  renderPreview.type='button';renderPreview.textContent='Render 8-second private preview';
-  renderPreview.className='action';renderPreview.id='studio-render-private-preview';
-  renderPreview.hidden=true;renderPreview.disabled=true;
-  const renderInfo=document.createElement('p');renderInfo.id='studio-render-private-status';
+  // Single primary button: save a brief, then launch the founder-only pilot.
+  // The real commercial estimate/payment steps remain disabled until server integration.
+  let activeRenderId=null,renderPoll=null,inlinePreviewUrl=null;
+  const renderInfo=document.createElement('p');
+  renderInfo.id='studio-render-private-status';
+  renderInfo.setAttribute('role','status');
   renderInfo.hidden=true;
-  newRequest?.insertAdjacentElement('afterend',renderPreview);
-  renderPreview.insertAdjacentElement('afterend',renderInfo);
+  const resultPanel=document.createElement('section');
+  resultPanel.id='studio-finished-preview';
+  resultPanel.className='studio-result-panel';
+  resultPanel.setAttribute('aria-label','Generated video preview');
+  resultPanel.hidden=true;
+  const actionsRow=composer?.querySelector('.studio-actions');
+  actionsRow?.insertAdjacentElement('afterend',renderInfo);
+  // The finished video appears above the text composer, like a studio reply.
+  thread?.insertAdjacentElement('afterend',resultPanel);
   function renderNotice(message){renderInfo.hidden=false;renderInfo.textContent=message;}
-  function showPreviewAction(){
-    renderPreview.hidden=!config.oraclePrivatePreviewEnabled||!oracleTester||!activeIntakeId||
-      !currentUser||!agreementReady;
-    renderPreview.disabled=!activeIntakeId||Boolean(activeRenderId)||intakeBusy;
+  function hasDraftChanges(){
+    return Boolean(document.getElementById('idea')?.value.trim()||
+      document.getElementById('reference-url')?.value.trim()||selectedUploads().length);
   }
-  async function watchRender(jobId){
+  function pilotReady(){return Boolean(config.oraclePrivatePreviewEnabled&&oracleTester&&
+    activeIntakeId&&currentUser&&agreementReady);}
+  function showPreviewAction(){
+    if(!action)return;
+    if(activeRenderId){
+      action.textContent='Creating your 8-second preview…';
+      action.disabled=true;
+    }else if(pilotReady()){
+      action.textContent=hasDraftChanges()?'Save request changes':'Create free 8-second test preview';
+      action.disabled=intakeBusy;
+    }else{
+      action.textContent=activeIntakeId?'Save request changes':(config.oraclePrivatePreviewEnabled&&oracleTester?'Save private request':'Continue to Studio →');
+      action.disabled=intakeBusy;
+    }
+  }
+  function clearInlinePreview(){
+    if(inlinePreviewUrl){URL.revokeObjectURL(inlinePreviewUrl);inlinePreviewUrl=null;}
+    resultPanel.replaceChildren();resultPanel.hidden=true;
+  }
+  async function showFinishedPreview(projectId,assetId){
+    clearInlinePreview();
+    resultPanel.hidden=false;
+    const headline=document.createElement('h3');headline.textContent='Your video is ready';
+    const description=document.createElement('p');
+    description.textContent='8-second technical test video — not yet AI-directed editing. Your video is also saved in My Projects.';
+    const video=document.createElement('video');
+    video.controls=true;video.playsInline=true;video.preload='metadata';
+    video.setAttribute('aria-label','Private generated video');
+    const controls=document.createElement('div');controls.className='studio-result-actions';
+    const download=document.createElement('button');download.type='button';download.textContent='Download video';
+    const edit=document.createElement('button');edit.type='button';edit.textContent='Edit brief / new version';
+    controls.append(download,edit);
+    resultPanel.append(headline,description,video,controls);
+    try{
+      if(!assetId||!window.MAH_STUDIO_MEDIA?.getFileBlob)throw Error('The preview module is unavailable.');
+      const data=await window.MAH_STUDIO_MEDIA.listProject({api,projectId});
+      const asset=data.files?.find(file=>file.id===assetId&&file.media_type==='video/mp4');
+      if(!asset)throw Error('The completed MP4 was not found in the private archive.');
+      const blob=await window.MAH_STUDIO_MEDIA.getFileBlob({api,projectId,asset});
+      if(!currentUser)throw Error('Please sign in to preview your video.');
+      inlinePreviewUrl=URL.createObjectURL(new Blob([blob],{type:'video/mp4'}));
+      video.src=inlinePreviewUrl;
+      download.addEventListener('click',async()=>{
+        download.disabled=true;
+        try{await window.MAH_STUDIO_MEDIA.downloadFile({api,projectId,asset});}
+        catch(e){renderNotice('Download failed: '+e.message);}
+        finally{download.disabled=false;}
+      });
+      edit.addEventListener('click',async()=>{
+        edit.disabled=true;
+        try{
+          const {data:project,error}=await api.from('studio_projects')
+            .select('brief,reference_url').eq('id',projectId).maybeSingle();
+          if(error||!project)throw Error('The original project could not be loaded.');
+          const idea=document.getElementById('idea');
+          idea.value=project.brief||'';
+          document.getElementById('reference-url').value=project.reference_url||'';
+          showPreviewAction();
+          idea.scrollIntoView({behavior:'smooth',block:'center'});idea.focus();
+          renderNotice('Original brief loaded. Edit it and submit to create a new private request. The finished video remains in My Projects.');
+        }catch(e){renderNotice('Could not load brief: '+e.message);}
+        finally{edit.disabled=false;}
+      });
+      resultPanel.scrollIntoView({behavior:'smooth',block:'nearest'});
+    }catch(e){
+      video.remove();download.remove();
+      renderNotice('Video completed; the inline player is unavailable ('+e.message+'). Download it from My Projects → Media archive.');
+    }
+  }
+  async function watchRender(jobId,projectId=activeIntakeId){
     if(renderPoll)clearInterval(renderPoll);
     activeRenderId=jobId;showPreviewAction();
     const check=async()=>{
@@ -72,40 +146,46 @@
         .select('id,status,error_code,output_asset_id').eq('id',jobId).maybeSingle();
       if(error||!data){renderNotice('Unable to refresh render status.');return;}
       if(data.status==='queued')renderNotice('Private video queued on Oracle.');
-      if(data.status==='rendering')renderNotice('Oracle is rendering your private preview.');
+      if(data.status==='rendering')renderNotice('Oracle is creating your video.');
       if(['completed','failed'].includes(data.status)){
         clearInterval(renderPoll);renderPoll=null;activeRenderId=null;
-        showPreviewAction();
         if(data.status==='completed'){
-          resetComposer();await refreshProjects();
-          renderNotice('MP4 ready in My Projects → Media archive.');
-          projects?.scrollIntoView({behavior:'smooth',block:'start'});
+          resetComposer();
+          renderNotice('Video created. Opening your private preview…');
+          await refreshProjects();
+          await showFinishedPreview(projectId,data.output_asset_id);
+          if(!renderInfo.textContent.includes('unavailable'))renderNotice('Your MP4 is ready here and in My Projects.');
         }else renderNotice('Render failed ('+(data.error_code||'render_failed')+'). You can retry within your private quota.');
+        showPreviewAction();
       }
     };
     await check();
     if(activeRenderId)renderPoll=setInterval(()=>{void check();},7000);
   }
   async function resumeRender(){
-    if(!config.oraclePrivatePreviewEnabled||!oracleTester||!activeIntakeId)return;
+    if(!pilotReady())return;
     const {data,error}=await api.from('studio_render_jobs')
       .select('id,status').eq('project_id',activeIntakeId)
       .in('status',['queued','rendering']).order('created_at',{ascending:false}).limit(1);
-    if(!error&&data?.[0])await watchRender(data[0].id);
+    if(!error&&data?.[0])await watchRender(data[0].id,activeIntakeId);
   }
-  renderPreview.addEventListener('click',async()=>{
-    if(!config.oraclePrivatePreviewEnabled||!oracleTester||!activeIntakeId||activeRenderId||
-      intakeBusy||!currentUser||!agreementReady)return;
-    renderPreview.disabled=true;renderNotice('Submitting private render…');
+  async function startPilotRender(){
+    if(!pilotReady()||activeRenderId||intakeBusy)return;
+    const projectId=activeIntakeId;
+    if(action)action.disabled=true;
+    renderNotice('Submitting your free private test preview…');
     try{
       const {data,error}=await api.from('studio_render_jobs')
-        .insert({project_id:activeIntakeId,preset:'brief-preview-v1'})
+        .insert({project_id:projectId,preset:'brief-preview-v1'})
         .select('id,status').single();
       if(error)throw error;
-      await watchRender(data.id);
+      await watchRender(data.id,projectId);
     }catch(e){renderNotice('Cannot start private preview: '+e.message);}
     finally{showPreviewAction();}
-  });
+  }
+  for(const id of ['idea','reference-url','image','video','audio']){
+    document.getElementById(id)?.addEventListener(id==='idea'||id==='reference-url'?'input':'change',showPreviewAction);
+  }
 
   const loginNote = 'Sign-in is not enabled. No email was sent and no user data was submitted.';
   // Product model: intake is hidden from My Projects until a trusted render
@@ -142,6 +222,7 @@
     thread.append(line);
   }
   function resetComposer(){
+    clearInlinePreview();
     activeIntakeId=null;
     showPreviewAction();
     const key=localIntakeKey();if(key)sessionStorage.removeItem(key);
@@ -235,6 +316,7 @@
     // The earlier static-preview handler must not overwrite real upload status.
     event.stopImmediatePropagation();
     if(intakeBusy||activeRenderId){status('Your current preview render must finish first.');return;}
+    if(pilotReady()&&!hasDraftChanges()){await startPilotRender();return;}
     if(!currentUser||!agreementReady){
       openAuth();
       status('Sign in to submit your request securely. Text and files have not been sent.');
@@ -308,7 +390,7 @@
       if(rightsCheck)rightsCheck.checked=false;
       if(message)document.getElementById('idea').value='';
       await showIntakeFiles();
-      status(config.oraclePrivatePreviewEnabled && oracleTester?'Request saved. You can now render an 8-second private preview using Oracle.':'Request saved privately in this conversation. Video editing, AI replies, quotes and payments are not active yet.');
+      status(config.oraclePrivatePreviewEnabled && oracleTester?'Request saved. Use the main button to create a free 8-second technical test video. AI editing and payment are not active.':'Request saved privately in this conversation. Video editing, AI replies, quotes and payments are not active yet.');
        showPreviewAction();
       // This is a real status notice, NOT a fabricated AI reply.
     }catch(err){status('Could not complete the request: '+err.message)}
@@ -603,7 +685,7 @@
   signout.addEventListener('click',async()=>{
     const {error}=await api.auth.signOut();
     if(error)notice(projectNotice,'Sign out failed: '+error.message);
-    else {currentUser=null;agreementReady=false;oracleTester=false;projects.hidden=true;login.textContent='Sign Up / Log In';if(renderPoll)clearInterval(renderPoll);renderPoll=null;activeRenderId=null;resetComposer();}
+    else {currentUser=null;agreementReady=false;oracleTester=false;projects.hidden=true;login.textContent='Sign Up / Log In';if(renderPoll)clearInterval(renderPoll);renderPoll=null;activeRenderId=null;resetComposer();renderInfo.hidden=true;}
   });
   api.auth.onAuthStateChange((_event,_session)=>{setTimeout(()=>{void refreshAuth();},0);});
   void refreshAuth();
