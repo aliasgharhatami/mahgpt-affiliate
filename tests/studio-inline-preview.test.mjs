@@ -36,6 +36,6 @@ test('finished project archive is read-only and UX copy avoids false paid AI cla
  assert.ok(!media.includes("Save a text draft first, then attach media to that project."));
  assert.ok(html.includes("Full AI editing, price estimates, and payments are not available yet."));
  assert.ok(!html.includes('\\n  <p id="my-project-notice"'));
- assert.ok(html.includes("studio-account.js?v=20261106-ai-analysis1"));
+ assert.ok(html.includes("studio-account.js?v=20261106-quote-chat1"));
  assert.ok(html.includes("studio-media.js?v=20261106-inline-player1"));
 });
