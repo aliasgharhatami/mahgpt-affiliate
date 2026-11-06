@@ -12,6 +12,7 @@ window.MAH_STUDIO_CONFIG = Object.freeze({
   paymentsReady: false, // Change only after merchant/payment legal release gate.
   aiRenderingReady: false, // Model processing and media agreement not launched.
   aiAnalysisPilotEnabled: true, // Founder RLS allowlist only, explicit opt-in per brief; no auto-paid calls.
+  studioChatEstimateFlowEnabled: true, // Three quality choices and privacy consent inside the conversation.
   oraclePrivatePreviewEnabled: true, // Founder allowlist only: first Oracle-to-site E2E preview, not public AI rendering.
   registrationAudience: 'public-beta', // Anyone can request a text-only beta account using verified Resend SMTP.
   googleProviderReady: false, // Auto-discovered from Supabase Auth's public provider settings.

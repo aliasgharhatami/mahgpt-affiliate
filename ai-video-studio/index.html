@@ -129,11 +129,55 @@
 .studio-ai-secondary[disabled]{opacity:.5;cursor:default}
 .studio-ai-result{border-top:1px solid #b7cbb9;padding-top:10px;display:grid;gap:7px}
 .studio-ai-result small{font-size:11px;line-height:1.5}
+
+/* An estimate is a conversation turn, not an additional standalone card. */
+#brief .studio-actions .action[hidden]{display:none!important}
+#studio-thread{max-height:min(65vh,560px);scroll-behavior:smooth}
+#studio-private-ai-analysis.studio-ai-chat-step{
+ align-self:flex-start;max-width:min(100%,690px);width:100%;display:grid;gap:13px;
+ border:1px solid #d9d2c6;border-radius:15px;background:#fffefa;
+ padding:16px 18px;margin:0;color:#174332
+}
+#studio-private-ai-analysis[hidden],#studio-private-ai-analysis .studio-ai-result[hidden],
+#studio-private-ai-analysis .studio-ai-secondary[hidden]{display:none!important}
+#studio-private-ai-analysis strong{font-size:14px;letter-spacing:0;text-transform:none}
+#studio-private-ai-analysis p{font-size:13px;line-height:1.65;margin:0}
+.studio-quality-choices{display:flex;gap:8px;flex-wrap:wrap}
+.studio-quality-choice{
+ border:1px solid #b7c6b8;border-radius:999px;padding:10px 15px;
+ color:#153f2e;background:transparent;font-size:12px;font-weight:650;cursor:pointer
+}
+.studio-quality-choice[aria-pressed="true"]{background:#dbeade;border-color:#1a5139;
+ box-shadow:inset 0 0 0 1px #1a5139}
+.studio-quality-choice:focus-visible,.studio-ai-secondary:focus-visible{outline:3px solid #d9ab53;outline-offset:3px}
+#studio-private-ai-analysis .studio-ai-consent{display:flex;gap:9px;align-items:flex-start;font-size:12px}
+#studio-private-ai-analysis .studio-ai-consent input{width:17px;height:17px;flex:none;margin-top:2px;accent-color:#15432f}
+#studio-private-ai-analysis .studio-ai-secondary{
+ justify-self:stretch;border:0;background:#123d2a;color:#fff;border-radius:999px;
+ font-size:13px;font-weight:700;padding:13px 19px;cursor:pointer
+}
+#studio-private-ai-analysis .studio-ai-secondary[disabled]{opacity:.55;cursor:default}
+#studio-private-ai-analysis .studio-ai-result{border-top:1px solid #e0dcd2;padding-top:11px;display:grid;gap:8px}
+#studio-private-ai-analysis .studio-ai-result small{font-size:12px;line-height:1.5;color:#5a6b5f}
+#studio-private-ai-analysis.is-estimating #studio-ai-analysis-status::before{
+ content:"";display:inline-block;vertical-align:-3px;width:15px;height:15px;
+ margin-right:8px;border-radius:50%;border:2px solid #bcd3c1;
+ border-top-color:#13472f;animation:studioQuoteSpin .8s linear infinite
+}
+@keyframes studioQuoteSpin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){
+ #studio-private-ai-analysis.is-estimating #studio-ai-analysis-status::before{animation:none}
+}
+@media(max-width:620px){
+ #studio-private-ai-analysis.studio-ai-chat-step{padding:14px 12px}
+ .studio-quality-choices{flex-direction:column}
+ .studio-quality-choice{width:100%}
+}
 </style></head>
 <body><header class="header"><div class="wrap nav"><a class="brand" href="/" aria-label="MAH GPT Studio home"><svg viewBox="0 0 40 40" fill="none" aria-hidden="true"><rect x="4" y="11" width="32" height="25" rx="3" fill="#123d2a"/><path d="M2 8 32 2l2 7L4 15z" fill="#123d2a"/><path d="m9 6 4 5m5-7 4 5m5-7 4 5" stroke="#f7f2e9" stroke-width="3"/><path d="m17 18 11 6-11 6z" fill="#f7f2e9"/></svg><span>MAH GPT <i>Studio</i></span></a><nav class="nav-links" aria-label="Main navigation"><a href="#samples">Sample Videos</a><a href="#how">How It Works</a><a class="nav-ai-models" href="/ai-models/" aria-label="Explore AI Models">AI Models</a><button class="login" id="login" type="button" aria-haspopup="dialog" aria-controls="auth-dialog">Sign Up / Log In</button></nav></div></header>
 <main><section class="wrap hero"><div class="art" role="img" aria-label="A cinematic director's chair and film equipment"></div><div class="content"><div class="eyebrow">AI Video Studio</div><h1 style="font-size:clamp(28px,3vw,42px);margin-bottom:32px">Affordable Video Editing &amp; Motion Graphics.</h1>
 <div class="modes" role="group" aria-label="Choose a creation mode"><button class="mode" type="button" aria-pressed="true" data-mode="reference"><span class="tick" aria-hidden="true"></span><span class="mode-icon" aria-hidden="true">▣</span><strong>Edit With a Reference</strong><small>Upload a sample video or share a reference link.</small></button><button class="mode" type="button" aria-pressed="false" data-mode="director"><span class="tick" aria-hidden="true"></span><span class="mode-icon" aria-hidden="true">✳</span><strong>MAH GPT Director</strong><small>Describe your idea and let AI direct the edit.</small></button></div>
-<form id="brief"><div id="studio-thread" class="studio-thread" aria-label="Current private request conversation" aria-live="polite" hidden></div><div class="composer"><label for="idea" style="position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)">Describe your video idea</label><textarea name="idea" id="idea" placeholder="Describe your video idea, footage, or the story you want to tell…"></textarea><div class="tools"><button class="tool" type="button" data-file="image">＋ Image</button><button class="tool" type="button" data-file="video">＋ Video</button><button class="tool" type="button" data-file="audio">＋ Audio</button><button class="tool" type="button" id="link-toggle" aria-expanded="false" aria-controls="reference">＋ Reference link</button></div><input type="file" id="image" name="images" accept="image/*" multiple hidden><input type="file" id="video" name="videos" accept="video/*" multiple hidden><input type="file" id="audio" name="audio" accept="audio/*" multiple hidden><div class="files" id="files" aria-live="polite"></div><div id="studio-uploads" class="studio-uploads" aria-live="polite" hidden></div><div class="selected-style" id="selected-style" hidden><div><strong>Selected Style: <span id="selected-style-title"></span></strong><small id="selected-style-description"></small></div><button type="button" id="remove-style">Remove</button></div><input type="hidden" name="style_id" id="style-id"><input type="hidden" name="style_name" id="style-name"><input type="hidden" name="style_description" id="style-description"><div class="reference" id="reference" hidden><label for="reference-url">Reference URL</label><input type="url" name="reference_url" id="reference-url" placeholder="https://example.com/video"></div></div><label id="main-media-consent" class="studio-rights" hidden><input type="checkbox" id="main-rights-check"><span>I confirm I have permission to use the selected media and consent to secure storage for this private edit request. Files will not be used for marketing or AI training.</span></label><div class="studio-actions"><button class="action" type="submit">Continue to Studio &nbsp; →</button><button type="button" id="studio-new-request" class="studio-new-request" hidden>New request</button></div><p class="note">Private test account: save your request, then create a free 8-second technical preview using the same button. Full AI editing, price estimates, and payments are not available yet. Other accounts cannot render videos.</p><div id="message" class="notice" role="status" hidden></div></form></div></section>
+<form id="brief"><div id="studio-thread" class="studio-thread" aria-label="Current private request conversation" aria-live="polite" hidden></div><div class="composer"><label for="idea" style="position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)">Describe your video idea</label><textarea name="idea" id="idea" placeholder="Describe your video idea, footage, or the story you want to tell…"></textarea><div class="tools"><button class="tool" type="button" data-file="image">＋ Image</button><button class="tool" type="button" data-file="video">＋ Video</button><button class="tool" type="button" data-file="audio">＋ Audio</button><button class="tool" type="button" id="link-toggle" aria-expanded="false" aria-controls="reference">＋ Reference link</button></div><input type="file" id="image" name="images" accept="image/*" multiple hidden><input type="file" id="video" name="videos" accept="video/*" multiple hidden><input type="file" id="audio" name="audio" accept="audio/*" multiple hidden><div class="files" id="files" aria-live="polite"></div><div id="studio-uploads" class="studio-uploads" aria-live="polite" hidden></div><div class="selected-style" id="selected-style" hidden><div><strong>Selected Style: <span id="selected-style-title"></span></strong><small id="selected-style-description"></small></div><button type="button" id="remove-style">Remove</button></div><input type="hidden" name="style_id" id="style-id"><input type="hidden" name="style_name" id="style-name"><input type="hidden" name="style_description" id="style-description"><div class="reference" id="reference" hidden><label for="reference-url">Reference URL</label><input type="url" name="reference_url" id="reference-url" placeholder="https://example.com/video"></div></div><label id="main-media-consent" class="studio-rights" hidden><input type="checkbox" id="main-rights-check"><span>I confirm I have permission to use the selected media and consent to secure storage for this private edit request. Files will not be used for marketing or AI training.</span></label><div class="studio-actions"><button class="action" type="submit">Continue to Studio &nbsp; →</button><button type="button" id="studio-new-request" class="studio-new-request" hidden>New request</button></div><p class="note">Private beta: save your request, choose your preferred quality and request a cost estimate in the conversation. Final production prices depend on verified production costs and licenses. No payment or commercial video production is active yet.</p><div id="message" class="notice" role="status" hidden></div></form></div></section>
 <section class="wrap studio-trust" aria-labelledby="studio-purpose-heading">
 <style>
 .studio-trust{padding:24px 29px;margin-top:1px;margin-bottom:28px;border:1px solid var(--line);border-radius:15px;background:#f0ebdf}
@@ -421,8 +465,8 @@ document.getElementById('auth-email-submit').addEventListener('click', () => {
   message.textContent='The sign-in script has not initialized. No email was sent. Please reload this page or check your browser extensions.';
 }, true);
 </script>
-<script defer src="studio-config.js?v=20261106-ai-analysis1"></script>
+<script defer src="studio-config.js?v=20261106-chat-quote1"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0/dist/umd/supabase.js"></script>
 <script defer src="studio-media.js?v=20261106-inline-player1"></script>
-<script defer src="studio-account.js?v=20261106-ai-analysis1"></script>
+<script defer src="studio-account.js?v=20261106-chat-quote1"></script>
 </body></html>
