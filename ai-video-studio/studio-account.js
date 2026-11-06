@@ -64,6 +64,62 @@
   // The finished video appears above the text composer, like a studio reply.
   thread?.insertAdjacentElement('afterend',resultPanel);
   function renderNotice(message){renderInfo.hidden=false;renderInfo.textContent=message;}
+  // Separate, explicit founder-only AI analysis step. It never starts rendering
+  // or charges a customer. The saved brief (not attachments) goes to OpenAI only
+  // after an opt-in click; RLS enforces eligibility and daily rate limits.
+  let activeAnalysisId=null,analysisPoll=null;
+  const analysisPanel=document.createElement('section');
+  analysisPanel.id='studio-private-ai-analysis';
+  analysisPanel.className='studio-ai-panel';
+  analysisPanel.hidden=true;
+  const analysisTitle=document.createElement('strong');
+  analysisTitle.textContent='AI request analysis · private pilot';
+  const analysisDescription=document.createElement('p');
+  analysisDescription.textContent='Analyze your saved text brief with Luna before production. This is NOT a video price quote. Uploaded media stays private and is not sent to the AI.';
+  const analysisQualityLabel=document.createElement('label');
+  analysisQualityLabel.textContent='Target quality ';
+  const analysisQuality=document.createElement('select');
+  analysisQuality.id='studio-ai-quality';
+  for(const [value,label] of [
+    ['normal','Normal'],['semi_professional','Semi-professional'],
+    ['professional','Professional']
+  ]){
+    const option=document.createElement('option');option.value=value;
+    option.textContent=label;analysisQuality.append(option);
+  }
+  analysisQualityLabel.append(analysisQuality);
+  const analysisConsentLabel=document.createElement('label');
+  analysisConsentLabel.className='studio-ai-consent';
+  const analysisConsent=document.createElement('input');
+  analysisConsent.type='checkbox';
+  const consentText=document.createElement('span');
+  consentText.textContent='I agree to send my saved text brief (no uploaded files) securely to OpenAI for this one analysis. A small amount of API credit will be used.';
+  analysisConsentLabel.append(analysisConsent,consentText);
+  const analysisButton=document.createElement('button');
+  analysisButton.type='button';
+  analysisButton.className='studio-ai-secondary';
+  analysisButton.textContent='Analyze saved brief with Luna';
+  const analysisStatus=document.createElement('p');
+  analysisStatus.id='studio-ai-analysis-status';
+  analysisStatus.setAttribute('role','status');
+  const analysisResult=document.createElement('div');
+  analysisResult.className='studio-ai-result';
+  analysisResult.hidden=true;
+  analysisPanel.append(analysisTitle,analysisDescription,analysisQualityLabel,
+    analysisConsentLabel,analysisButton,analysisStatus,analysisResult);
+  actionsRow?.insertAdjacentElement('afterend',analysisPanel);
+  function showAnalysisPanel(){
+    analysisPanel.hidden=!(config.aiAnalysisPilotEnabled&&config.oraclePrivatePreviewEnabled&&oracleTester&&
+      currentUser&&agreementReady&&activeIntakeId);
+    analysisButton.disabled=!analysisConsent.checked||!pilotReady()||
+      Boolean(activeRenderId||activeAnalysisId||intakeBusy||hasDraftChanges());
+    if(pilotReady()&&hasDraftChanges()&&!activeAnalysisId){
+      analysisStatus.textContent='Save your latest brief changes before requesting AI analysis.';
+    }
+  }
+  analysisConsent.addEventListener('change',showAnalysisPanel);
+
+
   function hasDraftChanges(){
     return Boolean(document.getElementById('idea')?.value.trim()||
       document.getElementById('reference-url')?.value.trim()||selectedUploads().length);
@@ -75,6 +131,9 @@
     if(activeRenderId){
       action.textContent='Creating your 8-second preview…';
       action.disabled=true;
+    }else if(activeAnalysisId){
+      action.textContent='Luna is analyzing your saved brief…';
+      action.disabled=true;
     }else if(pilotReady()){
       action.textContent=hasDraftChanges()?'Save request changes':'Create free 8-second test preview';
       action.disabled=intakeBusy;
@@ -82,6 +141,7 @@
       action.textContent=activeIntakeId?'Save request changes':(config.oraclePrivatePreviewEnabled&&oracleTester?'Save private request':'Continue to Studio →');
       action.disabled=intakeBusy;
     }
+    showAnalysisPanel();
   }
   function clearInlinePreview(){
     if(inlinePreviewUrl){URL.revokeObjectURL(inlinePreviewUrl);inlinePreviewUrl=null;}
@@ -170,7 +230,7 @@
     if(!error&&data?.[0])await watchRender(data[0].id,activeIntakeId);
   }
   async function startPilotRender(){
-    if(!pilotReady()||activeRenderId||intakeBusy)return;
+    if(!pilotReady()||activeRenderId||activeAnalysisId||intakeBusy)return;
     const projectId=activeIntakeId;
     if(action)action.disabled=true;
     renderNotice('Submitting your free private test preview…');
@@ -183,13 +243,100 @@
     }catch(e){renderNotice('Cannot start private preview: '+e.message);}
     finally{showPreviewAction();}
   }
+
+  function showAnalysisResult(data){
+    analysisResult.replaceChildren();
+    const details=data.analysis;
+    if(!details||typeof details!=='object')return;
+    const heading=document.createElement('strong');
+    heading.textContent='Luna analysis completed';
+    const body=document.createElement('p');
+    const complexity=String(details.complexity||'unavailable');
+    const method=String(details.productionApproach||'unavailable');
+    const duration=Number(details.estimatedDurationSeconds);
+    body.textContent='Complexity: '+complexity+' · Suggested approach: '+method+
+      ' · Estimated duration: '+(Number.isSafeInteger(duration)?duration+' s':'unavailable')+
+      ' · Voiceover: '+(details.needsVoiceover?'likely':'not required');
+    const note=document.createElement('p');
+    note.textContent=String(details.summary||'').slice(0,600);
+    const tokens=document.createElement('small');
+    const amount=Number(data.estimated_cost_usd);
+    tokens.textContent='AI analysis tokens: '+Number(data.input_tokens||0)+
+      ' input / '+Number(data.output_tokens||0)+' output · Approximate analysis API cost: '+
+      (Number.isFinite(amount)&&amount>=0?'$'+amount.toFixed(8):'unavailable')+
+      '. This is NOT a video production quote or a purchase offer.';
+    analysisResult.append(heading,body,note,tokens);
+    analysisResult.hidden=false;
+  }
+  async function watchAnalysis(jobId,projectId=activeIntakeId){
+    if(analysisPoll)clearInterval(analysisPoll);
+    activeAnalysisId=jobId;showPreviewAction();
+    const check=async()=>{
+      if(!currentUser||activeIntakeId!==projectId){
+        if(analysisPoll)clearInterval(analysisPoll);
+        analysisPoll=null;activeAnalysisId=null;return;
+      }
+      const {data,error}=await api.from('studio_ai_analysis_jobs')
+        .select('id,status,error_code,analysis,input_tokens,output_tokens,estimated_cost_usd')
+        .eq('id',jobId).eq('project_id',projectId).maybeSingle();
+      if(error||!data){
+        analysisStatus.textContent='Unable to refresh private AI analysis status.';
+        return;
+      }
+      if(data.status==='queued')analysisStatus.textContent='Luna analysis queued privately.';
+      if(data.status==='analyzing')analysisStatus.textContent='Luna is analyzing your saved brief.';
+      if(data.status==='completed'||data.status==='failed'){
+        if(analysisPoll)clearInterval(analysisPoll);
+        analysisPoll=null;activeAnalysisId=null;
+        if(data.status==='completed'){
+          analysisStatus.textContent='Analysis ready. No video production or payment was started.';
+          showAnalysisResult(data);
+        }else{
+          analysisStatus.textContent='Analysis did not finish ('+
+            String(data.error_code||'analysis_failed')+
+            '). No production was started. Failed calls are never automatically retried.';
+          analysisResult.hidden=true;
+        }
+        showPreviewAction();
+      }
+    };
+    await check();
+    if(activeAnalysisId)analysisPoll=setInterval(()=>{void check();},7000);
+  }
+  async function resumeAnalysis(){
+    if(!pilotReady())return;
+    const {data,error}=await api.from('studio_ai_analysis_jobs')
+      .select('id,status').eq('project_id',activeIntakeId)
+      .order('created_at',{ascending:false}).limit(1);
+    if(!error&&data?.[0])await watchAnalysis(data[0].id,activeIntakeId);
+  }
+  async function startAiAnalysis(){
+    if(!config.aiAnalysisPilotEnabled||!pilotReady()||activeAnalysisId||activeRenderId||intakeBusy||
+       hasDraftChanges()||!analysisConsent.checked)return;
+    const projectId=activeIntakeId;
+    analysisResult.hidden=true;
+    analysisStatus.textContent='Submitting your explicit, text-only Luna analysis request…';
+    analysisButton.disabled=true;
+    try{
+      const {data,error}=await api.from('studio_ai_analysis_jobs')
+        .insert({project_id:projectId,quality:analysisQuality.value,
+          consent_confirmed:true})
+        .select('id,status').single();
+      if(error)throw error;
+      analysisConsent.checked=false;
+      await watchAnalysis(data.id,projectId);
+    }catch(err){
+      analysisStatus.textContent='Could not request AI analysis: '+err.message;
+    }finally{showPreviewAction();}
+  }
+  analysisButton.addEventListener('click',()=>{void startAiAnalysis();});
   for(const id of ['idea','reference-url','image','video','audio']){
     document.getElementById(id)?.addEventListener(id==='idea'||id==='reference-url'?'input':'change',showPreviewAction);
   }
 
   const loginNote = 'Sign-in is not enabled. No email was sent and no user data was submitted.';
   // Product model: intake is hidden from My Projects until a trusted render
-  // backend marks a final output complete. The AI API is NOT connected yet.
+  // backend marks a final output complete. AI analysis is separate from rendering.
   function localIntakeKey(){
     return currentUser ? 'mah-studio-current-intake:' + currentUser.id : null;
   }
@@ -223,6 +370,10 @@
   }
   function resetComposer(){
     clearInlinePreview();
+    if(analysisPoll)clearInterval(analysisPoll);
+    analysisPoll=null;activeAnalysisId=null;
+    analysisResult.replaceChildren();analysisResult.hidden=true;
+    analysisStatus.textContent='';analysisConsent.checked=false;
     activeIntakeId=null;
     showPreviewAction();
     const key=localIntakeKey();if(key)sessionStorage.removeItem(key);
@@ -238,7 +389,7 @@
     if(intakeStatus)intakeStatus.hidden=true;
   }
   newRequest?.addEventListener('click',async()=>{
-    if(intakeBusy||activeRenderId){status('Finish the current render before starting another request.');return;}
+    if(intakeBusy||activeRenderId||activeAnalysisId){status('Finish the current render or AI analysis before starting another request.');return;}
     intakeBusy=true;newRequest.disabled=true;
     try{
       if(activeIntakeId){
@@ -309,13 +460,14 @@
     (messages||[]).forEach(m=>addThreadLine(m.body));
     try{await showIntakeFiles();}catch(e){status('Private files could not be loaded: '+e.message)}
     await resumeRender();
+    await resumeAnalysis();
     if(messages?.length && !activeRenderId)status('Your private request is ready. The full AI editing workflow is not enabled yet.');
   }
   async function submitIntake(event){
     event.preventDefault();
     // The earlier static-preview handler must not overwrite real upload status.
     event.stopImmediatePropagation();
-    if(intakeBusy||activeRenderId){status('Your current preview render must finish first.');return;}
+    if(intakeBusy||activeRenderId||activeAnalysisId){status('Your current preview render or AI analysis must finish first.');return;}
     if(pilotReady()&&!hasDraftChanges()){await startPilotRender();return;}
     if(!currentUser||!agreementReady){
       openAuth();
