@@ -268,20 +268,23 @@
     const heading=document.createElement('strong');
     const details=document.createElement('p');
     if(data?.status==='quoted'&&data.currency==='USD'&&
-       /^\\d{1,7}\\.\\d{2}$/.test(String(data.amount||''))){
+       /^\d{1,7}\.\d{2}$/.test(String(data.amount||''))){
       const qualityName=qualityChoices.find(x=>x[0]===data.quality)?.[1]||'Selected';
       heading.textContent='Your '+qualityName+' video estimate';
-      details.textContent='$'+data.amount+' USD · Your final quoted price, including our production costs and margin. No payment has been collected.';
+      details.textContent='$'+data.amount+' USD · Estimated production price. No payment has been collected.';
       analysisResult.append(heading,details);
       const pay=document.createElement('button');
       pay.type='button';pay.className='studio-ai-secondary studio-ai-pay';
-      pay.textContent='Pay and create video';
-      // Intentionally disabled until a real checkout, payment verification,
-      // and authorized production handoff have been implemented and audited.
+      pay.textContent='Pay & Generate Video';
+      // No payment action until real checkout, signature verification,
+      // fee disclosure and an authorized production handoff are audited.
       pay.disabled=true;pay.setAttribute('aria-disabled','true');
+      const feeNote=document.createElement('small');
+      feeNote.className='studio-payment-fee-note';
+      feeNote.textContent='Payment processing fees, if applicable, are charged separately by the payment provider and are not included in MAH GPT’s production price.';
       const note=document.createElement('small');
-      note.textContent='Secure payment and video production are not enabled yet.';
-      analysisResult.append(pay,note);
+      note.textContent='Checkout and commercial video production are not enabled yet.';
+      analysisResult.append(pay,feeNote,note);
     }else{
       heading.textContent='Your request has been reviewed';
       details.textContent=typeof data?.message==='string'&&data.message.length<350?
