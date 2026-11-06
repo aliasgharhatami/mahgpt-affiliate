@@ -31,4 +31,4 @@ jobs:
           node --check ai-video-studio/studio-config.js
           node --check functions/api/studio/worker/analysis.js
           node --check functions/api/studio/estimate.js
-          node --test tests/studio-ai-analysis-queue.test.mjs tests/studio-inline-preview.test.mjs tests/studio-customer-quote-gate.test.mjs ai-video-studio/backend/pricing/quote-engine.test.mjs
+          node --test tests/studio-ai-analysis-queue.test.mjs tests/studio-inline-preview.test.mjs tests/studio-customer-quote-gate.test.mjs ai-video-studio/backend/pricing/quote-engine.test.mjs ai-video-studio/backend/pricing/verified-production-plan.test.mjs
