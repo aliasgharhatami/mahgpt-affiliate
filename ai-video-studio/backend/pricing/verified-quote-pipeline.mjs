@@ -44,8 +44,16 @@ export function calculateVerifiedStudioOffer({
   return status('No verified executable production plan matches this request');
  if(!Array.isArray(verifiedPlan.operations)||!verifiedPlan.operations.length)
   return status('Required production operations have not been measured');
- if(!Array.isArray(verifiedPlan.mediaSources))
+ if(!Array.isArray(verifiedPlan.mediaSources)||
+    !Array.isArray(verifiedPlan.requiredMediaSourceIds))
   return status('Source-media and licensing evidence is missing');
+ if((analysis.productionApproach==='template_motion_graphics'||
+     analysis.productionApproach==='generative_media_required')&&
+     verifiedPlan.requiredMediaSourceIds.length<1)
+  return status('Required media sources have not been inventoried');
+ if(verifiedPlan.requiredMediaSourceIds.some(id=>
+     typeof id!=='string'||!verifiedPlan.mediaSources.some(s=>s?.sourceId===id)))
+  return status('Production plan has media sources without cost or rights evidence');
  if(verifiedPlan.mediaSources.some(s=>!s||s.commercialRightsVerified!==true||
      s.costCoveredByOperations!==true||typeof s.sourceId!=='string'||
      !s.sourceId.trim()))
