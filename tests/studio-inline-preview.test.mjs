@@ -10,8 +10,12 @@ const config=readFileSync(new URL('../ai-video-studio/studio-config.js',import.m
 test('one contextual primary CTA replaces the extra founder render button',()=>{
  assert.ok(account.includes("function hasDraftChanges()"));
  assert.ok(account.includes("function pilotReady()"));
- assert.ok(account.includes("if(pilotReady()&&!hasDraftChanges()){await startPilotRender();return;}"));
- assert.ok(account.includes("action.textContent=hasDraftChanges()?'Save request changes':'Create free 8-second test preview'"));
+ assert.ok(account.includes("if(pilotReady()&&!hasDraftChanges()){"));
+ assert.ok(account.includes("if(config.studioChatEstimateFlowEnabled){"));
+ assert.ok(account.includes("await startPilotRender();return;"));
+ assert.ok(config.includes("studioChatEstimateFlowEnabled: true"));
+ assert.ok(account.includes("'Save request changes'"));
+ assert.ok(account.includes("'Create free 8-second test preview'"));
  assert.ok(!account.includes("const renderPreview=document.createElement('button')"));
  assert.ok(account.includes("oracleTester"));
  assert.ok(config.includes("paymentsReady: false"));
@@ -34,8 +38,8 @@ test('private completed MP4 is also previewed securely above the original compos
 test('finished project archive is read-only and UX copy avoids false paid AI claims',()=>{
  assert.ok(media.includes("panel.append(quota,note,mediaList)"));
  assert.ok(!media.includes("Save a text draft first, then attach media to that project."));
- assert.ok(html.includes("Full AI editing, price estimates, and payments are not available yet."));
+ assert.ok(html.includes("No payment or commercial video production is active yet."));
  assert.ok(!html.includes('\\n  <p id="my-project-notice"'));
- assert.ok(html.includes("studio-account.js?v=20261106-ai-analysis1"));
+ assert.ok(html.includes("studio-account.js?v=20261106-chat-quote1"));
  assert.ok(html.includes("studio-media.js?v=20261106-inline-player1"));
 });
