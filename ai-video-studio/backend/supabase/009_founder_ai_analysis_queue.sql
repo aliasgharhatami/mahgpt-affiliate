@@ -207,4 +207,30 @@ grant execute on function public.studio_ai_worker_claim() to service_role;
 grant execute on function public.studio_ai_worker_finish(uuid,uuid,jsonb,integer,integer,numeric)
  to service_role;
 grant execute on function public.studio_ai_worker_fail(uuid,uuid,text) to service_role;
+
+-- Never let a browser discard/mutate the intake while a paid request is active.
+create or replace function public.studio_ai_protect_active_intake()
+ returns trigger language plpgsql security invoker set search_path='' as $
+begin
+ if current_user in ('authenticated','anon') and exists(
+   select 1 from public.studio_ai_analysis_jobs j
+   where j.project_id=old.id and j.status in ('queued','analyzing')
+ ) then
+   if tg_op='DELETE' then
+     raise exception 'Cannot delete an intake while AI analysis is running';
+   end if;
+   if new.brief is distinct from old.brief or
+      new.reference_url is distinct from old.reference_url or
+      new.selected_style is distinct from old.selected_style then
+     raise exception 'Cannot modify the intake while AI analysis is running';
+   end if;
+ end if;
+ if tg_op='DELETE' then return old; end if;
+ return new;
+end $;
+drop trigger if exists studio_ai_protect_active_intake_trigger on public.studio_projects;
+create trigger studio_ai_protect_active_intake_trigger
+ before update or delete on public.studio_projects
+ for each row execute function public.studio_ai_protect_active_intake();
+
 commit;
