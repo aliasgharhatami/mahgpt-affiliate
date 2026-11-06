@@ -30,7 +30,8 @@ const request=(json,token='')=>new Request('https://mahgpt.com/api/studio/worker
 });
 test('founder-only AI queue UI is opt-in; customer production remains OFF',()=>{
  assert.match(config,/aiAnalysisPilotEnabled: true/);
- assert.ok(account.includes('config.aiAnalysisPilotEnabled&&config.oraclePrivatePreviewEnabled&&oracleTester'));
+ assert.ok(account.includes('config.aiAnalysisPilotEnabled&&config.oraclePrivatePreviewEnabled&&'));
+ assert.ok(account.includes('oracleTester&&currentUser&&agreementReady'));
  assert.match(config,/aiRenderingReady: false/);
  assert.match(config,/paymentsReady: false/);
  assert.match(account,/config.aiAnalysisPilotEnabled&&config.oraclePrivatePreviewEnabled/);
