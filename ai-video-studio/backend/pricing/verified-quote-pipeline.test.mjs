@@ -8,6 +8,7 @@ const analysis={complexity:'moderate',productionApproach:'template_motion_graphi
 const verifiedPlan={
  reviewed:true,availableInCloud:true,projectId,quality:'normal',durationSeconds:15,
  method:'template_motion_graphics',
+ requiredMediaSourceIds:['shot-a','shot-b','shot-c','music-a'],
  mediaSources:[{sourceId:'shot-a',commercialRightsVerified:true,costCoveredByOperations:true},
  {sourceId:'shot-b',commercialRightsVerified:true,costCoveredByOperations:true},
  {sourceId:'shot-c',commercialRightsVerified:true,costCoveredByOperations:true},
