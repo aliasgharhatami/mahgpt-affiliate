@@ -1,0 +1,28 @@
+name: Studio founder AI analysis safety gate
+on:
+  pull_request:
+    paths:
+      - "functions/api/studio/worker/analysis.js"
+      - "ai-video-studio/studio-account.js"
+      - "ai-video-studio/studio-config.js"
+      - "ai-video-studio/index.html"
+      - "ai-video-studio/backend/supabase/009_founder_ai_analysis_queue.sql"
+      - "tests/studio-ai-analysis-queue.test.mjs"
+      - ".github/workflows/studio-ai-analysis-gate.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  ai-analysis-security:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: |
+          node --check ai-video-studio/studio-account.js
+          node --check ai-video-studio/studio-config.js
+          node --check functions/api/studio/worker/analysis.js
+          node --test tests/studio-ai-analysis-queue.test.mjs tests/studio-inline-preview.test.mjs
