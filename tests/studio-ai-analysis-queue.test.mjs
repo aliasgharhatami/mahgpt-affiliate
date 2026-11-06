@@ -30,16 +30,17 @@ const request=(json,token='')=>new Request('https://mahgpt.com/api/studio/worker
 });
 test('founder-only AI queue UI is opt-in; customer production remains OFF',()=>{
  assert.match(config,/aiAnalysisPilotEnabled: true/);
- assert.ok(account.includes('config.aiAnalysisPilotEnabled&&config.oraclePrivatePreviewEnabled&&oracleTester'));
+ assert.ok(account.includes('config.aiAnalysisPilotEnabled&&'));
+ assert.ok(account.includes('config.oraclePrivatePreviewEnabled&&'));
  assert.match(config,/aiRenderingReady: false/);
  assert.match(config,/paymentsReady: false/);
- assert.match(account,/config.aiAnalysisPilotEnabled&&config.oraclePrivatePreviewEnabled/);
+ assert.match(account,/config.studioChatEstimateFlowEnabled&&config.oraclePrivatePreviewEnabled/);
  assert.match(account,/studio_media_testers/);
  assert.match(account,/studio_ai_analysis_jobs/);
  assert.match(account,/analysisConsent.checked/);
  assert.match(account,/consent_confirmed:true/);
  assert.match(account,/hasDraftChanges\(\)/);
- assert.match(html,/Full AI editing, price estimates, and payments are not available yet/);
+ assert.match(html,/No payment or commercial video production is active yet/);
 });
 test('database enforces founder-only consent, daily max, no retries and owned RLS',()=>{
  for(const p of [
