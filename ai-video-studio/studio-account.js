@@ -109,7 +109,7 @@
     analysisConsentLabel,analysisButton,analysisStatus,analysisResult);
   actionsRow?.insertAdjacentElement('afterend',analysisPanel);
   function showAnalysisPanel(){
-    analysisPanel.hidden=!(config.oraclePrivatePreviewEnabled&&oracleTester&&
+    analysisPanel.hidden=!(config.aiAnalysisPilotEnabled&&config.oraclePrivatePreviewEnabled&&oracleTester&&
       currentUser&&agreementReady&&activeIntakeId);
     analysisButton.disabled=!analysisConsent.checked||!pilotReady()||
       Boolean(activeRenderId||activeAnalysisId||intakeBusy||hasDraftChanges());
@@ -311,7 +311,7 @@
     if(!error&&data?.[0])await watchAnalysis(data[0].id,activeIntakeId);
   }
   async function startAiAnalysis(){
-    if(!pilotReady()||activeAnalysisId||activeRenderId||intakeBusy||
+    if(!config.aiAnalysisPilotEnabled||!pilotReady()||activeAnalysisId||activeRenderId||intakeBusy||
        hasDraftChanges()||!analysisConsent.checked)return;
     const projectId=activeIntakeId;
     analysisResult.hidden=true;
