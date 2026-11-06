@@ -315,6 +315,7 @@
     finally{
       intakeBusy=false;if(action)action.disabled=false;
       if(newRequest)newRequest.disabled=false;
+      showPreviewAction(); // Unlock the pilot button after saving a new intake.
     }
   }
   // Capture before the old static preview submit handler (bubbling listener).
