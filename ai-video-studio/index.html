@@ -129,6 +129,32 @@
 .studio-ai-secondary[disabled]{opacity:.5;cursor:default}
 .studio-ai-result{border-top:1px solid #b7cbb9;padding-top:10px;display:grid;gap:7px}
 .studio-ai-result small{font-size:11px;line-height:1.5}
+
+/* In-chat request pricing. No secondary green button and no separate panel.
+   Rendered only when quoteConversationPilotEnabled is explicitly enabled. */
+.studio-thread-line.studio-quote-chat{align-self:flex-start;width:min(100%,620px);max-width:100%;
+ display:grid;gap:12px;background:#fffefa;color:#173e2d;padding:16px}
+.studio-quote-chat[hidden],.studio-quote-quality-options[hidden],
+.studio-quote-chat label[hidden]{display:none!important}
+.studio-quote-chat>strong{font-size:15px;text-transform:none;letter-spacing:normal}
+.studio-quote-chat>p{margin:0;font-size:13px;color:#476253}
+.studio-quote-quality-options{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.studio-quote-quality-choice{display:flex;justify-content:center;align-items:center;gap:7px;
+ border:1px solid #adc7b4;border-radius:12px;padding:12px 8px;background:#fbfaf6;cursor:pointer}
+.studio-quote-quality-choice:has(input:checked){background:#e3eee5;border-color:#1b5a3b}
+.studio-quote-quality-choice strong{font-size:12px!important;letter-spacing:normal!important;
+ text-transform:none!important}
+.studio-quote-quality-choice input{accent-color:#184934}
+.studio-quote-chat .studio-ai-consent{display:flex;align-items:flex-start;gap:9px;font-size:12px}
+.studio-quote-chat .studio-ai-consent input{flex:none;margin-top:3px;accent-color:#174332}
+.studio-quote-chat .studio-ai-result{border-top:1px solid #d7ded5;padding-top:10px}
+.studio-actions .action.is-estimating::before{content:'';display:inline-block;width:14px;height:14px;
+ vertical-align:-2px;margin-right:10px;border-radius:50%;border:2px solid rgba(255,255,255,.42);
+ border-top-color:white;animation:studio-quote-spin .7s linear infinite}
+@keyframes studio-quote-spin{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.studio-actions .action.is-estimating::before{animation:none}}
+@media(max-width:560px){.studio-quote-quality-options{grid-template-columns:1fr}
+ .studio-quote-quality-choice{justify-content:flex-start;padding:10px}}
 </style></head>
 <body><header class="header"><div class="wrap nav"><a class="brand" href="/" aria-label="MAH GPT Studio home"><svg viewBox="0 0 40 40" fill="none" aria-hidden="true"><rect x="4" y="11" width="32" height="25" rx="3" fill="#123d2a"/><path d="M2 8 32 2l2 7L4 15z" fill="#123d2a"/><path d="m9 6 4 5m5-7 4 5m5-7 4 5" stroke="#f7f2e9" stroke-width="3"/><path d="m17 18 11 6-11 6z" fill="#f7f2e9"/></svg><span>MAH GPT <i>Studio</i></span></a><nav class="nav-links" aria-label="Main navigation"><a href="#samples">Sample Videos</a><a href="#how">How It Works</a><a class="nav-ai-models" href="/ai-models/" aria-label="Explore AI Models">AI Models</a><button class="login" id="login" type="button" aria-haspopup="dialog" aria-controls="auth-dialog">Sign Up / Log In</button></nav></div></header>
 <main><section class="wrap hero"><div class="art" role="img" aria-label="A cinematic director's chair and film equipment"></div><div class="content"><div class="eyebrow">AI Video Studio</div><h1 style="font-size:clamp(28px,3vw,42px);margin-bottom:32px">Affordable Video Editing &amp; Motion Graphics.</h1>
@@ -421,8 +447,8 @@ document.getElementById('auth-email-submit').addEventListener('click', () => {
   message.textContent='The sign-in script has not initialized. No email was sent. Please reload this page or check your browser extensions.';
 }, true);
 </script>
-<script defer src="studio-config.js?v=20261106-ai-analysis1"></script>
+<script defer src="studio-config.js?v=20261106-quote-chat1"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0/dist/umd/supabase.js"></script>
 <script defer src="studio-media.js?v=20261106-inline-player1"></script>
-<script defer src="studio-account.js?v=20261106-ai-analysis1"></script>
+<script defer src="studio-account.js?v=20261106-quote-chat1"></script>
 </body></html>
