@@ -1,0 +1,21 @@
+name: Studio adaptive AI price safety gate
+on:
+  pull_request:
+    paths:
+      - "ai-video-studio/backend/pricing/**"
+      - ".github/workflows/studio-adaptive-price-gate.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  pricing-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: |
+          node --check ai-video-studio/backend/pricing/adaptive-model-router.mjs
+          node --test ai-video-studio/backend/pricing/quote-engine.test.mjs ai-video-studio/backend/pricing/adaptive-model-router.test.mjs
