@@ -172,9 +172,9 @@
     activeIntakeId&&currentUser&&agreementReady);}
   function showPreviewAction(){
     if(!action)return;
-    action.classList.toggle('is-estimating',Boolean(quoteConversationMode&&activeAnalysisId));
+    action.classList.toggle('is-estimating',Boolean(quoteConversationMode&&(activeAnalysisId||chatEstimatePending)));
     if(quoteConversationMode&&pilotReady()&&!activeRenderId){
-      if(activeAnalysisId){
+      if(activeAnalysisId||chatEstimatePending){
         action.textContent='Estimating your request…';
         action.disabled=true;
       }else if(hasDraftChanges()){
@@ -337,6 +337,7 @@
   }
   async function showCustomerQuote(projectId,jobId){
     if(!quoteConversationMode||activeIntakeId!==projectId)return;
+    analysisTitle.textContent='Your video estimate';
     customerQuote=null;
     analysisResult.replaceChildren();
     try{
@@ -421,10 +422,21 @@
   async function resumeAnalysis(){
     if(!pilotReady())return;
     const {data,error}=await api.from('studio_ai_analysis_jobs')
-      .select('id,status,quality').eq('project_id',activeIntakeId)
+      .select('id,status,quality,created_at').eq('project_id',activeIntakeId)
       .order('created_at',{ascending:false}).limit(1);
     if(!error&&data?.[0]){
       if(quoteConversationMode){
+        const lastMessage=await api.from('studio_intake_messages')
+          .select('created_at').eq('project_id',activeIntakeId)
+          .eq('role','user').order('created_at',{ascending:false}).limit(1);
+        const lastMedia=await api.from('studio_assets')
+          .select('created_at').eq('project_id',activeIntakeId)
+          .eq('status','ready').order('created_at',{ascending:false}).limit(1);
+        // If we cannot establish freshness, do not use a prior quote.
+        if(lastMessage.error||lastMedia.error)return;
+        const analyzedAt=Date.parse(data[0].created_at);
+        if(!Number.isFinite(analyzedAt)||[lastMessage.data?.[0],lastMedia.data?.[0]]
+           .some(x=>x&&Date.parse(x.created_at)>analyzedAt))return;
         analysisQuality.value=data[0].quality;
         for(const input of tierChoices.querySelectorAll('input[type="radio"]'))
           input.checked=input.value===data[0].quality;
@@ -433,14 +445,16 @@
     }
   }
   async function startAiAnalysis(){
-    if(!config.aiAnalysisPilotEnabled||!pilotReady()||activeAnalysisId||activeRenderId||intakeBusy||
+    if(!config.aiAnalysisPilotEnabled||!pilotReady()||activeAnalysisId||activeRenderId||intakeBusy||chatEstimatePending||
        hasDraftChanges()||!analysisConsent.checked)return;
     const projectId=activeIntakeId;
+    chatEstimatePending=true;
     customerQuote=null;
     analysisResult.hidden=true;
     analysisStatus.textContent=quoteConversationMode?'Preparing your estimate…':
       'Submitting your explicit, text-only Luna analysis request…';
     analysisButton.disabled=true;
+    showPreviewAction();
     try{
       const {data,error}=await api.from('studio_ai_analysis_jobs')
         .insert({project_id:projectId,quality:analysisQuality.value,
@@ -451,7 +465,7 @@
       await watchAnalysis(data.id,projectId);
     }catch(err){
       analysisStatus.textContent='Could not request AI analysis: '+err.message;
-    }finally{showPreviewAction();}
+    }finally{chatEstimatePending=false;showPreviewAction();}
   }
   analysisButton.addEventListener('click',()=>{void startAiAnalysis();});
   for(const id of ['idea','reference-url','image','video','audio']){
@@ -514,7 +528,7 @@
     if(intakeStatus)intakeStatus.hidden=true;
   }
   newRequest?.addEventListener('click',async()=>{
-    if(intakeBusy||activeRenderId||activeAnalysisId){status('Finish the current render or AI analysis before starting another request.');return;}
+    if(intakeBusy||activeRenderId||activeAnalysisId||chatEstimatePending){status('Finish the current render or AI analysis before starting another request.');return;}
     intakeBusy=true;newRequest.disabled=true;
     try{
       if(activeIntakeId){
@@ -593,7 +607,7 @@
     event.preventDefault();
     // The earlier static-preview handler must not overwrite real upload status.
     event.stopImmediatePropagation();
-    if(intakeBusy||activeRenderId||activeAnalysisId){status('Your current preview render or AI analysis must finish first.');return;}
+    if(intakeBusy||activeRenderId||activeAnalysisId||chatEstimatePending){status('Your current preview render or AI analysis must finish first.');return;}
     if(pilotReady()&&!hasDraftChanges()){
       if(quoteConversationMode){
         if(!currentQuoteAnalysisId&&analysisConsent.checked)await startAiAnalysis();
