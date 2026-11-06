@@ -20,10 +20,11 @@ const status=(reason)=>Object.freeze({status:'manual_review_required',reason,pub
  * Generated media cost is a separate operation; no free stock assumption.
  */
 export function calculateVerifiedStudioOffer({
- projectId,quality,analysis,verifiedPlan,rateCard,
+ projectId,analysisJobId,quality,analysis,verifiedPlan,rateCard,
  productionEnabled=false,commercialTermsApproved=false
 }={}){
- if(!uuid.test(projectId||''))throw Error('Owned project identifier required');
+ if(!uuid.test(projectId||'')||!uuid.test(analysisJobId||''))
+  throw Error('Owned project and analysis identifiers required');
  if(!TIERS.has(quality)||!analysis||!COMPLEXITIES.has(analysis.complexity)||
    !METHODS.has(analysis.productionApproach))
   throw Error('Validated analysis and quality tier required');
@@ -37,6 +38,7 @@ export function calculateVerifiedStudioOffer({
   return status('Production feasibility needs a human review');
  if(!verifiedPlan||verifiedPlan.reviewed!==true||
     verifiedPlan.projectId!==projectId||
+    verifiedPlan.analysisJobId!==analysisJobId||
     verifiedPlan.quality!==quality||
     verifiedPlan.durationSeconds!==analysis.estimatedDurationSeconds||
     verifiedPlan.method!==analysis.productionApproach||
@@ -73,7 +75,7 @@ export function calculateVerifiedStudioOffer({
   return Object.freeze({
    status:'quote_ready',
    publicQuote:Object.freeze({
-    projectId,currency:'USD',amountMinor:cents,quality,
+    projectId,analysisJobId,currency:'USD',amountMinor:cents,quality,
     // Not a payment request until an audited payment session exists.
     payable:false,checkoutUrl:null
    }),
