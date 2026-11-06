@@ -28,9 +28,9 @@ const request=(json,token='')=>new Request('https://mahgpt.com/api/studio/worker
  method:'POST',headers:{Authorization:token?'Bearer '+token:'',
   'Content-Type':'application/json'},body:JSON.stringify(json)
 });
-test('private AI queue stays OFF, no customers can use it without founder status',()=>{
+test('founder-only AI queue UI is opt-in; customer production remains OFF',()=>{
  assert.match(config,/aiAnalysisPilotEnabled: true/);
- assert.match(account,/config.aiAnalysisPilotEnabled\&\&config.oraclePrivatePreviewEnabled\&\&oracleTester/);
+ assert.ok(account.includes('config.aiAnalysisPilotEnabled&&config.oraclePrivatePreviewEnabled&&oracleTester'));
  assert.match(config,/aiRenderingReady: false/);
  assert.match(config,/paymentsReady: false/);
  assert.match(account,/config.aiAnalysisPilotEnabled&&config.oraclePrivatePreviewEnabled/);
