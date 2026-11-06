@@ -273,13 +273,15 @@
       heading.textContent='Your '+qualityName+' video estimate';
       details.textContent='$'+data.amount+' USD · Your final quoted price, including our production costs and margin. No payment has been collected.';
       analysisResult.append(heading,details);
-      // Real payment + render MUST be available before adding a checkout CTA.
-      // No fabricated "Pay and create video" button, URL or authorization.
-      if(data.paymentReady===true&&config.paymentsReady&&config.aiRenderingReady){
-        const note=document.createElement('small');
-        note.textContent='Secure checkout will appear when a verified payment session is available.';
-        analysisResult.append(note);
-      }
+      const pay=document.createElement('button');
+      pay.type='button';pay.className='studio-ai-secondary studio-ai-pay';
+      pay.textContent='Pay and create video';
+      // Intentionally disabled until a real checkout, payment verification,
+      // and authorized production handoff have been implemented and audited.
+      pay.disabled=true;pay.setAttribute('aria-disabled','true');
+      const note=document.createElement('small');
+      note.textContent='Secure payment and video production are not enabled yet.';
+      analysisResult.append(pay,note);
     }else{
       heading.textContent='Your request has been reviewed';
       details.textContent=typeof data?.message==='string'&&data.message.length<350?
@@ -411,7 +413,7 @@
     const line=document.createElement('div');
     line.className='studio-thread-line '+(who==='user'?'from-user':'from-system');
     const mark=document.createElement('strong');
-    mark.textContent=who==='user'?'You':'Studio status';
+    mark.textContent=who==='user'?'You':'MAH GPT Studio';
     const content=document.createElement('p');
     content.textContent=text;
     line.append(mark,content);
@@ -513,8 +515,11 @@
     try{await showIntakeFiles();}catch(e){status('Private files could not be loaded: '+e.message)}
     await resumeRender();
     await resumeAnalysis();
-    if(messages?.length && !activeRenderId)
-      status('Your request is saved. Choose a video quality in the conversation to request your price.');
+    if(messages?.length && !activeRenderId){
+      if(config.studioChatEstimateFlowEnabled){
+        if(intakeStatus)intakeStatus.hidden=true;
+      }else status('Your private request is ready.');
+    }
   }
   async function submitIntake(event){
     event.preventDefault();
@@ -605,7 +610,7 @@
       if(config.studioChatEstimateFlowEnabled&&oracleTester){
         analysisFinished=false;analysisResult.replaceChildren();analysisResult.hidden=true;
         analysisStatus.textContent='';analysisConsent.checked=false;
-        status('Request saved. Choose a quality and request your cost estimate in this conversation.');
+        if(intakeStatus)intakeStatus.hidden=true;
       }else{
         status('Request saved privately. Full production and payment are not available yet.');
       }
