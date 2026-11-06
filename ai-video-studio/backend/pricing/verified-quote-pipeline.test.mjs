@@ -3,10 +3,11 @@ import assert from 'node:assert/strict';
 import {calculateVerifiedStudioOffer} from './verified-quote-pipeline.mjs';
 
 const projectId='b9618c79-e75e-476f-97c1-e383f5e32462';
+const analysisJobId='b9618c79-e75e-476f-97c1-e383f5e32463';
 const analysis={complexity:'moderate',productionApproach:'template_motion_graphics',
  estimatedDurationSeconds:15,needsReview:false};
 const verifiedPlan={
- reviewed:true,availableInCloud:true,projectId,quality:'normal',durationSeconds:15,
+ reviewed:true,availableInCloud:true,projectId,analysisJobId,quality:'normal',durationSeconds:15,
  method:'template_motion_graphics',
  requiredMediaSourceIds:['shot-a','shot-b','shot-c','music-a'],
  mediaSources:[{sourceId:'shot-a',commercialRightsVerified:true,costCoveredByOperations:true},
@@ -24,7 +25,7 @@ const rateCard={
   overheadUSDPerOrder:2,minimumSaleUSD:1}
 };
 const run=overrides=>calculateVerifiedStudioOffer({
- projectId,quality:'normal',analysis,verifiedPlan,rateCard,
+ projectId,analysisJobId,quality:'normal',analysis,verifiedPlan,rateCard,
  productionEnabled:true,commercialTermsApproved:true,...overrides
 });
 test('rejects unsupported public AI production until actually ready',()=>{
@@ -51,6 +52,7 @@ test('seller amount includes reserve, overhead, processing and 40% profit margin
  // Formula: ((7 * 1.2)+2+0.3)/(1-0.4-0.03)=$18.77 -> rounded up
  assert.equal(result.publicQuote.amountMinor,1878);
  assert.equal(result.publicQuote.payable,false);
+ assert.equal(result.publicQuote.analysisJobId,analysisJobId);
  assert.equal(result.publicQuote.checkoutUrl,null);
  assert.equal(result.internalAudit.vendorCostUSD,7);
  assert.equal(result.internalAudit.coveredCostsUSD,10.4);
