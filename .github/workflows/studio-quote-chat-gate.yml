@@ -1,0 +1,29 @@
+name: Studio verified-price and conversation quote gate
+on:
+  pull_request:
+    paths:
+      - "ai-video-studio/studio-account.js"
+      - "ai-video-studio/studio-config.js"
+      - "ai-video-studio/index.html"
+      - "ai-video-studio/backend/pricing/**"
+      - "ai-video-studio/backend/supabase/010_private_ai_quote_columns.sql"
+      - "tests/studio-quote-chat.test.mjs"
+      - "tests/studio-inline-preview.test.mjs"
+      - ".github/workflows/studio-quote-chat-gate.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  quote-customer-privacy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: |
+          node --check ai-video-studio/studio-account.js
+          node --check ai-video-studio/studio-config.js
+          node --check ai-video-studio/backend/pricing/verified-quote-pipeline.mjs
+          node --test tests/studio-quote-chat.test.mjs tests/studio-inline-preview.test.mjs ai-video-studio/backend/pricing/quote-engine.test.mjs ai-video-studio/backend/pricing/verified-quote-pipeline.test.mjs
