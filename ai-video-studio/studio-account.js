@@ -64,6 +64,15 @@
   // The finished video appears above the text composer, like a studio reply.
   thread?.insertAdjacentElement('afterend',resultPanel);
   function renderNotice(message){renderInfo.hidden=false;renderInfo.textContent=message;}
+  // Customer-facing quote UX is independently gated until actual production
+  // costs, media rights and the payment provider are verified.
+  const quoteConversationMode=Boolean(config.quoteConversationPilotEnabled&&config.aiAnalysisPilotEnabled);
+  let currentQuoteAnalysisId=null;
+  let customerQuote=null;
+  let chatEstimatePending=false;
+  const qualityLabels=Object.freeze({
+    normal:'Normal',semi_professional:'Semi-professional',professional:'Professional'
+  });
   // Separate, explicit founder-only AI analysis step. It never starts rendering
   // or charges a customer. The saved brief (not attachments) goes to OpenAI only
   // after an opt-in click; RLS enforces eligibility and daily rate limits.
@@ -107,17 +116,52 @@
   analysisResult.hidden=true;
   analysisPanel.append(analysisTitle,analysisDescription,analysisQualityLabel,
     analysisConsentLabel,analysisButton,analysisStatus,analysisResult);
-  actionsRow?.insertAdjacentElement('afterend',analysisPanel);
+  const tierChoices=document.createElement('div');
+  tierChoices.className='studio-quote-quality-options';
+  for(const [value,label] of Object.entries(qualityLabels)){
+    const wrapper=document.createElement('label');
+    wrapper.className='studio-quote-quality-choice';
+    const radio=document.createElement('input');
+    radio.type='radio';radio.name='studio-quote-quality';radio.value=value;
+    radio.checked=value==='normal';
+    radio.addEventListener('change',()=>{
+      if(radio.checked){analysisQuality.value=value;showPreviewAction();}
+    });
+    const name=document.createElement('strong');name.textContent=label;
+    wrapper.append(radio,name);tierChoices.append(wrapper);
+  }
+  if(quoteConversationMode){
+    analysisPanel.className='studio-thread-line from-system studio-quote-chat';
+    analysisTitle.textContent='Choose your video quality';
+    analysisDescription.textContent='We will calculate the total price before any production begins.';
+    consentText.textContent='I agree to securely send only my saved description for an AI-assisted estimate. Uploaded files will not be sent.';
+    analysisQualityLabel.hidden=true;
+    analysisButton.hidden=true;
+    analysisPanel.insertBefore(tierChoices,analysisConsentLabel);
+  }else{
+    actionsRow?.insertAdjacentElement('afterend',analysisPanel);
+  }
   function showAnalysisPanel(){
-    analysisPanel.hidden=!(config.aiAnalysisPilotEnabled&&config.oraclePrivatePreviewEnabled&&oracleTester&&
-      currentUser&&agreementReady&&activeIntakeId);
+    const visible=Boolean(config.aiAnalysisPilotEnabled&&config.oraclePrivatePreviewEnabled&&
+      oracleTester&&currentUser&&agreementReady&&activeIntakeId);
+    analysisPanel.hidden=!visible;
+    if(quoteConversationMode){
+      if(visible&&thread){
+        if(analysisPanel.parentNode!==thread)thread.append(analysisPanel);
+        thread.hidden=false;
+      }
+      tierChoices.hidden=Boolean(currentQuoteAnalysisId);
+      analysisConsentLabel.hidden=Boolean(currentQuoteAnalysisId);
+      analysisButton.disabled=true;
+      return;
+    }
     analysisButton.disabled=!analysisConsent.checked||!pilotReady()||
       Boolean(activeRenderId||activeAnalysisId||intakeBusy||hasDraftChanges());
     if(pilotReady()&&hasDraftChanges()&&!activeAnalysisId){
       analysisStatus.textContent='Save your latest brief changes before requesting AI analysis.';
     }
   }
-  analysisConsent.addEventListener('change',showAnalysisPanel);
+  analysisConsent.addEventListener('change',showPreviewAction);
 
 
   function hasDraftChanges(){
@@ -128,6 +172,28 @@
     activeIntakeId&&currentUser&&agreementReady);}
   function showPreviewAction(){
     if(!action)return;
+    action.classList.toggle('is-estimating',Boolean(quoteConversationMode&&activeAnalysisId));
+    if(quoteConversationMode&&pilotReady()&&!activeRenderId){
+      if(activeAnalysisId){
+        action.textContent='Estimating your request…';
+        action.disabled=true;
+      }else if(hasDraftChanges()){
+        action.textContent='Save request changes';
+        action.disabled=intakeBusy;
+      }else if(customerQuote){
+        action.textContent=config.paymentsReady?'Continue to secure payment':'Payment is not available yet';
+        // No checkout sessions are implemented. Never imply payment works.
+        action.disabled=true;
+      }else if(currentQuoteAnalysisId){
+        action.textContent='Estimate pending confirmation';
+        action.disabled=true;
+      }else{
+        action.textContent='Estimate the cost of your request';
+        action.disabled=intakeBusy||!analysisConsent.checked;
+      }
+      showAnalysisPanel();
+      return;
+    }
     if(activeRenderId){
       action.textContent='Creating your 8-second preview…';
       action.disabled=true;
@@ -245,6 +311,7 @@
   }
 
   function showAnalysisResult(data){
+    if(quoteConversationMode)return; // AI tokens/method/cost are NEVER customer-facing.
     analysisResult.replaceChildren();
     const details=data.analysis;
     if(!details||typeof details!=='object')return;
@@ -268,6 +335,44 @@
     analysisResult.append(heading,body,note,tokens);
     analysisResult.hidden=false;
   }
+  async function showCustomerQuote(projectId,jobId){
+    if(!quoteConversationMode||activeIntakeId!==projectId)return;
+    customerQuote=null;
+    analysisResult.replaceChildren();
+    try{
+      const {data,error}=await api.from('studio_quotes')
+        .select('id,status,currency,amount_minor,quality,analysis_job_id,expires_at')
+        .eq('project_id',projectId).eq('analysis_job_id',jobId)
+        .eq('quality',analysisQuality.value).eq('status','quoted')
+        .gt('expires_at',new Date().toISOString())
+        .order('created_at',{ascending:false}).limit(1);
+      if(error)throw error;
+      const q=data?.[0];
+      if(q&&q.currency==='USD'&&Number.isSafeInteger(q.amount_minor)&&
+        q.amount_minor>=100&&q.amount_minor<=1000000){
+        customerQuote={id:q.id,amountMinor:q.amount_minor,quality:q.quality};
+        const title=document.createElement('strong');
+        title.textContent='Your '+qualityLabels[q.quality]+' video estimate: $'+
+          (q.amount_minor/100).toFixed(2);
+        const explanation=document.createElement('p');
+        explanation.textContent='Total price for the proposed production package. No work begins until you approve and complete payment.';
+        analysisResult.append(title,explanation);
+        analysisStatus.textContent=config.paymentsReady?
+          'Your final estimate is available. Secure checkout will be enabled after launch.':
+          'Your estimate is ready. Online payment is not yet available.';
+      }else{
+        const notice=document.createElement('p');
+        notice.textContent='We have received your request. The final price cannot be confirmed until production costs and media licenses are verified.';
+        analysisResult.append(notice);
+        analysisStatus.textContent='Awaiting a verified production estimate. No payment or rendering has started.';
+      }
+      analysisResult.hidden=false;
+    }catch(_err){
+      analysisStatus.textContent='A verified price is not available yet. No production or payment was started.';
+      analysisResult.hidden=true;
+    }
+    showPreviewAction();
+  }
   async function watchAnalysis(jobId,projectId=activeIntakeId){
     if(analysisPoll)clearInterval(analysisPoll);
     activeAnalysisId=jobId;showPreviewAction();
@@ -276,25 +381,35 @@
         if(analysisPoll)clearInterval(analysisPoll);
         analysisPoll=null;activeAnalysisId=null;return;
       }
+      const columns=quoteConversationMode?'id,status,error_code':
+        'id,status,error_code,analysis,input_tokens,output_tokens,estimated_cost_usd';
       const {data,error}=await api.from('studio_ai_analysis_jobs')
-        .select('id,status,error_code,analysis,input_tokens,output_tokens,estimated_cost_usd')
-        .eq('id',jobId).eq('project_id',projectId).maybeSingle();
+        .select(columns).eq('id',jobId).eq('project_id',projectId).maybeSingle();
       if(error||!data){
         analysisStatus.textContent='Unable to refresh private AI analysis status.';
         return;
       }
-      if(data.status==='queued')analysisStatus.textContent='Luna analysis queued privately.';
-      if(data.status==='analyzing')analysisStatus.textContent='Luna is analyzing your saved brief.';
+      if(data.status==='queued')analysisStatus.textContent=quoteConversationMode?
+        'Your estimate is queued.':'Luna analysis queued privately.';
+      if(data.status==='analyzing')analysisStatus.textContent=quoteConversationMode?
+        'Preparing your estimate…':'Luna is analyzing your saved brief.';
       if(data.status==='completed'||data.status==='failed'){
         if(analysisPoll)clearInterval(analysisPoll);
         analysisPoll=null;activeAnalysisId=null;
         if(data.status==='completed'){
-          analysisStatus.textContent='Analysis ready. No video production or payment was started.';
-          showAnalysisResult(data);
+          if(quoteConversationMode){
+            currentQuoteAnalysisId=jobId;
+            await showCustomerQuote(projectId,jobId);
+          }else{
+            analysisStatus.textContent='Analysis ready. No video production or payment was started.';
+            showAnalysisResult(data);
+          }
         }else{
-          analysisStatus.textContent='Analysis did not finish ('+
-            String(data.error_code||'analysis_failed')+
-            '). No production was started. Failed calls are never automatically retried.';
+          analysisStatus.textContent=quoteConversationMode?
+            'We could not prepare this estimate. No payment or production was started.':
+            'Analysis did not finish ('+String(data.error_code||'analysis_failed')+
+              '). No production was started. Failed calls are never automatically retried.';
+          if(quoteConversationMode)currentQuoteAnalysisId=jobId;
           analysisResult.hidden=true;
         }
         showPreviewAction();
@@ -306,16 +421,25 @@
   async function resumeAnalysis(){
     if(!pilotReady())return;
     const {data,error}=await api.from('studio_ai_analysis_jobs')
-      .select('id,status').eq('project_id',activeIntakeId)
+      .select('id,status,quality').eq('project_id',activeIntakeId)
       .order('created_at',{ascending:false}).limit(1);
-    if(!error&&data?.[0])await watchAnalysis(data[0].id,activeIntakeId);
+    if(!error&&data?.[0]){
+      if(quoteConversationMode){
+        analysisQuality.value=data[0].quality;
+        for(const input of tierChoices.querySelectorAll('input[type="radio"]'))
+          input.checked=input.value===data[0].quality;
+      }
+      await watchAnalysis(data[0].id,activeIntakeId);
+    }
   }
   async function startAiAnalysis(){
     if(!config.aiAnalysisPilotEnabled||!pilotReady()||activeAnalysisId||activeRenderId||intakeBusy||
        hasDraftChanges()||!analysisConsent.checked)return;
     const projectId=activeIntakeId;
+    customerQuote=null;
     analysisResult.hidden=true;
-    analysisStatus.textContent='Submitting your explicit, text-only Luna analysis request…';
+    analysisStatus.textContent=quoteConversationMode?'Preparing your estimate…':
+      'Submitting your explicit, text-only Luna analysis request…';
     analysisButton.disabled=true;
     try{
       const {data,error}=await api.from('studio_ai_analysis_jobs')
@@ -370,6 +494,7 @@
   }
   function resetComposer(){
     clearInlinePreview();
+    currentQuoteAnalysisId=null;customerQuote=null;chatEstimatePending=false;
     if(analysisPoll)clearInterval(analysisPoll);
     analysisPoll=null;activeAnalysisId=null;
     analysisResult.replaceChildren();analysisResult.hidden=true;
@@ -458,6 +583,7 @@
       .select('body').eq('project_id',id).order('created_at').limit(30);
     if(thread){thread.replaceChildren();thread.hidden=true;}
     (messages||[]).forEach(m=>addThreadLine(m.body));
+    showPreviewAction(); // Re-attach quote options after restoring chat messages.
     try{await showIntakeFiles();}catch(e){status('Private files could not be loaded: '+e.message)}
     await resumeRender();
     await resumeAnalysis();
@@ -468,7 +594,13 @@
     // The earlier static-preview handler must not overwrite real upload status.
     event.stopImmediatePropagation();
     if(intakeBusy||activeRenderId||activeAnalysisId){status('Your current preview render or AI analysis must finish first.');return;}
-    if(pilotReady()&&!hasDraftChanges()){await startPilotRender();return;}
+    if(pilotReady()&&!hasDraftChanges()){
+      if(quoteConversationMode){
+        if(!currentQuoteAnalysisId&&analysisConsent.checked)await startAiAnalysis();
+        return;
+      }
+      await startPilotRender();return;
+    }
     if(!currentUser||!agreementReady){
       openAuth();
       status('Sign in to submit your request securely. Text and files have not been sent.');
@@ -541,8 +673,18 @@
       syncMediaConsent();
       if(rightsCheck)rightsCheck.checked=false;
       if(message)document.getElementById('idea').value='';
+      if(quoteConversationMode){
+        currentQuoteAnalysisId=null;customerQuote=null;
+        analysisResult.replaceChildren();analysisResult.hidden=true;
+        analysisStatus.textContent='';
+        analysisConsent.checked=false;
+      }
       await showIntakeFiles();
-      status(config.oraclePrivatePreviewEnabled && oracleTester?'Request saved. Use the main button to create a free 8-second technical test video. AI editing and payment are not active.':'Request saved privately in this conversation. Video editing, AI replies, quotes and payments are not active yet.');
+      status(quoteConversationMode?
+        'Your request was saved. Choose a quality level and confirm consent in the conversation to estimate its cost.':
+        (config.oraclePrivatePreviewEnabled && oracleTester?
+        'Request saved. Use the main button to create a free 8-second technical test video. AI editing and payment are not active.':
+        'Request saved privately in this conversation. Video editing, AI replies, quotes and payments are not active yet.'));
        showPreviewAction();
       // This is a real status notice, NOT a fabricated AI reply.
     }catch(err){status('Could not complete the request: '+err.message)}
