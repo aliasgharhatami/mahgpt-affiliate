@@ -114,6 +114,21 @@
 .studio-result-actions button{background:#123d2a;color:white;border:1px solid #123d2a;border-radius:999px;padding:11px 18px;font-weight:600;font-size:13px}
 .studio-result-actions button+button{background:transparent;color:#123d2a}
 .studio-result-actions button[disabled]{opacity:.5;cursor:wait}
+
+.studio-ai-panel{margin:12px 0 16px;padding:18px;border:1px solid #b7cbb9;
+ background:#f6f7ef;border-radius:12px;display:grid;gap:10px;color:#174332}
+.studio-ai-panel[hidden],.studio-ai-result[hidden]{display:none!important}
+.studio-ai-panel strong{font-size:14px}
+.studio-ai-panel p{margin:0;font-size:12px;line-height:1.6}
+.studio-ai-panel label{display:flex;gap:9px;align-items:center;font-size:12px;line-height:1.5}
+.studio-ai-panel select{padding:7px;border:1px solid #a6b8ac;background:white;border-radius:7px}
+.studio-ai-consent{align-items:flex-start!important}
+.studio-ai-consent input{margin-top:3px}
+.studio-ai-secondary{justify-self:start;border:1px solid #174332;background:transparent;color:#174332;
+ font-weight:650;border-radius:9px;padding:10px 14px;cursor:pointer}
+.studio-ai-secondary[disabled]{opacity:.5;cursor:default}
+.studio-ai-result{border-top:1px solid #b7cbb9;padding-top:10px;display:grid;gap:7px}
+.studio-ai-result small{font-size:11px;line-height:1.5}
 </style></head>
 <body><header class="header"><div class="wrap nav"><a class="brand" href="/" aria-label="MAH GPT Studio home"><svg viewBox="0 0 40 40" fill="none" aria-hidden="true"><rect x="4" y="11" width="32" height="25" rx="3" fill="#123d2a"/><path d="M2 8 32 2l2 7L4 15z" fill="#123d2a"/><path d="m9 6 4 5m5-7 4 5m5-7 4 5" stroke="#f7f2e9" stroke-width="3"/><path d="m17 18 11 6-11 6z" fill="#f7f2e9"/></svg><span>MAH GPT <i>Studio</i></span></a><nav class="nav-links" aria-label="Main navigation"><a href="#samples">Sample Videos</a><a href="#how">How It Works</a><a class="nav-ai-models" href="/ai-models/" aria-label="Explore AI Models">AI Models</a><button class="login" id="login" type="button" aria-haspopup="dialog" aria-controls="auth-dialog">Sign Up / Log In</button></nav></div></header>
 <main><section class="wrap hero"><div class="art" role="img" aria-label="A cinematic director's chair and film equipment"></div><div class="content"><div class="eyebrow">AI Video Studio</div><h1 style="font-size:clamp(28px,3vw,42px);margin-bottom:32px">Affordable Video Editing &amp; Motion Graphics.</h1>
