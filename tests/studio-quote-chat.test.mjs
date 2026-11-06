@@ -57,7 +57,7 @@ test('SQL stage limits browser access to public columns; cost, tokens and AI pla
  'revoke select on public.studio_ai_analysis_jobs from authenticated',
  'grant select(id,project_id,quality,status,error_code,created_at,completed_at)',
  'analysis_job_id uuid','grant select(id,project_id,status,currency,amount_minor',
- 'from public.studio_quotes to authenticated'
+ 'on public.studio_quotes to authenticated'
  ])assert.ok(sql.includes(s),s);
  assert.ok(!sql.includes('grant select(analysis,input_tokens'));
  assert.ok(!sql.includes('grant update'));
