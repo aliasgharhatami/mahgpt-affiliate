@@ -347,7 +347,7 @@
   // Avoid accidental closing on backdrop taps. Close via X or Escape only.
   check.addEventListener('change',authButtons);
   previewNote.textContent=enabled ?
-    'Email registration is open. Private media upload is limited to one test account; AI editing, payment and rendering are not yet active.' :
+    'Email registration is open. A private 8-second Oracle preview is available to the founder test account only; full AI editing and payments are not yet active.' :
     'Accounts are not enabled yet. No account or consent record is created here.';
   authButtons();
   if(emailCallbackError){
