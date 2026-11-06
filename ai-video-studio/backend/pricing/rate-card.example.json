@@ -1,5 +1,5 @@
 {
-  "_note": "REFERENCE ONLY. Do not use this directly in live billing; missing media/render rates MUST be measured.",
+  "_note": "REFERENCE ONLY: not live billing. Verify provider rates and zero-cost quota before enabling. Studio retail floor $1; no $29 fixed tier. Missing costs MUST NOT default to zero.",
   "_modelPriceSource": "https://developers.openai.com/api/docs/pricing",
   "version": "2026-11-02-draft",
   "models": {
@@ -35,6 +35,6 @@
     "paymentFeeFraction": 0,
     "paymentFeeFixedUSD": 0,
     "overheadUSDPerOrder": 0,
-    "minimumSaleUSD": 0
+    "minimumSaleUSD": 1
   }
 }
