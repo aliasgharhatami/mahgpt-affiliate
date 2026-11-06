@@ -1,3 +1,4 @@
+// Production sync after verified founder-only inline MP4 UI release; behavior and secrets unchanged.
 // Browser-visible configuration only. Never put a Supabase secret/service-role key here.
 // Public email beta: owner connected verified mahgpt.com domain to Resend SMTP.
 // Real Google OAuth remains server-controlled and must be configured in Google Cloud and Supabase.
